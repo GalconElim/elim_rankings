@@ -2,15 +2,15 @@
     "records": [
     {
       "alias": "Vadim",
-      "score": "1300"
+      "score": "1548"
     },
     {
       "alias": "Saand",
-      "score": "1000"
+      "score": "1429"
     },
     {
       "alias": "AlGalcone",
-      "score": "500"
+      "score": "1069"
     }
   ],
   "queryRecordCount": 3,
