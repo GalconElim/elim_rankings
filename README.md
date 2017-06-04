@@ -6,7 +6,7 @@
     },
     {
       "alias": "Saand",
-      "score": "1300"
+      "score": "1000"
     },
     {
       "alias": "AlGalcone",
