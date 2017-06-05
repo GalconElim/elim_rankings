@@ -1,18 +1,1 @@
-{
-    "records": [
-    {
-      "alias": "Vadim",
-      "score": "1548"
-    },
-    {
-      "alias": "Saand",
-      "score": "1429"
-    },
-    {
-      "alias": "AlGalcone",
-      "score": "1069"
-    }
-  ],
-  "queryRecordCount": 3,
-  "totalRecordCount": 3
-}
+{"records":[{"rating":1548, "alias":"Vadim1707", "ratingdelta":-1, "activity":1507, "score":1000}, {"rating":1514, "alias":"TangyChief~218", "ratingdelta":"+3", "activity":795, "score":824}, {"rating":1490, "alias":"Joe_Shome123", "ratingdelta":0, "activity":1721, "score":715}, {"rating":1468, "alias":"waffle3z", "ratingdelta":-2, "activity":868, "score":631}, {"rating":1450, "alias":"Symsymmy", "ratingdelta":"+10", "activity":2931, "score":570}, {"rating":1444, "alias":"MusCu", "ratingdelta":0, "activity":201, "score":551}, {"rating":1439, "alias":"Parko", "ratingdelta":0, "activity":560, "score":535}, {"rating":1429, "alias":"Hal-53616e64", "ratingdelta":0, "activity":1277, "score":504}, {"rating":1402, "alias":"JDHA218", "ratingdelta":0, "activity":876, "score":432}, {"rating":1385, "alias":"waffle~3z", "ratingdelta":-13, "activity":984, "score":392}, {"rating":1384, "alias":"Captain-Levi", "ratingdelta":0, "activity":479, "score":389}, {"rating":1375, "alias":"pablo55", "ratingdelta":"+4", "activity":256, "score":369}, {"rating":1361, "alias":"GoOody", "ratingdelta":0, "activity":1950, "score":341}, {"rating":1347, "alias":"vip_genius", "ratingdelta":0, "activity":319, "score":315}, {"rating":1333, "alias":"bejut", "ratingdelta":"+4", "activity":1387, "score":291}, {"rating":1330, "alias":"pyro-", "ratingdelta":0, "activity":181, "score":285}, {"rating":1329, "alias":"like.a.ninja", "ratingdelta":0, "activity":166, "score":284}, {"rating":1321, "alias":"ss0317", "ratingdelta":-3, "activity":680, "score":271}, {"rating":1318, "alias":"BenjiKozor", "ratingdelta":0, "activity":920, "score":266}, {"rating":1316, "alias":"GoodAce", "ratingdelta":-1, "activity":905, "score":264}, {"rating":1315, "alias":"xMilly", "ratingdelta":"+2", "activity":532, "score":262}, {"rating":1312, "alias":"mills14", "ratingdelta":0, "activity":271, "score":257}, {"rating":1302, "alias":"NosyToast~892", "ratingdelta":0, "activity":490, "score":243}, {"rating":1298, "alias":"zeropoint", "ratingdelta":0, "activity":372, "score":238}, {"rating":1296, "alias":"Guacninja", "ratingdelta":-10, "activity":218, "score":234}, {"rating":1284, "alias":"Uranus-98", "ratingdelta":0, "activity":776, "score":219}, {"rating":1270, "alias":"NinjaBooM", "ratingdelta":0, "activity":245, "score":202}, {"rating":1256, "alias":"katudondayo", "ratingdelta":-1, "activity":246, "score":186}, {"rating":1251, "alias":"duruti", "ratingdelta":"+13", "activity":1211, "score":181}, {"rating":1245, "alias":"icomeinpeece", "ratingdelta":0, "activity":234, "score":175}, {"rating":1229, "alias":"Gallanda", "ratingdelta":"+3", "activity":469, "score":160}, {"rating":1219, "alias":"keyblade335", "ratingdelta":-5, "activity":266, "score":151}, {"rating":1207, "alias":"ciubaka", "ratingdelta":0, "activity":526, "score":140}, {"rating":1193, "alias":"Aeon_", "ratingdelta":0, "activity":182, "score":130}, {"rating":1191, "alias":"GenghisCon", "ratingdelta":0, "activity":214, "score":128}, {"rating":1187, "alias":"Sondair", "ratingdelta":-6, "activity":491, "score":126}, {"rating":1172, "alias":"CoolFaucet~518", "ratingdelta":-22, "activity":813, "score":115}, {"rating":1134, "alias":"rickss", "ratingdelta":0, "activity":675, "score":92}, {"rating":1123, "alias":"quickmill", "ratingdelta":"+2", "activity":173, "score":87}, {"rating":1111, "alias":"monguesto", "ratingdelta":-9, "activity":406, "score":81}, {"rating":1108, "alias":"x-Carbon-x", "ratingdelta":0, "activity":125, "score":80}, {"rating":1069, "alias":"AlGalcone", "ratingdelta":-1, "activity":1006, "score":64}, {"rating":969, "alias":"Ares8", "ratingdelta":0, "activity":582, "score":36}]}
