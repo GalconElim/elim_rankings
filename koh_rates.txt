@@ -1,207 +1,236 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #xMilly (1400) -10<br>
-+12|+1|-24|-44|-29|-29|+8|+27|-9|-11<br>
+1. #xMilly (1396) -4<br>
++8|-2|-27|-48|-33|-32|+5|+23|-13|-14<br>
 	2. MadDookie (3:3)<br>
-	3. TangyChief~218 (7:4)<br>
-	6. slovski (7:4)<br>
+	3. TangyChief~218 (7:5)<br>
+	4. slovski (4:1)<br>
+	5. Bran (4:2)<br>
+	6. Meg.atome (4:0)<br>
 	7. Kitini (0:2)<br>
-	9. Thor. (3:2)<br>
+	8. cecil.czg (3:1)<br>
+	10. Thor. (2:2)<br>
 <br>
-2. #MadDookie (1369) +8<br>
-+40|+29|-8|-1|+14|+40|+35|+46|+18|+14<br>
+2. #MadDookie (1374) +5<br>
++45|+34|-3|+4|+19|+45|+40|+51|+23|+19<br>
 	1. xMilly (3:3)<br>
-	3. TangyChief~218 (11:3)<br>
-	6. slovski (2:1)<br>
+	3. TangyChief~218 (12:3)<br>
+	4. slovski (2:1)<br>
+	5. Bran (6:0)<br>
+	6. Meg.atome (6:1)<br>
 	7. Kitini (3:2)<br>
-	8. bittertater (0:1)<br>
-	9. Thor. (12:3)<br>
-	10. ToxicVest~126 (0:2)<br>
+	8. cecil.czg (24:9)<br>
+	9. bittertater (0:1)<br>
+	10. Thor. (12:3)<br>
 <br>
-3. #TangyChief~218 (1366) +55<br>
-+130|+143|+63|+67<br>
-	1. xMilly (4:7)<br>
-	2. MadDookie (3:11)<br>
-	6. slovski (1:0)<br>
-	7. Kitini (11:6)<br>
-	9. Thor. (2:1)<br>
+3. #TangyChief~218 (1363) -3<br>
++126|+139|+60|+64<br>
+	1. xMilly (5:7)<br>
+	2. MadDookie (3:12)<br>
+	4. slovski (1:0)<br>
+	5. Bran (8:4)<br>
+	6. Meg.atome (3:2)<br>
+	7. Kitini (16:8)<br>
+	10. Thor. (2:1)<br>
 <br>
-4. #SparkyPlane (1288) +1<br>
-+1|0|-18|+1|+26|+24|+12|0|-1|-1<br>
-	5. k7d5 (9:13)<br>
-	6. slovski (1:0)<br>
-	7. Kitini (1:0)<br>
-	8. bittertater (6:4)<br>
-	10. ToxicVest~126 (0:2)<br>
-<br>
-5. #k7d5 (1277) -1<br>
-+94|+128|+96|+94|+146|+130|+93|+81|+63|+51<br>
-	4. SparkyPlane (13:9)<br>
-	8. bittertater (5:5)<br>
-<br>
-6. #slovski (1273) +2<br>
+4. #slovski (1273) 0<br>
 -43|-3|+25|+90|+69|+97|+76|+37|+4|-4<br>
-	1. xMilly (4:7)<br>
+	1. xMilly (1:4)<br>
 	2. MadDookie (1:2)<br>
 	3. TangyChief~218 (0:1)<br>
-	4. SparkyPlane (0:1)<br>
-	9. Thor. (1:2)<br>
+	8. cecil.czg (1:0)<br>
+	10. Thor. (0:2)<br>
 <br>
-7. #Kitini (1219) +27<br>
-+61|-53|+33|+106|+33|+33|+17<br>
+5. #Bran (1243) +7<br>
++56|+101|+24|+78|+58|+56|+28|+9<br>
+	1. xMilly (2:4)<br>
+	2. MadDookie (0:6)<br>
+	3. TangyChief~218 (4:8)<br>
+	6. Meg.atome (5:4)<br>
+	7. Kitini (2:0)<br>
+	10. Thor. (0:1)<br>
+<br>
+6. #Meg.atome (1240) -2<br>
++93|+89|+64|+71|0|+13|+1|-15|-29|-15<br>
+	1. xMilly (0:4)<br>
+	2. MadDookie (1:6)<br>
+	3. TangyChief~218 (2:3)<br>
+	5. Bran (4:5)<br>
+	7. Kitini (1:0)<br>
+	8. cecil.czg (0:1)<br>
+	9. bittertater (1:2)<br>
+<br>
+7. #Kitini (1226) +8<br>
++68|-46|+41|+114|+41|+41|+25<br>
 	1. xMilly (2:0)<br>
 	2. MadDookie (2:3)<br>
-	3. TangyChief~218 (6:11)<br>
-	4. SparkyPlane (0:1)<br>
+	3. TangyChief~218 (8:16)<br>
+	5. Bran (0:2)<br>
+	6. Meg.atome (0:1)<br>
 <br>
-8. #bittertater (1210) -1<br>
-+27|+11|+45|+42|+28|+42|+34|+11|+10|+11<br>
+8. #cecil.czg (1204) +32<br>
++161|+178|+82|+86|-25|+19|+66|+30|+48|+48<br>
+	1. xMilly (1:3)<br>
+	2. MadDookie (9:24)<br>
+	4. slovski (0:1)<br>
+	6. Meg.atome (1:0)<br>
+	9. bittertater (2:3)<br>
+	10. Thor. (5:2)<br>
+<br>
+9. #bittertater (1204) -6<br>
++39|+36|+22|+36|+28|+5|+4|+5|-7|-12<br>
 	2. MadDookie (1:0)<br>
-	4. SparkyPlane (4:6)<br>
-	5. k7d5 (5:5)<br>
-	10. ToxicVest~126 (12:10)<br>
+	6. Meg.atome (2:1)<br>
+	8. cecil.czg (3:2)<br>
 <br>
-9. #Thor. (1190) +2<br>
-+150|+106|+116|+89|+68|+37|+64|+21|+5|+4<br>
-	1. xMilly (2:3)<br>
+10. #Thor. (1186) -3<br>
++147|+102|+113|+86|+65|+34|+61|+18|+2|0<br>
+	1. xMilly (2:2)<br>
 	2. MadDookie (3:12)<br>
 	3. TangyChief~218 (1:2)<br>
-	6. slovski (2:1)<br>
+	4. slovski (2:0)<br>
+	5. Bran (1:0)<br>
+	8. cecil.czg (2:5)<br>
 <br>
-10. #ToxicVest~126 (1179) -36<br>
-+73|+47|+40|+53|+13|-17|+46|+46|+12|-43<br>
-	2. MadDookie (2:0)<br>
-	4. SparkyPlane (2:0)<br>
-	8. bittertater (10:12)<br>
-<br>
-11. #ALOS6ORA (1176) 0<br>
-+60|-47|+50|-3|+80|+76|+80|+77|+16<br>
-	1. xMilly (1:7)<br>
-	2. MadDookie (1:6)<br>
-	3. TangyChief~218 (0:1)<br>
-	8. bittertater (0:1)<br>
-	9. Thor. (1:0)<br>
-<br>
-12. #zunar (1175) +4<br>
-+8|+14|+11|+16|+11|-14|-11|-5|-13|+3<br>
-	4. SparkyPlane (5:10)<br>
-	6. slovski (1:0)<br>
-	7. Kitini (4:1)<br>
-	10. ToxicVest~126 (5:3)<br>
-<br>
-13. #cecil.czg (1173) -14<br>
-+93|+130|+146|+50|+55|-57|-13|+35|-1|+17<br>
+11. #ALOS6ORA (1181) +5<br>
++65|-41|+55|+2|+85|+81|+86|+82|+22<br>
 	1. xMilly (1:3)<br>
-	2. MadDookie (10:24)<br>
-	4. SparkyPlane (1:2)<br>
-	6. slovski (0:1)<br>
-	8. bittertater (2:3)<br>
-	9. Thor. (5:2)<br>
-	10. ToxicVest~126 (2:3)<br>
+	2. MadDookie (1:7)<br>
+	3. TangyChief~218 (0:1)<br>
+	5. Bran (2:4)<br>
+	6. Meg.atome (2:3)<br>
+	7. Kitini (1:1)<br>
+	9. bittertater (0:1)<br>
+	10. Thor. (1:0)<br>
 <br>
-14. #micklepickle (1158) +11<br>
-+329|+248|+242|+90|+88|+50|-2<br>
-	1. xMilly (1:11)<br>
-	2. MadDookie (2:9)<br>
-	3. TangyChief~218 (1:4)<br>
-	4. SparkyPlane (0:1)<br>
-	6. slovski (3:22)<br>
-	7. Kitini (2:2)<br>
-	8. bittertater (5:6)<br>
-	9. Thor. (2:7)<br>
-	10. ToxicVest~126 (3:10)<br>
+12. #ToxicVest~126 (1174) -6<br>
++68|+42|+35|+48|+7|-23|+40|+41|+6|-49<br>
+	2. MadDookie (2:0)<br>
+	6. Meg.atome (0:1)<br>
+	8. cecil.czg (3:2)<br>
+	9. bittertater (13:21)<br>
 <br>
-15. #nazia13 (1153) -3<br>
-+1|0|-13|-21|-19|-14|+1|-3|-14|-3<br>
-	1. xMilly (1:10)<br>
-	2. MadDookie (4:12)<br>
+13. #zunar (1172) -3<br>
++11|+8|+13|+8|-17|-14|-8|-16|+1|-2<br>
+	4. slovski (1:0)<br>
+	7. Kitini (4:1)<br>
+<br>
+14. #nazia13 (1159) +6<br>
++7|+6|-7|-15|-13|-8|+7|+4|-8|+3<br>
+	1. xMilly (1:8)<br>
+	2. MadDookie (4:10)<br>
 	3. TangyChief~218 (0:11)<br>
-	4. SparkyPlane (2:7)<br>
-	5. k7d5 (2:2)<br>
-	6. slovski (2:12)<br>
+	4. slovski (2:9)<br>
+	5. Bran (1:5)<br>
+	6. Meg.atome (2:7)<br>
 	7. Kitini (4:3)<br>
-	8. bittertater (4:13)<br>
-	10. ToxicVest~126 (0:3)<br>
+	8. cecil.czg (2:4)<br>
+	9. bittertater (7:15)<br>
 <br>
-16. #HTALAQI (1136) +6<br>
-+1|+3|+10|-4|+4|+3|+11|+1|+13|-1<br>
+15. #piratebum (1154) +8<br>
++42|+53|+50|+36|+27|+29|+28|+41|+21|+24<br>
+	9. bittertater (4:2)<br>
+<br>
+16. #micklepickle (1147) -10<br>
++319|+238|+232|+80|+77|+40|-12|-24<br>
+	1. xMilly (1:10)<br>
+	2. MadDookie (2:9)<br>
+	3. TangyChief~218 (1:6)<br>
+	4. slovski (3:19)<br>
+	5. Bran (2:2)<br>
+	6. Meg.atome (2:2)<br>
+	7. Kitini (2:6)<br>
+	8. cecil.czg (8:16)<br>
+	9. bittertater (6:7)<br>
+	10. Thor. (2:5)<br>
+<br>
+17. #HTALAQI (1127) -9<br>
+-8|-6|+1|-13|-5|-6|+2|-8|+4|-10<br>
 	2. MadDookie (1:3)<br>
 	3. TangyChief~218 (1:2)<br>
-	6. slovski (3:4)<br>
-	7. Kitini (1:6)<br>
+	4. slovski (3:4)<br>
+	5. Bran (1:1)<br>
+	6. Meg.atome (5:8)<br>
+	8. cecil.czg (2:2)<br>
+	9. bittertater (0:1)<br>
 <br>
-17. #RONAN-DESTRO (1124) -14<br>
-+142|+101|+144|+118|-41|+12|-34|-18<br>
+18. #RONAN-DESTRO (1105) -19<br>
++122|+82|+125|+98|-60|-7|-53|-38<br>
 	1. xMilly (0:2)<br>
-	2. MadDookie (1:10)<br>
+	2. MadDookie (1:13)<br>
 	3. TangyChief~218 (1:4)<br>
-	6. slovski (2:6)<br>
+	4. slovski (2:6)<br>
+	5. Bran (1:1)<br>
+	6. Meg.atome (1:1)<br>
 	7. Kitini (0:1)<br>
-	8. bittertater (3:3)<br>
-	9. Thor. (3:8)<br>
+	8. cecil.czg (3:2)<br>
+	9. bittertater (3:7)<br>
+	10. Thor. (3:8)<br>
 <br>
-18. #SnatchWeasel (1105) -4<br>
-+13|+7|+5|-3|+2|-5|-3|-6|-6|-1<br>
-	1. xMilly (2:16)<br>
+19. #SnatchWeasel (1104) -1<br>
++11|+6|+3|-4|+1|-7|-4|-7|-7|-2<br>
+	1. xMilly (2:14)<br>
 	2. MadDookie (3:15)<br>
-	3. TangyChief~218 (8:11)<br>
-	4. SparkyPlane (0:4)<br>
-	5. k7d5 (0:4)<br>
-	6. slovski (6:6)<br>
-	7. Kitini (4:5)<br>
-	8. bittertater (1:0)<br>
-	9. Thor. (1:6)<br>
-	10. ToxicVest~126 (1:1)<br>
+	3. TangyChief~218 (6:14)<br>
+	4. slovski (5:6)<br>
+	5. Bran (4:6)<br>
+	6. Meg.atome (1:5)<br>
+	7. Kitini (5:7)<br>
+	8. cecil.czg (2:0)<br>
+	9. bittertater (1:0)<br>
+	10. Thor. (1:5)<br>
 <br>
-19. #timogen (1083) -12<br>
-+93|+54|+50|+12|+16|+15|+26|+24|-5|-6<br>
+20. #timogen (1093) +10<br>
++64|+60|+22|+26|+25|+36|+34|+5|+4|0<br>
 	1. xMilly (0:1)<br>
-	2. MadDookie (1:4)<br>
-	3. TangyChief~218 (1:4)<br>
-	4. SparkyPlane (0:1)<br>
-	5. k7d5 (0:3)<br>
-	7. Kitini (0:2)<br>
-	8. bittertater (1:0)<br>
-	9. Thor. (1:1)<br>
+	2. MadDookie (1:7)<br>
+	3. TangyChief~218 (2:5)<br>
+	5. Bran (1:2)<br>
+	6. Meg.atome (0:1)<br>
+	7. Kitini (2:3)<br>
+	9. bittertater (1:0)<br>
+	10. Thor. (1:1)<br>
 <br>
-20. #arviiid (1076) -2<br>
-+13|+3|-1|-29|-20|-21|-14|-2|-5|-12<br>
+21. #arviiid (1085) +9<br>
++12|+8|-20|-11|-12|-5|+8|+4|-3|+8<br>
 	1. xMilly (0:4)<br>
-	2. MadDookie (0:14)<br>
+	2. MadDookie (0:11)<br>
 	3. TangyChief~218 (0:5)<br>
-	4. SparkyPlane (1:4)<br>
-	5. k7d5 (1:5)<br>
-	6. slovski (0:5)<br>
-	7. Kitini (2:2)<br>
-	8. bittertater (2:6)<br>
-	9. Thor. (0:1)<br>
-	10. ToxicVest~126 (2:5)<br>
+	4. slovski (0:4)<br>
+	6. Meg.atome (0:1)<br>
+	7. Kitini (2:3)<br>
+	8. cecil.czg (2:0)<br>
+	9. bittertater (2:6)<br>
+	10. Thor. (0:1)<br>
 <br>
-21. #ii_AMBRA6OR (1050) +13<br>
--88|-86|-37|-73|-44|-28|+22<br>
-	1. xMilly (0:4)<br>
+22. #ii_AMBRA6OR (1043) -8<br>
+-96|-94|-45|-80|-51|-35|+15<br>
 	2. MadDookie (1:6)<br>
 	3. TangyChief~218 (0:8)<br>
-	6. slovski (0:3)<br>
-	7. Kitini (3:1)<br>
-	8. bittertater (3:0)<br>
-	9. Thor. (0:1)<br>
+	4. slovski (0:3)<br>
+	5. Bran (1:0)<br>
+	6. Meg.atome (0:2)<br>
+	7. Kitini (4:6)<br>
+	9. bittertater (3:0)<br>
+	10. Thor. (0:1)<br>
 <br>
-22. #NosyBeast2 (976) -16<br>
--26|-55|-47|-73<br>
-	1. xMilly (0:4)<br>
-	2. MadDookie (0:12)<br>
-	3. TangyChief~218 (3:6)<br>
-	7. Kitini (1:8)<br>
-	8. bittertater (0:2)<br>
-	9. Thor. (1:2)<br>
-	10. ToxicVest~126 (1:3)<br>
+23. #NosyBeast (1019) 0<br>
++204|+61|+85|0|+9<br>
+	1. xMilly (0:2)<br>
+	2. MadDookie (0:7)<br>
+	3. TangyChief~218 (1:3)<br>
+	4. slovski (2:7)<br>
+	5. Bran (1:0)<br>
+	6. Meg.atome (0:2)<br>
+	7. Kitini (1:4)<br>
+	8. cecil.czg (1:0)<br>
+	9. bittertater (1:1)<br>
+	10. Thor. (0:2)<br>
 <br>
-23. #bot (860) +3<br>
-+1|-2|-4|-5|-7|-5|-1|-3|-6|-1<br>
-	1. xMilly (0:26)<br>
-	4. SparkyPlane (2:71)<br>
-	5. k7d5 (3:23)<br>
-	8. bittertater (3:4)<br>
-	9. Thor. (2:32)<br>
-	10. ToxicVest~126 (1:3)<br>
+24. #bot (862) +2<br>
+-2|0|+3|+2|-1|+1|-1|+4|+3|0<br>
+	1. xMilly (0:2)<br>
+	6. Meg.atome (0:1)<br>
+	8. cecil.czg (5:16)<br>
+	9. bittertater (3:6)<br>
+	10. Thor. (1:32)<br>

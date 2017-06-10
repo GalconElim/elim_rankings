@@ -1,802 +1,734 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #Artimal_PL (1298) 0<br>
-+5|+4|-7|-3|-2|-1|-8|-6|0|+1<br>
+1. #Artimal_PL (1338) +1<br>
++11|+9|0|+2|+1|+2|-5|-4|+1|+1<br>
 	2. shunrai (6:1)<br>
-	3. pablo55 (11:12)<br>
-	4. TimeBreaker (5:8)<br>
-	7. Xoi (1:0)<br>
-	8. mr.oujia (10:8)<br>
-	9. eLemeNt. (0:4)<br>
-	10. STruC (13:16)<br>
+	3. TimeBreaker (5:8)<br>
+	4. pablo55 (11:12)<br>
+	7. Xoi (2:0)<br>
+	8. eLemeNt. (0:4)<br>
+	9. STruC (13:16)<br>
 <br>
-2. #shunrai (1253) +3<br>
-+19|+15|+9|+4|+6|+5|+4|+1|+1|0<br>
+2. #shunrai (1261) 0<br>
++21|+17|+11|+6|+7|+5|+5|+2|+1|0<br>
 	1. Artimal_PL (1:6)<br>
-	3. pablo55 (16:13)<br>
-	4. TimeBreaker (19:11)<br>
+	3. TimeBreaker (19:11)<br>
+	4. pablo55 (16:13)<br>
 	5. croissant (4:6)<br>
 	6. dIehAppY (9:7)<br>
 	7. Xoi (26:19)<br>
-	8. mr.oujia (20:16)<br>
-	9. eLemeNt. (4:13)<br>
-	10. STruC (5:3)<br>
+	8. eLemeNt. (4:13)<br>
+	9. STruC (5:3)<br>
+	10. doeish (7:4)<br>
 <br>
-3. #pablo55 (1244) +2<br>
-+14|+5|-2|-2|-5|+1|+9|+6|-3|+4<br>
+3. #TimeBreaker (1257) -2<br>
+-11|-13|-20|-19|-17|-14|-12|-3|+3|+1<br>
+	1. Artimal_PL (8:5)<br>
+	2. shunrai (11:19)<br>
+	4. pablo55 (3:7)<br>
+	5. croissant (0:1)<br>
+	6. dIehAppY (0:1)<br>
+	7. Xoi (1:0)<br>
+	8. eLemeNt. (4:4)<br>
+	9. STruC (3:10)<br>
+	10. doeish (3:5)<br>
+<br>
+4. #pablo55 (1257) +1<br>
++16|+6|-1|-1|-4|+3|+11|+7|-1|+5<br>
 	1. Artimal_PL (12:11)<br>
 	2. shunrai (13:16)<br>
-	4. TimeBreaker (8:5)<br>
+	3. TimeBreaker (7:3)<br>
 	5. croissant (0:2)<br>
 	6. dIehAppY (3:2)<br>
 	7. Xoi (5:4)<br>
-	8. mr.oujia (6:3)<br>
-	9. eLemeNt. (8:6)<br>
-	10. STruC (10:23)<br>
+	8. eLemeNt. (8:6)<br>
+	9. STruC (10:24)<br>
 <br>
-4. #TimeBreaker (1240) -1<br>
--14|-15|-21|-19|-16|-12|-9|+1|+6|+3<br>
-	1. Artimal_PL (8:5)<br>
-	2. shunrai (11:19)<br>
-	3. pablo55 (5:8)<br>
-	5. croissant (0:1)<br>
-	6. dIehAppY (0:1)<br>
-	7. Xoi (1:0)<br>
-	8. mr.oujia (6:2)<br>
-	9. eLemeNt. (6:5)<br>
-	10. STruC (4:10)<br>
-<br>
-5. #croissant (1233) 0<br>
-+7|+3|0|-5|-5|-1|+6|+1|-2|+1<br>
+5. #croissant (1251) 0<br>
++6|+2|-1|-4|-4|0|+7|0|-2|0<br>
 	2. shunrai (6:4)<br>
-	3. pablo55 (2:0)<br>
-	4. TimeBreaker (1:0)<br>
-	8. mr.oujia (4:0)<br>
-	9. eLemeNt. (1:0)<br>
-	10. STruC (4:4)<br>
+	3. TimeBreaker (1:0)<br>
+	4. pablo55 (2:0)<br>
+	7. Xoi (1:2)<br>
+	8. eLemeNt. (1:0)<br>
+	9. STruC (4:4)<br>
+	10. doeish (1:7)<br>
 <br>
-6. #dIehAppY (1210) +4<br>
--10|+16|+4|-2|+4|+1|-4|+2|-8|+2<br>
+6. #dIehAppY (1217) +4<br>
+-5|+23|+10|+4|+10|+6|0|+6|-5|+6<br>
 	2. shunrai (7:9)<br>
-	3. pablo55 (2:3)<br>
-	4. TimeBreaker (1:0)<br>
+	3. TimeBreaker (1:0)<br>
+	4. pablo55 (2:3)<br>
 	7. Xoi (2:1)<br>
-	8. mr.oujia (5:4)<br>
-	9. eLemeNt. (0:1)<br>
-	10. STruC (1:12)<br>
+	8. eLemeNt. (0:1)<br>
+	9. STruC (1:12)<br>
+	10. doeish (12:11)<br>
 <br>
-7. #Xoi (1198) -8<br>
--12|-9|-12|+5|-4|-13|-4|+3|0|-12<br>
-	1. Artimal_PL (0:1)<br>
+7. #Xoi (1213) +13<br>
++2|+3|+2|+17|+9|-1|+7|+15|+12|0<br>
+	1. Artimal_PL (0:2)<br>
 	2. shunrai (19:26)<br>
-	3. pablo55 (4:5)<br>
-	4. TimeBreaker (0:1)<br>
+	3. TimeBreaker (0:1)<br>
+	4. pablo55 (4:5)<br>
+	5. croissant (2:1)<br>
 	6. dIehAppY (1:2)<br>
-	9. eLemeNt. (5:2)<br>
-	10. STruC (6:3)<br>
+	8. eLemeNt. (5:2)<br>
+	9. STruC (6:3)<br>
+	10. doeish (0:2)<br>
 <br>
-8. #mr.oujia (1181) 0<br>
-+18|+15|+19|+15|+18|+14|0|-3|0|0<br>
-	1. Artimal_PL (8:10)<br>
-	2. shunrai (16:20)<br>
-	3. pablo55 (3:6)<br>
-	4. TimeBreaker (2:6)<br>
-	5. croissant (0:4)<br>
-	6. dIehAppY (4:5)<br>
-	10. STruC (1:9)<br>
-<br>
-9. #eLemeNt. (1181) +5<br>
-+19|+35|+38|+16|+7|+11|-10|+5|+1|+4<br>
+8. #eLemeNt. (1183) +1<br>
++20|+36|+40|+18|+8|+13|-8|+6|+2|+5<br>
 	1. Artimal_PL (4:0)<br>
 	2. shunrai (13:4)<br>
-	3. pablo55 (6:8)<br>
-	4. TimeBreaker (5:6)<br>
+	3. TimeBreaker (4:4)<br>
+	4. pablo55 (6:8)<br>
 	5. croissant (0:1)<br>
 	6. dIehAppY (1:0)<br>
 	7. Xoi (2:5)<br>
-	10. STruC (8:6)<br>
+	9. STruC (8:6)<br>
 <br>
-10. #STruC (1175) -3<br>
--13|-25|-15|-15|-18|-8|-5|+3|+2|-1<br>
+9. #STruC (1176) +2<br>
+-11|-23|-14|-13|-16|-6|-4|+5|+4|+1<br>
 	1. Artimal_PL (16:13)<br>
 	2. shunrai (3:5)<br>
-	3. pablo55 (23:10)<br>
-	4. TimeBreaker (10:4)<br>
+	3. TimeBreaker (10:3)<br>
+	4. pablo55 (24:10)<br>
 	5. croissant (4:4)<br>
 	6. dIehAppY (12:1)<br>
 	7. Xoi (3:6)<br>
-	8. mr.oujia (9:1)<br>
-	9. eLemeNt. (6:8)<br>
+	8. eLemeNt. (6:8)<br>
+	10. doeish (10:9)<br>
 <br>
-11. #sadpanda (1166) 0<br>
--45|-40|-44|-37|-33|-30|-17|-9|-15|-1<br>
-	1. Artimal_PL (0:1)<br>
-	2. shunrai (11:8)<br>
-	3. pablo55 (1:2)<br>
-	4. TimeBreaker (6:3)<br>
-	5. croissant (3:3)<br>
-	7. Xoi (4:6)<br>
-	9. eLemeNt. (7:7)<br>
-<br>
-12. #doeish (1164) 0<br>
-+2|+2|+2|+3|+3|-1|+3|0|-3|0<br>
+10. #doeish (1163) +1<br>
++3|+3|+2|+3|+4|0|+3|+1|-2|0<br>
 	2. shunrai (4:7)<br>
-	4. TimeBreaker (5:3)<br>
-	5. croissant (6:1)<br>
+	3. TimeBreaker (5:3)<br>
+	5. croissant (7:1)<br>
 	6. dIehAppY (11:12)<br>
-	8. mr.oujia (1:2)<br>
-	10. STruC (9:10)<br>
+	7. Xoi (2:0)<br>
+	9. STruC (9:10)<br>
 <br>
-13. #no.yes (1161) 0<br>
-+10|+12|+25|+15|+10|+13|+10|-14|-9|+2<br>
+11. #no.yes (1158) +1<br>
++10|+13|+26|+16|+11|+14|+11|-14|-8|+3<br>
 	2. shunrai (13:11)<br>
-	3. pablo55 (8:17)<br>
-	4. TimeBreaker (17:10)<br>
+	3. TimeBreaker (10:3)<br>
+	4. pablo55 (7:16)<br>
 	5. croissant (2:10)<br>
 	6. dIehAppY (34:29)<br>
 	7. Xoi (2:5)<br>
-	8. mr.oujia (1:5)<br>
-	9. eLemeNt. (5:12)<br>
-	10. STruC (28:27)<br>
+	8. eLemeNt. (5:12)<br>
+	9. STruC (28:27)<br>
+	10. doeish (32:30)<br>
 <br>
-14. #vip_genius (1157) -1<br>
-+1|+5|+14|0|+2|+1|-7|-7|-11|+3<br>
-	1. Artimal_PL (8:4)<br>
-	2. shunrai (4:8)<br>
-	3. pablo55 (8:5)<br>
-	4. TimeBreaker (5:8)<br>
-	5. croissant (2:0)<br>
-	6. dIehAppY (6:4)<br>
-	7. Xoi (0:1)<br>
-	8. mr.oujia (6:6)<br>
-	9. eLemeNt. (3:1)<br>
-	10. STruC (9:2)<br>
+12. #BadKarma- (1154) +22<br>
+-111|-160|+166|+58|-33|+3<br>
+	1. Artimal_PL (13:5)<br>
+	3. TimeBreaker (5:3)<br>
+	4. pablo55 (17:18)<br>
+	5. croissant (3:5)<br>
+	6. dIehAppY (3:3)<br>
+	7. Xoi (7:3)<br>
+	8. eLemeNt. (10:6)<br>
+	9. STruC (2:2)<br>
+	10. doeish (1:1)<br>
 <br>
-15. #cricric (1155) +17<br>
-+45|+15|+8|+44|+51|+42|+32|+33|+17|+14<br>
+13. #cricric (1153) +3<br>
++50|+19|+11|+47|+55|+45|+36|+37|+21|+17<br>
 	1. Artimal_PL (3:9)<br>
 	2. shunrai (8:17)<br>
-	3. pablo55 (11:9)<br>
-	4. TimeBreaker (4:2)<br>
-	5. croissant (3:11)<br>
-	6. dIehAppY (3:8)<br>
+	3. TimeBreaker (3:2)<br>
+	4. pablo55 (11:9)<br>
+	5. croissant (1:4)<br>
+	6. dIehAppY (4:10)<br>
 	7. Xoi (5:12)<br>
-	8. mr.oujia (2:1)<br>
-	9. eLemeNt. (11:11)<br>
-	10. STruC (7:2)<br>
+	8. eLemeNt. (11:11)<br>
+	9. STruC (7:2)<br>
+	10. doeish (1:0)<br>
 <br>
-16. #Gideon (1154) 0<br>
--3|+14|+36|+51|+42|+46|+24|+15|-9|+3<br>
+14. #Gideon (1153) 0<br>
+-4|+14|+36|+51|+42|+47|+24|+15|-8|+3<br>
 	1. Artimal_PL (9:7)<br>
 	2. shunrai (5:9)<br>
-	3. pablo55 (11:25)<br>
-	4. TimeBreaker (9:8)<br>
-	5. croissant (9:7)<br>
-	6. dIehAppY (1:0)<br>
+	3. TimeBreaker (8:8)<br>
+	4. pablo55 (19:34)<br>
+	5. croissant (7:3)<br>
+	6. dIehAppY (2:3)<br>
 	7. Xoi (5:8)<br>
-	8. mr.oujia (7:6)<br>
-	9. eLemeNt. (2:5)<br>
-	10. STruC (13:9)<br>
+	8. eLemeNt. (2:5)<br>
+	9. STruC (13:10)<br>
+	10. doeish (20:19)<br>
 <br>
-17. #NiftyBread~997 (1151) +18<br>
-+97|+95|+58|+57|+59|+26|+26|+11|+8|+4<br>
-	1. Artimal_PL (2:3)<br>
-	2. shunrai (5:9)<br>
-	3. pablo55 (9:7)<br>
-	4. TimeBreaker (10:7)<br>
-	5. croissant (1:6)<br>
-	6. dIehAppY (6:4)<br>
-	7. Xoi (2:1)<br>
-	8. mr.oujia (4:5)<br>
-	9. eLemeNt. (4:7)<br>
-	10. STruC (1:0)<br>
+15. #vip_genius (1144) -13<br>
+-9|+1|-13|-11|-13|-20|-19|-24|-10|-10<br>
+	1. Artimal_PL (8:4)<br>
+	2. shunrai (4:8)<br>
+	3. TimeBreaker (7:8)<br>
+	4. pablo55 (9:6)<br>
+	5. croissant (2:2)<br>
+	6. dIehAppY (8:7)<br>
+	7. Xoi (0:1)<br>
+	8. eLemeNt. (3:2)<br>
+	9. STruC (9:2)<br>
+	10. doeish (3:3)<br>
 <br>
-18. #K1LL3rW33D (1148) 0<br>
--3|+2|+2|+2|-6|-6|-6|-1|-5|-3<br>
-	1. Artimal_PL (1:7)<br>
-	2. shunrai (9:14)<br>
-	4. TimeBreaker (7:13)<br>
-	5. croissant (0:1)<br>
-	6. dIehAppY (2:1)<br>
-	9. eLemeNt. (4:3)<br>
-	10. STruC (9:9)<br>
-<br>
-19. #DaCAP (1146) 0<br>
-+25|+39|+41|+36|+26|+41|+24|+3|-1|+6<br>
-	1. Artimal_PL (1:2)<br>
-	2. shunrai (10:9)<br>
-	3. pablo55 (4:7)<br>
-	4. TimeBreaker (3:7)<br>
-	5. croissant (3:7)<br>
-	7. Xoi (1:0)<br>
-	9. eLemeNt. (2:4)<br>
-	10. STruC (1:0)<br>
-<br>
-20. #FaZzY (1143) +1<br>
-+43|+15|-21|-33|+4|+13|+11|+10|+12|+5<br>
-	1. Artimal_PL (1:1)<br>
-	2. shunrai (9:3)<br>
-	3. pablo55 (4:5)<br>
-	4. TimeBreaker (0:1)<br>
-	5. croissant (2:4)<br>
-	7. Xoi (5:9)<br>
-	9. eLemeNt. (4:1)<br>
-	10. STruC (6:7)<br>
-<br>
-21. #zeropoint (1142) 0<br>
--41|-24|-15|-25|-11|-1|+4|+7|-14|-3<br>
+16. #zeropoint (1140) 0<br>
+-44|-26|-16|-26|-13|-2|+3|+6|-15|-4<br>
 	2. shunrai (3:2)<br>
-	3. pablo55 (2:10)<br>
-	4. TimeBreaker (1:3)<br>
+	3. TimeBreaker (1:3)<br>
+	4. pablo55 (2:10)<br>
 	5. croissant (2:1)<br>
 	6. dIehAppY (2:6)<br>
 	7. Xoi (3:3)<br>
-	9. eLemeNt. (0:2)<br>
-	10. STruC (3:0)<br>
+	8. eLemeNt. (0:2)<br>
+	9. STruC (3:0)<br>
 <br>
-22. #BadKarma- (1137) -58<br>
--121|-165|+152|+39|-52<br>
-	1. Artimal_PL (13:5)<br>
-	3. pablo55 (17:17)<br>
-	4. TimeBreaker (5:1)<br>
-	5. croissant (3:10)<br>
-	7. Xoi (7:3)<br>
-	8. mr.oujia (6:0)<br>
-	9. eLemeNt. (7:4)<br>
-	10. STruC (2:2)<br>
+17. #K1LL3rW33D (1138) 0<br>
+-5|+1|+1|+1|-7|-6|-6|-1|-5|-3<br>
+	1. Artimal_PL (1:7)<br>
+	2. shunrai (9:14)<br>
+	3. TimeBreaker (7:13)<br>
+	5. croissant (0:1)<br>
+	6. dIehAppY (2:1)<br>
+	8. eLemeNt. (4:3)<br>
+	9. STruC (9:9)<br>
+	10. doeish (5:6)<br>
 <br>
-23. #quickmill (1133) -5<br>
-+5|+7|+12|+16|+9|+5|-5|-11|-7|-5<br>
-	1. Artimal_PL (8:7)<br>
-	2. shunrai (34:65)<br>
-	3. pablo55 (10:15)<br>
-	4. TimeBreaker (2:2)<br>
-	5. croissant (0:7)<br>
-	6. dIehAppY (4:5)<br>
-	7. Xoi (7:7)<br>
-	8. mr.oujia (6:8)<br>
-	9. eLemeNt. (7:6)<br>
-	10. STruC (10:19)<br>
-<br>
-24. #WigglyFox (1133) -5<br>
-+9|+6|0|-4|-9|-18|-7|+2|+6|0<br>
+18. #WigglyFox (1133) +4<br>
++11|+5|+1|-5|-14|-3|+6|+11|+3|-2<br>
 	1. Artimal_PL (2:7)<br>
 	2. shunrai (8:19)<br>
-	3. pablo55 (3:1)<br>
-	4. TimeBreaker (0:7)<br>
-	5. croissant (11:11)<br>
+	3. TimeBreaker (9:8)<br>
+	4. pablo55 (5:5)<br>
+	5. croissant (12:12)<br>
 	6. dIehAppY (22:30)<br>
-	7. Xoi (2:1)<br>
-	8. mr.oujia (9:6)<br>
-	9. eLemeNt. (1:7)<br>
-	10. STruC (6:20)<br>
+	7. Xoi (3:5)<br>
+	8. eLemeNt. (1:7)<br>
+	9. STruC (4:19)<br>
+	10. doeish (16:18)<br>
 <br>
-25. #MAKki (1131) -2<br>
--19|-18|-2|+5|+4|-4|-5|-1|0|+1<br>
-	1. Artimal_PL (19:25)<br>
+19. #NiftyBread~997 (1130) -15<br>
++82|+79|+42|+42|+43|+10|+10|-5|-7|-11<br>
+	1. Artimal_PL (2:3)<br>
+	2. shunrai (5:9)<br>
+	3. TimeBreaker (10:7)<br>
+	4. pablo55 (9:6)<br>
+	5. croissant (2:7)<br>
+	6. dIehAppY (6:4)<br>
+	7. Xoi (3:4)<br>
+	8. eLemeNt. (4:7)<br>
+	9. STruC (1:0)<br>
+	10. doeish (10:15)<br>
+<br>
+20. #quickmill (1127) -2<br>
++6|+11|+14|+8|+4|-7|-12|-8|-6|-1<br>
+	1. Artimal_PL (9:7)<br>
+	2. shunrai (34:65)<br>
+	3. TimeBreaker (1:0)<br>
+	4. pablo55 (10:15)<br>
+	5. croissant (0:4)<br>
+	6. dIehAppY (4:5)<br>
+	7. Xoi (9:14)<br>
+	8. eLemeNt. (8:8)<br>
+	9. STruC (7:17)<br>
+	10. doeish (5:3)<br>
+<br>
+21. #MELLOWPeach (1125) +5<br>
+-35|-44|-67|-14|+6<br>
+	2. shunrai (1:3)<br>
+	3. TimeBreaker (1:2)<br>
+	4. pablo55 (7:5)<br>
+	5. croissant (0:4)<br>
+	8. eLemeNt. (3:7)<br>
+	9. STruC (3:3)<br>
+	10. doeish (9:6)<br>
+<br>
+22. #MAKki (1122) -5<br>
+-25|-23|-8|0|-1|-9|-10|-6|-5|-3<br>
+	1. Artimal_PL (19:28)<br>
 	2. shunrai (44:70)<br>
-	3. pablo55 (9:10)<br>
-	4. TimeBreaker (3:6)<br>
-	5. croissant (4:6)<br>
+	3. TimeBreaker (3:6)<br>
+	4. pablo55 (9:10)<br>
+	5. croissant (4:5)<br>
 	6. dIehAppY (1:1)<br>
-	7. Xoi (8:13)<br>
-	8. mr.oujia (7:4)<br>
-	9. eLemeNt. (11:12)<br>
-	10. STruC (36:30)<br>
+	7. Xoi (9:21)<br>
+	8. eLemeNt. (11:12)<br>
+	9. STruC (36:30)<br>
+	10. doeish (16:14)<br>
 <br>
-26. #shaddow (1127) 0<br>
--9|-7|-12|-8|-8|-5|-7|-4|-3|-1<br>
+23. #shaddow (1119) +1<br>
+-8|-7|-12|-8|-7|-4|-6|-3|-2|0<br>
 	1. Artimal_PL (7:6)<br>
 	2. shunrai (4:17)<br>
-	3. pablo55 (1:7)<br>
-	4. TimeBreaker (5:9)<br>
-	5. croissant (18:6)<br>
-	6. dIehAppY (7:6)<br>
+	3. TimeBreaker (6:12)<br>
+	4. pablo55 (2:7)<br>
+	5. croissant (17:6)<br>
+	6. dIehAppY (8:7)<br>
 	7. Xoi (2:0)<br>
-	9. eLemeNt. (2:4)<br>
-	10. STruC (2:6)<br>
+	8. eLemeNt. (2:4)<br>
+	9. STruC (2:6)<br>
+	10. doeish (6:19)<br>
 <br>
-27. #MELLOWPeach (1124) 0<br>
--34|-45|-69|-15|+1<br>
-	2. shunrai (1:3)<br>
-	3. pablo55 (7:5)<br>
-	4. TimeBreaker (2:2)<br>
-	5. croissant (1:4)<br>
-	8. mr.oujia (3:1)<br>
-	9. eLemeNt. (3:7)<br>
-	10. STruC (6:4)<br>
-<br>
-28. #WeeWillies (1124) +1<br>
-+34|+9|+20|+15|+12|+6|+3|+2|+2|+1<br>
-	1. Artimal_PL (0:1)<br>
-	2. shunrai (12:9)<br>
-	3. pablo55 (3:8)<br>
-	4. TimeBreaker (3:4)<br>
-	5. croissant (6:3)<br>
-	8. mr.oujia (2:2)<br>
-	9. eLemeNt. (3:6)<br>
-	10. STruC (2:3)<br>
-<br>
-29. #sir.wallace (1123) +1<br>
-+3|+5|+8|+11|+14|+12|-4|-8|-3|0<br>
+24. #sir.wallace (1114) 0<br>
++3|+5|+8|+12|+15|+12|-4|-8|-4|0<br>
 	1. Artimal_PL (3:2)<br>
 	2. shunrai (21:32)<br>
-	3. pablo55 (4:11)<br>
-	4. TimeBreaker (17:12)<br>
+	3. TimeBreaker (15:9)<br>
+	4. pablo55 (4:11)<br>
 	5. croissant (2:6)<br>
 	6. dIehAppY (2:7)<br>
 	7. Xoi (14:10)<br>
-	8. mr.oujia (4:8)<br>
-	9. eLemeNt. (3:2)<br>
-	10. STruC (1:2)<br>
+	8. eLemeNt. (3:2)<br>
+	9. STruC (1:2)<br>
+	10. doeish (6:17)<br>
 <br>
-30. #Resell (1119) -3<br>
-+44|-17|-26|-13|+11<br>
-	1. Artimal_PL (8:10)<br>
-	2. shunrai (8:12)<br>
-	3. pablo55 (9:28)<br>
-	4. TimeBreaker (12:7)<br>
-	6. dIehAppY (7:13)<br>
-	8. mr.oujia (2:0)<br>
-	9. eLemeNt. (4:11)<br>
-	10. STruC (8:13)<br>
+25. #WeeWillies (1109) -5<br>
++28|+4|+15|+9|+7|+1|-1|-3|-4|-4<br>
+	1. Artimal_PL (0:1)<br>
+	2. shunrai (12:9)<br>
+	3. TimeBreaker (3:2)<br>
+	4. pablo55 (3:12)<br>
+	5. croissant (6:3)<br>
+	6. dIehAppY (1:2)<br>
+	8. eLemeNt. (3:6)<br>
+	9. STruC (2:3)<br>
 <br>
-31. #babymetal (1109) 0<br>
-+1|+2|+3|+6|+6|+6|+4|+9|+2|-2<br>
-	1. Artimal_PL (0:2)<br>
-	2. shunrai (13:6)<br>
-	3. pablo55 (4:7)<br>
-	4. TimeBreaker (12:10)<br>
-	5. croissant (3:6)<br>
-	6. dIehAppY (1:0)<br>
-	7. Xoi (0:1)<br>
-	8. mr.oujia (2:3)<br>
-	9. eLemeNt. (1:0)<br>
-	10. STruC (2:8)<br>
-<br>
-32. #sugarwalls (1108) 0<br>
-+26|+22|+28|+30|+36|+34|+34|+31|+23|+11<br>
+26. #sugarwalls (1101) +4<br>
++29|+24|+30|+32|+37|+36|+36|+34|+26|+14<br>
 	1. Artimal_PL (3:2)<br>
 	2. shunrai (11:6)<br>
-	3. pablo55 (2:9)<br>
-	4. TimeBreaker (5:6)<br>
+	3. TimeBreaker (3:1)<br>
+	4. pablo55 (2:9)<br>
 	7. Xoi (1:4)<br>
-	8. mr.oujia (0:1)<br>
-	9. eLemeNt. (3:1)<br>
-	10. STruC (4:1)<br>
+	8. eLemeNt. (2:1)<br>
+	9. STruC (4:1)<br>
+	10. doeish (12:7)<br>
 <br>
-33. #jbperez808 (1108) 0<br>
-+35|+30|+32|+34|+24|+26|+19|+9|+7|+1<br>
-	2. shunrai (7:10)<br>
-	3. pablo55 (2:3)<br>
-	4. TimeBreaker (6:3)<br>
-	5. croissant (5:5)<br>
-	8. mr.oujia (12:9)<br>
-	9. eLemeNt. (3:7)<br>
-<br>
-34. #drhillikilil (1108) 0<br>
-+30|+27|+13|+7|+6|+14|+14|+11|+2|-2<br>
+27. #drhillikilil (1099) 0<br>
++31|+28|+14|+8|+7|+15|+15|+11|+2|-2<br>
 	1. Artimal_PL (13:15)<br>
 	2. shunrai (14:14)<br>
-	3. pablo55 (8:11)<br>
-	4. TimeBreaker (10:24)<br>
+	3. TimeBreaker (7:16)<br>
+	4. pablo55 (8:11)<br>
 	5. croissant (0:2)<br>
 	7. Xoi (2:1)<br>
-	8. mr.oujia (8:7)<br>
-	9. eLemeNt. (10:15)<br>
-	10. STruC (6:17)<br>
+	8. eLemeNt. (6:10)<br>
+	9. STruC (5:17)<br>
 <br>
-35. #quidnoVi (1106) 0<br>
-+7|+18|+11|+7|+9|+11|+12|+3|0|+4<br>
+28. #jbperez808 (1098) 0<br>
++33|+27|+29|+31|+22|+25|+17|+8|+6|0<br>
+	2. shunrai (7:10)<br>
+	3. TimeBreaker (6:3)<br>
+	4. pablo55 (2:3)<br>
+	5. croissant (5:5)<br>
+	8. eLemeNt. (3:7)<br>
+<br>
+29. #quidnoVi (1094) -2<br>
++11|+21|+15|+11|+13|+17|+14|+2|0|+3<br>
 	1. Artimal_PL (3:5)<br>
 	2. shunrai (3:4)<br>
-	3. pablo55 (12:11)<br>
-	4. TimeBreaker (1:1)<br>
+	3. TimeBreaker (1:1)<br>
+	4. pablo55 (12:11)<br>
 	6. dIehAppY (2:0)<br>
 	7. Xoi (2:3)<br>
-	8. mr.oujia (2:1)<br>
-	10. STruC (11:13)<br>
+	9. STruC (11:14)<br>
+	10. doeish (10:11)<br>
 <br>
-36. #Cugel (1103) +2<br>
--16|+3|+14|+29|+19|+27|0|+9|-2|+1<br>
-	1. Artimal_PL (1:6)<br>
-	2. shunrai (19:31)<br>
-	3. pablo55 (15:20)<br>
-	4. TimeBreaker (11:3)<br>
-	5. croissant (5:3)<br>
-	6. dIehAppY (4:9)<br>
-	7. Xoi (5:10)<br>
-	8. mr.oujia (1:0)<br>
-	9. eLemeNt. (3:2)<br>
-	10. STruC (5:10)<br>
+30. #creaky2 (1091) 0<br>
+-1|-8|-17|-18|-19|-3|-4|-3|-8|-7<br>
+	1. Artimal_PL (8:6)<br>
+	2. shunrai (11:9)<br>
+	3. TimeBreaker (22:23)<br>
+	4. pablo55 (8:16)<br>
+	5. croissant (0:1)<br>
+	6. dIehAppY (2:1)<br>
+	7. Xoi (3:6)<br>
+	8. eLemeNt. (16:16)<br>
+	9. STruC (6:19)<br>
 <br>
-37. #asshat (1099) +8<br>
-+53|+1|-46|-78|+35|+5|+31|-1<br>
+31. #babymetal (1091) -1<br>
+0|+1|+4|+4|+4|+3|+7|+1|-3|-1<br>
+	1. Artimal_PL (0:2)<br>
+	2. shunrai (13:6)<br>
+	3. TimeBreaker (12:10)<br>
+	4. pablo55 (4:7)<br>
+	5. croissant (3:6)<br>
+	6. dIehAppY (1:5)<br>
+	7. Xoi (0:1)<br>
+	8. eLemeNt. (1:0)<br>
+	9. STruC (1:8)<br>
+	10. doeish (16:9)<br>
+<br>
+32. #GooZok (1091) +3<br>
++17|+15|+23|+24|+14|+4|+13|+14|+16|+2<br>
+	1. Artimal_PL (6:5)<br>
+	2. shunrai (5:2)<br>
+	4. pablo55 (3:4)<br>
+	5. croissant (7:10)<br>
+	6. dIehAppY (3:2)<br>
+	7. Xoi (3:5)<br>
+	9. STruC (15:14)<br>
+	10. doeish (7:13)<br>
+<br>
+33. #asshat (1089) 0<br>
++42|+1|-49|-86|+33|+5|+30|-1<br>
 	1. Artimal_PL (6:14)<br>
 	2. shunrai (9:25)<br>
-	3. pablo55 (22:29)<br>
-	4. TimeBreaker (16:13)<br>
+	3. TimeBreaker (16:13)<br>
+	4. pablo55 (22:29)<br>
 	5. croissant (5:8)<br>
 	6. dIehAppY (3:5)<br>
 	7. Xoi (1:0)<br>
-	8. mr.oujia (5:3)<br>
-	9. eLemeNt. (14:16)<br>
-	10. STruC (9:10)<br>
+	8. eLemeNt. (14:16)<br>
+	9. STruC (9:10)<br>
+	10. doeish (17:14)<br>
 <br>
-38. #creaky2 (1096) -7<br>
-0|-7|-17|-18|-19|-4|-4|-4|-8|-7<br>
-	1. Artimal_PL (8:6)<br>
-	2. shunrai (11:9)<br>
-	3. pablo55 (8:16)<br>
-	4. TimeBreaker (23:24)<br>
-	5. croissant (0:1)<br>
-	6. dIehAppY (1:1)<br>
-	7. Xoi (3:5)<br>
-	8. mr.oujia (10:6)<br>
-	9. eLemeNt. (19:19)<br>
-	10. STruC (6:19)<br>
-<br>
-39. #GooZok (1094) +12<br>
-+15|+12|+20|+22|+13|+2|+11|+12|+14|0<br>
-	1. Artimal_PL (6:5)<br>
-	2. shunrai (5:2)<br>
-	3. pablo55 (3:4)<br>
-	5. croissant (7:10)<br>
-	6. dIehAppY (2:2)<br>
-	7. Xoi (3:5)<br>
-	10. STruC (15:14)<br>
-<br>
-40. #asali (1093) 0<br>
--13|-7|-8|-10|-18|-12|-19|-11|-10|-7<br>
-	1. Artimal_PL (1:3)<br>
-	2. shunrai (14:22)<br>
-	3. pablo55 (2:4)<br>
-	4. TimeBreaker (6:7)<br>
-	8. mr.oujia (2:4)<br>
-	9. eLemeNt. (1:0)<br>
-	10. STruC (5:7)<br>
-<br>
-41. #Langoulant (1091) +13<br>
--7|-21|-52|-27|-10|-1|+5|+17|+15|+24<br>
+34. #Langoulant (1088) -1<br>
+-22|-54|-28|-11|-2|+5|+17|+15|+23|-3<br>
 	1. Artimal_PL (6:5)<br>
 	2. shunrai (0:1)<br>
-	3. pablo55 (12:40)<br>
-	4. TimeBreaker (0:1)<br>
+	3. TimeBreaker (0:1)<br>
+	4. pablo55 (12:40)<br>
 	5. croissant (0:2)<br>
 	7. Xoi (4:6)<br>
-	8. mr.oujia (2:3)<br>
-	9. eLemeNt. (2:5)<br>
-	10. STruC (17:9)<br>
+	8. eLemeNt. (4:5)<br>
+	9. STruC (17:9)<br>
+	10. doeish (10:7)<br>
 <br>
-42. #Ovalrebel (1091) +1<br>
--31|-25|-28|-29|-27|-29|-29|-27|-18|-14<br>
+35. #Resell (1085) -27<br>
++14|-44|-54|-39|-15|+4<br>
+	1. Artimal_PL (8:10)<br>
+	2. shunrai (8:12)<br>
+	3. TimeBreaker (12:7)<br>
+	4. pablo55 (13:31)<br>
+	6. dIehAppY (8:16)<br>
+	7. Xoi (1:3)<br>
+	8. eLemeNt. (4:12)<br>
+	9. STruC (8:13)<br>
+	10. doeish (4:8)<br>
+<br>
+36. #asali (1085) 0<br>
+-11|-6|-6|-9|-17|-12|-19|-10|-9|-7<br>
+	1. Artimal_PL (1:3)<br>
+	2. shunrai (14:22)<br>
+	3. TimeBreaker (6:7)<br>
+	4. pablo55 (2:4)<br>
+	8. eLemeNt. (1:0)<br>
+	9. STruC (5:7)<br>
+	10. doeish (4:5)<br>
+<br>
+37. #Ovalrebel (1084) -1<br>
+-26|-29|-30|-27|-29|-30|-28|-19|-15|+1<br>
 	1. Artimal_PL (5:4)<br>
 	2. shunrai (7:21)<br>
-	3. pablo55 (2:4)<br>
-	4. TimeBreaker (9:14)<br>
+	3. TimeBreaker (8:10)<br>
+	4. pablo55 (2:3)<br>
 	5. croissant (1:4)<br>
 	6. dIehAppY (3:3)<br>
-	7. Xoi (9:13)<br>
-	9. eLemeNt. (1:1)<br>
-	10. STruC (8:6)<br>
+	7. Xoi (9:15)<br>
+	8. eLemeNt. (1:1)<br>
+	9. STruC (8:6)<br>
 <br>
-43. #Snake1976 (1083) +3<br>
-+39|+44|+31|+37|+29|+24|+22|+18|+7|+4<br>
+38. #SlickRick61 (1080) +3<br>
+-18|-36|-52|-52|-46|-32|-31|-26|-20|-14<br>
+	2. shunrai (1:3)<br>
+	3. TimeBreaker (2:0)<br>
+	4. pablo55 (2:13)<br>
+	5. croissant (0:2)<br>
+	6. dIehAppY (6:7)<br>
+	8. eLemeNt. (3:8)<br>
+	9. STruC (1:2)<br>
+	10. doeish (10:9)<br>
+<br>
+39. #bot (1079) +11<br>
++10|+6|+13|+2|-4|-2|+2|+8|+4|+3<br>
+	1. Artimal_PL (1:0)<br>
+	2. shunrai (2:6)<br>
+	4. pablo55 (14:14)<br>
+	6. dIehAppY (5:0)<br>
+	7. Xoi (32:21)<br>
+	8. eLemeNt. (32:38)<br>
+<br>
+40. #Sadic (1075) +21<br>
++37|+32|+68|+38|+40|+11|-5|+13|+11|+18<br>
+	3. TimeBreaker (24:43)<br>
+	4. pablo55 (3:7)<br>
+	5. croissant (0:3)<br>
+	6. dIehAppY (0:2)<br>
+	7. Xoi (3:9)<br>
+	8. eLemeNt. (8:16)<br>
+	9. STruC (1:6)<br>
+<br>
+41. #Cugel (1073) -22<br>
+-22|-10|+6|-5|+4|-24|-14|-24|-21|-4<br>
+	1. Artimal_PL (1:6)<br>
+	2. shunrai (19:31)<br>
+	3. TimeBreaker (11:3)<br>
+	4. pablo55 (16:22)<br>
+	5. croissant (5:4)<br>
+	6. dIehAppY (5:16)<br>
+	7. Xoi (5:10)<br>
+	8. eLemeNt. (3:6)<br>
+	9. STruC (5:10)<br>
+	10. doeish (2:3)<br>
+<br>
+42. #Snake1976 (1072) -6<br>
++33|+38|+25|+30|+22|+18|+15|+12|+1|-2<br>
 	1. Artimal_PL (5:11)<br>
 	2. shunrai (16:15)<br>
-	3. pablo55 (2:8)<br>
-	4. TimeBreaker (9:5)<br>
-	5. croissant (1:1)<br>
-	7. Xoi (8:9)<br>
-	8. mr.oujia (0:2)<br>
-	9. eLemeNt. (10:16)<br>
-	10. STruC (1:4)<br>
+	3. TimeBreaker (9:5)<br>
+	4. pablo55 (2:8)<br>
+	5. croissant (2:1)<br>
+	6. dIehAppY (0:4)<br>
+	7. Xoi (9:10)<br>
+	8. eLemeNt. (10:16)<br>
+	9. STruC (1:4)<br>
+	10. doeish (17:14)<br>
 <br>
-44. #SlickRick61 (1082) -7<br>
--20|-37|-52|-53|-47|-33|-33|-28|-22|-16<br>
-	2. shunrai (1:3)<br>
-	3. pablo55 (3:14)<br>
-	5. croissant (4:5)<br>
-	6. dIehAppY (6:7)<br>
-	8. mr.oujia (4:4)<br>
-	9. eLemeNt. (3:8)<br>
-	10. STruC (1:2)<br>
-<br>
-45. #spamo (1074) +2<br>
-+29|+26|+25|+24|+27|+10|+39|+35|+20|-3<br>
-	1. Artimal_PL (5:4)<br>
-	3. pablo55 (5:5)<br>
-	5. croissant (4:1)<br>
-	6. dIehAppY (6:1)<br>
-	7. Xoi (3:0)<br>
-	10. STruC (8:11)<br>
-<br>
-46. #almafa1 (1070) +2<br>
-+1|+18|+33|+42|+24|+22|-2|-13|-9|-3<br>
-	1. Artimal_PL (5:3)<br>
+43. #almafa1 (1066) +2<br>
++1|+19|+33|+43|+25|+23|-2|-12|-7|0<br>
+	1. Artimal_PL (6:5)<br>
 	2. shunrai (6:6)<br>
-	3. pablo55 (2:8)<br>
-	4. TimeBreaker (3:8)<br>
+	3. TimeBreaker (3:7)<br>
+	4. pablo55 (2:8)<br>
 	5. croissant (1:1)<br>
-	6. dIehAppY (0:1)<br>
-	7. Xoi (0:2)<br>
-	8. mr.oujia (1:0)<br>
-	9. eLemeNt. (1:7)<br>
-	10. STruC (4:3)<br>
+	6. dIehAppY (0:2)<br>
+	7. Xoi (2:4)<br>
+	8. eLemeNt. (1:4)<br>
+	9. STruC (4:3)<br>
+	10. doeish (3:5)<br>
 <br>
-47. #Meep (1070) -3<br>
--31|+79|0|+29|-26|-22|+5|-1|+19|+4<br>
-	1. Artimal_PL (4:5)<br>
-	2. shunrai (5:4)<br>
-	3. pablo55 (14:6)<br>
-	5. croissant (2:3)<br>
-	8. mr.oujia (0:3)<br>
-	9. eLemeNt. (2:3)<br>
-	10. STruC (2:4)<br>
+44. #jennygirl (1053) 0<br>
++12|+12|+5|+6|+11|+1|+2|+4|0|0<br>
+	1. Artimal_PL (0:5)<br>
+	2. shunrai (21:19)<br>
+	3. TimeBreaker (14:12)<br>
+	4. pablo55 (3:14)<br>
+	5. croissant (12:4)<br>
+	6. dIehAppY (6:9)<br>
+	7. Xoi (1:2)<br>
+	8. eLemeNt. (7:9)<br>
+	9. STruC (4:5)<br>
+	10. doeish (22:33)<br>
 <br>
-48. #bot (1069) -6<br>
--18|+3|-4|0|-5|+3|-9|-14|-13|-9<br>
-	2. shunrai (2:6)<br>
-	3. pablo55 (15:16)<br>
-	6. dIehAppY (5:0)<br>
-	7. Xoi (32:22)<br>
-	9. eLemeNt. (32:38)<br>
-	10. STruC (0:1)<br>
-<br>
-49. #sofierce (1064) -3<br>
-+18|+19|+16|+20|+21|+15|+8|+6|+2|-4<br>
+45. #sofierce (1052) 0<br>
++20|+20|+18|+21|+22|+14|+7|+5|+2|-4<br>
 	1. Artimal_PL (7:6)<br>
 	2. shunrai (9:7)<br>
-	4. TimeBreaker (4:3)<br>
+	3. TimeBreaker (4:3)<br>
 	5. croissant (4:3)<br>
 	6. dIehAppY (3:5)<br>
 	7. Xoi (3:1)<br>
-	8. mr.oujia (5:6)<br>
-	9. eLemeNt. (9:9)<br>
+	8. eLemeNt. (9:9)<br>
+	10. doeish (1:0)<br>
 <br>
-50. #jennygirl (1062) -1<br>
-+6|+12|+12|+5|+6|+11|+1|+2|+4|0<br>
-	1. Artimal_PL (0:5)<br>
-	2. shunrai (21:19)<br>
-	3. pablo55 (3:13)<br>
-	4. TimeBreaker (20:19)<br>
-	5. croissant (15:9)<br>
-	6. dIehAppY (6:9)<br>
-	8. mr.oujia (1:1)<br>
-	9. eLemeNt. (7:9)<br>
-	10. STruC (5:6)<br>
-<br>
-51. #Glossy (1058) -4<br>
--15|-18|-12|-12|-10|-19|-14|-4|-18|-7<br>
+46. #Glossy (1048) +1<br>
+-18|-14|-13|-11|-19|-14|-5|-18|-6|-2<br>
 	1. Artimal_PL (4:2)<br>
 	2. shunrai (7:4)<br>
-	3. pablo55 (0:3)<br>
-	4. TimeBreaker (2:1)<br>
-	5. croissant (7:14)<br>
+	3. TimeBreaker (1:1)<br>
+	4. pablo55 (2:5)<br>
+	5. croissant (6:14)<br>
 	6. dIehAppY (4:5)<br>
 	7. Xoi (0:1)<br>
-	8. mr.oujia (0:2)<br>
-	9. eLemeNt. (1:2)<br>
-	10. STruC (9:8)<br>
+	8. eLemeNt. (1:2)<br>
+	9. STruC (10:9)<br>
+	10. doeish (4:6)<br>
 <br>
-52. #Sadic (1056) -10<br>
-+15|+11|+48|+18|+19|-9|-26|-8|-10|-3<br>
-	3. pablo55 (2:3)<br>
-	4. TimeBreaker (26:50)<br>
-	5. croissant (4:3)<br>
-	6. dIehAppY (0:2)<br>
-	7. Xoi (3:9)<br>
-	8. mr.oujia (1:0)<br>
-	9. eLemeNt. (12:21)<br>
-	10. STruC (3:7)<br>
+47. #Meep (1040) -18<br>
++59|-21|+8|-47|-43|-14|-22|0|-15|-17<br>
+	1. Artimal_PL (4:5)<br>
+	2. shunrai (5:4)<br>
+	4. pablo55 (15:6)<br>
+	5. croissant (2:5)<br>
+	8. eLemeNt. (3:3)<br>
+	9. STruC (2:4)<br>
+	10. doeish (1:1)<br>
 <br>
-53. #dps109 (1038) 0<br>
--17|-17|-23|-17|-18|-14|-16|-9|-1|0<br>
-	1. Artimal_PL (4:8)<br>
-	2. shunrai (13:25)<br>
-	3. pablo55 (2:6)<br>
-	4. TimeBreaker (0:1)<br>
-	5. croissant (1:4)<br>
-	6. dIehAppY (1:10)<br>
-	8. mr.oujia (5:6)<br>
-	9. eLemeNt. (10:16)<br>
-	10. STruC (3:4)<br>
-<br>
-54. #quantum (1037) +3<br>
--45|-51|-57|-43|-11|-2|+7|-22|-11|-1<br>
+48. #quantum (1039) +6<br>
+-43|-49|-35|-4|+5|+13|-16|-6|+4|+1<br>
 	1. Artimal_PL (3:3)<br>
 	2. shunrai (12:20)<br>
-	3. pablo55 (0:1)<br>
-	4. TimeBreaker (8:4)<br>
-	5. croissant (5:6)<br>
+	3. TimeBreaker (8:4)<br>
+	4. pablo55 (1:1)<br>
+	5. croissant (7:11)<br>
 	6. dIehAppY (3:5)<br>
-	7. Xoi (5:2)<br>
-	8. mr.oujia (4:6)<br>
-	9. eLemeNt. (1:8)<br>
-	10. STruC (4:8)<br>
+	7. Xoi (6:7)<br>
+	8. eLemeNt. (5:13)<br>
+	9. STruC (6:13)<br>
+	10. doeish (10:7)<br>
 <br>
-55. #sjehsan (1033) -1<br>
-+27|+27|+25|+4|-1|-6|-6|-5|-3|-1<br>
-	1. Artimal_PL (4:7)<br>
-	2. shunrai (1:5)<br>
-	3. pablo55 (0:2)<br>
-	4. TimeBreaker (2:2)<br>
-	5. croissant (2:3)<br>
-	6. dIehAppY (2:4)<br>
-	8. mr.oujia (0:3)<br>
-	9. eLemeNt. (3:2)<br>
-	10. STruC (2:0)<br>
+49. #dps109 (1029) 0<br>
+-18|-17|-23|-18|-19|-14|-16|-9|-2|0<br>
+	1. Artimal_PL (4:8)<br>
+	2. shunrai (13:25)<br>
+	3. TimeBreaker (0:1)<br>
+	4. pablo55 (2:6)<br>
+	5. croissant (1:4)<br>
+	6. dIehAppY (1:10)<br>
+	8. eLemeNt. (10:16)<br>
+	9. STruC (3:4)<br>
+	10. doeish (1:0)<br>
 <br>
-56. #VOSTOK (1032) 0<br>
--43|-50|-57|-7|-1|+7|+6|+1|0|-3<br>
+50. #VOSTOK (1025) -1<br>
+-40|-47|-55|-5|0|+7|+6|+1|0|-4<br>
 	2. shunrai (4:5)<br>
-	3. pablo55 (0:4)<br>
-	4. TimeBreaker (11:12)<br>
-	5. croissant (2:5)<br>
-	8. mr.oujia (4:2)<br>
-	9. eLemeNt. (3:6)<br>
-	10. STruC (1:8)<br>
+	3. TimeBreaker (11:12)<br>
+	4. pablo55 (0:4)<br>
+	5. croissant (3:5)<br>
+	8. eLemeNt. (3:6)<br>
+	9. STruC (1:8)<br>
+	10. doeish (3:9)<br>
 <br>
-57. #yeasonn (1032) 0<br>
-+22|+19|+10|+4|-2|-5|-5|-10|-8|-4<br>
+51. #yeasonn (1021) +1<br>
++23|+21|+11|+5|-1|-4|-4|-9|-7|-3<br>
 	1. Artimal_PL (3:4)<br>
 	2. shunrai (10:18)<br>
-	3. pablo55 (0:3)<br>
-	4. TimeBreaker (3:4)<br>
-	5. croissant (7:10)<br>
+	3. TimeBreaker (3:4)<br>
+	4. pablo55 (0:3)<br>
+	5. croissant (6:9)<br>
 	6. dIehAppY (4:3)<br>
-	8. mr.oujia (7:12)<br>
-	9. eLemeNt. (3:14)<br>
-	10. STruC (5:10)<br>
+	7. Xoi (1:3)<br>
+	8. eLemeNt. (3:14)<br>
+	9. STruC (5:10)<br>
+	10. doeish (12:20)<br>
 <br>
-58. #gervi (1014) -2<br>
--20|-14|-21|-23|-20|-18|-17|-12|-7|-2<br>
-	1. Artimal_PL (1:3)<br>
-	2. shunrai (6:13)<br>
-	3. pablo55 (2:9)<br>
-	4. TimeBreaker (2:3)<br>
-	5. croissant (3:7)<br>
-	6. dIehAppY (2:6)<br>
-	7. Xoi (1:1)<br>
-	8. mr.oujia (0:3)<br>
-	9. eLemeNt. (1:2)<br>
-	10. STruC (5:4)<br>
-<br>
-59. #phantomplan (1008) 0<br>
--9|+8|+19|-52|-35|-29|-6|+8|+16|0<br>
+52. #phantomplan (1003) 0<br>
+-6|+12|+23|-52|-32|-26|-1|+11|+17|0<br>
 	2. shunrai (14:15)<br>
-	3. pablo55 (4:5)<br>
+	4. pablo55 (5:7)<br>
 	5. croissant (0:2)<br>
 	6. dIehAppY (0:2)<br>
-	8. mr.oujia (5:9)<br>
-	9. eLemeNt. (0:3)<br>
-	10. STruC (4:17)<br>
+	8. eLemeNt. (0:3)<br>
+	9. STruC (4:17)<br>
+	10. doeish (3:3)<br>
 <br>
-60. #ShyBubble~199 (996) -6<br>
-+8|+16|-6|+32|+16|+14|+11|+2|+6|+3<br>
-	1. Artimal_PL (0:6)<br>
-	2. shunrai (2:11)<br>
-	3. pablo55 (0:1)<br>
-	4. TimeBreaker (6:10)<br>
-	6. dIehAppY (0:1)<br>
-	8. mr.oujia (8:15)<br>
-	9. eLemeNt. (1:6)<br>
-	10. STruC (1:6)<br>
+53. #gervi (1000) 0<br>
+-20|-15|-22|-23|-20|-19|-17|-12|-7|-2<br>
+	1. Artimal_PL (1:3)<br>
+	2. shunrai (6:13)<br>
+	3. TimeBreaker (2:3)<br>
+	4. pablo55 (2:9)<br>
+	5. croissant (1:4)<br>
+	6. dIehAppY (4:6)<br>
+	7. Xoi (2:5)<br>
+	8. eLemeNt. (1:2)<br>
+	9. STruC (3:7)<br>
 <br>
-61. #LastTimeLord (989) +3<br>
-+17|+15|+26|+22|+19|+20|+26|+15|+12|+1<br>
-	1. Artimal_PL (19:21)<br>
-	2. shunrai (14:24)<br>
-	3. pablo55 (20:13)<br>
-	4. TimeBreaker (1:3)<br>
-	5. croissant (3:7)<br>
-	6. dIehAppY (2:10)<br>
-	7. Xoi (1:1)<br>
-	8. mr.oujia (6:3)<br>
-	9. eLemeNt. (8:17)<br>
-	10. STruC (4:4)<br>
-<br>
-62. #edache22 (964) +2<br>
-+27|+23|+17|+8|+10|+4|+5|+1|+3|+1<br>
+54. #edache22 (991) -1<br>
++18|+12|+4|+6|+1|+2|-2|0|-2|-1<br>
 	1. Artimal_PL (12:30)<br>
 	2. shunrai (23:38)<br>
-	3. pablo55 (17:25)<br>
-	4. TimeBreaker (61:37)<br>
-	5. croissant (14:11)<br>
-	6. dIehAppY (19:21)<br>
-	7. Xoi (3:3)<br>
-	8. mr.oujia (6:12)<br>
-	9. eLemeNt. (6:1)<br>
-	10. STruC (17:32)<br>
+	3. TimeBreaker (58:40)<br>
+	4. pablo55 (19:27)<br>
+	5. croissant (14:12)<br>
+	6. dIehAppY (19:22)<br>
+	7. Xoi (5:5)<br>
+	8. eLemeNt. (6:1)<br>
+	9. STruC (17:39)<br>
+	10. doeish (37:27)<br>
 <br>
-63. #Kaborage (959) 0<br>
--23|-14|-6|-1|-4|+8|0|+6|+1|+2<br>
+55. #LastTimeLord (983) 0<br>
++17|+28|+24|+20|+21|+26|+16|+12|+1|+1<br>
+	1. Artimal_PL (19:21)<br>
+	2. shunrai (14:24)<br>
+	3. TimeBreaker (1:3)<br>
+	4. pablo55 (20:13)<br>
+	5. croissant (3:5)<br>
+	6. dIehAppY (4:20)<br>
+	7. Xoi (1:1)<br>
+	8. eLemeNt. (8:17)<br>
+	9. STruC (4:4)<br>
+	10. doeish (23:19)<br>
+<br>
+56. #ShyBubble~199 (976) -16<br>
+0|-22|+15|-2|-4|-6|-16|-9|-14|+1<br>
+	1. Artimal_PL (0:6)<br>
+	2. shunrai (2:11)<br>
+	3. TimeBreaker (6:10)<br>
+	4. pablo55 (0:4)<br>
+	5. croissant (1:0)<br>
+	6. dIehAppY (0:1)<br>
+	7. Xoi (1:9)<br>
+	8. eLemeNt. (1:6)<br>
+	9. STruC (1:6)<br>
+	10. doeish (8:6)<br>
+<br>
+57. #Kaborage (969) +4<br>
+-18|-9|-2|+4|0|+12|+4|+10|+4|+6<br>
 	1. Artimal_PL (9:18)<br>
 	2. shunrai (15:19)<br>
-	3. pablo55 (3:17)<br>
-	4. TimeBreaker (13:13)<br>
+	3. TimeBreaker (13:13)<br>
+	4. pablo55 (4:17)<br>
 	5. croissant (5:11)<br>
 	6. dIehAppY (0:1)<br>
 	7. Xoi (4:2)<br>
-	8. mr.oujia (7:13)<br>
-	9. eLemeNt. (10:2)<br>
-	10. STruC (14:23)<br>
+	8. eLemeNt. (10:2)<br>
+	9. STruC (13:24)<br>
+	10. doeish (8:14)<br>
 <br>
-64. #ModernFlame~336 (950) -1<br>
-+71|+76|+69|+95|+22|+3|+42|+60<br>
-	1. Artimal_PL (1:3)<br>
-	2. shunrai (1:3)<br>
-	4. TimeBreaker (0:1)<br>
-	5. croissant (0:5)<br>
-	6. dIehAppY (1:2)<br>
-	7. Xoi (0:2)<br>
-	9. eLemeNt. (4:1)<br>
-	10. STruC (1:2)<br>
-<br>
-65. #Grimfandango (939) -2<br>
-+8|+5|-8|-4|-14|-19|+3|0|-6|+9<br>
+58. #Grimfandango (945) -3<br>
+-2|-15|-8|-18|-23|-1|-3|-9|+5|+4<br>
 	2. shunrai (0:8)<br>
-	3. pablo55 (2:3)<br>
-	4. TimeBreaker (6:2)<br>
+	3. TimeBreaker (6:2)<br>
+	4. pablo55 (2:4)<br>
 	5. croissant (0:4)<br>
 	7. Xoi (0:1)<br>
-	8. mr.oujia (9:8)<br>
-	9. eLemeNt. (0:4)<br>
-	10. STruC (6:9)<br>
+	8. eLemeNt. (0:4)<br>
+	9. STruC (6:9)<br>
 <br>
-66. #mashehu (929) -3<br>
--59|-38|-14|-18|-28|-1|+5|+5|+5|+4<br>
+59. #mashehu (930) -1<br>
+-55|-34|-12|-16|-27|-1|+5|+5|+4|+3<br>
 	1. Artimal_PL (2:3)<br>
 	2. shunrai (4:11)<br>
-	3. pablo55 (1:7)<br>
-	4. TimeBreaker (2:1)<br>
-	5. croissant (3:2)<br>
+	3. TimeBreaker (2:0)<br>
+	4. pablo55 (1:7)<br>
+	5. croissant (1:0)<br>
 	6. dIehAppY (4:10)<br>
-	8. mr.oujia (0:1)<br>
-	9. eLemeNt. (1:2)<br>
-	10. STruC (2:9)<br>
+	8. eLemeNt. (1:2)<br>
+	9. STruC (2:9)<br>
+	10. doeish (2:8)<br>
 <br>
-67. #Yulia1984 (919) -10<br>
--49|-18|+36|-32|-13|0|+7|+17|+8|+22<br>
-	1. Artimal_PL (0:1)<br>
-	2. shunrai (0:4)<br>
-	3. pablo55 (7:6)<br>
-	6. dIehAppY (5:14)<br>
-	8. mr.oujia (1:1)<br>
-	9. eLemeNt. (7:11)<br>
-	10. STruC (1:9)<br>
-<br>
-68. #Alburdy (898) 0<br>
--23|-294|-47|-103|-46|+17|+22<br>
+60. #Alburdy (910) 0<br>
+-18|-281|-38|-91|-37|+22|+23<br>
 	1. Artimal_PL (2:4)<br>
 	2. shunrai (7:7)<br>
-	3. pablo55 (2:2)<br>
-	4. TimeBreaker (10:8)<br>
-	9. eLemeNt. (1:5)<br>
-	10. STruC (1:1)<br>
+	3. TimeBreaker (9:3)<br>
+	4. pablo55 (2:2)<br>
+	9. STruC (1:1)<br>
+	10. doeish (2:6)<br>
 <br>
-69. #GreenDeer~922 (844) -6<br>
-+12|-119|-37|-3|-45|-63|-46|-22|-24|-5<br>
+61. #Yulia1984 (901) -25<br>
+-81|-43|+12|-62|-42|-27|-19|-8|-18|-4<br>
+	1. Artimal_PL (0:1)<br>
+	2. shunrai (0:4)<br>
+	4. pablo55 (7:6)<br>
+	6. dIehAppY (5:14)<br>
+	8. eLemeNt. (7:11)<br>
+	9. STruC (1:9)<br>
+	10. doeish (0:1)<br>
+<br>
+62. #GreenDeer~922 (898) +30<br>
++25|-79|+6|+35|-10|-31|-14|+9|+6|+25<br>
 	1. Artimal_PL (2:7)<br>
 	2. shunrai (9:23)<br>
-	3. pablo55 (7:6)<br>
-	4. TimeBreaker (4:4)<br>
+	3. TimeBreaker (4:4)<br>
+	4. pablo55 (7:6)<br>
 	5. croissant (3:3)<br>
 	6. dIehAppY (5:14)<br>
 	7. Xoi (2:4)<br>
-	8. mr.oujia (4:2)<br>
-	9. eLemeNt. (8:16)<br>
-	10. STruC (7:16)<br>
+	8. eLemeNt. (8:16)<br>
+	9. STruC (7:16)<br>
+	10. doeish (5:20)<br>
 <br>
-70. #GeeFive (824) -12<br>
--13|-36|-54|-21|-12|-45|-29|-12|-25|-14<br>
+63. #GeeFive (888) +2<br>
++6|-22|-42|-11|-6|-40|-24|-7|-20|-10<br>
 	1. Artimal_PL (4:11)<br>
 	2. shunrai (15:24)<br>
-	3. pablo55 (4:10)<br>
-	4. TimeBreaker (32:49)<br>
+	3. TimeBreaker (32:48)<br>
+	4. pablo55 (5:10)<br>
 	5. croissant (2:6)<br>
 	6. dIehAppY (3:4)<br>
 	7. Xoi (2:1)<br>
-	8. mr.oujia (4:9)<br>
-	9. eLemeNt. (1:0)<br>
-	10. STruC (3:15)<br>
+	8. eLemeNt. (1:0)<br>
+	9. STruC (4:17)<br>
+	10. doeish (17:19)<br>
