@@ -3,15 +3,15 @@ Recent win rates against top 10 over the past 20k matches<br>
 1. #zamrai (1330) 0<br>
 -38|-29|-6|+3|-1|-13|-3|+13|+5|0<br>
 	3. fifty6 (5:9)<br>
-	4. TidyBoot-653 (49:51)<br>
+	4. tidyboot-653 (49:51)<br>
 	5. dIehAppY (5:6)<br>
 	6. Omnibus (2:0)<br>
 	7. rho (7:10)<br>
 	9. GoOody (8:11)<br>
 	10. Symsymmy (3:1)<br>
 <br>
-2. #JDHA218 (1308) 0<br>
-+154|+166|+143|+112|+81|+76|+56|+47|+13|-6<br>
+2. #JDHA218 (1311) +3<br>
++157|+169|+146|+115|+84|+79|+59|+50|+15|-3<br>
 	3. fifty6 (22:18)<br>
 	7. rho (23:19)<br>
 	8. xMilly (1:2)<br>
@@ -21,12 +21,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 +73|+141|+13|-19|+24|+22|-7<br>
 	1. zamrai (9:5)<br>
 	2. JDHA218 (18:22)<br>
-	4. TidyBoot-653 (17:24)<br>
+	4. tidyboot-653 (17:24)<br>
 	5. dIehAppY (59:76)<br>
 	7. rho (15:15)<br>
 	10. Symsymmy (5:5)<br>
 <br>
-4. #TidyBoot-653 (1290) 0<br>
+4. #tidyboot-653 (1290) 0<br>
 -71|+58|+17|-45|+34|-18|-13|-35|-17<br>
 	1. zamrai (51:49)<br>
 	3. fifty6 (24:17)<br>
@@ -37,11 +37,11 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. GoOody (10:10)<br>
 	10. Symsymmy (4:2)<br>
 <br>
-5. #dIehAppY (1280) +3<br>
+5. #dIehAppY (1280) 0<br>
 +4|+7|+14|+13|+14|+16|+16|+11|+5|+4<br>
 	1. zamrai (6:5)<br>
 	3. fifty6 (76:59)<br>
-	4. TidyBoot-653 (78:76)<br>
+	4. tidyboot-653 (78:76)<br>
 	6. Omnibus (2:2)<br>
 	7. rho (2:5)<br>
 	8. xMilly (17:18)<br>
@@ -51,37 +51,37 @@ Recent win rates against top 10 over the past 20k matches<br>
 6. #Omnibus (1280) 0<br>
 +81|+97|+82|+52|+71|+76|+24|+9|+6|-11<br>
 	1. zamrai (0:2)<br>
-	4. TidyBoot-653 (1:1)<br>
+	4. tidyboot-653 (1:1)<br>
 	5. dIehAppY (2:2)<br>
 	7. rho (1:3)<br>
 	9. GoOody (2:0)<br>
 	10. Symsymmy (9:4)<br>
 <br>
 7. #rho (1266) 0<br>
-+237|+134|+132|+122|+135|+98|+126|+70|+58|+18<br>
++238|+134|+132|+123|+135|+98|+126|+70|+58|+18<br>
 	1. zamrai (10:7)<br>
 	2. JDHA218 (19:23)<br>
 	3. fifty6 (15:15)<br>
-	4. TidyBoot-653 (6:10)<br>
+	4. tidyboot-653 (6:10)<br>
 	5. dIehAppY (5:2)<br>
 	6. Omnibus (3:1)<br>
 	8. xMilly (3:2)<br>
 	9. GoOody (0:3)<br>
 	10. Symsymmy (1:2)<br>
 <br>
-8. #xMilly (1260) +3<br>
-+365|+161|-29|+20<br>
+8. #xMilly (1260) 0<br>
++366|+162|-28|+20<br>
 	2. JDHA218 (2:1)<br>
-	4. TidyBoot-653 (1:4)<br>
+	4. tidyboot-653 (1:4)<br>
 	5. dIehAppY (18:17)<br>
 	7. rho (2:3)<br>
 	9. GoOody (2:2)<br>
 	10. Symsymmy (1:3)<br>
 <br>
-9. #GoOody (1250) 0<br>
--21|-40|-21|-19|0|+6|+8|-7|-5|0<br>
+9. #GoOody (1252) 0<br>
+-19|-38|-18|-17|+2|+8|+10|-5|-3|-1<br>
 	1. zamrai (11:8)<br>
-	4. TidyBoot-653 (10:10)<br>
+	4. tidyboot-653 (10:10)<br>
 	5. dIehAppY (32:41)<br>
 	6. Omnibus (0:2)<br>
 	7. rho (3:0)<br>
@@ -92,7 +92,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	1. zamrai (1:3)<br>
 	2. JDHA218 (1:0)<br>
 	3. fifty6 (5:5)<br>
-	4. TidyBoot-653 (2:4)<br>
+	4. tidyboot-653 (2:4)<br>
 	5. dIehAppY (4:7)<br>
 	6. Omnibus (4:9)<br>
 	7. rho (2:1)<br>
@@ -116,11 +116,11 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Symsymmy (1:2)<br>
 <br>
 13. #Spinne (1239) 0<br>
-+8|-1|+1|-2|-2|+5|+9|+5|+1|+1<br>
++8|-1|+1|-2|-2|+5|+9|+5|+2|+1<br>
 	1. zamrai (13:25)<br>
 	2. JDHA218 (0:1)<br>
 	3. fifty6 (4:5)<br>
-	4. TidyBoot-653 (55:50)<br>
+	4. tidyboot-653 (55:50)<br>
 	5. dIehAppY (56:62)<br>
 	6. Omnibus (18:25)<br>
 	7. rho (4:1)<br>
@@ -141,56 +141,56 @@ Recent win rates against top 10 over the past 20k matches<br>
 15. #joropo808 (1234) 0<br>
 +51|-1|+1|+35|+22|+3|+29|+16<br>
 	3. fifty6 (2:0)<br>
-	4. TidyBoot-653 (5:10)<br>
+	4. tidyboot-653 (5:10)<br>
 	5. dIehAppY (18:19)<br>
 	9. GoOody (5:3)<br>
 <br>
-16. #pablo55 (1232) +6<br>
-+86|+141|+134|+111|+50|+49|+55|+24|+27|+14<br>
+16. #pablo55 (1232) -1<br>
++86|+142|+134|+111|+50|+49|+55|+25|+26|+12<br>
 	1. zamrai (2:6)<br>
-	2. JDHA218 (8:2)<br>
+	2. JDHA218 (9:4)<br>
 	3. fifty6 (7:4)<br>
-	4. TidyBoot-653 (1:3)<br>
+	4. tidyboot-653 (1:3)<br>
 	5. dIehAppY (11:11)<br>
 	6. Omnibus (1:3)<br>
 	8. xMilly (4:0)<br>
 	10. Symsymmy (6:4)<br>
 <br>
 17. #zeropoint (1213) 0<br>
-+34|+30|+31|+25|+23|+12|-1|+7|+4|-1<br>
++34|+30|+31|+26|+23|+13|-1|+7|+4|-1<br>
 	1. zamrai (1:2)<br>
 	2. JDHA218 (9:6)<br>
-	5. dIehAppY (28:38)<br>
+	5. dIehAppY (21:29)<br>
 	6. Omnibus (6:6)<br>
 	8. xMilly (2:3)<br>
 	9. GoOody (7:8)<br>
 	10. Symsymmy (1:3)<br>
 <br>
-18. #GoodAce (1211) 0<br>
--5|-7|-4|-11|-12|-3|-18|-18|-12|+1<br>
-	1. zamrai (4:5)<br>
-	2. JDHA218 (10:9)<br>
-	3. fifty6 (6:15)<br>
-	4. TidyBoot-653 (10:15)<br>
-	5. dIehAppY (24:41)<br>
-	8. xMilly (4:3)<br>
-	9. GoOody (6:6)<br>
-	10. Symsymmy (25:32)<br>
-<br>
-19. #GooZok (1210) 0<br>
--46|-56|-37|-21|-22|-21|-7|+1|+6|0<br>
+18. #GooZok (1212) +1<br>
+-44|-54|-36|-20|-21|-20|-5|+2|+8|+2<br>
 	2. JDHA218 (2:2)<br>
-	4. TidyBoot-653 (6:10)<br>
+	4. tidyboot-653 (6:10)<br>
 	5. dIehAppY (3:1)<br>
 	7. rho (3:6)<br>
 	9. GoOody (4:4)<br>
 	10. Symsymmy (0:1)<br>
 <br>
-20. #STruC (1210) -2<br>
+19. #GoodAce (1210) 0<br>
+-5|-7|-4|-12|-12|-3|-18|-18|-13|+1<br>
+	1. zamrai (4:5)<br>
+	2. JDHA218 (10:9)<br>
+	3. fifty6 (6:15)<br>
+	4. tidyboot-653 (10:15)<br>
+	5. dIehAppY (24:41)<br>
+	8. xMilly (4:3)<br>
+	9. GoOody (6:6)<br>
+	10. Symsymmy (25:32)<br>
+<br>
+20. #STruC (1210) 0<br>
 +7|0|-35|-35|-44|-34|-6|-6|0|-4<br>
 	1. zamrai (12:13)<br>
 	2. JDHA218 (1:0)<br>
-	4. TidyBoot-653 (2:1)<br>
+	4. tidyboot-653 (2:1)<br>
 	5. dIehAppY (54:62)<br>
 	6. Omnibus (13:16)<br>
 	8. xMilly (0:1)<br>
@@ -201,16 +201,16 @@ Recent win rates against top 10 over the past 20k matches<br>
 	1. zamrai (0:3)<br>
 	2. JDHA218 (12:10)<br>
 	3. fifty6 (3:7)<br>
-	4. TidyBoot-653 (2:2)<br>
+	4. tidyboot-653 (2:2)<br>
 	5. dIehAppY (4:9)<br>
 	7. rho (3:7)<br>
 <br>
-22. #NinjaBooM (1202) -1<br>
-+18|+27|+24|+2|+13|+6|0|+4|-11|-7<br>
+22. #NinjaBooM (1205) +3<br>
++21|+30|+27|+5|+16|+9|+4|+7|-8|-4<br>
 	1. zamrai (19:34)<br>
 	2. JDHA218 (2:2)<br>
 	3. fifty6 (4:21)<br>
-	4. TidyBoot-653 (65:70)<br>
+	4. tidyboot-653 (65:70)<br>
 	5. dIehAppY (50:69)<br>
 	6. Omnibus (5:6)<br>
 	7. rho (14:18)<br>
@@ -220,63 +220,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 23. #blini (1201) 0<br>
 +46|+54|+105|+102|+26|-16|+42|+8|+9|-2<br>
-	1. zamrai (5:7)<br>
+	1. zamrai (3:2)<br>
 	2. JDHA218 (2:0)<br>
-	4. TidyBoot-653 (4:2)<br>
+	4. tidyboot-653 (4:2)<br>
 	5. dIehAppY (4:6)<br>
 	6. Omnibus (2:6)<br>
 	7. rho (1:2)<br>
 	9. GoOody (1:2)<br>
 <br>
-24. #Enlights (1197) -1<br>
-+2|-1|-4|-16|-15|-5|-13|-9|-6|-10<br>
-	1. zamrai (0:1)<br>
-	2. JDHA218 (2:0)<br>
-	5. dIehAppY (14:13)<br>
-	8. xMilly (2:1)<br>
-	9. GoOody (17:20)<br>
-	10. Symsymmy (2:4)<br>
-<br>
-25. #spaceycarrot (1195) -1<br>
-+172|+215|+182|+129|+89|+84|+50|+55|+56|+31<br>
-	2. JDHA218 (0:1)<br>
-	4. TidyBoot-653 (2:3)<br>
-	5. dIehAppY (1:0)<br>
-	8. xMilly (2:2)<br>
-	10. Symsymmy (1:1)<br>
-<br>
-26. #mafl (1193) 0<br>
--9|-8|0|-16|-18|-14|-3|+8|-1|+4<br>
-	2. JDHA218 (2:0)<br>
-	4. TidyBoot-653 (2:1)<br>
-	5. dIehAppY (5:14)<br>
-	6. Omnibus (1:3)<br>
-	8. xMilly (0:3)<br>
-<br>
-27. #jas (1192) 0<br>
--1|-5|-7|0|-3|+2|0|+6|+3|+1<br>
-	3. fifty6 (1:2)<br>
-	4. TidyBoot-653 (20:23)<br>
-	5. dIehAppY (69:80)<br>
-	8. xMilly (10:11)<br>
-	9. GoOody (3:10)<br>
-	10. Symsymmy (7:6)<br>
-<br>
-28. #KANT (1189) 0<br>
-+27|+51|+39|+44|+47|+28|+44|+24|+12|+10<br>
-	1. zamrai (2:1)<br>
-	4. TidyBoot-653 (5:5)<br>
-	5. dIehAppY (18:26)<br>
-	7. rho (8:13)<br>
-	8. xMilly (1:0)<br>
-	9. GoOody (5:4)<br>
-	10. Symsymmy (0:1)<br>
-<br>
-29. #GenghisCon (1189) 0<br>
-+32|+14|+25|+13|+4|+21|+30|-9|-31|-25<br>
+24. #GenghisCon (1199) +10<br>
++42|+24|+35|+24|+14|+31|+40|+1|-20|-15<br>
 	1. zamrai (10:14)<br>
 	2. JDHA218 (2:5)<br>
-	4. TidyBoot-653 (37:46)<br>
+	4. tidyboot-653 (37:46)<br>
 	5. dIehAppY (26:33)<br>
 	6. Omnibus (3:1)<br>
 	7. rho (7:6)<br>
@@ -284,9 +240,60 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. GoOody (2:3)<br>
 	10. Symsymmy (1:1)<br>
 <br>
-30. #YTTY-feAst (1186) 0<br>
-+113|+8<br>
-	2. JDHA218 (13:20)<br>
+25. #spaceycarrot (1198) 0<br>
++218|+185|+132|+92|+87|+54|+58|+60|+35|+14<br>
+	2. JDHA218 (0:1)<br>
+	4. tidyboot-653 (2:3)<br>
+	5. dIehAppY (1:0)<br>
+	7. rho (3:0)<br>
+	8. xMilly (2:2)<br>
+	9. GoOody (11:13)<br>
+	10. Symsymmy (6:6)<br>
+<br>
+26. #Enlights (1196) -1<br>
++1|-2|-5|-16|-15|-6|-14|-10|-7|-11<br>
+	1. zamrai (0:1)<br>
+	2. JDHA218 (2:2)<br>
+	5. dIehAppY (14:13)<br>
+	8. xMilly (2:1)<br>
+	9. GoOody (17:20)<br>
+	10. Symsymmy (2:4)<br>
+<br>
+27. #mafl (1193) 0<br>
+-9|-8|+1|-16|-17|-14|-2|+8|-1|+5<br>
+	2. JDHA218 (2:0)<br>
+	4. tidyboot-653 (2:1)<br>
+	5. dIehAppY (5:14)<br>
+	6. Omnibus (1:3)<br>
+	8. xMilly (0:3)<br>
+<br>
+28. #jas (1192) 0<br>
+-1|-5|-6|0|-3|+2|0|+7|+4|+1<br>
+	3. fifty6 (1:2)<br>
+	4. tidyboot-653 (20:23)<br>
+	5. dIehAppY (69:80)<br>
+	8. xMilly (10:11)<br>
+	9. GoOody (3:10)<br>
+	10. Symsymmy (7:6)<br>
+<br>
+29. #KANT (1189) 0<br>
++27|+51|+39|+44|+47|+28|+44|+24|+12|+10<br>
+	1. zamrai (2:1)<br>
+	4. tidyboot-653 (5:5)<br>
+	5. dIehAppY (18:26)<br>
+	7. rho (8:13)<br>
+	8. xMilly (1:0)<br>
+	9. GoOody (5:4)<br>
+	10. Symsymmy (0:1)<br>
+<br>
+30. #jman8080 (1189) +24<br>
++270|+91|+113|+46|+68|+36|+65|+71|+53|+32<br>
+	1. zamrai (0:3)<br>
+	4. tidyboot-653 (3:2)<br>
+	5. dIehAppY (5:6)<br>
+	7. rho (6:7)<br>
+	9. GoOody (0:1)<br>
+	10. Symsymmy (1:3)<br>
 <br>
 31. #Parko (1184) 0<br>
 +96|+113|+111|+91|+75|+78|+64|+39|+9|+12<br>
@@ -296,9 +303,9 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 32. #Gyrfa1con (1184) 0<br>
 +5|-3|-6|-22|-33|-20|-7|-13|0|+11<br>
-	1. zamrai (8:9)<br>
+	1. zamrai (3:3)<br>
 	3. fifty6 (2:0)<br>
-	4. TidyBoot-653 (29:28)<br>
+	4. tidyboot-653 (29:28)<br>
 	5. dIehAppY (19:25)<br>
 	8. xMilly (3:7)<br>
 	9. GoOody (8:6)<br>
@@ -308,7 +315,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 +27|+24|+37|+37|-2|+10|-1|-10|-5|-3<br>
 	1. zamrai (1:2)<br>
 	2. JDHA218 (1:0)<br>
-	4. TidyBoot-653 (5:7)<br>
+	4. tidyboot-653 (5:7)<br>
 	5. dIehAppY (1:2)<br>
 	6. Omnibus (5:5)<br>
 	7. rho (1:1)<br>
@@ -322,47 +329,38 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. rho (1:10)<br>
 <br>
 35. #BenjiKozor (1166) 0<br>
-+8|-38|+2|+21|+20|+10|+29|-2|+9|-2<br>
++8|-37|+2|+21|+20|+10|+29|-2|+9|-2<br>
 	2. JDHA218 (3:8)<br>
-	4. TidyBoot-653 (2:6)<br>
+	4. tidyboot-653 (2:6)<br>
 	5. dIehAppY (46:55)<br>
 	9. GoOody (12:13)<br>
 	10. Symsymmy (2:6)<br>
 <br>
-36. #jman8080 (1165) 0<br>
-+247|+68|+90|+23|+44|+12|+42|+48|+29|+7<br>
-	1. zamrai (0:3)<br>
-	4. TidyBoot-653 (3:2)<br>
-	5. dIehAppY (5:6)<br>
-	7. rho (6:7)<br>
-	9. GoOody (0:1)<br>
-	10. Symsymmy (1:3)<br>
-<br>
-37. #keyblade335 (1152) 0<br>
-+6|+10|+10|+10|+7|+12|+4|-9|-10|-1<br>
+36. #keyblade335 (1152) 0<br>
++6|+10|+10|+10|+7|+12|+3|-9|-10|-1<br>
 	1. zamrai (5:6)<br>
 	2. JDHA218 (2:0)<br>
 	3. fifty6 (1:0)<br>
-	4. TidyBoot-653 (2:4)<br>
+	4. tidyboot-653 (2:4)<br>
 	5. dIehAppY (15:10)<br>
 	7. rho (9:13)<br>
 	8. xMilly (6:7)<br>
 	9. GoOody (0:5)<br>
 	10. Symsymmy (2:8)<br>
 <br>
-38. #Rawz (1148) 0<br>
-+67|+40|+37|+17|-10|-25|-7|-27|+1|-9<br>
+37. #Rawz (1148) 0<br>
++68|+40|+37|+17|-10|-25|-7|-27|+1|-9<br>
 	3. fifty6 (0:5)<br>
 	5. dIehAppY (4:19)<br>
 <br>
-39. #SweetTooth~619 (1145) 0<br>
+38. #SweetTooth~619 (1145) 0<br>
 +43|-105|+90|+60|+3|-16|-14<br>
 	1. zamrai (0:1)<br>
-	4. TidyBoot-653 (32:33)<br>
+	4. tidyboot-653 (32:33)<br>
 	5. dIehAppY (40:38)<br>
 	8. xMilly (6:6)<br>
 <br>
-40. #SaltyKettle~572 (1143) 0<br>
+39. #SaltyKettle~572 (1143) 0<br>
 +50|-30|+27|-38|+2<br>
 	1. zamrai (0:1)<br>
 	2. JDHA218 (14:15)<br>
@@ -371,33 +369,33 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. xMilly (5:3)<br>
 	9. GoOody (0:2)<br>
 <br>
-41. #topisagirl (1142) -2<br>
+40. #topisagirl (1142) 0<br>
 -3|+40|+44|-5|+13|-8|-21|-36|-30|0<br>
 	2. JDHA218 (18:12)<br>
-	4. TidyBoot-653 (1:2)<br>
+	4. tidyboot-653 (1:2)<br>
 	5. dIehAppY (24:22)<br>
 	9. GoOody (4:5)<br>
 	10. Symsymmy (0:1)<br>
 <br>
-42. #SooWooP (1141) 0<br>
+41. #SooWooP (1141) 0<br>
 +83|-29|-5<br>
 	1. zamrai (3:4)<br>
-	4. TidyBoot-653 (3:3)<br>
+	4. tidyboot-653 (3:3)<br>
 	5. dIehAppY (5:6)<br>
 	6. Omnibus (6:9)<br>
 <br>
-43. #MAKki (1128) 0<br>
+42. #MAKki (1128) 0<br>
 +32|+24|+17|+6|0|-4|-2|-12|-7|-3<br>
-	4. TidyBoot-653 (0:6)<br>
+	4. tidyboot-653 (0:6)<br>
 	5. dIehAppY (23:40)<br>
 	7. rho (6:21)<br>
 	8. xMilly (3:12)<br>
 	9. GoOody (14:4)<br>
 <br>
-44. #quidnoVi (1125) +6<br>
-+44|+34|+40|+36|+25|+18|+8|+11|+10|+4<br>
+43. #quidnoVi (1123) -3<br>
++42|+31|+37|+34|+22|+15|+6|+9|+7|+1<br>
 	2. JDHA218 (5:8)<br>
-	4. TidyBoot-653 (1:1)<br>
+	4. tidyboot-653 (1:1)<br>
 	5. dIehAppY (3:12)<br>
 	6. Omnibus (7:3)<br>
 	7. rho (11:9)<br>
@@ -405,97 +403,77 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. GoOody (15:7)<br>
 	10. Symsymmy (5:8)<br>
 <br>
-45. #monsterV (1122) 0<br>
+44. #monsterV (1122) 0<br>
 +43|+37|+28|+19|+16|-2|-5|-10|-15|+1<br>
 	1. zamrai (15:17)<br>
 	2. JDHA218 (2:6)<br>
 	3. fifty6 (9:14)<br>
-	4. TidyBoot-653 (6:16)<br>
+	4. tidyboot-653 (6:16)<br>
 	6. Omnibus (1:6)<br>
 	7. rho (1:1)<br>
 	9. GoOody (4:6)<br>
 <br>
-46. #panadool (1121) 0<br>
--8|-8|-8|-8|-8|-12|-20|-23|-17|+2<br>
+45. #panadool (1121) 0<br>
+-8|-8|-8|-8|-7|-12|-20|-23|-17|+2<br>
 	2. JDHA218 (8:13)<br>
-	4. TidyBoot-653 (2:1)<br>
+	4. tidyboot-653 (2:1)<br>
 	5. dIehAppY (1:0)<br>
 	6. Omnibus (6:5)<br>
 	8. xMilly (3:8)<br>
 	9. GoOody (4:5)<br>
 <br>
-47. #tilltsimon (1120) 0<br>
+46. #tilltsimon (1120) 0<br>
 +82|-42|+56|+11<br>
 	1. zamrai (4:8)<br>
 	2. JDHA218 (2:1)<br>
 	3. fifty6 (3:6)<br>
-	4. TidyBoot-653 (0:5)<br>
+	4. tidyboot-653 (0:5)<br>
 	5. dIehAppY (9:16)<br>
 	7. rho (3:4)<br>
 	8. xMilly (0:1)<br>
 <br>
-48. #VOSTOK (1115) +4<br>
+47. #VOSTOK (1115) 0<br>
 +18|+23|+52|+32|+11|-13|-27|-27|-17|+5<br>
 	2. JDHA218 (3:9)<br>
-	4. TidyBoot-653 (5:13)<br>
+	4. tidyboot-653 (5:13)<br>
 	5. dIehAppY (13:22)<br>
 	6. Omnibus (2:0)<br>
 	7. rho (1:3)<br>
 	8. xMilly (0:1)<br>
 <br>
-49. #gervi (1112) 0<br>
+48. #gervi (1112) 0<br>
 -26|-33|-21|-24|-29|-25|-12|-3|-10|-1<br>
 	3. fifty6 (0:3)<br>
-	4. TidyBoot-653 (2:2)<br>
-	5. dIehAppY (4:8)<br>
+	4. tidyboot-653 (2:2)<br>
+	5. dIehAppY (1:2)<br>
 	7. rho (1:4)<br>
 	8. xMilly (2:8)<br>
 	10. Symsymmy (0:1)<br>
 <br>
-50. #blankedout (1105) 0<br>
+49. #blankedout (1105) 0<br>
 +162|+104|+36|+27|+2|-9|+30|+12|+7|+2<br>
 	1. zamrai (2:6)<br>
 	3. fifty6 (15:22)<br>
-	4. TidyBoot-653 (5:15)<br>
+	4. tidyboot-653 (5:15)<br>
 	5. dIehAppY (23:32)<br>
 	6. Omnibus (3:5)<br>
 	9. GoOody (18:19)<br>
 	10. Symsymmy (1:0)<br>
 <br>
-51. #quimlover (1101) 0<br>
+50. #quimlover (1101) 0<br>
 +31|+36|+9|-2|-9|-7|-1|-9|+3|0<br>
 	1. zamrai (2:5)<br>
 	2. JDHA218 (4:5)<br>
 	3. fifty6 (1:5)<br>
-	4. TidyBoot-653 (5:9)<br>
+	4. tidyboot-653 (5:9)<br>
 	5. dIehAppY (22:31)<br>
 	6. Omnibus (10:18)<br>
 	7. rho (4:17)<br>
 	8. xMilly (5:10)<br>
 	9. GoOody (1:10)<br>
 <br>
-52. #rpk (1091) 0<br>
--16|-5|+1|-3|+2|+7|+9|+10|+4|+3<br>
-	2. JDHA218 (3:3)<br>
-	3. fifty6 (1:7)<br>
-	5. dIehAppY (6:14)<br>
-	8. xMilly (4:7)<br>
-	9. GoOody (2:10)<br>
-	10. Symsymmy (10:21)<br>
-<br>
-53. #ruBEARRx (1090) 0<br>
-+15|+9|+5|-4|-3|-3|-2|-4|-5|-7<br>
-	2. JDHA218 (3:7)<br>
-	3. fifty6 (14:10)<br>
-	4. TidyBoot-653 (19:35)<br>
-	5. dIehAppY (51:73)<br>
-	6. Omnibus (3:10)<br>
-	7. rho (2:3)<br>
-	8. xMilly (0:3)<br>
-	9. GoOody (4:11)<br>
-<br>
-54. #Gideon (1090) +7<br>
--54|-31|-29|-21|-12|-12|-17|-12|-2|-4<br>
+51. #Gideon (1091) +1<br>
+-53|-30|-28|-20|-10|-11|-16|-11|-1|-3<br>
 	1. zamrai (2:2)<br>
 	2. JDHA218 (1:5)<br>
 	5. dIehAppY (43:61)<br>
@@ -503,7 +481,27 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. xMilly (0:1)<br>
 	9. GoOody (1:3)<br>
 <br>
-55. #FoxMulder (1073) 0<br>
+52. #ruBEARRx (1090) 0<br>
++15|+9|+5|-4|-3|-3|-2|-4|-5|-7<br>
+	2. JDHA218 (3:7)<br>
+	3. fifty6 (14:10)<br>
+	4. tidyboot-653 (19:35)<br>
+	5. dIehAppY (51:73)<br>
+	6. Omnibus (3:10)<br>
+	7. rho (2:3)<br>
+	8. xMilly (0:3)<br>
+	9. GoOody (4:11)<br>
+<br>
+53. #rpk (1085) -6<br>
+-22|-11|-5|-9|-3|+1|+3|+4|-2|-3<br>
+	2. JDHA218 (3:3)<br>
+	3. fifty6 (1:7)<br>
+	5. dIehAppY (6:14)<br>
+	8. xMilly (4:7)<br>
+	9. GoOody (2:10)<br>
+	10. Symsymmy (10:21)<br>
+<br>
+54. #FoxMulder (1073) 0<br>
 +90|+75|+26|-97|-25<br>
 	1. zamrai (12:20)<br>
 	2. JDHA218 (12:20)<br>
@@ -512,69 +510,63 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Omnibus (0:2)<br>
 	7. rho (0:2)<br>
 <br>
-56. #babymetal (1071) 0<br>
+55. #babymetal (1071) 0<br>
 +8|+17|+18|+10|+7|-3|-12|-11|-8|-10<br>
-	1. zamrai (3:4)<br>
-	4. TidyBoot-653 (3:11)<br>
+	1. zamrai (2:1)<br>
+	4. tidyboot-653 (3:11)<br>
 	5. dIehAppY (22:37)<br>
 	6. Omnibus (0:1)<br>
 	8. xMilly (6:8)<br>
 	9. GoOody (9:18)<br>
 <br>
-57. #Go4cHIPS (1069) 0<br>
+56. #Go4cHIPS (1069) 0<br>
 -7|+2|-1|+7|+18|0|+3|+1|+1|+2<br>
 	1. zamrai (2:3)<br>
 	2. JDHA218 (2:1)<br>
-	4. TidyBoot-653 (1:0)<br>
+	4. tidyboot-653 (1:0)<br>
 	7. rho (1:4)<br>
 	9. GoOody (1:6)<br>
 	10. Symsymmy (1:4)<br>
 <br>
-58. #warmant-116 (1067) 0<br>
+57. #warmant-116 (1067) 0<br>
 +11|+12|+3|+7|+3|+3|+3|-5|-5|-5<br>
 	1. zamrai (4:10)<br>
 	2. JDHA218 (8:14)<br>
 	3. fifty6 (0:2)<br>
-	4. TidyBoot-653 (6:9)<br>
+	4. tidyboot-653 (6:9)<br>
 	5. dIehAppY (17:33)<br>
 	6. Omnibus (2:5)<br>
 	8. xMilly (1:6)<br>
 <br>
-59. #Foxylocks12 (1066) 0<br>
--4|+60|+21|+21|+70|+70|-5|-24|+1<br>
+58. #Foxylocks12 (1067) 0<br>
+-3|+61|+22|+22|+71|+71|-4|-23|+1<br>
 	1. zamrai (0:1)<br>
 	5. dIehAppY (14:20)<br>
 	7. rho (2:2)<br>
 	8. xMilly (2:0)<br>
 	9. GoOody (1:9)<br>
 <br>
-60. #thedude (1063) 0<br>
--51|-32|-30|-24|-16|-21|-33|-21|-4|-2<br>
+59. #thedude (1065) +2<br>
+-49|-30|-28|-22|-14|-19|-31|-19|-2|+1<br>
 	1. zamrai (5:4)<br>
 	3. fifty6 (12:14)<br>
-	4. TidyBoot-653 (4:3)<br>
+	4. tidyboot-653 (4:3)<br>
 	5. dIehAppY (5:7)<br>
 	6. Omnibus (1:0)<br>
 	8. xMilly (1:0)<br>
 	9. GoOody (0:4)<br>
 	10. Symsymmy (2:8)<br>
 <br>
-61. #EMRose85 (1057) 0<br>
--11|-12|-9|-7|-7|-11|-9|-8|-2|-1<br>
-	4. TidyBoot-653 (4:3)<br>
-	6. Omnibus (4:8)<br>
-	7. rho (0:2)<br>
-<br>
-62. #ChiefBlkHawk (1055) 0<br>
+60. #ChiefBlkHawk (1055) 0<br>
 -9|-13|-97|-6|+53|+46|-4<br>
 	1. zamrai (0:2)<br>
-	4. TidyBoot-653 (3:2)<br>
+	4. tidyboot-653 (3:2)<br>
 	5. dIehAppY (19:43)<br>
 	8. xMilly (3:6)<br>
 	10. Symsymmy (6:15)<br>
 <br>
-63. #ammoore1028 (1042) +5<br>
-+62|+26|+23|+20|-11|-6|-19|-6|-2|+4<br>
+61. #ammoore1028 (1042) 0<br>
++63|+26|+23|+20|-11|-6|-19|-6|-2|+4<br>
 	1. zamrai (8:6)<br>
 	2. JDHA218 (0:5)<br>
 	3. fifty6 (1:3)<br>
@@ -584,11 +576,11 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. xMilly (2:0)<br>
 	9. GoOody (5:10)<br>
 <br>
-64. #raravan (1042) 0<br>
-+142|+118|+101|+76|+65|+52|+35|+20|+14|+13<br>
+62. #raravan (1042) 0<br>
++142|+118|+101|+76|+65|+52|+35|+20|+15|+13<br>
 	2. JDHA218 (0:5)<br>
 	3. fifty6 (1:3)<br>
-	4. TidyBoot-653 (2:5)<br>
+	4. tidyboot-653 (2:5)<br>
 	5. dIehAppY (9:11)<br>
 	6. Omnibus (22:40)<br>
 	7. rho (1:2)<br>
@@ -596,66 +588,66 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. GoOody (21:27)<br>
 	10. Symsymmy (10:5)<br>
 <br>
-65. #SUPREME._ (1034) 0<br>
+63. #SUPREME._ (1034) 0<br>
 -68|-16|-22|-40|+12|0|-20<br>
 	1. zamrai (7:11)<br>
 	3. fifty6 (2:5)<br>
-	4. TidyBoot-653 (16:37)<br>
+	4. tidyboot-653 (16:37)<br>
 	5. dIehAppY (38:72)<br>
 	6. Omnibus (2:3)<br>
 	8. xMilly (1:3)<br>
 	9. GoOody (8:19)<br>
 <br>
-66. #WHITE_OWL_ (1031) 0<br>
+64. #WHITE_OWL_ (1031) 0<br>
 -86|-14|-12<br>
 	1. zamrai (8:19)<br>
 <br>
-67. #s70blackhawk (1021) 0<br>
+65. #s70blackhawk (1021) 0<br>
 -8|-1|+9|+1|+1|-2|+5|+7|-1|0<br>
 	2. JDHA218 (2:9)<br>
 	3. fifty6 (1:1)<br>
-	4. TidyBoot-653 (5:10)<br>
+	4. tidyboot-653 (5:10)<br>
 	5. dIehAppY (4:4)<br>
 	6. Omnibus (3:2)<br>
 	10. Symsymmy (0:1)<br>
 <br>
-68. #Always_Wins (1009) 0<br>
+66. #Always_Wins (1009) 0<br>
 -114|+14|-23|-2|-2<br>
 	1. zamrai (5:17)<br>
 	5. dIehAppY (6:9)<br>
 <br>
-69. #pickynew (995) 0<br>
+67. #pickynew (995) 0<br>
 -6|-13|-16|-13|-13|-4|+1|-5|-11|+3<br>
 	1. zamrai (1:6)<br>
-	4. TidyBoot-653 (6:25)<br>
+	4. tidyboot-653 (6:25)<br>
 	5. dIehAppY (10:27)<br>
 	7. rho (0:1)<br>
 	8. xMilly (1:5)<br>
 <br>
-70. #antv2 (995) 0<br>
+68. #antv2 (995) 0<br>
 +97|+28|+36|+50<br>
 	1. zamrai (2:7)<br>
 	5. dIehAppY (11:11)<br>
 	9. GoOody (0:1)<br>
 <br>
-71. #His-Majesty (989) 0<br>
+69. #His-Majesty (989) 0<br>
 +19|+31|+25|0|+13<br>
 	1. zamrai (0:1)<br>
 	3. fifty6 (1:3)<br>
-	4. TidyBoot-653 (14:43)<br>
+	4. tidyboot-653 (14:43)<br>
 	5. dIehAppY (28:48)<br>
 	6. Omnibus (0:1)<br>
 	8. xMilly (2:1)<br>
 	10. Symsymmy (1:0)<br>
 <br>
-72. #jacks0nh0le (953) 0<br>
+70. #jacks0nh0le (953) 0<br>
 -10|+43<br>
 	2. JDHA218 (2:14)<br>
 	3. fifty6 (2:4)<br>
 	5. dIehAppY (1:0)<br>
 	8. xMilly (5:12)<br>
 <br>
-73. #edache22 (939) 0<br>
+71. #edache22 (939) 0<br>
 -21|-25|+9|-46|-9|-15|-35|+3|+7|-3<br>
 	1. zamrai (9:14)<br>
 	2. JDHA218 (0:3)<br>
