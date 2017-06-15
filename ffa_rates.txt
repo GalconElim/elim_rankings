@@ -1,763 +1,682 @@
 Recent win rates against top 10 over the past 50k matches<br>
 <br>
-1. #Spinne (1328) +1<br>
-+42|+51|+40|+54|+57|+69|+64|+32|+13|-2<br>
-	3. JazzyDeer (0:2)<br>
-	7. TimTim (2:3)<br>
+1. #pablo55 (1326) -1<br>
+-4|-14|-20|-40|-37|-30|-27|-6|+12|+4<br>
+	2. JazzyDeer (1:0)<br>
+	4. Coldheart (0:1)<br>
+	5. TimTim (2:1)<br>
+	6. GreatApple~214 (0:1)<br>
+	7. Vergilious (4:5)<br>
+	9. sebfillion (2:0)<br>
+	10. WindyBrush~262 (1:1)<br>
 <br>
-2. #pablo55 (1327) +2<br>
--3|-13|-19|-39|-36|-29|-26|-5|+13|+5<br>
-	3. JazzyDeer (1:0)<br>
-	6. WindyBrush~262 (1:1)<br>
-	7. TimTim (2:1)<br>
-	8. GreatApple~214 (0:1)<br>
-	9. fifty6 (1:3)<br>
-	10. Coldheart (0:1)<br>
-<br>
-3. #JazzyDeer (1317) 0<br>
+2. #JazzyDeer (1317) 0<br>
 -72|+5|-112|-69|-65|-64|-41|-82|-62|-31<br>
-	1. Spinne (2:0)<br>
-	2. pablo55 (0:1)<br>
-	4. no.brains (3:1)<br>
-	5. Vlajs001 (3:0)<br>
-	6. WindyBrush~262 (4:0)<br>
-	7. TimTim (2:4)<br>
-	8. GreatApple~214 (1:1)<br>
-	10. Coldheart (1:0)<br>
+	1. pablo55 (0:1)<br>
+	3. Vlajs001 (3:0)<br>
+	4. Coldheart (1:0)<br>
+	5. TimTim (2:4)<br>
+	6. GreatApple~214 (1:1)<br>
+	7. Vergilious (2:0)<br>
+	8. no.brains (3:1)<br>
+	10. WindyBrush~262 (4:0)<br>
 <br>
-4. #no.brains (1312) +31<br>
-+39|+39|+55|+71|+75|+60|+50|-1|+17|+14<br>
-	3. JazzyDeer (1:3)<br>
-	7. TimTim (2:1)<br>
-	8. GreatApple~214 (1:1)<br>
-	10. Coldheart (13:13)<br>
+3. #Vlajs001 (1299) +4<br>
++20|+22|+22|+16|+3|+3|+13|+9|+10|0<br>
+	2. JazzyDeer (0:3)<br>
+	4. Coldheart (9:4)<br>
+	5. TimTim (1:3)<br>
+	6. GreatApple~214 (0:2)<br>
+	9. sebfillion (3:1)<br>
+	10. WindyBrush~262 (16:6)<br>
 <br>
-5. #Vlajs001 (1295) +6<br>
-+19|+16|+17|+18|+12|-2|-1|+9|+5|+5<br>
-	3. JazzyDeer (0:3)<br>
-	6. WindyBrush~262 (16:6)<br>
-	7. TimTim (1:3)<br>
-	8. GreatApple~214 (0:2)<br>
-	10. Coldheart (9:4)<br>
+4. #Coldheart (1278) +10<br>
++75|+61|+49|+12|+28|+13|+19|+7|-7|0<br>
+	1. pablo55 (1:0)<br>
+	2. JazzyDeer (0:1)<br>
+	3. Vlajs001 (4:9)<br>
+	6. GreatApple~214 (0:4)<br>
+	7. Vergilious (2:2)<br>
+	8. no.brains (13:13)<br>
+	10. WindyBrush~262 (0:2)<br>
 <br>
-6. #WindyBrush~262 (1285) +19<br>
-+59|+29|-6|+49|+67|+80|+120|+90|+58|+22<br>
-	2. pablo55 (1:1)<br>
-	3. JazzyDeer (0:4)<br>
-	5. Vlajs001 (6:16)<br>
-	7. TimTim (3:1)<br>
-	8. GreatApple~214 (1:1)<br>
-	10. Coldheart (2:1)<br>
+5. #TimTim (1277) +3<br>
++29|+28|+16|-8|+16|-28|-9|-22|-16|-1<br>
+	1. pablo55 (1:2)<br>
+	2. JazzyDeer (4:2)<br>
+	3. Vlajs001 (3:1)<br>
+	6. GreatApple~214 (1:3)<br>
+	7. Vergilious (1:1)<br>
+	8. no.brains (2:2)<br>
+	9. sebfillion (3:0)<br>
+	10. WindyBrush~262 (1:3)<br>
 <br>
-7. #TimTim (1274) -1<br>
-+26|+24|+13|-11|+13|-31|-13|-25|-19|-4<br>
-	1. Spinne (3:2)<br>
-	2. pablo55 (1:2)<br>
-	3. JazzyDeer (4:2)<br>
-	4. no.brains (1:2)<br>
-	5. Vlajs001 (3:1)<br>
-	6. WindyBrush~262 (1:3)<br>
-	8. GreatApple~214 (1:1)<br>
-	9. fifty6 (2:3)<br>
+6. #GreatApple~214 (1275) +2<br>
+-4|-26|-38|-28|+1|-11|-16|-9|-6|0<br>
+	1. pablo55 (1:0)<br>
+	2. JazzyDeer (1:1)<br>
+	3. Vlajs001 (2:0)<br>
+	4. Coldheart (4:0)<br>
+	5. TimTim (3:1)<br>
+	7. Vergilious (1:0)<br>
+	8. no.brains (1:1)<br>
+	9. sebfillion (1:2)<br>
+	10. WindyBrush~262 (4:1)<br>
 <br>
-8. #GreatApple~214 (1272) -13<br>
--7|-29|-40|-31|-2|-14|-19|-12|-9|-3<br>
-	2. pablo55 (1:0)<br>
-	3. JazzyDeer (1:1)<br>
-	4. no.brains (1:1)<br>
-	5. Vlajs001 (2:0)<br>
-	6. WindyBrush~262 (1:1)<br>
-	7. TimTim (1:1)<br>
-	10. Coldheart (4:0)<br>
+7. #Vergilious (1265) 0<br>
++14|+17|+11|+15|+6|-7|-19|-25|-22|-3<br>
+	1. pablo55 (5:4)<br>
+	2. JazzyDeer (0:2)<br>
+	4. Coldheart (2:2)<br>
+	5. TimTim (1:1)<br>
+	6. GreatApple~214 (0:1)<br>
+	9. sebfillion (2:0)<br>
+	10. WindyBrush~262 (3:5)<br>
 <br>
-9. #fifty6 (1268) 0<br>
--17|+14|+17|-36|+6|+1|+9|-30|-3|-19<br>
-	2. pablo55 (3:1)<br>
-	7. TimTim (3:2)<br>
-	10. Coldheart (1:0)<br>
+8. #no.brains (1260) -52<br>
+-13|-12|+3|+20|+23|+8|-1|-53|-35|-38<br>
+	2. JazzyDeer (1:3)<br>
+	4. Coldheart (13:13)<br>
+	5. TimTim (2:2)<br>
+	6. GreatApple~214 (1:1)<br>
+	9. sebfillion (8:3)<br>
 <br>
-10. #Coldheart (1268) -12<br>
-+13|+65|+51|+39|+2|+18|+3|+10|-3|-17<br>
-	2. pablo55 (1:0)<br>
-	3. JazzyDeer (0:1)<br>
-	4. no.brains (13:13)<br>
-	5. Vlajs001 (4:9)<br>
-	6. WindyBrush~262 (1:2)<br>
-	8. GreatApple~214 (0:4)<br>
-	9. fifty6 (0:1)<br>
+9. #sebfillion (1255) +2<br>
++33|+46|+34|+36|+67|+44|+44|+49|+28|+15<br>
+	1. pablo55 (0:2)<br>
+	3. Vlajs001 (1:3)<br>
+	5. TimTim (0:3)<br>
+	6. GreatApple~214 (2:1)<br>
+	7. Vergilious (0:2)<br>
+	8. no.brains (3:8)<br>
 <br>
-11. #Vergilious (1266) +7<br>
-+15|+17|+12|+15|+6|-6|-19|-25|-22|-2<br>
-	1. Spinne (1:2)<br>
-	2. pablo55 (5:4)<br>
-	3. JazzyDeer (0:2)<br>
-	6. WindyBrush~262 (3:5)<br>
-	7. TimTim (1:1)<br>
-	8. GreatApple~214 (0:1)<br>
-	9. fifty6 (0:1)<br>
-	10. Coldheart (2:2)<br>
+10. #WindyBrush~262 (1254) -31<br>
++28|-2|-37|+18|+36|+49|+89|+59|+27|-9<br>
+	1. pablo55 (1:1)<br>
+	2. JazzyDeer (0:4)<br>
+	3. Vlajs001 (6:16)<br>
+	4. Coldheart (2:0)<br>
+	5. TimTim (3:1)<br>
+	6. GreatApple~214 (1:4)<br>
+	7. Vergilious (5:3)<br>
 <br>
-12. #feigwarze (1254) 0<br>
-+69|+111|+79|+90|+26|+36|+7|+62|+5<br>
-	8. GreatApple~214 (1:4)<br>
-	9. fifty6 (2:0)<br>
+11. #thedude (1248) 0<br>
++7|+6|-5|-1|-20|-23|-8|+7|+13|+3<br>
+	1. pablo55 (4:3)<br>
+	3. Vlajs001 (1:1)<br>
+	5. TimTim (1:3)<br>
+	7. Vergilious (4:3)<br>
+	10. WindyBrush~262 (3:3)<br>
 <br>
-13. #sebfillion (1253) +19<br>
-+31|+43|+32|+34|+65|+42|+41|+47|+26|+13<br>
-	2. pablo55 (0:2)<br>
-	4. no.brains (3:8)<br>
-	5. Vlajs001 (1:4)<br>
-	7. TimTim (0:3)<br>
-	8. GreatApple~214 (2:1)<br>
-	9. fifty6 (1:3)<br>
+12. #g-nice (1246) +3<br>
++49|+75|+49|+44|+23|+39|+33|+23|+23|+7<br>
+	1. pablo55 (5:3)<br>
+	2. JazzyDeer (3:8)<br>
+	3. Vlajs001 (3:7)<br>
+	4. Coldheart (4:3)<br>
+	5. TimTim (2:6)<br>
+	6. GreatApple~214 (3:3)<br>
+	7. Vergilious (1:0)<br>
+	9. sebfillion (1:0)<br>
+	10. WindyBrush~262 (3:1)<br>
 <br>
-14. #Gallanda (1252) +1<br>
--134|+8|-47|+27|-59|-7|+13|-35|+13|-2<br>
-	2. pablo55 (0:1)<br>
-	4. no.brains (0:1)<br>
-	6. WindyBrush~262 (3:0)<br>
-	8. GreatApple~214 (2:1)<br>
-	9. fifty6 (3:1)<br>
-	10. Coldheart (2:3)<br>
+13. #Mine~Turtle (1234) +42<br>
++46|+83|+115|+85|+71|+56|+90|+60<br>
+	3. Vlajs001 (0:1)<br>
+	4. Coldheart (4:1)<br>
+	9. sebfillion (1:3)<br>
+	10. WindyBrush~262 (5:8)<br>
 <br>
-15. #g-nice (1243) 0<br>
-+46|+72|+46|+41|+20|+36|+30|+20|+20|+4<br>
-	1. Spinne (2:4)<br>
-	2. pablo55 (5:3)<br>
-	3. JazzyDeer (3:11)<br>
-	5. Vlajs001 (3:7)<br>
-	6. WindyBrush~262 (4:6)<br>
-	7. TimTim (2:6)<br>
-	9. fifty6 (0:1)<br>
-	10. Coldheart (4:3)<br>
+14. #flagstone (1232) -6<br>
++8|+3|+3|+8|-1|+7|0|+3|+5|-11<br>
+	2. JazzyDeer (0:1)<br>
+	3. Vlajs001 (2:3)<br>
+	6. GreatApple~214 (6:0)<br>
+	7. Vergilious (0:1)<br>
+	8. no.brains (0:3)<br>
+	10. WindyBrush~262 (0:3)<br>
 <br>
-16. #flagstone (1238) +1<br>
-+14|+8|+8|+13|+5|+13|+6|+8|+10|-5<br>
-	1. Spinne (2:0)<br>
-	3. JazzyDeer (0:1)<br>
-	4. no.brains (0:3)<br>
-	5. Vlajs001 (2:3)<br>
-	6. WindyBrush~262 (0:4)<br>
-	8. GreatApple~214 (6:0)<br>
-	9. fifty6 (3:4)<br>
+15. #Arkady (1230) -2<br>
++11|+7|-10|+19|+7|+25|+25|+9|-3|-2<br>
+	1. pablo55 (1:0)<br>
+	5. TimTim (9:4)<br>
+	10. WindyBrush~262 (2:0)<br>
 <br>
-17. #Arkady (1232) -7<br>
-+13|+8|-8|+21|+9|+27|+27|+10|-1|0<br>
-	2. pablo55 (1:0)<br>
-	6. WindyBrush~262 (2:0)<br>
-	7. TimTim (7:2)<br>
+16. #Alex_Zver (1229) +3<br>
++42|+39|+28|+29|+40|+27|+17|+2|0|+16<br>
+	1. pablo55 (3:4)<br>
+	2. JazzyDeer (4:5)<br>
+	3. Vlajs001 (7:12)<br>
+	4. Coldheart (9:4)<br>
+	5. TimTim (6:5)<br>
+	6. GreatApple~214 (3:1)<br>
+	7. Vergilious (1:3)<br>
+	9. sebfillion (8:11)<br>
+	10. WindyBrush~262 (3:7)<br>
 <br>
-18. #Starfleet (1231) -2<br>
-+14|-1|+3|+14|-3|-7|+12|+21|+11|+2<br>
-	1. Spinne (2:5)<br>
-	2. pablo55 (1:1)<br>
-	3. JazzyDeer (2:5)<br>
-	4. no.brains (0:2)<br>
-	6. WindyBrush~262 (7:3)<br>
-	7. TimTim (16:20)<br>
-	8. GreatApple~214 (1:5)<br>
-	9. fifty6 (2:3)<br>
+17. #dIehAppY (1226) -4<br>
++74|+21|-58|-43|-34|-38|-4|-28|-21|-6<br>
+	1. pablo55 (2:6)<br>
+	3. Vlajs001 (3:3)<br>
+	9. sebfillion (3:2)<br>
 <br>
-19. #Buz (1226) +5<br>
-+12|+3|+16|+6|+11|+25|-3|-17|+3|+1<br>
-	1. Spinne (5:3)<br>
-	2. pablo55 (0:2)<br>
-	3. JazzyDeer (1:7)<br>
-	5. Vlajs001 (1:1)<br>
-	6. WindyBrush~262 (4:0)<br>
-	7. TimTim (6:2)<br>
-	8. GreatApple~214 (0:2)<br>
-	9. fifty6 (0:4)<br>
+18. #Starfleet (1224) -7<br>
++7|-7|-4|+7|-9|-14|+5|+14|+4|-4<br>
+	1. pablo55 (1:1)<br>
+	2. JazzyDeer (2:5)<br>
+	5. TimTim (16:20)<br>
+	6. GreatApple~214 (1:5)<br>
+	7. Vergilious (5:1)<br>
+	8. no.brains (0:2)<br>
+	9. sebfillion (0:3)<br>
+	10. WindyBrush~262 (7:3)<br>
 <br>
-20. #talos16 (1226) -1<br>
-+21|+11|+22|-1|-9|-2|+16|+11|-4|+8<br>
-	1. Spinne (3:6)<br>
-	3. JazzyDeer (0:1)<br>
-	4. no.brains (1:1)<br>
-	7. TimTim (1:2)<br>
-	8. GreatApple~214 (1:0)<br>
-	10. Coldheart (1:3)<br>
+19. #SuperMarioBr (1222) +6<br>
++22|+35|+64|-17|+26|+17|-16|+8|+46|+4<br>
+	1. pablo55 (1:2)<br>
+	3. Vlajs001 (1:3)<br>
+	5. TimTim (2:6)<br>
+	6. GreatApple~214 (2:4)<br>
+	8. no.brains (1:0)<br>
+	9. sebfillion (6:7)<br>
+	10. WindyBrush~262 (1:0)<br>
 <br>
-21. #Alex_Zver (1225) +12<br>
-+38|+35|+25|+26|+37|+24|+14|-1|-3|+13<br>
-	2. pablo55 (3:4)<br>
-	3. JazzyDeer (4:5)<br>
-	5. Vlajs001 (3:10)<br>
-	6. WindyBrush~262 (6:14)<br>
-	7. TimTim (6:5)<br>
-	8. GreatApple~214 (3:1)<br>
-	9. fifty6 (2:2)<br>
-	10. Coldheart (9:4)<br>
+20. #His-Majesty (1221) -2<br>
++41|+41|+23|+16|+3|0|-11|+1|+16|-1<br>
+	1. pablo55 (2:5)<br>
+	2. JazzyDeer (0:1)<br>
+	3. Vlajs001 (3:5)<br>
+	4. Coldheart (4:2)<br>
+	5. TimTim (3:7)<br>
+	6. GreatApple~214 (4:2)<br>
+	7. Vergilious (0:2)<br>
+	8. no.brains (0:1)<br>
+	9. sebfillion (0:7)<br>
+	10. WindyBrush~262 (5:4)<br>
 <br>
-22. #His-Majesty (1223) -6<br>
-+44|+44|+25|+18|+6|+3|-8|+3|+18|+1<br>
-	1. Spinne (2:3)<br>
-	2. pablo55 (2:5)<br>
-	3. JazzyDeer (0:1)<br>
-	5. Vlajs001 (3:5)<br>
-	6. WindyBrush~262 (6:6)<br>
-	7. TimTim (3:7)<br>
-	8. GreatApple~214 (4:3)<br>
-	10. Coldheart (4:2)<br>
+21. #Buz (1218) -8<br>
++4|-5|+8|-2|+3|+17|-11|-25|-5|-7<br>
+	1. pablo55 (0:2)<br>
+	2. JazzyDeer (1:6)<br>
+	3. Vlajs001 (1:1)<br>
+	5. TimTim (6:2)<br>
+	6. GreatApple~214 (0:2)<br>
+	7. Vergilious (2:5)<br>
+	10. WindyBrush~262 (4:0)<br>
 <br>
-23. #SuperMarioBr (1216) -4<br>
-+16|+30|+58|-23|+20|+12|-22|+2|+40|-2<br>
-	1. Spinne (1:1)<br>
-	2. pablo55 (1:2)<br>
-	4. no.brains (1:0)<br>
-	5. Vlajs001 (1:3)<br>
-	6. WindyBrush~262 (1:0)<br>
-	7. TimTim (2:6)<br>
-	8. GreatApple~214 (2:4)<br>
+22. #GabbyHammer~479 (1218) +18<br>
++7|+1|+101|+36|+2|+52|+38<br>
+	1. pablo55 (1:2)<br>
+	2. JazzyDeer (2:1)<br>
+	3. Vlajs001 (3:4)<br>
+	4. Coldheart (3:1)<br>
+	5. TimTim (3:5)<br>
+	6. GreatApple~214 (1:3)<br>
+	8. no.brains (3:5)<br>
+	9. sebfillion (3:3)<br>
+	10. WindyBrush~262 (2:1)<br>
 <br>
-24. #FreshKettle~130 (1215) -17<br>
--1|+31|+86|+22|+22|+131|+23|-20<br>
-	2. pablo55 (1:0)<br>
-	3. JazzyDeer (0:2)<br>
-	4. no.brains (4:5)<br>
-	5. Vlajs001 (10:14)<br>
-	7. TimTim (0:1)<br>
-	8. GreatApple~214 (0:1)<br>
-	9. fifty6 (3:2)<br>
-	10. Coldheart (2:1)<br>
+23. #talos16 (1216) -10<br>
++1|+12|-11|-18|-12|+6|+1|-14|-2|-8<br>
+	2. JazzyDeer (0:1)<br>
+	4. Coldheart (1:3)<br>
+	5. TimTim (1:2)<br>
+	6. GreatApple~214 (1:0)<br>
+	8. no.brains (1:1)<br>
+	9. sebfillion (1:0)<br>
 <br>
-25. #GroovyFlame (1213) -1<br>
--15|+1|+22|-19|-23|-46|-10|+10|-10|+5<br>
-	2. pablo55 (0:2)<br>
-	7. TimTim (1:0)<br>
-	8. GreatApple~214 (1:5)<br>
-	9. fifty6 (4:1)<br>
-	10. Coldheart (2:0)<br>
+24. #skeems (1215) +8<br>
++27|+30|+13|+18|+17|+31|-20|-15|+44|-1<br>
+	1. pablo55 (1:1)<br>
+	3. Vlajs001 (2:15)<br>
+	4. Coldheart (4:2)<br>
+	5. TimTim (2:6)<br>
+	6. GreatApple~214 (0:2)<br>
+	7. Vergilious (3:3)<br>
+	8. no.brains (0:2)<br>
+	9. sebfillion (1:3)<br>
+	10. WindyBrush~262 (2:1)<br>
 <br>
-26. #chomeur2 (1211) -6<br>
+25. #somepatzer (1214) +74<br>
++73|-71|+38|+55|+113|-35<br>
+	3. Vlajs001 (0:3)<br>
+	5. TimTim (4:5)<br>
+	6. GreatApple~214 (5:5)<br>
+	7. Vergilious (1:1)<br>
+	9. sebfillion (0:4)<br>
+	10. WindyBrush~262 (0:3)<br>
+<br>
+26. #pa2kelis (1213) +5<br>
++52|+32|+6|+3|+4|+8|+10|+8|+20|+10<br>
+	1. pablo55 (0:2)<br>
+	3. Vlajs001 (0:3)<br>
+	4. Coldheart (2:1)<br>
+	5. TimTim (4:5)<br>
+<br>
+27. #BDAT10 (1212) +7<br>
++18|+6|+12|+5|+2|-3|+3|+3|0|+9<br>
+	1. pablo55 (1:1)<br>
+	3. Vlajs001 (0:2)<br>
+	4. Coldheart (0:4)<br>
+	5. TimTim (4:2)<br>
+	6. GreatApple~214 (4:8)<br>
+	7. Vergilious (3:0)<br>
+	9. sebfillion (4:4)<br>
+	10. WindyBrush~262 (6:2)<br>
+<br>
+28. #chomeur2 (1211) 0<br>
 -10|-13|-11|-23|-23|-22|-14|-15|-13|0<br>
-	1. Spinne (0:1)<br>
-	2. pablo55 (1:3)<br>
-	4. no.brains (0:13)<br>
-	5. Vlajs001 (1:1)<br>
-	6. WindyBrush~262 (1:2)<br>
-	7. TimTim (8:5)<br>
-	9. fifty6 (1:2)<br>
-	10. Coldheart (1:1)<br>
+	1. pablo55 (1:3)<br>
+	3. Vlajs001 (1:1)<br>
+	4. Coldheart (1:1)<br>
+	5. TimTim (8:5)<br>
+	7. Vergilious (3:3)<br>
+	8. no.brains (0:13)<br>
+	10. WindyBrush~262 (1:2)<br>
 <br>
-27. #SloppyTea~932 (1209) +2<br>
--8|-34|-28|-37|-3|-26|-28|-11|+1|+19<br>
-	1. Spinne (4:4)<br>
-	2. pablo55 (1:2)<br>
-	3. JazzyDeer (0:2)<br>
-	4. no.brains (4:4)<br>
-	5. Vlajs001 (3:9)<br>
-	6. WindyBrush~262 (1:3)<br>
-	7. TimTim (4:12)<br>
-	8. GreatApple~214 (12:9)<br>
-	9. fifty6 (1:6)<br>
-	10. Coldheart (0:1)<br>
+29. #jraz (1208) +6<br>
++49|+27|+11|+15|+37|+12|+22|-8|+2|-4<br>
+	1. pablo55 (1:5)<br>
+	2. JazzyDeer (1:2)<br>
+	4. Coldheart (0:1)<br>
+	7. Vergilious (1:0)<br>
+	9. sebfillion (0:2)<br>
 <br>
-28. #A-z-sh (1209) -6<br>
--10|-5|-16|+3|-1|+13|+6|+7|+6|-5<br>
-	1. Spinne (2:3)<br>
-	2. pablo55 (6:7)<br>
-	3. JazzyDeer (2:3)<br>
-	4. no.brains (2:15)<br>
-	5. Vlajs001 (1:2)<br>
-	6. WindyBrush~262 (1:3)<br>
-	7. TimTim (7:12)<br>
-	8. GreatApple~214 (2:9)<br>
-	9. fifty6 (1:0)<br>
-	10. Coldheart (1:10)<br>
-<br>
-29. #pa2kelis (1208) +3<br>
-+47|+27|+2|-1|0|+4|+6|+4|+16|+5<br>
-	2. pablo55 (0:2)<br>
-	5. Vlajs001 (0:3)<br>
-	7. TimTim (4:5)<br>
-	10. Coldheart (2:1)<br>
-<br>
-30. #skeems (1208) -12<br>
-+19|+22|+6|+10|+9|+23|-28|-22|+36|-8<br>
-	2. pablo55 (1:1)<br>
-	4. no.brains (0:2)<br>
-	5. Vlajs001 (2:15)<br>
-	6. WindyBrush~262 (2:1)<br>
-	7. TimTim (2:6)<br>
-	8. GreatApple~214 (0:2)<br>
-	9. fifty6 (7:5)<br>
-	10. Coldheart (4:2)<br>
-<br>
-31. #hodsta (1207) 0<br>
+30. #hodsta (1207) 0<br>
 +5|+8|+5|+16|+9|+22|+44|+19|-1|-17<br>
-	2. pablo55 (2:3)<br>
-	3. JazzyDeer (0:1)<br>
-	5. Vlajs001 (19:24)<br>
-	6. WindyBrush~262 (7:4)<br>
-	8. GreatApple~214 (1:0)<br>
-	10. Coldheart (3:6)<br>
+	1. pablo55 (2:3)<br>
+	2. JazzyDeer (0:1)<br>
+	3. Vlajs001 (19:24)<br>
+	4. Coldheart (3:6)<br>
+	6. GreatApple~214 (1:0)<br>
+	7. Vergilious (3:2)<br>
+	9. sebfillion (1:1)<br>
+	10. WindyBrush~262 (7:4)<br>
 <br>
-32. #BDAT10 (1205) 0<br>
-+19|+11|-1|+5|-2|-5|-10|-4|-4|-7<br>
-	2. pablo55 (1:1)<br>
-	5. Vlajs001 (0:2)<br>
-	7. TimTim (2:2)<br>
-	8. GreatApple~214 (0:3)<br>
-	9. fifty6 (0:1)<br>
-	10. Coldheart (0:4)<br>
+31. #A-z-sh (1203) -5<br>
+-10|-21|-2|-6|+8|+1|+2|+1|-10|-4<br>
+	1. pablo55 (6:7)<br>
+	2. JazzyDeer (2:3)<br>
+	3. Vlajs001 (1:2)<br>
+	4. Coldheart (1:10)<br>
+	5. TimTim (7:12)<br>
+	6. GreatApple~214 (2:8)<br>
+	7. Vergilious (7:5)<br>
+	8. no.brains (2:15)<br>
+	9. sebfillion (3:4)<br>
+	10. WindyBrush~262 (1:2)<br>
 <br>
-33. #goldfinger (1204) +7<br>
-+25|+25|+25|+26|+20|+14|-7|+3|+2|+9<br>
-	1. Spinne (0:2)<br>
-	2. pablo55 (4:2)<br>
-	3. JazzyDeer (1:3)<br>
-	6. WindyBrush~262 (1:1)<br>
-	7. TimTim (4:4)<br>
-	8. GreatApple~214 (0:2)<br>
+32. #GroovyFlame (1202) -11<br>
+-26|-9|+11|-30|-34|-57|-20|-1|-21|-6<br>
+	1. pablo55 (0:2)<br>
+	4. Coldheart (2:0)<br>
+	5. TimTim (1:2)<br>
+	6. GreatApple~214 (1:5)<br>
+	7. Vergilious (1:4)<br>
+	9. sebfillion (0:2)<br>
 <br>
-34. #waffle~3z (1202) +8<br>
--40|-41|-28|-6|+1|-13|-17|-18|-10|+8<br>
-	1. Spinne (3:33)<br>
-	3. JazzyDeer (0:4)<br>
-	6. WindyBrush~262 (1:1)<br>
-	8. GreatApple~214 (0:3)<br>
+33. #SloppyTea~932 (1201) -7<br>
+-41|-36|-44|-10|-34|-35|-19|-7|+12|+7<br>
+	1. pablo55 (1:2)<br>
+	2. JazzyDeer (0:2)<br>
+	3. Vlajs001 (5:9)<br>
+	4. Coldheart (0:1)<br>
+	5. TimTim (4:12)<br>
+	6. GreatApple~214 (12:9)<br>
+	7. Vergilious (1:1)<br>
+	8. no.brains (4:4)<br>
+	9. sebfillion (7:9)<br>
+	10. WindyBrush~262 (1:3)<br>
 <br>
-35. #jraz (1201) -4<br>
-+43|+21|+4|+9|+31|+6|+16|-14|-4|-11<br>
-	1. Spinne (0:1)<br>
-	2. pablo55 (1:4)<br>
-	3. JazzyDeer (1:2)<br>
-	9. fifty6 (4:4)<br>
-	10. Coldheart (0:1)<br>
+34. #dfyyxy (1199) -1<br>
++7|-4|+2|+8|+14|+8|+17|+15|+8|-3<br>
+	1. pablo55 (0:2)<br>
+	4. Coldheart (2:3)<br>
+	5. TimTim (2:2)<br>
+	7. Vergilious (1:1)<br>
+	8. no.brains (0:3)<br>
+	9. sebfillion (1:0)<br>
+	10. WindyBrush~262 (5:3)<br>
 <br>
-36. #dfyyxy (1200) +1<br>
-+9|-3|+3|+10|+15|+10|+18|+17|+10|-1<br>
-	2. pablo55 (0:2)<br>
-	4. no.brains (0:3)<br>
-	6. WindyBrush~262 (5:3)<br>
-	7. TimTim (2:2)<br>
-	9. fifty6 (2:6)<br>
-	10. Coldheart (2:3)<br>
-<br>
-37. #GabbyHammer~479 (1200) -19<br>
--12|-17|+83|+18|-16|+33|+19<br>
-	2. pablo55 (1:2)<br>
-	3. JazzyDeer (2:1)<br>
-	4. no.brains (3:5)<br>
-	5. Vlajs001 (3:4)<br>
-	6. WindyBrush~262 (2:1)<br>
-	7. TimTim (3:5)<br>
-	8. GreatApple~214 (1:3)<br>
-	10. Coldheart (3:1)<br>
-<br>
-38. #Tunnel~Bot (1199) +4<br>
-+23|+41|+52|+50|+32|+41|+24|+35|+44|+23<br>
-	6. WindyBrush~262 (1:13)<br>
-	10. Coldheart (1:1)<br>
-<br>
-39. #yyyssa (1199) -23<br>
-+12|+144|+95|+55|+16|+5<br>
-	2. pablo55 (1:0)<br>
-	3. JazzyDeer (5:5)<br>
-	4. no.brains (1:0)<br>
-	5. Vlajs001 (1:1)<br>
-	6. WindyBrush~262 (0:1)<br>
-	7. TimTim (100:154)<br>
-	9. fifty6 (1:0)<br>
-<br>
-40. #FlowoodMS (1199) -10<br>
+35. #FlowoodMS (1199) 0<br>
 +2|+2|+7|+8|-17|-17|-30|-27|-23|-10<br>
-	2. pablo55 (1:0)<br>
-	3. JazzyDeer (1:0)<br>
-	5. Vlajs001 (1:1)<br>
-	6. WindyBrush~262 (9:7)<br>
-	8. GreatApple~214 (0:2)<br>
-	9. fifty6 (5:4)<br>
+	1. pablo55 (1:0)<br>
+	2. JazzyDeer (1:0)<br>
+	3. Vlajs001 (1:1)<br>
+	6. GreatApple~214 (0:2)<br>
+	7. Vergilious (1:0)<br>
+	10. WindyBrush~262 (8:7)<br>
 <br>
-41. #Territorial~Bot (1195) -12<br>
--13|+13|+41|-38|-14|-4|+35|+30|+19|+10<br>
-	1. Spinne (1:16)<br>
-	3. JazzyDeer (1:2)<br>
-	5. Vlajs001 (0:1)<br>
+36. #z.snafu (1196) +12<br>
+-14|-4|-18|-14|-14|+10|+6|+5|+22|+17<br>
+	3. Vlajs001 (3:3)<br>
+	4. Coldheart (0:1)<br>
+	5. TimTim (0:2)<br>
+	6. GreatApple~214 (0:2)<br>
+	7. Vergilious (2:2)<br>
+	8. no.brains (0:1)<br>
+	9. sebfillion (2:6)<br>
+	10. WindyBrush~262 (1:5)<br>
 <br>
-42. #Mine~Turtle (1192) 0<br>
-+4|+41|+72|+43|+28|+14|+48|+17<br>
-	5. Vlajs001 (0:1)<br>
-	6. WindyBrush~262 (5:8)<br>
-	10. Coldheart (4:1)<br>
+37. #hods (1189) +11<br>
++17|+9|+9|+15|+14|+10|+17|+19|+14|+8<br>
+	1. pablo55 (1:4)<br>
+	3. Vlajs001 (13:25)<br>
+	4. Coldheart (1:4)<br>
+	5. TimTim (5:13)<br>
+	6. GreatApple~214 (11:10)<br>
+	7. Vergilious (2:0)<br>
+	8. no.brains (0:3)<br>
+	9. sebfillion (2:2)<br>
+	10. WindyBrush~262 (3:0)<br>
 <br>
-43. #SparkySoup~704 (1189) -3<br>
-+37|+27|+23|+48|+15|+29|+8|+16|+13|+6<br>
-	1. Spinne (0:6)<br>
-	2. pablo55 (2:4)<br>
-	3. JazzyDeer (0:2)<br>
-	4. no.brains (1:5)<br>
-	5. Vlajs001 (0:3)<br>
-	6. WindyBrush~262 (4:4)<br>
-	7. TimTim (6:10)<br>
-	8. GreatApple~214 (0:1)<br>
-	10. Coldheart (0:1)<br>
+38. #SparkySoup~704 (1187) -2<br>
++35|+25|+21|+46|+13|+27|+6|+14|+11|+4<br>
+	1. pablo55 (2:4)<br>
+	2. JazzyDeer (0:2)<br>
+	3. Vlajs001 (0:3)<br>
+	4. Coldheart (0:1)<br>
+	5. TimTim (6:10)<br>
+	6. GreatApple~214 (0:1)<br>
+	7. Vergilious (2:4)<br>
+	8. no.brains (1:5)<br>
+	9. sebfillion (4:7)<br>
+	10. WindyBrush~262 (4:4)<br>
 <br>
-44. #hods (1178) -1<br>
-+8|+6|-2|-2|+5|+3|-1|+6|+8|+3<br>
-	2. pablo55 (1:4)<br>
-	4. no.brains (0:3)<br>
-	5. Vlajs001 (12:20)<br>
-	6. WindyBrush~262 (5:1)<br>
-	7. TimTim (5:13)<br>
-	8. GreatApple~214 (11:10)<br>
-	9. fifty6 (1:5)<br>
-	10. Coldheart (1:4)<br>
+39. #Tunnel~Bot (1186) -13<br>
++28|+39|+37|+19|+28|+11|+22|+31|+11|-10<br>
+	4. Coldheart (1:1)<br>
+	9. sebfillion (0:5)<br>
 <br>
-45. #RaggedTramp~229 (1175) -15<br>
+40. #mrooq.711 (1184) +16<br>
++92|+83|+54|+83|-32|+6|+9|+37|-18|+27<br>
+	1. pablo55 (1:5)<br>
+	3. Vlajs001 (3:3)<br>
+	5. TimTim (2:4)<br>
+	10. WindyBrush~262 (2:1)<br>
+<br>
+41. #TinyOwl~323 (1179) +13<br>
++30|+42|+40|+42|+48|+28|+14|+1|+11|+5<br>
+	1. pablo55 (0:2)<br>
+	4. Coldheart (2:6)<br>
+	5. TimTim (2:12)<br>
+	6. GreatApple~214 (1:4)<br>
+	7. Vergilious (1:2)<br>
+	9. sebfillion (2:4)<br>
+	10. WindyBrush~262 (1:0)<br>
+<br>
+42. #MUFSKIN (1178) +7<br>
+-4|-4|-6|-22|-7|+15|+7|+12|+13|+8<br>
+	1. pablo55 (2:1)<br>
+	3. Vlajs001 (3:7)<br>
+	4. Coldheart (1:4)<br>
+	5. TimTim (1:4)<br>
+	6. GreatApple~214 (1:3)<br>
+	7. Vergilious (1:2)<br>
+	8. no.brains (2:0)<br>
+	9. sebfillion (1:4)<br>
+	10. WindyBrush~262 (4:3)<br>
+<br>
+43. #killerdude69 (1175) +27<br>
++287|+189|+89|+170|+76|+170|+95<br>
+	1. pablo55 (5:8)<br>
+	2. JazzyDeer (1:4)<br>
+	4. Coldheart (0:1)<br>
+	5. TimTim (1:20)<br>
+	6. GreatApple~214 (0:2)<br>
+	9. sebfillion (1:4)<br>
+<br>
+44. #RaggedTramp~229 (1175) 0<br>
 +119|-199|-86|+45|-41|-17|+57|+69|+57|-38<br>
-	2. pablo55 (1:2)<br>
-	6. WindyBrush~262 (1:1)<br>
-	7. TimTim (2:9)<br>
-	9. fifty6 (0:1)<br>
+	1. pablo55 (1:2)<br>
+	5. TimTim (2:9)<br>
+	7. Vergilious (2:1)<br>
+	10. WindyBrush~262 (1:1)<br>
 <br>
-46. #MUFSKIN (1171) +10<br>
--15|-11|-11|-13|-29|-14|+8|0|+5|+6<br>
-	2. pablo55 (2:1)<br>
-	5. Vlajs001 (3:7)<br>
-	6. WindyBrush~262 (5:4)<br>
-	7. TimTim (1:4)<br>
-	8. GreatApple~214 (1:3)<br>
-	9. fifty6 (5:4)<br>
-	10. Coldheart (1:4)<br>
+45. #Celica (1172) +4<br>
++12|+24|+12|+19|+12|+13|+12|-5|-1|+3<br>
+	1. pablo55 (0:1)<br>
+	2. JazzyDeer (0:1)<br>
+	3. Vlajs001 (8:10)<br>
+	4. Coldheart (2:5)<br>
+	5. TimTim (0:7)<br>
+	6. GreatApple~214 (4:3)<br>
+	8. no.brains (0:1)<br>
+	9. sebfillion (0:2)<br>
 <br>
-47. #Celica (1168) -1<br>
-+9|+20|+8|+15|+8|+9|+8|-9|-5|-1<br>
-	2. pablo55 (0:1)<br>
-	3. JazzyDeer (0:1)<br>
-	4. no.brains (0:1)<br>
-	5. Vlajs001 (8:10)<br>
-	7. TimTim (0:7)<br>
-	8. GreatApple~214 (4:3)<br>
-	9. fifty6 (5:14)<br>
-	10. Coldheart (2:5)<br>
+46. #GlobalJelly~994 (1165) +17<br>
++5|+50|-134|-86|-26|-17<br>
+	2. JazzyDeer (0:2)<br>
+	4. Coldheart (0:1)<br>
+	5. TimTim (4:7)<br>
+	6. GreatApple~214 (0:2)<br>
+	9. sebfillion (3:1)<br>
+	10. WindyBrush~262 (1:0)<br>
 <br>
-48. #hamidrez (1168) -4<br>
-+41|+70|+29|+17|+31|+19|+39|+32|+29|-4<br>
-	2. pablo55 (0:1)<br>
-	3. JazzyDeer (0:2)<br>
-	5. Vlajs001 (3:3)<br>
-	6. WindyBrush~262 (1:0)<br>
-	7. TimTim (1:2)<br>
-	9. fifty6 (5:1)<br>
-	10. Coldheart (1:1)<br>
+47. #who22 (1163) +2<br>
++25|+8|+9|+15|-2|-4|+7|+10|+2|-2<br>
+	5. TimTim (0:4)<br>
+	7. Vergilious (0:1)<br>
+	10. WindyBrush~262 (1:3)<br>
 <br>
-49. #mrooq.711 (1168) +17<br>
-+75|+66|+37|+67|-48|-10|-7|+21|-34|+10<br>
-	2. pablo55 (1:5)<br>
-	5. Vlajs001 (0:3)<br>
-	6. WindyBrush~262 (2:1)<br>
-	7. TimTim (2:4)<br>
+48. #qwertyuiop00 (1163) +16<br>
++74|+39|-63|+28|-63|-82|+10|+7|-30<br>
+	1. pablo55 (3:4)<br>
+	2. JazzyDeer (0:1)<br>
+	5. TimTim (1:3)<br>
+	6. GreatApple~214 (1:1)<br>
+	7. Vergilious (1:0)<br>
+	8. no.brains (1:1)<br>
+	10. WindyBrush~262 (5:1)<br>
 <br>
-50. #TinyOwl~323 (1166) -16<br>
-+17|+28|+26|+29|+34|+15|+1|-12|-3|-8<br>
-	1. Spinne (0:1)<br>
-	2. pablo55 (0:2)<br>
-	6. WindyBrush~262 (1:0)<br>
-	7. TimTim (2:12)<br>
-	8. GreatApple~214 (5:5)<br>
-	9. fifty6 (0:1)<br>
-	10. Coldheart (2:4)<br>
-<br>
-51. #GlobalDuck~594 (1161) 0<br>
+49. #GlobalDuck~594 (1161) 0<br>
 -28|-22|0|-1|-1|-10|-14|-29|-24|-3<br>
-	2. pablo55 (1:0)<br>
-	3. JazzyDeer (1:3)<br>
-	5. Vlajs001 (0:1)<br>
-	6. WindyBrush~262 (3:1)<br>
-	7. TimTim (1:2)<br>
+	1. pablo55 (1:0)<br>
+	2. JazzyDeer (1:2)<br>
+	3. Vlajs001 (0:1)<br>
+	5. TimTim (1:2)<br>
+	10. WindyBrush~262 (3:1)<br>
 <br>
-52. #who22 (1161) 0<br>
-+23|+6|+7|+13|-4|-6|+5|+8|0|-4<br>
-	6. WindyBrush~262 (1:3)<br>
-	7. TimTim (0:4)<br>
-	9. fifty6 (1:0)<br>
+50. #DustyEdge~100 (1159) +5<br>
+-76|-107|-80|-56|-120|-150|-97|-49|-20|+2<br>
+	2. JazzyDeer (0:3)<br>
+	3. Vlajs001 (2:1)<br>
+	4. Coldheart (1:2)<br>
+	5. TimTim (6:16)<br>
+	6. GreatApple~214 (0:1)<br>
+	7. Vergilious (3:2)<br>
+	8. no.brains (1:1)<br>
+	9. sebfillion (2:4)<br>
+	10. WindyBrush~262 (2:6)<br>
 <br>
-53. #holyspirit (1159) 0<br>
+51. #holyspirit (1159) 0<br>
 +11|+9|+11|+10|+10|+4|+7|-6|-11|+2<br>
-	1. Spinne (3:3)<br>
-	2. pablo55 (1:3)<br>
-	3. JazzyDeer (6:7)<br>
-	8. GreatApple~214 (5:5)<br>
+	1. pablo55 (1:3)<br>
+	2. JazzyDeer (6:7)<br>
+	6. GreatApple~214 (5:5)<br>
+	7. Vergilious (0:1)<br>
+	9. sebfillion (3:1)<br>
 <br>
-54. #bigf4rt (1158) -5<br>
-+30|+40|+45|+44|+39|+19|+26|+26|+6|-6<br>
-	1. Spinne (1:1)<br>
-	2. pablo55 (2:2)<br>
-	4. no.brains (2:1)<br>
-	5. Vlajs001 (1:5)<br>
-	6. WindyBrush~262 (2:8)<br>
-	7. TimTim (2:6)<br>
-	9. fifty6 (1:0)<br>
-	10. Coldheart (1:2)<br>
+52. #stront01 (1155) +22<br>
+-34|+14|-19|-12|-20|+13|+1|+13<br>
+	3. Vlajs001 (1:16)<br>
+	4. Coldheart (2:4)<br>
+	5. TimTim (4:4)<br>
+	8. no.brains (11:14)<br>
+	9. sebfillion (4:7)<br>
+	10. WindyBrush~262 (5:4)<br>
 <br>
-55. #DustyEdge~100 (1155) -10<br>
--81|-112|-85|-60|-125|-155|-102|-53|-25|-3<br>
-	3. JazzyDeer (0:3)<br>
-	4. no.brains (1:1)<br>
-	5. Vlajs001 (2:1)<br>
-	6. WindyBrush~262 (6:8)<br>
-	7. TimTim (6:14)<br>
-	8. GreatApple~214 (0:1)<br>
-	9. fifty6 (2:2)<br>
-	10. Coldheart (1:2)<br>
+53. #bigf4rt (1153) -5<br>
++25|+34|+40|+39|+33|+14|+21|+21|0|-11<br>
+	1. pablo55 (2:2)<br>
+	3. Vlajs001 (1:5)<br>
+	4. Coldheart (1:2)<br>
+	5. TimTim (2:5)<br>
+	7. Vergilious (1:6)<br>
+	8. no.brains (2:1)<br>
+	9. sebfillion (2:5)<br>
+	10. WindyBrush~262 (2:8)<br>
 <br>
-56. #killerdude69 (1149) +69<br>
-+260|+163|+62|+143|+49|+143|+68<br>
-	2. pablo55 (5:8)<br>
-	3. JazzyDeer (1:5)<br>
-	7. TimTim (0:17)<br>
-	8. GreatApple~214 (0:2)<br>
-	10. Coldheart (0:1)<br>
+54. #Sleeping~Waffle (1153) +8<br>
++31|+28|+25|+29|+27|+34|+24|+19|+12|+5<br>
 <br>
-57. #Ciclon (1149) -7<br>
-+106|+56|+65|-6|+36|-29|-22|+4|-12|-3<br>
-	3. JazzyDeer (0:1)<br>
-	4. no.brains (2:6)<br>
-	5. Vlajs001 (2:4)<br>
-	6. WindyBrush~262 (2:0)<br>
-	10. Coldheart (1:2)<br>
+55. #Ciclon (1149) +1<br>
++107|+57|+66|-6|+37|-28|-21|+5|-11|-2<br>
+	2. JazzyDeer (0:1)<br>
+	3. Vlajs001 (2:4)<br>
+	4. Coldheart (1:2)<br>
+	8. no.brains (3:6)<br>
+	9. sebfillion (2:1)<br>
 <br>
-58. #GlobalJelly~994 (1147) +27<br>
--12|+33|-151|-103|-43|-34<br>
-	1. Spinne (2:3)<br>
-	3. JazzyDeer (0:2)<br>
-	6. WindyBrush~262 (1:0)<br>
-	7. TimTim (4:7)<br>
-	8. GreatApple~214 (0:2)<br>
-	9. fifty6 (1:0)<br>
-	10. Coldheart (0:1)<br>
+56. #CozyRam~944 (1143) -1<br>
++60|+28|+27|+24|+57|+32|+23|+13|-23|+21<br>
+	5. TimTim (1:0)<br>
+	6. GreatApple~214 (0:1)<br>
+	7. Vergilious (2:2)<br>
+	8. no.brains (2:3)<br>
+	9. sebfillion (1:3)<br>
 <br>
-59. #qwertyuiop00 (1147) +11<br>
-+58|+23|-79|+12|-79|-98|-6|-9|-46<br>
-	2. pablo55 (3:4)<br>
-	3. JazzyDeer (0:1)<br>
-	4. no.brains (1:1)<br>
-	6. WindyBrush~262 (6:1)<br>
-	7. TimTim (1:3)<br>
-	8. GreatApple~214 (1:1)<br>
-	9. fifty6 (2:3)<br>
-<br>
-60. #Sleeping~Waffle (1144) -3<br>
-+23|+19|+17|+21|+19|+26|+16|+11|+4|-3<br>
-<br>
-61. #CozyRam~944 (1144) +7<br>
-+60|+28|+28|+25|+58|+33|+24|+13|-23|+22<br>
-	4. no.brains (2:3)<br>
-	7. TimTim (2:1)<br>
-	8. GreatApple~214 (0:1)<br>
-<br>
-62. #turkeytower (1143) +2<br>
+57. #turkeytower (1143) 0<br>
 +16|+9|-4|-19|-14|-16|-3|+5|-4|0<br>
-	3. JazzyDeer (5:10)<br>
-	4. no.brains (0:2)<br>
-	7. TimTim (3:11)<br>
+	2. JazzyDeer (5:10)<br>
+	5. TimTim (3:11)<br>
+	7. Vergilious (0:1)<br>
+	8. no.brains (0:2)<br>
+	9. sebfillion (6:10)<br>
 <br>
-63. #somepatzer (1139) +35<br>
--1|-145|-36|-19|+38<br>
-	6. WindyBrush~262 (0:3)<br>
-	7. TimTim (4:5)<br>
-	8. GreatApple~214 (5:6)<br>
-<br>
-64. #KimJong (1139) -4<br>
-+48|+105|+18|+17<br>
-	2. pablo55 (0:3)<br>
-	5. Vlajs001 (0:7)<br>
-	6. WindyBrush~262 (3:6)<br>
-	7. TimTim (1:0)<br>
-	9. fifty6 (2:9)<br>
-	10. Coldheart (0:1)<br>
-<br>
-65. #VampiYaZZ (1136) +48<br>
+58. #VampiYaZZ (1136) 0<br>
 +136|+7|+43|+77|+109|+29|-7|+80|+69|+60<br>
-	6. WindyBrush~262 (2:0)<br>
-	7. TimTim (1:2)<br>
-	8. GreatApple~214 (0:1)<br>
+	5. TimTim (1:2)<br>
+	6. GreatApple~214 (0:1)<br>
+	10. WindyBrush~262 (2:0)<br>
 <br>
-66. #iwin96 (1134) -4<br>
-+70|+55|+48|+44|+21|+22|+19|+36|+24|-8<br>
-	2. pablo55 (4:3)<br>
-	4. no.brains (0:1)<br>
-	7. TimTim (0:2)<br>
-	8. GreatApple~214 (0:3)<br>
+59. #donJJ (1125) +2<br>
++5|+5|+2|+7|+4|+6|+8|+9|+7|-3<br>
+	1. pablo55 (2:4)<br>
+	3. Vlajs001 (3:16)<br>
+	4. Coldheart (0:2)<br>
+	5. TimTim (0:1)<br>
+	6. GreatApple~214 (0:1)<br>
+	9. sebfillion (1:4)<br>
+	10. WindyBrush~262 (4:4)<br>
 <br>
-67. #stront01 (1133) -32<br>
--56|-8|-41|-34|-43|-10|-22<br>
-	1. Spinne (0:3)<br>
-	4. no.brains (10:14)<br>
-	5. Vlajs001 (1:16)<br>
-	6. WindyBrush~262 (5:4)<br>
-	7. TimTim (4:4)<br>
-	9. fifty6 (2:2)<br>
-	10. Coldheart (2:4)<br>
+60. #KilluaZoldek (1120) +10<br>
++96|-12|-95|+9|+5|-69|-55|-45|+69|-7<br>
+	1. pablo55 (0:2)<br>
+	3. Vlajs001 (3:1)<br>
+	4. Coldheart (2:9)<br>
+	5. TimTim (0:3)<br>
+	6. GreatApple~214 (0:3)<br>
+	8. no.brains (0:1)<br>
+	10. WindyBrush~262 (1:3)<br>
 <br>
-68. #enomeno (1131) 0<br>
-+93|+65|+70|+68|+84|+18|+41|+30|+78|+48<br>
-	2. pablo55 (0:1)<br>
-	6. WindyBrush~262 (1:0)<br>
-	8. GreatApple~214 (0:1)<br>
-	10. Coldheart (1:9)<br>
+61. #DizzyJeans~600 (1118) -2<br>
+-18|-32|-35|-14|-4|-22|-11|0|-22|-1<br>
+	3. Vlajs001 (0:1)<br>
+	4. Coldheart (3:5)<br>
+	5. TimTim (0:4)<br>
+	7. Vergilious (0:1)<br>
 <br>
-69. #donJJ (1123) -5<br>
-+4|+3|0|+5|+2|+4|+6|+7|+5|-5<br>
-	2. pablo55 (2:4)<br>
-	5. Vlajs001 (3:16)<br>
-	6. WindyBrush~262 (4:4)<br>
-	7. TimTim (0:1)<br>
-	8. GreatApple~214 (0:1)<br>
-	10. Coldheart (0:2)<br>
-<br>
-70. #ProAssaulter (1123) +20<br>
--8|+95|+29|-63|+95|-10|+31|-3|+11<br>
-	4. no.brains (2:2)<br>
-	7. TimTim (1:0)<br>
-	9. fifty6 (0:3)<br>
-<br>
-71. #DizzyJeans~600 (1120) 0<br>
--15|-30|-33|-12|-2|-20|-9|+2|-20|+1<br>
-	7. TimTim (0:4)<br>
-	10. Coldheart (3:5)<br>
-<br>
-72. #crazyfatkid (1113) -2<br>
-+1|+68|+52|-15|-12|+10|-47|-30|-29|-4<br>
-	4. no.brains (1:0)<br>
-	6. WindyBrush~262 (1:6)<br>
-	7. TimTim (0:1)<br>
-<br>
-73. #Bi~Polar (1111) +10<br>
--8|-10|-27|-37|-53|-33|-23|-7|+4|+5<br>
-	5. Vlajs001 (0:1)<br>
-<br>
-74. #KilluaZoldek (1110) -26<br>
-+85|-22|-106|-1|-6|-79|-65|-55|+59|-17<br>
-	2. pablo55 (0:2)<br>
-	3. JazzyDeer (1:0)<br>
-	4. no.brains (0:1)<br>
-	5. Vlajs001 (3:1)<br>
-	6. WindyBrush~262 (1:3)<br>
-	7. TimTim (0:3)<br>
-	8. GreatApple~214 (0:3)<br>
-	9. fifty6 (1:1)<br>
-	10. Coldheart (2:9)<br>
-<br>
-75. #YellowDoor~169 (1109) 0<br>
+62. #YellowDoor~169 (1109) 0<br>
 -92|-106|-17|-104|-30|-78|-27|-70|-81|-51<br>
-	2. pablo55 (0:3)<br>
-	3. JazzyDeer (3:1)<br>
-	4. no.brains (1:10)<br>
-	5. Vlajs001 (1:0)<br>
-	6. WindyBrush~262 (6:2)<br>
-	7. TimTim (1:0)<br>
-	10. Coldheart (5:8)<br>
+	1. pablo55 (0:3)<br>
+	2. JazzyDeer (3:1)<br>
+	3. Vlajs001 (1:0)<br>
+	4. Coldheart (5:8)<br>
+	5. TimTim (1:0)<br>
+	8. no.brains (1:10)<br>
+	10. WindyBrush~262 (6:2)<br>
 <br>
-76. #moonrocks (1105) +6<br>
-+27|+25|+21|+11|+36|+16|+6|-2|+20|+3<br>
-	2. pablo55 (2:6)<br>
-	5. Vlajs001 (6:6)<br>
-	7. TimTim (0:1)<br>
-	8. GreatApple~214 (0:2)<br>
-	10. Coldheart (1:3)<br>
+63. #Bi~Polar (1109) -2<br>
+-12|-29|-39|-55|-35|-25|-9|+2|+2|0<br>
+	3. Vlajs001 (0:1)<br>
 <br>
-77. #LuckySoap~253 (1104) 0<br>
--2|-18|+33<br>
-	2. pablo55 (1:8)<br>
-	7. TimTim (0:4)<br>
-	8. GreatApple~214 (1:3)<br>
+64. #KimJong (1101) -38<br>
++10|+67|-20|-21|-26<br>
+	1. pablo55 (0:3)<br>
+	3. Vlajs001 (0:2)<br>
+	4. Coldheart (0:1)<br>
+	5. TimTim (1:0)<br>
+	7. Vergilious (0:2)<br>
+	9. sebfillion (0:1)<br>
+	10. WindyBrush~262 (0:1)<br>
 <br>
-78. #nurglingde (1100) -7<br>
--18|-2|-9|-5|-10|-8|-12|-14|-17|-9<br>
-	3. JazzyDeer (0:1)<br>
-	5. Vlajs001 (0:2)<br>
-	6. WindyBrush~262 (5:4)<br>
-	9. fifty6 (2:5)<br>
+65. #nurglingde (1099) -2<br>
+-3|-11|-7|-12|-9|-13|-16|-19|-11|-1<br>
+	2. JazzyDeer (0:1)<br>
+	3. Vlajs001 (0:2)<br>
+	7. Vergilious (0:1)<br>
+	9. sebfillion (1:7)<br>
+	10. WindyBrush~262 (5:4)<br>
 <br>
-79. #migof220 (1099) +6<br>
+66. #migof220 (1099) 0<br>
 +25|+33|+4|-17|-47|-33|-3|-8|-2|-14<br>
-	1. Spinne (0:3)<br>
-	2. pablo55 (1:1)<br>
-	4. no.brains (0:3)<br>
-	5. Vlajs001 (2:6)<br>
-	6. WindyBrush~262 (1:3)<br>
-	7. TimTim (4:2)<br>
-	8. GreatApple~214 (2:6)<br>
-	9. fifty6 (2:5)<br>
-	10. Coldheart (1:1)<br>
+	1. pablo55 (1:1)<br>
+	3. Vlajs001 (2:6)<br>
+	4. Coldheart (1:1)<br>
+	5. TimTim (4:2)<br>
+	6. GreatApple~214 (2:6)<br>
+	7. Vergilious (0:1)<br>
+	8. no.brains (0:3)<br>
+	9. sebfillion (0:3)<br>
+	10. WindyBrush~262 (1:2)<br>
 <br>
-80. #smurfa (1095) +4<br>
-+4|+3|-7|-12|-4|+6|+16|+4|-19|+2<br>
-	1. Spinne (0:1)<br>
-	3. JazzyDeer (0:1)<br>
-	4. no.brains (1:0)<br>
-	5. Vlajs001 (1:5)<br>
-	6. WindyBrush~262 (3:8)<br>
-	8. GreatApple~214 (1:3)<br>
-	9. fifty6 (0:1)<br>
-	10. Coldheart (0:5)<br>
+67. #smurfa (1095) +1<br>
++5|+3|-7|-11|-4|+6|+17|+4|-19|+2<br>
+	2. JazzyDeer (0:1)<br>
+	3. Vlajs001 (1:5)<br>
+	4. Coldheart (0:5)<br>
+	6. GreatApple~214 (1:3)<br>
+	8. no.brains (1:0)<br>
+	9. sebfillion (0:1)<br>
+	10. WindyBrush~262 (1:3)<br>
 <br>
-81. #BadButter~266 (1093) 0<br>
+68. #BadButter~266 (1093) 0<br>
 +26|+5|-45|-39|+21|-69|-107|-44|+7|-6<br>
-	1. Spinne (0:2)<br>
-	2. pablo55 (0:1)<br>
-	6. WindyBrush~262 (2:3)<br>
-	8. GreatApple~214 (1:8)<br>
-	9. fifty6 (4:9)<br>
+	1. pablo55 (0:1)<br>
+	6. GreatApple~214 (1:8)<br>
+	7. Vergilious (3:4)<br>
+	9. sebfillion (3:5)<br>
+	10. WindyBrush~262 (2:3)<br>
 <br>
-82. #farzip (1083) -2<br>
-+24|+26|+4|+13|-7|-27|-13|-20|-28|-9<br>
-	2. pablo55 (1:0)<br>
-	3. JazzyDeer (0:2)<br>
-	5. Vlajs001 (3:1)<br>
-	6. WindyBrush~262 (7:1)<br>
-	7. TimTim (0:1)<br>
-	8. GreatApple~214 (0:2)<br>
-	9. fifty6 (1:2)<br>
-	10. Coldheart (1:2)<br>
+69. #farzip (1080) -3<br>
++21|+22|+1|+9|-10|-30|-17|-24|-32|-12<br>
+	1. pablo55 (1:0)<br>
+	2. JazzyDeer (0:2)<br>
+	3. Vlajs001 (4:6)<br>
+	4. Coldheart (1:2)<br>
+	5. TimTim (0:1)<br>
+	6. GreatApple~214 (0:2)<br>
+	7. Vergilious (0:1)<br>
+	9. sebfillion (2:2)<br>
+	10. WindyBrush~262 (7:1)<br>
 <br>
-83. #Turtle~Waffle (1070) -8<br>
--32|-31|-34|-30|-20|-16|-24|-25|-17|-6<br>
-	6. WindyBrush~262 (5:34)<br>
+70. #Turtle~Waffle (1065) -5<br>
+-36|-39|-35|-24|-21|-29|-30|-22|-10|-6<br>
+	10. WindyBrush~262 (4:17)<br>
 <br>
-84. #Attack~Bot (1069) 0<br>
-+54|+85|+108|+62|+50|+28|+78|+14|+29|+2<br>
-	6. WindyBrush~262 (2:27)<br>
+71. #GreedyJeans~930 (1064) +4<br>
++10|-25|+19|-11|+10|+10|+21|-29|-48|-5<br>
+	1. pablo55 (0:3)<br>
+	2. JazzyDeer (0:1)<br>
+	3. Vlajs001 (1:5)<br>
+	4. Coldheart (0:2)<br>
+	5. TimTim (0:1)<br>
+	8. no.brains (1:7)<br>
+	10. WindyBrush~262 (1:3)<br>
 <br>
-85. #GreedyJeans~930 (1060) -33<br>
-+6|-29|+15|-15|+6|+6|+17|-33|-51|-9<br>
-	2. pablo55 (0:3)<br>
-	3. JazzyDeer (0:1)<br>
-	4. no.brains (1:7)<br>
-	5. Vlajs001 (0:2)<br>
-	6. WindyBrush~262 (1:3)<br>
-	7. TimTim (0:1)<br>
-	10. Coldheart (0:2)<br>
+72. #meltedcheese (1056) +2<br>
++35|+20|+16|+9|-27|-21|-32|-4|-8|-8<br>
+	5. TimTim (1:1)<br>
+	8. no.brains (1:9)<br>
+	9. sebfillion (1:0)<br>
 <br>
-86. #Astro~Chicken (1055) -1<br>
-+6|+9|+14|+17|+12|+8|+13|+8|-3|-3<br>
+73. #Attack~Bot (1026) -42<br>
++42|+65|+20|+7|-14|+36|-28|-13|-41|-40<br>
+	9. sebfillion (0:4)<br>
+	10. WindyBrush~262 (1:11)<br>
 <br>
-87. #meltedcheese (1054) -9<br>
-+33|+19|+14|+7|-29|-23|-33|-5|-9|-10<br>
-	1. Spinne (0:1)<br>
-	4. no.brains (0:8)<br>
-	7. TimTim (1:1)<br>
-<br>
-88. #Tortoise~Waffle (1054) 0<br>
-+3|+1|+16|+15|+19|+2|+11|+8|+9|-3<br>
-<br>
-89. #ZanyChurn~193 (1032) +79<br>
--153|+104|+15<br>
-	3. JazzyDeer (5:9)<br>
-	6. WindyBrush~262 (0:1)<br>
-	7. TimTim (0:2)<br>
-	8. GreatApple~214 (0:2)<br>
-<br>
-90. #culodmose (980) -18<br>
--106|+56<br>
-	4. no.brains (0:6)<br>
-	5. Vlajs001 (2:4)<br>
-	9. fifty6 (0:4)<br>
-<br>
-91. #cloudyMoose (878) 0<br>
-+180|+150|+126|-27<br>
-	2. pablo55 (2:11)<br>
-	10. Coldheart (0:8)<br>
+74. #culodmose (945) -35<br>
+-141|+21|-25<br>
+	3. Vlajs001 (2:9)<br>
+	8. no.brains (0:6)<br>
