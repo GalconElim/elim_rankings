@@ -1,7 +1,7 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #GreatApple~214 (1144) +1<br>
-+22|+11|+12|+10|+2|-2|-16|-5|-2|+3<br>
+1. #GreatApple~214 (1145) +1<br>
++23|+12|+13|+11|+3|-1|-15|-4|-1|+4<br>
 	3. Vlajs001 (1:0)<br>
 	4. thedude (1:0)<br>
 	6. flagstone (1:2)<br>
@@ -9,17 +9,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Arkady (1:0)<br>
 	10. sebfillion (1:1)<br>
 <br>
-2. #TimTim (1134) -1<br>
+2. #TimTim (1134) 0<br>
 +27|+2|+4|+4|+8|+13|+16|+4|+8<br>
 	3. Vlajs001 (1:1)<br>
 	4. thedude (3:1)<br>
-	5. chomeur2 (0:4)<br>
+	5. chomeur2 (0:3)<br>
 	7. GroovyFlame (0:1)<br>
 	8. Arkady (1:1)<br>
 	10. sebfillion (2:0)<br>
 <br>
 3. #Vlajs001 (1114) 0<br>
--3|-5|+1|+2|-7|-6|-6|-6|-6|-7<br>
+-3|-5|0|+2|-7|-6|-6|-6|-6|-7<br>
 	1. GreatApple~214 (0:1)<br>
 	2. TimTim (1:1)<br>
 	4. thedude (1:0)<br>
@@ -28,8 +28,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Coldheart (4:4)<br>
 	10. sebfillion (1:0)<br>
 <br>
-4. #thedude (1108) 0<br>
-+13|+14|+13|+8|+12|+1|+1|0|-8|-5<br>
+4. #thedude (1107) 0<br>
++13|+14|+12|+8|+12|0|+1|-1|-8|-5<br>
 	1. GreatApple~214 (0:1)<br>
 	2. TimTim (1:3)<br>
 	3. Vlajs001 (0:1)<br>
@@ -39,21 +39,21 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 5. #chomeur2 (1097) 0<br>
 +23|+22|+18|+21|+11|+10|+15|+12|+10|+8<br>
-	2. TimTim (4:0)<br>
+	2. TimTim (3:0)<br>
 	3. Vlajs001 (1:1)<br>
 	4. thedude (0:1)<br>
 	7. GroovyFlame (0:1)<br>
 	8. Arkady (1:1)<br>
 <br>
 6. #flagstone (1096) 0<br>
-+2|+3|+11|+11|+14|+5|+5|+7|+3|0<br>
++3|+4|+11|+11|+14|+5|+5|+7|+3|+1<br>
 	1. GreatApple~214 (2:1)<br>
 	3. Vlajs001 (0:1)<br>
 	4. thedude (1:1)<br>
 	7. GroovyFlame (1:0)<br>
 <br>
-7. #GroovyFlame (1091) -1<br>
-+71|+66|+48|+32|+35|+27|+11|+3|0<br>
+7. #GroovyFlame (1091) 0<br>
++71|+66|+48|+32|+35|+26|+10|+3|0<br>
 	1. GreatApple~214 (0:5)<br>
 	2. TimTim (1:0)<br>
 	5. chomeur2 (1:0)<br>
@@ -69,19 +69,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. chomeur2 (1:1)<br>
 	7. GroovyFlame (0:1)<br>
 <br>
-9. #Coldheart (1088) +1<br>
+9. #Coldheart (1088) 0<br>
 +50|+60|+63|+59|+53|+45|+36|+26|+15|+2<br>
 	3. Vlajs001 (4:4)<br>
 	7. GroovyFlame (1:2)<br>
 <br>
-10. #sebfillion (1078) 0<br>
-+18|+6|+10|+5|+1|+6|0|+9|+10|-1<br>
+10. #sebfillion (1080) +2<br>
++21|+9|+12|+8|+4|+8|+2|+11|+13|+2<br>
 	1. GreatApple~214 (1:1)<br>
 	2. TimTim (0:2)<br>
 	3. Vlajs001 (0:1)<br>
 <br>
-11. #Alex_Zver (1074) +3<br>
-+46|+33|+27|+12|-1|+7|+9|+11|+4|+5<br>
+11. #Alex_Zver (1075) +1<br>
++47|+34|+28|+13|0|+8|+9|+11|+5|+6<br>
 	1. GreatApple~214 (1:1)<br>
 	2. TimTim (0:1)<br>
 	3. Vlajs001 (3:2)<br>
@@ -91,8 +91,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Coldheart (2:1)<br>
 	10. sebfillion (2:2)<br>
 <br>
-12. #SloppyTea~932 (1071) -3<br>
-+45|+30|+9|+6|+1|-6|+2|-1|-1|-2<br>
+12. #SloppyTea~932 (1075) +4<br>
++49|+34|+13|+9|+5|-2|+6|+3|+2|+1<br>
 	1. GreatApple~214 (4:3)<br>
 	2. TimTim (1:4)<br>
 	3. Vlajs001 (4:2)<br>
@@ -102,15 +102,23 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Coldheart (0:1)<br>
 	10. sebfillion (4:2)<br>
 <br>
-13. #jraz (1063) +1<br>
-+29|+29|+20|+19|+16|+14|+11|+15|+15|+6<br>
+13. #fifty6 (1073) -2<br>
++42|+34|+24|+15|+15|+10|-1<br>
+	2. TimTim (1:0)<br>
+	6. flagstone (1:0)<br>
+	7. GroovyFlame (0:2)<br>
+	9. Coldheart (2:0)<br>
+	10. sebfillion (0:1)<br>
+<br>
+14. #jraz (1065) +2<br>
++31|+31|+22|+21|+18|+16|+13|+17|+17|+8<br>
 	1. GreatApple~214 (0:1)<br>
-	7. GroovyFlame (2:1)<br>
+	7. GroovyFlame (2:2)<br>
 	9. Coldheart (0:1)<br>
 	10. sebfillion (0:2)<br>
 <br>
-14. #Starfleet (1061) -5<br>
--3|-16|-15|-9|-9|-13|-12|-4|-5|-3<br>
+15. #Starfleet (1061) 0<br>
+-3|-15|-14|-9|-9|-13|-11|-4|-5|-3<br>
 	2. TimTim (3:5)<br>
 	3. Vlajs001 (1:1)<br>
 	4. thedude (0:1)<br>
@@ -119,34 +127,34 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. GroovyFlame (0:3)<br>
 	10. sebfillion (0:1)<br>
 <br>
-15. #Buz (1059) -2<br>
-+8|+2|-1|-12|-8|-7|+3|+3|+6|+2<br>
+16. #Buz (1059) 0<br>
++8|+2|-2|-12|-8|-7|+3|+3|+5|+2<br>
 	2. TimTim (3:4)<br>
 	4. thedude (0:1)<br>
 	6. flagstone (5:5)<br>
 	7. GroovyFlame (1:0)<br>
 	8. Arkady (2:7)<br>
 <br>
-16. #g-nice (1056) 0<br>
-+27|+23|+24|+11|+6|+9|+9|+3<br>
+17. #SuperMarioBr (1057) +1<br>
++40|+34|+31|+17|+8|-2|+3<br>
+	1. GreatApple~214 (3:5)<br>
+	2. TimTim (3:3)<br>
+	3. Vlajs001 (0:1)<br>
+	4. thedude (1:5)<br>
+	6. flagstone (2:0)<br>
+	10. sebfillion (1:2)<br>
+<br>
+18. #g-nice (1056) -1<br>
++26|+23|+24|+10|+6|+8|+8|+3<br>
 	1. GreatApple~214 (2:0)<br>
 	2. TimTim (2:2)<br>
 	3. Vlajs001 (2:3)<br>
 	5. chomeur2 (0:1)<br>
-	6. flagstone (1:1)<br>
+	6. flagstone (0:1)<br>
 	9. Coldheart (3:3)<br>
 <br>
-17. #SuperMarioBr (1056) -1<br>
-+39|+32|+30|+15|+7|-3|+2<br>
-	1. GreatApple~214 (3:5)<br>
-	2. TimTim (3:4)<br>
-	3. Vlajs001 (0:1)<br>
-	4. thedude (1:5)<br>
-	6. flagstone (1:0)<br>
-	10. sebfillion (1:2)<br>
-<br>
-18. #MUFSKIN (1053) -1<br>
--7|-2|0|-2|-2|0|+2|+4|+11|+4<br>
+19. #MUFSKIN (1053) +1<br>
+-7|-2|0|-1|-1|0|+2|+5|+11|+5<br>
 	1. GreatApple~214 (1:1)<br>
 	3. Vlajs001 (1:2)<br>
 	4. thedude (0:2)<br>
@@ -155,14 +163,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Arkady (1:0)<br>
 	9. Coldheart (0:1)<br>
 <br>
-19. #mrooq.711 (1049) +2<br>
-+33|+21|+19|+12|+2<br>
+20. #mrooq.711 (1050) +2<br>
++34|+23|+20|+13|+4<br>
 	3. Vlajs001 (1:1)<br>
 	4. thedude (5:2)<br>
 	5. chomeur2 (2:0)<br>
 <br>
-20. #skeems (1047) +2<br>
-0|+4|+10|+6|+9|+4|-1<br>
+21. #skeems (1048) +1<br>
++1|+5|+11|+8|+10|+5|+1<br>
 	1. GreatApple~214 (0:5)<br>
 	2. TimTim (1:7)<br>
 	3. Vlajs001 (0:4)<br>
@@ -172,13 +180,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. GroovyFlame (2:1)<br>
 	9. Coldheart (1:1)<br>
 <br>
-21. #goldfinger (1044) 0<br>
--2|-11|-8|-10|-9|-2|-2|-2|-1|0<br>
-	5. chomeur2 (1:1)<br>
-	7. GroovyFlame (1:2)<br>
-<br>
-22. #somepatzer (1041) -1<br>
-+21|+5|-3<br>
+22. #somepatzer (1046) +5<br>
++27|+10|+2<br>
 	1. GreatApple~214 (2:0)<br>
 	2. TimTim (1:1)<br>
 	3. Vlajs001 (0:2)<br>
@@ -186,8 +189,27 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. GroovyFlame (0:3)<br>
 	10. sebfillion (1:4)<br>
 <br>
-23. #A-z-sh (1040) +1<br>
--21|-19|-20|-14|-8|-4|-1|-1|0|-1<br>
+23. #goldfinger (1044) 0<br>
+-2|-11|-8|-10|-9|-2|-2|-2|-1|0<br>
+	5. chomeur2 (1:1)<br>
+	7. GroovyFlame (1:1)<br>
+<br>
+24. #z.snafu (1037) 0<br>
+-4|-6|+1|+1|-1|-9|-9|-1|+4|-1<br>
+	3. Vlajs001 (1:2)<br>
+	6. flagstone (1:5)<br>
+	10. sebfillion (2:1)<br>
+<br>
+25. #hamidrez (1036) 0<br>
++44|+31|+25|+2|+6|+10|+12|+9|+7<br>
+	2. TimTim (0:1)<br>
+	3. Vlajs001 (1:1)<br>
+	5. chomeur2 (2:1)<br>
+	6. flagstone (0:1)<br>
+	10. sebfillion (1:1)<br>
+<br>
+26. #A-z-sh (1035) -5<br>
+-26|-24|-25|-19|-13|-9|-6|-7|-5|-6<br>
 	1. GreatApple~214 (0:1)<br>
 	2. TimTim (4:7)<br>
 	3. Vlajs001 (2:1)<br>
@@ -199,34 +221,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Coldheart (0:3)<br>
 	10. sebfillion (3:3)<br>
 <br>
-24. #z.snafu (1037) -1<br>
--4|-6|+1|+1|-1|-9|-9|-1|+4|-1<br>
-	3. Vlajs001 (1:2)<br>
-	6. flagstone (1:5)<br>
-	10. sebfillion (2:1)<br>
-<br>
-25. #hamidrez (1036) -1<br>
-+44|+31|+25|+2|+6|+10|+12|+9|+7<br>
-	2. TimTim (0:1)<br>
-	3. Vlajs001 (1:1)<br>
-	5. chomeur2 (2:1)<br>
-	6. flagstone (0:1)<br>
-	10. sebfillion (1:1)<br>
-<br>
-26. #His-Majesty (1032) +3<br>
--1|0|+1|+5|+7|+9|+11|+4|+6|+3<br>
+27. #His-Majesty (1033) +1<br>
+0|+1|+2|+6|+8|+10|+12|+5|+7|+4<br>
 	1. GreatApple~214 (1:2)<br>
 	2. TimTim (2:5)<br>
 	3. Vlajs001 (3:4)<br>
-	4. thedude (0:1)<br>
 	6. flagstone (2:3)<br>
 	7. GroovyFlame (0:4)<br>
 	8. Arkady (2:0)<br>
 	9. Coldheart (4:2)<br>
 	10. sebfillion (0:3)<br>
 <br>
-27. #dfyyxy (1030) +3<br>
-+12|+9|+9|+14|+14|+8|+13|+9|+4|-1<br>
+28. #dfyyxy (1031) +1<br>
++13|+10|+10|+14|+14|+9|+13|+10|+5|-1<br>
 	1. GreatApple~214 (1:0)<br>
 	2. TimTim (2:0)<br>
 	5. chomeur2 (0:2)<br>
@@ -234,17 +241,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. GroovyFlame (1:1)<br>
 	9. Coldheart (2:1)<br>
 <br>
-28. #Celica (1029) 0<br>
--2|-5|-11|-10|-12|-7|0|-2|-2|+1<br>
-	2. TimTim (0:1)<br>
-	3. Vlajs001 (4:2)<br>
-	4. thedude (2:2)<br>
-	5. chomeur2 (0:1)<br>
-	7. GroovyFlame (2:0)<br>
-	9. Coldheart (1:1)<br>
-	10. sebfillion (0:1)<br>
-<br>
-29. #VNS700 (1027) +2<br>
+29. #VNS700 (1027) 0<br>
 +15|+12|+4<br>
 	1. GreatApple~214 (0:1)<br>
 	10. sebfillion (2:0)<br>
@@ -256,28 +253,50 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Coldheart (0:4)<br>
 	10. sebfillion (0:1)<br>
 <br>
-31. #hods (1025) 0<br>
-+19|+8|+9|+4|+8|+6|+3|-3|+1|0<br>
-	1. GreatApple~214 (3:4)<br>
-	2. TimTim (1:1)<br>
-	3. Vlajs001 (3:6)<br>
-	4. thedude (4:5)<br>
-	5. chomeur2 (1:7)<br>
-	6. flagstone (1:0)<br>
-	7. GroovyFlame (1:5)<br>
-	8. Arkady (0:4)<br>
-	9. Coldheart (2:3)<br>
-	10. sebfillion (2:3)<br>
-<br>
-32. #qwertyuiop00 (1024) -3<br>
+31. #qwertyuiop00 (1025) 0<br>
 +21|+10|0<br>
 	1. GreatApple~214 (1:1)<br>
 	2. TimTim (0:1)<br>
 	3. Vlajs001 (1:0)<br>
 	7. GroovyFlame (0:2)<br>
 <br>
-33. #DizzyJeans~600 (1024) +2<br>
-+19|+11|+14|+13|+12|+8|+3|+5|+1|0<br>
+32. #Celica (1024) -5<br>
+-7|-10|-16|-15|-17|-12|-5|-7|-7|-4<br>
+	2. TimTim (0:1)<br>
+	3. Vlajs001 (4:2)<br>
+	4. thedude (2:1)<br>
+	5. chomeur2 (0:1)<br>
+	7. GroovyFlame (2:0)<br>
+	9. Coldheart (1:1)<br>
+	10. sebfillion (0:1)<br>
+<br>
+33. #KilluaZoldek (1023) 0<br>
++41|+24|+14|+7<br>
+	2. TimTim (0:3)<br>
+	3. Vlajs001 (1:0)<br>
+	7. GroovyFlame (1:0)<br>
+	9. Coldheart (0:5)<br>
+<br>
+34. #hods (1023) -2<br>
++17|+6|+7|+2|+6|+3|+1|-5|-2|-2<br>
+	1. GreatApple~214 (3:4)<br>
+	2. TimTim (1:1)<br>
+	3. Vlajs001 (3:6)<br>
+	4. thedude (4:5)<br>
+	5. chomeur2 (1:7)<br>
+	6. flagstone (1:1)<br>
+	7. GroovyFlame (1:5)<br>
+	8. Arkady (0:4)<br>
+	9. Coldheart (2:3)<br>
+	10. sebfillion (2:3)<br>
+<br>
+35. #FlowoodMS (1023) 0<br>
++5|-2|-4|+1|-8|-13|-8|-13|-15|-6<br>
+	5. chomeur2 (0:1)<br>
+	7. GroovyFlame (4:6)<br>
+<br>
+36. #DizzyJeans~600 (1022) -2<br>
++10|+13|+11|+10|+7|+1|+4|0|-1|-1<br>
 	2. TimTim (0:1)<br>
 	3. Vlajs001 (0:1)<br>
 	4. thedude (0:1)<br>
@@ -286,72 +305,71 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Arkady (1:2)<br>
 	9. Coldheart (1:1)<br>
 <br>
-34. #KilluaZoldek (1023) -1<br>
-+41|+24|+14|+7<br>
-	2. TimTim (0:3)<br>
-	3. Vlajs001 (1:0)<br>
-	7. GroovyFlame (1:0)<br>
-	9. Coldheart (0:5)<br>
-<br>
-35. #FlowoodMS (1022) -4<br>
-+5|-2|-4|+1|-8|-13|-9|-14|-15|-7<br>
-	5. chomeur2 (0:1)<br>
-	7. GroovyFlame (4:6)<br>
-<br>
-36. #WindyBrush~262 (1021) 0<br>
-+14|+12|+8<br>
+37. #WindyBrush~262 (1020) -1<br>
++13|+11|+7<br>
 	1. GreatApple~214 (0:2)<br>
 	2. TimTim (1:0)<br>
 	3. Vlajs001 (5:5)<br>
 	4. thedude (2:2)<br>
 	5. chomeur2 (0:1)<br>
+	6. flagstone (0:1)<br>
 <br>
-37. #TinyOwl~323 (1020) +2<br>
--5|-7|-9|-8|-5|-11|-5|-8|-6|-1<br>
-	1. GreatApple~214 (4:4)<br>
-	2. TimTim (2:7)<br>
-	4. thedude (0:2)<br>
-	5. chomeur2 (1:7)<br>
-	6. flagstone (1:5)<br>
-	7. GroovyFlame (0:1)<br>
-	8. Arkady (1:1)<br>
-	9. Coldheart (0:2)<br>
-<br>
-38. #BDAT10 (1018) +3<br>
-+18|+16|+13|+19|+27|+21|+15|+8|+4|-1<br>
-	1. GreatApple~214 (1:2)<br>
-	2. TimTim (1:3)<br>
-	3. Vlajs001 (0:1)<br>
-	4. thedude (1:2)<br>
-	5. chomeur2 (0:4)<br>
-	6. flagstone (3:1)<br>
-	9. Coldheart (0:4)<br>
-	10. sebfillion (1:2)<br>
-<br>
-39. #stront01 (1017) +1<br>
-+12|+18|+11<br>
+38. #stront01 (1019) +2<br>
++14|+20|+12<br>
 	2. TimTim (0:1)<br>
 	3. Vlajs001 (1:6)<br>
 	5. chomeur2 (1:2)<br>
 	8. Arkady (0:1)<br>
 	10. sebfillion (2:3)<br>
 <br>
-40. #SparkySoup~704 (1017) -1<br>
-+58|+62|+52|+44|+38|+14|+4<br>
+39. #TinyOwl~323 (1018) -2<br>
+-7|-9|-11|-9|-7|-12|-6|-10|-8|-3<br>
+	1. GreatApple~214 (4:4)<br>
+	2. TimTim (2:6)<br>
+	4. thedude (0:2)<br>
+	5. chomeur2 (1:7)<br>
+	6. flagstone (1:5)<br>
+	7. GroovyFlame (0:1)<br>
+	8. Arkady (1:1)<br>
+	9. Coldheart (0:2)<br>
+	10. sebfillion (1:0)<br>
+<br>
+40. #SparkySoup~704 (1018) +1<br>
++59|+62|+53|+45|+38|+15|+5<br>
 	2. TimTim (0:6)<br>
 	3. Vlajs001 (0:1)<br>
 	6. flagstone (1:2)<br>
 	7. GroovyFlame (1:1)<br>
 	10. sebfillion (4:2)<br>
 <br>
-41. #dIehAppY (1013) 0<br>
-+9|+9|+8|+6|-2<br>
+41. #BDAT10 (1016) -2<br>
++16|+14|+12|+17|+25|+19|+13|+6|+3|-3<br>
+	1. GreatApple~214 (1:2)<br>
+	2. TimTim (0:2)<br>
+	3. Vlajs001 (0:1)<br>
+	5. chomeur2 (0:4)<br>
+	6. flagstone (3:1)<br>
+	9. Coldheart (0:4)<br>
+	10. sebfillion (1:2)<br>
+<br>
+42. #dIehAppY (1014) +1<br>
++10|+10|+9|+7|-1|0<br>
+	3. Vlajs001 (1:1)<br>
 	4. thedude (5:2)<br>
+	6. flagstone (0:1)<br>
 	8. Arkady (1:0)<br>
 	10. sebfillion (2:0)<br>
 <br>
-42. #moonrocks (1009) +1<br>
--1|-2|0|-8|-9|-5|-4|-5|-1|-2<br>
+43. #destruct098 (1009) 0<br>
++4<br>
+	4. thedude (0:1)<br>
+	5. chomeur2 (0:1)<br>
+	6. flagstone (1:1)<br>
+	8. Arkady (0:1)<br>
+	10. sebfillion (1:2)<br>
+<br>
+44. #moonrocks (1009) 0<br>
+-2|0|-8|-10|-5|-5|-5|-2|-3|+1<br>
 	1. GreatApple~214 (0:1)<br>
 	3. Vlajs001 (5:1)<br>
 	4. thedude (2:0)<br>
@@ -359,7 +377,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. GroovyFlame (0:1)<br>
 	9. Coldheart (1:2)<br>
 <br>
-43. #CozyRam~944 (1004) 0<br>
+45. #CozyRam~944 (1004) 0<br>
 +42|+47|+34|+29|+23|+3<br>
 	2. TimTim (1:0)<br>
 	6. flagstone (1:1)<br>
@@ -367,8 +385,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Arkady (0:2)<br>
 	10. sebfillion (1:3)<br>
 <br>
-44. #thereason (1004) +6<br>
--9|+1|-3|+7<br>
+46. #thereason (1004) 0<br>
+-9|0|-4|+6<br>
 	1. GreatApple~214 (1:1)<br>
 	2. TimTim (0:6)<br>
 	4. thedude (1:1)<br>
@@ -377,12 +395,32 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Arkady (2:0)<br>
 	10. sebfillion (0:1)<br>
 <br>
-45. #BrightWolf~137 (1002) +1<br>
+47. #BrightWolf~137 (1002) 0<br>
 +9|+6|-1<br>
-	5. chomeur2 (1:1)<br>
+	4. thedude (1:0)<br>
+	5. chomeur2 (1:0)<br>
 <br>
-46. #GabbyHammer~479 (1000) 0<br>
--6|+5|+1|+1<br>
+48. #killerdude69 (1001) +2<br>
++18|+11|+3<br>
+	1. GreatApple~214 (0:5)<br>
+	2. TimTim (0:1)<br>
+	7. GroovyFlame (0:3)<br>
+	8. Arkady (4:0)<br>
+	9. Coldheart (0:1)<br>
+	10. sebfillion (0:2)<br>
+<br>
+49. #bigf4rt (1000) 0<br>
+-45|-44|-36|-30|-23|-19|-18|-19|-8|-4<br>
+	2. TimTim (1:1)<br>
+	3. Vlajs001 (0:4)<br>
+	4. thedude (0:1)<br>
+	5. chomeur2 (1:4)<br>
+	6. flagstone (0:1)<br>
+	9. Coldheart (1:0)<br>
+	10. sebfillion (2:0)<br>
+<br>
+50. #GabbyHammer~479 (1000) -1<br>
+-7|+4|0|0<br>
 	2. TimTim (1:2)<br>
 	3. Vlajs001 (0:1)<br>
 	4. thedude (2:2)<br>
@@ -392,39 +430,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Coldheart (1:1)<br>
 	10. sebfillion (0:2)<br>
 <br>
-47. #bigf4rt (1000) -4<br>
--45|-44|-36|-30|-23|-19|-18|-19|-8|-4<br>
-	2. TimTim (1:1)<br>
-	3. Vlajs001 (0:4)<br>
-	4. thedude (0:2)<br>
-	5. chomeur2 (4:7)<br>
-	6. flagstone (0:1)<br>
-	9. Coldheart (1:0)<br>
-	10. sebfillion (2:0)<br>
-<br>
-48. #killerdude69 (999) 0<br>
-+17|+9|+1<br>
-	1. GreatApple~214 (0:5)<br>
-	2. TimTim (0:4)<br>
-	7. GroovyFlame (0:2)<br>
-	8. Arkady (4:0)<br>
-	9. Coldheart (0:1)<br>
-	10. sebfillion (0:2)<br>
-<br>
-49. #nurglingde (997) 0<br>
+51. #nurglingde (997) 0<br>
 +27|+26|+19|+20|+13|+9|+6|-4|-8|0<br>
 	3. Vlajs001 (0:1)<br>
 	6. flagstone (0:1)<br>
 	10. sebfillion (0:3)<br>
 <br>
-50. #RaggedTramp~229 (997) +1<br>
-+12|+8|+11|+7<br>
-	2. TimTim (2:5)<br>
+52. #RaggedTramp~229 (996) -1<br>
++12|+8|+10|+6<br>
+	2. TimTim (1:5)<br>
 	6. flagstone (0:2)<br>
 	8. Arkady (1:2)<br>
 <br>
-51. #flames20 (996) 0<br>
-+6|+4<br>
+53. #flames20 (995) -1<br>
++5|+2<br>
 	1. GreatApple~214 (0:2)<br>
 	2. TimTim (3:5)<br>
 	5. chomeur2 (2:1)<br>
@@ -432,8 +451,15 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. GroovyFlame (1:6)<br>
 	8. Arkady (1:2)<br>
 <br>
-52. #farzip (992) +1<br>
--13|-14|-17|-23|-14|-8|-5|-3|+1|-1<br>
+54. #KimJong (993) +2<br>
++12|0|-2<br>
+	3. Vlajs001 (0:1)<br>
+	5. chomeur2 (1:1)<br>
+	6. flagstone (1:0)<br>
+	10. sebfillion (2:3)<br>
+<br>
+55. #farzip (991) -1<br>
+-14|-15|-18|-24|-15|-9|-6|-4|0|-2<br>
 	3. Vlajs001 (2:1)<br>
 	5. chomeur2 (0:1)<br>
 	6. flagstone (0:1)<br>
@@ -441,40 +467,24 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Coldheart (1:0)<br>
 	10. sebfillion (1:1)<br>
 <br>
-53. #GrayRain~366 (991) -1<br>
-+10|-3<br>
-	1. GreatApple~214 (1:0)<br>
-	2. TimTim (1:3)<br>
-	3. Vlajs001 (2:1)<br>
-	5. chomeur2 (0:1)<br>
-	6. flagstone (0:3)<br>
-	9. Coldheart (1:0)<br>
-<br>
-54. #KimJong (991) -5<br>
-+10|-2|-4<br>
-	3. Vlajs001 (0:1)<br>
-	5. chomeur2 (1:1)<br>
-	6. flagstone (1:0)<br>
-	10. sebfillion (2:3)<br>
-<br>
-55. #BadButter~266 (991) 0<br>
+56. #BadButter~266 (991) 0<br>
 -13|-10|-12|-11|-3<br>
 	1. GreatApple~214 (0:2)<br>
 	4. thedude (0:1)<br>
-	5. chomeur2 (1:3)<br>
+	5. chomeur2 (0:3)<br>
 	6. flagstone (1:0)<br>
 	7. GroovyFlame (1:2)<br>
 <br>
-56. #SaltySponge~901 (991) 0<br>
--4|-4|-3|-3|+1|-1<br>
+57. #SaltySponge~901 (991) 0<br>
+-4|-4|-4|-3|+1|-1<br>
 	3. Vlajs001 (3:1)<br>
 	4. thedude (1:1)<br>
 	5. chomeur2 (1:2)<br>
 	8. Arkady (0:2)<br>
 	10. sebfillion (1:4)<br>
 <br>
-57. #FreshKettle~130 (989) +3<br>
-0|-2|-2|+2<br>
+58. #FreshKettle~130 (991) +2<br>
++2|0|0|+4<br>
 	1. GreatApple~214 (1:4)<br>
 	2. TimTim (1:0)<br>
 	3. Vlajs001 (4:5)<br>
@@ -484,22 +494,37 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Coldheart (1:1)<br>
 	10. sebfillion (0:1)<br>
 <br>
-58. #holyspirit (989) 0<br>
-+5|+2|-1|+6|+12|+8|+12|+7|+3|0<br>
+59. #GrayRain~366 (990) -1<br>
++9|-4<br>
+	1. GreatApple~214 (1:0)<br>
+	2. TimTim (1:3)<br>
+	3. Vlajs001 (2:1)<br>
+	5. chomeur2 (0:1)<br>
+	6. flagstone (0:3)<br>
+	9. Coldheart (1:0)<br>
+<br>
+60. #holyspirit (987) -1<br>
++4|0|-2|+4|+11|+7|+11|+6|+2|-1<br>
 	1. GreatApple~214 (1:1)<br>
+	4. thedude (1:0)<br>
 	5. chomeur2 (3:2)<br>
 	7. GroovyFlame (1:1)<br>
 	8. Arkady (0:4)<br>
 <br>
-59. #who22 (983) 0<br>
-+4|+4|0|-6|-4|-10|-9|-7|-1|+3<br>
-	2. TimTim (0:2)<br>
-	5. chomeur2 (0:1)<br>
+61. #GreedyJeans~930 (985) +5<br>
++44|+48|+42|+34|+23|+25|+22|+11|0<br>
+	3. Vlajs001 (0:2)<br>
 	6. flagstone (0:1)<br>
+	8. Arkady (0:1)<br>
+<br>
+62. #who22 (983) 0<br>
++4|+4|0|-6|-4|-10|-9|-7|-1|+3<br>
+	2. TimTim (0:1)<br>
+	5. chomeur2 (0:1)<br>
 	7. GroovyFlame (1:1)<br>
 	9. Coldheart (0:1)<br>
 <br>
-60. #turkeytower (981) -1<br>
+63. #turkeytower (981) 0<br>
 +8|+6|+8|+12|+8|-2|-4|-2|-5|-3<br>
 	1. GreatApple~214 (1:7)<br>
 	2. TimTim (1:2)<br>
@@ -507,26 +532,27 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Arkady (1:6)<br>
 	10. sebfillion (2:4)<br>
 <br>
-61. #GreedyJeans~930 (980) 0<br>
-+39|+43|+37|+29|+18|+21|+18|+6<br>
-	3. Vlajs001 (0:2)<br>
-	6. flagstone (0:1)<br>
-	8. Arkady (0:1)<br>
-<br>
-62. #DarkSith666 (970) 0<br>
--2|+3|+3|+8|+12|+14|+13|+13|+13|-3<br>
+64. #DarkSith666 (970) 0<br>
+-1|+3|+3|+8|+12|+15|+14|+14|+13|-3<br>
 	1. GreatApple~214 (1:0)<br>
 	2. TimTim (0:2)<br>
 	4. thedude (1:1)<br>
 	8. Arkady (1:5)<br>
 <br>
-63. #Gungala (969) -2<br>
--22|-1|-6|0<br>
-	5. chomeur2 (1:1)<br>
-	6. flagstone (1:1)<br>
-	7. GroovyFlame (0:1)<br>
+65. #Jakal_221 (970) +5<br>
++24|+5<br>
+	1. GreatApple~214 (1:5)<br>
+	6. flagstone (0:1)<br>
+	10. sebfillion (0:5)<br>
 <br>
-64. #DustyAce~723 (967) +2<br>
+66. #WigglyCar~568 (970) +11<br>
++7<br>
+	2. TimTim (0:3)<br>
+	4. thedude (0:1)<br>
+	7. GroovyFlame (1:2)<br>
+	8. Arkady (0:1)<br>
+<br>
+67. #DustyAce~723 (967) 0<br>
 -14<br>
 	1. GreatApple~214 (1:1)<br>
 	4. thedude (1:0)<br>
@@ -534,41 +560,45 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Coldheart (0:3)<br>
 	10. sebfillion (0:3)<br>
 <br>
-65. #Jakal_221 (965) +1<br>
-+18<br>
-	1. GreatApple~214 (1:4)<br>
+68. #Gungala (967) -2<br>
+-24|-3|-8|-1<br>
+	5. chomeur2 (1:1)<br>
 	6. flagstone (0:1)<br>
-	10. sebfillion (0:5)<br>
+	7. GroovyFlame (0:1)<br>
 <br>
-66. #iwin96 (963) 0<br>
+69. #iwin96 (963) 0<br>
 -30|-29|-21|-13|-10|-8|-3|-1<br>
 	1. GreatApple~214 (0:1)<br>
 	2. TimTim (0:1)<br>
 	3. Vlajs001 (1:1)<br>
-	5. chomeur2 (1:1)<br>
 	6. flagstone (0:1)<br>
 	7. GroovyFlame (1:5)<br>
 	8. Arkady (1:2)<br>
 	9. Coldheart (1:1)<br>
-	10. sebfillion (1:0)<br>
 <br>
-67. #sexflower69 (958) 0<br>
--5|-2|+1|+6|+11|+14|-1|-1<br>
+70. #sexflower69 (957) -1<br>
+-6|-3|0|+5|+10|+13|-2|-2<br>
 	3. Vlajs001 (2:0)<br>
 	5. chomeur2 (0:1)<br>
 	7. GroovyFlame (1:0)<br>
 	8. Arkady (0:4)<br>
 <br>
-68. #Arndtdk (955) 0<br>
--21|+2<br>
+71. #Arndtdk (952) -3<br>
+-24|-1<br>
 	3. Vlajs001 (0:2)<br>
 	4. thedude (1:3)<br>
 	6. flagstone (0:1)<br>
 	9. Coldheart (0:1)<br>
 	10. sebfillion (1:1)<br>
 <br>
-69. #donJJ (951) +3<br>
--9|-6|-3|-3|-4|-3|-6|-3|-4|0<br>
+72. #smurfa (951) 0<br>
++8|-2|0|-3|-3|-2|-5|-15|-10|-8<br>
+	3. Vlajs001 (0:3)<br>
+	4. thedude (0:1)<br>
+	9. Coldheart (0:2)<br>
+<br>
+73. #donJJ (950) -1<br>
+-10|-7|-4|-4|-6|-4|-7|-4|-5|-1<br>
 	3. Vlajs001 (0:3)<br>
 	4. thedude (1:2)<br>
 	5. chomeur2 (1:3)<br>
@@ -577,29 +607,23 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Arkady (1:6)<br>
 	10. sebfillion (0:3)<br>
 <br>
-70. #smurfa (951) 0<br>
-+8|-2|0|-3|-3|-2|-5|-15|-10|-8<br>
-	3. Vlajs001 (0:3)<br>
-	4. thedude (0:1)<br>
-	9. Coldheart (0:2)<br>
-<br>
-71. #meltedcheese (938) -1<br>
-+11|+14|+8|+8|+10|+9|-4|-11|-9|-3<br>
+74. #meltedcheese (937) -2<br>
++9|+12|+6|+6|+9|+7|-6|-13|-10|-4<br>
 	2. TimTim (1:0)<br>
 	4. thedude (0:1)<br>
 	5. chomeur2 (6:14)<br>
 	7. GroovyFlame (0:1)<br>
 	8. Arkady (0:1)<br>
 <br>
-72. #Ranger1stBat (926) +1<br>
--15|0|+19|+15|+12|+13|+1|+4|+2|-1<br>
+75. #Ranger1stBat (925) -1<br>
+-16|-1|+18|+14|+12|+13|0|+3|+2|-2<br>
 	2. TimTim (0:1)<br>
 	3. Vlajs001 (0:1)<br>
 	6. flagstone (0:2)<br>
 	9. Coldheart (0:1)<br>
 <br>
-73. #FlatMusic~785 (913) 0<br>
--4|-7|-10|-4|-6|-7|-7|0|+1|-1<br>
+76. #FlatMusic~785 (913) 0<br>
+-4|-7|-11|-4|-7|-7|-7|0|+1|-1<br>
 	1. GreatApple~214 (1:2)<br>
 	3. Vlajs001 (0:1)<br>
 	4. thedude (1:0)<br>
