@@ -1,32 +1,30 @@
 Recent win rates against top 10 over the past 21 days<br>
 <br>
-1. #shunrai (1308) +18<br>
-+44|+43|+44|+40|+37|+33|+22|+24|+19|+2<br>
-	2. Artimal_PL (14:16)<br>
+1. #shunrai (1295) -13<br>
++31|+30|+31|+27|+24|+20|+9|+11|+5|-12<br>
+	2. Artimal_PL (19:20)<br>
 	4. Devil- (4:3)<br>
 	5. spaceycarrot (2:5)<br>
 	6. pablo55 (2:3)<br>
-	9. BIIIIID (5:4)<br>
-	10. TimeBreaker (8:3)<br>
+	10. BIIIIID (5:4)<br>
 <br>
-2. #Artimal_PL (1293) +1<br>
--61|-61|-53|-50|-39|-28|-24|-11|-1|+1<br>
-	1. shunrai (16:14)<br>
+2. #Artimal_PL (1294) 0<br>
+-61|-60|-52|-50|-39|-28|-24|-11|0|+1<br>
+	1. shunrai (20:19)<br>
 	4. Devil- (2:4)<br>
 	5. spaceycarrot (9:11)<br>
 	6. pablo55 (8:11)<br>
-	7. BadKarma- (14:18)<br>
+	7. BadKarma- (12:16)<br>
 	8. sadpanda (3:2)<br>
-	9. BIIIIID (4:5)<br>
-	10. TimeBreaker (2:1)<br>
+	9. JCC (2:0)<br>
+	10. BIIIIID (4:5)<br>
 <br>
-3. #TankWar2 (1261) +3<br>
+3. #TankWar2 (1261) 0<br>
 -42|+235|+170|+192|+157|+169|+223|+142|+11<br>
 	4. Devil- (8:9)<br>
 	5. spaceycarrot (1:1)<br>
 	6. pablo55 (8:14)<br>
-	9. BIIIIID (5:9)<br>
-	10. TimeBreaker (5:6)<br>
+	10. BIIIIID (5:9)<br>
 <br>
 4. #Devil- (1260) 0<br>
 +271|+103|-46|-54|-53|+60|+10<br>
@@ -37,9 +35,9 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (12:11)<br>
 	7. BadKarma- (13:13)<br>
 	8. sadpanda (2:9)<br>
-	9. BIIIIID (22:18)<br>
+	10. BIIIIID (22:18)<br>
 <br>
-5. #spaceycarrot (1260) +4<br>
+5. #spaceycarrot (1260) 0<br>
 +146|+197|+200|+137|+151|+63|+63|+30|+42|+2<br>
 	1. shunrai (5:2)<br>
 	2. Artimal_PL (11:9)<br>
@@ -48,8 +46,7 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (66:59)<br>
 	7. BadKarma- (33:37)<br>
 	8. sadpanda (49:50)<br>
-	9. BIIIIID (4:10)<br>
-	10. TimeBreaker (9:5)<br>
+	10. BIIIIID (4:10)<br>
 <br>
 6. #pablo55 (1259) 0<br>
 -6|+8|-3|-19|-3|-8|+2|+4|+5|+3<br>
@@ -58,20 +55,20 @@ Recent win rates against top 10 over the past 21 days<br>
 	3. TankWar2 (14:8)<br>
 	4. Devil- (11:12)<br>
 	5. spaceycarrot (59:66)<br>
-	7. BadKarma- (75:69)<br>
+	7. BadKarma- (63:62)<br>
 	8. sadpanda (48:36)<br>
-	9. BIIIIID (18:18)<br>
-	10. TimeBreaker (14:10)<br>
+	9. JCC (3:3)<br>
+	10. BIIIIID (18:18)<br>
 <br>
-7. #BadKarma- (1251) +7<br>
-+10|+8|+17|+36|+12|+19|+15|+7|-15|-19<br>
-	2. Artimal_PL (18:14)<br>
+7. #BadKarma- (1251) 0<br>
++7|+17|+35|+12|+18|+14|+7|-15|-20|-2<br>
+	2. Artimal_PL (16:12)<br>
 	4. Devil- (13:13)<br>
 	5. spaceycarrot (37:33)<br>
-	6. pablo55 (69:75)<br>
+	6. pablo55 (62:63)<br>
 	8. sadpanda (18:21)<br>
-	9. BIIIIID (24:26)<br>
-	10. TimeBreaker (9:3)<br>
+	9. JCC (1:1)<br>
+	10. BIIIIID (24:26)<br>
 <br>
 8. #sadpanda (1247) 0<br>
 +70|+76|+70|+48|+62|+101|+102|+57|+16|-3<br>
@@ -80,9 +77,15 @@ Recent win rates against top 10 over the past 21 days<br>
 	5. spaceycarrot (50:49)<br>
 	6. pablo55 (36:48)<br>
 	7. BadKarma- (21:18)<br>
-	10. TimeBreaker (5:3)<br>
 <br>
-9. #BIIIIID (1231) 0<br>
+9. #JCC (1233) +5<br>
++61|+64|+57|+51|+39|+28|+49|+48|+25|0<br>
+	2. Artimal_PL (0:2)<br>
+	6. pablo55 (3:3)<br>
+	7. BadKarma- (1:1)<br>
+	10. BIIIIID (0:3)<br>
+<br>
+10. #BIIIIID (1231) 0<br>
 +107|+132|+83|+92|+123|+51|+36|+15<br>
 	1. shunrai (4:5)<br>
 	2. Artimal_PL (5:4)<br>
@@ -91,9 +94,9 @@ Recent win rates against top 10 over the past 21 days<br>
 	5. spaceycarrot (10:4)<br>
 	6. pablo55 (18:18)<br>
 	7. BadKarma- (26:24)<br>
-	10. TimeBreaker (2:5)<br>
+	9. JCC (3:0)<br>
 <br>
-10. #TimeBreaker (1230) -1<br>
+11. #TimeBreaker (1230) 0<br>
 -34|-31|-28|-24|-8|-1|-1|0|+4|+13<br>
 	1. shunrai (3:8)<br>
 	2. Artimal_PL (1:2)<br>
@@ -102,9 +105,9 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (10:14)<br>
 	7. BadKarma- (3:9)<br>
 	8. sadpanda (3:5)<br>
-	9. BIIIIID (5:2)<br>
+	10. BIIIIID (5:2)<br>
 <br>
-11. #bejut (1229) 0<br>
+12. #bejut (1229) 0<br>
 +52|+37|+36|+36|+31|+11|+2|+24|+11|-5<br>
 	1. shunrai (4:5)<br>
 	4. Devil- (9:6)<br>
@@ -113,14 +116,19 @@ Recent win rates against top 10 over the past 21 days<br>
 	7. BadKarma- (8:5)<br>
 	8. sadpanda (10:14)<br>
 <br>
-12. #JCC (1227) 0<br>
-+37|+56|+59|+52|+46|+34|+23|+44|+43|+20<br>
-	2. Artimal_PL (0:2)<br>
-	6. pablo55 (3:3)<br>
-	7. BadKarma- (1:1)<br>
-	9. BIIIIID (0:3)<br>
+13. #eLemeNt. (1216) +4<br>
++40|+42|+48|+48|+44|+49|+45|+25|+7|+7<br>
+	2. Artimal_PL (8:7)<br>
+	3. TankWar2 (0:1)<br>
+	4. Devil- (4:5)<br>
+	5. spaceycarrot (0:2)<br>
+	6. pablo55 (5:2)<br>
+	7. BadKarma- (8:25)<br>
+	8. sadpanda (3:2)<br>
+	9. JCC (2:6)<br>
+	10. BIIIIID (3:10)<br>
 <br>
-13. #WickedPizza~656 (1214) 0<br>
+14. #WickedPizza~656 (1214) 0<br>
 -9|-21|-18|-15|-18|-3|+5|+3|0|+3<br>
 	2. Artimal_PL (9:3)<br>
 	3. TankWar2 (0:2)<br>
@@ -129,19 +137,8 @@ Recent win rates against top 10 over the past 21 days<br>
 	7. BadKarma- (1:0)<br>
 	8. sadpanda (1:1)<br>
 <br>
-14. #eLemeNt. (1212) -4<br>
-+36|+38|+44|+44|+40|+45|+41|+21|+3|+2<br>
-	2. Artimal_PL (8:7)<br>
-	3. TankWar2 (0:1)<br>
-	4. Devil- (4:5)<br>
-	5. spaceycarrot (0:2)<br>
-	6. pablo55 (5:2)<br>
-	7. BadKarma- (9:28)<br>
-	8. sadpanda (3:2)<br>
-	9. BIIIIID (3:10)<br>
-<br>
-15. #dIehAppY (1206) 0<br>
-+4|-12|-7|-4|-2|-15|-15|-7|-9|-12<br>
+15. #dIehAppY (1207) +1<br>
++4|-12|-7|-4|-2|-14|-14|-7|-8|-11<br>
 	1. shunrai (8:9)<br>
 	2. Artimal_PL (2:2)<br>
 	3. TankWar2 (11:12)<br>
@@ -149,6 +146,7 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (13:17)<br>
 	7. BadKarma- (3:1)<br>
 	8. sadpanda (9:6)<br>
+	9. JCC (1:1)<br>
 <br>
 16. #Kraken809 (1191) 0<br>
 +13|+2|+1|+5|+7|+3|-5|-13|-3|0<br>
@@ -159,52 +157,39 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (2:6)<br>
 	7. BadKarma- (9:11)<br>
 	8. sadpanda (3:2)<br>
-	9. BIIIIID (4:2)<br>
-	10. TimeBreaker (4:3)<br>
+	9. JCC (6:11)<br>
+	10. BIIIIID (4:2)<br>
 <br>
-17. #Xoi (1186) -1<br>
--37|-43|-63|-49|-23|-6|+12|+9|+8|-4<br>
-	1. shunrai (5:5)<br>
+17. #Xoi (1182) -4<br>
+-47|-67|-53|-27|-10|+8|+5|+4|-8|-3<br>
+	1. shunrai (6:6)<br>
 	2. Artimal_PL (10:2)<br>
 	3. TankWar2 (6:2)<br>
 	4. Devil- (26:39)<br>
 	5. spaceycarrot (54:62)<br>
-	6. pablo55 (28:33)<br>
-	7. BadKarma- (19:27)<br>
+	6. pablo55 (23:28)<br>
+	7. BadKarma- (11:16)<br>
 	8. sadpanda (27:39)<br>
-	9. BIIIIID (15:8)<br>
-	10. TimeBreaker (7:4)<br>
+	10. BIIIIID (15:8)<br>
 <br>
-18. #bmvj (1173) -1<br>
-+2|-27|-38|-38|-35|-17|-33|-26|+6|+6<br>
+18. #bmvj (1180) +7<br>
+-21|-31|-31|-28|-10|-26|-19|+13|+13|+1<br>
 	1. shunrai (5:3)<br>
 	5. spaceycarrot (1:4)<br>
 	6. pablo55 (4:9)<br>
 	7. BadKarma- (7:16)<br>
 	8. sadpanda (2:1)<br>
 <br>
-19. #metbo (1159) -1<br>
--1|-5|-2|-18|-12|-2|-7|-12|-13|-11<br>
-	1. shunrai (1:4)<br>
-	2. Artimal_PL (3:10)<br>
-	4. Devil- (0:1)<br>
-	5. spaceycarrot (1:8)<br>
-	6. pablo55 (4:4)<br>
-	7. BadKarma- (10:8)<br>
-	8. sadpanda (2:9)<br>
-	9. BIIIIID (1:7)<br>
-	10. TimeBreaker (1:0)<br>
-<br>
-20. #STruC (1159) 0<br>
+19. #STruC (1159) 0<br>
 -25|-29|-15|-12|-5|-7|-9|-17|-8|0<br>
 	4. Devil- (4:6)<br>
 	5. spaceycarrot (15:15)<br>
 	6. pablo55 (13:15)<br>
 	7. BadKarma- (6:11)<br>
 	8. sadpanda (25:38)<br>
-	9. BIIIIID (1:0)<br>
+	10. BIIIIID (1:0)<br>
 <br>
-21. #GoOodY (1157) 0<br>
+20. #GoOodY (1157) 0<br>
 +96|+51|+23|-32|-23|+21|-12|+4|-8|-1<br>
 	1. shunrai (1:4)<br>
 	3. TankWar2 (11:25)<br>
@@ -212,63 +197,64 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (0:1)<br>
 	7. BadKarma- (4:6)<br>
 	8. sadpanda (3:1)<br>
-	9. BIIIIID (4:6)<br>
-	10. TimeBreaker (0:2)<br>
+	9. JCC (2:0)<br>
+	10. BIIIIID (4:6)<br>
 <br>
-22. #GaudyWeasel (1153) 0<br>
-0|-30|-17|-4|-39|-10|-5|+11|+12|-5<br>
-	3. TankWar2 (8:0)<br>
-	5. spaceycarrot (24:18)<br>
-	6. pablo55 (4:4)<br>
-	7. BadKarma- (0:4)<br>
+21. #metbo (1156) -3<br>
+-4|-8|-5|-21|-15|-5|-10|-15|-16|-14<br>
+	1. shunrai (1:4)<br>
+	2. Artimal_PL (3:10)<br>
+	4. Devil- (0:1)<br>
+	5. spaceycarrot (1:8)<br>
+	6. pablo55 (1:4)<br>
+	7. BadKarma- (6:8)<br>
+	8. sadpanda (2:9)<br>
+	9. JCC (2:1)<br>
+	10. BIIIIID (1:7)<br>
 <br>
-23. #no.yes (1147) +4<br>
+22. #thehurricane (1154) +48<br>
+-210|-111|+1<br>
+	2. Artimal_PL (1:0)<br>
+	5. spaceycarrot (4:0)<br>
+	6. pablo55 (1:4)<br>
+	7. BadKarma- (3:10)<br>
+<br>
+23. #no.yes (1147) 0<br>
 -19|-20|-23|-19|-18|-21|-12|-4|-11|+5<br>
 	1. shunrai (7:2)<br>
 	2. Artimal_PL (5:2)<br>
 	5. spaceycarrot (3:0)<br>
 	6. pablo55 (21:12)<br>
 	8. sadpanda (9:11)<br>
-	9. BIIIIID (6:6)<br>
-	10. TimeBreaker (3:1)<br>
+	9. JCC (1:2)<br>
+	10. BIIIIID (6:6)<br>
 <br>
-24. #Ardi09. (1146) +5<br>
-+34|+23|+21|+24|+22|+13|+17|+15|+10|+9<br>
-	1. shunrai (4:6)<br>
-	2. Artimal_PL (1:0)<br>
-	3. TankWar2 (2:3)<br>
-	4. Devil- (4:1)<br>
-	5. spaceycarrot (0:10)<br>
-	6. pablo55 (10:16)<br>
-	7. BadKarma- (10:9)<br>
-	8. sadpanda (3:9)<br>
-	9. BIIIIID (8:4)<br>
-	10. TimeBreaker (1:2)<br>
-<br>
-25. #mafl (1146) +5<br>
-+6|+7|+11|+8|+1|-3|-2|-6|-3|+3<br>
-	3. TankWar2 (2:6)<br>
-	4. Devil- (1:8)<br>
-	5. spaceycarrot (2:3)<br>
-	6. pablo55 (5:5)<br>
-	8. sadpanda (1:3)<br>
-	9. BIIIIID (5:10)<br>
-	10. TimeBreaker (0:1)<br>
-<br>
-26. #DaCAP (1146) +1<br>
-+58|+39|+18|+12|+24|+14|+24|+5|+4|-12<br>
+24. #DaCAP (1147) +1<br>
++59|+40|+19|+14|+25|+16|+25|+7|+5|-11<br>
 	1. shunrai (1:1)<br>
 	2. Artimal_PL (2:5)<br>
 	3. TankWar2 (3:3)<br>
 	4. Devil- (2:3)<br>
 	5. spaceycarrot (3:9)<br>
 	6. pablo55 (6:9)<br>
-	7. BadKarma- (1:5)<br>
+	7. BadKarma- (3:8)<br>
 	8. sadpanda (15:17)<br>
-	9. BIIIIID (5:7)<br>
-	10. TimeBreaker (2:1)<br>
+	9. JCC (4:9)<br>
+	10. BIIIIID (5:7)<br>
 <br>
-27. #ghost_face (1145) 0<br>
+25. #Ardi09. (1146) -1<br>
++23|+20|+23|+22|+12|+16|+14|+10|+9|0<br>
+	1. shunrai (4:6)<br>
+	2. Artimal_PL (1:0)<br>
+	3. TankWar2 (2:3)<br>
+	4. Devil- (4:1)<br>
+	5. spaceycarrot (0:10)<br>
+	6. pablo55 (10:16)<br>
+	7. BadKarma- (12:10)<br>
+	8. sadpanda (3:9)<br>
+	10. BIIIIID (8:4)<br>
+<br>
+26. #ghost_face (1145) 0<br>
 +38|+40|+38|+18|+12|-1|-10|-11|+1|-2<br>
 	1. shunrai (1:4)<br>
 	2. Artimal_PL (3:5)<br>
@@ -277,54 +263,62 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (6:6)<br>
 	7. BadKarma- (3:6)<br>
 	8. sadpanda (4:8)<br>
-	9. BIIIIID (2:5)<br>
-	10. TimeBreaker (0:2)<br>
+	10. BIIIIID (2:5)<br>
 <br>
-28. #K1LL3rW33D (1141) -1<br>
+27. #quickmill (1142) +11<br>
++27|+20|+9|+9|+11|+13|+7|+7|+13|+5<br>
+	1. shunrai (27:21)<br>
+	2. Artimal_PL (10:15)<br>
+	3. TankWar2 (8:11)<br>
+	4. Devil- (6:19)<br>
+	5. spaceycarrot (11:7)<br>
+	6. pablo55 (19:31)<br>
+	7. BadKarma- (27:48)<br>
+	8. sadpanda (9:15)<br>
+	9. JCC (4:7)<br>
+	10. BIIIIID (9:10)<br>
+<br>
+28. #K1LL3rW33D (1141) 0<br>
 +9|+11|+18|+15|+14|+5|+10|+11|+4|0<br>
 	1. shunrai (4:6)<br>
-	2. Artimal_PL (22:18)<br>
+	2. Artimal_PL (21:18)<br>
 	5. spaceycarrot (14:8)<br>
 	6. pablo55 (5:21)<br>
 	7. BadKarma- (17:10)<br>
 	8. sadpanda (1:1)<br>
-	9. BIIIIID (11:17)<br>
-	10. TimeBreaker (4:6)<br>
+	9. JCC (0:1)<br>
+	10. BIIIIID (11:17)<br>
 <br>
-29. #Gideon (1139) 0<br>
-+29|+23|+21|+20|+60|+33|+13|+10|+16|0<br>
+29. #Gideon (1140) +1<br>
++30|+23|+21|+20|+61|+34|+14|+11|+17|+1<br>
 	1. shunrai (1:4)<br>
 	2. Artimal_PL (4:8)<br>
 	3. TankWar2 (0:2)<br>
 	5. spaceycarrot (12:9)<br>
-	6. pablo55 (19:29)<br>
-	7. BadKarma- (6:4)<br>
+	6. pablo55 (18:27)<br>
+	7. BadKarma- (4:1)<br>
 	8. sadpanda (21:15)<br>
-	10. TimeBreaker (6:5)<br>
+	9. JCC (2:0)<br>
 <br>
-30. #quickmill (1130) 0<br>
-+22|+16|+8|-3|-3|0|+1|-4|-4|+1<br>
-	1. shunrai (6:10)<br>
-	2. Artimal_PL (3:6)<br>
-	3. TankWar2 (8:11)<br>
-	4. Devil- (6:19)<br>
-	5. spaceycarrot (11:7)<br>
-	6. pablo55 (22:34)<br>
-	7. BadKarma- (28:48)<br>
-	8. sadpanda (9:15)<br>
-	9. BIIIIID (9:10)<br>
-	10. TimeBreaker (0:4)<br>
-<br>
-31. #doeish (1126) +1<br>
--40|-45|-32|-18|-18|-23|-23|-22|-18|-7<br>
+30. #doeish (1129) +3<br>
+-42|-29|-16|-15|-20|-20|-19|-15|-4|0<br>
 	1. shunrai (2:1)<br>
 	3. TankWar2 (8:23)<br>
 	4. Devil- (5:6)<br>
 	5. spaceycarrot (13:26)<br>
-	6. pablo55 (28:27)<br>
-	7. BadKarma- (13:20)<br>
+	6. pablo55 (24:22)<br>
+	7. BadKarma- (2:2)<br>
 	8. sadpanda (22:25)<br>
-	10. TimeBreaker (2:21)<br>
+<br>
+31. #cricric (1126) +2<br>
++27|+17|+18|0|-3|+10|-2|-12|0|-7<br>
+	1. shunrai (1:0)<br>
+	3. TankWar2 (5:4)<br>
+	5. spaceycarrot (3:0)<br>
+	6. pablo55 (15:15)<br>
+	7. BadKarma- (11:7)<br>
+	9. JCC (0:2)<br>
+	10. BIIIIID (8:6)<br>
 <br>
 32. #NiftyBread~997 (1125) 0<br>
 -5|-8|+22|+24|+14|+4|+9|+9|+8|-3<br>
@@ -332,30 +326,21 @@ Recent win rates against top 10 over the past 21 days<br>
 	5. spaceycarrot (4:5)<br>
 	6. pablo55 (7:5)<br>
 	7. BadKarma- (5:7)<br>
-	10. TimeBreaker (0:1)<br>
+	9. JCC (1:11)<br>
 <br>
-33. #cricric (1124) -1<br>
-+25|+14|+16|-2|-5|+8|-4|-14|-2|-9<br>
-	1. shunrai (1:0)<br>
-	3. TankWar2 (5:4)<br>
-	5. spaceycarrot (3:0)<br>
-	6. pablo55 (15:15)<br>
-	7. BadKarma- (8:5)<br>
-	9. BIIIIID (8:6)<br>
-	10. TimeBreaker (1:0)<br>
-<br>
-34. #asali (1119) -2<br>
-+43|+42|+21|+26|+26|+4|+1|0|0|-3<br>
-	1. shunrai (9:21)<br>
+33. #asali (1123) +4<br>
++46|+25|+30|+30|+8|+5|+4|+4|+1|+8<br>
+	1. shunrai (11:25)<br>
+	2. Artimal_PL (1:2)<br>
 	3. TankWar2 (1:2)<br>
 	5. spaceycarrot (8:10)<br>
-	6. pablo55 (10:23)<br>
-	7. BadKarma- (23:26)<br>
-	8. sadpanda (14:18)<br>
-	9. BIIIIID (0:2)<br>
-	10. TimeBreaker (2:1)<br>
+	6. pablo55 (10:21)<br>
+	7. BadKarma- (15:17)<br>
+	8. sadpanda (13:18)<br>
+	9. JCC (10:19)<br>
+	10. BIIIIID (0:2)<br>
 <br>
-35. #KryOEFor (1118) -1<br>
+34. #KryOEFor (1118) 0<br>
 +52|+64|+75|+57|+32|+27|+22|-3|-13|-10<br>
 	1. shunrai (9:4)<br>
 	2. Artimal_PL (6:2)<br>
@@ -364,19 +349,30 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (12:11)<br>
 	7. BadKarma- (8:8)<br>
 	8. sadpanda (7:6)<br>
-	9. BIIIIID (1:3)<br>
+	10. BIIIIID (1:3)<br>
 <br>
-36. #supiorlemon (1117) -8<br>
--27|-51|-50|-38|-35|-47|-24|-36|-20|-6<br>
-	1. shunrai (3:11)<br>
+35. #SupiorLemon (1116) 0<br>
+-51|-50|-39|-35|-48|-24|-37|-21|-6|-1<br>
+	1. shunrai (19:28)<br>
+	2. Artimal_PL (1:3)<br>
 	3. TankWar2 (5:9)<br>
 	4. Devil- (4:9)<br>
 	5. spaceycarrot (11:37)<br>
 	6. pablo55 (9:18)<br>
 	7. BadKarma- (2:3)<br>
 	8. sadpanda (21:31)<br>
-	9. BIIIIID (3:6)<br>
-	10. TimeBreaker (1:2)<br>
+	10. BIIIIID (3:6)<br>
+<br>
+36. #ZanyPear~221 (1112) +4<br>
++57|+164|+95|+49|-16|-2<br>
+	2. Artimal_PL (1:2)<br>
+	3. TankWar2 (1:6)<br>
+	5. spaceycarrot (3:9)<br>
+	6. pablo55 (6:11)<br>
+	7. BadKarma- (4:10)<br>
+	8. sadpanda (7:6)<br>
+	9. JCC (1:3)<br>
+	10. BIIIIID (0:3)<br>
 <br>
 37. #hobbes313 (1112) 0<br>
 -38|-19|-22|-18|-13|-12|-10|-12|-17|-10<br>
@@ -384,78 +380,38 @@ Recent win rates against top 10 over the past 21 days<br>
 	5. spaceycarrot (2:2)<br>
 	6. pablo55 (6:5)<br>
 <br>
-38. #blaise999 (1108) -1<br>
--50|-37|-25|-30|-31|-19|-15|-6|-14|0<br>
-	1. shunrai (6:3)<br>
-	2. Artimal_PL (12:16)<br>
-	3. TankWar2 (1:0)<br>
-	6. pablo55 (3:3)<br>
-	7. BadKarma- (4:14)<br>
-	9. BIIIIID (0:3)<br>
-	10. TimeBreaker (4:3)<br>
+38. #SlickRick61 (1109) +5<br>
++41|+34|+38|+34|+28|+28|+28|+15|-2|+4<br>
+	1. shunrai (4:3)<br>
+	2. Artimal_PL (4:9)<br>
+	3. TankWar2 (2:8)<br>
+	5. spaceycarrot (8:7)<br>
+	6. pablo55 (18:23)<br>
+	7. BadKarma- (12:21)<br>
+	8. sadpanda (3:4)<br>
+	10. BIIIIID (0:4)<br>
 <br>
-39. #ZanyPear~221 (1108) -11<br>
-+53|+160|+90|+45|-20<br>
-	2. Artimal_PL (1:2)<br>
-	3. TankWar2 (1:6)<br>
-	5. spaceycarrot (3:9)<br>
-	6. pablo55 (6:11)<br>
-	7. BadKarma- (4:10)<br>
-	8. sadpanda (7:6)<br>
-	9. BIIIIID (0:3)<br>
-<br>
-40. #jbperez808 (1107) 0<br>
+39. #jbperez808 (1107) 0<br>
 +37|+31|+20|+19|+14|+19|+12|+15|-7|-1<br>
 	4. Devil- (3:3)<br>
 	5. spaceycarrot (1:1)<br>
 	6. pablo55 (5:9)<br>
-	7. BadKarma- (6:11)<br>
+	7. BadKarma- (6:10)<br>
 	8. sadpanda (5:5)<br>
-	9. BIIIIID (0:1)<br>
+	10. BIIIIID (0:1)<br>
 <br>
-41. #thehurricane (1106) 0<br>
--258|-159|-47<br>
-	2. Artimal_PL (1:0)<br>
-	5. spaceycarrot (4:0)<br>
-	6. pablo55 (1:4)<br>
-	7. BadKarma- (3:10)<br>
-	10. TimeBreaker (2:1)<br>
-<br>
-42. #Resell (1105) -2<br>
--23|+18|+81|+75|+47|+47|+40|+34|+22|-8<br>
-	1. shunrai (6:18)<br>
-	2. Artimal_PL (13:14)<br>
-	3. TankWar2 (3:9)<br>
-	4. Devil- (0:3)<br>
-	5. spaceycarrot (0:1)<br>
-	6. pablo55 (9:7)<br>
-	7. BadKarma- (13:9)<br>
-	8. sadpanda (8:19)<br>
-	9. BIIIIID (9:13)<br>
-	10. TimeBreaker (1:0)<br>
-<br>
-43. #WigglyFox (1105) +8<br>
--23|-15|-18|-23|-12|-18|-11|-8|+3|+3<br>
-	2. Artimal_PL (9:8)<br>
-	5. spaceycarrot (0:2)<br>
-	6. pablo55 (4:3)<br>
-	7. BadKarma- (4:8)<br>
-	8. sadpanda (6:8)<br>
-	9. BIIIIID (0:1)<br>
-	10. TimeBreaker (5:0)<br>
-<br>
-44. #drhillikilil (1104) +2<br>
-+29|+30|+26|+16|+9|+11|+15|+12|+11|+9<br>
+40. #drhillikilil (1105) +1<br>
++30|+31|+27|+17|+10|+12|+16|+13|+12|+10<br>
 	1. shunrai (6:3)<br>
-	2. Artimal_PL (4:3)<br>
+	2. Artimal_PL (4:4)<br>
 	4. Devil- (3:3)<br>
 	5. spaceycarrot (3:3)<br>
 	6. pablo55 (4:8)<br>
 	7. BadKarma- (12:10)<br>
-	9. BIIIIID (5:2)<br>
-	10. TimeBreaker (2:4)<br>
+	9. JCC (11:22)<br>
+	10. BIIIIID (5:2)<br>
 <br>
-45. #Symsymmy (1104) +19<br>
+41. #Symsymmy (1104) 0<br>
 +12|-60|-66|-64|-30|-69|+7<br>
 	2. Artimal_PL (9:7)<br>
 	3. TankWar2 (7:3)<br>
@@ -464,35 +420,15 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (36:46)<br>
 	7. BadKarma- (13:25)<br>
 	8. sadpanda (0:16)<br>
-	9. BIIIIID (6:6)<br>
-	10. TimeBreaker (9:5)<br>
+	10. BIIIIID (6:6)<br>
 <br>
-46. #SlickRick61 (1104) -5<br>
-+21|+36|+29|+33|+29|+23|+23|+23|+10|-7<br>
-	1. shunrai (4:3)<br>
-	2. Artimal_PL (4:9)<br>
-	3. TankWar2 (2:8)<br>
-	5. spaceycarrot (8:7)<br>
-	6. pablo55 (18:23)<br>
-	7. BadKarma- (12:21)<br>
-	8. sadpanda (3:4)<br>
-	9. BIIIIID (0:4)<br>
-	10. TimeBreaker (2:2)<br>
-<br>
-47. #osnoz (1102) 0<br>
+42. #osnoz (1102) 0<br>
 +93|+93|+90|+93|+35|-13|+20|+29|-24|-13<br>
 	7. BadKarma- (8:9)<br>
 	8. sadpanda (0:2)<br>
+	9. JCC (9:16)<br>
 <br>
-48. #CoolFaucet~518 (1100) 0<br>
--72|-66|-56|-42|-24|-30|-34|-32|-27|-14<br>
-	5. spaceycarrot (4:3)<br>
-	6. pablo55 (0:2)<br>
-	7. BadKarma- (8:12)<br>
-	8. sadpanda (4:5)<br>
-	10. TimeBreaker (1:1)<br>
-<br>
-49. #QuidnoVi (1098) 0<br>
+43. #QuidnoVi (1098) 0<br>
 +11|+8|+12|+12|+1|+1|0|-4|-11|-1<br>
 	3. TankWar2 (5:2)<br>
 	4. Devil- (2:2)<br>
@@ -500,144 +436,168 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (10:7)<br>
 	7. BadKarma- (0:3)<br>
 	8. sadpanda (0:2)<br>
-	9. BIIIIID (4:0)<br>
-	10. TimeBreaker (1:0)<br>
+	10. BIIIIID (4:0)<br>
 <br>
-50. #shaddow (1098) -2<br>
--12|-6|-5|+2|0|-4|+3|+2|-3|-1<br>
+44. #shaddow (1098) 0<br>
+-11|-5|-5|+3|0|-4|+4|+2|-3|-1<br>
 	1. shunrai (6:11)<br>
-	2. Artimal_PL (5:9)<br>
+	2. Artimal_PL (4:6)<br>
 	3. TankWar2 (6:3)<br>
 	5. spaceycarrot (5:6)<br>
-	6. pablo55 (16:28)<br>
-	7. BadKarma- (4:16)<br>
+	6. pablo55 (15:25)<br>
+	7. BadKarma- (4:15)<br>
 	8. sadpanda (5:4)<br>
-	9. BIIIIID (12:22)<br>
-	10. TimeBreaker (1:5)<br>
+	9. JCC (4:10)<br>
+	10. BIIIIID (12:22)<br>
 <br>
-51. #Langoulant (1098) +6<br>
+45. #Langoulant (1098) 0<br>
 +10|+26|+47|+35|+26|+13|-3|-9|-5|+4<br>
 	1. shunrai (0:5)<br>
 	2. Artimal_PL (9:6)<br>
 	5. spaceycarrot (7:11)<br>
-	6. pablo55 (18:11)<br>
+	6. pablo55 (15:10)<br>
 	7. BadKarma- (6:5)<br>
 	8. sadpanda (17:13)<br>
-	9. BIIIIID (3:2)<br>
-	10. TimeBreaker (2:4)<br>
+	9. JCC (2:0)<br>
+	10. BIIIIID (3:2)<br>
 <br>
-52. #ruBEARRx (1087) 0<br>
-+1|-9|-4|-9|-10|-4|-9|-3|+4|+3<br>
+46. #blaise999 (1097) -11<br>
+-62|-48|-36|-42|-42|-30|-26|-17|-25|-12<br>
+	1. shunrai (6:3)<br>
+	2. Artimal_PL (12:16)<br>
+	3. TankWar2 (1:0)<br>
+	6. pablo55 (3:3)<br>
+	7. BadKarma- (4:15)<br>
+	9. JCC (0:1)<br>
+	10. BIIIIID (0:3)<br>
+<br>
+47. #ruBEARRx (1091) +4<br>
++6|-5|0|-4|-5|0|-5|+1|+8|+8<br>
+	1. shunrai (12:13)<br>
+	2. Artimal_PL (2:2)<br>
 	5. spaceycarrot (3:10)<br>
 	6. pablo55 (8:15)<br>
 	7. BadKarma- (3:4)<br>
-	8. sadpanda (10:18)<br>
-	9. BIIIIID (1:3)<br>
-	10. TimeBreaker (1:1)<br>
+	8. sadpanda (10:15)<br>
+	9. JCC (2:3)<br>
+	10. BIIIIID (1:3)<br>
 <br>
-53. #Ovalrebel (1087) -3<br>
-+11|+20|+17|+7|+12|+13|+13|0|+1|-2<br>
-	1. shunrai (1:3)<br>
-	4. Devil- (1:1)<br>
-	5. spaceycarrot (7:13)<br>
-	6. pablo55 (20:23)<br>
-	7. BadKarma- (2:3)<br>
-	8. sadpanda (8:13)<br>
-	9. BIIIIID (2:2)<br>
+48. #WigglyFox (1091) -14<br>
+-37|-29|-32|-37|-26|-31|-25|-21|-11|-11<br>
+	2. Artimal_PL (9:8)<br>
+	5. spaceycarrot (0:2)<br>
+	6. pablo55 (4:3)<br>
+	7. BadKarma- (5:13)<br>
+	8. sadpanda (6:8)<br>
+	10. BIIIIID (0:1)<br>
 <br>
-54. #sugarwalls (1081) +2<br>
-+25|+24|+16|+2|-15|-4|-8|0|-2|+2<br>
+49. #CoolFaucet~518 (1088) -11<br>
+-77|-67|-54|-36|-41|-45|-43|-39|-26|-9<br>
+	5. spaceycarrot (4:3)<br>
+	6. pablo55 (0:2)<br>
+	7. BadKarma- (8:12)<br>
+	8. sadpanda (4:5)<br>
+<br>
+50. #sugarwalls (1080) -2<br>
++23|+22|+14|0|-17|-5|-9|-1|-4|0<br>
 	1. shunrai (2:6)<br>
 	2. Artimal_PL (1:9)<br>
 	5. spaceycarrot (2:1)<br>
-	6. pablo55 (1:3)<br>
-	7. BadKarma- (5:2)<br>
+	6. pablo55 (0:1)<br>
+	7. BadKarma- (1:0)<br>
 	8. sadpanda (3:2)<br>
+	9. JCC (1:5)<br>
 <br>
-55. #Cugel (1079) 0<br>
+51. #Cugel (1079) 0<br>
 +14|+20|+6|-4|+18|+10|+14|-3|-4|-6<br>
 	1. shunrai (4:5)<br>
 	2. Artimal_PL (19:19)<br>
 	3. TankWar2 (5:8)<br>
 	5. spaceycarrot (9:17)<br>
-	6. pablo55 (37:50)<br>
-	7. BadKarma- (20:18)<br>
+	6. pablo55 (35:49)<br>
+	7. BadKarma- (16:16)<br>
 	8. sadpanda (8:9)<br>
-	9. BIIIIID (13:13)<br>
-	10. TimeBreaker (3:11)<br>
+	9. JCC (8:3)<br>
+	10. BIIIIID (13:13)<br>
 <br>
-56. #almafa1 (1074) 0<br>
-+35|+11|+1|+6|+14|+11|+8|+7|+7|+4<br>
+52. #Resell (1075) -30<br>
+-53|-13|+51|+45|+17|+17|+10|+4|-8|-38<br>
+	1. shunrai (6:18)<br>
+	2. Artimal_PL (13:14)<br>
+	3. TankWar2 (3:9)<br>
+	4. Devil- (0:3)<br>
+	5. spaceycarrot (0:1)<br>
+	6. pablo55 (9:7)<br>
+	7. BadKarma- (12:8)<br>
+	8. sadpanda (8:19)<br>
+	9. JCC (5:5)<br>
+	10. BIIIIID (9:13)<br>
+<br>
+53. #bot (1073) +11<br>
++6|-8|-9|+12|+13|+12|+12|+12|+8|-10<br>
+	1. shunrai (3:2)<br>
+	2. Artimal_PL (8:7)<br>
+	3. TankWar2 (0:3)<br>
+	4. Devil- (4:0)<br>
+	5. spaceycarrot (5:13)<br>
+	6. pablo55 (2:4)<br>
+	7. BadKarma- (17:9)<br>
+	8. sadpanda (19:3)<br>
+	9. JCC (1:2)<br>
+	10. BIIIIID (0:1)<br>
+<br>
+54. #almafa1 (1073) -1<br>
++34|+10|0|+5|+13|+10|+7|+6|+6|+3<br>
 	1. shunrai (0:1)<br>
-	2. Artimal_PL (3:1)<br>
 	5. spaceycarrot (0:3)<br>
-	6. pablo55 (4:5)<br>
-	7. BadKarma- (4:5)<br>
-	8. sadpanda (6:16)<br>
-	10. TimeBreaker (1:1)<br>
+	6. pablo55 (3:3)<br>
+	7. BadKarma- (0:1)<br>
+	8. sadpanda (5:15)<br>
+	9. JCC (0:4)<br>
 <br>
-57. #babymetal (1073) 0<br>
--5|-4|-4|-6|-2|-8|-13|-9|-4|-1<br>
+55. #babymetal (1073) -1<br>
+-6|-4|-5|-7|-2|-8|-14|-10|-5|-2<br>
 	2. Artimal_PL (1:0)<br>
 	5. spaceycarrot (4:6)<br>
 	6. pablo55 (5:15)<br>
 	7. BadKarma- (6:5)<br>
 	8. sadpanda (4:4)<br>
-	9. BIIIIID (4:0)<br>
+	9. JCC (5:8)<br>
+	10. BIIIIID (4:0)<br>
 <br>
-58. #PaperGoose~533 (1070) 0<br>
-+58|+71|+65|+65|+67|+36|+38|+27|+20|0<br>
-	1. shunrai (5:1)<br>
-	2. Artimal_PL (1:2)<br>
-	5. spaceycarrot (0:2)<br>
-	6. pablo55 (3:10)<br>
-	7. BadKarma- (2:2)<br>
-	9. BIIIIID (0:2)<br>
-	10. TimeBreaker (0:2)<br>
+56. #Ovalrebel (1062) -25<br>
+-5|-7|-18|-13|-12|-12|-25|-24|-26|-14<br>
+	1. shunrai (4:8)<br>
+	2. Artimal_PL (0:4)<br>
+	4. Devil- (1:1)<br>
+	5. spaceycarrot (7:13)<br>
+	6. pablo55 (18:21)<br>
+	7. BadKarma- (2:3)<br>
+	8. sadpanda (8:13)<br>
+	9. JCC (4:4)<br>
+	10. BIIIIID (2:2)<br>
 <br>
-59. #quantum (1063) -9<br>
-+12|+24|+34|+33|+25|-2|-11|-9|-9|-7<br>
-	4. Devil- (0:3)<br>
-	5. spaceycarrot (3:11)<br>
-	6. pablo55 (10:6)<br>
-	7. BadKarma- (7:9)<br>
-	8. sadpanda (2:11)<br>
-<br>
-60. #bot (1062) +2<br>
-+33|+5|+11|-4|-19|-19|+1|+2|+1|+2<br>
-	1. shunrai (3:2)<br>
-	2. Artimal_PL (8:6)<br>
-	3. TankWar2 (0:3)<br>
-	4. Devil- (4:0)<br>
-	5. spaceycarrot (5:13)<br>
-	6. pablo55 (6:5)<br>
-	7. BadKarma- (21:10)<br>
-	8. sadpanda (19:3)<br>
-	9. BIIIIID (0:1)<br>
-<br>
-61. #fullofspite (1060) +2<br>
--6|+2|+23|+17|+4|+11|+9|+12|+2|+1<br>
+57. #fullofspite (1059) 0<br>
+-6|+2|+22|+16|+4|+11|+9|+11|+1|0<br>
 	1. shunrai (8:13)<br>
 	2. Artimal_PL (12:27)<br>
 	3. TankWar2 (1:0)<br>
 	5. spaceycarrot (7:6)<br>
 	6. pablo55 (9:37)<br>
 	7. BadKarma- (20:33)<br>
-	9. BIIIIID (14:17)<br>
-	10. TimeBreaker (8:5)<br>
+	9. JCC (13:22)<br>
+	10. BIIIIID (14:17)<br>
 <br>
-62. #spookyrivers (1053) 0<br>
-+48|-28|-109|-107|-115|-74|-59|-45|-61|-21<br>
-	2. Artimal_PL (0:3)<br>
-	3. TankWar2 (0:1)<br>
-	5. spaceycarrot (24:41)<br>
-	6. pablo55 (17:25)<br>
-	7. BadKarma- (1:0)<br>
-	8. sadpanda (5:5)<br>
-	9. BIIIIID (2:5)<br>
-	10. TimeBreaker (3:4)<br>
+58. #GoNe_VoRTeX (1055) +7<br>
++76|+65|+25|+61|+28|+24|+5<br>
+	4. Devil- (1:5)<br>
+	5. spaceycarrot (11:14)<br>
+	6. pablo55 (8:14)<br>
+	7. BadKarma- (2:2)<br>
+	8. sadpanda (10:13)<br>
+	10. BIIIIID (0:2)<br>
 <br>
-63. #g-nice (1053) -16<br>
+59. #g-nice (1053) 0<br>
 +193|+332|+381|+302|+299|+97|+82|+26|-17<br>
 	1. shunrai (0:5)<br>
 	2. Artimal_PL (5:18)<br>
@@ -646,98 +606,74 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (7:25)<br>
 	7. BadKarma- (14:14)<br>
 	8. sadpanda (10:15)<br>
-	9. BIIIIID (8:7)<br>
-	10. TimeBreaker (2:7)<br>
+	10. BIIIIID (8:7)<br>
 <br>
-64. #miomonster (1052) +4<br>
+60. #miomonster (1052) 0<br>
 +139|+48|+12<br>
-	3. TankWar2 (8:11)<br>
+	3. TankWar2 (4:8)<br>
 	4. Devil- (1:0)<br>
 	5. spaceycarrot (17:13)<br>
 	6. pablo55 (11:10)<br>
 	7. BadKarma- (8:12)<br>
 	8. sadpanda (12:15)<br>
-	9. BIIIIID (9:5)<br>
-	10. TimeBreaker (5:10)<br>
+	10. BIIIIID (9:5)<br>
 <br>
-65. #statenisland (1052) +6<br>
-+67|-64|-6|-23|+84|+73|+28|+78|+28|+13<br>
-	1. shunrai (4:16)<br>
-	2. Artimal_PL (5:23)<br>
-	3. TankWar2 (2:1)<br>
-	6. pablo55 (2:1)<br>
-	7. BadKarma- (5:1)<br>
-	8. sadpanda (7:6)<br>
-	10. TimeBreaker (0:2)<br>
+61. #spookyrivers (1049) -4<br>
++45|-32|-113|-111|-119|-78|-63|-49|-64|-24<br>
+	1. shunrai (0:2)<br>
+	2. Artimal_PL (0:3)<br>
+	3. TankWar2 (0:1)<br>
+	5. spaceycarrot (24:41)<br>
+	6. pablo55 (17:25)<br>
+	7. BadKarma- (1:0)<br>
+	8. sadpanda (5:5)<br>
+	10. BIIIIID (2:5)<br>
 <br>
-66. #GoNe_VoRTeX (1048) +1<br>
-+70|+58|+18|+54|+22|+17|-1<br>
-	4. Devil- (1:5)<br>
-	5. spaceycarrot (11:14)<br>
-	6. pablo55 (8:14)<br>
-	7. BadKarma- (2:2)<br>
-	8. sadpanda (10:13)<br>
-	9. BIIIIID (0:2)<br>
-	10. TimeBreaker (1:3)<br>
-<br>
-67. #lello123 (1045) 0<br>
-+218|+202|+65|+139|+97<br>
-	1. shunrai (0:1)<br>
-	2. Artimal_PL (2:0)<br>
-	3. TankWar2 (20:10)<br>
-	4. Devil- (0:1)<br>
-	5. spaceycarrot (2:7)<br>
-	6. pablo55 (12:6)<br>
-	9. BIIIIID (9:6)<br>
-	10. TimeBreaker (4:6)<br>
-<br>
-68. #Snake1976 (1042) -1<br>
--23|-24|-18|-14|-26|-33|-21|-19|-20|-2<br>
-	1. shunrai (3:16)<br>
-	2. Artimal_PL (3:5)<br>
-	3. TankWar2 (10:8)<br>
-	4. Devil- (0:2)<br>
-	5. spaceycarrot (2:5)<br>
-	6. pablo55 (22:33)<br>
-	7. BadKarma- (13:18)<br>
-	8. sadpanda (2:5)<br>
-	9. BIIIIID (7:10)<br>
-	10. TimeBreaker (1:2)<br>
-<br>
-69. #duruti (1042) -1<br>
--20|-22|-22|-20|-8|-9|-6|0|-1|-4<br>
+62. #duruti (1048) +6<br>
+-14|-16|-15|-13|-2|-3|+1|+6|+5|+3<br>
 	1. shunrai (2:10)<br>
 	2. Artimal_PL (0:2)<br>
 	4. Devil- (0:2)<br>
 	5. spaceycarrot (0:1)<br>
-	6. pablo55 (14:16)<br>
-	7. BadKarma- (9:28)<br>
+	6. pablo55 (12:14)<br>
+	7. BadKarma- (7:16)<br>
 	8. sadpanda (2:10)<br>
-	9. BIIIIID (5:5)<br>
-	10. TimeBreaker (0:1)<br>
+	9. JCC (4:8)<br>
+	10. BIIIIID (5:5)<br>
 <br>
-70. #Sadic (1040) 0<br>
+63. #Sadic (1040) 0<br>
 -51|-28|-29|-14|+1|+11|-6|+6|-9|0<br>
 	2. Artimal_PL (4:4)<br>
 	5. spaceycarrot (6:9)<br>
 	6. pablo55 (1:1)<br>
 	7. BadKarma- (3:11)<br>
 	8. sadpanda (2:0)<br>
-	9. BIIIIID (2:1)<br>
-	10. TimeBreaker (6:18)<br>
+	9. JCC (9:24)<br>
+	10. BIIIIID (2:1)<br>
 <br>
-71. #ATN (1039) -3<br>
--55|+14|+13|+36|+40|+30|+15|+31|+34|+7<br>
-	2. Artimal_PL (16:15)<br>
-	3. TankWar2 (1:2)<br>
-	5. spaceycarrot (4:2)<br>
-	6. pablo55 (8:12)<br>
-	7. BadKarma- (7:5)<br>
-	9. BIIIIID (5:8)<br>
-	10. TimeBreaker (3:1)<br>
+64. #statenisland (1039) -13<br>
++55|-76|-18|-36|+72|+60|+15|+66|+15|0<br>
+	1. shunrai (4:16)<br>
+	2. Artimal_PL (5:23)<br>
+	6. pablo55 (2:0)<br>
+	7. BadKarma- (4:6)<br>
+	8. sadpanda (7:6)<br>
 <br>
-72. #yeasonn (1034) 0<br>
-+26|+22|+22|+24|+26|+22|+9|+5|+3|+1<br>
+65. #Snake1976 (1038) -4<br>
+-28|-28|-22|-19|-30|-37|-25|-23|-25|-7<br>
+	1. shunrai (4:17)<br>
+	2. Artimal_PL (2:4)<br>
+	3. TankWar2 (10:8)<br>
+	4. Devil- (0:2)<br>
+	5. spaceycarrot (2:5)<br>
+	6. pablo55 (22:33)<br>
+	7. BadKarma- (11:17)<br>
+	8. sadpanda (0:2)<br>
+	9. JCC (11:13)<br>
+	10. BIIIIID (7:10)<br>
+<br>
+66. #yeasonn (1033) -1<br>
++25|+21|+21|+23|+25|+21|+8|+3|+2|0<br>
 	1. shunrai (2:2)<br>
 	2. Artimal_PL (3:4)<br>
 	3. TankWar2 (3:1)<br>
@@ -745,21 +681,73 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (5:10)<br>
 	7. BadKarma- (1:4)<br>
 	8. sadpanda (9:8)<br>
-	9. BIIIIID (7:5)<br>
-	10. TimeBreaker (4:6)<br>
+	9. JCC (0:1)<br>
+	10. BIIIIID (7:5)<br>
 <br>
-73. #VOSTOK (1031) 0<br>
-+14|+4|0|-1|-3|-2|+1|+5|-2|0<br>
+67. #VOSTOK (1031) 0<br>
++14|+4|0|-1|-3|-2|+2|+5|-2|+1<br>
 	2. Artimal_PL (1:2)<br>
 	4. Devil- (2:10)<br>
 	5. spaceycarrot (8:6)<br>
 	6. pablo55 (8:24)<br>
 	7. BadKarma- (9:19)<br>
 	8. sadpanda (4:10)<br>
-	10. TimeBreaker (0:1)<br>
 <br>
-74. #Glossy (1028) -2<br>
--22|-12|-21|-9|-5|+7|+4|+3|-12|-12<br>
+68. #AZ123 (1029) +4<br>
+-2|-37|-37|-45|-19|-23|-17|-33|-17|-24<br>
+	2. Artimal_PL (4:5)<br>
+	5. spaceycarrot (1:1)<br>
+	6. pablo55 (0:1)<br>
+	7. BadKarma- (0:2)<br>
+	8. sadpanda (0:2)<br>
+	10. BIIIIID (3:10)<br>
+<br>
+69. #SweetPeach~177 (1026) +1<br>
++10|+5|+6|-6|-5|-6|-2|-1|+4|+4<br>
+	1. shunrai (3:10)<br>
+	2. Artimal_PL (1:10)<br>
+	3. TankWar2 (7:8)<br>
+	4. Devil- (1:2)<br>
+	5. spaceycarrot (21:38)<br>
+	6. pablo55 (28:54)<br>
+	7. BadKarma- (14:18)<br>
+	8. sadpanda (35:39)<br>
+	9. JCC (1:2)<br>
+	10. BIIIIID (1:1)<br>
+<br>
+70. #sjehsan (1026) 0<br>
++4|+4|+4|+5|+5|+5|0|-4|-3|-3<br>
+	2. Artimal_PL (3:5)<br>
+	3. TankWar2 (1:1)<br>
+	4. Devil- (1:4)<br>
+	5. spaceycarrot (1:1)<br>
+	6. pablo55 (2:5)<br>
+	7. BadKarma- (9:10)<br>
+	8. sadpanda (2:2)<br>
+	9. JCC (6:10)<br>
+	10. BIIIIID (4:3)<br>
+<br>
+71. #sofierce (1020) +1<br>
++13|+13|+6|-2|-3|-5|-10|-7|-5|0<br>
+	1. shunrai (1:2)<br>
+	2. Artimal_PL (4:10)<br>
+	6. pablo55 (0:1)<br>
+	9. JCC (1:4)<br>
+<br>
+72. #jennygirl (1020) -1<br>
+-29|-15|0|+1|+10|+7|+1|+5|-4|-4<br>
+	1. shunrai (5:12)<br>
+	2. Artimal_PL (10:17)<br>
+	3. TankWar2 (4:4)<br>
+	5. spaceycarrot (6:5)<br>
+	6. pablo55 (14:23)<br>
+	7. BadKarma- (6:3)<br>
+	8. sadpanda (9:6)<br>
+	9. JCC (2:2)<br>
+	10. BIIIIID (5:7)<br>
+<br>
+73. #Glossy (1019) -9<br>
+-21|-30|-18|-14|-2|-5|-6|-21|-21|-7<br>
 	1. shunrai (1:4)<br>
 	2. Artimal_PL (5:5)<br>
 	3. TankWar2 (1:1)<br>
@@ -767,117 +755,80 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (2:3)<br>
 	7. BadKarma- (1:0)<br>
 	8. sadpanda (8:5)<br>
-	9. BIIIIID (4:5)<br>
-	10. TimeBreaker (0:1)<br>
+	9. JCC (3:5)<br>
+	10. BIIIIID (4:5)<br>
 <br>
-75. #SweetPeach~177 (1026) 0<br>
-+10|+5|+6|-7|-5|-6|-3|-2|+3|+3<br>
-	1. shunrai (3:10)<br>
-	2. Artimal_PL (1:10)<br>
-	3. TankWar2 (7:8)<br>
-	4. Devil- (1:2)<br>
-	5. spaceycarrot (21:38)<br>
-	6. pablo55 (33:63)<br>
-	7. BadKarma- (26:35)<br>
-	8. sadpanda (35:39)<br>
-	9. BIIIIID (1:1)<br>
-	10. TimeBreaker (4:2)<br>
+74. #lello123 (1019) -26<br>
++192|+177|+39|+114|+71<br>
+	1. shunrai (0:1)<br>
+	2. Artimal_PL (2:0)<br>
+	3. TankWar2 (20:10)<br>
+	4. Devil- (0:1)<br>
+	5. spaceycarrot (2:7)<br>
+	6. pablo55 (12:6)<br>
+	10. BIIIIID (9:6)<br>
 <br>
-76. #sjehsan (1026) 0<br>
-+4|+4|+4|+5|+5|+5|0|-4|-3|-3<br>
-	2. Artimal_PL (4:5)<br>
-	3. TankWar2 (1:1)<br>
-	4. Devil- (1:4)<br>
-	5. spaceycarrot (1:1)<br>
-	6. pablo55 (2:5)<br>
-	7. BadKarma- (10:10)<br>
-	8. sadpanda (2:2)<br>
-	9. BIIIIID (4:3)<br>
-	10. TimeBreaker (8:10)<br>
-<br>
-77. #AZ123 (1025) -10<br>
--7|-41|-41|-49|-23|-28|-21|-37|-21|-28<br>
-	2. Artimal_PL (4:5)<br>
-	5. spaceycarrot (1:1)<br>
-	6. pablo55 (0:1)<br>
-	7. BadKarma- (0:2)<br>
-	8. sadpanda (0:2)<br>
-	9. BIIIIID (3:10)<br>
-<br>
-78. #jennygirl (1021) -4<br>
--28|-14|+1|+2|+11|+8|+2|+6|-3|-3<br>
-	1. shunrai (5:12)<br>
-	2. Artimal_PL (12:18)<br>
-	3. TankWar2 (4:4)<br>
-	5. spaceycarrot (6:5)<br>
-	6. pablo55 (14:23)<br>
-	7. BadKarma- (7:3)<br>
-	8. sadpanda (9:6)<br>
-	9. BIIIIID (5:7)<br>
-	10. TimeBreaker (1:5)<br>
-<br>
-79. #sofierce (1019) 0<br>
-+12|+12|+5|-3|-4|-6|-10|-8|-6|0<br>
-	1. shunrai (1:2)<br>
-	2. Artimal_PL (4:10)<br>
-	6. pablo55 (0:1)<br>
-<br>
-80. #khalilmz (1017) -4<br>
--9|-1|-3|-5|-13|-5|-1|-3|-3|-5<br>
+75. #khalilmz (1019) +1<br>
+-7|0|-2|-4|-12|-4|0|-2|-2|-4<br>
 	3. TankWar2 (1:0)<br>
 	5. spaceycarrot (1:1)<br>
 	6. pablo55 (9:20)<br>
-	7. BadKarma- (12:8)<br>
+	7. BadKarma- (10:6)<br>
 	8. sadpanda (9:9)<br>
-	9. BIIIIID (5:5)<br>
-	10. TimeBreaker (0:2)<br>
+	9. JCC (1:2)<br>
+	10. BIIIIID (5:5)<br>
 <br>
-81. #Knightimer (1010) +1<br>
--3|0|-2|+1|-2|0|+4|+2|+9|0<br>
-	2. Artimal_PL (7:7)<br>
+76. #mashehu (1010) +60<br>
++83|+87|+85|+82|+82|+71|+80|+72|+63|+58<br>
+	1. shunrai (3:5)<br>
+	2. Artimal_PL (4:4)<br>
+	6. pablo55 (5:0)<br>
+	7. BadKarma- (4:6)<br>
+	8. sadpanda (0:2)<br>
+	9. JCC (1:3)<br>
+	10. BIIIIID (1:2)<br>
+<br>
+77. #Knightimer (1008) -2<br>
+-5|-2|-4|-1|-4|-2|+2|0|+6|-2<br>
+	2. Artimal_PL (6:6)<br>
 	4. Devil- (4:2)<br>
 	5. spaceycarrot (3:4)<br>
 	6. pablo55 (1:6)<br>
-	7. BadKarma- (13:8)<br>
+	7. BadKarma- (10:8)<br>
 	8. sadpanda (5:22)<br>
-	10. TimeBreaker (4:6)<br>
 <br>
-82. #creaky2 (1002) -2<br>
--96|-114|-116|-83|-74|-74|-77|-42|-26|-28<br>
-	1. shunrai (8:1)<br>
-	2. Artimal_PL (7:3)<br>
+78. #ATN (1007) -32<br>
+-18|-19|+4|+8|-2|-17|-1|+2|-25|-5<br>
+	2. Artimal_PL (16:15)<br>
+	3. TankWar2 (1:2)<br>
+	5. spaceycarrot (4:2)<br>
+	6. pablo55 (8:12)<br>
+	7. BadKarma- (7:5)<br>
+	10. BIIIIID (5:8)<br>
+<br>
+79. #creaky2 (1002) 0<br>
+-96|-114|-116|-83|-73|-74|-77|-42|-26|-28<br>
+	1. shunrai (8:2)<br>
+	2. Artimal_PL (8:6)<br>
 	3. TankWar2 (16:21)<br>
 	4. Devil- (5:6)<br>
 	5. spaceycarrot (39:30)<br>
-	6. pablo55 (85:107)<br>
-	7. BadKarma- (42:64)<br>
+	6. pablo55 (82:105)<br>
+	7. BadKarma- (42:62)<br>
 	8. sadpanda (81:249)<br>
-	9. BIIIIID (10:24)<br>
-	10. TimeBreaker (2:3)<br>
+	9. JCC (0:3)<br>
+	10. BIIIIID (10:24)<br>
 <br>
-83. #GrayCork~394 (1001) -9<br>
+80. #GrayCork~394 (1001) 0<br>
 -10|+71|+33<br>
 	1. shunrai (1:5)<br>
 	5. spaceycarrot (2:1)<br>
 	6. pablo55 (4:4)<br>
 	7. BadKarma- (5:4)<br>
 	8. sadpanda (3:1)<br>
-	9. BIIIIID (17:19)<br>
-	10. TimeBreaker (3:23)<br>
+	10. BIIIIID (17:19)<br>
 <br>
-84. #SUPREME._ (994) 0<br>
--21|-30|-31|-29|-46|-105|-13<br>
-	1. shunrai (0:3)<br>
-	2. Artimal_PL (4:6)<br>
-	3. TankWar2 (2:2)<br>
-	5. spaceycarrot (3:0)<br>
-	6. pablo55 (9:9)<br>
-	7. BadKarma- (3:3)<br>
-	8. sadpanda (3:3)<br>
-	9. BIIIIID (2:4)<br>
-	10. TimeBreaker (0:1)<br>
-<br>
-85. #gervi (990) 0<br>
+81. #gervi (990) 0<br>
 +4|+6|+2|-2|-4|-2|-1|0|-1|+1<br>
 	1. shunrai (0:3)<br>
 	2. Artimal_PL (1:0)<br>
@@ -887,10 +838,10 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (13:20)<br>
 	7. BadKarma- (7:10)<br>
 	8. sadpanda (17:21)<br>
-	9. BIIIIID (7:15)<br>
-	10. TimeBreaker (5:7)<br>
+	9. JCC (5:10)<br>
+	10. BIIIIID (7:15)<br>
 <br>
-86. #WildHat-972 (984) -2<br>
+82. #WildHat-972 (984) 0<br>
 -32|-48|-106|-82|-24|-49|-47|-25|-17|-15<br>
 	2. Artimal_PL (0:1)<br>
 	3. TankWar2 (21:24)<br>
@@ -899,52 +850,41 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (17:38)<br>
 	7. BadKarma- (3:18)<br>
 	8. sadpanda (1:13)<br>
-	9. BIIIIID (10:7)<br>
-	10. TimeBreaker (4:4)<br>
+	10. BIIIIID (10:7)<br>
 <br>
-87. #AnnaMarie68 (980) 0<br>
+83. #AnnaMarie68 (980) 0<br>
 +91|+3<br>
 	2. Artimal_PL (2:1)<br>
 	5. spaceycarrot (2:9)<br>
 	6. pablo55 (7:10)<br>
 	8. sadpanda (7:8)<br>
+	9. JCC (1:1)<br>
 <br>
-88. #LastTimeLord (980) 0<br>
+84. #LastTimeLord (980) 0<br>
 +9|+12|+10|0|-8|-7|-13|-5|-3|+1<br>
 	1. shunrai (6:4)<br>
-	2. Artimal_PL (2:8)<br>
+	2. Artimal_PL (1:7)<br>
 	3. TankWar2 (10:7)<br>
 	4. Devil- (2:3)<br>
 	5. spaceycarrot (4:5)<br>
-	6. pablo55 (27:33)<br>
-	7. BadKarma- (6:2)<br>
+	6. pablo55 (27:31)<br>
+	7. BadKarma- (3:1)<br>
 	8. sadpanda (5:4)<br>
-	9. BIIIIID (20:24)<br>
-	10. TimeBreaker (7:5)<br>
+	9. JCC (0:1)<br>
+	10. BIIIIID (20:24)<br>
 <br>
-89. #edache22 (965) -2<br>
-+7|+11|+9|+9|+7|+7|+3|+3|-2|0<br>
+85. #edache22 (963) -2<br>
++5|+9|+7|+7|+5|+5|+1|+1|-3|-2<br>
 	1. shunrai (3:14)<br>
-	2. Artimal_PL (23:32)<br>
+	2. Artimal_PL (22:32)<br>
 	5. spaceycarrot (13:21)<br>
 	6. pablo55 (21:29)<br>
 	7. BadKarma- (18:26)<br>
 	8. sadpanda (2:1)<br>
-	9. BIIIIID (13:14)<br>
-	10. TimeBreaker (3:21)<br>
+	9. JCC (8:7)<br>
+	10. BIIIIID (13:14)<br>
 <br>
-90. #foundcat (964) 0<br>
-+162|+106|+70|+21|+10|+29|+70|+82|+93|-26<br>
-	1. shunrai (0:2)<br>
-	2. Artimal_PL (1:5)<br>
-	3. TankWar2 (0:3)<br>
-	5. spaceycarrot (1:1)<br>
-	6. pablo55 (6:14)<br>
-	7. BadKarma- (0:2)<br>
-	8. sadpanda (9:22)<br>
-	10. TimeBreaker (1:0)<br>
-<br>
-91. #Kaborage (961) +1<br>
+86. #Kaborage (961) 0<br>
 +13|+18|+15|+16|+10|-2|+7|+6|+6|0<br>
 	2. Artimal_PL (4:3)<br>
 	3. TankWar2 (4:5)<br>
@@ -953,9 +893,20 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (1:3)<br>
 	7. BadKarma- (6:7)<br>
 	8. sadpanda (3:4)<br>
-	9. BIIIIID (3:7)<br>
+	9. JCC (1:1)<br>
+	10. BIIIIID (3:7)<br>
 <br>
-92. #cryp7 (958) 0<br>
+87. #foundcat (959) -6<br>
++156|+101|+64|+16|+5|+23|+64|+77|+87|-32<br>
+	1. shunrai (0:2)<br>
+	2. Artimal_PL (1:4)<br>
+	3. TankWar2 (0:3)<br>
+	5. spaceycarrot (1:1)<br>
+	6. pablo55 (6:14)<br>
+	8. sadpanda (9:22)<br>
+	9. JCC (2:6)<br>
+<br>
+88. #cryp7 (958) 0<br>
 -22|-22|-21|-25|-25|-20|-19|-4|+2|+9<br>
 	2. Artimal_PL (0:7)<br>
 	4. Devil- (0:3)<br>
@@ -964,35 +915,38 @@ Recent win rates against top 10 over the past 21 days<br>
 	7. BadKarma- (0:1)<br>
 	8. sadpanda (4:8)<br>
 <br>
-93. #mashehu (950) -7<br>
-+23|+27|+25|+22|+22|+10|+20|+12|+3|-2<br>
-	1. shunrai (3:5)<br>
-	2. Artimal_PL (4:4)<br>
-	6. pablo55 (5:0)<br>
-	7. BadKarma- (4:6)<br>
-	8. sadpanda (0:2)<br>
-	9. BIIIIID (1:2)<br>
-	10. TimeBreaker (0:1)<br>
-<br>
-94. #newpoweR (948) 0<br>
-+5|+4|+6|+4|+4|+5|+4|+6|+3|+1<br>
+89. #newpoweR (949) +1<br>
++5|+7|+5|+5|+6|+5|+7|+4|+2|0<br>
 	1. shunrai (2:4)<br>
 	2. Artimal_PL (6:6)<br>
 	5. spaceycarrot (4:2)<br>
 	6. pablo55 (6:8)<br>
-	7. BadKarma- (0:2)<br>
-	9. BIIIIID (2:1)<br>
-	10. TimeBreaker (1:4)<br>
+	7. BadKarma- (0:1)<br>
+	9. JCC (2:1)<br>
+	10. BIIIIID (2:1)<br>
 <br>
-95. #thestallion (940) +8<br>
-+89|+22<br>
+90. #thestallion (936) -4<br>
++85|+18<br>
 	5. spaceycarrot (5:1)<br>
-	6. pablo55 (9:6)<br>
-	7. BadKarma- (3:14)<br>
+	6. pablo55 (8:3)<br>
+	7. BadKarma- (2:11)<br>
 	8. sadpanda (6:7)<br>
-	9. BIIIIID (1:6)<br>
+	9. JCC (2:5)<br>
+	10. BIIIIID (1:6)<br>
 <br>
-96. #WickedDrago~460 (928) -6<br>
+91. #kern4life (929) +1<br>
++1|-5|+15|+21|+22|+22|+17|+16|+14|+12<br>
+	1. shunrai (1:3)<br>
+	2. Artimal_PL (2:1)<br>
+	4. Devil- (0:4)<br>
+	5. spaceycarrot (0:2)<br>
+	6. pablo55 (5:10)<br>
+	7. BadKarma- (8:9)<br>
+	8. sadpanda (1:2)<br>
+	9. JCC (2:3)<br>
+	10. BIIIIID (2:3)<br>
+<br>
+92. #WickedDrago~460 (928) 0<br>
 +88|-42<br>
 	1. shunrai (0:2)<br>
 	2. Artimal_PL (1:0)<br>
@@ -1000,21 +954,9 @@ Recent win rates against top 10 over the past 21 days<br>
 	5. spaceycarrot (4:1)<br>
 	7. BadKarma- (1:1)<br>
 	8. sadpanda (4:7)<br>
-	9. BIIIIID (2:9)<br>
+	10. BIIIIID (2:9)<br>
 <br>
-97. #kern4life (927) 0<br>
-0|-7|+14|+20|+20|+21|+16|+15|+13|+11<br>
-	1. shunrai (1:3)<br>
-	2. Artimal_PL (2:1)<br>
-	4. Devil- (0:4)<br>
-	5. spaceycarrot (0:2)<br>
-	6. pablo55 (5:13)<br>
-	7. BadKarma- (10:11)<br>
-	8. sadpanda (1:2)<br>
-	9. BIIIIID (2:3)<br>
-	10. TimeBreaker (2:1)<br>
-<br>
-98. #Yulia1984 (920) +10<br>
+93. #Yulia1984 (920) 0<br>
 +24|+23|+35|+13|0|-8|+13|+20|+10|+11<br>
 	1. shunrai (0:2)<br>
 	2. Artimal_PL (4:3)<br>
@@ -1024,53 +966,50 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. pablo55 (0:7)<br>
 	7. BadKarma- (7:11)<br>
 	8. sadpanda (3:2)<br>
-	9. BIIIIID (2:1)<br>
-	10. TimeBreaker (0:2)<br>
+	10. BIIIIID (2:1)<br>
 <br>
-99. #a7mad (909) 0<br>
--13<br>
+94. #a7mad (904) -6<br>
+-18<br>
 	1. shunrai (2:7)<br>
 	2. Artimal_PL (0:4)<br>
 	6. pablo55 (0:2)<br>
 	8. sadpanda (4:8)<br>
-	9. BIIIIID (1:3)<br>
+	10. BIIIIID (1:3)<br>
 <br>
-100. #mk5rabbit (893) 0<br>
-+17|+8|+5|-5|-7|-5|-9|-12|-7|-9<br>
+95. #mk5rabbit (896) +3<br>
++10|+8|-2|-4|-2|-6|-9|-4|-6|+4<br>
+	1. shunrai (0:4)<br>
 	2. Artimal_PL (0:3)<br>
 	5. spaceycarrot (3:3)<br>
-	6. pablo55 (2:9)<br>
-	7. BadKarma- (4:7)<br>
+	6. pablo55 (2:8)<br>
+	7. BadKarma- (3:6)<br>
 	8. sadpanda (0:2)<br>
-	9. BIIIIID (1:3)<br>
-	10. TimeBreaker (1:1)<br>
+	10. BIIIIID (1:3)<br>
 <br>
-101. #GreenDeer~922 (892) 0<br>
-+7|0|+6|+9|-12|+9|+5|+1|+1|0<br>
+96. #GreenDeer~922 (886) -7<br>
++1|-6|0|+2|-19|+2|-1|-6|-6|-7<br>
 	1. shunrai (0:6)<br>
-	2. Artimal_PL (2:12)<br>
+	2. Artimal_PL (2:11)<br>
 	3. TankWar2 (12:5)<br>
 	5. spaceycarrot (5:11)<br>
 	6. pablo55 (9:6)<br>
 	7. BadKarma- (7:13)<br>
 	8. sadpanda (21:23)<br>
-	9. BIIIIID (10:11)<br>
-	10. TimeBreaker (12:5)<br>
+	9. JCC (3:7)<br>
+	10. BIIIIID (10:11)<br>
 <br>
-102. #SparkySoup~704 (875) 0<br>
--11|-234|-2|-68|+26|-95|-162|-84|-56|-24<br>
+97. #SparkySoup~704 (874) -1<br>
+-11|-235|-3|-69|+25|-96|-163|-85|-57|-24<br>
 	4. Devil- (0:1)<br>
 	5. spaceycarrot (2:7)<br>
 	6. pablo55 (8:13)<br>
 	7. BadKarma- (0:1)<br>
 	8. sadpanda (4:6)<br>
-	9. BIIIIID (1:1)<br>
-	10. TimeBreaker (2:1)<br>
+	10. BIIIIID (1:1)<br>
 <br>
-103. #moofaffa4 (792) 0<br>
--128|-168|+8|-107|-52<br>
-	2. Artimal_PL (1:2)<br>
+98. #moofaffa4 (802) +10<br>
+-118|-158|+18|-97|-42<br>
 	5. spaceycarrot (5:1)<br>
 	6. pablo55 (7:9)<br>
-	7. BadKarma- (1:1)<br>
-	10. TimeBreaker (3:2)<br>
+	7. BadKarma- (1:0)<br>
+	9. JCC (1:5)<br>
