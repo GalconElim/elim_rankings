@@ -1,61 +1,60 @@
 Recent win rates against top 10 over the past 21 days<br>
 <br>
-1. #Buff-Plunts (1254) -1<br>
-+53|+50|+47|+37|+30|+13|+7|0|-2|-3<br>
-	2. MadDookie (0:5)<br>
+1. #Buff-Plunts (1254) 0<br>
++52|+50|+46|+36|+30|+12|+6|0|-2|-3<br>
+	2. MadDookie (0:6)<br>
 	3. AppleDragon (6:12)<br>
-	5. croissant (4:7)<br>
+	5. croissant (5:8)<br>
 	8. TankWar2 (1:2)<br>
 	9. Miniongalcon (1:2)<br>
 <br>
 2. #MadDookie (1248) 0<br>
-+7|+7|-2|-7|-4|-6|0|-1|+4|-1<br>
-	1. Buff-Plunts (5:0)<br>
-	3. AppleDragon (12:11)<br>
++8|+8|-1|-6|-4|-5|+1|0|+4|-1<br>
+	1. Buff-Plunts (6:0)<br>
+	3. AppleDragon (10:10)<br>
 	4. aKatsuki808 (1:1)<br>
-	5. croissant (4:4)<br>
-	7. Pyroraptor (1:0)<br>
+	5. croissant (5:4)<br>
+	6. Pyroraptor (1:0)<br>
 	8. TankWar2 (14:2)<br>
 	9. Miniongalcon (3:0)<br>
 <br>
-3. #AppleDragon (1238) +1<br>
-+8|+10|+7|+14|+6|+18|+14|+1|-5|+1<br>
+3. #AppleDragon (1236) -3<br>
++5|+7|+4|+11|+3|+15|+12|-1|-8|-2<br>
 	1. Buff-Plunts (12:6)<br>
-	2. MadDookie (11:12)<br>
+	2. MadDookie (10:10)<br>
 	4. aKatsuki808 (1:0)<br>
 	5. croissant (7:6)<br>
 	8. TankWar2 (19:14)<br>
 	9. Miniongalcon (7:2)<br>
-	10. Dragonscife (5:0)<br>
 <br>
-4. #aKatsuki808 (1228) -1<br>
-+45|+42|+46|+42|+35|+25|+21|+6|-3|0<br>
+4. #aKatsuki808 (1227) -1<br>
++44|+41|+45|+41|+34|+24|+20|+5|-4|-1<br>
 	2. MadDookie (1:1)<br>
 	3. AppleDragon (0:1)<br>
-	5. croissant (3:1)<br>
+	5. croissant (3:2)<br>
 	8. TankWar2 (4:2)<br>
 <br>
-5. #croissant (1207) -3<br>
-+26|+20|+12|+13|+9|+4|0|-8|-6|-4<br>
-	1. Buff-Plunts (7:4)<br>
-	2. MadDookie (4:4)<br>
+5. #croissant (1206) -1<br>
++20|+12|+12|+8|+4|0|-8|-7|-5|-1<br>
+	1. Buff-Plunts (8:5)<br>
+	2. MadDookie (4:5)<br>
 	3. AppleDragon (6:7)<br>
-	4. aKatsuki808 (1:3)<br>
+	4. aKatsuki808 (2:3)<br>
 	8. TankWar2 (1:2)<br>
 	9. Miniongalcon (0:3)<br>
 <br>
-6. #SparkyPlane (1203) -1<br>
--7|-13|+1|-1|0|-2|+9|+3|+4|-4<br>
-	7. Pyroraptor (2:3)<br>
+6. #Pyroraptor (1204) +1<br>
++133|+79|+41|+11|+12<br>
+	2. MadDookie (0:1)<br>
+	7. SparkyPlane (3:2)<br>
+<br>
+7. #SparkyPlane (1198) -5<br>
+-12|-19|-5|-7|-6|-7|+4|-3|-2|-10<br>
+	6. Pyroraptor (2:3)<br>
 	9. Miniongalcon (1:3)<br>
 	10. Dragonscife (1:1)<br>
 <br>
-7. #Pyroraptor (1203) 0<br>
-+132|+78|+41|+11|+11<br>
-	2. MadDookie (0:1)<br>
-	6. SparkyPlane (3:2)<br>
-<br>
-8. #TankWar2 (1189) +1<br>
+8. #TankWar2 (1189) 0<br>
 -6|+3|0|+1|0|+4|+13|+13|+11|-1<br>
 	1. Buff-Plunts (2:1)<br>
 	2. MadDookie (2:14)<br>
@@ -64,70 +63,73 @@ Recent win rates against top 10 over the past 21 days<br>
 	5. croissant (2:1)<br>
 	9. Miniongalcon (1:1)<br>
 <br>
-9. #Miniongalcon (1180) -1<br>
+9. #Miniongalcon (1180) 0<br>
 +63|+51|+45|+34|+37|+27|+23|+21|+12|0<br>
 	1. Buff-Plunts (2:1)<br>
 	2. MadDookie (0:3)<br>
 	3. AppleDragon (2:7)<br>
 	5. croissant (3:0)<br>
-	6. SparkyPlane (3:1)<br>
+	7. SparkyPlane (3:1)<br>
 	8. TankWar2 (1:1)<br>
 <br>
-10. #Dragonscife (1171) 0<br>
-+5|+1|-9|-19|-23|-14|-10|-7|-1|-6<br>
-	3. AppleDragon (0:5)<br>
-	6. SparkyPlane (1:1)<br>
+10. #Dragonscife (1172) 0<br>
++6|+1|-9|-18|-23|-14|-9|-7|0|-6<br>
+	7. SparkyPlane (1:1)<br>
 <br>
 11. #BIIIIID (1169) 0<br>
 +49|+43|+46|+51|+29|+24|+21|+11|+7|-2<br>
 	5. croissant (2:0)<br>
-	6. SparkyPlane (10:2)<br>
-	7. Pyroraptor (8:3)<br>
+	6. Pyroraptor (8:3)<br>
+	7. SparkyPlane (10:2)<br>
 	9. Miniongalcon (3:8)<br>
-	10. Dragonscife (5:6)<br>
+	10. Dragonscife (4:6)<br>
 <br>
-12. #NaCly (1159) +1<br>
-+11|+6|+9|+8|+3|+9|+7|-1|-1|+2<br>
-	3. AppleDragon (0:1)<br>
-	6. SparkyPlane (0:1)<br>
-	7. Pyroraptor (0:1)<br>
-	10. Dragonscife (5:4)<br>
-<br>
-13. #shaidar (1158) 0<br>
-+10|+4|+3|-4|-2|-4|-6|-4|-2|0<br>
+12. #shaidar (1164) +6<br>
++10|+9|+2|+4|+2|0|+2|+4|+6|+2<br>
 	1. Buff-Plunts (2:3)<br>
 	2. MadDookie (4:8)<br>
 	3. AppleDragon (1:3)<br>
 	4. aKatsuki808 (5:5)<br>
 	5. croissant (3:1)<br>
-	6. SparkyPlane (5:4)<br>
+	7. SparkyPlane (5:4)<br>
 	8. TankWar2 (5:5)<br>
 	9. Miniongalcon (7:1)<br>
 	10. Dragonscife (2:2)<br>
 <br>
-14. #sAmA (1154) 0<br>
-+2|+1|-3|-8|-10|-6|-7|-4|0|+5<br>
-	6. SparkyPlane (1:0)<br>
-	7. Pyroraptor (1:1)<br>
+13. #NaCly (1160) +1<br>
++12|+8|+11|+10|+5|+10|+8|+1|0|+3<br>
+	3. AppleDragon (0:1)<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (0:1)<br>
+	10. Dragonscife (5:4)<br>
+<br>
+14. #sAmA (1158) +3<br>
++6|+4|+1|-5|-7|-2|-4|-1|+4|+8<br>
+	6. Pyroraptor (1:1)<br>
+	7. SparkyPlane (1:0)<br>
 	10. Dragonscife (2:1)<br>
 <br>
-15. #Go4CHiPS (1154) -5<br>
-+43|+32|+28|+25|+17|+19|+12|+8|+6|-3<br>
+15. #bigdave82 (1155) +2<br>
++25|+23|+23|+18|+13|+11|+1|+7|+5|+1<br>
+	6. Pyroraptor (1:1)<br>
+	7. SparkyPlane (1:1)<br>
+<br>
+16. #Go4CHiPS (1154) 0<br>
++44|+32|+29|+25|+18|+20|+13|+8|+6|-3<br>
 	1. Buff-Plunts (5:2)<br>
-	2. MadDookie (10:14)<br>
+	2. MadDookie (11:15)<br>
 	3. AppleDragon (7:14)<br>
 	4. aKatsuki808 (4:4)<br>
-	5. croissant (14:7)<br>
-	8. TankWar2 (6:3)<br>
+	5. croissant (15:7)<br>
+	8. TankWar2 (6:1)<br>
 	9. Miniongalcon (3:1)<br>
-	10. Dragonscife (1:0)<br>
 <br>
-16. #FluffyHand (1145) 0<br>
--28|-22|-18|-20|-16|-16|-13|-8|-6|+3<br>
-	6. SparkyPlane (0:1)<br>
-	7. Pyroraptor (1:0)<br>
+17. #FluffyHand (1145) 0<br>
+-28|-23|-19|-21|-16|-16|-13|-9|-6|+3<br>
+	6. Pyroraptor (1:0)<br>
+	7. SparkyPlane (0:1)<br>
 <br>
-17. #im_GORY (1142) 0<br>
+18. #im_GORY (1142) 0<br>
 +30|+26|+20|+20|+19|+21|+19|+13|+5|+8<br>
 	1. Buff-Plunts (1:2)<br>
 	2. MadDookie (2:4)<br>
@@ -136,18 +138,8 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (4:1)<br>
 	9. Miniongalcon (0:1)<br>
 <br>
-18. #Fluffywolf (1142) 0<br>
-+27|+21|+20|+25|+20|+12|+3|+4|+1|-1<br>
-	6. SparkyPlane (1:3)<br>
-<br>
-19. #SOfa_kingDOM (1141) 0<br>
--7|-10|-7|-11|-6|+3|+4|+3|+2|-2<br>
-	1. Buff-Plunts (0:2)<br>
-	7. Pyroraptor (0:1)<br>
-	10. Dragonscife (3:8)<br>
-<br>
-20. #Joe_Shome123 (1140) -1<br>
-+105|+69|+66|+50|+36|+32|+20|+13|0|0<br>
+19. #Joe_Shome123 (1140) -1<br>
++105|+68|+65|+49|+35|+32|+20|+13|0|-1<br>
 	1. Buff-Plunts (0:1)<br>
 	2. MadDookie (1:0)<br>
 	3. AppleDragon (2:4)<br>
@@ -155,26 +147,44 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (3:4)<br>
 	9. Miniongalcon (1:1)<br>
 <br>
-21. #ki1laz0 (1138) +5<br>
+20. #SOfa_kingDOM (1139) -2<br>
+-10|-12|-9|-13|-8|0|+1|0|-1|-4<br>
+	1. Buff-Plunts (0:2)<br>
+	6. Pyroraptor (0:1)<br>
+	10. Dragonscife (3:8)<br>
+<br>
+21. #Fluffywolf (1138) -3<br>
++24|+18|+17|+22|+17|+8|0|+1|-2|-4<br>
+	7. SparkyPlane (1:3)<br>
+<br>
+22. #ki1laz0 (1138) 0<br>
 +37|+34|+26|+25|+23|+22|+17|+17|+7|+1<br>
-	6. SparkyPlane (2:1)<br>
-	7. Pyroraptor (3:4)<br>
+	6. Pyroraptor (3:4)<br>
+	7. SparkyPlane (2:1)<br>
 	10. Dragonscife (1:2)<br>
 <br>
-22. #bittertater (1133) 0<br>
--3|+1|-6|-3|-8|-15|-23|-15|-3|-1<br>
+23. #bittertater (1134) +1<br>
+-2|+1|-5|-2|-7|-14|-23|-14|-2|0<br>
 <br>
-23. #mygalaxy (1133) +1<br>
-+31|+28|+35|+32|+27|+18|+11|+13|+8|+1<br>
+24. #mygalaxy (1132) -1<br>
++30|+28|+34|+32|+26|+18|+10|+13|+8|+1<br>
+	7. SparkyPlane (1:0)<br>
 	10. Dragonscife (3:1)<br>
 <br>
-24. #PEPrasetya (1131) 0<br>
+25. #PEPrasetya (1131) 0<br>
 -6|-6|-7|-10|-6|-3|-3|-7|+1|+4<br>
 	1. Buff-Plunts (0:2)<br>
 	9. Miniongalcon (0:3)<br>
 	10. Dragonscife (3:2)<br>
 <br>
-25. #Swim. (1130) +1<br>
+26. #fatbucket (1130) +4<br>
+-15|-19|-18|-20|-11|-17|-5|-2|+2|+4<br>
+	6. Pyroraptor (5:2)<br>
+	7. SparkyPlane (4:2)<br>
+	9. Miniongalcon (0:2)<br>
+	10. Dragonscife (0:2)<br>
+<br>
+27. #Swim. (1130) 0<br>
 +58|+50|+39|+32|+29|+21|+15|+16|+13|+2<br>
 	1. Buff-Plunts (2:4)<br>
 	2. MadDookie (1:1)<br>
@@ -184,54 +194,44 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (1:2)<br>
 	9. Miniongalcon (0:1)<br>
 <br>
-26. #ATN (1127) -1<br>
--7|+3|+11|+8|+8|+12|+6|+1|+5|0<br>
-	6. SparkyPlane (0:2)<br>
-	7. Pyroraptor (1:0)<br>
-<br>
-27. #dIehAppY (1126) 0<br>
-+42|+30|+25|+29|+23|+22|+29|+26|+9|+9<br>
-	3. AppleDragon (0:1)<br>
-<br>
-28. #bread (1126) 0<br>
-+95|+77|+44|+36|+22|+21|+16|+4|-1<br>
-	5. croissant (1:3)<br>
-	6. SparkyPlane (0:3)<br>
-	7. Pyroraptor (0:1)<br>
-<br>
-29. #fatbucket (1126) 0<br>
--19|-23|-22|-24|-15|-22|-9|-6|-2|0<br>
-	6. SparkyPlane (2:2)<br>
-	7. Pyroraptor (5:2)<br>
-	9. Miniongalcon (0:2)<br>
-	10. Dragonscife (0:2)<br>
-<br>
-30. #Vergilious (1125) 0<br>
-+21|+24|+19|+12|+5|+6|-2|+1|-2|-1<br>
-	2. MadDookie (2:5)<br>
-	3. AppleDragon (1:0)<br>
-	5. croissant (0:1)<br>
-	6. SparkyPlane (0:2)<br>
-	9. Miniongalcon (1:4)<br>
-<br>
-31. #JCC (1124) -1<br>
--8|-14|-13|-11|-13|-7|-10|-1|+2|-3<br>
-	6. SparkyPlane (0:3)<br>
-	9. Miniongalcon (1:1)<br>
-<br>
-32. #GERALAN (1124) +3<br>
-+26|+26|+20|+16|+13|+6|+9|+4|+5|+2<br>
-	6. SparkyPlane (0:2)<br>
-<br>
-33. #GaudyWeasel (1122) 0<br>
-+13|+12|+12|+5|0|+2|+8|+5|-4|-4<br>
+28. #GaudyWeasel (1127) +5<br>
++17|+17|+10|+4|+6|+12|+9|0|+1|+2<br>
+	2. MadDookie (1:2)<br>
 	3. AppleDragon (2:6)<br>
 	4. aKatsuki808 (2:5)<br>
 	5. croissant (0:1)<br>
-	6. SparkyPlane (1:1)<br>
-	7. Pyroraptor (1:0)<br>
+	6. Pyroraptor (1:0)<br>
+	7. SparkyPlane (1:1)<br>
 	8. TankWar2 (4:5)<br>
 	10. Dragonscife (0:1)<br>
+<br>
+29. #bread (1126) 0<br>
++95|+77|+44|+36|+22|+21|+16|+4|-1<br>
+	5. croissant (1:3)<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (0:3)<br>
+<br>
+30. #JCC (1124) 0<br>
+-8|-14|-13|-11|-13|-7|-10|-1|+2|-3<br>
+	7. SparkyPlane (0:3)<br>
+	9. Miniongalcon (1:1)<br>
+<br>
+31. #GERALAN (1124) 0<br>
++26|+26|+20|+16|+13|+6|+9|+4|+5|+2<br>
+	7. SparkyPlane (0:2)<br>
+<br>
+32. #Vergilious (1124) -1<br>
++20|+23|+18|+11|+4|+5|-3|0|-3|-2<br>
+	2. MadDookie (2:5)<br>
+	3. AppleDragon (1:0)<br>
+	5. croissant (0:1)<br>
+	7. SparkyPlane (2:2)<br>
+	9. Miniongalcon (1:4)<br>
+<br>
+33. #ATN (1124) -3<br>
+-10|0|+8|+5|+5|+9|+3|-2|+2|-3<br>
+	6. Pyroraptor (1:0)<br>
+	7. SparkyPlane (0:2)<br>
 <br>
 34. #slovski (1121) 0<br>
 +27|+26|+30|+29|+38|+33|+21|+10|-1|-7<br>
@@ -239,36 +239,28 @@ Recent win rates against top 10 over the past 21 days<br>
 	3. AppleDragon (0:1)<br>
 	9. Miniongalcon (1:2)<br>
 <br>
-35. #chILLYpotat (1119) 0<br>
-+85|+72|+67|+66|+51|+41|+34|+30|+11|+5<br>
-	4. aKatsuki808 (0:2)<br>
-	8. TankWar2 (6:2)<br>
-	10. Dragonscife (0:1)<br>
+35. #dIehAppY (1121) -5<br>
++36|+25|+20|+24|+18|+16|+24|+20|+4|+3<br>
+	3. AppleDragon (0:1)<br>
 <br>
-36. #pablo55 (1119) 0<br>
-+89|+60|+47|+32|+14|+5|-1<br>
-	3. AppleDragon (0:3)<br>
-	8. TankWar2 (3:0)<br>
-	9. Miniongalcon (0:1)<br>
-<br>
-37. #midKnight. (1117) -7<br>
-+111|+100|+81|+69|+47|+28|+14|+9|-3|-5<br>
+36. #midKnight. (1118) 0<br>
++111|+101|+82|+69|+47|+28|+15|+10|-3|-4<br>
 	1. Buff-Plunts (4:3)<br>
 	2. MadDookie (3:0)<br>
-	3. AppleDragon (4:4)<br>
+	3. AppleDragon (5:3)<br>
 	4. aKatsuki808 (1:3)<br>
 	5. croissant (2:1)<br>
 	8. TankWar2 (5:5)<br>
 	9. Miniongalcon (1:4)<br>
 <br>
-38. #Artimal_PL (1117) 0<br>
-+21|+24|+30|+33|+26|+15|+9|+8|+5|+3<br>
+37. #Artimal_PL (1117) 0<br>
++21|+24|+30|+32|+25|+15|+9|+8|+5|+3<br>
 	5. croissant (0:1)<br>
-	7. Pyroraptor (2:0)<br>
+	6. Pyroraptor (2:0)<br>
 	9. Miniongalcon (1:0)<br>
 	10. Dragonscife (0:2)<br>
 <br>
-39. #jman8080 (1116) 0<br>
+38. #jman8080 (1116) 0<br>
 +73|+55|+49|+50|+40|+28|+28|+24|+19|0<br>
 	2. MadDookie (1:4)<br>
 	3. AppleDragon (6:9)<br>
@@ -276,52 +268,63 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (1:0)<br>
 	9. Miniongalcon (1:1)<br>
 <br>
-40. #breviter (1114) 0<br>
+39. #breviter (1114) 0<br>
 +28|+22|+26|+29|+24|+19|+17|+18|+15|+2<br>
-	7. Pyroraptor (2:3)<br>
+	6. Pyroraptor (2:3)<br>
 	9. Miniongalcon (0:3)<br>
 <br>
-41. #zunar (1113) +1<br>
-+3|+6|+3|-4|-8|-8|-1|+8|+7|+9<br>
+40. #Vato96 (1114) +4<br>
++36|+28|+20|+12|+8|+1|-3|-5|-9|0<br>
+	3. AppleDragon (1:0)<br>
+	5. croissant (3:3)<br>
+	7. SparkyPlane (2:12)<br>
+	8. TankWar2 (1:2)<br>
+	9. Miniongalcon (16:19)<br>
+	10. Dragonscife (1:1)<br>
+<br>
+41. #zunar (1113) -1<br>
++5|+2|-4|-9|-8|-2|+8|+7|+8|-1<br>
 	5. croissant (2:0)<br>
-	6. SparkyPlane (5:15)<br>
-	7. Pyroraptor (1:2)<br>
+	6. Pyroraptor (1:2)<br>
+	7. SparkyPlane (10:18)<br>
 	9. Miniongalcon (3:5)<br>
 	10. Dragonscife (13:7)<br>
 <br>
-42. #SyMSyMmy (1112) -3<br>
-+50|+51|+51|+49|+20|+4|-6|-11|-8|-3<br>
+42. #SyMSyMmy (1112) +1<br>
++51|+52|+52|+50|+20|+5|-5|-11|-7|-2<br>
 	1. Buff-Plunts (1:3)<br>
-	2. MadDookie (4:6)<br>
+	2. MadDookie (7:9)<br>
 	3. AppleDragon (10:17)<br>
 	4. aKatsuki808 (2:2)<br>
 	5. croissant (4:3)<br>
-	7. Pyroraptor (0:1)<br>
+	6. Pyroraptor (0:1)<br>
 	8. TankWar2 (1:0)<br>
 	9. Miniongalcon (2:2)<br>
 <br>
-43. #polinom (1111) +1<br>
-+47|+38|+30|+19|+16|+10|-3|-4|-2|+3<br>
+43. #TPSproducer (1111) +7<br>
++25|+26|+13|+13|+4|+1|0|+3|+5|+7<br>
+	1. Buff-Plunts (7:13)<br>
+	2. MadDookie (4:9)<br>
+	3. AppleDragon (11:30)<br>
+	4. aKatsuki808 (0:5)<br>
+	5. croissant (7:10)<br>
+	7. SparkyPlane (0:4)<br>
+	8. TankWar2 (5:15)<br>
+	9. Miniongalcon (3:3)<br>
+<br>
+44. #7paths (1110) +1<br>
+-23|-17|-19|-22|-12|-8|-5|0|+4|+1<br>
+	6. Pyroraptor (1:0)<br>
+	7. SparkyPlane (0:2)<br>
+	10. Dragonscife (0:1)<br>
+<br>
+45. #polinom (1110) -2<br>
++46|+36|+29|+17|+14|+8|-4|-5|-4|+2<br>
 	1. Buff-Plunts (1:2)<br>
 	4. aKatsuki808 (0:1)<br>
 	5. croissant (1:2)<br>
 	8. TankWar2 (1:10)<br>
 	9. Miniongalcon (1:1)<br>
-<br>
-44. #Vato96 (1110) -2<br>
-+32|+23|+16|+8|+4|-3|-7|-9|-13|-4<br>
-	3. AppleDragon (1:0)<br>
-	5. croissant (3:3)<br>
-	6. SparkyPlane (2:12)<br>
-	8. TankWar2 (1:2)<br>
-	9. Miniongalcon (16:19)<br>
-	10. Dragonscife (1:1)<br>
-<br>
-45. #7paths (1109) -1<br>
--24|-17|-20|-22|-13|-9|-6|-1|+3|0<br>
-	6. SparkyPlane (0:2)<br>
-	7. Pyroraptor (1:0)<br>
-	10. Dragonscife (0:1)<br>
 <br>
 46. #BenjiKozor (1108) 0<br>
 +73|+56|+35|+28|+36|+32|+27|+20|+8|-1<br>
@@ -332,49 +335,46 @@ Recent win rates against top 10 over the past 21 days<br>
 +53|+31|+27|+30|+31|+21|+20|+9|0<br>
 	3. AppleDragon (0:7)<br>
 	5. croissant (0:2)<br>
-	6. SparkyPlane (0:3)<br>
-	7. Pyroraptor (0:1)<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (0:3)<br>
 	10. Dragonscife (3:5)<br>
 <br>
-48. #sltan1995 (1105) +1<br>
-+5|-7|-5|-7|-7|-14|-11|-5|-1|-1<br>
-	2. MadDookie (1:3)<br>
+48. #sltan1995 (1104) 0<br>
++5|-7|-6|-7|-8|-14|-11|-5|-1|-1<br>
+	2. MadDookie (1:4)<br>
 	3. AppleDragon (3:6)<br>
-	5. croissant (2:1)<br>
+	5. croissant (3:1)<br>
 	8. TankWar2 (2:6)<br>
 	9. Miniongalcon (0:1)<br>
 <br>
-49. #TPSproducer (1103) 0<br>
-+18|+19|+6|+6|-3|-6|-7|-4|-2|0<br>
-	1. Buff-Plunts (7:13)<br>
-	2. MadDookie (3:8)<br>
-	3. AppleDragon (12:30)<br>
-	4. aKatsuki808 (0:5)<br>
-	5. croissant (7:10)<br>
-	6. SparkyPlane (0:4)<br>
-	8. TankWar2 (10:17)<br>
-	9. Miniongalcon (3:3)<br>
-<br>
-50. #zh1271 (1103) +1<br>
+49. #zh1271 (1103) 0<br>
 +5|+9|+7|+14|+18|+18|+19|+15|+13|+3<br>
-	6. SparkyPlane (8:4)<br>
-	7. Pyroraptor (0:1)<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (8:4)<br>
 <br>
-51. #a_caesar (1102) +4<br>
-+78|+65|+44|+39|+25|+21|+23|+17|+21|+7<br>
+50. #a_caesar (1102) -1<br>
++78|+64|+44|+39|+25|+20|+22|+16|+21|+6<br>
+<br>
+51. #beeman80 (1101) +2<br>
++12|+9|+6|+2|+1|-1|-5|+5|-1|+2<br>
+	6. Pyroraptor (0:1)<br>
+	10. Dragonscife (1:0)<br>
 <br>
 52. #modemlockbox (1101) 0<br>
 +36|+34|+23|+28|+26|+20|+19|+9|+5|0<br>
-	6. SparkyPlane (1:4)<br>
+	7. SparkyPlane (1:4)<br>
 	9. Miniongalcon (0:1)<br>
 <br>
-53. #beeman80 (1099) +1<br>
-+10|+7|+4|0|-1|-3|-7|+3|-3|0<br>
-	7. Pyroraptor (0:1)<br>
-	10. Dragonscife (1:0)<br>
+53. #mightymeek (1101) +5<br>
++62|+32|+16<br>
+	2. MadDookie (1:0)<br>
+	3. AppleDragon (1:0)<br>
+	5. croissant (1:3)<br>
+	7. SparkyPlane (2:1)<br>
+	9. Miniongalcon (1:0)<br>
 <br>
-54. #quimlover (1099) -5<br>
-+8|+15|+10|-2|-7|-11|-1|-4|-2|-5<br>
+54. #quimlover (1100) 0<br>
++9|+16|+11|-2|-6|-11|-1|-4|-2|-4<br>
 <br>
 55. #AngryRobin~972 (1099) 0<br>
 +48|+35|+28|+20|+10|+13|+9|+9|+7|-3<br>
@@ -383,27 +383,19 @@ Recent win rates against top 10 over the past 21 days<br>
 +46|+43|+45|+41|+26|+20|+16|+11|+13|+4<br>
 	9. Miniongalcon (5:3)<br>
 <br>
-57. #Vadim1707 (1096) +1<br>
+57. #Vadim1707 (1096) 0<br>
 +52|+39|+24|+2|-5|-6|0<br>
 	1. Buff-Plunts (0:1)<br>
 	2. MadDookie (3:1)<br>
 	3. AppleDragon (4:5)<br>
 	4. aKatsuki808 (0:1)<br>
 	5. croissant (0:1)<br>
-	7. Pyroraptor (3:65)<br>
+	6. Pyroraptor (3:65)<br>
 	8. TankWar2 (1:0)<br>
 	10. Dragonscife (1:2)<br>
 <br>
-58. #mightymeek (1096) -1<br>
-+57|+27|+12<br>
-	2. MadDookie (1:0)<br>
-	3. AppleDragon (1:0)<br>
-	5. croissant (1:3)<br>
-	6. SparkyPlane (2:1)<br>
-	9. Miniongalcon (1:0)<br>
-<br>
-59. #kittengod22 (1095) 0<br>
-+53|+30|+17|+11|-1<br>
+58. #kittengod22 (1095) 0<br>
++52|+29|+16|+11|-2<br>
 	1. Buff-Plunts (0:2)<br>
 	2. MadDookie (3:2)<br>
 	3. AppleDragon (4:1)<br>
@@ -412,53 +404,74 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (3:1)<br>
 	9. Miniongalcon (0:1)<br>
 <br>
-60. #Brock (1094) 0<br>
-+63|+52|+43|+33|+21|+9|+3|+3|+5|+3<br>
+59. #Brock (1093) 0<br>
++63|+52|+43|+33|+20|+9|+3|+3|+5|+3<br>
 <br>
-61. #MooNxShaDoOW (1093) 0<br>
+60. #MooNxShaDoOW (1093) 0<br>
 +28|+21|+22|+15|+11|+6|+7|+6|+5|+3<br>
 	5. croissant (0:2)<br>
-	6. SparkyPlane (1:1)<br>
+	7. SparkyPlane (1:1)<br>
 <br>
-62. #hasan.187 (1092) 0<br>
-+16|+11|+7|+6|+8|+5|+15|+7|0|-1<br>
+61. #to_o (1092) +15<br>
++19<br>
+	1. Buff-Plunts (0:2)<br>
+	6. Pyroraptor (2:0)<br>
+	9. Miniongalcon (1:3)<br>
+<br>
+62. #hasan.187 (1091) -1<br>
++15|+10|+6|+5|+7|+4|+14|+6|-1|-2<br>
 	2. MadDookie (0:2)<br>
 	3. AppleDragon (0:5)<br>
 	4. aKatsuki808 (1:5)<br>
 	5. croissant (0:3)<br>
 	8. TankWar2 (3:2)<br>
 <br>
-63. #largeowl (1090) 0<br>
--18|-20|-14|-15|-17|-12|-11|-4|-4|+1<br>
-<br>
-64. #nm_lb (1090) 0<br>
+63. #nm_lb (1090) 0<br>
 -33|-28|-28|-29|-26|-29|-29|-35|+8|-2<br>
 	1. Buff-Plunts (1:1)<br>
 	2. MadDookie (0:2)<br>
 	3. AppleDragon (1:5)<br>
 	4. aKatsuki808 (0:1)<br>
-	7. Pyroraptor (0:1)<br>
+	6. Pyroraptor (0:1)<br>
 	8. TankWar2 (0:2)<br>
 <br>
-65. #like.a.ninja (1089) 0<br>
+64. #like.a.ninja (1089) 0<br>
 +38|+22|+8|+6|-2|-1<br>
 	1. Buff-Plunts (0:1)<br>
-	6. SparkyPlane (2:7)<br>
+	7. SparkyPlane (2:7)<br>
 <br>
-66. #ScaryJam-406 (1089) 0<br>
+65. #ScaryJam-406 (1089) 0<br>
 +78|+51|+35|+29|+17|+9|-3|-10|0<br>
-	6. SparkyPlane (2:5)<br>
+	7. SparkyPlane (2:5)<br>
 <br>
-67. #P.Bear (1089) +2<br>
+66. #P.Bear (1089) 0<br>
 +26|+19|+17|+11|+8|+6|+1|+1|-3|+3<br>
-	6. SparkyPlane (1:0)<br>
+	7. SparkyPlane (1:0)<br>
 	9. Miniongalcon (0:1)<br>
 	10. Dragonscife (2:1)<br>
 <br>
-68. #HTALAQI (1089) -3<br>
-+45|+42|+34|+31|+32|+42|+31|+26|+21|-3<br>
+67. #rickss (1089) +1<br>
++2|+4|+4|+12|+8|+4|+3|+6|+1|+3<br>
+	5. croissant (0:1)<br>
+<br>
+68. #SloppyTea~932 (1088) +1<br>
++63|+45|+36|+35|+39|+20|+10|+7|+6|0<br>
+	2. MadDookie (0:2)<br>
+	5. croissant (1:2)<br>
+	6. Pyroraptor (1:0)<br>
+	9. Miniongalcon (2:4)<br>
+<br>
+69. #largeowl (1088) -3<br>
+-21|-23|-17|-18|-20|-15|-14|-7|-7|-1<br>
+<br>
+70. #ghostnixon (1087) +4<br>
++50|+43|+42|+34|+30|+28|+31|+25|+10|+4<br>
+	7. SparkyPlane (0:1)<br>
+<br>
+71. #HTALAQI (1086) -2<br>
++43|+40|+32|+29|+30|+40|+29|+24|+19|-5<br>
 	1. Buff-Plunts (0:3)<br>
-	2. MadDookie (1:0)<br>
+	2. MadDookie (1:1)<br>
 	3. AppleDragon (3:19)<br>
 	4. aKatsuki808 (0:8)<br>
 	5. croissant (2:6)<br>
@@ -466,34 +479,17 @@ Recent win rates against top 10 over the past 21 days<br>
 	9. Miniongalcon (2:6)<br>
 	10. Dragonscife (4:3)<br>
 <br>
-69. #rickss (1088) +1<br>
-+1|+3|+3|+11|+7|+3|+2|+5|0|+2<br>
-	5. croissant (0:1)<br>
+72. #thedude (1084) +3<br>
++23|+29|+25|+10|+8|-1|0|-3|-4|+2<br>
+	6. Pyroraptor (0:1)<br>
 <br>
-70. #SloppyTea~932 (1088) 0<br>
-+71|+63|+45|+36|+35|+39|+19|+9|+7|+5<br>
-	2. MadDookie (0:2)<br>
-	3. AppleDragon (2:4)<br>
-	5. croissant (1:2)<br>
-	7. Pyroraptor (1:0)<br>
-	9. Miniongalcon (2:4)<br>
-<br>
-71. #VanGuard. (1084) 0<br>
+73. #VanGuard. (1084) 0<br>
 +22|+6<br>
 	2. MadDookie (2:3)<br>
 	3. AppleDragon (5:8)<br>
 	9. Miniongalcon (1:0)<br>
 <br>
-72. #ghostnixon (1083) +3<br>
-+46|+39|+38|+30|+26|+24|+27|+21|+6|0<br>
-	6. SparkyPlane (0:1)<br>
-<br>
-73. #thedude (1081) -5<br>
-+20|+27|+23|+8|+5|-4|-2|-6|-7|-1<br>
-	7. Pyroraptor (0:1)<br>
-	8. TankWar2 (0:1)<br>
-<br>
-74. #FeistyBear~377 (1081) +76<br>
+74. #FeistyBear~377 (1081) 0<br>
 +15|+8<br>
 	3. AppleDragon (1:0)<br>
 	4. aKatsuki808 (2:1)<br>
@@ -517,32 +513,18 @@ Recent win rates against top 10 over the past 21 days<br>
 78. #VioletMoon~382 (1079) 0<br>
 +23|0<br>
 	5. croissant (0:1)<br>
-	6. SparkyPlane (1:0)<br>
-	7. Pyroraptor (0:1)<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (1:0)<br>
 	10. Dragonscife (2:0)<br>
 <br>
 79. #SNAPPY7 (1078) 0<br>
-+86|+79|+65|+61|+46|+39|+35|+26|+16|+7<br>
-	6. SparkyPlane (0:1)<br>
-	7. Pyroraptor (3:1)<br>
++86|+78|+65|+61|+46|+38|+35|+26|+15|+7<br>
+	6. Pyroraptor (3:1)<br>
+	7. SparkyPlane (0:1)<br>
 	9. Miniongalcon (0:1)<br>
 	10. Dragonscife (2:3)<br>
 <br>
-80. #GroovyHam (1078) -3<br>
-+35|+29|+27|+15|+1|-9<br>
-	1. Buff-Plunts (2:0)<br>
-	4. aKatsuki808 (2:0)<br>
-	6. SparkyPlane (5:2)<br>
-	7. Pyroraptor (0:1)<br>
-	9. Miniongalcon (1:2)<br>
-<br>
-81. #to_o (1077) +4<br>
-+5<br>
-	1. Buff-Plunts (0:2)<br>
-	7. Pyroraptor (2:0)<br>
-	9. Miniongalcon (1:3)<br>
-<br>
-82. #syrius (1077) 0<br>
+80. #syrius (1077) 0<br>
 +36|+35|+21|+7|+2|+2|-3|-2|+7|+2<br>
 	1. Buff-Plunts (1:4)<br>
 	2. MadDookie (1:1)<br>
@@ -550,136 +532,148 @@ Recent win rates against top 10 over the past 21 days<br>
 	9. Miniongalcon (0:2)<br>
 	10. Dragonscife (0:4)<br>
 <br>
-83. #sacore (1076) +1<br>
+81. #sacore (1077) 0<br>
 -18|-13|-7|-4|-7|-2|-9|-4|-1|+1<br>
-	6. SparkyPlane (0:1)<br>
-	7. Pyroraptor (1:1)<br>
+	6. Pyroraptor (1:1)<br>
+	7. SparkyPlane (0:1)<br>
 	10. Dragonscife (1:5)<br>
 <br>
-84. #Buz (1075) 0<br>
+82. #GroovyHam (1076) -1<br>
++34|+28|+26|+14|0|-10<br>
+	1. Buff-Plunts (2:0)<br>
+	4. aKatsuki808 (2:0)<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (5:2)<br>
+	9. Miniongalcon (1:2)<br>
+<br>
+83. #Buz (1075) 0<br>
 +28|+20|+16|+14|+11|+15|+17|+3|+2|0<br>
 <br>
-85. #JOW44 (1075) -1<br>
-+6|+14|+22|+20|+13|+10|+1|+3|+8|-1<br>
-<br>
-86. #germanat (1075) +1<br>
-+55|+54|+52|+36|+33|+27|+20|+10|+9|0<br>
+84. #germanat (1075) 0<br>
++55|+54|+52|+37|+33|+27|+20|+10|+9|0<br>
+	1. Buff-Plunts (0:1)<br>
+	2. MadDookie (0:2)<br>
 	3. AppleDragon (0:2)<br>
 	4. aKatsuki808 (1:1)<br>
-	6. SparkyPlane (0:1)<br>
-	7. Pyroraptor (0:1)<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (2:1)<br>
 	10. Dragonscife (0:1)<br>
 <br>
-87. #ocdpqr (1075) -1<br>
-+78|+72|+57|+35|+30|+27|+15|+8|-1<br>
-	6. SparkyPlane (0:1)<br>
-	7. Pyroraptor (0:1)<br>
-<br>
-88. #ritzyTurnip (1074) +1<br>
-+39|+43|+40|+34|+29|+23|+20|+9|+7|0<br>
+85. #ritzyTurnip (1075) +1<br>
++40|+44|+40|+35|+30|+24|+21|+10|+8|+1<br>
 	5. croissant (0:1)<br>
+	10. Dragonscife (0:1)<br>
+<br>
+86. #ocdpqr (1074) 0<br>
++78|+72|+57|+35|+30|+27|+15|+7|-1<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (0:1)<br>
+<br>
+87. #Heart4U (1074) +3<br>
++39|+6<br>
+	1. Buff-Plunts (1:0)<br>
+	2. MadDookie (0:6)<br>
+	3. AppleDragon (2:0)<br>
+	4. aKatsuki808 (5:5)<br>
+	5. croissant (7:5)<br>
+	8. TankWar2 (3:0)<br>
+	9. Miniongalcon (4:2)<br>
+<br>
+88. #chabdura (1074) +1<br>
++74|+70|+59|+45|+24|+12|+1<br>
+	4. aKatsuki808 (1:0)<br>
+	5. croissant (1:0)<br>
+	6. Pyroraptor (2:1)<br>
 	10. Dragonscife (0:1)<br>
 <br>
 89. #SpookyIslan~329 (1073) 0<br>
 +58|+46|+41|+28|+15|+21|+15|+5<br>
 	10. Dragonscife (2:0)<br>
 <br>
-90. #chabdura (1073) 0<br>
-+72|+69|+57|+43|+23|+11|0<br>
-	4. aKatsuki808 (1:0)<br>
-	5. croissant (1:0)<br>
-	7. Pyroraptor (2:1)<br>
-	10. Dragonscife (0:1)<br>
-<br>
-91. #Fourdixs (1072) +4<br>
-+40|+21|+17|+19|+9|+3<br>
+90. #Fourdixs (1073) +1<br>
++41|+22|+18|+20|+10|+4<br>
 	1. Buff-Plunts (0:2)<br>
 	2. MadDookie (3:5)<br>
 	3. AppleDragon (4:9)<br>
-	4. aKatsuki808 (1:0)<br>
+	4. aKatsuki808 (3:1)<br>
 	5. croissant (2:1)<br>
-	6. SparkyPlane (0:4)<br>
+	7. SparkyPlane (0:4)<br>
 	8. TankWar2 (4:0)<br>
 	9. Miniongalcon (0:1)<br>
 <br>
-92. #Heart4U (1072) +18<br>
-+36|+4<br>
-	2. MadDookie (0:6)<br>
-	3. AppleDragon (2:0)<br>
-	4. aKatsuki808 (5:5)<br>
-	5. croissant (5:4)<br>
-	8. TankWar2 (3:0)<br>
-	9. Miniongalcon (4:2)<br>
+91. #JOW44 (1072) -3<br>
++3|+11|+19|+17|+10|+7|-2|+1|+5|-4<br>
 <br>
-93. #Axitaxi (1072) +2<br>
-+3|+2|+3|+7|+9|+7|+10|+1|0|+2<br>
-	9. Miniongalcon (0:2)<br>
-<br>
-94. #vip_genius (1070) 0<br>
-+61|+49|+39|+25|+21|+15|+7|+3<br>
-	7. Pyroraptor (0:1)<br>
-<br>
-95. #cecil.czg (1069) +3<br>
-+34|+26|+17|+9|0|0|-5|+4|-3|+2<br>
+92. #cecil.czg (1071) +2<br>
++28|+19|+11|+2|+2|-3|+6|-1|+4|+2<br>
 	1. Buff-Plunts (1:3)<br>
-	2. MadDookie (1:3)<br>
-	3. AppleDragon (1:6)<br>
+	2. MadDookie (1:2)<br>
 	4. aKatsuki808 (0:2)<br>
 	5. croissant (1:4)<br>
 	8. TankWar2 (0:1)<br>
 	9. Miniongalcon (1:1)<br>
-	10. Dragonscife (1:0)<br>
 <br>
-96. #MagnusWH40K (1066) 0<br>
-+5|+10|+11|+11|+10|+10|+8|+14|+6|0<br>
-	3. AppleDragon (1:1)<br>
-	5. croissant (1:0)<br>
-	6. SparkyPlane (0:1)<br>
+93. #Axitaxi (1071) -1<br>
++2|+2|+7|+8|+7|+9|+1|0|+1|+1<br>
+	9. Miniongalcon (0:2)<br>
+<br>
+94. #fullspeed (1070) +4<br>
++43|+30|+21|+9|+18|+15|+19|+13|+6|+1<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (1:3)<br>
 	9. Miniongalcon (1:1)<br>
 	10. Dragonscife (1:1)<br>
+<br>
+95. #vip_genius (1070) 0<br>
++61|+49|+39|+25|+21|+15|+7|+3<br>
+	6. Pyroraptor (0:1)<br>
+<br>
+96. #Minny (1067) +2<br>
++41|+33|+30|+32|+26|+12|+6|+6|+3|+2<br>
+	2. MadDookie (0:4)<br>
+	5. croissant (0:2)<br>
+	6. Pyroraptor (1:2)<br>
+	7. SparkyPlane (10:14)<br>
+	9. Miniongalcon (2:7)<br>
+	10. Dragonscife (0:7)<br>
 <br>
 97. #BillyDanger (1066) 0<br>
 +60|+50|+43|+34|+26|+18|+13|+11|0<br>
-	6. SparkyPlane (2:3)<br>
+	7. SparkyPlane (2:3)<br>
 <br>
-98. #Rick- (1066) +22<br>
-+44|+28|+16|+6|-1<br>
-	1. Buff-Plunts (1:2)<br>
-	2. MadDookie (3:2)<br>
-	3. AppleDragon (3:6)<br>
-	4. aKatsuki808 (4:3)<br>
-	5. croissant (2:3)<br>
-	7. Pyroraptor (1:0)<br>
-	8. TankWar2 (4:3)<br>
-	9. Miniongalcon (2:1)<br>
+98. #BraveTater (1066) +3<br>
++47|+38|+22|+11|+4|+3|+2<br>
+	2. MadDookie (3:5)<br>
+	3. AppleDragon (0:13)<br>
+	4. aKatsuki808 (1:10)<br>
+	5. croissant (2:5)<br>
+	6. Pyroraptor (0:1)<br>
+	8. TankWar2 (0:2)<br>
+	9. Miniongalcon (0:2)<br>
 <br>
-99. #fullspeed (1066) -1<br>
-+38|+26|+17|+5|+14|+11|+15|+9|+2<br>
-	6. SparkyPlane (1:3)<br>
-	9. Miniongalcon (1:1)<br>
-	10. Dragonscife (1:1)<br>
-<br>
-100. #Franciturci (1066) 0<br>
+99. #Franciturci (1066) 0<br>
 +29|+21|+10|+13|+10|+8<br>
 <br>
-101. #Kaborage (1065) 0<br>
-+51|+49|+39|+32|+15|0|+5|+3<br>
+100. #Kaborage (1065) 0<br>
++51|+49|+38|+32|+15|0|+5|+3<br>
 	1. Buff-Plunts (1:2)<br>
 	4. aKatsuki808 (0:1)<br>
 	5. croissant (0:2)<br>
 	8. TankWar2 (1:1)<br>
 	9. Miniongalcon (0:1)<br>
 <br>
-102. #Minny (1065) -2<br>
-+40|+31|+29|+31|+24|+11|+4|+4|+2|+1<br>
-	2. MadDookie (0:4)<br>
-	5. croissant (0:2)<br>
-	6. SparkyPlane (10:14)<br>
-	7. Pyroraptor (1:2)<br>
-	9. Miniongalcon (2:7)<br>
-	10. Dragonscife (0:7)<br>
+101. #Rick- (1065) -1<br>
++43|+27|+15|+6|-2<br>
+	1. Buff-Plunts (1:2)<br>
+	2. MadDookie (3:2)<br>
+	3. AppleDragon (3:6)<br>
+	4. aKatsuki808 (4:3)<br>
+	5. croissant (2:3)<br>
+	6. Pyroraptor (1:0)<br>
+	8. TankWar2 (4:3)<br>
+	9. Miniongalcon (2:1)<br>
 <br>
-103. #Vendetta. (1065) 0<br>
+102. #Vendetta. (1065) 0<br>
 +17|+8<br>
 	2. MadDookie (6:6)<br>
 	3. AppleDragon (7:13)<br>
@@ -688,39 +682,37 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (0:1)<br>
 	9. Miniongalcon (1:0)<br>
 <br>
-104. #ausdiemaus67 (1064) 0<br>
-+23|+17|+13|+4|+2|-4|-9|-8|-4|+2<br>
-	3. AppleDragon (1:2)<br>
-	4. aKatsuki808 (0:1)<br>
-	5. croissant (0:1)<br>
-	6. SparkyPlane (4:5)<br>
-	8. TankWar2 (0:3)<br>
-<br>
-105. #jacks0nh0le (1064) 0<br>
-+74|+54|+37|+30|+28|+17|+11|+9|+4|+1<br>
-	7. Pyroraptor (0:1)<br>
-<br>
-106. #BraveTater (1064) 0<br>
-+44|+35|+20|+8|+2|0|-1<br>
-	2. MadDookie (3:5)<br>
-	3. AppleDragon (0:13)<br>
-	4. aKatsuki808 (1:10)<br>
-	5. croissant (2:5)<br>
-	7. Pyroraptor (0:1)<br>
-	8. TankWar2 (0:2)<br>
-	9. Miniongalcon (0:2)<br>
-<br>
-107. #miomonster (1063) -1<br>
-+17|+11|+7|-3|-6|-20|-25|-27|+2|-2<br>
+103. #miomonster (1065) +1<br>
++18|+12|+8|-1|-5|-19|-24|-25|+3|-1<br>
 	1. Buff-Plunts (1:2)<br>
 	2. MadDookie (3:2)<br>
 	3. AppleDragon (2:8)<br>
-	5. croissant (1:0)<br>
+	5. croissant (2:2)<br>
 	8. TankWar2 (0:1)<br>
 	9. Miniongalcon (1:2)<br>
 <br>
-108. #GenBelIblis (1063) 0<br>
-+14|+7|+1|-2|+3|+7|+3|+6|-1|0<br>
+104. #jacks0nh0le (1064) 0<br>
++75|+55|+37|+30|+29|+17|+12|+10|+4|+1<br>
+	6. Pyroraptor (0:1)<br>
+<br>
+105. #ausdiemaus67 (1062) -2<br>
++21|+15|+11|+2|0|-6|-11|-10|-5|0<br>
+	3. AppleDragon (1:2)<br>
+	4. aKatsuki808 (0:1)<br>
+	5. croissant (0:1)<br>
+	7. SparkyPlane (4:5)<br>
+	8. TankWar2 (0:3)<br>
+<br>
+106. #starfleet (1062) +1<br>
++21|+26|+12|+10|+15|+14|+16|+9|+4|+3<br>
+	3. AppleDragon (1:0)<br>
+	6. Pyroraptor (0:1)<br>
+	8. TankWar2 (0:2)<br>
+	9. Miniongalcon (1:0)<br>
+	10. Dragonscife (0:2)<br>
+<br>
+107. #GenBelIblis (1062) -1<br>
++13|+6|0|-3|+2|+6|+2|+5|-2|-1<br>
 	2. MadDookie (1:4)<br>
 	3. AppleDragon (0:4)<br>
 	4. aKatsuki808 (3:11)<br>
@@ -728,14 +720,23 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (3:7)<br>
 	9. Miniongalcon (1:0)<br>
 <br>
+108. #MagnusWH40K (1062) -5<br>
++1|+5|+7|+7|+5|+5|+4|+9|+2|-5<br>
+	3. AppleDragon (1:1)<br>
+	5. croissant (1:0)<br>
+	7. SparkyPlane (0:1)<br>
+	9. Miniongalcon (1:1)<br>
+	10. Dragonscife (1:1)<br>
+<br>
 109. #Willjax (1062) 0<br>
 -2|-2|-3|-6|-8|-8|-7|-8|-7|-3<br>
 	8. TankWar2 (0:2)<br>
 <br>
-110. #MrFahd (1061) +2<br>
-+74|+54|+39|+30|+13|+7|+3|+2<br>
-	7. Pyroraptor (0:1)<br>
-	10. Dragonscife (0:1)<br>
+110. #bmvj (1061) +2<br>
++19|+15|+10|+16|+11|+7|+7|+5|0|+2<br>
+	5. croissant (1:1)<br>
+	7. SparkyPlane (0:1)<br>
+	10. Dragonscife (0:6)<br>
 <br>
 111. #nazia13 (1061) 0<br>
 -7|-6|-5|-2|+8|+10|-2|-8|-9|-4<br>
@@ -744,22 +745,7 @@ Recent win rates against top 10 over the past 21 days<br>
 	9. Miniongalcon (1:1)<br>
 	10. Dragonscife (1:3)<br>
 <br>
-112. #starfleet (1061) +2<br>
-+20|+24|+11|+8|+13|+12|+14|+7|+3|+2<br>
-	3. AppleDragon (1:0)<br>
-	7. Pyroraptor (0:1)<br>
-	8. TankWar2 (0:2)<br>
-	9. Miniongalcon (1:0)<br>
-	10. Dragonscife (0:2)<br>
-<br>
-113. #Satan_NMMNG (1061) 0<br>
-+12<br>
-	1. Buff-Plunts (0:6)<br>
-	7. Pyroraptor (3:2)<br>
-	8. TankWar2 (2:2)<br>
-	9. Miniongalcon (0:1)<br>
-<br>
-114. #LukeDecanus (1060) 0<br>
+112. #LukeDecanus (1060) 0<br>
 -17|-18|-14|-12|-11|-6|-9|-7|+3|-1<br>
 	2. MadDookie (0:2)<br>
 	3. AppleDragon (2:6)<br>
@@ -768,7 +754,17 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (0:1)<br>
 	9. Miniongalcon (1:0)<br>
 <br>
-115. #oPs_0ps (1060) -2<br>
+113. #jimjon (1060) +1<br>
++36|+15|+4<br>
+	6. Pyroraptor (0:1)<br>
+	9. Miniongalcon (1:0)<br>
+<br>
+114. #MrFahd (1060) -1<br>
++73|+53|+38|+29|+12|+6|+2|+1<br>
+	6. Pyroraptor (0:1)<br>
+	10. Dragonscife (0:1)<br>
+<br>
+115. #oPs_0ps (1060) 0<br>
 +31|+25|+28|+21|+16|+17|+9|+7|-1|0<br>
 	2. MadDookie (0:2)<br>
 	3. AppleDragon (2:3)<br>
@@ -777,29 +773,31 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (3:9)<br>
 	9. Miniongalcon (1:0)<br>
 <br>
-116. #HRH_Vespa (1059) 0<br>
+116. #Satan_NMMNG (1059) -1<br>
++11<br>
+	1. Buff-Plunts (0:6)<br>
+	6. Pyroraptor (3:2)<br>
+	8. TankWar2 (2:2)<br>
+	9. Miniongalcon (0:1)<br>
+<br>
+117. #HRH_Vespa (1059) 0<br>
 +10<br>
 <br>
-117. #BentFlag~122 (1059) 0<br>
+118. #BentFlag~122 (1059) 0<br>
 +2|-7|-4|-2|-4|-2|+1|+1|+1|+3<br>
 	5. croissant (1:3)<br>
-	6. SparkyPlane (1:5)<br>
-	7. Pyroraptor (2:3)<br>
+	6. Pyroraptor (2:3)<br>
+	7. SparkyPlane (1:3)<br>
 <br>
-118. #jimjon (1059) 0<br>
-+35|+14|+3<br>
-	7. Pyroraptor (0:1)<br>
-	9. Miniongalcon (1:0)<br>
-<br>
-119. #A_Skiller (1059) -2<br>
+119. #A_Skiller (1059) 0<br>
 +73|+63|+44|+34|+25|+19|+11|+12|+8|+2<br>
 	1. Buff-Plunts (5:5)<br>
-	2. MadDookie (5:20)<br>
-	3. AppleDragon (4:21)<br>
+	2. MadDookie (5:17)<br>
+	3. AppleDragon (4:20)<br>
 	4. aKatsuki808 (0:3)<br>
-	5. croissant (4:5)<br>
-	6. SparkyPlane (1:0)<br>
-	8. TankWar2 (11:19)<br>
+	5. croissant (4:4)<br>
+	7. SparkyPlane (1:0)<br>
+	8. TankWar2 (10:19)<br>
 	9. Miniongalcon (1:4)<br>
 <br>
 120. #Mimicry (1059) 0<br>
@@ -807,138 +805,147 @@ Recent win rates against top 10 over the past 21 days<br>
 	1. Buff-Plunts (1:3)<br>
 	2. MadDookie (0:2)<br>
 	3. AppleDragon (0:4)<br>
-	7. Pyroraptor (0:3)<br>
+	6. Pyroraptor (0:3)<br>
 	8. TankWar2 (1:0)<br>
 	9. Miniongalcon (2:0)<br>
 <br>
-121. #bmvj (1059) +8<br>
-+14|+17|+13|+8|+14|+9|+5|+5|+3<br>
-	6. SparkyPlane (0:1)<br>
-	10. Dragonscife (0:6)<br>
-<br>
-122. #Bafoon (1058) 0<br>
+121. #Bafoon (1058) 0<br>
 +7<br>
 	4. aKatsuki808 (1:3)<br>
 <br>
-123. #MelCol (1058) 0<br>
+122. #MelCol (1058) 0<br>
 +1|-3|-1|-1|+2|-7|-14|-14|-10|-3<br>
 	5. croissant (0:2)<br>
-	7. Pyroraptor (1:1)<br>
+	6. Pyroraptor (1:1)<br>
 	9. Miniongalcon (0:2)<br>
 <br>
-124. #coaltrain (1057) 0<br>
-+15|+21|+18|+19|+10|+6|+5|-4|-1|-2<br>
-	6. SparkyPlane (3:2)<br>
-	7. Pyroraptor (0:2)<br>
+123. #coaltrain (1057) -1<br>
++14|+20|+17|+18|+9|+5|+4|-5|-1|-2<br>
+	6. Pyroraptor (0:2)<br>
+	7. SparkyPlane (3:2)<br>
 	9. Miniongalcon (0:3)<br>
 	10. Dragonscife (2:1)<br>
 <br>
-125. #KryOEFor (1056) 0<br>
+124. #KryOEFor (1056) 0<br>
 +1|-14|-13|-17|-10|+7|-1|+2|+1<br>
 	10. Dragonscife (0:1)<br>
 <br>
-126. #duvanos (1055) 0<br>
--3|-4|0|+1|+8|+5|+11|+10|+4|0<br>
+125. #SnatchWeasel (1055) +8<br>
++52|+48|+52|+39|+29|+28|+20|+13|+10|0<br>
+	1. Buff-Plunts (3:5)<br>
+	2. MadDookie (6:13)<br>
+	3. AppleDragon (6:12)<br>
+	4. aKatsuki808 (5:9)<br>
+	5. croissant (4:8)<br>
+	6. Pyroraptor (1:1)<br>
+	7. SparkyPlane (1:2)<br>
+	8. TankWar2 (4:5)<br>
+	9. Miniongalcon (2:2)<br>
+<br>
+126. #hugepope2137 (1055) +1<br>
++17|+12|+23|+19|+26|+15|+17|+9|+12|+7<br>
+	6. Pyroraptor (1:0)<br>
+	7. SparkyPlane (2:1)<br>
+<br>
+127. #mae_1 (1055) +7<br>
++19|+21|+25|+21|+13|+13|+15|+6|+8|+1<br>
+	1. Buff-Plunts (1:3)<br>
+	2. MadDookie (3:5)<br>
+	3. AppleDragon (2:8)<br>
+	4. aKatsuki808 (0:4)<br>
+	5. croissant (1:2)<br>
+	6. Pyroraptor (1:4)<br>
+	7. SparkyPlane (2:3)<br>
+	8. TankWar2 (1:6)<br>
+	9. Miniongalcon (0:1)<br>
+	10. Dragonscife (4:1)<br>
+<br>
+128. #ThinBear~920 (1055) +5<br>
++56|+49|+51|+50|+45|+37|+23|+18|+15|+3<br>
+	7. SparkyPlane (5:3)<br>
+	9. Miniongalcon (1:1)<br>
+	10. Dragonscife (0:1)<br>
+<br>
+129. #duvanos (1054) 0<br>
+-3|-4|0|+1|+8|+4|+11|+10|+3|-1<br>
 	1. Buff-Plunts (0:7)<br>
 	2. MadDookie (0:1)<br>
 	3. AppleDragon (2:7)<br>
 	4. aKatsuki808 (0:1)<br>
 	5. croissant (1:5)<br>
-	6. SparkyPlane (0:3)<br>
-	8. TankWar2 (1:7)<br>
+	7. SparkyPlane (0:3)<br>
+	8. TankWar2 (0:3)<br>
 <br>
-127. #hugepope2137 (1054) 0<br>
-+16|+12|+22|+18|+25|+14|+16|+8|+11|+6<br>
-	6. SparkyPlane (2:1)<br>
-	7. Pyroraptor (1:0)<br>
-<br>
-128. #mr.django (1052) -1<br>
-+31|+26|+21|+24|+11|+8|+2|-1|-2|+2<br>
+130. #mr.django (1054) +1<br>
++33|+27|+22|+26|+13|+9|+4|0|-1|+3<br>
 	1. Buff-Plunts (3:5)<br>
-	2. MadDookie (4:11)<br>
-	3. AppleDragon (8:10)<br>
+	2. MadDookie (4:12)<br>
+	3. AppleDragon (9:10)<br>
 	4. aKatsuki808 (1:6)<br>
 	5. croissant (3:5)<br>
 	8. TankWar2 (3:15)<br>
 	9. Miniongalcon (1:0)<br>
 <br>
-129. #icomeinpeece (1052) 0<br>
+131. #icomeinpeece (1052) 0<br>
 -5|-11|-15|-16|-13|-7|-10|-1|+1|0<br>
 	9. Miniongalcon (0:4)<br>
 <br>
-130. #asali (1051) 0<br>
-+48|+43|+26|+25|+18|+9|+2<br>
+132. #gONe_vortEX (1051) +1<br>
++39|+19|+16|+10|+6<br>
+	6. Pyroraptor (0:1)<br>
+	9. Miniongalcon (0:3)<br>
 <br>
-131. #Guacninja (1051) 0<br>
+133. #Guacninja (1051) 0<br>
 +42|+39|+32|+25|+21|+7|+8|+8|+3|+1<br>
 	2. MadDookie (0:1)<br>
 	3. AppleDragon (0:7)<br>
 	4. aKatsuki808 (1:3)<br>
 	5. croissant (1:1)<br>
 <br>
-132. #gone_vortex (1050) -1<br>
-+38|+18|+15|+9|+5<br>
-	7. Pyroraptor (0:1)<br>
-	9. Miniongalcon (0:3)<br>
-<br>
-133. #Gengar (1050) 0<br>
-+19|+21|+21|+20|+19|+15|+12|+8|+10|+3<br>
+134. #Gengar (1050) 0<br>
++19|+21|+21|+20|+19|+15|+12|+7|+10|+3<br>
 	2. MadDookie (1:2)<br>
 	3. AppleDragon (2:1)<br>
 	5. croissant (0:1)<br>
-	6. SparkyPlane (1:1)<br>
+	7. SparkyPlane (1:1)<br>
 	9. Miniongalcon (1:2)<br>
 <br>
-134. #ThinBear~920 (1049) -1<br>
-+51|+44|+45|+44|+40|+31|+17|+12|+10|-3<br>
-	6. SparkyPlane (5:3)<br>
-	9. Miniongalcon (1:1)<br>
-	10. Dragonscife (0:1)<br>
+135. #Snech (1049) 0<br>
++26|+21|+11|0|-5|+3|+2|+2|-1|+2<br>
 <br>
-135. #MagicGum (1049) -4<br>
--11|-3|-3|+1|-1|+3|-1|-2|0|-3<br>
+136. #panadool (1048) -4<br>
+-25|-29|-26|-26|-26|-19|-18|-12|-6|-3<br>
+	2. MadDookie (0:3)<br>
+	3. AppleDragon (0:1)<br>
+	5. croissant (0:3)<br>
+	7. SparkyPlane (1:2)<br>
+	9. Miniongalcon (1:1)<br>
+	10. Dragonscife (1:1)<br>
+<br>
+137. #MagicGum (1048) -1<br>
+-12|-4|-4|0|-2|+1|-2|-3|-1|-4<br>
 	1. Buff-Plunts (0:2)<br>
 	2. MadDookie (0:4)<br>
 	3. AppleDragon (0:7)<br>
 	4. aKatsuki808 (2:13)<br>
 	5. croissant (0:2)<br>
-	7. Pyroraptor (1:0)<br>
+	6. Pyroraptor (1:0)<br>
 	8. TankWar2 (0:5)<br>
 	9. Miniongalcon (2:2)<br>
 	10. Dragonscife (3:8)<br>
 <br>
-136. #Snech (1049) 0<br>
-+26|+21|+11|0|-5|+3|+2|+2|-1|+2<br>
-<br>
-137. #mae_1 (1048) +2<br>
-+25|+12|+14|+18|+14|+6|+6|+7|-1|+1<br>
-	1. Buff-Plunts (1:3)<br>
-	2. MadDookie (2:5)<br>
-	3. AppleDragon (2:11)<br>
-	4. aKatsuki808 (0:4)<br>
-	5. croissant (1:3)<br>
-	6. SparkyPlane (1:1)<br>
-	7. Pyroraptor (1:4)<br>
-	8. TankWar2 (1:7)<br>
-	9. Miniongalcon (0:1)<br>
-	10. Dragonscife (4:1)<br>
-<br>
-138. #BDES (1047) -4<br>
+138. #BDES (1047) 0<br>
 +9|+13|+8|+3|+7|+3|+1|-6|-3|-2<br>
 	1. Buff-Plunts (1:2)<br>
 	3. AppleDragon (1:4)<br>
 <br>
-139. #SnatchWeasel (1047) +7<br>
-+39|+43|+40|+43|+31|+21|+20|+11|+4|+2<br>
-	1. Buff-Plunts (3:4)<br>
-	2. MadDookie (6:11)<br>
-	3. AppleDragon (4:12)<br>
-	4. aKatsuki808 (5:9)<br>
-	5. croissant (4:7)<br>
-	6. SparkyPlane (1:2)<br>
-	7. Pyroraptor (1:1)<br>
-	8. TankWar2 (4:5)<br>
-	9. Miniongalcon (2:2)<br>
+139. #disguise (1045) +1<br>
+0|-1<br>
+	2. MadDookie (0:1)<br>
+	4. aKatsuki808 (3:1)<br>
+	5. croissant (0:1)<br>
+	8. TankWar2 (0:1)<br>
+	9. Miniongalcon (0:1)<br>
 <br>
 140. #Chicken- (1044) 0<br>
 +71|+76|+79|+76|+83|+84|+52|+21|+8|-3<br>
@@ -947,116 +954,115 @@ Recent win rates against top 10 over the past 21 days<br>
 	3. AppleDragon (0:4)<br>
 	4. aKatsuki808 (0:12)<br>
 	5. croissant (0:3)<br>
-	6. SparkyPlane (0:1)<br>
-	8. TankWar2 (1:4)<br>
-	10. Dragonscife (1:0)<br>
+	7. SparkyPlane (0:1)<br>
+	8. TankWar2 (1:3)<br>
 <br>
 141. #WigglyTater~864 (1044) 0<br>
 +23|+28|+9|+9<br>
-	6. SparkyPlane (1:2)<br>
+	7. SparkyPlane (1:2)<br>
 <br>
-142. #disguise (1043) +8<br>
--1<br>
-	2. MadDookie (0:1)<br>
-	4. aKatsuki808 (3:1)<br>
-	5. croissant (0:1)<br>
-	8. TankWar2 (0:1)<br>
-	9. Miniongalcon (0:1)<br>
+142. #Tempo12 (1043) +3<br>
++11|+11|+6<br>
+	2. MadDookie (1:2)<br>
+	3. AppleDragon (1:7)<br>
+	4. aKatsuki808 (4:9)<br>
+	5. croissant (1:1)<br>
+	8. TankWar2 (2:7)<br>
 <br>
 143. #creaky2 (1042) 0<br>
 +18|+14|+2|-4|-8|-11|-5|-3|-3|-3<br>
 	5. croissant (1:0)<br>
 	10. Dragonscife (0:4)<br>
 <br>
-144. #gmclarty (1041) -1<br>
--16|-20|-20|-25|-18|-21|-18|-18|-16|-1<br>
-	6. SparkyPlane (0:1)<br>
+144. #PursuitOfPow (1041) +7<br>
++26|+22|+30|+24|+25|+20|+13|+11|+8|+6<br>
+	5. croissant (1:1)<br>
+	6. Pyroraptor (3:1)<br>
+	7. SparkyPlane (5:5)<br>
+	10. Dragonscife (3:5)<br>
+<br>
+145. #gmclarty (1040) 0<br>
+-17|-21|-21|-26|-19|-21|-19|-18|-16|-1<br>
+	7. SparkyPlane (0:1)<br>
 	10. Dragonscife (0:2)<br>
 <br>
-145. #Pointblank (1041) -1<br>
-+40|+35|+34|+36|+36|+31|+20|+13|+1|0<br>
+146. #Pointblank (1040) -1<br>
++40|+34|+34|+36|+36|+30|+20|+13|+1|0<br>
 	4. aKatsuki808 (1:0)<br>
-	6. SparkyPlane (1:0)<br>
+	7. SparkyPlane (1:0)<br>
 	10. Dragonscife (1:0)<br>
 <br>
-146. #Tempo12 (1040) +1<br>
-+8|+8|+3<br>
-	2. MadDookie (1:2)<br>
-	3. AppleDragon (1:7)<br>
-	4. aKatsuki808 (3:9)<br>
-	5. croissant (1:0)<br>
-	8. TankWar2 (2:7)<br>
+147. #fani.22 (1040) 0<br>
+-23|-24|-25|-20|-13|+1|+1|-9|-6|-2<br>
+	6. Pyroraptor (1:1)<br>
 <br>
-147. #BlueApple~206 (1040) 0<br>
-+15|+9|+4|+5|+1|+5|-1|+3|+5|+4<br>
-	6. SparkyPlane (0:1)<br>
-	7. Pyroraptor (0:1)<br>
+148. #_Marik_ (1040) +2<br>
++17|+8<br>
+	3. AppleDragon (2:4)<br>
+	8. TankWar2 (0:2)<br>
+	9. Miniongalcon (1:0)<br>
+<br>
+149. #Ammin (1040) +5<br>
++56|+51|+48|+42|+47|+31|+20|+11|+9|+4<br>
+	1. Buff-Plunts (2:3)<br>
+	2. MadDookie (5:12)<br>
+	3. AppleDragon (4:20)<br>
+	4. aKatsuki808 (5:12)<br>
+	5. croissant (2:3)<br>
+	7. SparkyPlane (2:3)<br>
+	8. TankWar2 (5:8)<br>
+	9. Miniongalcon (2:7)<br>
+<br>
+150. #BlueApple~206 (1039) -1<br>
++15|+8|+3|+4|0|+4|-1|+2|+4|+4<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (0:1)<br>
 	9. Miniongalcon (0:1)<br>
 <br>
-148. #fani.22 (1040) 0<br>
--23|-24|-25|-20|-13|+1|+1|-9|-6|-2<br>
-	7. Pyroraptor (1:1)<br>
-<br>
-149. #alsayri (1039) -1<br>
+151. #alsayri (1039) 0<br>
 -11|-10|-9|-4|0|+4|+10|+1|-7|-5<br>
 	2. MadDookie (0:5)<br>
-	8. TankWar2 (1:7)<br>
+	8. TankWar2 (0:7)<br>
 <br>
-150. #tiredguy (1038) 0<br>
+152. #tiredguy (1038) 0<br>
 +1<br>
 	2. MadDookie (2:1)<br>
 	3. AppleDragon (4:3)<br>
 	5. croissant (1:1)<br>
 <br>
-151. #iawai (1038) +1<br>
+153. #iawai (1038) 0<br>
 +14|+11|+12|+13|+17|+21|+18|+19|+8|+1<br>
-	7. Pyroraptor (2:1)<br>
+	6. Pyroraptor (2:1)<br>
 <br>
-152. #CaptainCrook (1038) 0<br>
-+5|+3|+2|+5|+2|-1|-6|-6|+1|0<br>
+154. #ShinyHam~965 (1036) +16<br>
++4<br>
+	5. croissant (0:1)<br>
+	7. SparkyPlane (2:0)<br>
+<br>
+155. #darth_jesse (1036) 0<br>
++29|+33|+41|+34|+30|+13|+8|+9|+8|0<br>
+	5. croissant (0:1)<br>
+	7. SparkyPlane (1:2)<br>
+	9. Miniongalcon (1:2)<br>
+	10. Dragonscife (11:9)<br>
+<br>
+156. #Neehor (1035) 0<br>
++23|+7|-3|+2<br>
+	7. SparkyPlane (0:1)<br>
+<br>
+157. #CaptainCrook (1034) -4<br>
+0|-2|+2|-2|-5|-10|-10|-3|-4|-1<br>
 	3. AppleDragon (1:2)<br>
 	4. aKatsuki808 (2:3)<br>
 	5. croissant (0:2)<br>
 	9. Miniongalcon (0:2)<br>
-<br>
-153. #_Marik_ (1037) +24<br>
-+15|+6<br>
-	3. AppleDragon (2:4)<br>
-	8. TankWar2 (0:2)<br>
-	9. Miniongalcon (1:0)<br>
-<br>
-154. #DryBrush~687 (1036) 0<br>
-<br>
-	3. AppleDragon (7:3)<br>
-<br>
-155. #darth_jesse (1036) 0<br>
-+28|+33|+41|+33|+29|+13|+8|+9|+8|0<br>
-	5. croissant (0:1)<br>
-	6. SparkyPlane (1:2)<br>
-	9. Miniongalcon (1:2)<br>
-	10. Dragonscife (11:9)<br>
-<br>
-156. #Neehor (1035) +3<br>
-+23|+7|-3|+2<br>
-	6. SparkyPlane (0:1)<br>
-<br>
-157. #Ammin (1035) -1<br>
-+51|+46|+43|+37|+42|+26|+15|+6|+4|-1<br>
-	1. Buff-Plunts (2:3)<br>
-	2. MadDookie (5:13)<br>
-	3. AppleDragon (5:24)<br>
-	4. aKatsuki808 (4:10)<br>
-	5. croissant (2:3)<br>
-	6. SparkyPlane (2:3)<br>
-	8. TankWar2 (6:8)<br>
-	9. Miniongalcon (2:7)<br>
 <br>
 158. #XAustinX1 (1034) 0<br>
 +27|+20|+20|+15|+15|+8<br>
 	1. Buff-Plunts (0:1)<br>
 	2. MadDookie (0:1)<br>
 	4. aKatsuki808 (1:1)<br>
-	6. SparkyPlane (0:4)<br>
+	7. SparkyPlane (0:4)<br>
 	8. TankWar2 (1:4)<br>
 <br>
 159. #K.D. (1034) 0<br>
@@ -1069,104 +1075,105 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (1:8)<br>
 	10. Dragonscife (2:1)<br>
 <br>
-160. #PursuitOfPow (1034) -2<br>
-+18|+14|+23|+16|+18|+13|+6|+3|0|-1<br>
-	5. croissant (1:1)<br>
-	6. SparkyPlane (5:5)<br>
-	7. Pyroraptor (3:1)<br>
-	10. Dragonscife (3:5)<br>
+160. #Morty- (1033) 0<br>
+<br>
 <br>
 161. #GiantStar~983 (1033) -1<br>
-+6|+6<br>
++6|+6|-1<br>
 <br>
-162. #Morty- (1033) +33<br>
-<br>
-<br>
-163. #Tyler- (1032) -3<br>
+162. #Tyler- (1032) 0<br>
 +8|-3<br>
 	1. Buff-Plunts (1:3)<br>
 	2. MadDookie (2:2)<br>
 	3. AppleDragon (4:6)<br>
 	4. aKatsuki808 (1:0)<br>
 	5. croissant (3:3)<br>
-	7. Pyroraptor (1:0)<br>
+	6. Pyroraptor (1:0)<br>
 	8. TankWar2 (5:3)<br>
 <br>
-164. #VNS700 (1032) +6<br>
+163. #VNS700 (1032) 0<br>
 +68|+57|+51|+48|+44|+32|+22|+21|+20|+5<br>
 	1. Buff-Plunts (1:0)<br>
 	5. croissant (0:1)<br>
 	8. TankWar2 (0:2)<br>
 	9. Miniongalcon (3:6)<br>
 <br>
-165. #gea (1032) 0<br>
+164. #gea (1032) 0<br>
 +33|+41|+27|+19|+15|+15|+6|-6<br>
 	3. AppleDragon (0:1)<br>
 <br>
-166. #TerryELMacho (1032) +57<br>
-+66|+53|+54|+55|+9<br>
-	3. AppleDragon (0:4)<br>
-	10. Dragonscife (0:2)<br>
-<br>
-167. #twinbudz (1031) -1<br>
-+31|+34|+36|+32|+30|+26|+20|+13|+7|+6<br>
-<br>
-168. #arviiid (1030) -1<br>
-+24|+14|+9|+8|+4|-4|-5|+3|+5|+2<br>
+165. #arviiid (1031) +2<br>
++16|+11|+10|+6|-2|-3|+4|+6|+4|+1<br>
 	4. aKatsuki808 (0:1)<br>
-	6. SparkyPlane (5:21)<br>
-	7. Pyroraptor (0:3)<br>
+	6. Pyroraptor (0:3)<br>
+	7. SparkyPlane (4:19)<br>
 	9. Miniongalcon (0:12)<br>
 <br>
-169. #GenghisCon (1028) +1<br>
+166. #twinbudz (1031) 0<br>
++31|+34|+36|+32|+30|+26|+20|+13|+7|+6<br>
+<br>
+167. #GenghisCon (1028) 0<br>
 +30|+44|+26|+24|+26|+11|0|-4<br>
 	2. MadDookie (1:1)<br>
 	3. AppleDragon (1:0)<br>
 	5. croissant (2:1)<br>
 	8. TankWar2 (0:1)<br>
 <br>
-170. #lello123 (1028) 0<br>
+168. #lello123 (1028) 0<br>
 +60|+66|+73|+75|+77|+86|+89|+91|+74|+38<br>
 	1. Buff-Plunts (0:1)<br>
-	2. MadDookie (1:9)<br>
-	3. AppleDragon (3:15)<br>
+	2. MadDookie (1:6)<br>
+	3. AppleDragon (3:14)<br>
 	4. aKatsuki808 (3:12)<br>
-	5. croissant (0:4)<br>
-	6. SparkyPlane (0:1)<br>
+	5. croissant (0:3)<br>
+	7. SparkyPlane (0:1)<br>
 	8. TankWar2 (2:7)<br>
 	9. Miniongalcon (0:7)<br>
 <br>
-171. #SadVest~463 (1027) 0<br>
-+16|+15|+13|+14|+13|+11|+6|+2|+1|-2<br>
-<br>
-172. #ShaggyMouse~162 (1027) 0<br>
+169. #ShaggyMouse~162 (1027) 0<br>
 -2<br>
 	5. croissant (2:1)<br>
 <br>
-173. #TheMafia (1027) -2<br>
--5|-6<br>
+170. #SadVest~463 (1027) 0<br>
++16|+15|+12|+14|+12|+10|+6|+2|+1|-3<br>
+<br>
+171. #SparkyHoppe~130 (1026) 0<br>
++3|+6<br>
+	5. croissant (0:1)<br>
+	7. SparkyPlane (0:3)<br>
+	10. Dragonscife (1:0)<br>
+<br>
+172. #TheMafia (1026) -1<br>
+-6|-8<br>
 	8. TankWar2 (0:2)<br>
 	9. Miniongalcon (0:6)<br>
 <br>
-174. #SparkyHoppe~130 (1026) 0<br>
-+3|+6<br>
-	5. croissant (0:1)<br>
-	6. SparkyPlane (0:3)<br>
-	10. Dragonscife (1:0)<br>
+173. #TerryELMacho (1025) -6<br>
++60|+47|+48|+49|+3|-4<br>
+	2. MadDookie (0:2)<br>
+	3. AppleDragon (0:4)<br>
+	10. Dragonscife (0:2)<br>
 <br>
-175. #BigUU (1026) 0<br>
-+7<br>
+174. #BigUU (1025) -1<br>
++6<br>
 	1. Buff-Plunts (0:1)<br>
 	2. MadDookie (1:1)<br>
 	3. AppleDragon (1:1)<br>
 	4. aKatsuki808 (0:2)<br>
 	5. croissant (3:2)<br>
-	6. SparkyPlane (1:0)<br>
+	7. SparkyPlane (1:0)<br>
 <br>
-176. #OhmSweetOhm (1025) 0<br>
-+6|-5|-1|+2|+3<br>
+175. #OhmSweetOhm (1024) -1<br>
++6|-6|-1|+1|+3<br>
 	3. AppleDragon (0:2)<br>
 	4. aKatsuki808 (0:3)<br>
+<br>
+176. #KrystalKing (1023) +6<br>
++18|+11|+4|+4|0<br>
+	3. AppleDragon (1:3)<br>
+	4. aKatsuki808 (0:5)<br>
+	5. croissant (1:2)<br>
+	8. TankWar2 (1:2)<br>
 <br>
 177. #RONAN-DESTRO (1023) 0<br>
 +28|+31|+21|+22|+18|+19|+9|+3|+3|+3<br>
@@ -1177,154 +1184,165 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (6:9)<br>
 	9. Miniongalcon (1:4)<br>
 <br>
-178. #jiyao (1023) +1<br>
--4|-7|-11|-3|-2|-3|-2|+4|-3|0<br>
-	5. croissant (3:3)<br>
+178. #jiyao (1023) 0<br>
+-4|-7|-11|-3|-2|-3|-3|+4|-3|-1<br>
+	5. croissant (3:4)<br>
 	10. Dragonscife (0:4)<br>
 <br>
 179. #Xi2103iX (1022) 0<br>
 +6|+39|+16|-1<br>
 	2. MadDookie (1:1)<br>
 	3. AppleDragon (0:3)<br>
-	7. Pyroraptor (1:0)<br>
+	6. Pyroraptor (1:0)<br>
 <br>
-180. #peachbear (1021) +1<br>
--1|+5|+7|+11|+17|+3|-5|-9|-2|-4<br>
-<br>
-181. #Glass- (1021) 0<br>
-+4|-16|-25|-18|+1<br>
-	7. Pyroraptor (1:1)<br>
-	8. TankWar2 (0:1)<br>
-	9. Miniongalcon (0:4)<br>
-<br>
-182. #stront01 (1021) 0<br>
-+9|+17|+22|+24|+24|+14|+6|+2<br>
+180. #stront01 (1022) +1<br>
++10|+18|+23|+26|+25|+16|+7|+3<br>
 	4. aKatsuki808 (1:3)<br>
 <br>
-183. #ALOS6ORA (1019) -8<br>
--2|0|-1|-8|-12|-1|-13|-15|-10|-8<br>
-	2. MadDookie (1:3)<br>
-	3. AppleDragon (1:7)<br>
+181. #peachbear (1021) 0<br>
+-1|+5|+7|+11|+17|+3|-5|-9|-2|-4<br>
+<br>
+182. #DeXie420 (1018) -1<br>
++6|0|-7|-6|-1<br>
+	3. AppleDragon (1:1)<br>
+	6. Pyroraptor (3:33)<br>
+<br>
+183. #ALOS6ORA (1018) -1<br>
+-3|-2|-3|-10|-14|-2|-15|-16|-12|-9<br>
+	2. MadDookie (0:2)<br>
+	3. AppleDragon (1:4)<br>
 	4. aKatsuki808 (0:5)<br>
 	8. TankWar2 (1:20)<br>
 <br>
-184. #bupkis (1019) -2<br>
--2|-4|+3|-7|-1|-2|-1<br>
-	4. aKatsuki808 (1:0)<br>
-	6. SparkyPlane (1:2)<br>
-	10. Dragonscife (0:1)<br>
-<br>
-185. #DeXie420 (1019) 0<br>
-+7|0|-7|-5<br>
-	1. Buff-Plunts (1:0)<br>
-	3. AppleDragon (1:1)<br>
-	7. Pyroraptor (3:33)<br>
-<br>
-186. #rapadaxa (1018) 0<br>
+184. #rapadaxa (1018) 0<br>
 -78|-84|-83|-77|-76|-74|-74|-84|-63|-9<br>
 	2. MadDookie (2:7)<br>
 	3. AppleDragon (8:9)<br>
 	8. TankWar2 (6:3)<br>
 <br>
-187. #LeLoFaDeL111 (1017) +4<br>
-+34|+46|+52|+51|+56|-5|+1|+6|+4<br>
+185. #thehurricane (1017) 0<br>
+0<br>
+	5. croissant (0:1)<br>
+<br>
+186. #bupkis (1016) -3<br>
+-5|-7|0|-10|-4|-6|-4<br>
+	4. aKatsuki808 (1:0)<br>
+	7. SparkyPlane (1:2)<br>
+	10. Dragonscife (0:1)<br>
+<br>
+187. #Glass- (1015) -5<br>
+-2|-21|-30|-23|-5<br>
+	6. Pyroraptor (1:1)<br>
+	8. TankWar2 (0:1)<br>
+	9. Miniongalcon (0:4)<br>
+<br>
+188. #OriginalCin (1015) 0<br>
++36|+17|+6|+5|+2|0|0|+6|+5|-2<br>
+	9. Miniongalcon (0:3)<br>
+<br>
+189. #PennyPenny (1015) 0<br>
++6<br>
+	10. Dragonscife (2:3)<br>
+<br>
+190. #LeLoFaDeL111 (1014) -3<br>
++31|+43|+49|+48|+53|-7|-2|+3|+1|-3<br>
 	1. Buff-Plunts (0:1)<br>
 	2. MadDookie (0:1)<br>
 	3. AppleDragon (0:4)<br>
 	4. aKatsuki808 (3:5)<br>
-	5. croissant (1:1)<br>
-	6. SparkyPlane (0:1)<br>
+	5. croissant (1:2)<br>
+	7. SparkyPlane (0:1)<br>
 	8. TankWar2 (0:2)<br>
 	9. Miniongalcon (0:1)<br>
 <br>
-188. #KrystalKing (1017) -3<br>
-+11|+5|-3|-3<br>
-	3. AppleDragon (1:3)<br>
-	4. aKatsuki808 (0:3)<br>
-	5. croissant (1:2)<br>
-	8. TankWar2 (1:2)<br>
-<br>
-189. #thehurricane (1017) +17<br>
-0<br>
-	5. croissant (0:1)<br>
-<br>
-190. #OriginalCin (1015) -3<br>
-+36|+17|+6|+6|+3|0|0|+7|+6|-1<br>
-	9. Miniongalcon (0:3)<br>
-<br>
-191. #PennyPenny (1015) +1<br>
-+6<br>
-	10. Dragonscife (2:3)<br>
-<br>
-192. #FARZard (1014) 0<br>
--3|-14|-15|-17|-19|-9|-6|-5|-3|0<br>
+191. #FARZard (1013) 0<br>
+-4|-14|-15|-17|-19|-9|-6|-6|-3|0<br>
 	5. croissant (0:2)<br>
 <br>
-193. #valeriocarre (1014) +1<br>
-+15|+13|+17|+15|+19|+21|+17|+13|+7|-1<br>
-	4. aKatsuki808 (1:1)<br>
-	6. SparkyPlane (1:1)<br>
-<br>
-194. #SaTaN11 (1013) 0<br>
+192. #SaTaN11 (1013) 0<br>
 +11|+11|+14|+3<br>
 	1. Buff-Plunts (1:2)<br>
-	2. MadDookie (2:3)<br>
+	2. MadDookie (3:4)<br>
 	5. croissant (0:1)<br>
 	8. TankWar2 (1:6)<br>
 <br>
-195. #JaggedKazoo~896 (1010) 0<br>
-+2<br>
-	6. SparkyPlane (0:6)<br>
+193. #valeriocarre (1012) -1<br>
++14|+11|+16|+14|+18|+19|+16|+11|+6|-3<br>
+	4. aKatsuki808 (1:1)<br>
+	7. SparkyPlane (1:1)<br>
 <br>
-196. #mattymate (1010) -2<br>
-+9|+13|-7|-1<br>
-	10. Dragonscife (0:2)<br>
+194. #mohNabil10 (1012) +4<br>
++26|+29|+33|+35|+32|+23|+22|+18|+15|+9<br>
+	4. aKatsuki808 (1:0)<br>
+	5. croissant (1:0)<br>
+	7. SparkyPlane (2:3)<br>
+	9. Miniongalcon (1:5)<br>
+<br>
+195. #Privat3 (1012) +7<br>
++21|+18|+24|+22|+20|+17|+12|+11|+7|+4<br>
+	2. MadDookie (1:3)<br>
+	3. AppleDragon (0:4)<br>
+	4. aKatsuki808 (0:2)<br>
+	5. croissant (4:5)<br>
+	7. SparkyPlane (2:2)<br>
+	8. TankWar2 (0:3)<br>
+	9. Miniongalcon (1:2)<br>
+<br>
+196. #JaggedKazoo~896 (1010) 0<br>
++2<br>
+	7. SparkyPlane (0:6)<br>
 <br>
 197. #Nova_1 (1009) 0<br>
 +1|+5|+12|+5|+2|+10|+6|+4|-2<br>
-	7. Pyroraptor (1:1)<br>
+	6. Pyroraptor (1:1)<br>
 	9. Miniongalcon (0:5)<br>
 <br>
-198. #Alex_Zver (1009) -19<br>
--3|-6|-13|-17|-1<br>
-	3. AppleDragon (1:4)<br>
-	9. Miniongalcon (1:1)<br>
-<br>
-199. #PANGEA (1009) 0<br>
+198. #PANGEA (1009) 0<br>
 +4|+4<br>
 	1. Buff-Plunts (1:3)<br>
 	2. MadDookie (0:2)<br>
 	3. AppleDragon (0:8)<br>
 	4. aKatsuki808 (1:1)<br>
 	5. croissant (0:2)<br>
-	8. TankWar2 (0:3)<br>
+	8. TankWar2 (0:2)<br>
 	9. Miniongalcon (0:4)<br>
 <br>
-200. #Ghazali (1008) 0<br>
+199. #Ghazali (1008) 0<br>
 +9|+9|+3<br>
 	3. AppleDragon (0:2)<br>
 	4. aKatsuki808 (0:1)<br>
 	5. croissant (0:1)<br>
 	8. TankWar2 (3:5)<br>
 <br>
-201. #mohNabil10 (1008) +1<br>
-+22|+25|+29|+32|+29|+20|+18|+14|+11|+5<br>
-	4. aKatsuki808 (1:0)<br>
-	6. SparkyPlane (2:3)<br>
-	9. Miniongalcon (1:5)<br>
+200. #ekt1 (1008) +2<br>
 <br>
-202. #SPARTANxRK (1008) -1<br>
-+7|+16|+20|+14|+13|+8|+5|+3|0|+1<br>
+<br>
+201. #neme (1008) 0<br>
+-21|-16|-14|-10|-10|-5|-4|-8|-8|-3<br>
+	9. Miniongalcon (0:1)<br>
+<br>
+202. #mattymate (1008) -2<br>
++7|+11|-10|-4<br>
+	10. Dragonscife (0:2)<br>
+<br>
+203. #J_Dawg99 (1008) +3<br>
++26|+23|+20|+14|+7|+7|+10|+8|+7|+3<br>
 	2. MadDookie (0:1)<br>
+	4. aKatsuki808 (0:1)<br>
+	8. TankWar2 (0:1)<br>
+<br>
+204. #SPARTANxRK (1008) 0<br>
++7|+16|+20|+14|+13|+8|+4|+3|0|+1<br>
 	4. aKatsuki808 (0:4)<br>
 	5. croissant (1:0)<br>
 	10. Dragonscife (2:2)<br>
 <br>
-203. #neme (1008) 0<br>
--21|-16|-14|-10|-10|-5|-4|-8|-8|-3<br>
-	9. Miniongalcon (0:1)<br>
+205. #Alex_Zver (1007) -2<br>
+-6|-9|-15|-20|-4<br>
+	3. AppleDragon (1:4)<br>
+	9. Miniongalcon (1:1)<br>
 <br>
-204. #PreBoom (1007) -2<br>
+206. #PreBoom (1007) 0<br>
 +10|+7|+6|+11|+10|+12|+3|+1|-5|+3<br>
 	1. Buff-Plunts (0:2)<br>
 	2. MadDookie (2:8)<br>
@@ -1334,83 +1352,73 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (0:1)<br>
 	9. Miniongalcon (0:6)<br>
 <br>
-205. #maaca (1006) 0<br>
-+32|+37|+24|+24|+13|+4<br>
+207. #john-difool (1005) 0<br>
++18|+23|+23|+23|+29|+27|+24|+21|+18|+5<br>
+<br>
+208. #maaca (1005) -1<br>
++31|+36|+23|+23|+12|+3<br>
 	9. Miniongalcon (0:1)<br>
 	10. Dragonscife (0:1)<br>
 <br>
-206. #john-difool (1005) 0<br>
-+18|+23|+23|+23|+29|+27|+24|+21|+18|+5<br>
-<br>
-207. #Privat3 (1005) 0<br>
-+16|+14|+11|+17|+15|+13|+10|+5|+4|0<br>
-	2. MadDookie (1:3)<br>
-	3. AppleDragon (0:4)<br>
-	4. aKatsuki808 (0:2)<br>
-	5. croissant (1:3)<br>
-	6. SparkyPlane (2:2)<br>
-	8. TankWar2 (0:3)<br>
-	9. Miniongalcon (1:2)<br>
-<br>
-208. #ii_AMBRA6OR (1004) -1<br>
--9|-14|-15|-15|-13|-10|-5|-6|-4|+3<br>
+209. #ii_AMBRA6OR (1004) 0<br>
+-14|-15|-15|-13|-10|-5|-7|-4|+3|-1<br>
 	2. MadDookie (1:1)<br>
 	3. AppleDragon (2:5)<br>
 	5. croissant (0:3)<br>
 	8. TankWar2 (0:2)<br>
 <br>
-209. #Klutzi (1003) 0<br>
--1<br>
-	1. Buff-Plunts (0:3)<br>
-	2. MadDookie (1:6)<br>
-	3. AppleDragon (1:9)<br>
-	4. aKatsuki808 (1:1)<br>
-	5. croissant (0:3)<br>
-	8. TankWar2 (0:2)<br>
-	10. Dragonscife (4:2)<br>
+210. #klebz1000 (1002) +1<br>
+-2|+5|+9|+7|-2|0|+1|-2|0|+4<br>
+	7. SparkyPlane (0:2)<br>
+	8. TankWar2 (0:1)<br>
 <br>
-210. #florihupf (1002) +2<br>
-0|+4|+4|+6|+8|+9|+5|-1|-1|-1<br>
+211. #T4FJER (1001) +6<br>
++1|+8<br>
+	6. Pyroraptor (0:1)<br>
+	9. Miniongalcon (2:1)<br>
+<br>
+212. #florihupf (999) -3<br>
+-3|+1|+1|+2|+5|+6|+2|-4|-4|-4<br>
 	2. MadDookie (0:1)<br>
-	6. SparkyPlane (0:2)<br>
-	8. TankWar2 (1:0)<br>
+	7. SparkyPlane (0:2)<br>
 	9. Miniongalcon (2:4)<br>
 	10. Dragonscife (3:9)<br>
 <br>
-211. #klebz1000 (1001) +1<br>
--3|+4|+8|+6|-3|-1|0|-3|-1|+4<br>
-	6. SparkyPlane (0:2)<br>
-	8. TankWar2 (0:1)<br>
-<br>
-212. #evilCherry2 (999) +2<br>
--5|-3|+4|+9|+11|+13|+8|+7|+5|+3<br>
-	6. SparkyPlane (0:5)<br>
-<br>
-213. #timogen (999) -2<br>
-+30|+16|+14|+10|+9|+11|+7|+8|+6|+4<br>
+213. #timogen (997) -1<br>
++15|+13|+9|+7|+9|+5|+7|+5|+3|-1<br>
 	1. Buff-Plunts (0:1)<br>
 	2. MadDookie (0:1)<br>
 	3. AppleDragon (0:3)<br>
 	8. TankWar2 (0:6)<br>
 	10. Dragonscife (1:2)<br>
 <br>
-214. #BlackGrass~617 (997) 0<br>
--2<br>
+214. #Brotstangen (997) +2<br>
++22|+14|+15|+14|+4|+5|+11|+1<br>
+	1. Buff-Plunts (0:1)<br>
+	2. MadDookie (0:4)<br>
+	5. croissant (0:1)<br>
+	6. Pyroraptor (0:1)<br>
+	10. Dragonscife (0:1)<br>
 <br>
-215. #mh_lb (996) 0<br>
+215. #evilCherry2 (996) -3<br>
+-6|+1|+6|+9|+10|+5|+4|+2|+1|0<br>
+	5. croissant (0:1)<br>
+	7. SparkyPlane (0:5)<br>
+<br>
+216. #mh_lb (996) 0<br>
 -35<br>
 	2. MadDookie (2:3)<br>
 	3. AppleDragon (0:2)<br>
 	5. croissant (0:1)<br>
 	9. Miniongalcon (1:0)<br>
 <br>
-216. #FurrySofa~805 (996) 0<br>
+217. #FurrySofa~805 (996) 0<br>
 -12|-7|-8<br>
 	1. Buff-Plunts (0:1)<br>
-	7. Pyroraptor (0:1)<br>
+	6. Pyroraptor (0:1)<br>
 	10. Dragonscife (0:4)<br>
 <br>
-217. #GoodAce (996) 0<br>
+218. #GoodAce (996) 0<br>
 +21|+9|-1<br>
 	1. Buff-Plunts (0:3)<br>
 	2. MadDookie (1:6)<br>
@@ -1419,89 +1427,70 @@ Recent win rates against top 10 over the past 21 days<br>
 	5. croissant (0:1)<br>
 	8. TankWar2 (1:4)<br>
 <br>
-218. #T4FJER (995) 0<br>
--5|+2<br>
-	7. Pyroraptor (0:1)<br>
-	9. Miniongalcon (2:1)<br>
-<br>
-219. #himo2548 (995) +1<br>
-0<br>
-	6. SparkyPlane (2:1)<br>
-	10. Dragonscife (0:1)<br>
-<br>
-220. #Brotstangen (995) 0<br>
-+20|+13|+14|+13|+3|+4|+9|0<br>
-	1. Buff-Plunts (0:1)<br>
-	2. MadDookie (0:4)<br>
-	5. croissant (0:1)<br>
-	7. Pyroraptor (0:1)<br>
-	10. Dragonscife (0:1)<br>
-<br>
-221. #covfefe (994) 0<br>
-+27|+18|+18|+22|+15|+14|+6|+4|-6|+1<br>
-	6. SparkyPlane (0:6)<br>
+219. #covfefe (995) +1<br>
++27|+19|+18|+23|+15|+15|+7|+5|-5|+2<br>
+	7. SparkyPlane (0:6)<br>
 	9. Miniongalcon (0:7)<br>
 	10. Dragonscife (2:2)<br>
 <br>
-222. #eagleye14963 (993) -2<br>
-+15|+3|0<br>
-	1. Buff-Plunts (3:5)<br>
-	2. MadDookie (0:3)<br>
-	3. AppleDragon (2:4)<br>
-	4. aKatsuki808 (0:2)<br>
-	8. TankWar2 (1:4)<br>
-<br>
-223. #CalmDownBro (993) +2<br>
-0<br>
-<br>
-224. #androidkill (993) 0<br>
-+7|+1|+5<br>
-	1. Buff-Plunts (0:1)<br>
-	2. MadDookie (1:0)<br>
-	3. AppleDragon (0:2)<br>
-	5. croissant (1:0)<br>
-	7. Pyroraptor (0:1)<br>
-	8. TankWar2 (1:2)<br>
-	9. Miniongalcon (0:1)<br>
-<br>
-225. #jeetu (992) -3<br>
-+1|-10|-7|-5|-13|-10|-2|-4|-6|-4<br>
-	1. Buff-Plunts (1:4)<br>
-	2. MadDookie (0:1)<br>
-	3. AppleDragon (0:13)<br>
-	4. aKatsuki808 (0:1)<br>
-	8. TankWar2 (0:6)<br>
-	9. Miniongalcon (1:7)<br>
-<br>
-226. #Ammar_N (991) 0<br>
--15|-14|-14|-9|-6|-14|-8|0|+1|0<br>
-	6. SparkyPlane (0:1)<br>
-	10. Dragonscife (2:3)<br>
-<br>
-227. #M-711 (991) -2<br>
-+5|+12|+5|-4|-5<br>
+220. #M-711 (994) +4<br>
++8|+16|+9|-1|-1|0<br>
 	1. Buff-Plunts (1:5)<br>
 	2. MadDookie (1:6)<br>
 	3. AppleDragon (0:6)<br>
 	5. croissant (1:7)<br>
-	6. SparkyPlane (2:1)<br>
+	7. SparkyPlane (1:0)<br>
 	8. TankWar2 (0:15)<br>
 	9. Miniongalcon (1:4)<br>
 <br>
-228. #nazgol (990) +2<br>
-+23|+17|+12|+9|+7|+10|+8|+6|+6|+1<br>
-	1. Buff-Plunts (0:3)<br>
-	4. aKatsuki808 (0:1)<br>
-	5. croissant (0:1)<br>
-	7. Pyroraptor (0:1)<br>
+221. #androidkill (993) +1<br>
++8|+1|+6<br>
+	1. Buff-Plunts (0:1)<br>
+	2. MadDookie (1:0)<br>
+	3. AppleDragon (0:2)<br>
+	5. croissant (1:0)<br>
+	6. Pyroraptor (0:1)<br>
+	8. TankWar2 (1:2)<br>
+	9. Miniongalcon (0:1)<br>
 <br>
-229. #MeDaRA24 (990) 0<br>
+222. #UnWanted (993) -3<br>
+-2<br>
+	4. aKatsuki808 (0:2)<br>
+	5. croissant (0:3)<br>
+	7. SparkyPlane (0:1)<br>
+	8. TankWar2 (1:3)<br>
+<br>
+223. #himo2548 (992) -3<br>
+-3<br>
+	7. SparkyPlane (2:1)<br>
+	10. Dragonscife (0:1)<br>
+<br>
+224. #eagleye14963 (992) -1<br>
++13|+1|-1<br>
+	1. Buff-Plunts (3:5)<br>
+	2. MadDookie (0:3)<br>
+	3. AppleDragon (1:3)<br>
+	4. aKatsuki808 (0:2)<br>
+	8. TankWar2 (1:4)<br>
+<br>
+225. #Ammar_N (991) +1<br>
+-14|-13|-13|-9|-6|-13|-8|0|+1|+1<br>
+	7. SparkyPlane (0:1)<br>
+	10. Dragonscife (2:3)<br>
+<br>
+226. #TehGoldring (990) +1<br>
++4<br>
+	4. aKatsuki808 (0:1)<br>
+	5. croissant (0:2)<br>
+	8. TankWar2 (0:5)<br>
+<br>
+227. #MeDaRA24 (990) 0<br>
 -2|+6|+9|+6|+3|-3|-3|-10|-4|0<br>
 	3. AppleDragon (0:2)<br>
 	5. croissant (0:1)<br>
 	9. Miniongalcon (0:4)<br>
 <br>
-230. #ProAssaulter (990) +5<br>
+228. #ProAssaulter (990) 0<br>
 +2|+10<br>
 	1. Buff-Plunts (0:5)<br>
 	2. MadDookie (2:4)<br>
@@ -1509,28 +1498,45 @@ Recent win rates against top 10 over the past 21 days<br>
 	5. croissant (1:2)<br>
 	8. TankWar2 (0:3)<br>
 <br>
-231. #TehGoldring (989) +2<br>
-+3<br>
+229. #nazgol (990) 0<br>
++23|+17|+12|+9|+7|+10|+8|+5|+6|+1<br>
+	1. Buff-Plunts (0:3)<br>
 	4. aKatsuki808 (0:1)<br>
-	5. croissant (0:2)<br>
-	8. TankWar2 (0:5)<br>
+	5. croissant (0:1)<br>
+	6. Pyroraptor (0:1)<br>
 <br>
-232. #micklepickle (989) 0<br>
+230. #CalmDownBro (990) -3<br>
+-3<br>
+<br>
+231. #micklepickle (989) 0<br>
 +21|+30|+38|+32|+30|+19|+11|+2|-2<br>
 	1. Buff-Plunts (0:2)<br>
 	2. MadDookie (0:1)<br>
 	3. AppleDragon (0:1)<br>
 	9. Miniongalcon (0:3)<br>
 <br>
-233. #aziz__ (988) 0<br>
-+2|-2|-1|+1|+8|+9|+9|+7|+4|-1<br>
-	6. SparkyPlane (0:1)<br>
+232. #wizardtron (989) -1<br>
++1|+1|-6<br>
+	2. MadDookie (1:4)<br>
 <br>
-234. #StarFighterz (986) -1<br>
+233. #jeetu (988) -4<br>
+-14|-11|-9|-17|-14|-6|-8|-10|-8|-1<br>
+	1. Buff-Plunts (1:4)<br>
+	2. MadDookie (0:1)<br>
+	3. AppleDragon (0:13)<br>
+	4. aKatsuki808 (0:1)<br>
+	8. TankWar2 (0:6)<br>
+	9. Miniongalcon (1:7)<br>
+<br>
+234. #aziz__ (988) -1<br>
++1|-3|-2|+1|+7|+8|+8|+6|+4|-2<br>
+	7. SparkyPlane (0:1)<br>
+<br>
+235. #StarFighterz (986) 0<br>
 -23|-4|-6|-1|+3|-1<br>
-	6. SparkyPlane (0:5)<br>
+	7. SparkyPlane (0:5)<br>
 <br>
-235. #k7mar999 (985) -2<br>
+236. #k7mar999 (985) 0<br>
 +10|+6|-2<br>
 	1. Buff-Plunts (0:3)<br>
 	3. AppleDragon (1:2)<br>
@@ -1538,86 +1544,80 @@ Recent win rates against top 10 over the past 21 days<br>
 	5. croissant (1:2)<br>
 	8. TankWar2 (2:4)<br>
 <br>
-236. #PluckyFire~766 (985) 0<br>
-+9|+8|+3|0|-2|-6|-1|-4|-2|+1<br>
+237. #PluckyFire~766 (984) -1<br>
++8|+7|+3|-1|-3|-7|-2|-5|-2|0<br>
 	2. MadDookie (0:1)<br>
 	3. AppleDragon (0:5)<br>
-	6. SparkyPlane (2:1)<br>
-	7. Pyroraptor (0:1)<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (2:1)<br>
 	8. TankWar2 (1:1)<br>
 	9. Miniongalcon (1:0)<br>
 <br>
-237. #FierceErmin~768 (983) -1<br>
--32|-19|-12|-11|-22|-13|-6|-1|0|-4<br>
+238. #Mullich (984) +2<br>
+-7|+2<br>
+<br>
+239. #FierceErmin~768 (982) -1<br>
+-33|-20|-13|-11|-23|-14|-7|-2|-1|-5<br>
 	9. Miniongalcon (1:0)<br>
 	10. Dragonscife (0:2)<br>
 <br>
-238. #Mullich (982) 0<br>
--9|0<br>
+240. #ny220e (982) +4<br>
++7<br>
 <br>
-239. #Pancakes- (982) 0<br>
--26|-15|-16|-12|-10|-11|-11|-1<br>
-	2. MadDookie (0:1)<br>
-	4. aKatsuki808 (2:5)<br>
-	5. croissant (0:1)<br>
+241. #Pancakes- (981) -1<br>
+-27|-16|-17|-12|-11|-11|-12|-2|-1<br>
+	2. MadDookie (0:2)<br>
+	4. aKatsuki808 (2:7)<br>
+	5. croissant (0:3)<br>
 	8. TankWar2 (0:10)<br>
 	9. Miniongalcon (1:4)<br>
 	10. Dragonscife (0:1)<br>
 <br>
-240. #kelly46joey (981) 0<br>
--31|-29|-19|-13|-7|+3|+2<br>
-	4. aKatsuki808 (3:0)<br>
-	5. croissant (1:1)<br>
-	7. Pyroraptor (0:5)<br>
-	9. Miniongalcon (0:3)<br>
-<br>
-241. #mloooka (980) -1<br>
--5|-2|-9|-4|-9|-3|0<br>
-	1. Buff-Plunts (0:2)<br>
-	5. croissant (1:0)<br>
-	6. SparkyPlane (1:1)<br>
-	9. Miniongalcon (0:7)<br>
-<br>
-242. #Raffey (980) -1<br>
-+21|+18|+19|+17|+21|+20|+6|-3|+1|0<br>
-	2. MadDookie (1:0)<br>
-	3. AppleDragon (0:1)<br>
+242. #Raffey (981) +2<br>
++22|+20|+21|+18|+23|+21|+8|-2|+3|+1<br>
+	2. MadDookie (2:1)<br>
+	3. AppleDragon (1:1)<br>
 	4. aKatsuki808 (3:3)<br>
 	8. TankWar2 (1:4)<br>
 <br>
-243. #DubZz_23 (979) 0<br>
--13|-14|-3<br>
-	5. croissant (0:1)<br>
-	7. Pyroraptor (1:2)<br>
-	10. Dragonscife (2:12)<br>
+243. #mloooka (980) 0<br>
+-5|-2|-9|-4|-9|-3|0<br>
+	1. Buff-Plunts (0:2)<br>
+	5. croissant (1:0)<br>
+	7. SparkyPlane (1:1)<br>
+	9. Miniongalcon (0:7)<br>
 <br>
-244. #EntEmpire (979) 0<br>
-+10|+14|+13|+8|+10|+5|+2<br>
+244. #osama77 (979) +1<br>
+-13|-8|+3|+1<br>
+	4. aKatsuki808 (1:0)<br>
+	5. croissant (1:0)<br>
+<br>
+245. #EntEmpire (979) 0<br>
++10|+14|+13|+8|+10|+5|+1<br>
 	1. Buff-Plunts (1:2)<br>
 	2. MadDookie (0:1)<br>
 	3. AppleDragon (1:3)<br>
-	6. SparkyPlane (0:1)<br>
+	7. SparkyPlane (1:1)<br>
 	8. TankWar2 (0:3)<br>
 	9. Miniongalcon (1:4)<br>
 	10. Dragonscife (4:9)<br>
 <br>
-245. #AlexZ451 (979) 0<br>
+246. #AlexZ451 (979) 0<br>
 -9|-3|+7|+10|+10<br>
 	9. Miniongalcon (1:2)<br>
 <br>
-246. #osama77 (978) 0<br>
--14|-9|+2|0<br>
-	4. aKatsuki808 (1:0)<br>
-	5. croissant (1:0)<br>
-<br>
 247. #SquareCoffe~698 (978) 0<br>
 -36|-17|-5<br>
-	6. SparkyPlane (0:1)<br>
+	7. SparkyPlane (0:1)<br>
 	9. Miniongalcon (0:4)<br>
 	10. Dragonscife (0:2)<br>
 <br>
-248. #ny220e (978) 0<br>
-+3<br>
+248. #kelly46joey (978) -3<br>
+-34|-31|-22|-16|-10|0|-1<br>
+	4. aKatsuki808 (3:0)<br>
+	5. croissant (1:1)<br>
+	6. Pyroraptor (0:5)<br>
+	9. Miniongalcon (0:3)<br>
 <br>
 249. #kingthefall (978) 0<br>
 +2<br>
@@ -1629,78 +1629,82 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (0:2)<br>
 <br>
 250. #NOVA-Heftig (978) 0<br>
--12|-6|-4|0|+5|+1|-4|-1|-5|-1<br>
+-12|-6|-4|0|+5|+1|-4|-1|-6|-1<br>
 	1. Buff-Plunts (1:0)<br>
 	2. MadDookie (1:5)<br>
 	3. AppleDragon (2:9)<br>
 	4. aKatsuki808 (0:12)<br>
 	5. croissant (1:0)<br>
-	7. Pyroraptor (0:1)<br>
+	6. Pyroraptor (0:1)<br>
 	8. TankWar2 (3:10)<br>
 	9. Miniongalcon (1:1)<br>
 <br>
-251. #ciubaka (977) +3<br>
--6|-1|-1|-3|-2|-3|-1|+3|-3|-1<br>
-	6. SparkyPlane (0:4)<br>
-	7. Pyroraptor (0:1)<br>
-	9. Miniongalcon (0:7)<br>
-<br>
-252. #ClassyMoney~505 (977) -5<br>
--18|-13|-1<br>
-	6. SparkyPlane (1:1)<br>
-	9. Miniongalcon (0:2)<br>
-	10. Dragonscife (0:2)<br>
-<br>
-253. #B.lack (977) 0<br>
-+11|+18|+17|+18|+15|+16|+16|+16|+11|+5<br>
+251. #B.lack (977) +1<br>
++19|+18|+19|+16|+16|+17|+17|+11|+6|+1<br>
 	3. AppleDragon (0:3)<br>
 	10. Dragonscife (1:0)<br>
 <br>
-254. #alqahttani (976) -1<br>
-+13|+5|-2|-5|-2|-1|-2|-2|-3|-3<br>
+252. #ciubaka (977) 0<br>
+-6|-1|-1|-3|-2|-3|-1|+3|-3|-1<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (0:4)<br>
+	9. Miniongalcon (0:7)<br>
+<br>
+253. #ClassyMoney~505 (977) 0<br>
+-18|-13|-1<br>
+	7. SparkyPlane (1:1)<br>
+	9. Miniongalcon (0:2)<br>
+	10. Dragonscife (0:2)<br>
+<br>
+254. #DubZz_23 (976) -3<br>
+-16|-17|-6|-2<br>
+	5. croissant (0:1)<br>
+	6. Pyroraptor (1:2)<br>
+	10. Dragonscife (2:12)<br>
+<br>
+255. #alqahttani (976) 0<br>
++5|-2|-6|-2|-1|-2|-3|-3|-3|0<br>
 	1. Buff-Plunts (0:1)<br>
 	3. AppleDragon (0:3)<br>
-	6. SparkyPlane (0:3)<br>
+	7. SparkyPlane (0:3)<br>
 	9. Miniongalcon (0:3)<br>
 <br>
-255. #Orelious_IX (976) 0<br>
+256. #Orelious_IX (976) 0<br>
 -2|0<br>
 	9. Miniongalcon (0:1)<br>
 <br>
-256. #woody51 (976) -1<br>
+257. #woody51 (976) 0<br>
 -2|0|+4|0|-7|-6|0|+2<br>
 	5. croissant (2:1)<br>
-	6. SparkyPlane (0:5)<br>
-	7. Pyroraptor (0:1)<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (0:5)<br>
 <br>
-257. #himo124252 (975) 0<br>
+258. #himo124252 (975) 0<br>
 -8<br>
 	5. croissant (0:2)<br>
 	9. Miniongalcon (0:3)<br>
 <br>
-258. #Wuffkin (975) 0<br>
+259. #Wuffkin (975) 0<br>
 -5|-7|+1|+5<br>
-<br>
-259. #Mystiq (975) 0<br>
--1|-8|-4|-4|-2|+1|-5<br>
-	9. Miniongalcon (2:0)<br>
-	10. Dragonscife (1:6)<br>
 <br>
 260. #dr.hatim (975) 0<br>
 +12|+7|+5|+2<br>
-	1. Buff-Plunts (1:0)<br>
-	6. SparkyPlane (0:2)<br>
+	7. SparkyPlane (0:2)<br>
 <br>
-261. #iiKingii (972) 0<br>
--6|-14|-21|-26|-19|-18|-15|-11|-7|-1<br>
-<br>
-262. #GAME_KING (972) +1<br>
--5|-2|+2|+1|-6|-5|-9|-5|+4|+1<br>
-	6. SparkyPlane (0:3)<br>
-	7. Pyroraptor (0:1)<br>
+261. #GAME_KING (973) +1<br>
+-4|-1|+3|+2|-5|-5|-9|-4|+5|+2<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (0:3)<br>
 	10. Dragonscife (0:1)<br>
 <br>
-263. #SleepyCrush~181 (972) 0<br>
+262. #jacobw (973) +2<br>
+-3|-3|+2<br>
+	8. TankWar2 (0:3)<br>
+<br>
+263. #iiKingii (972) 0<br>
+-6|-14|-21|-26|-19|-18|-15|-11|-7|-1<br>
+<br>
+264. #SleepyCrush~181 (972) 0<br>
 -8<br>
 	2. MadDookie (0:2)<br>
 	3. AppleDragon (0:8)<br>
@@ -1708,41 +1712,42 @@ Recent win rates against top 10 over the past 21 days<br>
 	5. croissant (0:2)<br>
 	8. TankWar2 (1:3)<br>
 <br>
-264. #aawwaa (972) 0<br>
--17|-5|-1<br>
-	6. SparkyPlane (0:1)<br>
-	10. Dragonscife (1:1)<br>
-<br>
 265. #ChubbySpark~844 (971) 0<br>
 -9|-7<br>
-	6. SparkyPlane (0:3)<br>
+	7. SparkyPlane (0:3)<br>
 	9. Miniongalcon (0:3)<br>
 <br>
-266. #jacobw (971) 0<br>
--5|-6<br>
-	8. TankWar2 (0:3)<br>
+266. #AnkleBreaker (970) +2<br>
+-20|-15|-13|-3|+5|+2|+2|+1|-3|-1<br>
+	6. Pyroraptor (0:3)<br>
+	7. SparkyPlane (0:2)<br>
 <br>
-267. #killerbear13 (969) -1<br>
-+27|+21|+19|+17|+10|+6|0|+4|+3|-1<br>
-	1. Buff-Plunts (1:6)<br>
-	2. MadDookie (0:8)<br>
-	3. AppleDragon (3:4)<br>
-	4. aKatsuki808 (4:14)<br>
-	5. croissant (0:2)<br>
-	8. TankWar2 (1:4)<br>
-	9. Miniongalcon (0:1)<br>
-<br>
-268. #RigasGR (969) 0<br>
+267. #RigasGR (969) 0<br>
 -4<br>
 	5. croissant (0:1)<br>
 	9. Miniongalcon (1:8)<br>
 <br>
-269. #AnkleBreaker (968) -2<br>
--22|-17|-15|-5|+3|0|0|-1|-5|-3<br>
-	6. SparkyPlane (0:2)<br>
-	7. Pyroraptor (0:3)<br>
+268. #azooooooozzz (969) +4<br>
+-2|+3|+3|-5|-7|0|+2<br>
+	5. croissant (0:1)<br>
+	7. SparkyPlane (2:2)<br>
+	9. Miniongalcon (0:4)<br>
+	10. Dragonscife (0:1)<br>
 <br>
-270. #NosyBeast (968) -1<br>
+269. #SweetTart (968) -1<br>
+-8|+1<br>
+	1. Buff-Plunts (0:1)<br>
+	3. AppleDragon (0:1)<br>
+	4. aKatsuki808 (0:6)<br>
+	5. croissant (1:2)<br>
+	8. TankWar2 (0:1)<br>
+<br>
+270. #aawwaa (968) -4<br>
+-21|-9|-5<br>
+	7. SparkyPlane (0:1)<br>
+	10. Dragonscife (1:1)<br>
+<br>
+271. #NosyBeast (968) 0<br>
 -10|-7|+3|+1|+5|+4|+4|+2|-2<br>
 	2. MadDookie (2:3)<br>
 	3. AppleDragon (0:2)<br>
@@ -1750,57 +1755,54 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (2:2)<br>
 	9. Miniongalcon (0:1)<br>
 <br>
-271. #moxmo (967) 0<br>
+272. #moxmo (967) 0<br>
 -20|-19|-14|-17|-11|-15|-12|-5|-4|-2<br>
 <br>
-272. #nitecash (967) -5<br>
--21|-9|-1<br>
-	7. Pyroraptor (1:0)<br>
+273. #nitecash (967) 0<br>
+-22|-9|-1<br>
+	6. Pyroraptor (1:0)<br>
 	8. TankWar2 (0:1)<br>
 <br>
-273. #SneakyRam~754 (967) -1<br>
--3|+1|+3|+3|+3|+3|+5|+7|+9|+4<br>
+274. #SneakyRam~754 (967) 0<br>
++1|+3|+3|+3|+3|+5|+7|+9|+4|+2<br>
+	6. Pyroraptor (0:1)<br>
 	9. Miniongalcon (0:1)<br>
 <br>
-274. #Vieu (966) -1<br>
--30|-21|-19|-12|-6|-6|-1|-5|-1|0<br>
+275. #Vieu (967) 0<br>
+-30|-21|-19|-11|-6|-6|-1|-5|-1|0<br>
 	2. MadDookie (1:2)<br>
 	3. AppleDragon (0:2)<br>
 	8. TankWar2 (0:1)<br>
 	10. Dragonscife (3:1)<br>
 <br>
-275. #ShaggySoup~221 (965) +1<br>
--22|-13|-7|-15|-12|-12|-6|+1<br>
-	5. croissant (1:0)<br>
-	6. SparkyPlane (0:4)<br>
-	7. Pyroraptor (1:1)<br>
-	9. Miniongalcon (0:8)<br>
-	10. Dragonscife (0:3)<br>
-<br>
-276. #azooooooozzz (965) 0<br>
--6|-1|-1|-9|-11|-4<br>
-	5. croissant (0:1)<br>
-	6. SparkyPlane (2:2)<br>
-	9. Miniongalcon (0:4)<br>
-	10. Dragonscife (0:1)<br>
-<br>
-277. #schnubbi-122 (964) 0<br>
--11|-4|+3|+4|+2|-7|-3|+1<br>
+276. #schnubbi-122 (965) +1<br>
+-10|-3|+4|+5|+3|-6|-2|+2<br>
 	1. Buff-Plunts (0:1)<br>
-	2. MadDookie (1:6)<br>
-	3. AppleDragon (0:5)<br>
+	2. MadDookie (1:3)<br>
+	3. AppleDragon (0:1)<br>
 	4. aKatsuki808 (0:1)<br>
-	5. croissant (0:3)<br>
+	5. croissant (0:2)<br>
 	8. TankWar2 (1:4)<br>
 	9. Miniongalcon (1:3)<br>
 	10. Dragonscife (0:1)<br>
 <br>
-278. #wow99 (963) 0<br>
--18|-7|-1|+4|-2<br>
-	1. Buff-Plunts (1:5)<br>
-	2. MadDookie (0:1)<br>
-	3. AppleDragon (0:5)<br>
-	4. aKatsuki808 (0:6)<br>
+277. #ShaggySoup~221 (965) -1<br>
+-23|-14|-7|-15|-13|-12|-7|0|-3<br>
+	5. croissant (1:0)<br>
+	6. Pyroraptor (1:1)<br>
+	7. SparkyPlane (0:4)<br>
+	9. Miniongalcon (0:8)<br>
+	10. Dragonscife (0:3)<br>
+<br>
+278. #killerbear13 (964) -5<br>
++16|+14|+12|+6|+2|-5|0|-1|-5|-1<br>
+	1. Buff-Plunts (1:6)<br>
+	2. MadDookie (0:8)<br>
+	3. AppleDragon (0:3)<br>
+	4. aKatsuki808 (4:14)<br>
+	5. croissant (0:2)<br>
+	8. TankWar2 (0:4)<br>
+	9. Miniongalcon (0:1)<br>
 <br>
 279. #SparkySoup~704 (963) 0<br>
 -9|-1|-1<br>
@@ -1810,80 +1812,71 @@ Recent win rates against top 10 over the past 21 days<br>
 280. #NumberDragon (961) 0<br>
 -56|-85|-96|-112|-118|-113|-86|-47|-13|-8<br>
 	3. AppleDragon (0:4)<br>
-	7. Pyroraptor (3:141)<br>
+	6. Pyroraptor (3:141)<br>
 <br>
-281. #AL-SMR (960) 0<br>
+281. #wow99 (960) -3<br>
+-21|-10|-4|+1|-4<br>
+	1. Buff-Plunts (1:5)<br>
+	2. MadDookie (0:1)<br>
+	3. AppleDragon (0:5)<br>
+	4. aKatsuki808 (0:6)<br>
+<br>
+282. #AL-SMR (960) 0<br>
 -20|-12<br>
 	5. croissant (0:2)<br>
 	10. Dragonscife (0:1)<br>
 <br>
-282. #FlyingPizza~123 (959) 0<br>
+283. #byaaron17 (959) -16<br>
+-15<br>
+	8. TankWar2 (0:1)<br>
+<br>
+284. #FlyingPizza~123 (959) 0<br>
 -39|-15|-3<br>
 <br>
-283. #p3ng1 (959) -1<br>
+285. #p3ng1 (959) 0<br>
 -21|-15|-9<br>
-	7. Pyroraptor (0:1)<br>
+	6. Pyroraptor (0:1)<br>
 	9. Miniongalcon (0:1)<br>
 	10. Dragonscife (0:1)<br>
 <br>
-284. #boredtohell (958) 0<br>
+286. #boredtohell (958) 0<br>
 -6|-8|-7|0|+1|-4|-4|-4|-4|-1<br>
 <br>
-285. #mlewiz (957) 0<br>
--27|-11|-12|-10|-2<br>
-	2. MadDookie (0:3)<br>
-	4. aKatsuki808 (0:2)<br>
-	8. TankWar2 (0:1)<br>
-<br>
-286. #A-711 (957) 0<br>
+287. #A-711 (957) 0<br>
 -25|-1<br>
 	3. AppleDragon (1:2)<br>
 <br>
-287. #renegade.3 (955) -1<br>
--14|-10<br>
-	1. Buff-Plunts (0:3)<br>
+288. #mlewiz (955) -2<br>
+-29|-13|-14|-12|-4<br>
 	2. MadDookie (0:3)<br>
-	3. AppleDragon (0:5)<br>
-	5. croissant (0:1)<br>
+	4. aKatsuki808 (0:2)<br>
+	7. SparkyPlane (1:0)<br>
 	8. TankWar2 (0:1)<br>
-	9. Miniongalcon (0:1)<br>
 <br>
-288. #emakon (955) +1<br>
--7|-2|+2<br>
-	6. SparkyPlane (1:2)<br>
-	7. Pyroraptor (1:0)<br>
+289. #emakon (954) 0<br>
+-7|-2|+1<br>
+	6. Pyroraptor (1:0)<br>
+	7. SparkyPlane (1:2)<br>
 <br>
-289. #Marshal_ (954) +1<br>
--16|-5|-1|+5|+14|+10|+12|+12|+6|+4<br>
-	1. Buff-Plunts (0:2)<br>
-	2. MadDookie (0:1)<br>
-	3. AppleDragon (0:3)<br>
-	4. aKatsuki808 (0:1)<br>
-	5. croissant (0:1)<br>
-	6. SparkyPlane (1:1)<br>
-	7. Pyroraptor (0:1)<br>
-	9. Miniongalcon (0:1)<br>
-<br>
-290. #T-_-TT-_-T (954) +1<br>
+290. #T-_-TT-_-T (954) 0<br>
 +4|0|0|0|+2|+4|+4|+5|0|+6<br>
 	3. AppleDragon (0:2)<br>
 	9. Miniongalcon (0:7)<br>
 <br>
-291. #aawwa (953) -2<br>
-+1|-5|-3|-11|-11|-15|-15|-9|-5|-3<br>
-	5. croissant (1:1)<br>
-	9. Miniongalcon (0:6)<br>
-	10. Dragonscife (4:6)<br>
+291. #renegade.3 (953) -2<br>
+-16|-12|0<br>
+	1. Buff-Plunts (0:3)<br>
+	2. MadDookie (0:4)<br>
+	3. AppleDragon (0:5)<br>
+	4. aKatsuki808 (0:1)<br>
+	5. croissant (0:1)<br>
+	8. TankWar2 (0:1)<br>
+	9. Miniongalcon (0:1)<br>
 <br>
 292. #Wurtnik (953) 0<br>
 +28|+28|+27|+26|+28|+30|+19|+15|+5|+3<br>
 <br>
-293. #rawbdor (953) 0<br>
--18|-6|+1|+3|0|0<br>
-	5. croissant (0:1)<br>
-	10. Dragonscife (0:6)<br>
-<br>
-294. #amk2042 (953) 0<br>
+293. #amk2042 (953) 0<br>
 -20|-15|-10<br>
 	1. Buff-Plunts (0:2)<br>
 	2. MadDookie (0:4)<br>
@@ -1892,60 +1885,79 @@ Recent win rates against top 10 over the past 21 days<br>
 	5. croissant (1:6)<br>
 	8. TankWar2 (2:7)<br>
 <br>
-295. #BombWong (952) 0<br>
+294. #BombWong (952) 0<br>
 -16<br>
-	7. Pyroraptor (0:1)<br>
+	6. Pyroraptor (0:1)<br>
 <br>
-296. #Wickedrunner (952) -1<br>
--23|-17|0<br>
-	2. MadDookie (0:2)<br>
-	3. AppleDragon (2:2)<br>
-	5. croissant (0:2)<br>
-	7. Pyroraptor (1:1)<br>
-	8. TankWar2 (0:1)<br>
-<br>
-297. #SignorJoSaf (952) 0<br>
+295. #SignorJoSaf (952) 0<br>
 -28|-12|-4<br>
 	5. croissant (0:2)<br>
-	6. SparkyPlane (0:1)<br>
+	7. SparkyPlane (0:1)<br>
 <br>
-298. #hedrigen (949) +2<br>
+296. #rawbdor (952) -1<br>
+-19|-7|0|+2|-1|-1<br>
+	5. croissant (0:1)<br>
+	10. Dragonscife (0:6)<br>
+<br>
+297. #Marshal_ (951) -3<br>
+-19|-8|-3|+2|+12|+7|+9|+9|+3|+1<br>
+	1. Buff-Plunts (0:2)<br>
+	2. MadDookie (0:1)<br>
+	3. AppleDragon (0:3)<br>
+	4. aKatsuki808 (0:1)<br>
+	5. croissant (0:3)<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (1:1)<br>
+	9. Miniongalcon (0:1)<br>
+<br>
+298. #aawwa (951) -2<br>
+-2|-8|-6|-13|-13|-17|-17|-11|-7|-5<br>
+	5. croissant (1:1)<br>
+	9. Miniongalcon (0:6)<br>
+	10. Dragonscife (4:6)<br>
+<br>
+299. #Wickedrunner (949) -3<br>
+-25|-19|-3|-2<br>
+	2. MadDookie (0:5)<br>
+	3. AppleDragon (2:2)<br>
+	5. croissant (0:3)<br>
+	6. Pyroraptor (1:1)<br>
+	8. TankWar2 (0:1)<br>
+<br>
+300. #hedrigen (949) 0<br>
 -27|-16|-4|-4|+4|+4|+1<br>
 	2. MadDookie (0:2)<br>
 	4. aKatsuki808 (0:2)<br>
 	5. croissant (1:0)<br>
-	6. SparkyPlane (0:2)<br>
+	7. SparkyPlane (0:2)<br>
 	8. TankWar2 (0:3)<br>
 	10. Dragonscife (1:3)<br>
 <br>
-299. #BigBoyJoes (948) 0<br>
+301. #thehealerspr (949) +1<br>
+-27|-20|-15|-12|-8|-1|-2<br>
+	1. Buff-Plunts (0:1)<br>
+	2. MadDookie (1:6)<br>
+	3. AppleDragon (1:12)<br>
+	4. aKatsuki808 (5:5)<br>
+	5. croissant (1:8)<br>
+	8. TankWar2 (3:6)<br>
+<br>
+302. #BigBoyJoes (948) 0<br>
 +3|-1<br>
 	1. Buff-Plunts (0:1)<br>
 	2. MadDookie (0:2)<br>
 	3. AppleDragon (3:7)<br>
 	4. aKatsuki808 (3:5)<br>
 	5. croissant (0:1)<br>
-	7. Pyroraptor (10:55)<br>
+	6. Pyroraptor (10:55)<br>
 	8. TankWar2 (3:4)<br>
 	9. Miniongalcon (0:1)<br>
 <br>
-300. #peemack (947) +1<br>
+303. #peemack (947) 0<br>
 -31|-33|-15|-17|-6|0|+7|+2|0<br>
 <br>
-301. #thehealerspr (947) 0<br>
--28|-21|-16|-13|-9|-3|-3<br>
-	1. Buff-Plunts (0:1)<br>
-	2. MadDookie (0:6)<br>
-	3. AppleDragon (1:12)<br>
-	4. aKatsuki808 (5:5)<br>
-	5. croissant (1:8)<br>
-	8. TankWar2 (3:6)<br>
-<br>
-302. #ScarySoup~251 (947) -1<br>
--35|-27|-10<br>
-<br>
-303. #culodmose (946) -4<br>
--21|-14|-11|-8|-4<br>
+304. #culodmose (947) +1<br>
+-20|-13|-10|-6|-3<br>
 	1. Buff-Plunts (0:2)<br>
 	2. MadDookie (0:4)<br>
 	3. AppleDragon (0:9)<br>
@@ -1954,21 +1966,18 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (0:6)<br>
 	9. Miniongalcon (0:4)<br>
 <br>
-304. #Slip4908 (945) +4<br>
--8|+4|+17|+13|+17|+3<br>
+305. #ScarySoup~251 (947) 0<br>
+-35|-27|-10<br>
+<br>
+306. #Slip4908 (946) +1<br>
+-8|+5|+17|+13|+18|+3<br>
 	1. Buff-Plunts (1:3)<br>
 	2. MadDookie (0:1)<br>
-	3. AppleDragon (0:12)<br>
+	3. AppleDragon (0:4)<br>
 	4. aKatsuki808 (1:9)<br>
 	9. Miniongalcon (0:5)<br>
 <br>
-305. #roveringbass (944) -1<br>
--12|-9<br>
-	3. AppleDragon (0:2)<br>
-	5. croissant (0:1)<br>
-	8. TankWar2 (0:1)<br>
-<br>
-306. #LuckyTapir~830 (944) 0<br>
+307. #LuckyTapir~830 (943) 0<br>
 -29|-9<br>
 	2. MadDookie (0:1)<br>
 	3. AppleDragon (0:2)<br>
@@ -1976,119 +1985,124 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (0:2)<br>
 	9. Miniongalcon (0:1)<br>
 <br>
-307. #bobthebob (943) 0<br>
+308. #bobthebob (943) 0<br>
 -11|-11|-4|-8|-4|-5|+1|+2|+1|-3<br>
 	2. MadDookie (0:1)<br>
 	5. croissant (0:1)<br>
-	6. SparkyPlane (0:2)<br>
-	7. Pyroraptor (0:1)<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (0:2)<br>
 <br>
-308. #vatolina96 (942) 0<br>
+309. #roveringbass (943) -1<br>
+-13|-10<br>
+	3. AppleDragon (0:2)<br>
+	5. croissant (0:1)<br>
+	8. TankWar2 (0:1)<br>
+<br>
+310. #vatolina96 (942) 0<br>
 -42|-31|-18|-11|-6|-2|+4|+5|+1|-2<br>
 	5. croissant (0:3)<br>
 	9. Miniongalcon (10:31)<br>
 <br>
-309. #Impreium175 (941) +2<br>
+311. #Impreium175 (941) 0<br>
 -14|-14|-12|-5|-6|-9|-7|-4|0|+1<br>
 	9. Miniongalcon (0:3)<br>
 <br>
-310. #valvefury (941) 0<br>
--11|-8|-6|-6|-13|-13|0|+13|-3|+1<br>
-	6. SparkyPlane (2:7)<br>
-	7. Pyroraptor (1:4)<br>
+312. #Valvefury (940) -1<br>
+-11|-8|-6|-7|-13|-13|-1|+12|-3|0<br>
+	6. Pyroraptor (1:4)<br>
+	7. SparkyPlane (2:7)<br>
 	9. Miniongalcon (0:1)<br>
 	10. Dragonscife (4:9)<br>
 <br>
-311. #LiquidS (940) 0<br>
+313. #LiquidS (940) 0<br>
 0|+2|+2|+9|+9|+7|+9|+8|+11|+2<br>
 <br>
-312. #ChubbySoup~704 (939) 0<br>
+314. #ChubbySoup~704 (939) 0<br>
 -12<br>
 	2. MadDookie (0:1)<br>
 	3. AppleDragon (0:3)<br>
 	5. croissant (0:1)<br>
 	8. TankWar2 (0:2)<br>
 <br>
-313. #ZanyRake~637 (938) 0<br>
+315. #ZanyRake~637 (938) 0<br>
 -16|-3<br>
 	4. aKatsuki808 (0:2)<br>
 	10. Dragonscife (0:1)<br>
 <br>
-314. #teamdaddy (935) 0<br>
--27|-26|-24|-23|-15|-16|-9|-9|-4|-3<br>
-<br>
-315. #Power69 (935) 0<br>
--7|-7|-1|+3|+3|0|+5|+3|+5|+4<br>
+316. #Power69 (937) +2<br>
+-5|-5|+1|+5|+5|+2|+7|+5|+7|+6<br>
 	9. Miniongalcon (0:1)<br>
 <br>
-316. #al3nzi0074 (934) +2<br>
--1|+6|+3|+10|+16|+12|+4|+2|0|+2<br>
-	5. croissant (1:2)<br>
-	6. SparkyPlane (0:2)<br>
-	10. Dragonscife (0:2)<br>
+317. #teamdaddy (935) 0<br>
+-27|-26|-24|-23|-15|-16|-9|-9|-4|-3<br>
 <br>
-317. #Titini (934) 0<br>
--19|-12|-1|+5|+10<br>
+318. #bootypatrol (933) +1<br>
+-43|-34|-20|-9|-1|+4<br>
+	7. SparkyPlane (0:3)<br>
+	9. Miniongalcon (1:3)<br>
 <br>
-318. #yoni10 (933) -1<br>
-+3|+2|+9|+13|+10|+7|+3|-1|+1|0<br>
+319. #yoni10 (933) 0<br>
++4|+3|+9|+13|+10|+7|+3|-1|+1|0<br>
 	1. Buff-Plunts (1:2)<br>
-	2. MadDookie (0:2)<br>
+	2. MadDookie (0:4)<br>
 	3. AppleDragon (0:4)<br>
 	4. aKatsuki808 (0:2)<br>
 	5. croissant (0:1)<br>
 	8. TankWar2 (0:2)<br>
 	9. Miniongalcon (0:2)<br>
 <br>
-319. #Woldomon (932) 0<br>
-0|+12|+13|+12|+7|+2|+8|+4|-1<br>
-	6. SparkyPlane (0:2)<br>
+320. #al3nzi0074 (933) -2<br>
+-3|+4|+2|+9|+14|+10|+3|0|-2|0<br>
+	5. croissant (1:2)<br>
+	7. SparkyPlane (0:2)<br>
+	10. Dragonscife (1:2)<br>
+<br>
+321. #Woldomon (932) 0<br>
+0|+12|+13|+12|+7|+2|+8|+4|-1|0<br>
+	7. SparkyPlane (0:3)<br>
 	8. TankWar2 (0:1)<br>
 	9. Miniongalcon (0:1)<br>
 <br>
-320. #bootypatrol (932) 0<br>
--45|-35|-21|-11|-3|+2<br>
-	6. SparkyPlane (0:3)<br>
-	9. Miniongalcon (1:3)<br>
-<br>
-321. #HollowHoppe~374 (929) -2<br>
--32|-14|-4<br>
-	2. MadDookie (0:3)<br>
-	3. AppleDragon (0:1)<br>
-	4. aKatsuki808 (0:6)<br>
-	5. croissant (0:2)<br>
-	8. TankWar2 (0:2)<br>
-	9. Miniongalcon (0:1)<br>
-<br>
-322. #alizzze (928) 0<br>
--41|-35|-29|-10|-6|-4|-7|-4|0<br>
-	2. MadDookie (0:2)<br>
-	3. AppleDragon (0:4)<br>
-	5. croissant (0:2)<br>
-	6. SparkyPlane (0:1)<br>
-	8. TankWar2 (0:5)<br>
-<br>
-323. #pumagirl (928) 0<br>
+322. #pumagirl (928) 0<br>
 -32|-26|-30|-24|-18|-14|-10|-2|+2|0<br>
 	1. Buff-Plunts (0:2)<br>
-	3. AppleDragon (2:10)<br>
+	3. AppleDragon (2:9)<br>
 	4. aKatsuki808 (0:7)<br>
 	5. croissant (1:3)<br>
 	8. TankWar2 (2:9)<br>
 <br>
-324. #foundcat (927) 0<br>
--39|-24|-25|-19|-11|-4<br>
+323. #HollowHoppe~374 (928) -1<br>
+-33|-14|-5<br>
+	2. MadDookie (0:3)<br>
+	3. AppleDragon (0:1)<br>
+	4. aKatsuki808 (0:6)<br>
+	5. croissant (0:2)<br>
+	7. SparkyPlane (0:1)<br>
+	8. TankWar2 (0:2)<br>
+	9. Miniongalcon (0:1)<br>
 <br>
-325. #Ramster117 (926) +2<br>
--42|-24|-19|-7|-1|+2|0|-2|+4<br>
+324. #alizzze (928) 0<br>
+-41|-36|-30|-11|-6|-5|-7|-4|0<br>
+	2. MadDookie (0:2)<br>
+	3. AppleDragon (0:4)<br>
+	5. croissant (0:2)<br>
+	7. SparkyPlane (0:1)<br>
+	8. TankWar2 (0:5)<br>
+<br>
+325. #Ramster117 (927) +1<br>
+-41|-23|-18|-6|0|+3|+1|-1|+5|-1<br>
 	1. Buff-Plunts (0:3)<br>
+	2. MadDookie (0:3)<br>
 	3. AppleDragon (0:4)<br>
 	4. aKatsuki808 (0:4)<br>
 	5. croissant (0:2)<br>
 	8. TankWar2 (0:7)<br>
 <br>
-326. #spacestew (924) 0<br>
--35|-33|-23|-15|-15|-13|-10|-5|-5|0<br>
+326. #foundcat (926) -1<br>
+-40|-25|-26|-20|-12|-5<br>
+<br>
+327. #spacestew (924) 0<br>
+-35|-33|-24|-15|-15|-13|-10|-5|-5|-1<br>
 	1. Buff-Plunts (0:3)<br>
 	2. MadDookie (1:15)<br>
 	3. AppleDragon (1:9)<br>
@@ -2097,10 +2111,25 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. TankWar2 (0:2)<br>
 	10. Dragonscife (0:1)<br>
 <br>
-327. #halcy0n3 (920) 0<br>
--14|-14|-9|-5|+2|-1|-5|-4|-3|0<br>
+328. #baby_ace (923) -1<br>
+-11|-9|-6|-4|-11|-7|-10|-10|-8|-3<br>
+	1. Buff-Plunts (0:1)<br>
+	2. MadDookie (0:3)<br>
+	3. AppleDragon (0:2)<br>
+	4. aKatsuki808 (0:1)<br>
+	5. croissant (0:3)<br>
+	8. TankWar2 (0:2)<br>
+	9. Miniongalcon (0:1)<br>
 <br>
-328. #cnggouyd (919) -1<br>
+329. #halcy0n3 (923) +3<br>
+-11|-11|-6|-2|+5|+2|-2|-1|0|+3<br>
+<br>
+330. #xXRISKXx (919) +1<br>
+-23|-5|-1<br>
+	3. AppleDragon (0:1)<br>
+	10. Dragonscife (0:1)<br>
+<br>
+331. #cnggouyd (919) 0<br>
 -45|-34|-29|-24|-20|-16|-9|-6|+1|0<br>
 	1. Buff-Plunts (0:6)<br>
 	2. MadDookie (0:2)<br>
@@ -2109,53 +2138,48 @@ Recent win rates against top 10 over the past 21 days<br>
 	5. croissant (1:1)<br>
 	8. TankWar2 (0:3)<br>
 <br>
-329. #xXRISKXx (918) -2<br>
--24|-6<br>
-	3. AppleDragon (0:1)<br>
-	10. Dragonscife (0:1)<br>
-<br>
-330. #M6l8-711 (918) +3<br>
-+7|+9|-2|+2|+6|+2|+1|0|+3|+2<br>
+332. #M6l8-711 (918) -1<br>
++6|+8|-2|+2|+5|+1|+1|-1|+2|+1<br>
 	1. Buff-Plunts (0:4)<br>
 	2. MadDookie (0:6)<br>
-	3. AppleDragon (0:10)<br>
+	3. AppleDragon (0:9)<br>
 	4. aKatsuki808 (0:2)<br>
-	5. croissant (0:7)<br>
-	6. SparkyPlane (2:5)<br>
+	5. croissant (0:8)<br>
+	7. SparkyPlane (2:3)<br>
 	8. TankWar2 (0:1)<br>
 	9. Miniongalcon (0:4)<br>
 	10. Dragonscife (0:2)<br>
 <br>
-331. #RaggedZebra (910) -1<br>
-+2|+2|+1|+2|+1|+6|+6|+6|+3|-1<br>
+333. #RaggedZebra (913) +3<br>
++6|+6|+4|+6|+4|+10|+10|+10|+6|+3<br>
 	1. Buff-Plunts (1:0)<br>
-	2. MadDookie (2:11)<br>
-	3. AppleDragon (0:13)<br>
+	2. MadDookie (2:12)<br>
+	3. AppleDragon (0:11)<br>
 	4. aKatsuki808 (0:10)<br>
 	5. croissant (1:6)<br>
-	7. Pyroraptor (0:1)<br>
-	8. TankWar2 (2:6)<br>
+	6. Pyroraptor (0:1)<br>
+	8. TankWar2 (2:3)<br>
 <br>
-332. #WildHat-972 (900) -1<br>
--33|-29|-27|-20|-17|-14|-10|-8|-6|-4<br>
+334. #WildHat-972 (901) +1<br>
+-32|-28|-26|-19|-16|-14|-9|-7|-5|-3<br>
 	1. Buff-Plunts (0:3)<br>
-	2. MadDookie (0:3)<br>
+	2. MadDookie (0:4)<br>
 	3. AppleDragon (0:6)<br>
-	5. croissant (0:3)<br>
+	5. croissant (1:6)<br>
 	8. TankWar2 (0:2)<br>
 	9. Miniongalcon (0:2)<br>
 <br>
-333. #TackyBird~995 (895) 0<br>
--62|-49|-44|-34|-26|-18|-14|-7|-3<br>
+335. #TackyBird~995 (893) -2<br>
+-64|-51|-46|-36|-28|-20|-16|-9|-5<br>
 	2. MadDookie (0:1)<br>
 	3. AppleDragon (0:2)<br>
 	5. croissant (0:4)<br>
 <br>
-334. #GentleRake~590 (892) 0<br>
+336. #GentleRake~590 (892) 0<br>
 -42|-38|-35|-26|-20|-13|-9|0|+5|+1<br>
 <br>
-335. #NosyBeast2 (890) 0<br>
--80|-84|-82|-76|-68|-69|-69|-29|-27|-15<br>
+337. #NosyBeast2 (890) 0<br>
+-80|-84|-81|-76|-67|-69|-68|-29|-27|-14<br>
 	1. Buff-Plunts (0:11)<br>
 	2. MadDookie (0:4)<br>
 	3. AppleDragon (0:2)<br>
@@ -2163,23 +2187,23 @@ Recent win rates against top 10 over the past 21 days<br>
 	5. croissant (0:6)<br>
 	8. TankWar2 (1:5)<br>
 <br>
-336. #mmm76 (889) -4<br>
--39|-31|-30|-24|-21|-23|-15|-10|-8|-6<br>
+338. #mmm76 (886) -2<br>
+-41|-34|-32|-26|-23|-25|-18|-12|-10|-8<br>
 	5. croissant (0:5)<br>
-	6. SparkyPlane (0:2)<br>
-	7. Pyroraptor (0:1)<br>
+	6. Pyroraptor (0:1)<br>
+	7. SparkyPlane (0:2)<br>
 	9. Miniongalcon (0:1)<br>
 	10. Dragonscife (5:13)<br>
 <br>
-337. #SuicideMan (883) -3<br>
--4|+2|+1|-2|+1|-1|-7|-10|-8|-4<br>
+339. #SuicideMan (884) +1<br>
++3|+2|-2|+2|-1|-6|-9|-7|-3|0<br>
 	5. croissant (0:1)<br>
-	7. Pyroraptor (0:1)<br>
+	6. Pyroraptor (0:1)<br>
 <br>
-338. #SparkyClove~544 (862) -8<br>
--101|-79|-61|-63|-48|-38|-26|-19|-13|-3<br>
+340. #SparkyClove~544 (853) -9<br>
+-88|-70|-72|-57|-47|-35|-28|-22|-12|-4<br>
 	1. Buff-Plunts (0:2)<br>
-	6. SparkyPlane (1:2)<br>
-	7. Pyroraptor (0:2)<br>
+	6. Pyroraptor (0:2)<br>
+	7. SparkyPlane (1:2)<br>
 	9. Miniongalcon (1:9)<br>
 	10. Dragonscife (0:4)<br>
