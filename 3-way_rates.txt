@@ -1,22 +1,24 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #GreatApple~214 (1144) -2<br>
-+12|+10|+2|-2|-16|-4|-2|+3|-3|-2<br>
+1. #GreatApple~214 (1146) +2<br>
++15|+13|+4|0|-14|-2|0|+6|0|0<br>
+	2. Vlajs001 (5:0)<br>
 	3. rickss (1:2)<br>
 	6. DavidIggyLou (0:1)<br>
 	7. GroovyFlame (1:1)<br>
 	9. SloppyTea~932 (1:1)<br>
 	10. MUFSKIN (2:1)<br>
 <br>
-2. #Vlajs001 (1109) +1<br>
--4|-3|-12|-11|-11|-10|-11|-12|+3|-7<br>
+2. #Vlajs001 (1106) -2<br>
+-7|-5|-15|-13|-13|-13|-13|-14|0|-9<br>
+	1. GreatApple~214 (0:5)<br>
 	3. rickss (3:0)<br>
 	6. DavidIggyLou (1:2)<br>
-	9. SloppyTea~932 (1:2)<br>
-	10. MUFSKIN (5:7)<br>
+	9. SloppyTea~932 (1:1)<br>
+	10. MUFSKIN (6:8)<br>
 <br>
-3. #rickss (1096) +4<br>
-+67|+62|+56|+40|+39|+32|+34|+29|+17|+10<br>
+3. #rickss (1096) -1<br>
++66|+62|+56|+39|+38|+31|+33|+28|+17|+9<br>
 	1. GreatApple~214 (2:1)<br>
 	2. Vlajs001 (0:3)<br>
 	4. chomeur2 (1:1)<br>
@@ -25,28 +27,27 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. SloppyTea~932 (2:1)<br>
 	10. MUFSKIN (1:0)<br>
 <br>
-4. #chomeur2 (1094) 0<br>
-+15|+18|+8|+7|+12|+9|+7|+5|-3|-3<br>
+4. #chomeur2 (1092) -2<br>
++13|+16|+6|+5|+10|+7|+5|+3|-5|-4<br>
 	3. rickss (1:1)<br>
-	6. DavidIggyLou (1:0)<br>
-	9. SloppyTea~932 (1:0)<br>
+	6. DavidIggyLou (1:1)<br>
 	10. MUFSKIN (3:3)<br>
 <br>
-5. #Arkady (1091) 0<br>
-+17|+12|+16|+20|+12|+17|+16|+14|+4|0<br>
+5. #Arkady (1090) -1<br>
++16|+11|+15|+19|+11|+16|+15|+13|+3|-1<br>
 	3. rickss (1:4)<br>
 	7. GroovyFlame (2:0)<br>
 	10. MUFSKIN (0:1)<br>
 <br>
-6. #DavidIggyLou (1087) +5<br>
-+50|+39|+25|+19|+26|+26|+27|+29|+19|+10<br>
+6. #DavidIggyLou (1090) +2<br>
++52|+42|+27|+22|+28|+28|+29|+31|+21|+12<br>
 	1. GreatApple~214 (1:0)<br>
 	2. Vlajs001 (2:1)<br>
-	4. chomeur2 (0:1)<br>
+	4. chomeur2 (1:1)<br>
 	7. GroovyFlame (3:2)<br>
 <br>
-7. #GroovyFlame (1086) 0<br>
-+67|+61|+44|+28|+30|+22|+6|-2|-5|-1<br>
+7. #GroovyFlame (1085) -1<br>
++66|+61|+43|+27|+30|+21|+5|-2|-5|-1<br>
 	1. GreatApple~214 (1:1)<br>
 	3. rickss (2:3)<br>
 	5. Arkady (0:2)<br>
@@ -59,23 +60,33 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. GroovyFlame (1:0)<br>
 <br>
 9. #SloppyTea~932 (1079) 0<br>
-+38|+18|+14|+9|+3|+10|+8|+7|+6|+2<br>
++38|+17|+13|+9|+2|+10|+7|+6|+5|+2<br>
 	1. GreatApple~214 (1:1)<br>
-	2. Vlajs001 (2:1)<br>
+	2. Vlajs001 (1:1)<br>
 	3. rickss (1:2)<br>
-	4. chomeur2 (0:1)<br>
 <br>
-10. #MUFSKIN (1071) -1<br>
-+16|+18|+20|+23|+29|+23|+17|+9|+7|+6<br>
+10. #MUFSKIN (1072) +1<br>
++17|+18|+20|+23|+30|+23|+18|+10|+7|+7<br>
 	1. GreatApple~214 (1:2)<br>
-	2. Vlajs001 (7:5)<br>
+	2. Vlajs001 (8:6)<br>
 	3. rickss (0:1)<br>
 	4. chomeur2 (3:3)<br>
 	5. Arkady (1:0)<br>
 	7. GroovyFlame (3:2)<br>
 <br>
-11. #g-nice (1069) 0<br>
-+39|+36|+37|+23|+19|+21|+22|+16|+13|-2<br>
+11. #Buz (1068) +3<br>
+-3|+2|+3|+13|+12|+15|+11|+11|+7|+3<br>
+	1. GreatApple~214 (1:0)<br>
+	3. rickss (2:6)<br>
+	5. Arkady (1:5)<br>
+	6. DavidIggyLou (1:2)<br>
+	7. GroovyFlame (1:0)<br>
+	8. Tiberius88 (2:3)<br>
+	9. SloppyTea~932 (1:9)<br>
+	10. MUFSKIN (1:1)<br>
+<br>
+12. #g-nice (1067) -1<br>
++38|+35|+35|+22|+17|+20|+20|+14|+12|-4<br>
 	2. Vlajs001 (2:0)<br>
 	3. rickss (3:7)<br>
 	6. DavidIggyLou (1:1)<br>
@@ -83,48 +94,45 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Tiberius88 (0:1)<br>
 	9. SloppyTea~932 (0:1)<br>
 <br>
-12. #Buz (1065) 0<br>
--6|-2|-1|+10|+9|+12|+8|+7|+3|0<br>
-	1. GreatApple~214 (1:0)<br>
-	3. rickss (2:5)<br>
-	5. Arkady (0:7)<br>
-	6. DavidIggyLou (1:2)<br>
-	7. GroovyFlame (1:0)<br>
-	8. Tiberius88 (2:3)<br>
-	9. SloppyTea~932 (1:9)<br>
-	10. MUFSKIN (1:1)<br>
+13. #arosten (1063) +1<br>
+-5|-4|+1|+6|+7|+7|+2|0|+7|+4<br>
+	2. Vlajs001 (0:2)<br>
+	3. rickss (0:1)<br>
+	7. GroovyFlame (2:0)<br>
+	8. Tiberius88 (0:2)<br>
+	9. SloppyTea~932 (1:0)<br>
 <br>
-13. #starfleet (1065) +1<br>
--12|-11|-5|-5|-10|-8|0|-1|+1|-1<br>
+14. #Starfleet (1062) -3<br>
+-14|-13|-8|-8|-12|-11|-3|-4|-2|-4<br>
 	2. Vlajs001 (1:1)<br>
 	5. Arkady (0:2)<br>
 	8. Tiberius88 (0:1)<br>
 	9. SloppyTea~932 (0:2)<br>
 <br>
-14. #A-z-sh (1055) +4<br>
-+14|+16|+21|+17|+9|+3|+8|-1|-1|+3<br>
+15. #gusgus100096 (1056) +1<br>
++7|-2|-9<br>
+	1. GreatApple~214 (1:1)<br>
+	2. Vlajs001 (1:0)<br>
+	4. chomeur2 (1:0)<br>
+	5. Arkady (2:0)<br>
+	6. DavidIggyLou (0:2)<br>
+	9. SloppyTea~932 (2:1)<br>
+<br>
+16. #A-z-sh (1054) -1<br>
++13|+15|+20|+16|+8|+2|+7|-2|-1|+2<br>
 	1. GreatApple~214 (4:4)<br>
-	2. Vlajs001 (9:11)<br>
-	3. rickss (6:7)<br>
+	2. Vlajs001 (9:12)<br>
+	3. rickss (7:9)<br>
 	4. chomeur2 (0:4)<br>
 	5. Arkady (7:11)<br>
 	6. DavidIggyLou (0:2)<br>
 	7. GroovyFlame (1:0)<br>
 	8. Tiberius88 (1:1)<br>
-	9. SloppyTea~932 (9:12)<br>
+	9. SloppyTea~932 (8:11)<br>
 	10. MUFSKIN (4:2)<br>
 <br>
-15. #gusgus100096 (1055) -1<br>
-+5|-3|-10<br>
-	1. GreatApple~214 (1:0)<br>
-	2. Vlajs001 (1:0)<br>
-	4. chomeur2 (1:2)<br>
-	5. Arkady (2:0)<br>
-	6. DavidIggyLou (0:2)<br>
-	9. SloppyTea~932 (2:1)<br>
-<br>
-16. #goldfinger (1053) +1<br>
--2|0|-2|-1|+6|+7|+6|+8|+8|+5<br>
+17. #goldfinger (1051) -1<br>
+-4|-1|-3|-2|+4|+5|+5|+6|+7|+4<br>
 	3. rickss (1:0)<br>
 	4. chomeur2 (1:1)<br>
 	6. DavidIggyLou (0:1)<br>
@@ -132,7 +140,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. SloppyTea~932 (2:0)<br>
 	10. MUFSKIN (3:1)<br>
 <br>
-17. #mrooq.711 (1051) 0<br>
+18. #mrooq.711 (1051) 0<br>
 +35|+23|+21|+14|+4|+2|+1<br>
 	2. Vlajs001 (1:1)<br>
 	3. rickss (0:1)<br>
@@ -142,15 +150,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Tiberius88 (0:2)<br>
 	9. SloppyTea~932 (1:0)<br>
 <br>
-18. #TheMafia (1046) -1<br>
-0<br>
-	2. Vlajs001 (1:2)<br>
-	5. Arkady (1:0)<br>
-	9. SloppyTea~932 (0:1)<br>
-	10. MUFSKIN (1:4)<br>
-<br>
-19. #androidkill (1046) -1<br>
-+58|+44|+35|+10<br>
+19. #androidkill (1048) +2<br>
++60|+46|+37|+12<br>
 	1. GreatApple~214 (2:1)<br>
 	2. Vlajs001 (0:1)<br>
 	3. rickss (1:2)<br>
@@ -160,8 +161,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. SloppyTea~932 (0:1)<br>
 	10. MUFSKIN (1:0)<br>
 <br>
-20. #somepatzer (1040) 0<br>
-+21|+4|-3|-3<br>
+20. #somepatzer (1042) +2<br>
++23|+6|-1|-1<br>
 	1. GreatApple~214 (1:1)<br>
 	2. Vlajs001 (0:2)<br>
 	3. rickss (0:2)<br>
@@ -169,7 +170,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. GroovyFlame (0:3)<br>
 <br>
 21. #skeems (1038) 0<br>
--9|-5|+1|-2|0|-5|-10|-7|-2|+2<br>
+-9|-5|+1|-2|0|-4|-9|-7|-2|+3<br>
 	1. GreatApple~214 (3:13)<br>
 	2. Vlajs001 (1:4)<br>
 	3. rickss (0:2)<br>
@@ -178,18 +179,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. GroovyFlame (1:1)<br>
 	8. Tiberius88 (0:2)<br>
 	9. SloppyTea~932 (0:1)<br>
-	10. MUFSKIN (3:3)<br>
+	10. MUFSKIN (1:2)<br>
 <br>
 22. #His-Majesty (1032) 0<br>
 +5|+6|+8|+11|+4|+6|+2|0|-1|+3<br>
 	1. GreatApple~214 (1:3)<br>
-	2. Vlajs001 (2:7)<br>
+	2. Vlajs001 (1:6)<br>
 	3. rickss (1:1)<br>
 	5. Arkady (2:1)<br>
 	6. DavidIggyLou (0:2)<br>
-	7. GroovyFlame (2:1)<br>
+	7. GroovyFlame (2:0)<br>
 	8. Tiberius88 (1:0)<br>
-	9. SloppyTea~932 (7:3)<br>
+	9. SloppyTea~932 (6:2)<br>
 	10. MUFSKIN (0:1)<br>
 <br>
 23. #TinyOwl~323 (1032) 0<br>
@@ -203,8 +204,9 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Tiberius88 (2:3)<br>
 	9. SloppyTea~932 (1:0)<br>
 <br>
-24. #FlowoodMS (1029) +1<br>
-+2|+8|-2|-6|-2|-7|-8|0|+7|-1<br>
+24. #FlowoodMS (1031) +2<br>
++4|+9|0|-5|0|-6|-7|+2|+8|+1<br>
+	1. GreatApple~214 (0:1)<br>
 	2. Vlajs001 (1:1)<br>
 	3. rickss (1:2)<br>
 	5. Arkady (1:0)<br>
@@ -220,14 +222,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. SloppyTea~932 (3:0)<br>
 	10. MUFSKIN (1:5)<br>
 <br>
-26. #dIehAppY (1026) +1<br>
-+22|+22|+21|+19|+11|+12|+8<br>
+26. #dIehAppY (1026) 0<br>
++22|+21|+21|+19|+10|+12|+8<br>
 	2. Vlajs001 (1:3)<br>
 	3. rickss (0:2)<br>
 	4. chomeur2 (2:0)<br>
 	6. DavidIggyLou (0:1)<br>
 <br>
-27. #eddie6323 (1024) -1<br>
+27. #eddie6323 (1024) 0<br>
 +39|+35|+39|+30|+30|+21|+18|+17|+5|+3<br>
 	1. GreatApple~214 (0:4)<br>
 	2. Vlajs001 (0:1)<br>
@@ -235,67 +237,66 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. DavidIggyLou (2:0)<br>
 	10. MUFSKIN (0:3)<br>
 <br>
-28. #katudondayo (1023) +1<br>
-+8|-1|-11|-16|-15|-4|-2<br>
+28. #katudondayo (1022) -1<br>
++7|-2|-12|-16|-15|-5|-2<br>
 	2. Vlajs001 (0:1)<br>
 	3. rickss (4:5)<br>
 	4. chomeur2 (1:2)<br>
 	9. SloppyTea~932 (0:2)<br>
 	10. MUFSKIN (2:3)<br>
 <br>
-29. #hods (1021) -1<br>
-+6|+1|+4|+2|0|-7|-3|-3|-5|-1<br>
+29. #hods (1021) 0<br>
++5|+1|+4|+2|-1|-7|-3|-4|-6|-1<br>
 	1. GreatApple~214 (0:1)<br>
 	3. rickss (1:1)<br>
-	4. chomeur2 (1:3)<br>
 	5. Arkady (1:0)<br>
 	6. DavidIggyLou (0:1)<br>
-	9. SloppyTea~932 (3:3)<br>
+	9. SloppyTea~932 (3:1)<br>
 	10. MUFSKIN (0:1)<br>
 <br>
-30. #mahone007 (1016) +1<br>
--27|-22|-13|-9|-9|-17|-17|-16|-12|-4<br>
-	3. rickss (4:4)<br>
-	4. chomeur2 (1:0)<br>
-	6. DavidIggyLou (1:0)<br>
-	10. MUFSKIN (4:7)<br>
-<br>
-31. #Milky007 (1015) 0<br>
-+11|-2<br>
+30. #Milky007 (1020) +5<br>
++16|+3<br>
 	7. GroovyFlame (0:1)<br>
 	8. Tiberius88 (1:1)<br>
 	10. MUFSKIN (1:0)<br>
 <br>
-32. #stront01 (1014) 0<br>
-+9|+15|+8|-4|-6|0<br>
+31. #stront01 (1019) +4<br>
++14|+19|+12|0|-2|+5<br>
 	1. GreatApple~214 (2:9)<br>
 	2. Vlajs001 (0:1)<br>
 	3. rickss (9:13)<br>
 	8. Tiberius88 (1:1)<br>
 	10. MUFSKIN (1:5)<br>
 <br>
-33. #BDAT10 (1012) 0<br>
-+10|+7|+13|+21|+15|+9|+2|-2|-7|-4<br>
+32. #BDAT10 (1016) +4<br>
++14|+11|+17|+25|+19|+13|+6|+2|-3|0<br>
 	3. rickss (3:0)<br>
 	4. chomeur2 (0:5)<br>
 	6. DavidIggyLou (0:3)<br>
+	10. MUFSKIN (0:2)<br>
+<br>
+33. #mahone007 (1016) 0<br>
+-22|-12|-9|-9|-17|-16|-16|-12|-4|0<br>
+	3. rickss (4:4)<br>
+	4. chomeur2 (1:0)<br>
+	6. DavidIggyLou (1:0)<br>
+	10. MUFSKIN (4:7)<br>
 <br>
 34. #GabbyHammer~479 (1007) 0<br>
 0|+11|+8|+7|+4<br>
 	2. Vlajs001 (3:4)<br>
-	4. chomeur2 (1:0)<br>
-	5. Arkady (4:4)<br>
+	5. Arkady (3:2)<br>
 	8. Tiberius88 (1:2)<br>
 <br>
-35. #jerocco (1004) +4<br>
-+1|+6|+12|+12|+7|+5|0|+5|+6|+4<br>
+35. #jerocco (1004) 0<br>
+0|+6|+12|+11|+6|+5|-1|+5|+6|+3<br>
 	1. GreatApple~214 (1:0)<br>
 	2. Vlajs001 (0:4)<br>
 	5. Arkady (1:1)<br>
 	9. SloppyTea~932 (0:1)<br>
 <br>
-36. #moonrocks (1004) -7<br>
--13|-14|-10|-9|-10|-6|-7|-3|-10|-8<br>
+36. #moonrocks (1004) 0<br>
+-13|-15|-10|-10|-10|-7|-8|-4|-11|-9<br>
 	1. GreatApple~214 (0:2)<br>
 	2. Vlajs001 (0:1)<br>
 	3. rickss (0:1)<br>
@@ -306,7 +307,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. SloppyTea~932 (1:4)<br>
 	10. MUFSKIN (0:1)<br>
 <br>
-37. #FeistyTea~555 (1004) -2<br>
+37. #FeistyTea~555 (1004) 0<br>
 -5|+2<br>
 	1. GreatApple~214 (1:0)<br>
 	2. Vlajs001 (3:1)<br>
@@ -314,7 +315,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Tiberius88 (1:0)<br>
 	10. MUFSKIN (1:1)<br>
 <br>
-38. #BrightWolf~137 (1002) +1<br>
+38. #BrightWolf~137 (1002) 0<br>
 +9|+6|-1|-2<br>
 	1. GreatApple~214 (0:1)<br>
 	2. Vlajs001 (1:1)<br>
@@ -323,8 +324,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. SloppyTea~932 (0:2)<br>
 	10. MUFSKIN (4:2)<br>
 <br>
-39. #nurglingde (1001) -1<br>
-+30|+23|+23|+17|+13|+10|0|-5|+4|+4<br>
+39. #nurglingde (1001) 0<br>
++30|+23|+23|+17|+13|+10|-1|-5|+4|+4<br>
 	1. GreatApple~214 (0:4)<br>
 	3. rickss (0:2)<br>
 	4. chomeur2 (0:1)<br>
@@ -332,23 +333,16 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Tiberius88 (1:0)<br>
 	10. MUFSKIN (3:2)<br>
 <br>
-40. #killerdude69 (1001) +1<br>
-+19|+11|+3|-2<br>
+40. #killerdude69 (1001) 0<br>
++18|+11|+3|-2|0<br>
 	1. GreatApple~214 (0:4)<br>
 	6. DavidIggyLou (0:1)<br>
 	7. GroovyFlame (1:1)<br>
 	8. Tiberius88 (2:3)<br>
 	9. SloppyTea~932 (0:1)<br>
 <br>
-41. #RaggedTramp~229 (998) 0<br>
-+14|+9|+12|+8|0<br>
-	1. GreatApple~214 (1:1)<br>
-	8. Tiberius88 (1:0)<br>
-	9. SloppyTea~932 (0:2)<br>
-	10. MUFSKIN (1:0)<br>
-<br>
-42. #KimJong (998) +1<br>
-+17|+5|+3|+1<br>
+41. #KimJong (999) +1<br>
++17|+6|+4|+1<br>
 	1. GreatApple~214 (0:2)<br>
 	2. Vlajs001 (1:3)<br>
 	3. rickss (0:1)<br>
@@ -358,7 +352,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Tiberius88 (1:3)<br>
 	9. SloppyTea~932 (3:2)<br>
 <br>
-43. #BadButter~266 (997) +3<br>
+42. #RaggedTramp~229 (998) 0<br>
++14|+9|+12|+8|0<br>
+	1. GreatApple~214 (1:1)<br>
+	8. Tiberius88 (1:0)<br>
+	9. SloppyTea~932 (0:2)<br>
+	10. MUFSKIN (1:0)<br>
+<br>
+43. #BadButter~266 (997) 0<br>
 -7|-4|-6|-5|+3|+2<br>
 	2. Vlajs001 (0:4)<br>
 	3. rickss (0:2)<br>
@@ -367,17 +368,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Tiberius88 (4:0)<br>
 	9. SloppyTea~932 (0:5)<br>
 <br>
-44. #GrayRain~366 (995) 0<br>
-+14|+1|+3<br>
-	2. Vlajs001 (2:1)<br>
-	3. rickss (0:4)<br>
-	4. chomeur2 (0:2)<br>
-	5. Arkady (0:1)<br>
-	6. DavidIggyLou (0:1)<br>
-	9. SloppyTea~932 (3:3)<br>
-<br>
-45. #thereason (995) -2<br>
--17|-8|-12|-2|-11|-16|-10|-2<br>
+44. #thereason (996) +1<br>
+-16|-7|-11|-1|-10|-14|-8|0<br>
 	1. GreatApple~214 (1:2)<br>
 	2. Vlajs001 (1:0)<br>
 	3. rickss (0:3)<br>
@@ -387,20 +379,29 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. GroovyFlame (1:1)<br>
 	8. Tiberius88 (1:1)<br>
 	9. SloppyTea~932 (0:6)<br>
-	10. MUFSKIN (2:2)<br>
+	10. MUFSKIN (0:1)<br>
 <br>
-46. #flames20 (995) 0<br>
-+4|+2|-2<br>
+45. #flames20 (995) 0<br>
++5|+2|-2<br>
 	1. GreatApple~214 (0:2)<br>
 	2. Vlajs001 (0:1)<br>
 	4. chomeur2 (2:2)<br>
 	5. Arkady (1:0)<br>
 	6. DavidIggyLou (1:1)<br>
-	7. GroovyFlame (0:5)<br>
+	7. GroovyFlame (0:3)<br>
 	8. Tiberius88 (2:0)<br>
 	9. SloppyTea~932 (3:5)<br>
 <br>
-47. #worldwarX (991) -6<br>
+46. #GrayRain~366 (994) -1<br>
++14|0|+2<br>
+	2. Vlajs001 (2:1)<br>
+	3. rickss (0:4)<br>
+	4. chomeur2 (0:1)<br>
+	5. Arkady (0:1)<br>
+	6. DavidIggyLou (0:3)<br>
+	9. SloppyTea~932 (2:3)<br>
+<br>
+47. #worldwarX (991) 0<br>
 -4|-6|-13|-15|-11|-9|-6|-3|-2|0<br>
 	2. Vlajs001 (0:1)<br>
 	3. rickss (2:4)<br>
@@ -409,23 +410,41 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Tiberius88 (1:4)<br>
 	10. MUFSKIN (4:0)<br>
 <br>
-48. #WiryFox~219 (984) +2<br>
-+5<br>
+48. #GreedyJeans~930 (990) -1<br>
++49|+53|+47|+39|+28|+30|+28|+16|+5|-1<br>
+	1. GreatApple~214 (0:3)<br>
+	3. rickss (0:1)<br>
+	4. chomeur2 (2:2)<br>
+	6. DavidIggyLou (1:3)<br>
+	9. SloppyTea~932 (1:2)<br>
+	10. MUFSKIN (0:2)<br>
+<br>
+49. #ChunkyRaven~586 (984) +3<br>
+-4|+6<br>
+	1. GreatApple~214 (0:4)<br>
+	6. DavidIggyLou (0:1)<br>
+	7. GroovyFlame (0:2)<br>
+	8. Tiberius88 (1:0)<br>
+	9. SloppyTea~932 (0:3)<br>
+	10. MUFSKIN (2:2)<br>
+<br>
+50. #WiryFox~219 (984) 0<br>
++5|+1<br>
 	3. rickss (0:1)<br>
 	4. chomeur2 (1:2)<br>
 	5. Arkady (1:1)<br>
 	6. DavidIggyLou (0:2)<br>
 	10. MUFSKIN (3:5)<br>
 <br>
-49. #FreshKettle~130 (983) 0<br>
--6|-8|-8|-4|-12<br>
+51. #FreshKettle~130 (982) -1<br>
+-7|-9|-9|-5|-13<br>
 	1. GreatApple~214 (1:4)<br>
 	2. Vlajs001 (1:1)<br>
 	6. DavidIggyLou (0:1)<br>
 	9. SloppyTea~932 (0:1)<br>
 <br>
-50. #smart_boy24 (982) 0<br>
-+11|+13|+12|-1<br>
+52. #smart_boy24 (981) -1<br>
++10|+12|+11|-2<br>
 	1. GreatApple~214 (0:1)<br>
 	2. Vlajs001 (1:5)<br>
 	3. rickss (2:6)<br>
@@ -436,17 +455,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. SloppyTea~932 (0:3)<br>
 	10. MUFSKIN (0:2)<br>
 <br>
-51. #ChunkyRaven~586 (981) -1<br>
--7|+3<br>
-	1. GreatApple~214 (0:4)<br>
-	6. DavidIggyLou (0:1)<br>
-	7. GroovyFlame (0:2)<br>
-	8. Tiberius88 (1:0)<br>
-	9. SloppyTea~932 (0:3)<br>
-	10. MUFSKIN (2:2)<br>
-<br>
-52. #turkeytower (973) 0<br>
-+4|0|-11|-13|-11|-13|-11|-9|-2|+6<br>
+53. #turkeytower (974) +1<br>
++4|+1|-10|-12|-10|-12|-10|-9|-1|+7<br>
 	1. GreatApple~214 (1:9)<br>
 	2. Vlajs001 (0:1)<br>
 	3. rickss (3:3)<br>
@@ -455,14 +465,6 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Tiberius88 (0:2)<br>
 	9. SloppyTea~932 (4:5)<br>
 	10. MUFSKIN (1:0)<br>
-<br>
-53. #smurfa (969) -1<br>
-+18|+15|+15|+16|+13|+3|+8|+10|+19|+1<br>
-	1. GreatApple~214 (0:2)<br>
-	4. chomeur2 (0:1)<br>
-	8. Tiberius88 (2:5)<br>
-	9. SloppyTea~932 (1:4)<br>
-	10. MUFSKIN (3:0)<br>
 <br>
 54. #Jakal_221 (967) 0<br>
 +20|+2|+2<br>
@@ -475,16 +477,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. SloppyTea~932 (2:1)<br>
 	10. MUFSKIN (4:2)<br>
 <br>
-55. #Gungala (966) 0<br>
--25|-4|-9|-2|-2|-4|-4|+4<br>
-	1. GreatApple~214 (0:1)<br>
-	6. DavidIggyLou (4:3)<br>
-	7. GroovyFlame (1:5)<br>
-	8. Tiberius88 (0:2)<br>
-	10. MUFSKIN (1:1)<br>
-<br>
-56. #jewking (966) +3<br>
-+16|+10|+5<br>
+55. #jewking (964) -2<br>
++14|+8|+3<br>
 	1. GreatApple~214 (0:2)<br>
 	2. Vlajs001 (1:1)<br>
 	5. Arkady (1:2)<br>
@@ -492,8 +486,24 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. SloppyTea~932 (0:1)<br>
 	10. MUFSKIN (1:1)<br>
 <br>
-57. #sexflower69 (963) +3<br>
--1|+3|+6|+11|+15|+18|+3|+3|0<br>
+56. #smurfa (964) -5<br>
++13|+10|+10|+11|+8|-2|+3|+5|+14|-4<br>
+	1. GreatApple~214 (0:2)<br>
+	4. chomeur2 (0:1)<br>
+	8. Tiberius88 (2:5)<br>
+	9. SloppyTea~932 (1:4)<br>
+	10. MUFSKIN (3:0)<br>
+<br>
+57. #Gungala (961) -5<br>
+-30|-9|-13|-7|-7|-9|-9|-1<br>
+	1. GreatApple~214 (0:1)<br>
+	6. DavidIggyLou (4:3)<br>
+	7. GroovyFlame (1:5)<br>
+	8. Tiberius88 (0:2)<br>
+	10. MUFSKIN (1:1)<br>
+<br>
+58. #sexflower69 (961) -2<br>
+-2|+1|+4|+9|+14|+16|+1|+2|-2<br>
 	1. GreatApple~214 (0:5)<br>
 	4. chomeur2 (0:1)<br>
 	5. Arkady (0:4)<br>
@@ -501,26 +511,37 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Tiberius88 (2:1)<br>
 	9. SloppyTea~932 (1:1)<br>
 <br>
-58. #iwin96 (962) +1<br>
--31|-31|-22|-14|-11|-9|-5|-3|-1<br>
-	1. GreatApple~214 (2:2)<br>
+59. #iwin96 (959) -3<br>
+-34|-34|-25|-17|-14|-12|-8|-5|-3<br>
+	1. GreatApple~214 (3:2)<br>
 	2. Vlajs001 (0:2)<br>
 	5. Arkady (0:2)<br>
 	6. DavidIggyLou (0:1)<br>
-	10. MUFSKIN (2:4)<br>
+	10. MUFSKIN (1:3)<br>
 <br>
-59. #DarkSith666 (959) 0<br>
--9|-9|-4|0|+3|+2|+2|+1|-15|-8<br>
-	1. GreatApple~214 (0:3)<br>
+60. #u6o_Hexyu (958) +16<br>
++15<br>
+	1. GreatApple~214 (2:2)<br>
+	2. Vlajs001 (0:1)<br>
+	3. rickss (2:1)<br>
+	5. Arkady (0:3)<br>
+	6. DavidIggyLou (0:1)<br>
+	7. GroovyFlame (1:0)<br>
+	8. Tiberius88 (2:3)<br>
+	10. MUFSKIN (1:1)<br>
+<br>
+61. #DarkSith666 (957) -1<br>
+-10|-10|-5|-1|+2|0|+1|0|-16|-10<br>
+	1. GreatApple~214 (0:4)<br>
 	3. rickss (0:2)<br>
 	5. Arkady (1:1)<br>
 	6. DavidIggyLou (0:2)<br>
 	8. Tiberius88 (0:4)<br>
 	10. MUFSKIN (2:0)<br>
 <br>
-60. #WigglyCar~568 (950) 0<br>
--13|-15|-8|-2<br>
-	1. GreatApple~214 (0:2)<br>
+62. #WigglyCar~568 (949) -2<br>
+-15|-17|-10|-4<br>
+	1. GreatApple~214 (0:5)<br>
 	3. rickss (1:2)<br>
 	5. Arkady (0:1)<br>
 	6. DavidIggyLou (0:2)<br>
@@ -529,7 +550,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. SloppyTea~932 (1:7)<br>
 	10. MUFSKIN (1:3)<br>
 <br>
-61. #Arndtdk (942) 0<br>
+63. #Arndtdk (942) 0<br>
 -33|-10|-8<br>
 	4. chomeur2 (1:0)<br>
 	5. Arkady (1:0)<br>
@@ -537,18 +558,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Tiberius88 (1:3)<br>
 	10. MUFSKIN (1:2)<br>
 <br>
-62. #Ranger1stBat (933) +2<br>
-+26|+22|+20|+21|+8|+12|+10|+6|+5|+5<br>
-	1. GreatApple~214 (0:3)<br>
+64. #Ranger1stBat (939) +6<br>
++32|+28|+26|+27|+14|+18|+16|+12|+11|+11<br>
+	1. GreatApple~214 (0:4)<br>
 	5. Arkady (1:1)<br>
 	6. DavidIggyLou (0:1)<br>
-	8. Tiberius88 (0:1)<br>
+	8. Tiberius88 (0:3)<br>
 	9. SloppyTea~932 (0:1)<br>
 	10. MUFSKIN (1:5)<br>
 <br>
-63. #meltedcheese (928) 0<br>
--2|0|-1|-14|-21|-19|-13|-10|-3|0<br>
+65. #meltedcheese (930) +2<br>
+0|+2|+1|-12|-20|-17|-11|-8|-1|+2<br>
 	2. Vlajs001 (1:4)<br>
 	3. rickss (0:1)<br>
 	5. Arkady (1:7)<br>
-	6. DavidIggyLou (0:2)<br>
+	6. DavidIggyLou (0:1)<br>
