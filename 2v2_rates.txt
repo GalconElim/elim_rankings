@@ -1,662 +1,691 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #JDHA218 (1327) 0<br>
-+185|+162|+131|+100|+95|+75|+66|+31|+13|-2<br>
-	2. zamrai (4:3)<br>
-	6. rho (23:19)<br>
-	7. xMillY (1:2)<br>
-	9. fifty6 (22:18)<br>
-	10. SyMSyMmy (16:14)<br>
+1. #operator. (1387) 0<br>
++141|+66<br>
+	3. zamrai (3:6)<br>
+	4. dIehAppY (19:10)<br>
+	5. tidyboot-653 (11:12)<br>
+	10. SyMSyMmy (1:0)<br>
 <br>
-2. #zamrai (1315) 0<br>
--44|-21|-12|-16|-28|-18|-3|-10|-15|-6<br>
-	1. JDHA218 (3:4)<br>
-	3. dIehAppY (29:29)<br>
-	4. tidyboot-653 (49:51)<br>
-	5. Omnibus (2:0)<br>
-	6. rho (7:10)<br>
-	8. GoOodY (8:11)<br>
-	9. fifty6 (5:9)<br>
+2. #JDHA218 (1324) -2<br>
++182|+159|+128|+97|+93|+73|+64|+29|+10|-4<br>
+	3. zamrai (4:3)<br>
+	7. rho (23:19)<br>
+	8. xMillY (1:2)<br>
+	10. SyMSyMmy (16:15)<br>
+<br>
+3. #zamrai (1316) +3<br>
+-42|-19|-11|-14|-27|-17|-1|-9|-13|-4<br>
+	1. operator. (6:3)<br>
+	2. JDHA218 (3:4)<br>
+	4. dIehAppY (29:29)<br>
+	5. tidyboot-653 (49:51)<br>
+	6. Omnibus (2:0)<br>
+	7. rho (7:10)<br>
+	9. GoOodY (8:11)<br>
 	10. SyMSyMmy (11:6)<br>
 <br>
-3. #dIehAppY (1307) +7<br>
-+38|+32|+31|+26|+26|+21|+21|+15|+15|+1<br>
-	2. zamrai (29:29)<br>
-	4. tidyboot-653 (78:76)<br>
-	5. Omnibus (2:2)<br>
-	6. rho (2:5)<br>
-	7. xMillY (17:18)<br>
-	8. GoOodY (48:41)<br>
-	9. fifty6 (93:72)<br>
-	10. SyMSyMmy (63:50)<br>
+4. #dIehAppY (1304) -3<br>
++35|+29|+28|+23|+23|+18|+18|+12|+12|-2<br>
+	1. operator. (10:19)<br>
+	3. zamrai (29:29)<br>
+	5. tidyboot-653 (78:76)<br>
+	6. Omnibus (2:2)<br>
+	7. rho (2:5)<br>
+	8. xMillY (17:18)<br>
+	9. GoOodY (48:41)<br>
+	10. SyMSyMmy (65:50)<br>
 <br>
-4. #tidyboot-653 (1290) 0<br>
+5. #tidyboot-653 (1290) 0<br>
 -71|+58|+17|-45|+34|-18|-13|-35|-17<br>
-	2. zamrai (51:49)<br>
-	3. dIehAppY (76:78)<br>
-	5. Omnibus (1:1)<br>
-	6. rho (10:6)<br>
-	7. xMillY (4:1)<br>
-	8. GoOodY (10:10)<br>
-	9. fifty6 (24:17)<br>
+	1. operator. (12:11)<br>
+	3. zamrai (51:49)<br>
+	4. dIehAppY (76:78)<br>
+	6. Omnibus (1:1)<br>
+	7. rho (10:6)<br>
+	8. xMillY (4:1)<br>
+	9. GoOodY (10:10)<br>
 	10. SyMSyMmy (4:2)<br>
 <br>
-5. #Omnibus (1269) 0<br>
+6. #Omnibus (1269) 0<br>
 +71|+87|+72|+42|+61|+66|+13|-1|-4|-21<br>
-	2. zamrai (0:2)<br>
-	3. dIehAppY (2:2)<br>
-	4. tidyboot-653 (1:1)<br>
-	6. rho (1:3)<br>
-	8. GoOodY (2:0)<br>
+	3. zamrai (0:2)<br>
+	4. dIehAppY (2:2)<br>
+	5. tidyboot-653 (1:1)<br>
+	7. rho (1:3)<br>
+	9. GoOodY (2:0)<br>
 	10. SyMSyMmy (9:4)<br>
 <br>
-6. #rho (1266) 0<br>
+7. #rho (1266) 0<br>
 +238|+134|+132|+123|+135|+98|+126|+70|+58|+18<br>
-	1. JDHA218 (19:23)<br>
-	2. zamrai (10:7)<br>
-	3. dIehAppY (5:2)<br>
-	4. tidyboot-653 (6:10)<br>
-	5. Omnibus (3:1)<br>
-	7. xMillY (3:2)<br>
-	8. GoOodY (0:3)<br>
-	9. fifty6 (15:15)<br>
+	2. JDHA218 (19:23)<br>
+	3. zamrai (10:7)<br>
+	4. dIehAppY (5:2)<br>
+	5. tidyboot-653 (6:10)<br>
+	6. Omnibus (3:1)<br>
+	8. xMillY (3:2)<br>
+	9. GoOodY (0:3)<br>
 	10. SyMSyMmy (1:2)<br>
 <br>
-7. #xMillY (1265) 0<br>
+8. #xMillY (1265) 0<br>
 +370|+166|-24|+25<br>
-	1. JDHA218 (2:1)<br>
-	3. dIehAppY (18:17)<br>
-	4. tidyboot-653 (1:4)<br>
-	6. rho (2:3)<br>
-	8. GoOodY (2:2)<br>
+	2. JDHA218 (2:1)<br>
+	4. dIehAppY (18:17)<br>
+	5. tidyboot-653 (1:4)<br>
+	7. rho (2:3)<br>
+	9. GoOodY (2:2)<br>
 	10. SyMSyMmy (1:3)<br>
 <br>
-8. #GoOodY (1258) 0<br>
+9. #GoOodY (1258) 0<br>
 +8|+14|+16|+1|+3|+5|+7|+8|+6|-1<br>
-	2. zamrai (11:8)<br>
-	3. dIehAppY (41:48)<br>
-	4. tidyboot-653 (10:10)<br>
-	5. Omnibus (0:2)<br>
-	6. rho (3:0)<br>
-	7. xMillY (2:2)<br>
+	3. zamrai (11:8)<br>
+	4. dIehAppY (41:48)<br>
+	5. tidyboot-653 (10:10)<br>
+	6. Omnibus (0:2)<br>
+	7. rho (3:0)<br>
+	8. xMillY (2:2)<br>
 	10. SyMSyMmy (1:2)<br>
 <br>
-9. #fifty6 (1258) 0<br>
-+33|+101|-26|-59|-15|-17|-46<br>
-	1. JDHA218 (18:22)<br>
-	2. zamrai (9:5)<br>
-	3. dIehAppY (72:93)<br>
-	4. tidyboot-653 (17:24)<br>
-	6. rho (15:15)<br>
+10. #SyMSyMmy (1258) +1<br>
++47|+51|+22|+7|+10|-14|-1|-33|-33|0<br>
+	1. operator. (0:1)<br>
+	2. JDHA218 (15:16)<br>
+	3. zamrai (6:11)<br>
+	4. dIehAppY (50:65)<br>
+	5. tidyboot-653 (2:4)<br>
+	6. Omnibus (4:9)<br>
+	7. rho (2:1)<br>
+	8. xMillY (3:1)<br>
+	9. GoOodY (2:1)<br>
+<br>
+11. #fifty6 (1253) 0<br>
++28|+96|-32|-64|-21|-23|-52|0<br>
+	1. operator. (4:13)<br>
+	2. JDHA218 (18:22)<br>
+	3. zamrai (9:5)<br>
+	4. dIehAppY (72:93)<br>
+	5. tidyboot-653 (17:24)<br>
+	7. rho (15:15)<br>
 	10. SyMSyMmy (26:32)<br>
 <br>
-10. #SyMSyMmy (1253) +2<br>
-+42|+46|+18|+2|+6|-19|-6|-38|-38|-5<br>
-	1. JDHA218 (14:16)<br>
-	2. zamrai (6:11)<br>
-	3. dIehAppY (50:63)<br>
-	4. tidyboot-653 (2:4)<br>
-	5. Omnibus (4:9)<br>
-	6. rho (2:1)<br>
-	7. xMillY (3:1)<br>
-	8. GoOodY (2:1)<br>
-	9. fifty6 (32:26)<br>
-<br>
-11. #rumburak (1247) 0<br>
+12. #rumburak (1247) 0<br>
 +12|+96|+110|+64<br>
-	3. dIehAppY (24:20)<br>
-	6. rho (7:2)<br>
-	7. xMillY (4:2)<br>
-	8. GoOodY (6:7)<br>
-	9. fifty6 (6:5)<br>
+	4. dIehAppY (24:20)<br>
+	7. rho (7:2)<br>
+	8. xMillY (4:2)<br>
+	9. GoOodY (6:7)<br>
 	10. SyMSyMmy (4:1)<br>
 <br>
-12. #Spinne (1235) 0<br>
+13. #Spinne (1235) 0<br>
 -6|-6|+1|+5|+1|-2|-3|-1|0|-7<br>
-	1. JDHA218 (12:14)<br>
-	2. zamrai (14:33)<br>
-	3. dIehAppY (62:70)<br>
-	4. tidyboot-653 (55:50)<br>
-	5. Omnibus (20:28)<br>
-	6. rho (4:1)<br>
-	7. xMillY (2:4)<br>
-	8. GoOodY (32:32)<br>
-	9. fifty6 (4:5)<br>
+	2. JDHA218 (12:14)<br>
+	3. zamrai (8:22)<br>
+	4. dIehAppY (62:70)<br>
+	5. tidyboot-653 (55:50)<br>
+	6. Omnibus (20:28)<br>
+	7. rho (4:1)<br>
+	8. xMillY (2:4)<br>
+	9. GoOodY (32:32)<br>
 	10. SyMSyMmy (8:10)<br>
 <br>
-13. #strangelove (1233) 0<br>
+14. #strangelove (1233) 0<br>
 0|+12|+2|+23|+10|-13|-16|-15|-6|-11<br>
-	1. JDHA218 (9:26)<br>
-	2. zamrai (4:17)<br>
-	3. dIehAppY (154:166)<br>
-	5. Omnibus (27:41)<br>
-	6. rho (11:22)<br>
-	7. xMillY (28:23)<br>
-	8. GoOodY (52:37)<br>
-	9. fifty6 (50:77)<br>
+	1. operator. (21:31)<br>
+	2. JDHA218 (9:26)<br>
+	3. zamrai (4:17)<br>
+	4. dIehAppY (154:166)<br>
+	6. Omnibus (27:41)<br>
+	7. rho (11:22)<br>
+	8. xMillY (28:23)<br>
+	9. GoOodY (52:37)<br>
 <br>
-14. #GoodAce (1220) 0<br>
--2|-2|+7|-8|-8|-3|+11|+6|-3|-6<br>
-	1. JDHA218 (6:14)<br>
-	2. zamrai (4:5)<br>
-	3. dIehAppY (24:41)<br>
-	4. tidyboot-653 (10:15)<br>
-	7. xMillY (4:3)<br>
-	8. GoOodY (15:15)<br>
-	9. fifty6 (6:15)<br>
+15. #GoodAce (1219) +3<br>
+-3|-3|+6|-9|-9|-4|+10|+5|-4|-7<br>
+	1. operator. (0:2)<br>
+	2. JDHA218 (6:14)<br>
+	3. zamrai (4:5)<br>
+	4. dIehAppY (26:41)<br>
+	5. tidyboot-653 (10:15)<br>
+	8. xMillY (4:3)<br>
+	9. GoOodY (15:15)<br>
 	10. SyMSyMmy (38:43)<br>
 <br>
-15. #pablo55 (1218) 0<br>
+16. #pablo55 (1218) 0<br>
 +120|+97|+36|+35|+41|+11|+12|-2|-10|-5<br>
-	1. JDHA218 (13:8)<br>
-	2. zamrai (1:2)<br>
-	3. dIehAppY (11:11)<br>
-	4. tidyboot-653 (1:3)<br>
-	5. Omnibus (1:3)<br>
-	7. xMillY (4:0)<br>
-	9. fifty6 (7:4)<br>
+	2. JDHA218 (13:8)<br>
+	3. zamrai (1:2)<br>
+	4. dIehAppY (11:11)<br>
+	5. tidyboot-653 (1:3)<br>
+	6. Omnibus (1:3)<br>
+	8. xMillY (4:0)<br>
 	10. SyMSyMmy (7:4)<br>
 <br>
-16. #joropo808 (1212) 0<br>
+17. #Devil- (1216) +12<br>
++81|-76|+21|+1<br>
+	4. dIehAppY (18:32)<br>
+	9. GoOodY (1:0)<br>
+	10. SyMSyMmy (8:22)<br>
+<br>
+18. #joropo808 (1212) 0<br>
 +29|-23|-21|+14|0|-19|+7|-5<br>
-	2. zamrai (2:2)<br>
-	3. dIehAppY (23:28)<br>
-	4. tidyboot-653 (5:10)<br>
-	8. GoOodY (5:3)<br>
-	9. fifty6 (2:0)<br>
+	1. operator. (6:7)<br>
+	3. zamrai (2:2)<br>
+	4. dIehAppY (23:28)<br>
+	5. tidyboot-653 (5:10)<br>
+	9. GoOodY (5:3)<br>
 	10. SyMSyMmy (0:6)<br>
 <br>
-17. #GooZok (1212) 0<br>
+19. #GooZok (1212) 0<br>
 -44|-54|-36|-20|-21|-20|-5|+2|+8|+2<br>
-	1. JDHA218 (2:2)<br>
-	3. dIehAppY (3:1)<br>
-	4. tidyboot-653 (6:10)<br>
-	6. rho (1:2)<br>
-	8. GoOodY (4:4)<br>
+	1. operator. (8:12)<br>
+	2. JDHA218 (2:2)<br>
+	4. dIehAppY (3:1)<br>
+	5. tidyboot-653 (6:10)<br>
+	7. rho (1:2)<br>
+	9. GoOodY (4:4)<br>
 	10. SyMSyMmy (0:1)<br>
 <br>
-18. #zeropoint (1212) -1<br>
-+11|-3|+5|+3|-2|+2|-6|0|+2|+1<br>
-	3. dIehAppY (56:72)<br>
-	5. Omnibus (6:6)<br>
-	7. xMillY (2:3)<br>
-	8. GoOodY (79:89)<br>
-	10. SyMSyMmy (20:48)<br>
-<br>
-19. #syrius (1211) 0<br>
+20. #syrius (1211) 0<br>
 +30|+28|+29|-7|+33|+23|+29|+37|+26|+19<br>
-	1. JDHA218 (0:2)<br>
-	2. zamrai (3:2)<br>
-	3. dIehAppY (3:2)<br>
-	4. tidyboot-653 (0:1)<br>
-	8. GoOodY (4:5)<br>
+	2. JDHA218 (0:2)<br>
+	3. zamrai (3:2)<br>
+	4. dIehAppY (3:2)<br>
+	5. tidyboot-653 (0:1)<br>
+	9. GoOodY (4:5)<br>
 	10. SyMSyMmy (1:3)<br>
 <br>
-20. #ss0317 (1211) 0<br>
+21. #zeropoint (1211) -3<br>
++10|-3|+5|+2|-3|+1|-7|-1|+2|0<br>
+	4. dIehAppY (57:79)<br>
+	6. Omnibus (6:6)<br>
+	8. xMillY (2:3)<br>
+	9. GoOodY (79:89)<br>
+	10. SyMSyMmy (20:48)<br>
+<br>
+22. #ss0317 (1211) 0<br>
 +158|+89|+70|+48|+66|+29|+44|+38|-2|-1<br>
-	1. JDHA218 (1:2)<br>
-	3. dIehAppY (2:5)<br>
-	5. Omnibus (2:5)<br>
-	7. xMillY (6:2)<br>
+	2. JDHA218 (1:2)<br>
+	4. dIehAppY (2:5)<br>
+	6. Omnibus (2:5)<br>
+	8. xMillY (6:2)<br>
 	10. SyMSyMmy (0:1)<br>
 <br>
-21. #mills14 (1206) 0<br>
+23. #mills14 (1206) 0<br>
 +245|+180|+212|+146|+64|+33<br>
-	1. JDHA218 (8:8)<br>
-	2. zamrai (0:3)<br>
-	3. dIehAppY (4:9)<br>
-	4. tidyboot-653 (2:2)<br>
-	6. rho (2:4)<br>
-	9. fifty6 (3:7)<br>
+	2. JDHA218 (8:8)<br>
+	3. zamrai (0:3)<br>
+	4. dIehAppY (4:9)<br>
+	5. tidyboot-653 (2:2)<br>
+	7. rho (2:4)<br>
 <br>
-22. #Devil- (1201) 0<br>
-+66|-90|+7|-14<br>
-	3. dIehAppY (18:32)<br>
-	8. GoOodY (1:0)<br>
-	10. SyMSyMmy (7:21)<br>
-<br>
-23. #Enlights (1200) 0<br>
--1|-12|-11|-2|-10|-6|-3|-7|+6|-1<br>
-	1. JDHA218 (2:2)<br>
-	2. zamrai (0:1)<br>
-	3. dIehAppY (16:14)<br>
-	7. xMillY (2:1)<br>
-	8. GoOodY (17:20)<br>
-	10. SyMSyMmy (4:4)<br>
-<br>
-24. #Ninjaboom (1198) 0<br>
-+24|+20|-1|+9|+2|-3|0|-15|-11|-9<br>
-	1. JDHA218 (2:2)<br>
-	2. zamrai (19:34)<br>
-	3. dIehAppY (50:69)<br>
-	4. tidyboot-653 (65:70)<br>
-	5. Omnibus (5:6)<br>
-	6. rho (14:18)<br>
-	7. xMillY (3:4)<br>
-	8. GoOodY (11:9)<br>
-	9. fifty6 (4:21)<br>
+24. #Ninjaboom (1203) +4<br>
++25|+4|+14|+7|+2|+6|-9|-5|-4|+7<br>
+	1. operator. (0:1)<br>
+	2. JDHA218 (2:2)<br>
+	3. zamrai (19:34)<br>
+	4. dIehAppY (50:69)<br>
+	5. tidyboot-653 (65:70)<br>
+	6. Omnibus (5:6)<br>
+	7. rho (14:18)<br>
+	8. xMillY (3:4)<br>
+	9. GoOodY (11:9)<br>
 	10. SyMSyMmy (16:25)<br>
 <br>
-25. #Gyrfa1con (1198) 0<br>
-+8|-8|-19|-5|+7|+1|+14|+25|+8|+8<br>
-	2. zamrai (8:3)<br>
-	3. dIehAppY (23:35)<br>
-	4. tidyboot-653 (29:28)<br>
-	5. Omnibus (1:2)<br>
-	7. xMillY (3:7)<br>
-	8. GoOodY (10:16)<br>
-	9. fifty6 (2:0)<br>
-	10. SyMSyMmy (15:16)<br>
+25. #Enlights (1199) 0<br>
+-1|-13|-12|-3|-10|-7|-4|-8|+5|-2<br>
+	2. JDHA218 (2:2)<br>
+	3. zamrai (0:1)<br>
+	4. dIehAppY (16:14)<br>
+	8. xMillY (2:1)<br>
+	9. GoOodY (17:20)<br>
+	10. SyMSyMmy (4:4)<br>
 <br>
-26. #jas (1191) 0<br>
--5|-7|0|-4|+1|-1|+6|+3|0|-4<br>
-	1. JDHA218 (3:10)<br>
-	2. zamrai (1:1)<br>
-	3. dIehAppY (70:81)<br>
-	4. tidyboot-653 (20:23)<br>
-	7. xMillY (11:13)<br>
-	8. GoOodY (12:33)<br>
-	9. fifty6 (1:2)<br>
-	10. SyMSyMmy (7:6)<br>
+26. #Gyrfa1con (1199) +1<br>
++9|-7|-17|-4|+9|+2|+15|+26|+10|+9<br>
+	3. zamrai (8:3)<br>
+	4. dIehAppY (23:35)<br>
+	5. tidyboot-653 (29:28)<br>
+	6. Omnibus (1:2)<br>
+	8. xMillY (3:7)<br>
+	9. GoOodY (10:16)<br>
+	10. SyMSyMmy (15:16)<br>
 <br>
 27. #STruC (1191) 0<br>
 -19|-54|-54|-63|-53|-25|-25|-19|-24|-10<br>
-	1. JDHA218 (1:0)<br>
-	2. zamrai (10:9)<br>
-	3. dIehAppY (75:105)<br>
-	4. tidyboot-653 (2:1)<br>
-	5. Omnibus (13:16)<br>
-	7. xMillY (0:1)<br>
-	8. GoOodY (6:8)<br>
-	9. fifty6 (2:4)<br>
+	2. JDHA218 (1:0)<br>
+	3. zamrai (10:9)<br>
+	4. dIehAppY (75:105)<br>
+	5. tidyboot-653 (2:1)<br>
+	6. Omnibus (13:16)<br>
+	8. xMillY (0:1)<br>
+	9. GoOodY (6:8)<br>
 	10. SyMSyMmy (10:15)<br>
 <br>
-28. #mafl (1188) 0<br>
--13|-12|-4|-21|-22|-19|-7|+3|-6|0<br>
-	1. JDHA218 (2:0)<br>
-	3. dIehAppY (5:14)<br>
-	4. tidyboot-653 (2:1)<br>
-	5. Omnibus (1:3)<br>
-	7. xMillY (0:3)<br>
-	10. SyMSyMmy (1:0)<br>
-<br>
-29. #KANT (1188) 0<br>
-+49|+37|+43|+45|+26|+42|+22|+10|+8|-3<br>
-	2. zamrai (2:1)<br>
-	3. dIehAppY (18:27)<br>
-	4. tidyboot-653 (5:5)<br>
-	6. rho (8:13)<br>
-	7. xMillY (1:0)<br>
-	8. GoOodY (14:13)<br>
+28. #KANT (1190) +3<br>
++52|+39|+45|+48|+29|+45|+25|+13|+11|-1<br>
+	3. zamrai (2:1)<br>
+	4. dIehAppY (19:27)<br>
+	5. tidyboot-653 (5:5)<br>
+	7. rho (8:13)<br>
+	8. xMillY (1:0)<br>
+	9. GoOodY (14:13)<br>
 	10. SyMSyMmy (0:1)<br>
 <br>
-30. #jman8080 (1185) 0<br>
+29. #jas (1190) +3<br>
+-8|-2|-5|0|-2|+5|+2|-1|-6|+2<br>
+	2. JDHA218 (3:10)<br>
+	3. zamrai (1:1)<br>
+	4. dIehAppY (76:88)<br>
+	5. tidyboot-653 (20:23)<br>
+	8. xMillY (11:13)<br>
+	9. GoOodY (12:33)<br>
+	10. SyMSyMmy (7:6)<br>
+<br>
+30. #mafl (1188) 0<br>
+-13|-12|-4|-21|-22|-19|-7|+3|-6|0<br>
+	2. JDHA218 (2:0)<br>
+	4. dIehAppY (5:14)<br>
+	5. tidyboot-653 (2:1)<br>
+	6. Omnibus (1:3)<br>
+	8. xMillY (0:3)<br>
+	10. SyMSyMmy (1:0)<br>
+<br>
+31. #jman8080 (1185) 0<br>
 +88|+110|+43|+64|+32|+62|+68|+49|+28|0<br>
-	1. JDHA218 (2:2)<br>
-	3. dIehAppY (5:6)<br>
-	4. tidyboot-653 (3:2)<br>
-	6. rho (3:3)<br>
-	8. GoOodY (0:1)<br>
+	1. operator. (2:9)<br>
+	2. JDHA218 (2:2)<br>
+	4. dIehAppY (5:6)<br>
+	5. tidyboot-653 (3:2)<br>
+	7. rho (3:3)<br>
+	9. GoOodY (0:1)<br>
 	10. SyMSyMmy (18:15)<br>
 <br>
-31. #Parko (1181) 0<br>
-+110|+108|+89|+73|+76|+62|+36|+7|+9|0<br>
-	3. dIehAppY (2:3)<br>
-	5. Omnibus (2:1)<br>
-	10. SyMSyMmy (15:8)<br>
-<br>
-32. #gone_vortex (1177) 0<br>
-+9|+60|+73|+85|+92|+106|+91|+73|-3|+7<br>
-	1. JDHA218 (2:2)<br>
-	3. dIehAppY (12:25)<br>
-	6. rho (3:1)<br>
-	7. xMillY (1:0)<br>
-	8. GoOodY (1:2)<br>
+32. #gone_vortex (1183) 0<br>
++15|+66|+79|+91|+97|+112|+97|+79|+3|+12<br>
+	1. operator. (1:1)<br>
+	2. JDHA218 (2:2)<br>
+	4. dIehAppY (12:25)<br>
+	7. rho (3:1)<br>
+	8. xMillY (1:0)<br>
+	9. GoOodY (1:2)<br>
 	10. SyMSyMmy (17:25)<br>
 <br>
-33. #goner (1171) 0<br>
--22|-4|+1|+8|+10|+17|+10|+1|+6|+3<br>
-	1. JDHA218 (0:3)<br>
-	3. dIehAppY (5:10)<br>
-	6. rho (1:10)<br>
+33. #Parko (1181) 0<br>
++110|+108|+89|+73|+76|+62|+36|+7|+9|0<br>
+	4. dIehAppY (2:3)<br>
+	6. Omnibus (2:1)<br>
+	10. SyMSyMmy (15:8)<br>
 <br>
-34. #GenghisCon (1170) -2<br>
--5|-15|+2|+11|-28|-50|-44|-30|-1|0<br>
-	1. JDHA218 (2:5)<br>
-	2. zamrai (15:16)<br>
-	3. dIehAppY (36:52)<br>
-	4. tidyboot-653 (37:46)<br>
-	5. Omnibus (3:1)<br>
-	6. rho (7:6)<br>
-	7. xMillY (1:1)<br>
-	8. GoOodY (2:7)<br>
-	10. SyMSyMmy (8:7)<br>
+34. #goner (1171) 0<br>
+-22|-4|+1|+8|+10|+17|+10|+1|+6|+3<br>
+	2. JDHA218 (0:3)<br>
+	4. dIehAppY (5:10)<br>
+	7. rho (1:10)<br>
 <br>
 35. #SadGalaxy360 (1169) 0<br>
 +25|+22|+35|+35|-4|+8|-3|-12|-7|-5<br>
-	1. JDHA218 (1:0)<br>
-	2. zamrai (1:2)<br>
-	3. dIehAppY (1:2)<br>
-	4. tidyboot-653 (5:7)<br>
-	5. Omnibus (1:0)<br>
-	6. rho (1:1)<br>
-	7. xMillY (1:0)<br>
-	8. GoOodY (6:6)<br>
+	2. JDHA218 (1:0)<br>
+	3. zamrai (1:2)<br>
+	4. dIehAppY (1:2)<br>
+	5. tidyboot-653 (5:7)<br>
+	6. Omnibus (1:0)<br>
+	7. rho (1:1)<br>
+	8. xMillY (1:0)<br>
+	9. GoOodY (6:6)<br>
 <br>
-36. #spaceycarrot (1162) -1<br>
+36. #GenghisCon (1167) -2<br>
+-8|-18|-1|+9|-30|-52|-46|-32|-3|-2<br>
+	1. operator. (1:3)<br>
+	2. JDHA218 (2:5)<br>
+	3. zamrai (6:7)<br>
+	4. dIehAppY (36:52)<br>
+	5. tidyboot-653 (37:46)<br>
+	6. Omnibus (3:1)<br>
+	7. rho (7:6)<br>
+	8. xMillY (1:1)<br>
+	9. GoOodY (2:7)<br>
+	10. SyMSyMmy (8:7)<br>
+<br>
+37. #spaceycarrot (1162) 0<br>
 +51|+18|+22|+24|-2|-23|-42|-18|-3|-1<br>
-	1. JDHA218 (6:14)<br>
-	3. dIehAppY (21:38)<br>
-	4. tidyboot-653 (2:3)<br>
-	6. rho (3:0)<br>
-	7. xMillY (2:2)<br>
-	8. GoOodY (26:30)<br>
+	2. JDHA218 (6:14)<br>
+	4. dIehAppY (21:38)<br>
+	5. tidyboot-653 (2:3)<br>
+	7. rho (3:0)<br>
+	8. xMillY (2:2)<br>
+	9. GoOodY (26:30)<br>
 	10. SyMSyMmy (43:45)<br>
 <br>
-37. #keyblade335 (1157) -2<br>
+38. #im_GORY (1161) -5<br>
++346|+191|+140|+133|+110|+62|+48<br>
+	4. dIehAppY (2:6)<br>
+	6. Omnibus (1:0)<br>
+	8. xMillY (2:2)<br>
+	9. GoOodY (1:3)<br>
+	10. SyMSyMmy (4:5)<br>
+<br>
+39. #keyblade335 (1157) 0<br>
 +12|+17|+9|-3|-5|+5|+10|+7|-2|-6<br>
-	1. JDHA218 (13:20)<br>
-	2. zamrai (5:6)<br>
-	3. dIehAppY (30:35)<br>
-	4. tidyboot-653 (2:4)<br>
-	6. rho (9:13)<br>
-	7. xMillY (6:7)<br>
-	8. GoOodY (1:15)<br>
-	9. fifty6 (2:0)<br>
+	2. JDHA218 (13:20)<br>
+	3. zamrai (5:6)<br>
+	4. dIehAppY (30:35)<br>
+	5. tidyboot-653 (2:4)<br>
+	7. rho (9:13)<br>
+	8. xMillY (6:7)<br>
+	9. GoOodY (1:15)<br>
 	10. SyMSyMmy (19:24)<br>
 <br>
-38. #Rawz (1152) -2<br>
-+72|+45|+42|+22|-5|-21|-3|-23|+5|-5<br>
-	3. dIehAppY (4:24)<br>
-	9. fifty6 (0:5)<br>
+40. #Rawz (1157) +5<br>
++49|+46|+26|0|-16|+2|-18|+10|0|+4<br>
+	4. dIehAppY (11:30)<br>
 <br>
-39. #BenjiKozor (1149) 0<br>
--15|+5|+3|-7|+12|-19|-8|-19|-6|0<br>
-	1. JDHA218 (2:3)<br>
-	3. dIehAppY (56:65)<br>
-	4. tidyboot-653 (2:6)<br>
-	8. GoOodY (18:20)<br>
-	10. SyMSyMmy (3:13)<br>
-<br>
-40. #SweetTooth~619 (1146) 0<br>
-+45|-103|+92|+62|+5|-14|-12|-10<br>
-	2. zamrai (15:11)<br>
-	3. dIehAppY (54:52)<br>
-	4. tidyboot-653 (32:33)<br>
-	7. xMillY (6:6)<br>
-	8. GoOodY (4:5)<br>
-<br>
-41. #topisagirl (1144) +1<br>
--2|+41|+46|-3|+15|-7|-20|-34|-29|+1<br>
-	1. JDHA218 (3:4)<br>
-	3. dIehAppY (24:22)<br>
-	4. tidyboot-653 (1:2)<br>
-	8. GoOodY (4:5)<br>
-	10. SyMSyMmy (5:3)<br>
-<br>
-42. #MAKki (1127) 0<br>
-+31|+24|+16|+6|-1|-5|-3|-13|-8|-3<br>
-	3. dIehAppY (23:40)<br>
-	4. tidyboot-653 (0:6)<br>
-	6. rho (6:20)<br>
-	7. xMillY (3:12)<br>
-	8. GoOodY (14:4)<br>
-<br>
-43. #likeag66 (1123) 0<br>
-+222|+98|+41|-7<br>
-	1. JDHA218 (4:4)<br>
-	3. dIehAppY (16:25)<br>
-	6. rho (2:0)<br>
-	7. xMillY (1:0)<br>
-	8. GoOodY (2:0)<br>
-	10. SyMSyMmy (1:11)<br>
-<br>
-44. #jcphenom (1123) 0<br>
-+20|+19|+17|+20|+16|-3|0|-5|+1|+2<br>
-	1. JDHA218 (5:11)<br>
-	3. dIehAppY (5:11)<br>
-	4. tidyboot-653 (16:15)<br>
-	10. SyMSyMmy (7:10)<br>
-<br>
-45. #monsterV (1122) 0<br>
-+43|+37|+28|+19|+16|-2|-5|-10|-15|+1<br>
-	2. zamrai (4:5)<br>
-	4. tidyboot-653 (6:16)<br>
-	5. Omnibus (1:6)<br>
-	8. GoOodY (4:6)<br>
-	9. fifty6 (9:14)<br>
-<br>
-46. #tilltsimon (1121) 0<br>
-+83|-41|+57|+12|-3<br>
-	1. JDHA218 (2:1)<br>
-	2. zamrai (0:2)<br>
-	3. dIehAppY (9:16)<br>
-	4. tidyboot-653 (0:5)<br>
-	6. rho (3:4)<br>
-	7. xMillY (0:1)<br>
-	9. fifty6 (3:6)<br>
-<br>
-47. #panadool (1117) 0<br>
--12|-12|-11|-16|-24|-27|-21|-2|-2|+5<br>
-	1. JDHA218 (7:6)<br>
-	3. dIehAppY (1:0)<br>
-	4. tidyboot-653 (2:1)<br>
-	5. Omnibus (6:5)<br>
-	7. xMillY (3:8)<br>
-	8. GoOodY (4:5)<br>
-	10. SyMSyMmy (2:4)<br>
-<br>
-48. #qUidNovi (1107) -2<br>
-+7|0|-10|-7|-8|-14|-13|-14|-10|-3<br>
-	1. JDHA218 (6:10)<br>
-	3. dIehAppY (3:12)<br>
-	4. tidyboot-653 (1:1)<br>
-	5. Omnibus (6:3)<br>
-	6. rho (11:9)<br>
-	7. xMillY (3:3)<br>
-	8. GoOodY (16:10)<br>
-	10. SyMSyMmy (10:16)<br>
-<br>
-49. #gervi (1105) +2<br>
--40|-28|-31|-36|-32|-19|-10|-17|-8|-6<br>
-	2. zamrai (3:7)<br>
-	3. dIehAppY (1:2)<br>
-	4. tidyboot-653 (2:2)<br>
-	6. rho (1:4)<br>
-	7. xMillY (2:8)<br>
-	9. fifty6 (0:3)<br>
-	10. SyMSyMmy (4:7)<br>
-<br>
-50. #blankedout (1104) 0<br>
-+161|+103|+35|+26|+1|-10|+29|+11|+6|+1<br>
-	2. zamrai (2:6)<br>
-	3. dIehAppY (23:32)<br>
-	4. tidyboot-653 (5:15)<br>
-	5. Omnibus (3:5)<br>
-	8. GoOodY (18:19)<br>
-	9. fifty6 (15:22)<br>
-	10. SyMSyMmy (1:0)<br>
-<br>
-51. #quimlover (1102) 0<br>
-+36|+10|-2|-9|-7|-1|-9|+3|0|-7<br>
-	1. JDHA218 (1:0)<br>
-	2. zamrai (8:17)<br>
-	3. dIehAppY (32:46)<br>
-	4. tidyboot-653 (5:9)<br>
-	5. Omnibus (13:19)<br>
-	6. rho (4:17)<br>
-	7. xMillY (5:10)<br>
-	8. GoOodY (1:10)<br>
-	9. fifty6 (1:5)<br>
-	10. SyMSyMmy (1:1)<br>
-<br>
-52. #VOSTOK (1101) 0<br>
-+9|+38|+17|-4|-28|-41|-41|-31|-9|-2<br>
-	3. dIehAppY (18:33)<br>
-	4. tidyboot-653 (5:13)<br>
-	6. rho (1:3)<br>
-	7. xMillY (0:1)<br>
-	10. SyMSyMmy (5:3)<br>
-<br>
-53. #rpk (1091) 0<br>
--3|+2|+7|+9|+9|+4|+3|+6|+8|+1<br>
-	1. JDHA218 (8:13)<br>
-	3. dIehAppY (6:14)<br>
-	7. xMillY (4:7)<br>
-	8. GoOodY (2:10)<br>
-	9. fifty6 (1:7)<br>
-	10. SyMSyMmy (11:31)<br>
-<br>
-54. #Gideon (1089) 0<br>
--32|-30|-22|-12|-13|-18|-12|-3|-5|+1<br>
-	1. JDHA218 (1:5)<br>
-	2. zamrai (2:2)<br>
-	3. dIehAppY (43:61)<br>
-	6. rho (2:11)<br>
-	7. xMillY (0:1)<br>
-	8. GoOodY (1:3)<br>
-<br>
-55. #ruBEARRx (1088) 0<br>
-+7|+3|-6|-5|-5|-4|-6|-7|-9|-4<br>
-	1. JDHA218 (0:2)<br>
-	3. dIehAppY (51:73)<br>
-	4. tidyboot-653 (19:35)<br>
-	5. Omnibus (3:10)<br>
-	6. rho (2:3)<br>
-	7. xMillY (0:2)<br>
-	8. GoOodY (4:11)<br>
-	9. fifty6 (14:10)<br>
-	10. SyMSyMmy (5:5)<br>
-<br>
-56. #babymetal (1082) 0<br>
-+28|+30|+21|+18|+8|-1|0|+4|+1|+11<br>
-	2. zamrai (0:1)<br>
-	3. dIehAppY (23:38)<br>
-	4. tidyboot-653 (3:11)<br>
-	7. xMillY (6:8)<br>
-	8. GoOodY (9:18)<br>
-	10. SyMSyMmy (5:2)<br>
-<br>
-57. #warmant-116 (1076) +1<br>
-+12|+12|+11|+4|+3|+4|+6|+4|+3|+4<br>
-	2. zamrai (8:12)<br>
-	3. dIehAppY (33:66)<br>
-	4. tidyboot-653 (6:9)<br>
-	5. Omnibus (4:4)<br>
-	7. xMillY (1:6)<br>
-	8. GoOodY (19:26)<br>
-	9. fifty6 (0:2)<br>
-	10. SyMSyMmy (10:17)<br>
-<br>
-58. #FoxMulder (1073) 0<br>
-+90|+75|+26|-97|-25<br>
-	2. zamrai (2:5)<br>
-	3. dIehAppY (5:6)<br>
-	9. fifty6 (1:4)<br>
-<br>
-59. #Foxylocks12 (1070) 0<br>
-+1|+64|+26|+26|+74|+75|0|-19|+4<br>
-	3. dIehAppY (14:20)<br>
-	6. rho (2:2)<br>
-	7. xMillY (2:0)<br>
-	8. GoOodY (1:9)<br>
-<br>
-60. #Go4CHiPS (1067) 0<br>
-0|-3|+4|+16|-3|0|-2|-1|-1|-3<br>
-	1. JDHA218 (1:1)<br>
-	2. zamrai (2:3)<br>
-	4. tidyboot-653 (1:0)<br>
-	6. rho (1:4)<br>
-	8. GoOodY (1:6)<br>
+41. #Vhyme (1153) 0<br>
+-39|-85|-4<br>
+	4. dIehAppY (24:25)<br>
 	10. SyMSyMmy (1:5)<br>
 <br>
-61. #SUPREME._ (1063) +2<br>
--39|+13|+7|-11|+41|+29|+9|0|+4<br>
-	2. zamrai (7:11)<br>
-	3. dIehAppY (38:78)<br>
-	4. tidyboot-653 (16:37)<br>
-	5. Omnibus (2:3)<br>
-	7. xMillY (1:3)<br>
-	8. GoOodY (18:33)<br>
-	9. fifty6 (2:5)<br>
-	10. SyMSyMmy (5:14)<br>
+42. #BenjiKozor (1150) 0<br>
+-15|+5|+3|-6|+13|-18|-8|-19|-6|0<br>
+	1. operator. (6:7)<br>
+	2. JDHA218 (2:3)<br>
+	4. dIehAppY (56:65)<br>
+	5. tidyboot-653 (2:6)<br>
+	9. GoOodY (18:20)<br>
+	10. SyMSyMmy (3:13)<br>
 <br>
-62. #ammoore1028 (1045) -2<br>
-+65|+29|+25|+22|-9|-3|-16|-3|+1|+7<br>
-	2. zamrai (8:6)<br>
-	3. dIehAppY (3:6)<br>
-	5. Omnibus (3:0)<br>
-	6. rho (1:4)<br>
-	7. xMillY (2:0)<br>
-	8. GoOodY (5:10)<br>
-	9. fifty6 (1:3)<br>
+43. #SweetTooth~619 (1147) +1<br>
++46|-102|+93|+63|+6|-13|-11|-9<br>
+	1. operator. (1:4)<br>
+	3. zamrai (15:11)<br>
+	4. dIehAppY (54:52)<br>
+	5. tidyboot-653 (32:33)<br>
+	8. xMillY (6:6)<br>
+	9. GoOodY (4:5)<br>
 <br>
-63. #TimDebJon (1044) 0<br>
--242|-8|+25|-60|-88|-64|-1|+2<br>
-	1. JDHA218 (2:6)<br>
-	2. zamrai (0:2)<br>
-	3. dIehAppY (2:5)<br>
-	4. tidyboot-653 (4:5)<br>
-	5. Omnibus (1:3)<br>
-	8. GoOodY (1:0)<br>
-	9. fifty6 (2:5)<br>
+44. #topisagirl (1144) 0<br>
+-2|+42|+46|-3|+15|-6|-20|-34|-28|+1<br>
+	2. JDHA218 (0:2)<br>
+	4. dIehAppY (24:22)<br>
+	5. tidyboot-653 (1:2)<br>
+	9. GoOodY (4:5)<br>
+	10. SyMSyMmy (5:3)<br>
 <br>
-64. #raravan (1043) 0<br>
-+144|+119|+102|+78|+66|+54|+36|+21|+16|+14<br>
-	1. JDHA218 (0:5)<br>
-	3. dIehAppY (9:11)<br>
-	4. tidyboot-653 (2:5)<br>
-	5. Omnibus (22:40)<br>
-	6. rho (1:2)<br>
-	7. xMillY (11:15)<br>
-	8. GoOodY (21:27)<br>
-	9. fifty6 (1:3)<br>
-	10. SyMSyMmy (10:5)<br>
+45. #likeag66 (1143) -4<br>
++241|+117|+60|+12|-12<br>
+	2. JDHA218 (4:4)<br>
+	4. dIehAppY (16:25)<br>
+	7. rho (2:0)<br>
+	8. xMillY (1:0)<br>
+	9. GoOodY (2:0)<br>
+	10. SyMSyMmy (1:11)<br>
 <br>
-65. #ChiefBlkHawk (1034) 0<br>
--30|-34|-118|-27|+32|+25|-25|+16<br>
-	1. JDHA218 (3:5)<br>
-	2. zamrai (5:5)<br>
-	3. dIehAppY (22:50)<br>
-	4. tidyboot-653 (3:2)<br>
-	7. xMillY (3:6)<br>
-	10. SyMSyMmy (6:15)<br>
+46. #MAKki (1127) 0<br>
++31|+24|+16|+6|-1|-5|-3|-13|-8|-3<br>
+	4. dIehAppY (23:40)<br>
+	5. tidyboot-653 (0:6)<br>
+	7. rho (6:20)<br>
+	8. xMillY (3:12)<br>
+	9. GoOodY (14:4)<br>
 <br>
-66. #Always_Wins (1009) 0<br>
--114|+14|-23|-2|-2<br>
-	2. zamrai (2:4)<br>
-	3. dIehAppY (6:9)<br>
+47. #jcphenom (1123) 0<br>
++20|+19|+17|+20|+16|-3|0|-5|+1|+2<br>
+	2. JDHA218 (5:11)<br>
+	4. dIehAppY (5:11)<br>
+	5. tidyboot-653 (16:15)<br>
+	10. SyMSyMmy (7:10)<br>
 <br>
-67. #pickynew (996) 0<br>
--12|-15|-11|-12|-3|+2|-4|-9|+4|+1<br>
-	2. zamrai (1:6)<br>
-	3. dIehAppY (10:27)<br>
-	4. tidyboot-653 (6:25)<br>
-	6. rho (0:1)<br>
-	7. xMillY (1:5)<br>
+48. #monsterV (1122) 0<br>
++43|+37|+28|+19|+16|-2|-5|-10|-15|+1<br>
+	3. zamrai (2:3)<br>
+	5. tidyboot-653 (6:16)<br>
+	6. Omnibus (1:6)<br>
+	9. GoOodY (4:6)<br>
 <br>
-68. #jacks0nh0le (995) 0<br>
-+32|+86|+49|0<br>
-	2. zamrai (1:3)<br>
-	3. dIehAppY (4:8)<br>
-	7. xMillY (5:12)<br>
-	8. GoOodY (5:5)<br>
-	9. fifty6 (2:4)<br>
-	10. SyMSyMmy (0:4)<br>
+49. #tilltsimon (1121) 0<br>
++83|-41|+57|+12|-3<br>
+	1. operator. (0:1)<br>
+	2. JDHA218 (2:1)<br>
+	3. zamrai (0:2)<br>
+	4. dIehAppY (9:16)<br>
+	5. tidyboot-653 (0:5)<br>
+	7. rho (3:4)<br>
+	8. xMillY (0:1)<br>
 <br>
-69. #His-Majesty (990) 0<br>
-+20|+32|+26|+1|+14<br>
-	2. zamrai (0:1)<br>
-	3. dIehAppY (28:48)<br>
-	4. tidyboot-653 (14:43)<br>
-	5. Omnibus (0:1)<br>
-	7. xMillY (2:1)<br>
-	9. fifty6 (1:3)<br>
+50. #panadool (1117) 0<br>
+-12|-12|-11|-15|-24|-27|-21|-2|-2|+5<br>
+	2. JDHA218 (7:6)<br>
+	4. dIehAppY (2:0)<br>
+	5. tidyboot-653 (2:1)<br>
+	6. Omnibus (6:5)<br>
+	8. xMillY (3:8)<br>
+	9. GoOodY (4:5)<br>
+	10. SyMSyMmy (2:4)<br>
+<br>
+51. #qUidNovi (1109) 0<br>
++8|+1|-8|-5|-7|-13|-11|-13|-8|-2<br>
+	2. JDHA218 (6:10)<br>
+	4. dIehAppY (3:12)<br>
+	5. tidyboot-653 (1:1)<br>
+	6. Omnibus (6:3)<br>
+	7. rho (11:9)<br>
+	8. xMillY (3:3)<br>
+	9. GoOodY (16:10)<br>
+	10. SyMSyMmy (10:17)<br>
+<br>
+52. #gervi (1106) 0<br>
+-27|-31|-36|-31|-19|-9|-17|-7|-5|0<br>
+	3. zamrai (3:7)<br>
+	4. dIehAppY (3:6)<br>
+	5. tidyboot-653 (2:2)<br>
+	7. rho (1:4)<br>
+	8. xMillY (2:8)<br>
+	10. SyMSyMmy (6:7)<br>
+<br>
+53. #blankedout (1104) 0<br>
++161|+103|+35|+26|+1|-10|+29|+11|+6|+1<br>
+	1. operator. (2:3)<br>
+	3. zamrai (2:6)<br>
+	4. dIehAppY (23:32)<br>
+	5. tidyboot-653 (5:15)<br>
+	6. Omnibus (3:5)<br>
+	9. GoOodY (18:19)<br>
 	10. SyMSyMmy (1:0)<br>
 <br>
-70. #edache22 (937) 0<br>
+54. #quimlover (1102) 0<br>
++36|+10|-2|-9|-7|-1|-9|+3|0|-7<br>
+	1. operator. (0:6)<br>
+	2. JDHA218 (1:0)<br>
+	3. zamrai (8:17)<br>
+	4. dIehAppY (32:46)<br>
+	5. tidyboot-653 (5:9)<br>
+	6. Omnibus (13:19)<br>
+	7. rho (4:17)<br>
+	8. xMillY (5:10)<br>
+	9. GoOodY (1:10)<br>
+	10. SyMSyMmy (1:1)<br>
+<br>
+55. #VOSTOK (1101) 0<br>
++9|+38|+18|-3|-27|-41|-41|-31|-9|-2<br>
+	4. dIehAppY (18:33)<br>
+	5. tidyboot-653 (5:13)<br>
+	7. rho (1:3)<br>
+	8. xMillY (0:1)<br>
+	10. SyMSyMmy (5:3)<br>
+<br>
+56. #rpk (1093) 0<br>
+-1|+4|+9|+11|+11|+6|+5|+8|+10|+3<br>
+	2. JDHA218 (8:13)<br>
+	4. dIehAppY (6:14)<br>
+	8. xMillY (4:7)<br>
+	9. GoOodY (2:10)<br>
+	10. SyMSyMmy (11:31)<br>
+<br>
+57. #Gideon (1089) 0<br>
+-32|-30|-22|-12|-13|-18|-12|-3|-5|+1<br>
+	2. JDHA218 (1:5)<br>
+	3. zamrai (2:2)<br>
+	4. dIehAppY (43:61)<br>
+	7. rho (2:11)<br>
+	8. xMillY (0:1)<br>
+	9. GoOodY (1:3)<br>
+<br>
+58. #ruBEARRx (1089) +1<br>
++8|+4|-5|-4|-4|-3|-5|-6|-8|-2<br>
+	2. JDHA218 (0:2)<br>
+	4. dIehAppY (56:80)<br>
+	5. tidyboot-653 (19:35)<br>
+	6. Omnibus (3:10)<br>
+	7. rho (2:3)<br>
+	8. xMillY (0:2)<br>
+	9. GoOodY (4:11)<br>
+	10. SyMSyMmy (5:5)<br>
+<br>
+59. #babymetal (1083) 0<br>
++29|+30|+22|+19|+9|0|+1|+4|+2|+12<br>
+	1. operator. (2:2)<br>
+	3. zamrai (0:1)<br>
+	4. dIehAppY (23:38)<br>
+	5. tidyboot-653 (3:11)<br>
+	8. xMillY (6:8)<br>
+	9. GoOodY (9:18)<br>
+	10. SyMSyMmy (5:2)<br>
+<br>
+60. #warmant-116 (1075) -1<br>
++11|+10|+10|+3|+2|+3|+5|+3|+2|+3<br>
+	3. zamrai (8:16)<br>
+	4. dIehAppY (33:66)<br>
+	5. tidyboot-653 (6:9)<br>
+	6. Omnibus (4:4)<br>
+	8. xMillY (1:6)<br>
+	9. GoOodY (19:26)<br>
+	10. SyMSyMmy (10:17)<br>
+<br>
+61. #FoxMulder (1073) 0<br>
++90|+75|+26|-97|-25<br>
+	4. dIehAppY (5:6)<br>
+<br>
+62. #Foxylocks12 (1070) 0<br>
++1|+64|+26|+26|+74|+75|0|-19|+4<br>
+	1. operator. (4:1)<br>
+	4. dIehAppY (14:20)<br>
+	7. rho (2:2)<br>
+	8. xMillY (2:0)<br>
+	9. GoOodY (1:9)<br>
+<br>
+63. #SUPREME._ (1064) 0<br>
+-38|+14|+8|-10|+42|+30|+10|+1|+5<br>
+	1. operator. (5:6)<br>
+	3. zamrai (7:11)<br>
+	4. dIehAppY (38:78)<br>
+	5. tidyboot-653 (16:37)<br>
+	6. Omnibus (2:3)<br>
+	8. xMillY (1:3)<br>
+	9. GoOodY (18:33)<br>
+	10. SyMSyMmy (5:14)<br>
+<br>
+64. #Go4CHiPS (1061) 0<br>
+-6|-8|-1|+10|-8|-5|-7|-6|-6|-8<br>
+	2. JDHA218 (1:1)<br>
+	3. zamrai (2:3)<br>
+	5. tidyboot-653 (1:0)<br>
+	7. rho (1:4)<br>
+	9. GoOodY (1:6)<br>
+	10. SyMSyMmy (1:5)<br>
+<br>
+65. #thedude (1058) -3<br>
+-56|-37|-35|-29|-21|-26|-38|-26|-9|-6<br>
+	1. operator. (2:5)<br>
+	3. zamrai (5:4)<br>
+	4. dIehAppY (5:7)<br>
+	5. tidyboot-653 (4:3)<br>
+	8. xMillY (1:0)<br>
+	9. GoOodY (0:4)<br>
+	10. SyMSyMmy (2:8)<br>
+<br>
+66. #ammoore1028 (1045) 0<br>
++65|+29|+25|+22|-9|-3|-16|-3|+1|+7<br>
+	1. operator. (2:9)<br>
+	3. zamrai (8:6)<br>
+	4. dIehAppY (3:6)<br>
+	6. Omnibus (3:0)<br>
+	7. rho (1:4)<br>
+	8. xMillY (2:0)<br>
+	9. GoOodY (5:10)<br>
+<br>
+67. #raravan (1043) 0<br>
++144|+119|+102|+78|+66|+54|+36|+21|+16|+14<br>
+	1. operator. (0:1)<br>
+	2. JDHA218 (0:5)<br>
+	4. dIehAppY (9:11)<br>
+	5. tidyboot-653 (2:5)<br>
+	6. Omnibus (22:40)<br>
+	7. rho (1:2)<br>
+	8. xMillY (11:15)<br>
+	9. GoOodY (21:27)<br>
+	10. SyMSyMmy (10:5)<br>
+<br>
+68. #TimDebJon (1042) -2<br>
+-244|-10|+23|-62|-89|-66|-3|+1<br>
+	2. JDHA218 (2:6)<br>
+	3. zamrai (0:2)<br>
+	4. dIehAppY (2:5)<br>
+	5. tidyboot-653 (4:5)<br>
+	6. Omnibus (1:3)<br>
+	9. GoOodY (1:0)<br>
+<br>
+69. #malarkey (1036) +6<br>
+-24|-18|-36|-35|-35|-36|+8|+10|+11|+8<br>
+	3. zamrai (10:28)<br>
+	4. dIehAppY (10:31)<br>
+	6. Omnibus (1:0)<br>
+	8. xMillY (0:1)<br>
+<br>
+70. #ChiefBlkHawk (1034) 0<br>
+-30|-34|-118|-27|+32|+25|-25|+16<br>
+	2. JDHA218 (3:5)<br>
+	3. zamrai (5:5)<br>
+	4. dIehAppY (22:50)<br>
+	5. tidyboot-653 (3:2)<br>
+	8. xMillY (3:6)<br>
+	10. SyMSyMmy (6:15)<br>
+<br>
+71. #Kaborage (1014) +5<br>
++49|+26|+99|+52|+17<br>
+	2. JDHA218 (0:3)<br>
+	3. zamrai (0:2)<br>
+	4. dIehAppY (4:4)<br>
+	8. xMillY (2:2)<br>
+	9. GoOodY (0:1)<br>
+	10. SyMSyMmy (2:3)<br>
+<br>
+72. #jacks0nh0le (997) 0<br>
++34|+88|+51|+2<br>
+	3. zamrai (1:3)<br>
+	4. dIehAppY (4:8)<br>
+	8. xMillY (5:12)<br>
+	9. GoOodY (5:5)<br>
+	10. SyMSyMmy (0:4)<br>
+<br>
+73. #pickynew (996) 0<br>
+-12|-14|-11|-12|-2|+2|-4|-9|+4|+1<br>
+	3. zamrai (1:6)<br>
+	4. dIehAppY (10:27)<br>
+	5. tidyboot-653 (6:25)<br>
+	7. rho (0:1)<br>
+	8. xMillY (1:5)<br>
+<br>
+74. #His-Majesty (990) 0<br>
++20|+32|+26|+1|+14<br>
+	1. operator. (1:6)<br>
+	3. zamrai (0:1)<br>
+	4. dIehAppY (28:48)<br>
+	5. tidyboot-653 (14:43)<br>
+	6. Omnibus (0:1)<br>
+	8. xMillY (2:1)<br>
+	10. SyMSyMmy (1:0)<br>
+<br>
+75. #edache22 (937) 0<br>
 -23|-27|+7|-48|-11|-17|-37|+1|+5|-5<br>
-	1. JDHA218 (0:3)<br>
-	2. zamrai (4:5)<br>
-	3. dIehAppY (3:14)<br>
-	9. fifty6 (1:8)<br>
+	2. JDHA218 (0:3)<br>
+	3. zamrai (4:5)<br>
+	4. dIehAppY (3:14)<br>
