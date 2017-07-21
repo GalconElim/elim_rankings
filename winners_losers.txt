@@ -2,13 +2,13 @@
 
 
             Levels Storage
-winner      17235 integer
-loser       9515 integer
+loser      17235 integer
+winner       9515 integer
 
 +-----------+------------------------------------------------------------------------------------------------------------------------+
 |Variable   |Levels                                                                                                                  |
 +-----------+------------------------------------------------------------------------------------------------------------------------+
-|loser      |---..c..---,-fizz-,-steel-,-tagz-pro-,#hogdall ~1,.shift.,_lynxis_,_marik_,099,101010,123456,127.0.0.2,20after4,2unread |
+|winner     |---..c..---,-fizz-,-steel-,-tagz-pro-,#hogdall ~1,.shift.,_lynxis_,_marik_,099,101010,123456,127.0.0.2,20after4,2unread |
 |           |311a18601,3of4,3x0ph453,444,55curtis,7paths,a-a,a-t-o-m,a-z-sh,a.mor,a.s.zhandos,a_burger_858,a_finn_a,a_madness_of     |
 |           |a_noob,a_scrub,a_skiller,a100532,a116117,a154791313,a1a5ka,a250896514,a258258,a2har,a2ta,a3bood-12,a4s5q7w83,a7mad      |
 |           |a7mad42,a7x0,a843426718,aa00ddww,aa12,aa1819723203,aaa181972320,aaa3,aac0awesome,aariaa,aaron119,aaronisugly,aaronmv    |
@@ -1613,7 +1613,7 @@ loser       9515 integer
 |           |zureich,zurrogate,zvistor,zwazo,zx1,zxcdsa,zxxz777,zxyli,zxzx8900,zyffr,zygon,zygote420,zypherxv,zyxi1010,zyzz96        |
 |           |zzc0rizz,zzerolove,zzone,zzz                                                                                            |
 +-----------+------------------------------------------------------------------------------------------------------------------------+
-|winner     |---..c..---,-fizz-,-steel-,-tagz-pro-,#hogdall ~1,.shift.,_lynxis_,_marik_,099,101010,123456,127.0.0.2,2pm,2unread,3of4 |
+|loser      |---..c..---,-fizz-,-steel-,-tagz-pro-,#hogdall ~1,.shift.,_lynxis_,_marik_,099,101010,123456,127.0.0.2,2pm,2unread,3of4 |
 |           |3x0ph453,444,55curtis,7paths,a-a,a-t-o-m,a-z-sh,a.s.zhandos,a_finn_a,a_madness_of,a_noob,a_scrub,a_skiller,a154791313   |
 |           |a1a5ka,a4s5q7w83,a7mad,a7mad42,a7md.2016,a7x0,aa00ddww,aa1819723203,aaa181972320,aaa3,aac0awesome,aariaa,aaronisugly    |
 |           |aaronmv,aarusisking,aawesome,aawesome.,aawwa,abaddon.,abagonoodlez,abberthorn,abc1234542,abc1235,abc8,abcdefg,abcubu    |
@@ -2477,7 +2477,7 @@ loser       9515 integer
 +-----------+------------------------------------------------------------------------------------------------------------------------+
 
 
-     loser 		winner
+     loser                winner
  eudaemonia: 31764   eudaemonia: 37301  
  algalcone : 23545   vadim1707 : 20639  
  jasem     : 11422   jasem     : 17620  
