@@ -7,16 +7,16 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. MusCu (1:0)<br>
 	6. JDHA218 (9:5)<br>
 	7. TankWar2 (2:1)<br>
-	9. Joe_Shome123 (2:0)<br>
-	10. Jasem (9:4)<br>
+	9. Jasem (9:4)<br>
+	10. Joe_Shome123 (2:0)<br>
 <br>
 2. #Yellow_Flash (1432) 0<br>
 +308|+36|+152|+139|+208<br>
 	1. RinneRebirth (3:14)<br>
 	5. MusCu (1:5)<br>
 	7. TankWar2 (1:0)<br>
-	9. Joe_Shome123 (3:15)<br>
-	10. Jasem (3:4)<br>
+	9. Jasem (3:4)<br>
+	10. Joe_Shome123 (3:15)<br>
 <br>
 3. #Parko (1378) 0<br>
 +254|+118|+129|+25|+25|+25|+25|+25|+9|-10<br>
@@ -24,15 +24,15 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. MusCu (1:1)<br>
 	6. JDHA218 (14:10)<br>
 	8. SyMSyMmy (2:1)<br>
-	10. Jasem (6:5)<br>
+	9. Jasem (6:5)<br>
 <br>
 4. #JeffDoughnut (1375) 0<br>
 +82|+164|+80|+135|+87|+46|+15|+48|+2|+47<br>
 	6. JDHA218 (9:0)<br>
 	7. TankWar2 (19:1)<br>
 	8. SyMSyMmy (4:4)<br>
-	9. Joe_Shome123 (1:0)<br>
-	10. Jasem (4:2)<br>
+	9. Jasem (4:2)<br>
+	10. Joe_Shome123 (1:0)<br>
 <br>
 5. #MusCu (1373) 0<br>
 +97|+79|+99|+66|0|-42|-58|+32|-42|-10<br>
@@ -40,19 +40,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 	2. Yellow_Flash (5:1)<br>
 	3. Parko (1:1)<br>
 	6. JDHA218 (11:2)<br>
-	9. Joe_Shome123 (4:4)<br>
-	10. Jasem (0:4)<br>
+	9. Jasem (0:4)<br>
+	10. Joe_Shome123 (4:4)<br>
 <br>
-6. #JDHA218 (1359) 0<br>
-+141|+68|+88|+58|+22|+34|+39|-21|-37|-3<br>
+6. #JDHA218 (1355) -5<br>
++137|+64|+83|+53|+17|+29|+35|-25|-42|-8<br>
 	1. RinneRebirth (5:9)<br>
 	3. Parko (10:14)<br>
 	4. JeffDoughnut (0:9)<br>
 	5. MusCu (2:11)<br>
 	7. TankWar2 (5:7)<br>
 	8. SyMSyMmy (12:0)<br>
-	9. Joe_Shome123 (11:25)<br>
-	10. Jasem (6:3)<br>
+	9. Jasem (6:3)<br>
+	10. Joe_Shome123 (11:25)<br>
 <br>
 7. #TankWar2 (1355) 0<br>
 +144|+435|+290|-47|-9|+15<br>
@@ -60,29 +60,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	2. Yellow_Flash (0:1)<br>
 	4. JeffDoughnut (1:19)<br>
 	6. JDHA218 (7:5)<br>
-	9. Joe_Shome123 (5:11)<br>
-	10. Jasem (2:0)<br>
+	9. Jasem (2:0)<br>
+	10. Joe_Shome123 (5:11)<br>
 <br>
-8. #SyMSyMmy (1347) -8<br>
+8. #SyMSyMmy (1347) 0<br>
 +137|+102|+174|+163|+95|+10|-16|-5|+79|+46<br>
 	3. Parko (1:2)<br>
 	4. JeffDoughnut (4:4)<br>
 	6. JDHA218 (0:12)<br>
-	9. Joe_Shome123 (3:6)<br>
+	10. Joe_Shome123 (3:6)<br>
 <br>
-9. #Joe_Shome123 (1342) 0<br>
-+142|+191|+100|+60|+74|+44|+15|-51|-89|-21<br>
-	1. RinneRebirth (0:2)<br>
-	2. Yellow_Flash (15:3)<br>
-	4. JeffDoughnut (0:1)<br>
-	5. MusCu (4:4)<br>
-	6. JDHA218 (25:11)<br>
-	7. TankWar2 (11:5)<br>
-	8. SyMSyMmy (6:3)<br>
-	9. Joe_Shome123 (2:2)<br>
-	10. Jasem (7:1)<br>
-<br>
-10. #Jasem (1337) 0<br>
+9. #Jasem (1337) 0<br>
 +28|+16|+63|+118|+99|+12|-37|-48|-53|-28<br>
 	1. RinneRebirth (4:9)<br>
 	2. Yellow_Flash (4:3)<br>
@@ -91,7 +79,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. MusCu (4:0)<br>
 	6. JDHA218 (3:6)<br>
 	7. TankWar2 (0:2)<br>
-	9. Joe_Shome123 (1:7)<br>
+	10. Joe_Shome123 (1:7)<br>
+<br>
+10. #Joe_Shome123 (1336) -6<br>
++185|+94|+53|+68|+37|+8|-57|-95|-27|-10<br>
+	1. RinneRebirth (0:2)<br>
+	2. Yellow_Flash (15:3)<br>
+	4. JeffDoughnut (0:1)<br>
+	5. MusCu (4:4)<br>
+	6. JDHA218 (25:11)<br>
+	7. TankWar2 (11:5)<br>
+	8. SyMSyMmy (6:3)<br>
+	9. Jasem (7:1)<br>
+	10. Joe_Shome123 (2:2)<br>
 <br>
 11. #bejut (1335) 0<br>
 -13|+139|+256|+214|+162|+107|+169|+32<br>
@@ -101,18 +101,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (8:19)<br>
 	7. TankWar2 (0:2)<br>
 	8. SyMSyMmy (17:34)<br>
-	9. Joe_Shome123 (0:4)<br>
-	10. Jasem (0:3)<br>
+	9. Jasem (0:3)<br>
+	10. Joe_Shome123 (0:4)<br>
 <br>
-12. #GaudyWeasel (1316) +55<br>
+12. #GaudyWeasel (1316) 0<br>
 +203|-7|+80<br>
 	1. RinneRebirth (4:10)<br>
 	4. JeffDoughnut (1:2)<br>
 	5. MusCu (1:1)<br>
 	6. JDHA218 (3:2)<br>
 	7. TankWar2 (1:3)<br>
-	9. Joe_Shome123 (3:9)<br>
-	10. Jasem (2:7)<br>
+	9. Jasem (2:7)<br>
+	10. Joe_Shome123 (3:9)<br>
 <br>
 13. #croissant (1313) 0<br>
 +185|-56|-16|-125<br>
@@ -120,8 +120,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. MusCu (1:3)<br>
 	6. JDHA218 (0:2)<br>
 	7. TankWar2 (2:1)<br>
-	9. Joe_Shome123 (4:11)<br>
-	10. Jasem (9:6)<br>
+	9. Jasem (9:6)<br>
+	10. Joe_Shome123 (4:11)<br>
 <br>
 14. #Paridasa (1308) 0<br>
 +2|+11|+19|-6|-11|-22|+2|+4|0|+13<br>
@@ -132,8 +132,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. MusCu (37:50)<br>
 	6. JDHA218 (52:79)<br>
 	7. TankWar2 (20:24)<br>
-	9. Joe_Shome123 (7:14)<br>
-	10. Jasem (18:23)<br>
+	9. Jasem (18:23)<br>
+	10. Joe_Shome123 (7:14)<br>
 <br>
 15. #zeropoint (1303) 0<br>
 +23|+12|+22|+73|+80|+77|+73|+18|+29|+25<br>
@@ -145,8 +145,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (2:9)<br>
 	7. TankWar2 (2:1)<br>
 	8. SyMSyMmy (0:1)<br>
-	9. Joe_Shome123 (3:3)<br>
-	10. Jasem (4:2)<br>
+	9. Jasem (4:2)<br>
+	10. Joe_Shome123 (3:3)<br>
 <br>
 16. #YTTY-feAst (1293) 0<br>
 +92|+94|-33|-55|+16<br>
@@ -156,8 +156,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. MusCu (1:8)<br>
 	6. JDHA218 (4:7)<br>
 	7. TankWar2 (2:5)<br>
-	9. Joe_Shome123 (4:8)<br>
-	10. Jasem (7:6)<br>
+	9. Jasem (7:6)<br>
+	10. Joe_Shome123 (4:8)<br>
 <br>
 17. #HardyGoblin~565 (1264) 0<br>
 +82|-64<br>
@@ -166,7 +166,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. MusCu (3:5)<br>
 	6. JDHA218 (3:0)<br>
 	7. TankWar2 (1:0)<br>
-	9. Joe_Shome123 (0:1)<br>
+	10. Joe_Shome123 (0:1)<br>
 <br>
 18. #BenjiKozor (1262) 0<br>
 +219|+120|+92|+46|-13|-34|-35<br>
@@ -176,7 +176,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (1:1)<br>
 	7. TankWar2 (7:0)<br>
 	8. SyMSyMmy (6:11)<br>
-	9. Joe_Shome123 (7:2)<br>
+	10. Joe_Shome123 (7:2)<br>
 <br>
 19. #mills14 (1256) 0<br>
 +29|+93|+98|-2|+9<br>
@@ -185,7 +185,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. MusCu (2:6)<br>
 	6. JDHA218 (1:6)<br>
 	7. TankWar2 (6:14)<br>
-	10. Jasem (0:1)<br>
+	9. Jasem (0:1)<br>
 <br>
 20. #BraveSong~933 (1247) 0<br>
 -166|+88|+85|+23|-3<br>
@@ -194,8 +194,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. MusCu (2:7)<br>
 	6. JDHA218 (4:12)<br>
 	7. TankWar2 (5:7)<br>
-	9. Joe_Shome123 (2:20)<br>
-	10. Jasem (8:17)<br>
+	9. Jasem (8:17)<br>
+	10. Joe_Shome123 (2:20)<br>
 <br>
 21. #Uranus-98 (1244) 0<br>
 +94|-14|-31|-1|+7|-60|-48|+3|-15|+5<br>
@@ -205,8 +205,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (12:15)<br>
 	7. TankWar2 (5:2)<br>
 	8. SyMSyMmy (1:7)<br>
-	9. Joe_Shome123 (1:11)<br>
-	10. Jasem (2:3)<br>
+	9. Jasem (2:3)<br>
+	10. Joe_Shome123 (1:11)<br>
 <br>
 22. #Tyleta (1237) 0<br>
 +334|+348|+71|+69|+10|-179<br>
@@ -215,8 +215,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. MusCu (0:1)<br>
 	6. JDHA218 (0:3)<br>
 	7. TankWar2 (1:1)<br>
-	9. Joe_Shome123 (34:7)<br>
-	10. Jasem (3:6)<br>
+	9. Jasem (3:6)<br>
+	10. Joe_Shome123 (34:7)<br>
 <br>
 23. #GenghisCon (1213) 0<br>
 +13|+40|+11<br>
@@ -228,8 +228,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (1:12)<br>
 	7. TankWar2 (0:2)<br>
 	8. SyMSyMmy (4:8)<br>
-	9. Joe_Shome123 (0:2)<br>
-	10. Jasem (0:7)<br>
+	9. Jasem (0:7)<br>
+	10. Joe_Shome123 (0:2)<br>
 <br>
 24. #SadGalaxy360 (1199) 0<br>
 +46|+71|+94|+100|+88|+45|-17|+31|-3|+12<br>
@@ -239,23 +239,23 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. MusCu (1:11)<br>
 	6. JDHA218 (5:11)<br>
 	8. SyMSyMmy (0:2)<br>
-	9. Joe_Shome123 (2:7)<br>
-	10. Jasem (1:0)<br>
+	9. Jasem (1:0)<br>
+	10. Joe_Shome123 (2:7)<br>
 <br>
 25. #starfleet (1117) 0<br>
 -98|-56<br>
 	2. Yellow_Flash (1:0)<br>
-	9. Joe_Shome123 (0:4)<br>
-	10. Jasem (1:3)<br>
+	9. Jasem (1:3)<br>
+	10. Joe_Shome123 (0:4)<br>
 <br>
-26. #AlGalcone (1077) 0<br>
--14|-21|-84|-66|-31|-56|-50|-21|-4|+1<br>
+26. #AlGalcone (1083) +6<br>
+-8|-16|-79|-61|-25|-50|-45|-16|+2|+7<br>
 	1. RinneRebirth (5:27)<br>
 	2. Yellow_Flash (3:8)<br>
 	3. Parko (2:9)<br>
 	4. JeffDoughnut (3:12)<br>
 	5. MusCu (1:4)<br>
-	6. JDHA218 (1:12)<br>
+	6. JDHA218 (1:11)<br>
 	7. TankWar2 (4:12)<br>
-	9. Joe_Shome123 (1:8)<br>
-	10. Jasem (6:18)<br>
+	9. Jasem (6:18)<br>
+	10. Joe_Shome123 (1:8)<br>
