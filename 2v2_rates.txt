@@ -7,7 +7,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. tidyboot-653 (11:12)<br>
 <br>
 2. #JDHA218 (1324) 0<br>
-+182|+159|+128|+97|+93|+73|+64|+29|+10|-4<br>
++182|+159|+128|+97|+93|+73|+63|+29|+10|-4<br>
 	3. zamrai (4:3)<br>
 	8. rho (23:19)<br>
 	9. xMillY (1:2)<br>
@@ -48,8 +48,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. dIehAppY (18:32)<br>
 	10. GoOodY (1:0)<br>
 <br>
-7. #Omnibus (1269) 0<br>
-+71|+87|+72|+42|+61|+66|+13|-1|-4|-21<br>
+7. #Omnibus (1270) 0<br>
++71|+87|+72|+42|+61|+67|+14|-1|-4|-21<br>
 	3. zamrai (0:2)<br>
 	4. dIehAppY (2:2)<br>
 	5. tidyboot-653 (1:1)<br>
@@ -85,7 +85,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. xMillY (2:2)<br>
 <br>
 11. #SyMSyMmy (1258) 0<br>
-+47|+51|+22|+7|+10|-14|-1|-33|-33|0<br>
++47|+51|+22|+7|+10|-15|-1|-33|-33|0<br>
 	1. operator. (0:1)<br>
 	2. JDHA218 (15:16)<br>
 	3. zamrai (6:11)<br>
@@ -184,7 +184,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. GoOodY (4:5)<br>
 <br>
 21. #zeropoint (1211) 0<br>
-+10|-3|+5|+2|-3|+1|-7|-1|+2|0<br>
++10|-4|+5|+2|-3|+1|-7|-1|+2|0<br>
 	4. dIehAppY (57:79)<br>
 	6. Devil- (42:28)<br>
 	7. Omnibus (6:6)<br>
@@ -258,7 +258,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. xMillY (1:0)<br>
 	10. GoOodY (14:13)<br>
 <br>
-29. #mafl (1188) 0<br>
+29. #Parko (1188) 0<br>
++118|+115|+96|+80|+83|+62|+35|+23|+16|-1<br>
+	4. dIehAppY (11:13)<br>
+	7. Omnibus (2:1)<br>
+<br>
+30. #mafl (1188) 0<br>
 -13|-12|-4|-21|-22|-19|-7|+3|-6|0<br>
 	2. JDHA218 (2:0)<br>
 	4. dIehAppY (5:14)<br>
@@ -266,8 +271,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Omnibus (1:3)<br>
 	9. xMillY (0:3)<br>
 <br>
-30. #jas (1186) -4<br>
--12|-5|-8|-4|-6|+1|-2|-5|-9|-2<br>
+31. #jas (1186) -4<br>
+-12|-5|-9|-4|-6|+1|-2|-5|-9|-2<br>
 	2. JDHA218 (3:10)<br>
 	3. zamrai (1:1)<br>
 	4. dIehAppY (76:88)<br>
@@ -276,8 +281,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. xMillY (11:13)<br>
 	10. GoOodY (12:33)<br>
 <br>
-31. #jman8080 (1185) 0<br>
-+88|+110|+43|+64|+32|+62|+68|+49|+28|0<br>
+32. #jman8080 (1185) 0<br>
++87|+110|+43|+64|+32|+62|+68|+49|+28|0<br>
 	1. operator. (2:9)<br>
 	2. JDHA218 (2:2)<br>
 	4. dIehAppY (5:6)<br>
@@ -285,7 +290,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. rho (3:3)<br>
 	10. GoOodY (0:1)<br>
 <br>
-32. #gone_vortex (1183) 0<br>
+33. #gone_vortex (1183) 0<br>
 +15|+66|+79|+91|+97|+112|+97|+79|+3|+12<br>
 	1. operator. (1:1)<br>
 	2. JDHA218 (2:2)<br>
@@ -295,13 +300,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. xMillY (1:0)<br>
 	10. GoOodY (1:2)<br>
 <br>
-33. #Parko (1181) 0<br>
-+110|+108|+89|+73|+76|+62|+36|+7|+9|0<br>
-	4. dIehAppY (2:3)<br>
-	7. Omnibus (2:1)<br>
-<br>
 34. #GenghisCon (1172) +5<br>
--13|+4|+13|-25|-47|-41|-27|+2|+3|0<br>
+-13|+4|+13|-25|-47|-42|-27|+2|+3|0<br>
 	1. operator. (1:3)<br>
 	2. JDHA218 (2:5)<br>
 	3. zamrai (6:7)<br>
@@ -320,7 +320,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. rho (1:10)<br>
 <br>
 36. #SadGalaxy360 (1169) 0<br>
-+25|+22|+35|+35|-4|+8|-3|-12|-7|-5<br>
++25|+22|+35|+35|-4|+8|-2|-12|-7|-5<br>
 	2. JDHA218 (1:0)<br>
 	3. zamrai (1:2)<br>
 	4. dIehAppY (1:2)<br>
@@ -352,7 +352,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. GoOodY (1:15)<br>
 <br>
 39. #Rawz (1157) 0<br>
-+49|+46|+26|0|-16|+2|-18|+10|0|+4<br>
++50|+46|+26|0|-16|+2|-18|+10|0|+4<br>
 	4. dIehAppY (11:30)<br>
 <br>
 40. #Vhyme (1153) 0<br>
@@ -360,8 +360,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. dIehAppY (24:25)<br>
 	6. Devil- (21:39)<br>
 <br>
-41. #BenjiKozor (1150) 0<br>
--15|+5|+3|-6|+13|-18|-8|-19|-6|0<br>
+41. #BenjiKozor (1149) 0<br>
+-15|+4|+3|-7|+12|-19|-8|-19|-6|0<br>
 	1. operator. (6:7)<br>
 	2. JDHA218 (2:3)<br>
 	4. dIehAppY (56:65)<br>
@@ -436,7 +436,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. GoOodY (4:5)<br>
 <br>
 50. #qUidNovi (1109) 0<br>
-+8|+1|-9|-5|-7|-13|-11|-13|-9|-2<br>
++8|+1|-8|-5|-7|-13|-11|-13|-8|-2<br>
 	2. JDHA218 (6:10)<br>
 	4. dIehAppY (3:12)<br>
 	5. tidyboot-653 (1:1)<br>
@@ -529,11 +529,11 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. xMillY (1:6)<br>
 	10. GoOodY (19:26)<br>
 <br>
-60. #FoxMulder (1073) 0<br>
+60. #FoxMulder (1074) 0<br>
 +90|+75|+26|-97|-25<br>
 	4. dIehAppY (5:6)<br>
 <br>
-61. #Foxylocks12 (1070) 0<br>
+61. #Foxylocks12 (1071) 0<br>
 +1|+64|+26|+26|+74|+75|0|-19|+4<br>
 	1. operator. (4:1)<br>
 	4. dIehAppY (14:20)<br>
@@ -649,7 +649,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. GoOodY (5:5)<br>
 <br>
 74. #edache22 (937) 0<br>
--23|-27|+7|-48|-11|-17|-37|+1|+5|-5<br>
+-23|-26|+7|-48|-11|-17|-37|+1|+5|-5<br>
 	2. JDHA218 (0:3)<br>
 	3. zamrai (4:5)<br>
 	4. dIehAppY (3:14)<br>
