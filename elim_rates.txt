@@ -10,7 +10,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (26:4)<br>
 <br>
 2. #Vadim1707 (1562) -1<br>
-+22|+18|+15|+13|+9|+7|+4|+8|+1|+1<br>
++21|+17|+15|+12|+8|+6|+3|+8|+1|+1<br>
 	3. waffle3z (49:31)<br>
 	4. esparano (1:1)<br>
 	5. Joe_Shome123 (21:7)<br>
@@ -19,8 +19,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Parko (2:2)<br>
 	10. Eudaemonia (111:70)<br>
 <br>
-3. #waffle3z (1525) -5<br>
-+2|+3|-6|-2|+7|+4|-6|-6|-5|+4<br>
+3. #waffle3z (1524) -5<br>
+0|+1|-8|-3|+5|+2|-8|-6|-5|+4<br>
 	1. gamaray1719 (5:30)<br>
 	2. Vadim1707 (31:49)<br>
 	4. esparano (12:11)<br>
@@ -31,7 +31,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (13:2)<br>
 <br>
 4. #esparano (1516) 0<br>
--55|-61|-71|-62|-72|-47|-50|-35|-13|0<br>
+-55|-62|-71|-61|-71|-47|-50|-35|-13|0<br>
 	1. gamaray1719 (1:5)<br>
 	2. Vadim1707 (1:1)<br>
 	3. waffle3z (11:12)<br>
@@ -50,7 +50,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (154:124)<br>
 <br>
 6. #SyMSyMmY (1497) -2<br>
--16|-7|-9|-10|+1|-8|+7|+2|-4|-2<br>
+-16|-8|-9|-10|+1|-8|+7|+2|-4|-2<br>
 	1. gamaray1719 (37:64)<br>
 	2. Vadim1707 (45:60)<br>
 	3. waffle3z (25:39)<br>
@@ -62,14 +62,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (212:156)<br>
 <br>
 7. #MusCu (1465) 0<br>
--13|-16|-13|-6|-11|-8|+3|+4|-4|-4<br>
+-13|-16|-12|-6|-11|-8|+4|+4|-4|-4<br>
 	2. Vadim1707 (2:4)<br>
 	3. waffle3z (5:12)<br>
 	6. SyMSyMmY (6:9)<br>
 	10. Eudaemonia (2:2)<br>
 <br>
 8. #Parko (1462) 0<br>
-+3|+14|+16|+9|+13|+2|0|-2|-1|+8<br>
++3|+15|+16|+9|+13|+3|0|-2|-1|+8<br>
 	1. gamaray1719 (1:1)<br>
 	2. Vadim1707 (2:2)<br>
 	5. Joe_Shome123 (14:10)<br>
@@ -83,7 +83,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (2:2)<br>
 <br>
 10. #Eudaemonia (1449) 0<br>
--10|-9|-7|-4|-7|-9|-8|-12|-2|+1<br>
+-10|-9|-7|-4|-6|-9|-8|-12|-2|+1<br>
 	1. gamaray1719 (4:26)<br>
 	2. Vadim1707 (70:111)<br>
 	3. waffle3z (2:13)<br>
@@ -94,17 +94,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Parko (9:5)<br>
 	9. JazzyDeer (2:2)<br>
 <br>
-11. #waffle~3z (1437) +16<br>
--64|-72|-72|-59|-47|-47|-50|-37|-16|+6<br>
-	1. gamaray1719 (0:1)<br>
-	2. Vadim1707 (33:35)<br>
-	3. waffle3z (47:82)<br>
-	6. SyMSyMmY (1:2)<br>
-	9. JazzyDeer (1:1)<br>
-	10. Eudaemonia (56:53)<br>
-<br>
-12. #fifty6 (1435) 0<br>
-+20|+16|+26|+13|+17|+3|+1|+7|+4|+2<br>
+11. #fifty6 (1435) 0<br>
++19|+15|+26|+13|+18|+3|+1|+6|+4|+2<br>
 	2. Vadim1707 (0:5)<br>
 	3. waffle3z (1:1)<br>
 	4. esparano (1:1)<br>
@@ -112,8 +103,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. SyMSyMmY (1:0)<br>
 	8. Parko (1:0)<br>
 <br>
-13. #Jasem (1428) 0<br>
-+21|+13|+11|+12|+5|+7|+3|-3|+5|-1<br>
+12. #waffle~3z (1430) +26<br>
+-62|-84|-95|-56|-68|-41|-69|-38|-7|+23<br>
+	1. gamaray1719 (0:1)<br>
+	2. Vadim1707 (33:35)<br>
+	3. waffle3z (47:82)<br>
+	6. SyMSyMmY (1:2)<br>
+	9. JazzyDeer (1:1)<br>
+	10. Eudaemonia (56:53)<br>
+<br>
+13. #Jasem (1427) 0<br>
++21|+13|+12|+12|+5|+7|+3|-3|+5|-1<br>
 	1. gamaray1719 (2:15)<br>
 	2. Vadim1707 (5:8)<br>
 	5. Joe_Shome123 (4:3)<br>
@@ -135,7 +135,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (102:105)<br>
 <br>
 15. #zamrai (1424) -2<br>
--22|-14|-11|-10|-15|-9|-19|-26|-19|-6<br>
+-23|-14|-11|-10|-16|-9|-20|-26|-19|-6<br>
 	2. Vadim1707 (7:22)<br>
 	4. esparano (2:9)<br>
 	5. Joe_Shome123 (2:4)<br>
@@ -145,7 +145,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (9:5)<br>
 <br>
 16. #bejut (1412) +6<br>
--24|-37|-31|-28|-13|-8|+16|+2|+7|+6<br>
+-24|-37|-31|-29|-13|-9|+16|+2|+7|+6<br>
 	1. gamaray1719 (0:1)<br>
 	2. Vadim1707 (9:13)<br>
 	3. waffle3z (4:13)<br>
@@ -174,14 +174,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (11:13)<br>
 <br>
 19. #vip_genius (1374) 0<br>
--17|0|+21|+10|+13|+10|-7|-6|-19|-7<br>
+-16|0|+21|+11|+13|+10|-7|-6|-19|-7<br>
 	2. Vadim1707 (1:2)<br>
 	5. Joe_Shome123 (1:0)<br>
 	9. JazzyDeer (1:0)<br>
 	10. Eudaemonia (0:1)<br>
 <br>
 20. #pablo55 (1361) 0<br>
--83|-75|-41|-32|-39|-7|-19|-24|-18|-12<br>
+-83|-75|-41|-32|-39|-7|-20|-24|-18|-12<br>
 	1. gamaray1719 (2:3)<br>
 	2. Vadim1707 (2:6)<br>
 	3. waffle3z (3:7)<br>
@@ -210,8 +210,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. JazzyDeer (13:9)<br>
 	10. Eudaemonia (19:30)<br>
 <br>
-23. #Vhyme (1356) +18<br>
-+28|+10|+46|+9|+9|+28|-14|-13|+19|-1<br>
+23. #Vhyme (1354) +16<br>
++26|+7|+44|+7|+13|+31|-14|-14|+18|-3<br>
 	1. gamaray1719 (0:4)<br>
 	2. Vadim1707 (10:32)<br>
 	3. waffle3z (3:2)<br>
@@ -220,7 +220,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (7:19)<br>
 <br>
 24. #BenjiKozor (1351) -2<br>
--10|-3|-12|-14|-13|-21|-16|+2|-6|-3<br>
+-10|-3|-11|-14|-13|-21|-16|+2|-6|-3<br>
 	1. gamaray1719 (1:3)<br>
 	2. Vadim1707 (10:29)<br>
 	3. waffle3z (6:6)<br>
@@ -240,7 +240,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (3:3)<br>
 <br>
 26. #Guacninja (1335) 0<br>
-+69|+53|+62|+47|+25|+27|+11|+11|+11|-20<br>
++69|+53|+63|+47|+25|+28|+11|+11|+11|-20<br>
 	1. gamaray1719 (1:10)<br>
 	2. Vadim1707 (3:5)<br>
 	5. Joe_Shome123 (0:4)<br>
@@ -249,7 +249,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (10:12)<br>
 <br>
 27. #zeropoint (1332) -4<br>
--6|+11|-5|+7|+7|+9|+10|+18|+12|+6<br>
+-6|+11|-4|+7|+8|+9|+10|+18|+12|+6<br>
 	1. gamaray1719 (0:6)<br>
 	2. Vadim1707 (0:2)<br>
 	3. waffle3z (0:3)<br>
@@ -260,7 +260,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (6:12)<br>
 <br>
 28. #Ninjaboom (1331) -5<br>
--15|-14|-3|+9|+29|+32|+28|+29|+7|-5<br>
+-14|-14|-3|+9|+29|+32|+28|+29|+7|-5<br>
 	1. gamaray1719 (1:2)<br>
 	2. Vadim1707 (15:50)<br>
 	3. waffle3z (3:7)<br>
@@ -295,14 +295,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (14:12)<br>
 <br>
 31. #like.a.ninja (1297) 0<br>
-+30|-31|-20|-82|+36|+20|-49|+6|-69|-17<br>
++31|-30|-20|-81|+36|+19|-49|+6|-69|-17<br>
 	2. Vadim1707 (0:4)<br>
 	4. esparano (0:1)<br>
 	6. SyMSyMmY (6:18)<br>
 	10. Eudaemonia (0:1)<br>
 <br>
 32. #ciubaka (1292) +4<br>
-+60|+61|+57|+28|+8|+6|+17|+14|+28|+10<br>
++59|+61|+57|+28|+8|+6|+17|+14|+28|+10<br>
 	2. Vadim1707 (1:7)<br>
 	4. esparano (0:1)<br>
 	5. Joe_Shome123 (1:0)<br>
@@ -312,7 +312,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (1:3)<br>
 <br>
 33. #Devil- (1282) -13<br>
--37|+3|-101|-56|-13<br>
+-37|+3|-102|-56|-13<br>
 	2. Vadim1707 (1:1)<br>
 	3. waffle3z (1:1)<br>
 	6. SyMSyMmY (17:30)<br>
@@ -326,8 +326,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Joe_Shome123 (2:4)<br>
 	6. SyMSyMmY (1:0)<br>
 <br>
-35. #Toranaga (1273) -18<br>
--66<br>
+35. #Toranaga (1273) -19<br>
+-67<br>
 	1. gamaray1719 (2:17)<br>
 	2. Vadim1707 (1:4)<br>
 	5. Joe_Shome123 (1:3)<br>
@@ -344,8 +344,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. JazzyDeer (2:3)<br>
 	10. Eudaemonia (2:7)<br>
 <br>
-37. #icomeinpeece (1261) 0<br>
-+18|-8|0|-21|-5|-12|+2|-2|+7|+10<br>
+37. #icomeinpeece (1262) 0<br>
++18|-8|0|-21|-5|-12|+1|-2|+7|+10<br>
 	1. gamaray1719 (0:1)<br>
 	2. Vadim1707 (0:3)<br>
 	5. Joe_Shome123 (0:3)<br>
@@ -353,13 +353,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. MusCu (4:20)<br>
 	10. Eudaemonia (1:2)<br>
 <br>
-38. #Ardi09. (1243) -2<br>
--3|-11|-1|-17|-16|-24|-29|-23|+2|-5<br>
+38. #Ardi09. (1244) -2<br>
+-2|-10|-1|-17|-16|-24|-29|-23|+2|-5<br>
 	5. Joe_Shome123 (2:2)<br>
 	10. Eudaemonia (0:5)<br>
 <br>
-39. #Sondair (1240) 0<br>
-+25|+32|+40|+31|+27|0|-7|-5|-7|0<br>
+39. #Sondair (1241) 0<br>
++22|+30|+39|+30|+26|-1|-7|-6|-7|0<br>
 	2. Vadim1707 (0:1)<br>
 	3. waffle3z (0:2)<br>
 	6. SyMSyMmY (0:1)<br>
@@ -367,7 +367,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (3:6)<br>
 <br>
 40. #spookyrivers (1235) -23<br>
--55|-121|-96|-82|-102|-78|-94|-48|-30|-53<br>
+-55|-121|-96|-82|-102|-78|-92|-47|-30|-53<br>
 	2. Vadim1707 (2:7)<br>
 	5. Joe_Shome123 (0:1)<br>
 	6. SyMSyMmY (4:8)<br>
@@ -385,7 +385,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (15:36)<br>
 <br>
 42. #CoolFaucet~518 (1218) +7<br>
-0|-1|+23|-19|+9|+26|-3|-9|+3|+6<br>
+0|-1|+24|-19|+9|+26|-3|-9|+2|+6<br>
 	1. gamaray1719 (1:10)<br>
 	2. Vadim1707 (0:5)<br>
 	4. esparano (1:4)<br>
@@ -396,7 +396,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (5:16)<br>
 <br>
 43. #BadKarma- (1210) 0<br>
--48|+93|-6|-73<br>
+-48|+93|-7|-72<br>
 	2. Vadim1707 (2:12)<br>
 	4. esparano (0:1)<br>
 	5. Joe_Shome123 (1:11)<br>
@@ -406,7 +406,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (34:106)<br>
 <br>
 44. #_Marik_ (1200) +4<br>
-+148|+104|+73|+28|+76|+52|+44|-50|0<br>
++148|+104|+73|+28|+92|+57|+46|-50|0<br>
 	1. gamaray1719 (0:1)<br>
 	2. Vadim1707 (0:3)<br>
 	3. waffle3z (0:8)<br>
@@ -416,13 +416,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. MusCu (0:1)<br>
 	10. Eudaemonia (1:32)<br>
 <br>
-45. #duruti (1161) 0<br>
-+41|+13|+25|+5|-18|-24|-23|-15|-28|-2<br>
+45. #duruti (1162) 0<br>
++42|+14|+25|+5|-17|-24|-23|-16|-29|-2<br>
 	1. gamaray1719 (0:2)<br>
 	2. Vadim1707 (0:1)<br>
 <br>
 46. #x-Carbon-x (1155) +1<br>
-+81|+88|+14|+40|+14|+34|+37|+19|+30|+7<br>
++82|+88|+15|+41|+14|+34|+37|+19|+30|+7<br>
 	2. Vadim1707 (0:5)<br>
 	4. esparano (0:2)<br>
 	6. SyMSyMmY (2:15)<br>
@@ -430,7 +430,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (2:13)<br>
 <br>
 47. #quickmill (1148) 0<br>
--14|-19|-23|-24|-9|0|+3|+6|+16|+2<br>
+-14|-18|-23|-24|-8|0|+4|+6|+16|+2<br>
 	1. gamaray1719 (1:3)<br>
 	3. waffle3z (0:2)<br>
 	5. Joe_Shome123 (3:7)<br>
@@ -460,8 +460,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. JazzyDeer (1:1)<br>
 	10. Eudaemonia (8:50)<br>
 <br>
-50. #AlGalcone (1107) -1<br>
-+2|+15|+18|+16|+15|0|+7|+9|+1|-1<br>
+50. #AlGalcone (1108) -1<br>
++2|+15|+18|+15|+15|0|+7|+9|+1|-1<br>
 	1. gamaray1719 (2:23)<br>
 	2. Vadim1707 (2:25)<br>
 	3. waffle3z (0:9)<br>
@@ -473,6 +473,6 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (16:105)<br>
 <br>
 51. #Ares8 (1012) 0<br>
-+59|+35|+53|+53|+57|+45|+33|+26|-5|+2<br>
++60|+36|+54|+54|+57|+45|+33|+26|-5|+2<br>
 	5. Joe_Shome123 (4:10)<br>
 	6. SyMSyMmY (0:9)<br>
