@@ -1,599 +1,580 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #GreatApple~214 (1154) 0<br>
-+22|+20|+12|+8|-6|+6|+8|+13|+7|+8<br>
+1. #GreatApple~214 (1153) 0<br>
++20|+12|+7|-7|+5|+7|+13|+7|+8|0<br>
 	2. Vlajs001 (5:0)<br>
 	3. rickss (1:2)<br>
-	4. DavidIggyLou (0:1)<br>
-	8. fifty6 (1:0)<br>
-	9. Buz (0:1)<br>
+	6. DavidIggyLou (0:2)<br>
+	8. GroovyFlame (1:1)<br>
+	10. buz (0:1)<br>
 <br>
 2. #Vlajs001 (1104) 0<br>
 -8|-17|-16|-16|-15|-16|-16|-2|-12|-2<br>
 	1. GreatApple~214 (0:5)<br>
 	3. rickss (3:0)<br>
-	4. DavidIggyLou (1:2)<br>
-	6. Arkady (2:1)<br>
-	9. Buz (0:1)<br>
-	10. g-nice (0:2)<br>
+	5. Arkady (2:1)<br>
+	6. DavidIggyLou (1:2)<br>
+	10. buz (0:1)<br>
 <br>
-3. #rickss (1099) +4<br>
-+59|+43|+41|+34|+37|+31|+20|+13|+4|+1<br>
+3. #rickss (1100) +2<br>
++60|+44|+42|+35|+38|+32|+21|+14|+6|+2<br>
 	1. GreatApple~214 (2:1)<br>
 	2. Vlajs001 (0:3)<br>
-	4. DavidIggyLou (1:0)<br>
-	5. chomeur2 (2:2)<br>
-	6. Arkady (4:1)<br>
-	8. fifty6 (6:3)<br>
-	9. Buz (5:2)<br>
-	10. g-nice (6:4)<br>
+	4. chomeur2 (2:2)<br>
+	5. Arkady (4:1)<br>
+	6. DavidIggyLou (3:0)<br>
+	8. GroovyFlame (3:2)<br>
+	9. fifty6 (6:3)<br>
+	10. buz (5:2)<br>
 <br>
-4. #DavidIggyLou (1095) -1<br>
-+47|+32|+27|+33|+33|+34|+36|+26|+17|+2<br>
-	1. GreatApple~214 (1:0)<br>
-	2. Vlajs001 (2:1)<br>
-	3. rickss (0:1)<br>
-	5. chomeur2 (1:1)<br>
-	8. fifty6 (2:0)<br>
-	9. Buz (2:1)<br>
-	10. g-nice (4:1)<br>
-<br>
-5. #chomeur2 (1094) 0<br>
+4. #chomeur2 (1094) 0<br>
 +18|+8|+7|+13|+9|+7|+5|-3|-2|-4<br>
 	3. rickss (2:2)<br>
-	4. DavidIggyLou (1:1)<br>
-	10. g-nice (0:2)<br>
+	6. DavidIggyLou (1:1)<br>
 <br>
-6. #Arkady (1093) 0<br>
+5. #Arkady (1093) 0<br>
 +14|+18|+22|+14|+19|+18|+16|+6|+2|+2<br>
 	2. Vlajs001 (1:2)<br>
 	3. rickss (1:4)<br>
-	8. fifty6 (0:3)<br>
-	9. Buz (2:2)<br>
+	8. GroovyFlame (2:0)<br>
+	9. fifty6 (0:3)<br>
+	10. buz (1:2)<br>
 <br>
-7. #Tiberius88 (1088) +2<br>
--19|-17|-19|-15|-15|-2|+2|+8|+6|0<br>
-	8. fifty6 (1:0)<br>
-	9. Buz (2:1)<br>
-	10. g-nice (1:0)<br>
+6. #DavidIggyLou (1092) -3<br>
++44|+30|+24|+31|+30|+31|+33|+24|+14|-1<br>
+	1. GreatApple~214 (2:0)<br>
+	2. Vlajs001 (2:1)<br>
+	3. rickss (0:3)<br>
+	4. chomeur2 (1:1)<br>
+	8. GroovyFlame (2:2)<br>
+	9. fifty6 (2:0)<br>
+	10. buz (2:1)<br>
 <br>
-8. #fifty6 (1077) 0<br>
-+47|+38|+28|+19|+19|+15|+3|+6|-2<br>
-	1. GreatApple~214 (0:1)<br>
+7. #Tiberius88 (1086) 0<br>
+-21|-20|-21|-18|-17|-5|0|+5|+3|-3<br>
+	9. fifty6 (1:0)<br>
+	10. buz (2:0)<br>
+<br>
+8. #GroovyFlame (1085) 0<br>
++66|+60|+43|+27|+29|+21|+5|-2|-6|-2<br>
+	1. GreatApple~214 (1:1)<br>
+	3. rickss (2:3)<br>
+	5. Arkady (0:2)<br>
+	6. DavidIggyLou (2:2)<br>
+	10. buz (0:1)<br>
+<br>
+9. #fifty6 (1074) 0<br>
++45|+36|+26|+17|+16|+12|+1|+3|-4<br>
 	3. rickss (3:6)<br>
-	4. DavidIggyLou (0:2)<br>
-	6. Arkady (3:0)<br>
+	5. Arkady (3:0)<br>
+	6. DavidIggyLou (0:2)<br>
 	7. Tiberius88 (0:1)<br>
-	9. Buz (0:1)<br>
-	10. g-nice (2:3)<br>
+	10. buz (0:1)<br>
 <br>
-9. #Buz (1076) 0<br>
-+9|+10|+20|+20|+23|+19|+18|+14|+10|+5<br>
+10. #buz (1072) -3<br>
++6|+7|+17|+16|+19|+15|+14|+10|+7|+2<br>
 	1. GreatApple~214 (1:0)<br>
 	2. Vlajs001 (1:0)<br>
 	3. rickss (2:5)<br>
-	4. DavidIggyLou (1:2)<br>
-	6. Arkady (2:2)<br>
-	7. Tiberius88 (1:2)<br>
-	8. fifty6 (1:0)<br>
-	10. g-nice (1:0)<br>
+	5. Arkady (2:1)<br>
+	6. DavidIggyLou (1:2)<br>
+	7. Tiberius88 (0:2)<br>
+	8. GroovyFlame (1:0)<br>
+	9. fifty6 (1:0)<br>
 <br>
-10. #g-nice (1071) 0<br>
+11. #g-nice (1071) 0<br>
 +42|+38|+39|+25|+21|+23|+24|+18|+16|0<br>
 	2. Vlajs001 (2:0)<br>
 	3. rickss (4:6)<br>
-	4. DavidIggyLou (1:4)<br>
-	5. chomeur2 (2:0)<br>
+	4. chomeur2 (2:0)<br>
+	6. DavidIggyLou (1:4)<br>
 	7. Tiberius88 (0:1)<br>
-	8. fifty6 (3:2)<br>
-	9. Buz (0:1)<br>
+	9. fifty6 (3:2)<br>
+	10. buz (0:1)<br>
 <br>
-11. #Jarre (1066) -1<br>
--13|-11|-11|-9|-3|+3|+4|+6|-2|-4<br>
+12. #Jarre (1067) 0<br>
+-10|-10|-8|-2|+4|+5|+7|-1|-3|-1<br>
 	1. GreatApple~214 (3:2)<br>
 	3. rickss (1:3)<br>
-	4. DavidIggyLou (2:0)<br>
-	5. chomeur2 (1:1)<br>
-	8. fifty6 (1:3)<br>
-	9. Buz (1:1)<br>
-	10. g-nice (2:2)<br>
+	4. chomeur2 (1:1)<br>
+	6. DavidIggyLou (2:0)<br>
+	7. Tiberius88 (1:0)<br>
+	9. fifty6 (1:3)<br>
+	10. buz (1:1)<br>
 <br>
-12. #A-z-sh (1059) +2<br>
-+21|+13|+7|+12|+3|+4|+7|0|+9|+6<br>
-	1. GreatApple~214 (5:4)<br>
-	2. Vlajs001 (8:11)<br>
-	3. rickss (9:11)<br>
-	4. DavidIggyLou (1:2)<br>
-	5. chomeur2 (1:0)<br>
-	6. Arkady (7:9)<br>
-	7. Tiberius88 (2:2)<br>
-	8. fifty6 (1:11)<br>
-	9. Buz (6:7)<br>
-	10. g-nice (0:2)<br>
-<br>
-13. #mrooq.711 (1057) -1<br>
-+41|+29|+27|+20|+10|+8|+7<br>
-	3. rickss (0:1)<br>
-	4. DavidIggyLou (0:1)<br>
-	6. Arkady (0:1)<br>
-	7. Tiberius88 (0:2)<br>
-	8. fifty6 (0:1)<br>
-<br>
-14. #MUFSKIN (1056) 0<br>
+13. #MUFSKIN (1056) 0<br>
 +3|+5|+8|+14|+8|+2|-5|-8|-9|-6<br>
 	1. GreatApple~214 (1:3)<br>
-	2. Vlajs001 (7:6)<br>
+	2. Vlajs001 (5:5)<br>
 	3. rickss (0:4)<br>
-	5. chomeur2 (3:3)<br>
-	6. Arkady (2:4)<br>
-	9. Buz (1:1)<br>
-	10. g-nice (0:1)<br>
+	4. chomeur2 (3:3)<br>
+	5. Arkady (2:4)<br>
+	8. GroovyFlame (1:0)<br>
+	10. buz (1:1)<br>
+<br>
+14. #mrooq.711 (1056) -1<br>
++40|+29|+26|+19|+9|+7|+6<br>
+	3. rickss (0:1)<br>
+	6. DavidIggyLou (0:1)<br>
+	7. Tiberius88 (0:1)<br>
+	8. GroovyFlame (0:2)<br>
+	9. fifty6 (0:1)<br>
 <br>
 15. #Starfleet (1056) 0<br>
 -19|-14|-14|-18|-17|-9|-10|-8|-10|-9<br>
 	1. GreatApple~214 (2:3)<br>
 	2. Vlajs001 (1:4)<br>
 	3. rickss (0:1)<br>
-	5. chomeur2 (2:6)<br>
-	6. Arkady (2:6)<br>
-	8. fifty6 (0:1)<br>
+	4. chomeur2 (2:6)<br>
+	5. Arkady (2:4)<br>
+	8. GroovyFlame (0:1)<br>
+	9. fifty6 (0:1)<br>
 <br>
-16. #androidkill (1054) 0<br>
-+66|+52|+43|+18|+6<br>
-	1. GreatApple~214 (3:1)<br>
-	2. Vlajs001 (0:1)<br>
+16. #goldfinger (1053) +1<br>
+0|-2|-1|+6|+7|+6|+8|+8|+5|+5<br>
 	3. rickss (0:1)<br>
-	5. chomeur2 (1:0)<br>
-	6. Arkady (0:1)<br>
-	7. Tiberius88 (0:1)<br>
-	9. Buz (0:1)<br>
+	5. Arkady (1:0)<br>
+	8. GroovyFlame (1:1)<br>
+	9. fifty6 (2:3)<br>
+	10. buz (1:0)<br>
 <br>
-17. #ludonco (1052) -2<br>
-+31|+7|+6|-1|-5|-17|-16|-10|-12|-3<br>
-	5. chomeur2 (2:2)<br>
+17. #A-z-sh (1050) -4<br>
++12|+4|-2|+3|-6|-5|-2|-8|+1|-3<br>
+	1. GreatApple~214 (5:4)<br>
+	2. Vlajs001 (7:10)<br>
+	3. rickss (9:11)<br>
+	4. chomeur2 (1:0)<br>
+	5. Arkady (7:9)<br>
+	6. DavidIggyLou (1:2)<br>
+	7. Tiberius88 (2:2)<br>
+	8. GroovyFlame (1:0)<br>
+	9. fifty6 (1:11)<br>
+	10. buz (6:7)<br>
+<br>
+18. #ludonco (1049) -3<br>
++5|+4|-3|-8|-19|-18|-12|-15|-5|-3<br>
+	4. chomeur2 (2:2)<br>
 	7. Tiberius88 (0:2)<br>
-	9. Buz (1:0)<br>
+	8. GroovyFlame (1:3)<br>
+	10. buz (1:0)<br>
 <br>
-18. #goldfinger (1048) +2<br>
--4|-6|-5|+1|+2|+2|+3|+4|+1|+1<br>
-	3. rickss (0:1)<br>
-	6. Arkady (1:0)<br>
-	8. fifty6 (2:3)<br>
-	9. Buz (1:0)<br>
-	10. g-nice (1:0)<br>
-<br>
-19. #Milky007 (1037) +1<br>
-+33|+20|+2<br>
-	1. GreatApple~214 (0:2)<br>
-	4. DavidIggyLou (3:2)<br>
-	5. chomeur2 (2:3)<br>
+19. #Milky007 (1042) +4<br>
++38|+25|+7|+4<br>
+	1. GreatApple~214 (0:4)<br>
+	4. chomeur2 (2:3)<br>
+	6. DavidIggyLou (3:3)<br>
 	7. Tiberius88 (2:4)<br>
-	9. Buz (2:7)<br>
-	10. g-nice (0:1)<br>
+	10. buz (2:7)<br>
 <br>
-20. #FlowoodMS (1034) 0<br>
-+7|+13|+3|-1|+3|-2|-3|+5|+12|+4<br>
+20. #FlowoodMS (1036) +2<br>
++15|+5|+1|+5|0|-1|+7|+14|+6|0<br>
 	1. GreatApple~214 (0:1)<br>
-	2. Vlajs001 (1:1)<br>
-	6. Arkady (1:0)<br>
+	5. Arkady (1:0)<br>
+	6. DavidIggyLou (1:0)<br>
 	7. Tiberius88 (0:2)<br>
-	9. Buz (2:3)<br>
+	8. GroovyFlame (3:0)<br>
+	10. buz (2:1)<br>
 <br>
-21. #maj0ra (1034) +1<br>
--9|-6|-4|-10|-11|-1|0|-2<br>
-	1. GreatApple~214 (2:1)<br>
-	4. DavidIggyLou (0:3)<br>
-	7. Tiberius88 (1:1)<br>
-	8. fifty6 (0:1)<br>
-	9. Buz (4:0)<br>
-	10. g-nice (2:2)<br>
-<br>
-22. #His-Majesty (1032) -2<br>
-+7|+8|+11|+4|+6|+2|0|-1|+3|-1<br>
+21. #His-Majesty (1034) 0<br>
++8|+10|+12|+5|+7|+4|+2|+1|+4|+1<br>
 	1. GreatApple~214 (1:2)<br>
 	2. Vlajs001 (0:5)<br>
 	3. rickss (2:3)<br>
-	4. DavidIggyLou (0:2)<br>
-	6. Arkady (1:0)<br>
+	5. Arkady (1:0)<br>
+	6. DavidIggyLou (0:2)<br>
 	7. Tiberius88 (1:0)<br>
-	9. Buz (2:0)<br>
-	10. g-nice (4:2)<br>
+	8. GroovyFlame (2:0)<br>
+	9. fifty6 (1:1)<br>
+	10. buz (2:0)<br>
 <br>
-23. #TinyOwl~323 (1032) +2<br>
-+1|+7|+4|+6|+11|+10|+8|+2|+1|+1<br>
+22. #TinyOwl~323 (1032) 0<br>
++2|+8|+4|+6|+11|+10|+9|+3|+2|+1<br>
 	1. GreatApple~214 (1:7)<br>
-	2. Vlajs001 (1:2)<br>
+	2. Vlajs001 (1:1)<br>
 	3. rickss (0:1)<br>
-	4. DavidIggyLou (0:5)<br>
-	5. chomeur2 (1:2)<br>
-	6. Arkady (2:2)<br>
+	4. chomeur2 (1:2)<br>
+	5. Arkady (2:2)<br>
+	6. DavidIggyLou (0:5)<br>
 	7. Tiberius88 (2:3)<br>
-	9. Buz (1:2)<br>
+	8. GroovyFlame (1:2)<br>
+	10. buz (1:1)<br>
 <br>
-24. #SymSymmy (1031) -2<br>
-+25|+25|+14|+11|-1<br>
+23. #maj0ra (1032) -2<br>
+-11|-8|-6|-12|-13|-3|-3|-4<br>
+	1. GreatApple~214 (2:1)<br>
+	6. DavidIggyLou (0:3)<br>
+	8. GroovyFlame (3:2)<br>
+	9. fifty6 (0:1)<br>
+	10. buz (4:0)<br>
+<br>
+24. #SyMSyMmY (1032) 0<br>
++26|+26|+15|+12|0<br>
 	2. Vlajs001 (0:1)<br>
 	3. rickss (0:2)<br>
-	9. Buz (1:1)<br>
-	10. g-nice (2:0)<br>
+	8. GroovyFlame (0:1)<br>
+	10. buz (1:1)<br>
 <br>
-25. #skeems (1030) -2<br>
--14|-8|-11|-8|-13|-18|-15|-10|-6|-2<br>
-	1. GreatApple~214 (3:8)<br>
-	2. Vlajs001 (1:3)<br>
-	3. rickss (0:3)<br>
-	4. DavidIggyLou (0:1)<br>
-	5. chomeur2 (0:1)<br>
-	7. Tiberius88 (0:2)<br>
-	9. Buz (2:7)<br>
-	10. g-nice (0:9)<br>
+25. #onz2 (1031) 0<br>
++8|+10|+2|+2|+3<br>
+	1. GreatApple~214 (1:3)<br>
+	3. rickss (1:7)<br>
+	5. Arkady (2:0)<br>
+	6. DavidIggyLou (0:2)<br>
+	7. Tiberius88 (1:0)<br>
+	8. GroovyFlame (1:0)<br>
+	9. fifty6 (0:1)<br>
+	10. buz (5:4)<br>
 <br>
-26. #dfyyxy (1029) 0<br>
-+7|+12|+12|+7|+11|+8|+3|-3|+1|+3<br>
+26. #dfyyxy (1030) 0<br>
++8|+13|+13|+8|+12|+8|+3|-2|+2|+3<br>
 	2. Vlajs001 (0:4)<br>
 	3. rickss (1:2)<br>
-	9. Buz (1:1)<br>
+	10. buz (1:1)<br>
 <br>
-27. #BDAT10 (1028) 0<br>
-+31|+38|+30|+24|+18|+16|+9|+13|+14|-2<br>
+27. #BDAT10 (1029) +4<br>
++31|+38|+31|+25|+19|+16|+10|+14|+14|-1<br>
 	3. rickss (6:0)<br>
-	4. DavidIggyLou (1:1)<br>
-	5. chomeur2 (0:1)<br>
-	6. Arkady (0:1)<br>
-	8. fifty6 (3:4)<br>
-	9. Buz (1:2)<br>
-	10. g-nice (0:2)<br>
+	4. chomeur2 (0:1)<br>
+	5. Arkady (0:1)<br>
+	6. DavidIggyLou (1:3)<br>
+	7. Tiberius88 (0:1)<br>
+	8. GroovyFlame (2:1)<br>
+	9. fifty6 (3:4)<br>
+	10. buz (1:2)<br>
 <br>
-28. #onz2 (1028) +1<br>
-+5|+7|-1|-1|0<br>
-	1. GreatApple~214 (1:3)<br>
-	2. Vlajs001 (0:1)<br>
-	3. rickss (1:7)<br>
-	4. DavidIggyLou (0:2)<br>
-	6. Arkady (2:0)<br>
-	7. Tiberius88 (1:0)<br>
-	9. Buz (3:3)<br>
-	10. g-nice (1:2)<br>
-<br>
-29. #katudondayo (1025) -1<br>
-+10|+1|-9|-13|-12|-2|+1<br>
-	2. Vlajs001 (0:1)<br>
-	3. rickss (4:5)<br>
-	5. chomeur2 (1:3)<br>
-	8. fifty6 (1:0)<br>
-	9. Buz (3:0)<br>
-<br>
-30. #Celica (1025) -1<br>
--18|-14|-14|-9|-4|-5|-7|-4|+4|+4<br>
-	1. GreatApple~214 (3:0)<br>
-	2. Vlajs001 (0:1)<br>
-	4. DavidIggyLou (2:2)<br>
+28. #skeems (1028) +1<br>
+-15|-9|-12|-10|-14|-19|-17|-12|-7|-3<br>
+	1. GreatApple~214 (5:7)<br>
+	2. Vlajs001 (1:3)<br>
+	3. rickss (0:3)<br>
+	6. DavidIggyLou (0:1)<br>
 	7. Tiberius88 (0:2)<br>
-	9. Buz (1:1)<br>
-	10. g-nice (1:2)<br>
+	8. GroovyFlame (0:1)<br>
+	10. buz (2:7)<br>
 <br>
-31. #dIehAppY (1023) 0<br>
-+20|+19|+19|+16|+8|+10|+6|0<br>
-	2. Vlajs001 (0:2)<br>
-	3. rickss (0:1)<br>
-	4. DavidIggyLou (0:1)<br>
-	5. chomeur2 (2:0)<br>
-	8. fifty6 (2:0)<br>
-	9. Buz (0:2)<br>
+29. #Celica (1026) +1<br>
+-17|-12|-13|-8|-3|-4|-6|-3|+5|+5<br>
+	1. GreatApple~214 (3:0)<br>
+	6. DavidIggyLou (2:2)<br>
+	7. Tiberius88 (0:2)<br>
+	9. fifty6 (1:0)<br>
+	10. buz (1:1)<br>
 <br>
-32. #hods (1020) 0<br>
-+5|0|+3|+1|-1|-8|-4|-5|-7|-2<br>
+30. #katudondayo (1026) +1<br>
++11|+1|-8|-13|-12|-1|+1<br>
+	3. rickss (4:5)<br>
+	4. chomeur2 (1:3)<br>
+	9. fifty6 (1:0)<br>
+	10. buz (3:0)<br>
+<br>
+31. #hods (1019) -1<br>
++3|-2|+2|0|-3|-9|-5|-6|-8|-3<br>
 	1. GreatApple~214 (0:1)<br>
 	2. Vlajs001 (1:0)<br>
 	3. rickss (1:1)<br>
-	4. DavidIggyLou (0:1)<br>
-	6. Arkady (1:0)<br>
+	5. Arkady (1:0)<br>
+	6. DavidIggyLou (0:1)<br>
 <br>
-33. #stront01 (1018) 0<br>
-+13|+18|+11|-1|-3|+3|-1<br>
-	1. GreatApple~214 (2:9)<br>
+32. #dIehAppY (1018) -3<br>
++15|+14|+14|+11|+3|+5|+1|-5<br>
+	2. Vlajs001 (0:2)<br>
+	3. rickss (0:1)<br>
+	4. chomeur2 (2:0)<br>
+	6. DavidIggyLou (0:1)<br>
+	8. GroovyFlame (0:1)<br>
+	9. fifty6 (2:0)<br>
+	10. buz (0:2)<br>
+<br>
+33. #stront01 (1018) -1<br>
++12|+18|+11|-1|-3|+3|-1<br>
+	1. GreatApple~214 (2:8)<br>
 	2. Vlajs001 (0:1)<br>
 	3. rickss (10:12)<br>
-	8. fifty6 (0:3)<br>
-	9. Buz (1:1)<br>
+	9. fifty6 (2:3)<br>
+	10. buz (1:1)<br>
 <br>
-34. #jerocco (1016) 0<br>
-+18|+24|+24|+19|+17|+12|+17|+18|+16|+8<br>
+34. #jerocco (1013) -4<br>
++14|+20|+20|+15|+13|+8|+13|+14|+12|+5<br>
 	1. GreatApple~214 (1:0)<br>
 	2. Vlajs001 (1:4)<br>
-	6. Arkady (1:1)<br>
-	9. Buz (2:1)<br>
+	5. Arkady (1:1)<br>
+	7. Tiberius88 (2:1)<br>
+	10. buz (2:1)<br>
 <br>
-35. #thereason (1008) -3<br>
--5|+4|0|+10|+1|-3|+3|+11|+6<br>
+35. #thereason (1009) +2<br>
+-4|+6|+2|+12|+2|-2|+4|+12|+7|+1<br>
 	1. GreatApple~214 (1:2)<br>
 	2. Vlajs001 (1:0)<br>
 	3. rickss (0:2)<br>
-	4. DavidIggyLou (3:3)<br>
-	5. chomeur2 (3:0)<br>
-	6. Arkady (0:1)<br>
+	4. chomeur2 (3:0)<br>
+	6. DavidIggyLou (4:5)<br>
 	7. Tiberius88 (1:0)<br>
-	8. fifty6 (1:1)<br>
-	9. Buz (2:2)<br>
-	10. g-nice (0:3)<br>
+	8. GroovyFlame (1:0)<br>
+	9. fifty6 (3:1)<br>
+	10. buz (2:2)<br>
 <br>
-36. #moonrocks (1007) -1<br>
--12|-7|-6|-7|-4|-4|0|-8|-6|-1<br>
-	1. GreatApple~214 (0:2)<br>
-	2. Vlajs001 (2:3)<br>
-	3. rickss (1:3)<br>
-	4. DavidIggyLou (0:4)<br>
-	7. Tiberius88 (0:3)<br>
-	8. fifty6 (2:2)<br>
-	10. g-nice (1:2)<br>
-<br>
-37. #FeistyTea~555 (1005) 0<br>
--3|+4<br>
+36. #FeistyTea~555 (1008) +1<br>
+0|+6<br>
 	1. GreatApple~214 (1:0)<br>
-	2. Vlajs001 (3:1)<br>
+	2. Vlajs001 (3:0)<br>
 	7. Tiberius88 (1:0)<br>
-	9. Buz (1:0)<br>
-	10. g-nice (2:1)<br>
+	9. fifty6 (0:1)<br>
+	10. buz (1:0)<br>
 <br>
-38. #nurglingde (1005) +3<br>
-+27|+27|+21|+17|+14|+4|0|+8|+8|+4<br>
-	1. GreatApple~214 (0:4)<br>
-	3. rickss (0:2)<br>
-	4. DavidIggyLou (1:4)<br>
-	5. chomeur2 (0:1)<br>
-	7. Tiberius88 (1:0)<br>
-	8. fifty6 (2:0)<br>
-	9. Buz (2:0)<br>
-	10. g-nice (2:1)<br>
-<br>
-39. #kaaatom999 (1004) -2<br>
-0<br>
-	1. GreatApple~214 (2:5)<br>
-	3. rickss (1:1)<br>
-	4. DavidIggyLou (0:1)<br>
-	5. chomeur2 (2:1)<br>
-	7. Tiberius88 (0:1)<br>
-<br>
-40. #BadButter~266 (1003) +2<br>
--1|+1|-1|0|+8|+7|+4<br>
-	2. Vlajs001 (0:4)<br>
-	4. DavidIggyLou (1:4)<br>
-	7. Tiberius88 (4:0)<br>
-	8. fifty6 (1:1)<br>
-	9. Buz (1:3)<br>
-	10. g-nice (1:1)<br>
-<br>
-41. #KimJong (1001) +1<br>
-+20|+8|+6|+4|+3|+5<br>
+37. #KimJong (1008) +6<br>
++27|+15|+13|+11|+9|+11<br>
 	1. GreatApple~214 (1:3)<br>
 	2. Vlajs001 (1:3)<br>
 	3. rickss (0:2)<br>
-	4. DavidIggyLou (1:3)<br>
-	5. chomeur2 (2:5)<br>
-	7. Tiberius88 (3:6)<br>
-	8. fifty6 (1:1)<br>
-	9. Buz (2:1)<br>
+	4. chomeur2 (2:5)<br>
+	6. DavidIggyLou (1:3)<br>
+	7. Tiberius88 (3:5)<br>
+	8. GroovyFlame (0:1)<br>
+	9. fifty6 (1:1)<br>
 <br>
-42. #mahone007 (994) +2<br>
--30|-39|-38|-37|-34|-26|-22|-18|-11|0<br>
+38. #moonrocks (1007) -1<br>
+-11|-7|-6|-7|-3|-4|0|-7|-5|-1<br>
+	1. GreatApple~214 (0:2)<br>
+	2. Vlajs001 (2:3)<br>
+	3. rickss (1:3)<br>
+	6. DavidIggyLou (0:4)<br>
+	7. Tiberius88 (0:3)<br>
+	8. GroovyFlame (1:0)<br>
+	9. fifty6 (2:2)<br>
+<br>
+39. #nurglingde (1007) 0<br>
++29|+29|+22|+19|+16|+5|+1|+10|+10|+5<br>
+	1. GreatApple~214 (0:4)<br>
+	3. rickss (0:1)<br>
+	4. chomeur2 (0:1)<br>
+	6. DavidIggyLou (1:4)<br>
+	7. Tiberius88 (1:0)<br>
+	10. buz (2:0)<br>
+<br>
+40. #BadButter~266 (1003) -1<br>
+-1|+2|0|+1|+9|+7|+4<br>
+	2. Vlajs001 (0:4)<br>
+	6. DavidIggyLou (1:4)<br>
+	7. Tiberius88 (4:0)<br>
+	8. GroovyFlame (1:4)<br>
+	9. fifty6 (1:1)<br>
+	10. buz (1:3)<br>
+<br>
+41. #mahone007 (999) 0<br>
+-26|-34|-33|-32|-29|-21|-17|-13|-6|+5<br>
 	1. GreatApple~214 (0:2)<br>
 	3. rickss (4:5)<br>
-	4. DavidIggyLou (2:8)<br>
-	5. chomeur2 (5:5)<br>
+	4. chomeur2 (5:5)<br>
+	6. DavidIggyLou (2:8)<br>
 	7. Tiberius88 (0:1)<br>
-	8. fifty6 (0:2)<br>
-	9. Buz (1:3)<br>
+	9. fifty6 (0:2)<br>
+	10. buz (1:1)<br>
 <br>
-43. #worldwarX (991) 0<br>
+42. #farzip (997) +3<br>
+-18|-9|-3|0|+2|+6|+3|+7|+7|+1<br>
+	1. GreatApple~214 (2:1)<br>
+	2. Vlajs001 (2:3)<br>
+	5. Arkady (0:1)<br>
+	6. DavidIggyLou (0:2)<br>
+	7. Tiberius88 (1:3)<br>
+	10. buz (0:1)<br>
+<br>
+43. #SassyWater~563 (992) 0<br>
++3<br>
+	7. Tiberius88 (0:1)<br>
+	8. GroovyFlame (0:1)<br>
+	10. buz (1:1)<br>
+<br>
+44. #kaaatom999 (991) -6<br>
+-12|-10<br>
+	1. GreatApple~214 (2:5)<br>
+	3. rickss (1:1)<br>
+	4. chomeur2 (2:1)<br>
+	6. DavidIggyLou (0:1)<br>
+	7. Tiberius88 (0:1)<br>
+<br>
+45. #worldwarX (991) 0<br>
 -4|-6|-13|-15|-11|-9|-6|-3|-2|0<br>
 	2. Vlajs001 (0:1)<br>
 	3. rickss (2:4)<br>
-	4. DavidIggyLou (2:2)<br>
-	5. chomeur2 (0:1)<br>
+	4. chomeur2 (0:1)<br>
+	6. DavidIggyLou (2:2)<br>
 	7. Tiberius88 (1:4)<br>
-	8. fifty6 (4:4)<br>
-	9. Buz (2:3)<br>
-	10. g-nice (0:5)<br>
+	9. fifty6 (4:4)<br>
+	10. buz (2:3)<br>
 <br>
-44. #farzip (991) 0<br>
--18|-25|-16|-10|-6|-5|-1|-3|+1|0<br>
-	1. GreatApple~214 (2:1)<br>
-	2. Vlajs001 (2:3)<br>
-	4. DavidIggyLou (0:2)<br>
-	6. Arkady (0:1)<br>
-	7. Tiberius88 (1:3)<br>
-	9. Buz (0:1)<br>
-<br>
-45. #SassyWater~563 (990) 0<br>
-0<br>
-	9. Buz (1:1)<br>
-<br>
-46. #FluffyChimp~789 (984) 0<br>
-+15|-2|+2<br>
+46. #FluffyChimp~789 (985) +1<br>
++16|0|+3<br>
 	1. GreatApple~214 (1:0)<br>
-	4. DavidIggyLou (0:1)<br>
-	5. chomeur2 (1:0)<br>
-	6. Arkady (1:4)<br>
+	4. chomeur2 (1:0)<br>
+	5. Arkady (1:4)<br>
+	6. DavidIggyLou (0:1)<br>
 	7. Tiberius88 (0:2)<br>
-	8. fifty6 (1:2)<br>
-	9. Buz (0:2)<br>
+	9. fifty6 (1:2)<br>
+	10. buz (0:2)<br>
 <br>
-47. #smart_boy24 (983) +4<br>
+47. #smart_boy24 (983) 0<br>
 +11|+14|+13|0<br>
 	1. GreatApple~214 (0:1)<br>
 	2. Vlajs001 (1:3)<br>
 	3. rickss (0:5)<br>
-	5. chomeur2 (2:2)<br>
-	6. Arkady (1:0)<br>
+	4. chomeur2 (2:2)<br>
+	5. Arkady (1:0)<br>
 	7. Tiberius88 (1:1)<br>
-	8. fifty6 (1:0)<br>
-	9. Buz (1:0)<br>
-	10. g-nice (0:1)<br>
+	8. GroovyFlame (0:1)<br>
+	9. fifty6 (1:0)<br>
+	10. buz (1:0)<br>
 <br>
-48. #SmotPoker (982) +3<br>
-+13|+8|+9|+11|+3|+1|+1|+4|+5|+3<br>
-	1. GreatApple~214 (0:1)<br>
-	3. rickss (1:2)<br>
-	5. chomeur2 (2:4)<br>
-	6. Arkady (0:1)<br>
-	8. fifty6 (2:1)<br>
-	9. Buz (0:1)<br>
-	10. g-nice (0:1)<br>
-<br>
-49. #probunny (981) 0<br>
-0<br>
+48. #probunny (982) +2<br>
++1<br>
 	1. GreatApple~214 (2:3)<br>
-	5. chomeur2 (0:3)<br>
+	4. chomeur2 (0:3)<br>
 	7. Tiberius88 (0:1)<br>
-	8. fifty6 (4:4)<br>
-	9. Buz (0:2)<br>
+	9. fifty6 (4:4)<br>
+	10. buz (0:2)<br>
 <br>
-50. #Astinax (980) 0<br>
-+4<br>
-	4. DavidIggyLou (0:2)<br>
-	7. Tiberius88 (1:0)<br>
-	8. fifty6 (0:2)<br>
-	9. Buz (0:1)<br>
+49. #turkeytower (981) 0<br>
+-3|-5|-3|-5|-3|-2|+6|+14|+6|+2<br>
+	1. GreatApple~214 (0:2)<br>
+	3. rickss (1:0)<br>
+	5. Arkady (1:1)<br>
+	6. DavidIggyLou (2:5)<br>
+	7. Tiberius88 (1:4)<br>
+	8. GroovyFlame (1:0)<br>
+	9. fifty6 (0:2)<br>
+	10. buz (1:0)<br>
 <br>
-51. #jewking (980) +1<br>
-+30|+25|+19|+4<br>
+50. #jewking (980) 0<br>
++31|+25|+19|+5<br>
 	2. Vlajs001 (4:0)<br>
 	3. rickss (0:1)<br>
-	6. Arkady (1:3)<br>
+	5. Arkady (0:3)<br>
 	7. Tiberius88 (1:0)<br>
-	8. fifty6 (0:1)<br>
-	9. Buz (1:3)<br>
+	8. GroovyFlame (1:0)<br>
+	9. fifty6 (0:1)<br>
+	10. buz (1:3)<br>
 <br>
-52. #turkeytower (980) 0<br>
--4|-6|-4|-6|-4|-2|+5|+13|+5|+2<br>
-	1. GreatApple~214 (0:2)<br>
-	2. Vlajs001 (0:1)<br>
+51. #Astinax (975) 0<br>
+-1<br>
+	6. DavidIggyLou (0:2)<br>
+	7. Tiberius88 (1:0)<br>
+	8. GroovyFlame (4:2)<br>
+	9. fifty6 (0:2)<br>
+	10. buz (0:1)<br>
+<br>
+52. #smurfa (974) +4<br>
++20|+21|+17|+8|+13|+15|+24|+6|+10|+7<br>
+	1. GreatApple~214 (0:5)<br>
 	3. rickss (1:0)<br>
-	4. DavidIggyLou (2:5)<br>
-	6. Arkady (1:1)<br>
-	7. Tiberius88 (0:2)<br>
-	8. fifty6 (0:2)<br>
-	9. Buz (1:0)<br>
+	4. chomeur2 (0:1)<br>
+	5. Arkady (0:1)<br>
+	7. Tiberius88 (2:7)<br>
+	9. fifty6 (2:1)<br>
+	10. buz (1:0)<br>
 <br>
-53. #AnkleBreaker (972) 0<br>
-+4<br>
-	4. DavidIggyLou (1:1)<br>
+53. #AnkleBreaker (970) -1<br>
++2<br>
+	6. DavidIggyLou (1:1)<br>
 	7. Tiberius88 (0:1)<br>
+	8. GroovyFlame (0:1)<br>
 <br>
-54. #FlyingPizza (971) 0<br>
--16|-4<br>
+54. #Khalifah (969) -1<br>
++10|-1|0<br>
+	3. rickss (0:1)<br>
+	4. chomeur2 (1:4)<br>
+	5. Arkady (0:3)<br>
+	6. DavidIggyLou (1:3)<br>
+	7. Tiberius88 (0:1)<br>
+	8. GroovyFlame (0:4)<br>
+	10. buz (0:2)<br>
+<br>
+55. #FlyingPizza (969) -1<br>
+-17|-6<br>
 	1. GreatApple~214 (3:1)<br>
 	3. rickss (0:2)<br>
-	4. DavidIggyLou (2:9)<br>
-	6. Arkady (1:2)<br>
-	8. fifty6 (1:2)<br>
-	9. Buz (1:0)<br>
-	10. g-nice (0:1)<br>
+	5. Arkady (1:2)<br>
+	6. DavidIggyLou (2:9)<br>
+	9. fifty6 (1:2)<br>
+	10. buz (1:0)<br>
 <br>
-55. #Khalifah (970) +1<br>
-+11|-1|+1<br>
+56. #WiryFox~219 (967) 0<br>
+-11|-16|-6<br>
 	3. rickss (0:1)<br>
-	4. DavidIggyLou (1:3)<br>
-	5. chomeur2 (1:4)<br>
-	6. Arkady (0:3)<br>
-	7. Tiberius88 (0:1)<br>
-	9. Buz (0:2)<br>
+	4. chomeur2 (2:3)<br>
+	5. Arkady (1:1)<br>
+	6. DavidIggyLou (0:2)<br>
+	7. Tiberius88 (1:5)<br>
+	9. fifty6 (0:3)<br>
 <br>
-56. #smurfa (967) 0<br>
-+13|+14|+11|+1|+6|+8|+17|-1|+3|0<br>
-	1. GreatApple~214 (0:5)<br>
-	3. rickss (1:0)<br>
-	5. chomeur2 (0:1)<br>
-	6. Arkady (0:1)<br>
-	7. Tiberius88 (2:7)<br>
-	8. fifty6 (2:1)<br>
-<br>
-57. #WiryFox~219 (966) -2<br>
--13|-17|-7<br>
-	3. rickss (0:1)<br>
-	4. DavidIggyLou (0:2)<br>
-	5. chomeur2 (2:3)<br>
-	6. Arkady (1:1)<br>
-	7. Tiberius88 (0:1)<br>
-	8. fifty6 (1:3)<br>
-	10. g-nice (0:3)<br>
-<br>
-58. #Gungala (965) +1<br>
--26|-5|-10|-4|-3|-5|-5|+2|+4|-1<br>
-	1. GreatApple~214 (0:3)<br>
-	4. DavidIggyLou (4:3)<br>
-	5. chomeur2 (0:1)<br>
-	7. Tiberius88 (0:2)<br>
-	8. fifty6 (5:3)<br>
-	9. Buz (0:1)<br>
-<br>
-59. #sexflower69 (963) -1<br>
-0|+4|+6|+12|+16|+19|+4|+4|+1|+1<br>
-	1. GreatApple~214 (0:5)<br>
-	4. DavidIggyLou (0:3)<br>
-	6. Arkady (0:3)<br>
-	7. Tiberius88 (2:0)<br>
-	8. fifty6 (1:0)<br>
-	9. Buz (0:7)<br>
-	10. g-nice (0:1)<br>
-<br>
-60. #iwin96 (963) +1<br>
--30|-30|-21|-13|-10|-8|-4|-1|+1|+5<br>
-	1. GreatApple~214 (3:2)<br>
-	2. Vlajs001 (0:2)<br>
-	4. DavidIggyLou (0:1)<br>
-	8. fifty6 (1:0)<br>
-	9. Buz (1:1)<br>
-<br>
-61. #DarkSith666 (961) 0<br>
--6|0|+6|+4|+6|+5|+1|-12|-3|+1<br>
-	1. GreatApple~214 (0:4)<br>
-	3. rickss (0:2)<br>
-	4. DavidIggyLou (0:1)<br>
-	5. chomeur2 (1:1)<br>
-	6. Arkady (1:1)<br>
-	7. Tiberius88 (0:3)<br>
-	9. Buz (0:2)<br>
-	10. g-nice (3:2)<br>
-<br>
-62. #u6o_Hexyu (960) -2<br>
-+17|+2|-8<br>
+57. #u6o_Hexyu (966) +6<br>
++24|+9|-1|+9<br>
 	1. GreatApple~214 (2:2)<br>
 	2. Vlajs001 (0:1)<br>
 	3. rickss (2:3)<br>
-	4. DavidIggyLou (0:1)<br>
-	5. chomeur2 (1:3)<br>
-	6. Arkady (0:7)<br>
-	7. Tiberius88 (2:3)<br>
-	8. fifty6 (4:1)<br>
-	9. Buz (0:1)<br>
+	4. chomeur2 (1:3)<br>
+	5. Arkady (0:7)<br>
+	6. DavidIggyLou (1:1)<br>
+	7. Tiberius88 (3:3)<br>
+	8. GroovyFlame (1:0)<br>
+	9. fifty6 (4:1)<br>
+	10. buz (0:1)<br>
 <br>
-63. #WigglyCar~568 (949) 0<br>
+58. #Gungala (963) +4<br>
+-28|-7|-11|-5|-5|-7|-7|+1|+2|-3<br>
+	1. GreatApple~214 (0:3)<br>
+	4. chomeur2 (0:1)<br>
+	6. DavidIggyLou (4:3)<br>
+	7. Tiberius88 (0:2)<br>
+	8. GroovyFlame (2:7)<br>
+	9. fifty6 (5:4)<br>
+	10. buz (0:1)<br>
+<br>
+59. #DarkSith666 (961) 0<br>
+-7|-1|+5|+4|+5|+5|+1|-13|-3|0<br>
+	1. GreatApple~214 (0:4)<br>
+	3. rickss (0:2)<br>
+	4. chomeur2 (1:1)<br>
+	5. Arkady (1:1)<br>
+	6. DavidIggyLou (0:1)<br>
+	7. Tiberius88 (0:3)<br>
+	10. buz (0:2)<br>
+<br>
+60. #sexflower69 (960) -2<br>
+-3|+1|+3|+9|+13|+16|+1|+1|-2|-2<br>
+	1. GreatApple~214 (0:5)<br>
+	5. Arkady (0:2)<br>
+	6. DavidIggyLou (0:3)<br>
+	7. Tiberius88 (2:1)<br>
+	9. fifty6 (1:0)<br>
+	10. buz (0:7)<br>
+<br>
+61. #WigglyCar~568 (948) 0<br>
 -15|-17|-10|-4<br>
 	1. GreatApple~214 (0:5)<br>
 	3. rickss (0:1)<br>
-	4. DavidIggyLou (0:2)<br>
+	6. DavidIggyLou (0:2)<br>
 	7. Tiberius88 (0:2)<br>
+	10. buz (1:0)<br>
 <br>
-64. #Ranger1stBat (932) 0<br>
+62. #Ranger1stBat (932) 0<br>
 +21|+19|+20|+7|+11|+9|+5|+4|+4|-6<br>
 	1. GreatApple~214 (0:4)<br>
-	4. DavidIggyLou (0:2)<br>
-	6. Arkady (2:1)<br>
+	5. Arkady (2:1)<br>
+	6. DavidIggyLou (0:2)<br>
 	7. Tiberius88 (0:4)<br>
 <br>
-65. #meltedcheese (931) 0<br>
+63. #meltedcheese (931) 0<br>
 +1|+3|+2|-11|-19|-16|-10|-7|0|+3<br>
-	2. Vlajs001 (1:4)<br>
-	4. DavidIggyLou (0:1)<br>
-	6. Arkady (1:7)<br>
-	9. Buz (0:1)<br>
+	2. Vlajs001 (0:4)<br>
+	5. Arkady (1:7)<br>
+	6. DavidIggyLou (0:1)<br>
+	10. buz (0:1)<br>
 <br>
-66. #orenong (878) +1<br>
--52|-32|-16|-14|-8|+1<br>
+64. #orenong (876) 0<br>
+-54|-34|-18|-16|-10|-2<br>
 	1. GreatApple~214 (0:5)<br>
 	2. Vlajs001 (0:1)<br>
-	4. DavidIggyLou (0:1)<br>
-	5. chomeur2 (1:0)<br>
-	6. Arkady (0:1)<br>
-	8. fifty6 (1:1)<br>
+	4. chomeur2 (1:0)<br>
+	5. Arkady (0:1)<br>
+	6. DavidIggyLou (0:1)<br>
+	9. fifty6 (1:1)<br>
