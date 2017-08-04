@@ -1,7 +1,7 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #GreatApple~214 (1242) +1<br>
-+28|+21|+15|+2|+12|+13|+17|+11|+10|+1<br>
+1. #GreatApple~214 (1242) 0<br>
++27|+20|+15|+2|+11|+13|+17|+11|+9|+1<br>
 	2. Vlajs001 (5:0)<br>
 	5. Jarre (2:3)<br>
 	7. rickss (0:2)<br>
@@ -25,8 +25,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. DavidIggyLou (1:1)<br>
 	10. MUFSKIN (3:3)<br>
 <br>
-4. #Arkady (1187) +1<br>
-+38|+38|+39|+29|+30|+27|+22|+11|+5|+4<br>
+4. #Arkady (1188) 0<br>
++38|+39|+39|+30|+30|+27|+23|+12|+6|+4<br>
 	2. Vlajs001 (1:2)<br>
 	5. Jarre (1:0)<br>
 	7. rickss (1:4)<br>
@@ -47,10 +47,10 @@ Recent win rates against top 10 over the past 20k matches<br>
 6. #Tiberius88 (1175) 0<br>
 -15|-14|-15|-12|-12|-1|+1|+6|+3|-2<br>
 	5. Jarre (0:1)<br>
-	9. buz (2:0)<br>
+	9. buz (1:0)<br>
 <br>
-7. #rickss (1173) -2<br>
-+121|+98|+86|+71|+65|+53|+38|+26|+12|+4<br>
+7. #rickss (1174) +1<br>
++122|+99|+87|+72|+67|+54|+39|+27|+13|+5<br>
 	1. GreatApple~214 (2:0)<br>
 	2. Vlajs001 (0:2)<br>
 	3. chomeur2 (2:2)<br>
@@ -61,7 +61,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. MUFSKIN (4:0)<br>
 <br>
 8. #DavidIggyLou (1168) 0<br>
-+98|+78|+66|+63|+55|+50|+45|+32|+20|+3<br>
++98|+77|+65|+62|+55|+50|+45|+32|+19|+3<br>
 	1. GreatApple~214 (2:1)<br>
 	2. Vlajs001 (2:1)<br>
 	3. chomeur2 (1:1)<br>
@@ -75,13 +75,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 	2. Vlajs001 (1:0)<br>
 	4. Arkady (2:1)<br>
 	5. Jarre (1:1)<br>
-	6. Tiberius88 (0:2)<br>
+	6. Tiberius88 (0:1)<br>
 	7. rickss (2:5)<br>
 	8. DavidIggyLou (1:2)<br>
 	10. MUFSKIN (1:0)<br>
 <br>
 10. #MUFSKIN (1161) 0<br>
-+10|+11|+12|+17|+11|+6|-2|-5|-6|-5<br>
++10|+10|+12|+17|+11|+6|-3|-5|-6|-5<br>
 	1. GreatApple~214 (0:1)<br>
 	2. Vlajs001 (5:5)<br>
 	3. chomeur2 (3:3)<br>
@@ -90,12 +90,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. rickss (0:4)<br>
 	9. buz (0:1)<br>
 <br>
-11. #A-z-sh (1156) -2<br>
-0|-5|+1|-6|-6|-3|-9|-2|-4|+1<br>
-	1. GreatApple~214 (5:4)<br>
+11. #GroovyFlame (1154) 0<br>
++119|+96|+73|+63|+47|+26|+12|+3|+1|0<br>
+	7. rickss (1:3)<br>
+	8. DavidIggyLou (1:2)<br>
+	9. buz (0:1)<br>
+<br>
+12. #A-z-sh (1154) -2<br>
+-2|-7|-1|-8|-8|-5|-11|-4|-6|-1<br>
+	1. GreatApple~214 (5:3)<br>
 	2. Vlajs001 (7:10)<br>
 	3. chomeur2 (1:0)<br>
-	4. Arkady (7:6)<br>
+	4. Arkady (6:6)<br>
 	5. Jarre (2:2)<br>
 	6. Tiberius88 (2:2)<br>
 	7. rickss (8:10)<br>
@@ -103,22 +109,15 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (5:6)<br>
 	10. MUFSKIN (3:2)<br>
 <br>
-12. #GroovyFlame (1154) 0<br>
-+119|+96|+73|+63|+47|+27|+12|+3|+1|0<br>
-	4. Arkady (0:2)<br>
-	7. rickss (1:3)<br>
-	8. DavidIggyLou (2:2)<br>
-	9. buz (0:1)<br>
-<br>
-13. #goldfinger (1149) 0<br>
-+23|+18|+15|+17|+16|+15|+14|+13|+10|+7<br>
+13. #goldfinger (1151) +2<br>
++24|+19|+17|+19|+18|+16|+16|+15|+11|+9<br>
 	4. Arkady (1:0)<br>
 	5. Jarre (1:1)<br>
 	7. rickss (0:1)<br>
 	9. buz (1:0)<br>
 <br>
-14. #Starfleet (1148) 0<br>
-+25|+21|+15|+7|+4|+7|+2|0|-4|-7<br>
+14. #Starfleet (1148) +1<br>
++26|+22|+16|+8|+5|+8|+3|0|-3|-6<br>
 	1. GreatApple~214 (2:3)<br>
 	2. Vlajs001 (1:4)<br>
 	3. chomeur2 (2:6)<br>
@@ -126,16 +125,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Jarre (0:1)<br>
 	7. rickss (0:1)<br>
 <br>
-15. #FlowoodMS (1143) 0<br>
-+18|+10|+7|+8|+3|+2|+8|+12|+6|0<br>
-	1. GreatApple~214 (0:1)<br>
-	4. Arkady (1:0)<br>
-	5. Jarre (2:0)<br>
-	6. Tiberius88 (0:2)<br>
-	8. DavidIggyLou (1:0)<br>
-	9. buz (2:1)<br>
-<br>
-16. #jacks0nh0le (1141) 0<br>
+15. #jacks0nh0le (1141) 0<br>
 +99|+84|+82|+76|+59|+45|+32|+26|+14|+1<br>
 	2. Vlajs001 (0:1)<br>
 	5. Jarre (1:1)<br>
@@ -144,6 +134,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (0:1)<br>
 	10. MUFSKIN (2:2)<br>
 <br>
+16. #Celica (1140) +1<br>
+-3|-4|0|+4|+3|+2|+3|+9|+8|+1<br>
+	1. GreatApple~214 (3:0)<br>
+	4. Arkady (0:1)<br>
+	8. DavidIggyLou (1:2)<br>
+	9. buz (1:1)<br>
+	10. MUFSKIN (0:2)<br>
+<br>
 17. #KvL (1140) 0<br>
 +64|+53|+45|+39|+31|+31|+28|+24|+15|+5<br>
 	1. GreatApple~214 (1:2)<br>
@@ -151,34 +149,34 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. rickss (1:2)<br>
 	10. MUFSKIN (2:0)<br>
 <br>
-18. #Celica (1139) -2<br>
--4|-4|0|+3|+2|+1|+2|+9|+7|+1<br>
-	1. GreatApple~214 (3:0)<br>
-	4. Arkady (0:1)<br>
-	8. DavidIggyLou (1:2)<br>
-	9. buz (1:1)<br>
-	10. MUFSKIN (0:2)<br>
+18. #FlowoodMS (1138) -4<br>
++14|+6|+3|+4|-1|-3|+4|+8|+2|-4<br>
+	1. GreatApple~214 (0:1)<br>
+	4. Arkady (1:0)<br>
+	5. Jarre (2:0)<br>
+	6. Tiberius88 (0:2)<br>
+	8. DavidIggyLou (1:0)<br>
+	9. buz (2:1)<br>
 <br>
 19. #g-nice (1137) 0<br>
 +117|+103|+91|+71|+58|+51|+43|+32|+24|+4<br>
-	2. Vlajs001 (2:0)<br>
+	2. Vlajs001 (1:0)<br>
 	3. chomeur2 (2:0)<br>
 	5. Jarre (2:2)<br>
 	6. Tiberius88 (0:1)<br>
-	7. rickss (3:3)<br>
+	7. rickss (3:2)<br>
 	8. DavidIggyLou (1:4)<br>
 	10. MUFSKIN (1:0)<br>
 <br>
 20. #fifty6 (1135) 0<br>
-+117|+98|+80|+62|+50|+36|+19|+13|-1<br>
-	4. Arkady (3:0)<br>
++117|+98|+80|+62|+51|+37|+19|+13|-1<br>
 	5. Jarre (3:1)<br>
 	6. Tiberius88 (0:1)<br>
 	7. rickss (1:4)<br>
 	8. DavidIggyLou (0:2)<br>
 	9. buz (0:1)<br>
 <br>
-21. #aeyinc (1135) +1<br>
+21. #aeyinc (1135) 0<br>
 +29|+22|+6|+12|+7|+3|-1|-2|+4|+7<br>
 	2. Vlajs001 (1:0)<br>
 	3. chomeur2 (0:3)<br>
@@ -188,7 +186,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (2:0)<br>
 <br>
 22. #TinyOwl~323 (1134) 0<br>
-+21|+21|+16|+16|+18|+15|+13|+7|+5|+3<br>
++21|+22|+16|+16|+18|+15|+13|+7|+5|+3<br>
 	1. GreatApple~214 (1:7)<br>
 	2. Vlajs001 (1:1)<br>
 	3. chomeur2 (1:2)<br>
@@ -207,19 +205,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (1:1)<br>
 	10. MUFSKIN (0:1)<br>
 <br>
-24. #His-Majesty (1134) 0<br>
-+18|+17|+17|+9|+8|+3|+1|0|+3|-1<br>
-	1. GreatApple~214 (1:2)<br>
-	2. Vlajs001 (0:2)<br>
-	4. Arkady (1:0)<br>
-	5. Jarre (1:0)<br>
-	6. Tiberius88 (1:0)<br>
-	7. rickss (2:3)<br>
-	8. DavidIggyLou (0:2)<br>
-	9. buz (2:0)<br>
-<br>
-25. #BDAT10 (1134) 0<br>
-+31|+24|+18|+13|+11|+5|+7|+8|-6|-2<br>
+24. #BDAT10 (1134) +1<br>
++31|+24|+19|+14|+12|+6|+8|+8|-5|-2<br>
 	3. chomeur2 (0:1)<br>
 	4. Arkady (0:1)<br>
 	5. Jarre (2:1)<br>
@@ -229,18 +216,28 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (1:2)<br>
 	10. MUFSKIN (0:2)<br>
 <br>
-26. #jerocco (1129) +5<br>
-+27|+27|+22|+20|+14|+18|+19|+16|+10|+4<br>
+25. #His-Majesty (1133) -1<br>
++17|+16|+16|+8|+7|+2|0|-1|+2|-1<br>
+	1. GreatApple~214 (1:2)<br>
+	2. Vlajs001 (0:2)<br>
+	4. Arkady (1:0)<br>
+	5. Jarre (1:0)<br>
+	7. rickss (2:3)<br>
+	8. DavidIggyLou (0:2)<br>
+	9. buz (2:0)<br>
+<br>
+26. #jerocco (1130) +1<br>
++28|+28|+23|+21|+14|+19|+20|+17|+11|+5<br>
 	1. GreatApple~214 (1:0)<br>
 	2. Vlajs001 (1:4)<br>
-	4. Arkady (1:1)<br>
+	4. Arkady (1:2)<br>
 	5. Jarre (2:3)<br>
 	6. Tiberius88 (2:1)<br>
 	9. buz (2:1)<br>
 	10. MUFSKIN (1:1)<br>
 <br>
-27. #hods (1129) 0<br>
-+3|+6|+5|+1|-5|-3|-4|-6|-1|-1<br>
+27. #hods (1129) +1<br>
++4|+6|+5|+2|-4|-3|-4|-5|-1|-1<br>
 	1. GreatApple~214 (0:1)<br>
 	2. Vlajs001 (1:0)<br>
 	4. Arkady (1:0)<br>
@@ -249,47 +246,64 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. DavidIggyLou (0:1)<br>
 	10. MUFSKIN (0:1)<br>
 <br>
-28. #eddie6323 (1114) 0<br>
+28. #mrwaistcoat (1126) 0<br>
++38|+35|+33|+31|+26|+28|+19|+13|+10|+8<br>
+	1. GreatApple~214 (0:2)<br>
+	5. Jarre (1:1)<br>
+	8. DavidIggyLou (1:2)<br>
+	10. MUFSKIN (1:3)<br>
+<br>
+29. #DizzyJeans~600 (1126) 0<br>
++23|+20|+18|+15|+9|+10|+6|+4|+3|+6<br>
+	1. GreatApple~214 (1:2)<br>
+	2. Vlajs001 (0:1)<br>
+	5. Jarre (1:1)<br>
+	6. Tiberius88 (2:0)<br>
+	7. rickss (0:1)<br>
+	10. MUFSKIN (1:0)<br>
+<br>
+30. #eddie6323 (1114) 0<br>
 +94|+87|+74|+66|+53|+44|+38|+24|+17|+10<br>
 	1. GreatApple~214 (0:4)<br>
 	4. Arkady (0:4)<br>
 	8. DavidIggyLou (1:1)<br>
 	10. MUFSKIN (0:3)<br>
 <br>
-29. #mrooq.711 (1113) +2<br>
-+95|+78|+63|+48|+32|+22|+14<br>
+31. #mrooq.711 (1113) 0<br>
++95|+77|+63|+47|+31|+22|+13<br>
 	5. Jarre (2:0)<br>
 	6. Tiberius88 (0:1)<br>
 	7. rickss (0:1)<br>
 	8. DavidIggyLou (0:1)<br>
 	10. MUFSKIN (1:0)<br>
 <br>
-30. #moonrocks (1112) 0<br>
-+20|+19|+16|+12|+11|+7|+9|+1|-2|0<br>
+32. #moonrocks (1112) 0<br>
++21|+20|+16|+12|+11|+8|+9|+1|-1|+1<br>
 	1. GreatApple~214 (0:2)<br>
 	2. Vlajs001 (2:3)<br>
+	4. Arkady (1:1)<br>
 	5. Jarre (1:8)<br>
 	6. Tiberius88 (0:3)<br>
 	7. rickss (1:3)<br>
 	8. DavidIggyLou (0:4)<br>
 	10. MUFSKIN (0:1)<br>
 <br>
-31. #ludonco (1109) -1<br>
-+74|+63|+49|+37|+21|+14|+11|+2|+2|-2<br>
+33. #ludonco (1110) 0<br>
++74|+63|+50|+38|+21|+15|+11|+2|+2|-1<br>
 	3. chomeur2 (2:2)<br>
 	6. Tiberius88 (0:2)<br>
 	9. buz (1:0)<br>
 	10. MUFSKIN (2:1)<br>
 <br>
-32. #ZenSamurai (1108) +3<br>
-+36|+21|+19|+22|+23|+15|+7|+7|+9|0<br>
+34. #ZenSamurai (1109) 0<br>
++37|+22|+19|+23|+24|+15|+7|+8|+9|0<br>
 	5. Jarre (1:0)<br>
 	6. Tiberius88 (0:1)<br>
 	7. rickss (0:4)<br>
 	9. buz (1:0)<br>
 <br>
-33. #lost_r2d2 (1108) 0<br>
-+91|+65|+43|+28|+7<br>
+35. #lost_r2d2 (1108) -1<br>
++91|+64|+42|+27|+6<br>
 	1. GreatApple~214 (0:3)<br>
 	3. chomeur2 (2:1)<br>
 	7. rickss (0:2)<br>
@@ -297,7 +311,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (0:1)<br>
 	10. MUFSKIN (2:0)<br>
 <br>
-34. #nurglingde (1106) 0<br>
+36. #skeems (1107) +1<br>
++69|+60|+45|+37|+24|+12|+6|+3|+1|-1<br>
+	1. GreatApple~214 (5:8)<br>
+	2. Vlajs001 (1:3)<br>
+	3. chomeur2 (0:2)<br>
+	5. Jarre (0:1)<br>
+	7. rickss (0:4)<br>
+	8. DavidIggyLou (0:2)<br>
+	9. buz (0:4)<br>
+<br>
+37. #nurglingde (1106) 0<br>
 +51|+49|+40|+34|+28|+17|+10|+15|+13|+7<br>
 	1. GreatApple~214 (0:4)<br>
 	3. chomeur2 (0:1)<br>
@@ -307,17 +331,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (2:0)<br>
 	10. MUFSKIN (2:1)<br>
 <br>
-35. #skeems (1105) +2<br>
-+67|+59|+43|+36|+22|+11|+4|+2|0|-2<br>
-	1. GreatApple~214 (5:8)<br>
-	2. Vlajs001 (1:3)<br>
-	3. chomeur2 (0:2)<br>
-	5. Jarre (0:1)<br>
-	7. rickss (0:4)<br>
-	8. DavidIggyLou (0:2)<br>
-	9. buz (2:6)<br>
+38. #mahone007 (1106) +3<br>
+-8|-17|-16|-17|-16|-10|-8|-7|-1|+8<br>
+	1. GreatApple~214 (0:2)<br>
+	3. chomeur2 (5:5)<br>
+	5. Jarre (3:2)<br>
+	6. Tiberius88 (0:1)<br>
+	7. rickss (4:5)<br>
+	8. DavidIggyLou (1:8)<br>
+	9. buz (1:1)<br>
+	10. MUFSKIN (3:7)<br>
 <br>
-36. #farzip (1104) 0<br>
+39. #farzip (1104) 0<br>
 +5|+10|+13|+14|+13|+13|+10|+10|+7|+1<br>
 	1. GreatApple~214 (2:1)<br>
 	2. Vlajs001 (2:3)<br>
@@ -328,19 +353,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (0:1)<br>
 	10. MUFSKIN (1:0)<br>
 <br>
-37. #mahone007 (1103) 0<br>
--11|-20|-19|-20|-19|-13|-11|-10|-4|+5<br>
-	1. GreatApple~214 (0:2)<br>
-	3. chomeur2 (5:5)<br>
-	5. Jarre (3:2)<br>
-	6. Tiberius88 (0:1)<br>
-	7. rickss (4:5)<br>
-	8. DavidIggyLou (1:8)<br>
-	9. buz (1:1)<br>
-	10. MUFSKIN (3:7)<br>
+40. #worldwarX (1097) 0<br>
+0|-2|-9|-11|-9|-7|-4|-3|-4|-2<br>
+	3. chomeur2 (0:1)<br>
+	5. Jarre (2:10)<br>
+	6. Tiberius88 (1:3)<br>
+	7. rickss (1:3)<br>
+	8. DavidIggyLou (2:2)<br>
+	9. buz (2:3)<br>
+	10. MUFSKIN (2:0)<br>
 <br>
-38. #turkeytower (1100) +6<br>
-+10|+7|+6|+3|+4|+5|+11|+18|+10|+7<br>
+41. #turkeytower (1096) -4<br>
++3|+2|0|+1|+1|+8|+14|+6|+3|-2<br>
 	1. GreatApple~214 (0:2)<br>
 	4. Arkady (1:1)<br>
 	5. Jarre (1:0)<br>
@@ -350,28 +374,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (1:1)<br>
 	10. MUFSKIN (1:0)<br>
 <br>
-39. #worldwarX (1097) 0<br>
-0|-2|-9|-11|-9|-7|-4|-3|-4|-2<br>
-	2. Vlajs001 (0:1)<br>
-	3. chomeur2 (0:1)<br>
-	5. Jarre (2:10)<br>
-	6. Tiberius88 (1:4)<br>
-	7. rickss (1:3)<br>
-	8. DavidIggyLou (2:2)<br>
-	9. buz (2:3)<br>
-	10. MUFSKIN (2:0)<br>
-<br>
-40. #maj0ra (1095) 0<br>
-+70|+57|+46|+30|+20|+19|+12|+2<br>
+42. #maj0ra (1096) +1<br>
++70|+58|+47|+31|+21|+20|+12|+2<br>
 	1. GreatApple~214 (2:1)<br>
+	4. Arkady (1:0)<br>
 	5. Jarre (3:2)<br>
 	7. rickss (0:1)<br>
 	8. DavidIggyLou (0:3)<br>
 	9. buz (4:1)<br>
 <br>
-41. #androidkill (1094) 0<br>
-+85|+68|+53|+25|+6<br>
-	1. GreatApple~214 (3:1)<br>
+43. #androidkill (1094) +1<br>
++86|+69|+54|+26|+7<br>
+	1. GreatApple~214 (4:1)<br>
 	2. Vlajs001 (0:1)<br>
 	4. Arkady (0:1)<br>
 	5. Jarre (1:1)<br>
@@ -380,19 +394,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (0:1)<br>
 	10. MUFSKIN (1:0)<br>
 <br>
-42. #thereason (1087) 0<br>
-+69|+57|+54|+39|+29|+27|+27|+19|+9|+3<br>
-	1. GreatApple~214 (0:3)<br>
-	2. Vlajs001 (1:0)<br>
-	3. chomeur2 (5:2)<br>
-	6. Tiberius88 (1:0)<br>
-	7. rickss (0:2)<br>
-	8. DavidIggyLou (2:3)<br>
-	9. buz (2:0)<br>
+44. #SmotPoker (1094) +8<br>
++34|+33|+32|+24|+20|+17|+19|+17|+14|+1<br>
+	1. GreatApple~214 (0:1)<br>
+	3. chomeur2 (2:4)<br>
+	4. Arkady (0:1)<br>
+	7. rickss (1:2)<br>
+	9. buz (0:1)<br>
 	10. MUFSKIN (0:1)<br>
 <br>
-43. #smurfa (1086) 0<br>
-+23|+25|+21|+12|+16|+17|+24|+8|+10|+6<br>
+45. #smurfa (1088) +1<br>
++25|+26|+22|+13|+18|+19|+25|+9|+11|+8<br>
 	1. GreatApple~214 (0:5)<br>
 	3. chomeur2 (0:1)<br>
 	4. Arkady (0:1)<br>
@@ -402,16 +414,16 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (1:0)<br>
 	10. MUFSKIN (4:0)<br>
 <br>
-44. #SmotPoker (1086) 0<br>
-+33|+26|+24|+24|+16|+12|+9|+11|+9|+6<br>
-	1. GreatApple~214 (0:1)<br>
-	3. chomeur2 (2:4)<br>
-	4. Arkady (0:1)<br>
-	7. rickss (1:2)<br>
-	9. buz (0:1)<br>
+46. #thereason (1087) 0<br>
++69|+57|+54|+39|+29|+27|+27|+19|+9|+3<br>
+	1. GreatApple~214 (0:3)<br>
+	3. chomeur2 (5:2)<br>
+	7. rickss (0:2)<br>
+	8. DavidIggyLou (2:3)<br>
+	9. buz (2:0)<br>
 	10. MUFSKIN (0:1)<br>
 <br>
-45. #dIehAppY (1082) +1<br>
+47. #dIehAppY (1082) 0<br>
 +72|+61|+51|+40|+25|+19|+10|-1<br>
 	2. Vlajs001 (0:2)<br>
 	3. chomeur2 (2:0)<br>
@@ -420,33 +432,32 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. DavidIggyLou (0:1)<br>
 	9. buz (0:2)<br>
 <br>
-46. #stront01 (1080) 0<br>
-+69|+61|+47|+28|+17|+14|+3<br>
+48. #DarkSith666 (1081) +2<br>
++1|+6|+10|+9|+10|+8|+4|-7|+1|+3<br>
+	1. GreatApple~214 (0:4)<br>
+	3. chomeur2 (1:1)<br>
+	4. Arkady (1:1)<br>
+	7. rickss (0:2)<br>
+	8. DavidIggyLou (0:1)<br>
+	9. buz (0:2)<br>
+<br>
+49. #stront01 (1081) +1<br>
++69|+62|+48|+29|+18|+15|+4<br>
 	1. GreatApple~214 (1:5)<br>
 	5. Jarre (0:3)<br>
 	7. rickss (3:7)<br>
 	9. buz (1:1)<br>
-	10. MUFSKIN (0:2)<br>
+	10. MUFSKIN (0:1)<br>
 <br>
-47. #katudondayo (1079) 0<br>
+50. #katudondayo (1079) 0<br>
 +67|+51|+35|+22|+13|+13|+6<br>
 	3. chomeur2 (1:3)<br>
 	7. rickss (4:5)<br>
 	9. buz (3:0)<br>
 	10. MUFSKIN (1:3)<br>
 <br>
-48. #DarkSith666 (1079) 0<br>
--1|+4|+8|+7|+8|+6|+2|-9|-1|+1<br>
-	1. GreatApple~214 (0:4)<br>
-	3. chomeur2 (1:1)<br>
-	4. Arkady (1:1)<br>
-	6. Tiberius88 (0:1)<br>
-	7. rickss (0:2)<br>
-	8. DavidIggyLou (0:1)<br>
-	9. buz (0:2)<br>
-<br>
-49. #Milky007 (1078) +2<br>
-+67|+48|+24|+12<br>
+51. #Milky007 (1077) 0<br>
++67|+48|+24|+12|-1<br>
 	1. GreatApple~214 (0:5)<br>
 	3. chomeur2 (2:3)<br>
 	5. Jarre (0:3)<br>
@@ -455,24 +466,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (2:7)<br>
 	10. MUFSKIN (1:0)<br>
 <br>
-50. #gusgus100096 (1076) 0<br>
-+51|+32|+14|+3<br>
-	1. GreatApple~214 (1:3)<br>
-	3. chomeur2 (2:0)<br>
-	5. Jarre (1:2)<br>
-	7. rickss (0:1)<br>
-	8. DavidIggyLou (0:2)<br>
-	9. buz (2:2)<br>
-<br>
-51. #SyMSyMmY (1075) 0<br>
-+62|+51|+33|+21|+2<br>
-	2. Vlajs001 (0:1)<br>
-	7. rickss (0:1)<br>
-	9. buz (1:1)<br>
-	10. MUFSKIN (2:2)<br>
-<br>
-52. #onz2 (1075) +1<br>
-+57|+44|+28|+18|+8<br>
+52. #onz2 (1076) +1<br>
++58|+46|+29|+20|+10<br>
 	1. GreatApple~214 (1:3)<br>
 	4. Arkady (2:0)<br>
 	5. Jarre (3:1)<br>
@@ -481,7 +476,23 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (5:4)<br>
 	10. MUFSKIN (0:1)<br>
 <br>
-53. #KimJong (1075) 0<br>
+53. #gusgus100096 (1076) -1<br>
++51|+31|+13|+2<br>
+	1. GreatApple~214 (1:3)<br>
+	3. chomeur2 (2:0)<br>
+	5. Jarre (1:2)<br>
+	7. rickss (0:1)<br>
+	8. DavidIggyLou (0:2)<br>
+	9. buz (2:1)<br>
+<br>
+54. #SymSymmy (1075) 0<br>
++62|+51|+33|+21|+2<br>
+	2. Vlajs001 (0:1)<br>
+	7. rickss (0:1)<br>
+	9. buz (1:1)<br>
+	10. MUFSKIN (2:2)<br>
+<br>
+55. #KimJong (1075) 0<br>
 +68|+52|+41|+32|+23|+17<br>
 	1. GreatApple~214 (4:4)<br>
 	2. Vlajs001 (1:3)<br>
@@ -491,30 +502,37 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. rickss (0:1)<br>
 	8. DavidIggyLou (0:2)<br>
 <br>
-54. #BigPoppaNuts (1073) 0<br>
-+60|+43|+29|+16|+6<br>
-	1. GreatApple~214 (2:0)<br>
+56. #BigPoppaNuts (1073) 0<br>
++60|+43|+29|+15|+6<br>
+	1. GreatApple~214 (2:1)<br>
 	2. Vlajs001 (0:1)<br>
 	5. Jarre (1:1)<br>
 	6. Tiberius88 (0:1)<br>
 <br>
-55. #BadButter~266 (1070) +2<br>
-+57|+47|+35|+27|+24|+16|+7<br>
+57. #BadButter~266 (1069) 0<br>
++56|+46|+35|+27|+24|+16|+6<br>
 	2. Vlajs001 (0:2)<br>
 	5. Jarre (1:0)<br>
 	6. Tiberius88 (1:0)<br>
 	8. DavidIggyLou (1:4)<br>
 	9. buz (1:3)<br>
 <br>
-56. #ProAssaulter (1064) 0<br>
-+51|+39|+31|+20|+2<br>
+58. #ProAssaulter (1068) +3<br>
++54|+42|+34|+23|+6<br>
 	1. GreatApple~214 (2:0)<br>
 	2. Vlajs001 (0:3)<br>
 	5. Jarre (2:1)<br>
 	6. Tiberius88 (0:1)<br>
+	8. DavidIggyLou (1:0)<br>
 <br>
-57. #archiz (1063) -1<br>
-+37|+33|+24|+19|+18|+13|+3|-2|+2|-1<br>
+59. #killerdude69 (1064) +3<br>
++56|+44|+30|+18|+12<br>
+	6. Tiberius88 (0:6)<br>
+	8. DavidIggyLou (0:1)<br>
+	9. buz (1:0)<br>
+<br>
+60. #archiz (1064) +1<br>
++38|+34|+25|+20|+19|+14|+4|-1|+3|0<br>
 	1. GreatApple~214 (1:4)<br>
 	2. Vlajs001 (0:1)<br>
 	3. chomeur2 (2:7)<br>
@@ -522,21 +540,25 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Tiberius88 (0:2)<br>
 	10. MUFSKIN (0:2)<br>
 <br>
-58. #killerdude69 (1062) +2<br>
-+53|+41|+27|+15|+9<br>
-	6. Tiberius88 (0:6)<br>
-	8. DavidIggyLou (0:1)<br>
-	9. buz (1:0)<br>
-<br>
-59. #Lowjack (1051) -1<br>
-+45|+48|+43|+33|+31|+23|+18|+7<br>
-	2. Vlajs001 (0:1)<br>
+61. #Lowjack (1052) +1<br>
++46|+49|+44|+34|+32|+24|+19|+8<br>
 	3. chomeur2 (3:0)<br>
 	5. Jarre (0:2)<br>
 	6. Tiberius88 (2:0)<br>
 	10. MUFSKIN (1:2)<br>
 <br>
-60. #iwin96 (1051) 0<br>
+62. #smart_boy24 (1052) +1<br>
++50|+43|+35|+18|+12<br>
+	1. GreatApple~214 (0:1)<br>
+	2. Vlajs001 (1:3)<br>
+	3. chomeur2 (2:2)<br>
+	4. Arkady (1:0)<br>
+	5. Jarre (0:1)<br>
+	7. rickss (0:3)<br>
+	9. buz (2:2)<br>
+	10. MUFSKIN (0:1)<br>
+<br>
+63. #iwin96 (1051) 0<br>
 +43|+34|+30|+27|+23|+17|+14|+11|+8|+7<br>
 	1. GreatApple~214 (3:2)<br>
 	2. Vlajs001 (0:2)<br>
@@ -545,19 +567,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (1:1)<br>
 	10. MUFSKIN (1:3)<br>
 <br>
-61. #smart_boy24 (1051) +5<br>
-+49|+42|+33|+16|+11<br>
-	1. GreatApple~214 (0:1)<br>
-	2. Vlajs001 (1:3)<br>
-	3. chomeur2 (2:2)<br>
-	4. Arkady (1:0)<br>
-	5. Jarre (0:1)<br>
-	6. Tiberius88 (1:1)<br>
-	7. rickss (0:3)<br>
-	9. buz (2:2)<br>
-	10. MUFSKIN (0:1)<br>
-<br>
-62. #sexflower69 (1051) 0<br>
+64. #sexflower69 (1050) 0<br>
 +51|+45|+40|+38|+36|+33|+16|+11|+4|+1<br>
 	1. GreatApple~214 (0:5)<br>
 	4. Arkady (0:2)<br>
@@ -567,14 +577,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. DavidIggyLou (0:3)<br>
 	9. buz (0:6)<br>
 <br>
-63. #the-jk (1050) +1<br>
+65. #the-jk (1050) 0<br>
 +31|+15|+7<br>
 	1. GreatApple~214 (1:1)<br>
 	4. Arkady (0:2)<br>
 	7. rickss (0:2)<br>
 	8. DavidIggyLou (0:2)<br>
 <br>
-64. #Gungala (1047) 0<br>
+66. #Gungala (1047) 0<br>
 +43|+47|+35|+32|+25|+16|+11|+12|+7|-1<br>
 	1. GreatApple~214 (0:3)<br>
 	3. chomeur2 (0:1)<br>
@@ -583,15 +593,29 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (0:1)<br>
 	10. MUFSKIN (1:1)<br>
 <br>
-65. #meltedcheese (1047) 0<br>
+67. #destruct098 (1047) +7<br>
++33|+19|+10|+6<br>
+	1. GreatApple~214 (0:1)<br>
+	4. Arkady (1:0)<br>
+	6. Tiberius88 (0:2)<br>
+	7. rickss (0:1)<br>
+	10. MUFSKIN (0:2)<br>
+<br>
+68. #meltedcheese (1047) 0<br>
 +14|+13|+11|-2|-10|-8|-6|-5|+2|+3<br>
 	2. Vlajs001 (0:4)<br>
 	4. Arkady (1:7)<br>
 	8. DavidIggyLou (0:1)<br>
 	9. buz (0:1)<br>
 <br>
-66. #jewking (1046) 0<br>
-+48|+38|+27|+10<br>
+69. #FreshKettle~130 (1046) 0<br>
++38|+27|+19|+14|0|-1<br>
+	2. Vlajs001 (1:1)<br>
+	9. buz (0:1)<br>
+	10. MUFSKIN (3:1)<br>
+<br>
+70. #jewking (1045) -1<br>
++47|+37|+26|+9<br>
 	1. GreatApple~214 (1:1)<br>
 	2. Vlajs001 (3:0)<br>
 	4. Arkady (0:3)<br>
@@ -601,29 +625,21 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (1:3)<br>
 	10. MUFSKIN (1:2)<br>
 <br>
-67. #FreshKettle~130 (1046) -1<br>
-+38|+27|+19|+14|0|-1<br>
-	2. Vlajs001 (1:1)<br>
-	9. buz (0:1)<br>
-	10. MUFSKIN (3:1)<br>
+71. #Beyond96 (1044) 0<br>
++36|+27|+11|+7|+2<br>
+	2. Vlajs001 (0:2)<br>
+	5. Jarre (1:3)<br>
+	7. rickss (2:8)<br>
 <br>
-68. #FeistyTea~555 (1041) 0<br>
+72. #FeistyTea~555 (1041) 0<br>
 +26|+18|+3<br>
 	1. GreatApple~214 (1:0)<br>
 	2. Vlajs001 (3:0)<br>
-	5. Jarre (0:3)<br>
+	5. Jarre (0:1)<br>
 	6. Tiberius88 (1:0)<br>
 	9. buz (1:0)<br>
 <br>
-69. #destruct098 (1040) -1<br>
-+26|+12|+3|-1<br>
-	1. GreatApple~214 (0:1)<br>
-	4. Arkady (1:0)<br>
-	6. Tiberius88 (0:2)<br>
-	7. rickss (0:1)<br>
-	10. MUFSKIN (0:2)<br>
-<br>
-70. #Ranger1stBat (1039) 0<br>
+73. #Ranger1stBat (1039) 0<br>
 +47|+41|+38|+25|+25|+20|+15|+11|+7|-3<br>
 	1. GreatApple~214 (0:4)<br>
 	4. Arkady (2:1)<br>
@@ -632,8 +648,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. DavidIggyLou (0:2)<br>
 	10. MUFSKIN (0:5)<br>
 <br>
-71. #u6o_Hexyu (1039) +1<br>
-+42|+25|+13|+13<br>
+74. #u6o_Hexyu (1038) -1<br>
++41|+25|+12|+13|0<br>
 	1. GreatApple~214 (2:2)<br>
 	2. Vlajs001 (0:1)<br>
 	3. chomeur2 (1:3)<br>
@@ -645,31 +661,29 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (0:1)<br>
 	10. MUFSKIN (2:1)<br>
 <br>
-72. #LuckySoap~253 (1037) 0<br>
-+22|+16|+8<br>
-	1. GreatApple~214 (0:3)<br>
+75. #LuckySoap~253 (1037) +1<br>
++23|+17|+8<br>
 	2. Vlajs001 (1:0)<br>
 	4. Arkady (1:1)<br>
 	5. Jarre (1:0)<br>
-	6. Tiberius88 (0:1)<br>
 	7. rickss (0:1)<br>
 	9. buz (0:2)<br>
 <br>
-73. #FlatMusic~785 (1036) +1<br>
-+2|+6|+4|+3|+2|+8|+7|+5|+5|+1<br>
+76. #FlatMusic~785 (1036) -1<br>
++1|+6|+3|+2|+2|+7|+7|+4|+4|0<br>
 	1. GreatApple~214 (0:1)<br>
 	5. Jarre (2:1)<br>
 	7. rickss (3:1)<br>
 	8. DavidIggyLou (0:2)<br>
 	10. MUFSKIN (2:4)<br>
 <br>
-74. #duvanos (1032) 0<br>
+77. #duvanos (1032) 0<br>
 +29|+20|+4<br>
 	5. Jarre (2:1)<br>
 	8. DavidIggyLou (1:0)<br>
 	9. buz (0:1)<br>
 <br>
-75. #FluffyChimp~789 (1029) 0<br>
+78. #FluffyChimp~789 (1029) 0<br>
 +27|+10|+5<br>
 	1. GreatApple~214 (1:0)<br>
 	3. chomeur2 (1:0)<br>
@@ -680,11 +694,11 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (0:2)<br>
 	10. MUFSKIN (0:1)<br>
 <br>
-76. #AMRAP (1029) -1<br>
-+14|+11|+3<br>
+79. #AMRAP (1028) 0<br>
++13|+11|+3<br>
 	4. Arkady (0:1)<br>
 <br>
-77. #Khalifah (1028) +1<br>
+80. #Khalifah (1027) 0<br>
 +28|+15|+8<br>
 	3. chomeur2 (1:4)<br>
 	4. Arkady (0:3)<br>
@@ -695,8 +709,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (0:2)<br>
 	10. MUFSKIN (1:2)<br>
 <br>
-78. #lemanj (1027) +1<br>
-+7<br>
+81. #lemanj (1026) 0<br>
++6<br>
 	1. GreatApple~214 (1:1)<br>
 	2. Vlajs001 (1:0)<br>
 	4. Arkady (0:1)<br>
@@ -704,7 +718,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Tiberius88 (0:1)<br>
 	8. DavidIggyLou (1:1)<br>
 <br>
-79. #SparkyBean~881 (1023) 0<br>
+82. #kaaatom999 (1024) +4<br>
++12|+2<br>
+	1. GreatApple~214 (2:5)<br>
+	3. chomeur2 (2:1)<br>
+	5. Jarre (4:2)<br>
+	6. Tiberius88 (0:1)<br>
+	7. rickss (1:1)<br>
+	8. DavidIggyLou (0:1)<br>
+	10. MUFSKIN (1:1)<br>
+<br>
+83. #SparkyBean~881 (1023) 0<br>
 +3<br>
 	1. GreatApple~214 (0:1)<br>
 	3. chomeur2 (1:0)<br>
@@ -714,28 +738,21 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (3:5)<br>
 	10. MUFSKIN (1:0)<br>
 <br>
-80. #WiryFox~219 (1022) +2<br>
-+17|+5|+3|+2<br>
+84. #WiryFox~219 (1021) -1<br>
++16|+4|+2|+1<br>
 	3. chomeur2 (3:3)<br>
-	4. Arkady (1:1)<br>
 	6. Tiberius88 (1:5)<br>
 	7. rickss (0:3)<br>
 	8. DavidIggyLou (0:2)<br>
 	10. MUFSKIN (3:2)<br>
 <br>
-81. #CalmDownBro (1021) 0<br>
+85. #CalmDownBro (1021) 0<br>
 +2<br>
 	1. GreatApple~214 (0:1)<br>
 	3. chomeur2 (0:2)<br>
 	9. buz (1:0)<br>
 <br>
-82. #SassyWater~563 (1020) 0<br>
-+10<br>
-	6. Tiberius88 (0:1)<br>
-	9. buz (1:1)<br>
-	10. MUFSKIN (0:1)<br>
-<br>
-83. #BillY_Patro (1020) -1<br>
+86. #BillY_Patro (1020) 0<br>
 +7<br>
 	3. chomeur2 (0:1)<br>
 	4. Arkady (1:5)<br>
@@ -743,22 +760,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. DavidIggyLou (0:2)<br>
 	10. MUFSKIN (1:3)<br>
 <br>
-84. #kaaatom999 (1020) 0<br>
-+8|-2<br>
-	1. GreatApple~214 (2:5)<br>
-	3. chomeur2 (2:1)<br>
-	5. Jarre (4:2)<br>
+87. #SassyWater~563 (1020) 0<br>
++10<br>
 	6. Tiberius88 (0:1)<br>
-	7. rickss (1:1)<br>
-	8. DavidIggyLou (0:1)<br>
-	10. MUFSKIN (1:1)<br>
+	9. buz (1:1)<br>
+	10. MUFSKIN (0:1)<br>
 <br>
-85. #DirtyPants~598 (1019) 0<br>
+88. #DirtyPants~598 (1019) 0<br>
 +3<br>
 	2. Vlajs001 (0:1)<br>
 	9. buz (1:2)<br>
 <br>
-86. #FlyingPizza (1019) +2<br>
+89. #FlyingPizza (1019) 0<br>
 +10|+7|0<br>
 	1. GreatApple~214 (3:1)<br>
 	3. chomeur2 (1:0)<br>
@@ -770,14 +783,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (1:0)<br>
 	10. MUFSKIN (0:1)<br>
 <br>
-87. #WigglyCar~568 (1016) 0<br>
+90. #AnkleBreaker (1016) +3<br>
++12|+3<br>
+	6. Tiberius88 (0:1)<br>
+	8. DavidIggyLou (1:1)<br>
+	10. MUFSKIN (0:2)<br>
+<br>
+91. #WigglyCar~568 (1016) 0<br>
 +15|+4|+3|0<br>
 	1. GreatApple~214 (0:5)<br>
 	8. DavidIggyLou (0:2)<br>
 	9. buz (1:0)<br>
 	10. MUFSKIN (1:1)<br>
 <br>
-88. #probunny (1014) 0<br>
+92. #probunny (1014) 0<br>
 +8<br>
 	1. GreatApple~214 (2:3)<br>
 	3. chomeur2 (0:3)<br>
@@ -786,50 +805,50 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. buz (0:2)<br>
 	10. MUFSKIN (2:1)<br>
 <br>
-89. #Astinax (1013) 0<br>
+93. #Astinax (1013) 0<br>
 +9|0<br>
 	5. Jarre (2:1)<br>
 	6. Tiberius88 (1:0)<br>
 	8. DavidIggyLou (0:2)<br>
 	9. buz (0:1)<br>
 <br>
-90. #AnkleBreaker (1012) 0<br>
-+8<br>
-	6. Tiberius88 (0:1)<br>
-	8. DavidIggyLou (1:1)<br>
-	10. MUFSKIN (0:2)<br>
-<br>
-91. #wurtiewarts (1008) +1<br>
+94. #wurtiewarts (1008) 0<br>
 +2<br>
 	2. Vlajs001 (1:0)<br>
 	5. Jarre (3:4)<br>
 	6. Tiberius88 (1:1)<br>
 	8. DavidIggyLou (1:1)<br>
 <br>
-92. #AjRspace (999) 0<br>
+95. #AddMan (1002) 0<br>
++2<br>
+	1. GreatApple~214 (1:3)<br>
+	9. buz (0:1)<br>
+	10. MUFSKIN (0:2)<br>
+<br>
+96. #AjRspace (999) 0<br>
 +1<br>
 	1. GreatApple~214 (0:2)<br>
 	6. Tiberius88 (0:1)<br>
 	7. rickss (1:0)<br>
 	8. DavidIggyLou (0:5)<br>
 <br>
-93. #LittleClove~834 (994) -1<br>
--4<br>
+97. #LittleClove~834 (994) 0<br>
+-5<br>
 	2. Vlajs001 (0:2)<br>
 	3. chomeur2 (1:4)<br>
 	5. Jarre (0:2)<br>
-	6. Tiberius88 (0:3)<br>
+	6. Tiberius88 (0:2)<br>
 	7. rickss (0:4)<br>
 	8. DavidIggyLou (0:1)<br>
 <br>
-94. #cswhaha (993) -1<br>
+98. #cswhaha (993) 0<br>
 -8|-5|-1<br>
 	5. Jarre (2:15)<br>
 	7. rickss (2:1)<br>
 	8. DavidIggyLou (0:1)<br>
 <br>
-95. #orenong (967) -2<br>
--21|-14|-6|-7|-5|-1|-1<br>
+99. #orenong (968) +1<br>
+-20|-12|-4|-5|-4|+1|+1<br>
 	1. GreatApple~214 (0:6)<br>
 	2. Vlajs001 (0:1)<br>
 	3. chomeur2 (1:0)<br>
