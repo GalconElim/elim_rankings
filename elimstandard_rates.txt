@@ -1,6 +1,6 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #gamaray1719 (1381) +1<br>
+1. #gamaray1719 (1381) 0<br>
 +13|+13|+10|+3|+8|+6|+20|+25|+20|+10<br>
 	3. Vadim1707 (37:13)<br>
 	4. Reclamation- (8:5)<br>
@@ -20,19 +20,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 3. #Vadim1707 (1293) 0<br>
 +1|+6|+5|+3|-4|-5|-4|-7|-8|-9<br>
 	1. gamaray1719 (13:37)<br>
-	4. Reclamation- (33:19)<br>
-	5. waffle3z (61:42)<br>
+	4. Reclamation- (23:14)<br>
+	5. waffle3z (50:34)<br>
 	6. SyMSyMmY (64:42)<br>
 	7. Parko (5:2)<br>
 	8. zamrai (32:13)<br>
 	9. Eudaemonia (165:85)<br>
 	10. MusCu (6:1)<br>
 <br>
-4. #Reclamation- (1261) +6<br>
-+33|+27|+19|+23|+21|+17|+8|+4|+6|-1<br>
+4. #Reclamation- (1261) 0<br>
++32|+27|+19|+23|+20|+16|+8|+4|+5|-1<br>
 	1. gamaray1719 (5:8)<br>
 	2. esparano (7:17)<br>
-	3. Vadim1707 (19:33)<br>
+	3. Vadim1707 (14:23)<br>
 	5. waffle3z (76:78)<br>
 	6. SyMSyMmY (92:82)<br>
 	7. Parko (9:17)<br>
@@ -44,14 +44,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 +17|+12|+16|+15|+7|+8|-1|-1|+11|0<br>
 	1. gamaray1719 (6:33)<br>
 	2. esparano (6:7)<br>
-	3. Vadim1707 (42:61)<br>
+	3. Vadim1707 (34:50)<br>
 	4. Reclamation- (78:76)<br>
 	6. SyMSyMmY (70:52)<br>
 	9. Eudaemonia (53:47)<br>
 	10. MusCu (27:23)<br>
 <br>
-6. #SyMSyMmY (1225) 0<br>
-+14|+16|+13|+11|+8|+2|0|-1|+5|0<br>
+6. #SyMSyMmY (1224) -1<br>
++14|+16|+13|+10|+7|+1|0|-2|+5|-1<br>
 	1. gamaray1719 (4:27)<br>
 	2. esparano (1:4)<br>
 	3. Vadim1707 (42:64)<br>
@@ -105,34 +105,26 @@ Recent win rates against top 10 over the past 20k matches<br>
 11. #waffle~3z (1174) 0<br>
 -10|-21|-24|-26|-19|-22|-23|-19|-9|-10<br>
 	1. gamaray1719 (0:1)<br>
-	3. Vadim1707 (68:71)<br>
+	3. Vadim1707 (58:63)<br>
 	4. Reclamation- (3:4)<br>
-	5. waffle3z (134:190)<br>
+	5. waffle3z (131:189)<br>
 	6. SyMSyMmY (3:3)<br>
 	7. Parko (5:0)<br>
 	9. Eudaemonia (62:56)<br>
 <br>
-12. #JDHA218 (1172) -4<br>
-+18|+21|+17|+10|-1|-9|-10|-11|-6|-4<br>
+12. #JDHA218 (1171) -1<br>
++17|+19|+15|+9|-2|-10|-12|-12|-8|-6<br>
 	2. esparano (1:2)<br>
 	3. Vadim1707 (12:17)<br>
-	4. Reclamation- (27:49)<br>
-	5. waffle3z (20:51)<br>
-	6. SyMSyMmY (29:38)<br>
+	4. Reclamation- (25:47)<br>
+	5. waffle3z (11:33)<br>
+	6. SyMSyMmY (29:39)<br>
 	7. Parko (8:13)<br>
 	8. zamrai (0:2)<br>
 	9. Eudaemonia (77:67)<br>
 <br>
-13. #JazzyDeer (1164) 0<br>
-+124|+107|+78|+69|+60|+48|+34|+35|+30|+19<br>
-	5. waffle3z (4:4)<br>
-	6. SyMSyMmY (4:11)<br>
-	8. zamrai (0:1)<br>
-	9. Eudaemonia (0:1)<br>
-	10. MusCu (1:2)<br>
-<br>
-14. #Jasem (1163) 0<br>
--22|-16|-6|-7|-8|-7|-18|-15|-10|-1<br>
+13. #Jasem (1165) +2<br>
+-20|-14|-3|-5|-6|-4|-16|-13|-8|+1<br>
 	1. gamaray1719 (1:4)<br>
 	2. esparano (2:2)<br>
 	3. Vadim1707 (5:6)<br>
@@ -142,25 +134,24 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Parko (2:4)<br>
 	9. Eudaemonia (4:4)<br>
 <br>
-15. #OrBiTeR (1142) +5<br>
-+67|+58|+43|+44|+40|+36|+28|+13|+11|-1<br>
+14. #JazzyDeer (1164) 0<br>
++124|+107|+78|+69|+60|+48|+34|+35|+30|+19<br>
+	5. waffle3z (4:4)<br>
+	6. SyMSyMmY (4:11)<br>
+	8. zamrai (0:1)<br>
+	9. Eudaemonia (0:1)<br>
+	10. MusCu (1:2)<br>
+<br>
+15. #OrBiTeR (1141) 0<br>
++67|+58|+42|+44|+40|+36|+28|+13|+11|-1<br>
 	1. gamaray1719 (3:22)<br>
 	2. esparano (0:4)<br>
 	4. Reclamation- (11:9)<br>
 	5. waffle3z (2:1)<br>
-	6. SyMSyMmY (6:14)<br>
+	6. SyMSyMmY (7:16)<br>
 	9. Eudaemonia (5:6)<br>
 <br>
-16. #Captain-Levi (1132) +3<br>
-+20|+9|+14|+9|+7|+8|+5|+6|+2|+2<br>
-	1. gamaray1719 (0:1)<br>
-	2. esparano (1:3)<br>
-	3. Vadim1707 (2:10)<br>
-	4. Reclamation- (28:51)<br>
-	5. waffle3z (2:4)<br>
-	6. SyMSyMmY (4:6)<br>
-<br>
-17. #GoOody (1112) 0<br>
+16. #GoOody (1112) 0<br>
 -15|-16|-14|-19|-19|-11|-9|-9|-2|-1<br>
 	3. Vadim1707 (29:96)<br>
 	4. Reclamation- (6:16)<br>
@@ -169,8 +160,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. zamrai (4:9)<br>
 	9. Eudaemonia (16:34)<br>
 <br>
-18. #bejut (1109) +4<br>
-+60|+57|+43|+30|+24|+25|+29|+13|+7|+4<br>
+17. #bejut (1112) +3<br>
++63|+60|+46|+33|+27|+28|+32|+16|+10|+7<br>
 	2. esparano (0:5)<br>
 	3. Vadim1707 (16:67)<br>
 	4. Reclamation- (23:67)<br>
@@ -181,8 +172,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Eudaemonia (73:93)<br>
 	10. MusCu (0:1)<br>
 <br>
-19. #NinjaBooM (1091) 0<br>
-+18|+6|+2|+1|-3|-2|+2|+8|+1|-1<br>
+18. #NinjaBooM (1090) 0<br>
++18|+6|+2|0|-3|-2|+1|+7|0|-2<br>
 	1. gamaray1719 (0:5)<br>
 	3. Vadim1707 (12:41)<br>
 	4. Reclamation- (2:13)<br>
@@ -192,32 +183,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Eudaemonia (22:39)<br>
 	10. MusCu (2:1)<br>
 <br>
-20. #GoodAce (1084) -2<br>
+19. #GoodAce (1084) 0<br>
 -2|+8|+9|+10|+2|0|-3|+1|+7|-1<br>
 	2. esparano (0:4)<br>
 	3. Vadim1707 (1:10)<br>
 	4. Reclamation- (13:52)<br>
 	5. waffle3z (10:25)<br>
-	6. SyMSyMmY (79:204)<br>
+	6. SyMSyMmY (79:203)<br>
 	7. Parko (3:4)<br>
 	8. zamrai (1:6)<br>
 	9. Eudaemonia (11:29)<br>
 	10. MusCu (0:2)<br>
 <br>
-21. #BenjiKozor (1076) -1<br>
--30|-38|-28|-24|-24|-16|-15|-3|+3|0<br>
-	1. gamaray1719 (0:2)<br>
-	2. esparano (1:14)<br>
-	3. Vadim1707 (17:39)<br>
-	4. Reclamation- (26:66)<br>
-	5. waffle3z (11:16)<br>
-	6. SyMSyMmY (64:109)<br>
-	7. Parko (14:21)<br>
-	8. zamrai (5:4)<br>
-	9. Eudaemonia (85:136)<br>
-	10. MusCu (13:15)<br>
-<br>
-22. #zeropoint (1076) -2<br>
+20. #zeropoint (1076) 0<br>
 -10|-8|-4|+1|0|+3|+1|-4|+6|0<br>
 	1. gamaray1719 (0:2)<br>
 	4. Reclamation- (19:44)<br>
@@ -228,8 +206,21 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Eudaemonia (6:11)<br>
 	10. MusCu (1:0)<br>
 <br>
-23. #GaudyWeasel (1069) +2<br>
-+71|+64|+58|+52|+44|+39|+36|+39|+31|+10<br>
+21. #BenjiKozor (1076) -1<br>
+-31|-39|-29|-25|-25|-17|-16|-4|+2|0<br>
+	1. gamaray1719 (0:2)<br>
+	2. esparano (1:14)<br>
+	3. Vadim1707 (17:39)<br>
+	4. Reclamation- (22:57)<br>
+	5. waffle3z (11:16)<br>
+	6. SyMSyMmY (64:109)<br>
+	7. Parko (14:21)<br>
+	8. zamrai (5:4)<br>
+	9. Eudaemonia (85:136)<br>
+	10. MusCu (13:15)<br>
+<br>
+22. #GaudyWeasel (1069) 0<br>
++65|+58|+53|+44|+39|+36|+40|+31|+10|-1<br>
 	1. gamaray1719 (0:1)<br>
 	2. esparano (0:1)<br>
 	3. Vadim1707 (0:3)<br>
@@ -239,7 +230,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Parko (0:1)<br>
 	9. Eudaemonia (1:12)<br>
 <br>
-24. #Vhyme (1062) 0<br>
+23. #Vhyme (1062) 0<br>
 +64|+67|+66|+58|+48|+26|+22|+14|+6|+5<br>
 	1. gamaray1719 (0:1)<br>
 	3. Vadim1707 (12:37)<br>
@@ -249,7 +240,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Eudaemonia (5:12)<br>
 	10. MusCu (1:0)<br>
 <br>
-25. #xMilly (1059) 0<br>
+24. #xMilly (1059) 0<br>
 +43|+41|+30|+27|+26|+21|+23|+28|+11|+3<br>
 	1. gamaray1719 (0:1)<br>
 	3. Vadim1707 (2:10)<br>
@@ -260,7 +251,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Eudaemonia (6:9)<br>
 	10. MusCu (6:15)<br>
 <br>
-26. #Gyrfa1con (1058) 0<br>
+25. #Gyrfa1con (1058) 0<br>
 +53|+65|+61|+53|+48|+54|+42|+31|+19|+6<br>
 	3. Vadim1707 (0:3)<br>
 	4. Reclamation- (2:9)<br>
@@ -268,25 +259,25 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. SyMSyMmY (2:2)<br>
 	7. Parko (0:2)<br>
 <br>
-27. #Uranus-98 (1054) 0<br>
--3|+1|+7|-4|+1|-12|-12|-7|-4|+1<br>
+26. #Uranus-98 (1055) +1<br>
+-2|+3|+9|-3|+2|-10|-11|-6|-2|+2<br>
 	3. Vadim1707 (3:12)<br>
-	4. Reclamation- (19:34)<br>
+	4. Reclamation- (19:28)<br>
 	5. waffle3z (21:59)<br>
 	6. SyMSyMmY (42:90)<br>
 	9. Eudaemonia (24:51)<br>
 <br>
-28. #spaceycarrot (1050) +7<br>
-+43|+34|+35|+41|+32|+29|+24|+20|+10|+5<br>
+27. #spaceycarrot (1052) +2<br>
++45|+36|+37|+43|+34|+31|+26|+22|+12|+7<br>
 	1. gamaray1719 (3:7)<br>
 	2. esparano (0:3)<br>
 	3. Vadim1707 (2:8)<br>
-	4. Reclamation- (7:11)<br>
+	4. Reclamation- (8:12)<br>
 	6. SyMSyMmY (16:48)<br>
 	7. Parko (2:1)<br>
 	9. Eudaemonia (13:10)<br>
 <br>
-29. #pablo55 (1048) 0<br>
+28. #pablo55 (1048) 0<br>
 +49|+49|+52|+51|+55|+47|+29|+22|+11|-1<br>
 	1. gamaray1719 (1:5)<br>
 	3. Vadim1707 (0:3)<br>
@@ -297,7 +288,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. zamrai (5:4)<br>
 	9. Eudaemonia (19:44)<br>
 <br>
-30. #CsAsTra (1042) 0<br>
+29. #CsAsTra (1042) 0<br>
 +11|+13|+5|-7|-7|+2|0|-1|-1|+1<br>
 	1. gamaray1719 (1:7)<br>
 	2. esparano (2:21)<br>
@@ -308,15 +299,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. zamrai (1:0)<br>
 	9. Eudaemonia (1:2)<br>
 <br>
-31. #ss0317 (1032) +1<br>
-+29|+17|+15|+8<br>
-	4. Reclamation- (1:2)<br>
-	5. waffle3z (1:1)<br>
-	6. SyMSyMmY (2:7)<br>
-	9. Eudaemonia (5:5)<br>
-	10. MusCu (1:2)<br>
-<br>
-32. #spookyrivers (1029) 0<br>
+30. #spookyrivers (1029) 0<br>
 +14|+2|-8|-11|-11|-8<br>
 	3. Vadim1707 (2:5)<br>
 	4. Reclamation- (0:1)<br>
@@ -324,7 +307,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. SyMSyMmY (6:7)<br>
 	9. Eudaemonia (6:14)<br>
 <br>
-33. #Guacninja (1018) 0<br>
+31. #Guacninja (1018) 0<br>
 +68|+58|+53|+47|+35|+30|+25|+4|+1|0<br>
 	3. Vadim1707 (6:16)<br>
 	4. Reclamation- (5:16)<br>
@@ -332,8 +315,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Parko (0:2)<br>
 	9. Eudaemonia (5:6)<br>
 <br>
-34. #GenghisCon (1013) -2<br>
-+4|+11|+24|+18|+16|+12|+17|+12|+12|+3<br>
+32. #GenghisCon (1013) 0<br>
++4|+11|+24|+18|+15|+12|+17|+12|+12|+3<br>
 	1. gamaray1719 (1:2)<br>
 	3. Vadim1707 (0:4)<br>
 	4. Reclamation- (2:7)<br>
@@ -343,8 +326,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. zamrai (2:4)<br>
 	9. Eudaemonia (2:7)<br>
 <br>
-35. #keyblade335 (990) 0<br>
-+32|+39|+34|+31|+28|+18|+14|+5|-1|0<br>
+33. #keyblade335 (990) +1<br>
++32|+39|+35|+32|+28|+18|+15|+6|-1|+1<br>
 	3. Vadim1707 (1:14)<br>
 	4. Reclamation- (1:5)<br>
 	5. waffle3z (1:24)<br>
@@ -352,7 +335,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. zamrai (1:1)<br>
 	9. Eudaemonia (11:31)<br>
 <br>
-36. #rickss (972) 0<br>
+34. #rickss (972) 0<br>
 -7|-4|+1|+7|+13|+16|+24|+15|+11|+2<br>
 	1. gamaray1719 (0:5)<br>
 	3. Vadim1707 (1:13)<br>
@@ -363,7 +346,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Eudaemonia (8:37)<br>
 	10. MusCu (1:1)<br>
 <br>
-37. #CoolFaucet~518 (963) -4<br>
+35. #CoolFaucet~518 (963) 0<br>
 -23|-18|-10|-12|-4<br>
 	3. Vadim1707 (1:6)<br>
 	4. Reclamation- (1:38)<br>
@@ -372,8 +355,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Parko (1:3)<br>
 	9. Eudaemonia (0:5)<br>
 <br>
-38. #monguesto (922) 0<br>
--34|-33|-31|-28|-17|-15|-15|-10|-5|0<br>
+36. #monguesto (920) -1<br>
+-35|-34|-33|-29|-18|-16|-17|-11|-7|-1<br>
 	1. gamaray1719 (0:4)<br>
 	3. Vadim1707 (2:20)<br>
 	4. Reclamation- (9:44)<br>
@@ -382,7 +365,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. zamrai (4:10)<br>
 	9. Eudaemonia (5:30)<br>
 <br>
-39. #algalcone (898) 0<br>
+37. #algalcone (898) 0<br>
 +4|+3|0|-4|-2|+7|+6|+4|+8|+3<br>
 	1. gamaray1719 (0:8)<br>
 	3. Vadim1707 (6:67)<br>
@@ -393,7 +376,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Eudaemonia (10:61)<br>
 	10. MusCu (0:1)<br>
 <br>
-40. #Ares8 (827) 0<br>
+38. #Ares8 (827) 0<br>
 -144|-117|-86|-65|-44|-30|-16|-12|-2|-1<br>
 	3. Vadim1707 (0:5)<br>
 	4. Reclamation- (4:8)<br>
