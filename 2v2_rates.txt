@@ -1,11 +1,11 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #sirgrapeLot (1225) -4<br>
-+9|0|0|-6|-7|-13|-5|-3|-13|-1<br>
+1. #sirgrapeLot (1224) -2<br>
++8|-2|-2|-7|-9|-14|-6|-4|-15|-3<br>
 	3. Reclamation- (6:8)<br>
 	5. dIehAppY (6:10)<br>
 <br>
-2. #zamrai (1223) -1<br>
+2. #zamrai (1223) 0<br>
 +2|+8|+10|+3|-1|+7|+7|+4|+7|+6<br>
 	4. gamaray1719 (5:4)<br>
 	5. dIehAppY (46:40)<br>
@@ -27,8 +27,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. dIehAppY (0:2)<br>
 	6. Vadim1707 (15:12)<br>
 <br>
-5. #dIehAppY (1198) 0<br>
-+12|+14|+8|+9|+3|+4|-10|-6|-8|0<br>
+5. #dIehAppY (1198) +1<br>
++13|+14|+9|+9|+4|+4|-9|-6|-7|+1<br>
 	1. sirgrapeLot (10:6)<br>
 	2. zamrai (40:46)<br>
 	3. Reclamation- (3:4)<br>
@@ -56,7 +56,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. GooZok (4:3)<br>
 <br>
 8. #MadDookie (1139) 0<br>
--7|-11|-14|-15|-19|-14|-13|-15|-18|-5<br>
+-11|-14|-15|-19|-14|-13|-15|-19|-5|+2<br>
 	3. Reclamation- (20:36)<br>
 	6. Vadim1707 (1:0)<br>
 	9. Spinne (4:2)<br>
@@ -86,7 +86,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 +37|+24|+13|+14|+3|+4|+6|+4|+8|-5<br>
 	7. GoOody (18:14)<br>
 <br>
-13. #Omnibus (1127) +1<br>
+13. #Omnibus (1127) 0<br>
 +51|+54|+45|+36|+35|+33|+17|+8|+5|-3<br>
 	5. dIehAppY (2:2)<br>
 	7. GoOody (2:0)<br>
@@ -98,7 +98,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. GoOody (0:2)<br>
 	9. Spinne (1:2)<br>
 <br>
-15. #JDHA218 (1123) +4<br>
+15. #JDHA218 (1123) 0<br>
 +52|+39|+34|+22|+14|+1|+10|+1|+8|+1<br>
 	1. sirgrapeLot (6:3)<br>
 	2. zamrai (4:3)<br>
@@ -114,16 +114,16 @@ Recent win rates against top 10 over the past 20k matches<br>
 	3. Reclamation- (1:2)<br>
 	5. dIehAppY (150:158)<br>
 	7. GoOody (31:22)<br>
-	9. Spinne (190:184)<br>
+	9. Spinne (188:180)<br>
 	10. GooZok (52:46)<br>
 <br>
-17. #Enlights (1119) +1<br>
--3|-4|-7|-11|-7|-10|-13|-6|-4|+2<br>
+17. #Enlights (1120) +1<br>
+-2|-3|-6|-10|-6|-9|-12|-5|-3|+3<br>
 	2. zamrai (0:1)<br>
 	3. Reclamation- (6:11)<br>
 	5. dIehAppY (16:14)<br>
 	7. GoOody (17:20)<br>
-	8. MadDookie (9:10)<br>
+	8. MadDookie (12:11)<br>
 	9. Spinne (28:27)<br>
 <br>
 18. #zeropoint (1117) 0<br>
@@ -143,24 +143,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MadDookie (1:0)<br>
 	10. GooZok (2:2)<br>
 <br>
-20. #CsAsTra (1113) 0<br>
-+37|+25|+29|+21|+22|+27|+24|+19|+15|+3<br>
+20. #CsAsTra (1114) +1<br>
++37|+25|+30|+21|+23|+28|+24|+19|+16|+4<br>
 	3. Reclamation- (20:27)<br>
 	5. dIehAppY (18:32)<br>
 	6. Vadim1707 (13:11)<br>
 	7. GoOody (1:0)<br>
-	8. MadDookie (3:4)<br>
+	8. MadDookie (4:5)<br>
 	9. Spinne (14:7)<br>
 <br>
-21. #KANT (1108) 0<br>
-+24|+24|+29|+23|+24|+20|+22|+10|+5|+9<br>
-	2. zamrai (2:1)<br>
-	5. dIehAppY (22:29)<br>
-	6. Vadim1707 (5:8)<br>
-	7. GoOody (14:13)<br>
-<br>
-22. #SyMSyMmY (1108) 0<br>
-+19|+7|+8|-7|-10|-1|-8|+4|+2|-4<br>
+21. #SyMSyMmY (1113) +5<br>
++24|+12|+13|-2|-5|+4|-3|+10|+7|+1<br>
+	1. sirgrapeLot (4:0)<br>
 	2. zamrai (8:15)<br>
 	3. Reclamation- (79:124)<br>
 	4. gamaray1719 (39:72)<br>
@@ -171,13 +165,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (10:8)<br>
 	10. GooZok (1:0)<br>
 <br>
+22. #KANT (1108) 0<br>
++24|+24|+29|+23|+24|+20|+22|+10|+5|+9<br>
+	2. zamrai (2:1)<br>
+	5. dIehAppY (22:29)<br>
+	6. Vadim1707 (5:8)<br>
+	7. GoOody (14:13)<br>
+<br>
 23. #jas (1107) 0<br>
 -17|-11|-13|-7|-7|-2|-8|-10|-12|-2<br>
 	2. zamrai (1:1)<br>
 	3. Reclamation- (1:3)<br>
 	5. dIehAppY (69:84)<br>
 	7. GoOody (12:33)<br>
-	9. Spinne (34:57)<br>
+	9. Spinne (31:54)<br>
 <br>
 24. #NinjaBooM (1106) 0<br>
 +7|+10|+7|+3|+6|-3|-1|-2|+5|0<br>
@@ -199,16 +200,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (50:55)<br>
 	10. GooZok (10:6)<br>
 <br>
-26. #Gyrfa1con (1105) 0<br>
-+14|+12|+9|+11|+13|+9|+13|+14|+8|+8<br>
-	2. zamrai (5:3)<br>
-	3. Reclamation- (1:1)<br>
-	5. dIehAppY (19:28)<br>
-	7. GoOody (10:16)<br>
-	9. Spinne (75:84)<br>
-<br>
-27. #GoodAce (1104) 0<br>
--1|-2|-2|+2|+3|-6|-4|-5|-8|+1<br>
+26. #GoodAce (1105) +1<br>
+0|-1|0|+4|+4|-5|-3|-4|-7|+3<br>
 	1. sirgrapeLot (10:12)<br>
 	2. zamrai (10:16)<br>
 	3. Reclamation- (14:34)<br>
@@ -219,11 +212,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (24:23)<br>
 	10. GooZok (22:18)<br>
 <br>
+27. #Gyrfa1con (1105) 0<br>
++14|+12|+9|+11|+13|+9|+13|+14|+8|+8<br>
+	2. zamrai (5:3)<br>
+	3. Reclamation- (1:1)<br>
+	5. dIehAppY (19:28)<br>
+	7. GoOody (10:16)<br>
+	9. Spinne (75:84)<br>
+<br>
 28. #khailed511 (1103) 0<br>
 +32|+32|+25|+14|+12|+9|+8|+9|+4|+1<br>
 	9. Spinne (0:1)<br>
 <br>
-29. #Jasem (1101) -2<br>
+29. #Jasem (1101) 0<br>
 +24|+16|+7|-4|-6|-5|-1|-3|-6|-1<br>
 	1. sirgrapeLot (9:11)<br>
 	5. dIehAppY (27:24)<br>
@@ -261,15 +262,16 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (26:17)<br>
 	10. GooZok (11:14)<br>
 <br>
-34. #goner (1092) 0<br>
--8|0|+8|+12|+10|+12|+8|+4|+5|+3<br>
+34. #goner (1091) 0<br>
+-9|-1|+8|+11|+10|+11|+7|+4|+5|+3<br>
+	1. sirgrapeLot (0:1)<br>
 	3. Reclamation- (1:0)<br>
 	5. dIehAppY (11:15)<br>
 	9. Spinne (17:11)<br>
 	10. GooZok (3:2)<br>
 <br>
-35. #GenghisCon (1089) -1<br>
-+15|+6|+2|+4|+7|+7|+4|-1|+2|-2<br>
+35. #GenghisCon (1088) -2<br>
++14|+4|0|+2|+6|+5|+2|-2|+1|-3<br>
 	2. zamrai (9:10)<br>
 	3. Reclamation- (18:32)<br>
 	4. gamaray1719 (1:2)<br>
@@ -277,7 +279,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Vadim1707 (1:1)<br>
 	7. GoOody (2:7)<br>
 	8. MadDookie (7:9)<br>
-	9. Spinne (59:80)<br>
+	9. Spinne (56:76)<br>
 	10. GooZok (14:22)<br>
 <br>
 36. #TimeBreaker (1087) 0<br>
@@ -285,20 +287,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	3. Reclamation- (2:4)<br>
 	5. dIehAppY (5:10)<br>
 <br>
-37. #Parko (1085) 0<br>
+37. #Z-e-u-s (1085) +1<br>
++12|-26|-31|-22|-14|-11|-13|0|+3|+3<br>
+	2. zamrai (5:6)<br>
+	5. dIehAppY (12:33)<br>
+	6. Vadim1707 (1:1)<br>
+	9. Spinne (1:1)<br>
+	10. GooZok (3:2)<br>
+<br>
+38. #Parko (1085) 0<br>
 +67|+67|+57|+57|+51|+38|+28|+14|+10|+5<br>
 	3. Reclamation- (1:0)<br>
 	5. dIehAppY (11:13)<br>
 	9. Spinne (0:1)<br>
 	10. GooZok (0:1)<br>
-<br>
-38. #Z-e-u-s (1084) -1<br>
-+11|-26|-32|-22|-15|-11|-13|-1|+2|+2<br>
-	2. zamrai (5:6)<br>
-	5. dIehAppY (12:32)<br>
-	6. Vadim1707 (1:1)<br>
-	9. Spinne (1:1)<br>
-	10. GooZok (3:2)<br>
 <br>
 39. #sir.wallace (1084) 0<br>
 -1|-1|-1|-7|-12|-13|-9|-8|-6|-7<br>
@@ -310,7 +312,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 +37|+42|+46|+49|+47|+41|+32|+21|+12|+8<br>
 	5. dIehAppY (16:13)<br>
 <br>
-41. #fifty6 (1079) +4<br>
+41. #fifty6 (1079) 0<br>
 +59|+54|+40|+30|+28|+19|+4|+4<br>
 	1. sirgrapeLot (8:5)<br>
 	2. zamrai (12:7)<br>
@@ -348,19 +350,9 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (0:1)<br>
 	10. GooZok (0:1)<br>
 <br>
-46. #SadGalaxy360 (1071) +2<br>
-+27|+29|+29|+13|+13|+7|-1|-1|-5|0<br>
-	2. zamrai (1:2)<br>
-	3. Reclamation- (1:1)<br>
-	5. dIehAppY (2:5)<br>
-	6. Vadim1707 (1:4)<br>
-	7. GoOody (6:6)<br>
-	8. MadDookie (4:4)<br>
-	9. Spinne (3:8)<br>
-	10. GooZok (4:2)<br>
-<br>
-47. #keyblade335 (1070) 0<br>
-+3|-3|0|+2|+6|+6|+5|+8|+4|-3<br>
+46. #keyblade335 (1071) +1<br>
++3|-3|+1|+2|+6|+7|+5|+8|+5|-3<br>
+	1. sirgrapeLot (3:1)<br>
 	2. zamrai (8:10)<br>
 	3. Reclamation- (1:2)<br>
 	4. gamaray1719 (14:34)<br>
@@ -371,7 +363,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (17:26)<br>
 	10. GooZok (2:1)<br>
 <br>
-48. #joropo808 (1069) -1<br>
+47. #SadGalaxy360 (1071) 0<br>
++27|+29|+29|+13|+13|+7|-1|-1|-5|0<br>
+	2. zamrai (1:2)<br>
+	3. Reclamation- (1:1)<br>
+	5. dIehAppY (2:5)<br>
+	6. Vadim1707 (1:4)<br>
+	7. GoOody (6:6)<br>
+	8. MadDookie (4:4)<br>
+	9. Spinne (3:8)<br>
+	10. GooZok (2:2)<br>
+<br>
+48. #joropo808 (1069) 0<br>
 +57|+46|+37|+32|+24|+16|+13|+7<br>
 	2. zamrai (2:2)<br>
 	5. dIehAppY (27:34)<br>
@@ -395,7 +398,6 @@ Recent win rates against top 10 over the past 20k matches<br>
 +9|+7|+3|-2|-6|-8|-5|-9|-4|0<br>
 	5. dIehAppY (23:40)<br>
 	7. GoOody (14:4)<br>
-	9. Spinne (2:0)<br>
 	10. GooZok (1:2)<br>
 <br>
 52. #ss0317 (1057) 0<br>
@@ -417,7 +419,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (16:21)<br>
 	10. GooZok (8:3)<br>
 <br>
-55. #Rawz (1053) -1<br>
+55. #Rawz (1052) 0<br>
 +32|+29|+22|+16|+11|+7|+10|+3|+2|+3<br>
 	3. Reclamation- (1:4)<br>
 	5. dIehAppY (10:22)<br>
@@ -438,18 +440,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (3:4)<br>
 	10. GooZok (1:3)<br>
 <br>
-58. #quickmill (1048) 0<br>
-+12|+13|+7|-1|+1|+7|-7|-4|0|+2<br>
-	5. dIehAppY (12:21)<br>
-<br>
-59. #topisagirl (1048) 0<br>
-+29|+20|+21|+13|+5|-1|-1|+1|-1|+8<br>
+58. #topisagirl (1049) +1<br>
++21|+21|+14|+5|0|0|+2|0|+8|0<br>
 	3. Reclamation- (37:47)<br>
 	5. dIehAppY (24:22)<br>
 	7. GoOody (4:5)<br>
-	8. MadDookie (2:5)<br>
-	9. Spinne (8:6)<br>
+	8. MadDookie (3:7)<br>
+	9. Spinne (6:6)<br>
 	10. GooZok (4:7)<br>
+<br>
+59. #quickmill (1048) 0<br>
++12|+13|+7|-1|+1|+7|-7|-4|0|+2<br>
+	5. dIehAppY (12:21)<br>
 <br>
 60. #Joergfu (1048) 0<br>
 +4|-4|-7|-3|-3|-4|-4|-5|+6|-3<br>
@@ -458,15 +460,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MadDookie (0:1)<br>
 	9. Spinne (1:6)<br>
 <br>
-61. #panadool (1047) 0<br>
--3|-3|-7|-14|-10|-5|+3|+2|+10|+2<br>
-	5. dIehAppY (2:1)<br>
-	7. GoOody (4:5)<br>
-	8. MadDookie (11:21)<br>
-	9. Spinne (10:12)<br>
-	10. GooZok (7:6)<br>
-<br>
-62. #gervi (1046) 0<br>
+61. #gervi (1046) 0<br>
 -20|-21|-20|-15|-5|-10|-6|-3|+3|0<br>
 	2. zamrai (3:7)<br>
 	3. Reclamation- (2:8)<br>
@@ -476,10 +470,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (5:5)<br>
 	10. GooZok (4:7)<br>
 <br>
-63. #harold.finch (1045) 0<br>
+62. #harold.finch (1045) 0<br>
 +41|+35|+34|+22|+18|+10|+7|+1|+1|-2<br>
 	5. dIehAppY (0:1)<br>
 	9. Spinne (2:6)<br>
+<br>
+63. #panadool (1045) -2<br>
+-5|-5|-10|-16|-12|-7|+1|0|+8|-1<br>
+	5. dIehAppY (2:1)<br>
+	7. GoOody (4:5)<br>
+	8. MadDookie (13:23)<br>
+	9. Spinne (10:12)<br>
+	10. GooZok (7:6)<br>
 <br>
 64. #spookyrivers (1044) 0<br>
 +39|+21|+11|+9<br>
@@ -501,7 +503,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (50:62)<br>
 	10. GooZok (19:21)<br>
 <br>
-67. #monsterV (1041) +2<br>
+67. #monsterV (1041) 0<br>
 +24|+18|+12|+11|-1|-5|-10|-14|-1|+1<br>
 	3. Reclamation- (1:0)<br>
 	7. GoOody (4:3)<br>
@@ -512,8 +514,22 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. dIehAppY (11:10)<br>
 	6. Vadim1707 (0:1)<br>
 <br>
-69. #Gideon (1041) 0<br>
--16|-14|-10|-9|-7|-10|-5|-2|+1|+4<br>
+69. #SweetTooth~619 (1041) 0<br>
++33|+17|+26|+27|+20|+14|+11|+4<br>
+	2. zamrai (15:11)<br>
+	3. Reclamation- (0:2)<br>
+	5. dIehAppY (54:52)<br>
+	7. GoOody (4:5)<br>
+	9. Spinne (15:16)<br>
+<br>
+70. #Fire.n.Ice. (1040) 0<br>
++24|+9|+12|+8|0|+5|+6|+3|+4|0<br>
+	7. GoOody (3:4)<br>
+	8. MadDookie (0:1)<br>
+	9. Spinne (7:10)<br>
+<br>
+71. #Gideon (1040) -1<br>
+-17|-15|-11|-9|-8|-11|-6|-3|+1|+4<br>
 	2. zamrai (2:2)<br>
 	3. Reclamation- (1:0)<br>
 	5. dIehAppY (43:61)<br>
@@ -522,21 +538,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (1:7)<br>
 	10. GooZok (5:9)<br>
 <br>
-70. #SweetTooth~619 (1041) -1<br>
-+33|+17|+26|+27|+20|+14|+11|+4<br>
-	2. zamrai (15:11)<br>
-	3. Reclamation- (0:2)<br>
-	5. dIehAppY (54:52)<br>
-	7. GoOody (4:5)<br>
-	9. Spinne (15:16)<br>
-<br>
-71. #Fire.n.Ice. (1040) 0<br>
-+24|+9|+12|+8|0|+5|+6|+3|+4|0<br>
-	7. GoOody (3:4)<br>
-	8. MadDookie (0:1)<br>
-	9. Spinne (7:10)<br>
-<br>
-72. #spaceycarrot (1040) +7<br>
+72. #spaceycarrot (1040) 0<br>
 +24|+20|+13|+4|-3|+5|+4|-3|+1|+4<br>
 	1. sirgrapeLot (15:13)<br>
 	3. Reclamation- (38:70)<br>
@@ -553,7 +555,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. dIehAppY (17:9)<br>
 	10. GooZok (5:4)<br>
 <br>
-74. #jman8080 (1035) -1<br>
+74. #jman8080 (1035) 0<br>
 +36|+35|+29|+25|+17|+14|+17|+12|+5|-4<br>
 	1. sirgrapeLot (7:11)<br>
 	2. zamrai (1:4)<br>
@@ -589,7 +591,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. GoOody (2:2)<br>
 	9. Spinne (4:2)<br>
 <br>
-79. #LJpain (1031) -1<br>
+79. #LJpain (1031) 0<br>
 +29|+26|+17|+11|+4<br>
 	3. Reclamation- (4:1)<br>
 	8. MadDookie (2:0)<br>
@@ -616,14 +618,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. dIehAppY (24:25)<br>
 	9. Spinne (13:6)<br>
 <br>
-84. #qUidNovI (1024) -1<br>
-+1|0|-1|-2|-2|-5|-5|-4|-4|-2<br>
+84. #qUidNovI (1025) 0<br>
++2|+1|-1|-2|-2|-4|-4|-4|-4|-1<br>
 	1. sirgrapeLot (2:2)<br>
 	3. Reclamation- (0:1)<br>
 	5. dIehAppY (3:12)<br>
 	6. Vadim1707 (1:1)<br>
 	7. GoOody (16:10)<br>
-	8. MadDookie (16:22)<br>
+	8. MadDookie (20:23)<br>
 	9. Spinne (21:35)<br>
 	10. GooZok (16:9)<br>
 <br>
@@ -679,20 +681,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 92. #Xoi (1018) 0<br>
 +4<br>
 <br>
-93. #im_GORY (1018) +1<br>
-+12|+18|+17|+18|+11|+3<br>
-	3. Reclamation- (0:1)<br>
-	5. dIehAppY (2:6)<br>
-	7. GoOody (1:3)<br>
-	9. Spinne (2:3)<br>
-<br>
-94. #thedude (1017) 0<br>
+93. #thedude (1017) 0<br>
 +1|0|-5|0|+1|-3|-4|-7|-3|-2<br>
 	2. zamrai (5:4)<br>
 	3. Reclamation- (0:2)<br>
 	5. dIehAppY (5:7)<br>
 	7. GoOody (0:4)<br>
 	9. Spinne (4:3)<br>
+<br>
+94. #im_GORY (1017) -1<br>
++11|+18|+16|+17|+11|+2<br>
+	3. Reclamation- (0:1)<br>
+	5. dIehAppY (2:6)<br>
+	7. GoOody (1:3)<br>
+	9. Spinne (2:3)<br>
 <br>
 95. #babymetal (1017) 0<br>
 +24|+21|+17|+7|+1|-3|+1|0|+7|-1<br>
@@ -711,7 +713,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MadDookie (3:1)<br>
 	9. Spinne (4:6)<br>
 <br>
-97. #balthazar- (1015) -1<br>
+97. #balthazar- (1015) 0<br>
 +4<br>
 	6. Vadim1707 (0:1)<br>
 	7. GoOody (10:12)<br>
@@ -777,18 +779,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (5:10)<br>
 	10. GooZok (1:2)<br>
 <br>
-108. #BigRaptor~426 (1009) 0<br>
-0<br>
-	5. dIehAppY (3:12)<br>
-	9. Spinne (2:5)<br>
-	10. GooZok (2:0)<br>
-<br>
-109. #mightymeek (1009) 0<br>
+108. #mightymeek (1009) 0<br>
 +4<br>
 	5. dIehAppY (11:12)<br>
 	8. MadDookie (0:1)<br>
 <br>
-110. #Go4CHiPS (1008) 0<br>
+109. #Go4CHiPS (1008) 0<br>
 -2|-3|+5|+3|+5|+1|-2|0|+2|+1<br>
 	2. zamrai (2:3)<br>
 	7. GoOody (7:10)<br>
@@ -796,31 +792,40 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (8:18)<br>
 	10. GooZok (3:6)<br>
 <br>
-111. #stuggidavid (1008) 0<br>
+110. #stuggidavid (1008) 0<br>
 -9|-5|-4|-7|-12|-10|-6|-2|-6|-1<br>
 	3. Reclamation- (0:1)<br>
 	4. gamaray1719 (1:5)<br>
 	5. dIehAppY (2:5)<br>
 	7. GoOody (10:14)<br>
 <br>
-112. #FadedTooth~230 (1007) 0<br>
+111. #FadedTooth~230 (1007) 0<br>
 <br>
 	3. Reclamation- (2:2)<br>
 	5. dIehAppY (13:18)<br>
 	7. GoOody (5:1)<br>
 <br>
-113. #AppleDragon (1006) +1<br>
-+2|+4<br>
-	6. Vadim1707 (0:1)<br>
-	7. GoOody (0:4)<br>
-	8. MadDookie (4:10)<br>
-	9. Spinne (12:19)<br>
-<br>
-114. #Artimal_PL (1006) 0<br>
+112. #Artimal_PL (1006) 0<br>
 -2<br>
 	5. dIehAppY (1:8)<br>
 	6. Vadim1707 (1:1)<br>
 	9. Spinne (0:2)<br>
+<br>
+113. #blankedout (1006) +1<br>
++18|+12|+4|+4|0|0|+5|+3|-1|0<br>
+	2. zamrai (4:11)<br>
+	5. dIehAppY (23:32)<br>
+	7. GoOody (18:19)<br>
+	9. Spinne (5:7)<br>
+	10. GooZok (2:3)<br>
+<br>
+114. #AppleDragon (1006) -1<br>
++1|+3<br>
+	1. sirgrapeLot (0:1)<br>
+	6. Vadim1707 (0:1)<br>
+	7. GoOody (0:4)<br>
+	8. MadDookie (4:10)<br>
+	9. Spinne (12:19)<br>
 <br>
 115. #ChiefBlkHawk (1005) 0<br>
 0|-1|-12|-9|+3|+4|+3|+9<br>
@@ -843,72 +848,70 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. dIehAppY (0:3)<br>
 	9. Spinne (1:0)<br>
 <br>
-119. #blankedout (1004) -2<br>
-+17|+10|+3|+2|-1|-1|+3|+2|-2|-2<br>
-	2. zamrai (4:11)<br>
-	5. dIehAppY (23:32)<br>
-	7. GoOody (18:19)<br>
-	9. Spinne (5:7)<br>
-	10. GooZok (2:3)<br>
-<br>
-120. #BurlyViolin~733 (1004) 0<br>
+119. #BurlyViolin~733 (1004) 0<br>
 -1<br>
 	5. dIehAppY (17:23)<br>
 <br>
-121. #LitleMonstar (1003) 0<br>
+120. #LitleMonstar (1003) 0<br>
 +2|0<br>
 	2. zamrai (3:8)<br>
 	3. Reclamation- (1:1)<br>
 	7. GoOody (8:19)<br>
 	9. Spinne (0:1)<br>
 <br>
+121. #heynongman (1003) 0<br>
+-1<br>
+	5. dIehAppY (5:7)<br>
+<br>
 122. #SUPREME._ (1003) 0<br>
--3|-1|+2|+3|+8|+7|+7|+7|+8<br>
+-4|-1|+2|+3|+8|+7|+7|+7|+8<br>
+	1. sirgrapeLot (1:1)<br>
 	2. zamrai (7:11)<br>
 	3. Reclamation- (1:0)<br>
 	5. dIehAppY (41:83)<br>
 	7. GoOody (18:33)<br>
 	9. Spinne (34:53)<br>
 <br>
-123. #heynongman (1003) 0<br>
--1<br>
-	5. dIehAppY (5:7)<br>
-<br>
-124. #rpk (1003) 0<br>
--10|-6|-4|-9|-7|-6|-6|-10|-11|-1<br>
-	3. Reclamation- (12:28)<br>
-	5. dIehAppY (6:14)<br>
-	6. Vadim1707 (1:1)<br>
-	7. GoOody (2:10)<br>
-	8. MadDookie (19:26)<br>
-	9. Spinne (59:72)<br>
-	10. GooZok (14:34)<br>
-<br>
-125. #CopperJoke~710 (1002) 0<br>
+123. #CopperJoke~710 (1002) 0<br>
 -2|-8<br>
 	9. Spinne (1:2)<br>
 <br>
-126. #_Marik_ (1002) 0<br>
+124. #_Marik_ (1002) 0<br>
 +6|+5<br>
 	5. dIehAppY (0:1)<br>
 	6. Vadim1707 (1:0)<br>
 	8. MadDookie (0:1)<br>
 <br>
-127. #flackstone (1002) 0<br>
+125. #flackstone (1002) 0<br>
 +3<br>
 	5. dIehAppY (0:2)<br>
 	9. Spinne (0:2)<br>
 	10. GooZok (13:15)<br>
 <br>
-128. #BillSPreston (1001) 0<br>
+126. #BillSPreston (1001) 0<br>
 -1<br>
 	5. dIehAppY (8:8)<br>
 	9. Spinne (1:2)<br>
 <br>
-129. #NaCly (1001) 0<br>
+127. #lava_76 (1001) +2<br>
++3|+6|-5|-3|-4|-4|-9|-6|-6|0<br>
+	7. GoOody (3:7)<br>
+	8. MadDookie (3:6)<br>
+<br>
+128. #NaCly (1001) 0<br>
 0<br>
 	5. dIehAppY (3:8)<br>
 	7. GoOody (2:1)<br>
+<br>
+129. #rpk (1001) -2<br>
+-11|-8|-6|-11|-8|-7|-8|-12|-13|-2<br>
+	3. Reclamation- (12:28)<br>
+	5. dIehAppY (6:14)<br>
+	6. Vadim1707 (1:1)<br>
+	7. GoOody (2:10)<br>
+	8. MadDookie (20:31)<br>
+	9. Spinne (59:72)<br>
+	10. GooZok (14:34)<br>
 <br>
 130. #z.snafu (1000) 0<br>
 -24|-18|-13|-11|-21|-18|-10|0|+4|+3<br>
@@ -927,79 +930,74 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (1:0)<br>
 	10. GooZok (1:1)<br>
 <br>
-133. #lava_76 (999) +1<br>
-+1|+4|-7|-5|-6|-6|-11|-8|-8|-2<br>
-	7. GoOody (3:7)<br>
-	8. MadDookie (3:6)<br>
-<br>
-134. #LethalTiger~152 (999) 0<br>
+133. #LethalTiger~152 (999) 0<br>
 <br>
 	5. dIehAppY (3:8)<br>
 	9. Spinne (0:1)<br>
 <br>
-135. #ammoore1028 (998) 0<br>
+134. #ammoore1028 (998) 0<br>
 +13|+6|+1|+3|-11|-9|-7|-9|-1|+3<br>
 	2. zamrai (8:6)<br>
 	5. dIehAppY (3:6)<br>
 	7. GoOody (5:10)<br>
 	9. Spinne (3:11)<br>
 <br>
-136. #smar01 (997) 0<br>
+135. #smar01 (997) 0<br>
 -4<br>
 	2. zamrai (4:6)<br>
 	5. dIehAppY (5:12)<br>
 <br>
-137. #jimboba (997) 0<br>
+136. #jimboba (997) 0<br>
 <br>
 	9. Spinne (4:1)<br>
 <br>
-138. #TimDebJon (996) 0<br>
+137. #TimDebJon (996) 0<br>
 -9|-8|-10|-15|-12|-6|-2<br>
 	2. zamrai (0:2)<br>
 	5. dIehAppY (2:5)<br>
 	7. GoOody (1:0)<br>
 	9. Spinne (6:4)<br>
 <br>
-139. #BadkarmA- (995) 0<br>
+138. #BadkarmA- (995) 0<br>
 <br>
 	5. dIehAppY (3:0)<br>
 <br>
-140. #miomonster (994) +1<br>
-+3|-2<br>
+139. #miomonster (995) +1<br>
++3|-1|0<br>
 	2. zamrai (0:2)<br>
 	3. Reclamation- (0:4)<br>
 	5. dIehAppY (3:3)<br>
 	6. Vadim1707 (3:4)<br>
-	8. MadDookie (2:2)<br>
+	8. MadDookie (3:2)<br>
 	9. Spinne (0:2)<br>
 <br>
-141. #Guacninja (993) -2<br>
--1|+6|0|+2|-7<br>
+140. #Guacninja (992) -1<br>
+-2|+5|-1|+1|-8<br>
 	3. Reclamation- (5:19)<br>
 	6. Vadim1707 (3:4)<br>
 <br>
-142. #Meep (992) 0<br>
+141. #Meep (992) 0<br>
 -9|-1<br>
 	5. dIehAppY (0:6)<br>
 	8. MadDookie (1:1)<br>
 	9. Spinne (6:6)<br>
 	10. GooZok (2:2)<br>
 <br>
-143. #jestitude (991) 0<br>
+142. #jestitude (991) 0<br>
 -2|-4<br>
 	5. dIehAppY (1:1)<br>
 	9. Spinne (3:1)<br>
 <br>
-144. #feltmountain (991) 0<br>
+143. #feltmountain (991) 0<br>
 -4<br>
 	5. dIehAppY (2:9)<br>
 	7. GoOody (3:4)<br>
 <br>
-145. #rayody (990) 0<br>
+144. #rayody (990) 0<br>
 -7|-6|-7<br>
 	5. dIehAppY (5:20)<br>
 <br>
-146. #Vergilious (990) 0<br>
+145. #Vergilious (990) 0<br>
 -4<br>
 	2. zamrai (0:2)<br>
 	3. Reclamation- (0:3)<br>
@@ -1009,12 +1007,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MadDookie (0:1)<br>
 	9. Spinne (3:0)<br>
 <br>
-147. #mr.grey (988) 0<br>
+146. #mr.grey (988) 0<br>
 -1|+7<br>
 	5. dIehAppY (14:14)<br>
 	9. Spinne (0:1)<br>
 <br>
-148. #malarkey (987) 0<br>
+147. #malarkey (987) 0<br>
 -24|-33|-35|-36|-30|-22|-16|-10|-13|-6<br>
 	2. zamrai (10:29)<br>
 	3. Reclamation- (2:3)<br>
@@ -1022,36 +1020,30 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (0:2)<br>
 	10. GooZok (3:4)<br>
 <br>
-149. #jacks0nh0le (987) 0<br>
+148. #jacks0nh0le (987) 0<br>
 -11|0|-2|-3<br>
 	2. zamrai (1:3)<br>
 	5. dIehAppY (3:8)<br>
 	7. GoOody (5:5)<br>
 <br>
-150. #antv2 (987) 0<br>
+149. #antv2 (987) 0<br>
 -6|-5|-2|+2<br>
 	2. zamrai (2:7)<br>
 	3. Reclamation- (0:6)<br>
 	5. dIehAppY (11:11)<br>
 	7. GoOody (0:1)<br>
 <br>
-151. #Alfranny (986) 0<br>
+150. #Alfranny (986) 0<br>
 -2<br>
 	5. dIehAppY (2:1)<br>
 <br>
-152. #LeanWasp~318 (985) 0<br>
--10|-4<br>
-	5. dIehAppY (1:2)<br>
-	7. GoOody (0:1)<br>
-	9. Spinne (1:3)<br>
-<br>
-153. #lello123 (982) 0<br>
+151. #lello123 (982) 0<br>
 -5<br>
 	5. dIehAppY (0:1)<br>
 	8. MadDookie (0:3)<br>
 	9. Spinne (0:1)<br>
 <br>
-154. #Kaborage (981) 0<br>
+152. #Kaborage (981) 0<br>
 -11|-13|-2|-5|-6<br>
 	2. zamrai (0:2)<br>
 	5. dIehAppY (4:4)<br>
@@ -1059,7 +1051,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (1:0)<br>
 	10. GooZok (3:2)<br>
 <br>
-155. #LastTimeLord (978) 0<br>
+153. #LastTimeLord (978) 0<br>
 -28|-30|-27|-33|-24|-26|-17|-11|-5|-3<br>
 	2. zamrai (2:2)<br>
 	3. Reclamation- (0:2)<br>
@@ -1068,13 +1060,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (2:7)<br>
 	10. GooZok (0:1)<br>
 <br>
-156. #hammie (976) 0<br>
+154. #hammie (976) 0<br>
 -17|-14<br>
 	5. dIehAppY (0:1)<br>
 	7. GoOody (1:7)<br>
 	9. Spinne (1:1)<br>
 <br>
-157. #His-Majesty (971) 0<br>
+155. #His-Majesty (971) 0<br>
 -19|-9|0|+3|+7|+1<br>
 	2. zamrai (0:1)<br>
 	3. Reclamation- (0:2)<br>
@@ -1082,22 +1074,21 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (11:26)<br>
 	10. GooZok (3:8)<br>
 <br>
-158. #JEE13US (966) 0<br>
+156. #JEE13US (966) 0<br>
 -23|-14|-9|-3|-4<br>
 <br>
-159. #creaky2 (960) 0<br>
--15|-14|-10|-8|0|-4|-3|-4|-2|-4<br>
+157. #creaky2 (960) -1<br>
+-15|-15|-10|-9|-1|-4|-3|-4|-3|-4<br>
 	5. dIehAppY (6:13)<br>
-	9. Spinne (0:2)<br>
 <br>
-160. #pickynew (958) 0<br>
+158. #pickynew (958) 0<br>
 -11|-10|-8|-7|0|+2|-2|-4|+5|+1<br>
 	2. zamrai (1:6)<br>
 	5. dIehAppY (10:27)<br>
-	9. Spinne (1:2)<br>
+	9. Spinne (1:1)<br>
 	10. GooZok (8:14)<br>
 <br>
-161. #edache22 (940) 0<br>
+159. #edache22 (940) 0<br>
 -30|-29|-20|-27|-16|-19|-24|-11|-4|-3<br>
 	1. sirgrapeLot (0:1)<br>
 	2. zamrai (4:5)<br>
@@ -1105,7 +1096,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (6:25)<br>
 	10. GooZok (0:1)<br>
 <br>
-162. #AlGalcone (933) 0<br>
+160. #AlGalcone (933) 0<br>
 -40|-37|-36|-33|-31|-20|-15|-12|-8|+1<br>
 	2. zamrai (0:2)<br>
 	5. dIehAppY (5:6)<br>
@@ -1115,12 +1106,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Spinne (4:9)<br>
 	10. GooZok (0:1)<br>
 <br>
-163. #sjehsan (932) 0<br>
+161. #sjehsan (932) 0<br>
 -24|-16|+4|+14|+24|+28|+26|+29|+29|+14<br>
 	7. GoOody (3:4)<br>
 	10. GooZok (2:0)<br>
 <br>
-164. #jennygirl (895) -1<br>
+162. #jennygirl (895) 0<br>
 -24|-20|-21|-23|-10|-9|-8|-2|-8|-6<br>
 	3. Reclamation- (0:3)<br>
 	5. dIehAppY (1:4)<br>
