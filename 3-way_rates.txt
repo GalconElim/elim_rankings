@@ -1,762 +1,733 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #GreatApple~214 (1247) +1<br>
-+26|+21|+7|+17|+18|+23|+16|+15|+6|-1<br>
-	2. Vlajs001 (1:1)<br>
-	5. Jarre (1:0)<br>
-	6. Buz (1:0)<br>
-	8. DavidIggyLou (1:1)<br>
-	9. GroovyFlame (0:1)<br>
+1. #PEPrasetya (1249) -2<br>
++8|+4|0|+8|+2|+3|+1|+6|-3|-2<br>
+	2. GreatApple~214 (1:1)<br>
+	5. rickss (1:0)<br>
+	7. Buz (0:1)<br>
+	9. DavidIggyLou (1:2)<br>
+<br>
+2. #GreatApple~214 (1247) 0<br>
++25|+20|+7|+16|+18|+22|+16|+14|+6|-2<br>
+	1. PEPrasetya (1:1)<br>
+	3. Vlajs001 (1:1)<br>
+	6. Jarre (2:1)<br>
+	7. Buz (1:0)<br>
+	9. DavidIggyLou (1:1)<br>
 	10. A-z-sh (5:3)<br>
 <br>
-2. #Vlajs001 (1207) 0<br>
+3. #Vlajs001 (1207) 0<br>
 -2|-1|-2|-2|-4|-5|+7|-3|+4|+3<br>
-	1. GreatApple~214 (1:1)<br>
-	4. rickss (1:0)<br>
-	8. DavidIggyLou (0:1)<br>
+	2. GreatApple~214 (1:1)<br>
+	5. rickss (1:0)<br>
+	9. DavidIggyLou (0:1)<br>
 	10. A-z-sh (1:1)<br>
 <br>
-3. #flagstone (1192) +2<br>
-+14|+14|+13|+6|+5|+4|+2|0|+3|+7<br>
-	8. DavidIggyLou (1:0)<br>
-	9. GroovyFlame (0:2)<br>
+4. #flagstone (1193) 0<br>
++14|+15|+14|+6|+6|+4|+2|0|+4|+7<br>
+	9. DavidIggyLou (1:0)<br>
 	10. A-z-sh (1:0)<br>
 <br>
-4. #rickss (1191) 0<br>
-+89|+84|+71|+56|+44|+30|+22|+13|+5|0<br>
-	2. Vlajs001 (0:1)<br>
-	5. Jarre (1:0)<br>
-	6. Buz (3:2)<br>
-	7. Tiberius88 (1:0)<br>
-	8. DavidIggyLou (2:2)<br>
-	9. GroovyFlame (1:2)<br>
+5. #rickss (1190) -1<br>
++83|+70|+55|+43|+29|+21|+13|+4|-1|-1<br>
+	1. PEPrasetya (0:1)<br>
+	3. Vlajs001 (0:1)<br>
+	6. Jarre (1:0)<br>
+	7. Buz (3:2)<br>
+	8. Tiberius88 (1:0)<br>
+	9. DavidIggyLou (2:2)<br>
 	10. A-z-sh (6:14)<br>
 <br>
-5. #Jarre (1180) +2<br>
-+10|+14|+20|+19|+20|+13|+11|+12|+4|+2<br>
-	1. GreatApple~214 (0:1)<br>
-	4. rickss (0:1)<br>
-	7. Tiberius88 (1:0)<br>
-	9. GroovyFlame (2:0)<br>
+6. #Jarre (1181) 0<br>
++10|+14|+20|+19|+20|+13|+11|+12|+5|+2<br>
+	2. GreatApple~214 (1:2)<br>
+	5. rickss (0:1)<br>
+	8. Tiberius88 (1:0)<br>
 	10. A-z-sh (2:2)<br>
 <br>
-6. #Buz (1174) -1<br>
+7. #Buz (1174) 0<br>
 +32|+33|+27|+24|+20|+13|+8|+4|+2|0<br>
-	1. GreatApple~214 (0:1)<br>
-	4. rickss (2:3)<br>
-	7. Tiberius88 (0:1)<br>
-	8. DavidIggyLou (1:0)<br>
-	9. GroovyFlame (1:1)<br>
+	1. PEPrasetya (1:0)<br>
+	2. GreatApple~214 (0:1)<br>
+	5. rickss (2:3)<br>
+	8. Tiberius88 (0:1)<br>
+	9. DavidIggyLou (1:0)<br>
 	10. A-z-sh (5:5)<br>
 <br>
-7. #Tiberius88 (1173) -1<br>
--14|-13|-3|0|+4|+1|-4|-6|-6|-2<br>
-	4. rickss (0:1)<br>
-	5. Jarre (0:1)<br>
-	6. Buz (1:0)<br>
-	8. DavidIggyLou (0:1)<br>
+8. #Tiberius88 (1173) -1<br>
+-14|-14|-4|-1|+3|+1|-4|-7|-6|-2<br>
+	5. rickss (0:1)<br>
+	6. Jarre (0:1)<br>
+	7. Buz (1:0)<br>
+	9. DavidIggyLou (0:1)<br>
 	10. A-z-sh (2:2)<br>
 <br>
-8. #DavidIggyLou (1169) +4<br>
-+67|+64|+56|+52|+47|+34|+21|+4|+3|0<br>
-	1. GreatApple~214 (1:1)<br>
-	2. Vlajs001 (1:0)<br>
-	3. flagstone (0:1)<br>
-	4. rickss (2:2)<br>
-	6. Buz (0:1)<br>
-	7. Tiberius88 (1:0)<br>
-	9. GroovyFlame (0:1)<br>
+9. #DavidIggyLou (1169) 0<br>
++67|+64|+56|+51|+47|+33|+21|+4|+2|0<br>
+	1. PEPrasetya (2:1)<br>
+	2. GreatApple~214 (1:1)<br>
+	3. Vlajs001 (1:0)<br>
+	4. flagstone (0:1)<br>
+	5. rickss (2:2)<br>
+	7. Buz (0:1)<br>
+	8. Tiberius88 (1:0)<br>
 	10. A-z-sh (1:4)<br>
 <br>
-9. #GroovyFlame (1163) +1<br>
-+104|+81|+72|+56|+35|+21|+12|+10|+9|+5<br>
-	1. GreatApple~214 (1:0)<br>
-	3. flagstone (2:0)<br>
-	4. rickss (2:1)<br>
-	5. Jarre (0:2)<br>
-	6. Buz (1:1)<br>
-	8. DavidIggyLou (1:0)<br>
-	10. A-z-sh (1:0)<br>
+10. #A-z-sh (1169) +8<br>
++9|+14|+10|+13|+4|+8|+8|+2|+9|+6<br>
+	2. GreatApple~214 (3:5)<br>
+	3. Vlajs001 (1:1)<br>
+	4. flagstone (0:1)<br>
+	5. rickss (14:6)<br>
+	6. Jarre (2:2)<br>
+	7. Buz (5:5)<br>
+	8. Tiberius88 (2:2)<br>
+	9. DavidIggyLou (4:1)<br>
 <br>
-10. #A-z-sh (1161) -3<br>
-+1|+6|+2|+5|-4|0|0|-6|+1|-2<br>
-	1. GreatApple~214 (3:5)<br>
-	2. Vlajs001 (1:1)<br>
-	3. flagstone (0:1)<br>
-	4. rickss (14:6)<br>
-	5. Jarre (2:2)<br>
-	6. Buz (5:5)<br>
-	7. Tiberius88 (2:2)<br>
-	8. DavidIggyLou (4:1)<br>
-	9. GroovyFlame (0:1)<br>
-<br>
-11. #MUFSKIN (1156) -3<br>
-+12|+6|+1|-8|-10|-12|-10|-4|-7|0<br>
-	2. Vlajs001 (2:4)<br>
-	5. Jarre (1:3)<br>
-	7. Tiberius88 (3:3)<br>
-	8. DavidIggyLou (0:4)<br>
-	10. A-z-sh (1:0)<br>
-<br>
-12. #goldfinger (1155) -1<br>
-+20|+22|+21|+20|+20|+18|+15|+13|+4|+1<br>
-	1. GreatApple~214 (2:2)<br>
-	3. flagstone (1:2)<br>
-	4. rickss (1:0)<br>
-	5. Jarre (1:2)<br>
-	6. Buz (1:1)<br>
-	7. Tiberius88 (1:3)<br>
-	9. GroovyFlame (3:0)<br>
-	10. A-z-sh (3:0)<br>
-<br>
-13. #arosten (1154) +2<br>
-+37|+34|+31|+27|+20|+15|+18|+12|+8|-1<br>
-	4. rickss (0:2)<br>
-	6. Buz (1:2)<br>
-	7. Tiberius88 (2:0)<br>
-	9. GroovyFlame (1:2)<br>
-	10. A-z-sh (5:2)<br>
-<br>
-14. #UNAGUY05 (1152) +1<br>
--13|-15|-15|-17|-11|+2|+1|-4|+4|+8<br>
-	3. flagstone (0:2)<br>
-	4. rickss (2:3)<br>
-	5. Jarre (0:1)<br>
-	8. DavidIggyLou (1:1)<br>
-	9. GroovyFlame (0:1)<br>
-	10. A-z-sh (1:7)<br>
-<br>
-15. #fifty6 (1150) +1<br>
-+131|+113|+94|+76|+65|+51|+33|+27|+14|+11<br>
-	4. rickss (2:3)<br>
-	6. Buz (1:2)<br>
-	8. DavidIggyLou (2:3)<br>
-	9. GroovyFlame (0:2)<br>
-	10. A-z-sh (1:2)<br>
-<br>
-16. #osa (1144) 0<br>
--6|-12|-7|-9|-9|-3|+1|+1|+3|+2<br>
-	4. rickss (2:0)<br>
-	6. Buz (2:1)<br>
-	10. A-z-sh (1:3)<br>
-<br>
-17. #His-Majesty (1142) -1<br>
-+17|+12|+10|+8|+11|+8|+10|+14|+11|+4<br>
-	1. GreatApple~214 (3:1)<br>
-	2. Vlajs001 (1:7)<br>
-	3. flagstone (1:0)<br>
-	4. rickss (3:9)<br>
-	5. Jarre (1:0)<br>
-	6. Buz (1:0)<br>
-	8. DavidIggyLou (4:5)<br>
-	9. GroovyFlame (2:3)<br>
-	10. A-z-sh (7:17)<br>
-<br>
-18. #Celica (1140) 0<br>
-+1|+4|+3|+2|+3|+9|+8|+2|0|+4<br>
-	4. rickss (1:2)<br>
-	5. Jarre (2:1)<br>
-	6. Buz (2:2)<br>
-	7. Tiberius88 (0:4)<br>
-	8. DavidIggyLou (1:1)<br>
-	9. GroovyFlame (2:0)<br>
-	10. A-z-sh (4:3)<br>
-<br>
-19. #z.snafu (1139) +1<br>
-+26|+22|+16|+7|+4|+8|+10|+3|-1|0<br>
-	1. GreatApple~214 (0:1)<br>
-	3. flagstone (0:1)<br>
-	4. rickss (0:1)<br>
-	7. Tiberius88 (0:1)<br>
-	9. GroovyFlame (1:3)<br>
-	10. A-z-sh (2:14)<br>
-<br>
-20. #hods (1136) +1<br>
-+12|+8|+3|+4|+3|+2|+7|+7|+9|+8<br>
-	1. GreatApple~214 (1:0)<br>
-	2. Vlajs001 (0:1)<br>
-	4. rickss (0:1)<br>
-	5. Jarre (1:5)<br>
-	6. Buz (3:1)<br>
-	8. DavidIggyLou (0:1)<br>
-	9. GroovyFlame (2:2)<br>
-	10. A-z-sh (5:1)<br>
-<br>
-21. #BDAT10 (1135) +1<br>
-+25|+19|+14|+12|+6|+8|+9|-5|-2|+2<br>
-	1. GreatApple~214 (0:1)<br>
-	3. flagstone (0:4)<br>
-	4. rickss (0:2)<br>
-	6. Buz (0:1)<br>
-	7. Tiberius88 (0:1)<br>
-	8. DavidIggyLou (0:2)<br>
-	9. GroovyFlame (2:3)<br>
-	10. A-z-sh (0:3)<br>
-<br>
-22. #dfyyxy (1132) -1<br>
-+14|+14|+8|+11|+7|+2|-4|-1|0|-2<br>
-	1. GreatApple~214 (2:3)<br>
-	3. flagstone (0:3)<br>
-	4. rickss (0:3)<br>
-	7. Tiberius88 (0:4)<br>
-	8. DavidIggyLou (1:1)<br>
-	9. GroovyFlame (1:0)<br>
-	10. A-z-sh (4:1)<br>
-<br>
-23. #FeelThaMode (1128) 0<br>
-+79|+80|+59|+54|+48|+42|+29|+22|+19|+10<br>
-	1. GreatApple~214 (0:1)<br>
-	4. rickss (2:3)<br>
-	5. Jarre (1:0)<br>
-	7. Tiberius88 (0:1)<br>
-	10. A-z-sh (1:1)<br>
-<br>
-24. #TinyOwl~323 (1127) -2<br>
-+9|+7|+1|-2|-4|-7|-8|-2|0|-1<br>
-	1. GreatApple~214 (1:0)<br>
-	4. rickss (3:8)<br>
-	5. Jarre (1:5)<br>
-	6. Buz (1:0)<br>
-	7. Tiberius88 (6:5)<br>
-	8. DavidIggyLou (2:0)<br>
-	9. GroovyFlame (1:4)<br>
-	10. A-z-sh (1:10)<br>
-<br>
-25. #jerocco (1127) -3<br>
-+12|+16|+17|+15|+9|+3|-2|-4|-6|-4<br>
-	1. GreatApple~214 (0:1)<br>
-	2. Vlajs001 (1:2)<br>
-	3. flagstone (1:5)<br>
-	4. rickss (0:2)<br>
-	5. Jarre (4:7)<br>
-	6. Buz (1:1)<br>
-	7. Tiberius88 (4:1)<br>
-	10. A-z-sh (3:5)<br>
-<br>
-26. #aeyinc (1125) 0<br>
--3|+3|-2|-6|-10|-11|-5|-3|-10|+1<br>
-	1. GreatApple~214 (1:3)<br>
-	2. Vlajs001 (0:2)<br>
-	3. flagstone (1:4)<br>
-	4. rickss (1:2)<br>
-	5. Jarre (3:1)<br>
-	6. Buz (3:2)<br>
-	7. Tiberius88 (1:0)<br>
-	8. DavidIggyLou (2:1)<br>
-	10. A-z-sh (0:2)<br>
-<br>
-27. #mrooq.711 (1124) +1<br>
-+106|+88|+74|+59|+42|+33|+24|+12<br>
-	3. flagstone (1:0)<br>
-	4. rickss (1:1)<br>
-	5. Jarre (2:0)<br>
-	6. Buz (2:0)<br>
-	8. DavidIggyLou (0:1)<br>
-	10. A-z-sh (5:1)<br>
-<br>
-28. #skeems (1120) 0<br>
-+50|+37|+25|+19|+16|+14|+12|+11|+7|+3<br>
-	1. GreatApple~214 (2:3)<br>
-	2. Vlajs001 (3:2)<br>
-	3. flagstone (0:1)<br>
-	4. rickss (2:5)<br>
-	5. Jarre (0:1)<br>
-	6. Buz (2:0)<br>
-	8. DavidIggyLou (4:5)<br>
-	9. GroovyFlame (0:2)<br>
-	10. A-z-sh (6:3)<br>
-<br>
-29. #ZenSamurai (1119) +1<br>
-+32|+30|+33|+34|+25|+17|+18|+19|+10|+1<br>
-	4. rickss (1:1)<br>
-	5. Jarre (1:0)<br>
-	7. Tiberius88 (2:1)<br>
-	8. DavidIggyLou (0:1)<br>
-	9. GroovyFlame (2:2)<br>
-	10. A-z-sh (1:1)<br>
-<br>
-30. #eddie6323 (1119) 0<br>
-+92|+78|+71|+57|+49|+43|+29|+22|+15|+4<br>
-	2. Vlajs001 (1:1)<br>
-	4. rickss (0:3)<br>
-	5. Jarre (0:1)<br>
-	7. Tiberius88 (2:0)<br>
-	8. DavidIggyLou (0:1)<br>
+11. #GroovyFlame (1164) +1<br>
++106|+83|+73|+57|+37|+22|+13|+11|+10|+6<br>
+	1. PEPrasetya (1:3)<br>
+	2. GreatApple~214 (1:0)<br>
+	4. flagstone (2:0)<br>
+	5. rickss (1:0)<br>
+	6. Jarre (0:2)<br>
+	7. Buz (1:1)<br>
+	9. DavidIggyLou (1:0)<br>
 	10. A-z-sh (2:1)<br>
 <br>
-31. #storage (1113) +1<br>
-+103|+92|+75|+59|+40|+23|+10|+2<br>
-	2. Vlajs001 (1:1)<br>
-	4. rickss (3:5)<br>
-	6. Buz (2:0)<br>
-	7. Tiberius88 (1:0)<br>
-	8. DavidIggyLou (1:0)<br>
-	10. A-z-sh (3:5)<br>
+12. #Starfleet (1161) +1<br>
++29|+20|+18|+21|+15|+13|+9|+7|+12|+2<br>
+	6. Jarre (0:1)<br>
+	8. Tiberius88 (1:0)<br>
+	9. DavidIggyLou (0:1)<br>
+	10. A-z-sh (4:7)<br>
+<br>
+13. #goldfinger (1157) +3<br>
++23|+25|+24|+23|+22|+21|+18|+15|+6|+4<br>
+	2. GreatApple~214 (2:2)<br>
+	4. flagstone (1:2)<br>
+	5. rickss (1:0)<br>
+	6. Jarre (1:2)<br>
+	7. Buz (1:1)<br>
+	8. Tiberius88 (1:3)<br>
+	10. A-z-sh (4:0)<br>
+<br>
+14. #MUFSKIN (1156) 0<br>
++12|+6|+1|-8|-10|-12|-10|-4|-7|0<br>
+	1. PEPrasetya (0:2)<br>
+	3. Vlajs001 (2:4)<br>
+	6. Jarre (1:3)<br>
+	8. Tiberius88 (3:3)<br>
+	9. DavidIggyLou (0:4)<br>
+	10. A-z-sh (1:0)<br>
+<br>
+15. #arosten (1154) 0<br>
++36|+34|+31|+27|+20|+15|+18|+11|+8|-1<br>
+	5. rickss (0:2)<br>
+	7. Buz (1:2)<br>
+	8. Tiberius88 (2:0)<br>
+	10. A-z-sh (5:2)<br>
+<br>
+16. #UNAGUY05 (1152) 0<br>
+-12|-14|-15|-16|-10|+3|+1|-4|+4|+8<br>
+	4. flagstone (0:2)<br>
+	5. rickss (2:3)<br>
+	6. Jarre (0:1)<br>
+	9. DavidIggyLou (1:1)<br>
+	10. A-z-sh (1:7)<br>
+<br>
+17. #fifty6 (1150) 0<br>
++131|+113|+94|+76|+65|+51|+34|+27|+14|+11<br>
+	1. PEPrasetya (0:2)<br>
+	5. rickss (2:3)<br>
+	7. Buz (1:2)<br>
+	9. DavidIggyLou (2:3)<br>
+	10. A-z-sh (1:2)<br>
+<br>
+18. #Celica (1142) +2<br>
++3|+6|+5|+4|+5|+12|+10|+4|+2|+6<br>
+	5. rickss (1:2)<br>
+	6. Jarre (2:1)<br>
+	7. Buz (2:2)<br>
+	8. Tiberius88 (1:4)<br>
+	9. DavidIggyLou (1:1)<br>
+	10. A-z-sh (5:3)<br>
+<br>
+19. #z.snafu (1139) 0<br>
++25|+22|+16|+6|+4|+8|+10|+3|-1|0<br>
+	1. PEPrasetya (1:1)<br>
+	2. GreatApple~214 (0:1)<br>
+	4. flagstone (0:1)<br>
+	5. rickss (0:1)<br>
+	8. Tiberius88 (0:1)<br>
+	10. A-z-sh (3:16)<br>
+<br>
+20. #His-Majesty (1137) -5<br>
++7|+5|+3|+6|+3|+5|+9|+6|-1|-3<br>
+	1. PEPrasetya (0:3)<br>
+	2. GreatApple~214 (3:1)<br>
+	3. Vlajs001 (1:7)<br>
+	4. flagstone (1:0)<br>
+	5. rickss (1:7)<br>
+	6. Jarre (1:0)<br>
+	9. DavidIggyLou (4:5)<br>
+	10. A-z-sh (7:17)<br>
+<br>
+21. #hods (1136) 0<br>
++11|+8|+2|+4|+3|+1|+6|+6|+8|+8<br>
+	2. GreatApple~214 (1:0)<br>
+	3. Vlajs001 (0:1)<br>
+	6. Jarre (1:5)<br>
+	7. Buz (3:1)<br>
+	9. DavidIggyLou (0:1)<br>
+	10. A-z-sh (5:1)<br>
+<br>
+22. #BDAT10 (1133) -1<br>
++23|+18|+13|+11|+5|+7|+8|-6|-3|+1<br>
+	2. GreatApple~214 (0:1)<br>
+	4. flagstone (0:4)<br>
+	5. rickss (0:2)<br>
+	7. Buz (0:1)<br>
+	8. Tiberius88 (0:1)<br>
+	9. DavidIggyLou (0:2)<br>
+	10. A-z-sh (0:3)<br>
+<br>
+23. #dfyyxy (1132) 0<br>
++14|+14|+8|+11|+7|+2|-4|-1|0|-2<br>
+	2. GreatApple~214 (2:3)<br>
+	4. flagstone (0:3)<br>
+	5. rickss (0:3)<br>
+	8. Tiberius88 (0:4)<br>
+	9. DavidIggyLou (1:1)<br>
+	10. A-z-sh (4:1)<br>
+<br>
+24. #FeelThaMode (1129) +1<br>
++80|+81|+60|+54|+49|+42|+30|+22|+20|+11<br>
+	1. PEPrasetya (0:1)<br>
+	2. GreatApple~214 (0:1)<br>
+	5. rickss (2:3)<br>
+	6. Jarre (1:0)<br>
+	8. Tiberius88 (0:1)<br>
+	10. A-z-sh (1:1)<br>
+<br>
+25. #aeyinc (1128) +2<br>
+-1|+5|0|-4|-8|-9|-3|0|-8|+4<br>
+	2. GreatApple~214 (1:3)<br>
+	3. Vlajs001 (0:2)<br>
+	4. flagstone (1:4)<br>
+	5. rickss (1:2)<br>
+	6. Jarre (3:1)<br>
+	7. Buz (3:2)<br>
+	8. Tiberius88 (1:0)<br>
+	9. DavidIggyLou (2:1)<br>
+	10. A-z-sh (0:2)<br>
+<br>
+26. #TinyOwl~323 (1127) 0<br>
++8|+7|0|-2|-4|-7|-8|-2|0|-2<br>
+	5. rickss (3:8)<br>
+	6. Jarre (1:5)<br>
+	7. Buz (1:0)<br>
+	8. Tiberius88 (6:5)<br>
+	9. DavidIggyLou (2:0)<br>
+	10. A-z-sh (2:14)<br>
+<br>
+27. #jerocco (1125) -2<br>
++9|+14|+15|+12|+6|0|-4|-7|-8|-7<br>
+	2. GreatApple~214 (0:1)<br>
+	3. Vlajs001 (1:2)<br>
+	4. flagstone (1:5)<br>
+	5. rickss (0:2)<br>
+	6. Jarre (4:7)<br>
+	7. Buz (1:1)<br>
+	8. Tiberius88 (4:1)<br>
+	10. A-z-sh (3:7)<br>
+<br>
+28. #mrooq.711 (1123) -1<br>
++105|+87|+73|+58|+42|+32|+23|+11|0<br>
+	4. flagstone (1:0)<br>
+	5. rickss (1:1)<br>
+	6. Jarre (1:0)<br>
+	7. Buz (2:0)<br>
+	9. DavidIggyLou (0:1)<br>
+	10. A-z-sh (5:1)<br>
+<br>
+29. #skeems (1121) +2<br>
++52|+38|+27|+20|+18|+16|+14|+13|+9|+5<br>
+	2. GreatApple~214 (2:3)<br>
+	3. Vlajs001 (3:2)<br>
+	4. flagstone (0:1)<br>
+	5. rickss (2:5)<br>
+	6. Jarre (0:1)<br>
+	7. Buz (2:0)<br>
+	9. DavidIggyLou (6:5)<br>
+	10. A-z-sh (6:3)<br>
+<br>
+30. #ZenSamurai (1120) +1<br>
++32|+30|+33|+34|+26|+18|+18|+20|+11|+1<br>
+	1. PEPrasetya (1:3)<br>
+	5. rickss (1:1)<br>
+	6. Jarre (1:0)<br>
+	8. Tiberius88 (2:1)<br>
+	9. DavidIggyLou (0:1)<br>
+	10. A-z-sh (1:1)<br>
+<br>
+31. #SmotPoker (1113) +1<br>
++52|+51|+43|+39|+37|+38|+37|+33|+21|+6<br>
+	2. GreatApple~214 (1:0)<br>
+	4. flagstone (1:0)<br>
+	5. rickss (1:2)<br>
+	6. Jarre (1:0)<br>
+	9. DavidIggyLou (1:0)<br>
+	10. A-z-sh (3:4)<br>
 <br>
 32. #nurglingde (1113) 0<br>
-+47|+41|+35|+24|+17|+22|+20|+14|+5|+2<br>
-	1. GreatApple~214 (0:1)<br>
-	4. rickss (0:2)<br>
-	5. Jarre (0:2)<br>
-	7. Tiberius88 (5:3)<br>
-	8. DavidIggyLou (3:1)<br>
-	9. GroovyFlame (0:1)<br>
++47|+41|+36|+24|+17|+22|+20|+14|+5|+2<br>
+	1. PEPrasetya (0:1)<br>
+	2. GreatApple~214 (0:1)<br>
+	5. rickss (0:2)<br>
+	6. Jarre (0:2)<br>
+	8. Tiberius88 (5:3)<br>
+	9. DavidIggyLou (3:1)<br>
 	10. A-z-sh (2:2)<br>
 <br>
-33. #SmotPoker (1112) +2<br>
-+51|+50|+42|+38|+36|+37|+36|+32|+20|+5<br>
-	4. rickss (1:2)<br>
-	5. Jarre (1:0)<br>
-	8. DavidIggyLou (1:0)<br>
-	9. GroovyFlame (1:1)<br>
-	10. A-z-sh (3:4)<br>
+33. #storage (1112) -1<br>
++102|+91|+74|+58|+39|+22|+9|+2<br>
+	3. Vlajs001 (1:1)<br>
+	5. rickss (3:5)<br>
+	7. Buz (2:0)<br>
+	8. Tiberius88 (1:0)<br>
+	9. DavidIggyLou (1:0)<br>
+	10. A-z-sh (3:5)<br>
 <br>
 34. #moonrocks (1112) 0<br>
 +16|+12|+11|+8|+9|+1|-1|0|0|+2<br>
-	4. rickss (0:5)<br>
-	5. Jarre (0:5)<br>
-	8. DavidIggyLou (1:0)<br>
-	9. GroovyFlame (1:0)<br>
+	1. PEPrasetya (0:4)<br>
+	5. rickss (0:5)<br>
+	6. Jarre (0:5)<br>
+	9. DavidIggyLou (1:0)<br>
 	10. A-z-sh (1:3)<br>
 <br>
 35. #farzip (1109) 0<br>
-+19|+18|+18|+15|+16|+13|+6|-3|-5|0<br>
-	1. GreatApple~214 (1:2)<br>
-	5. Jarre (0:2)<br>
-	6. Buz (1:1)<br>
-	7. Tiberius88 (1:1)<br>
-	9. GroovyFlame (0:2)<br>
-	10. A-z-sh (5:3)<br>
++19|+18|+18|+15|+16|+12|+6|-3|-5|0<br>
+	2. GreatApple~214 (1:2)<br>
+	6. Jarre (0:1)<br>
+	7. Buz (1:1)<br>
+	8. Tiberius88 (1:1)<br>
+	10. A-z-sh (5:4)<br>
 <br>
-36. #Milky007 (1104) +1<br>
-+94|+75|+51|+39|+26|+17|+4<br>
-	1. GreatApple~214 (0:4)<br>
-	2. Vlajs001 (1:1)<br>
-	3. flagstone (0:1)<br>
-	4. rickss (3:2)<br>
-	5. Jarre (0:2)<br>
-	8. DavidIggyLou (4:2)<br>
-	9. GroovyFlame (0:2)<br>
+36. #Milky007 (1104) 0<br>
++94|+74|+51|+39|+25|+17|+4<br>
+	1. PEPrasetya (2:0)<br>
+	2. GreatApple~214 (0:4)<br>
+	3. Vlajs001 (1:1)<br>
+	4. flagstone (0:1)<br>
+	5. rickss (3:2)<br>
+	6. Jarre (0:2)<br>
+	9. DavidIggyLou (1:1)<br>
 	10. A-z-sh (1:1)<br>
 <br>
-37. #turkeytower (1103) +1<br>
-+6|+7|+8|+14|+21|+13|+10|+5|+8|+1<br>
-	2. Vlajs001 (2:2)<br>
-	3. flagstone (0:3)<br>
-	4. rickss (0:2)<br>
-	6. Buz (0:1)<br>
-	7. Tiberius88 (1:2)<br>
-	8. DavidIggyLou (0:1)<br>
-	9. GroovyFlame (1:0)<br>
+37. #turkeytower (1103) 0<br>
++6|+7|+7|+14|+20|+13|+9|+5|+7|+1<br>
+	1. PEPrasetya (0:3)<br>
+	3. Vlajs001 (2:2)<br>
+	4. flagstone (0:3)<br>
+	5. rickss (0:2)<br>
+	7. Buz (0:1)<br>
+	8. Tiberius88 (1:2)<br>
+	9. DavidIggyLou (0:1)<br>
 	10. A-z-sh (3:3)<br>
 <br>
-38. #mahone007 (1095) +2<br>
+38. #mahone007 (1095) 0<br>
 -21|-18|-17|-12|-3|-7|-4|-8|-7|-2<br>
-	1. GreatApple~214 (0:1)<br>
-	4. rickss (0:1)<br>
-	5. Jarre (6:8)<br>
-	6. Buz (2:2)<br>
-	8. DavidIggyLou (0:5)<br>
+	1. PEPrasetya (1:2)<br>
+	2. GreatApple~214 (0:1)<br>
+	4. flagstone (0:1)<br>
+	5. rickss (0:1)<br>
+	6. Jarre (6:8)<br>
+	7. Buz (2:2)<br>
+	9. DavidIggyLou (0:5)<br>
 	10. A-z-sh (2:2)<br>
 <br>
 39. #thereason (1095) 0<br>
 +47|+36|+35|+35|+26|+17|+11|+7|+7|+1<br>
-	1. GreatApple~214 (0:3)<br>
-	2. Vlajs001 (1:0)<br>
-	4. rickss (1:1)<br>
-	6. Buz (2:1)<br>
-	8. DavidIggyLou (2:2)<br>
-	9. GroovyFlame (0:2)<br>
+	1. PEPrasetya (0:2)<br>
+	2. GreatApple~214 (0:3)<br>
+	3. Vlajs001 (1:0)<br>
+	5. rickss (1:1)<br>
+	7. Buz (2:1)<br>
+	9. DavidIggyLou (2:2)<br>
 <br>
-40. #CozyRam~944 (1094) 0<br>
-+92|+88|+72|+62|+50|+29|+17|+6<br>
-	3. flagstone (0:3)<br>
-	4. rickss (0:2)<br>
-	5. Jarre (1:0)<br>
-	7. Tiberius88 (0:1)<br>
-	10. A-z-sh (0:2)<br>
-<br>
-41. #TheNorwegian (1093) +2<br>
-+77|+70|+59|+53|+42|+30|+19|+9|+3<br>
-	3. flagstone (3:2)<br>
-	6. Buz (0:1)<br>
-	7. Tiberius88 (3:2)<br>
-	9. GroovyFlame (0:1)<br>
+40. #smurfa (1094) +1<br>
++28|+19|+23|+24|+31|+15|+17|+13|+7|+1<br>
+	4. flagstone (2:1)<br>
+	5. rickss (0:5)<br>
+	6. Jarre (0:1)<br>
+	7. Buz (1:2)<br>
+	8. Tiberius88 (2:1)<br>
+	9. DavidIggyLou (0:1)<br>
 	10. A-z-sh (2:1)<br>
 <br>
-42. #smurfa (1093) 0<br>
-+27|+18|+23|+23|+30|+14|+16|+13|+7|0<br>
-	3. flagstone (2:1)<br>
-	4. rickss (0:5)<br>
-	5. Jarre (0:1)<br>
-	6. Buz (1:2)<br>
-	7. Tiberius88 (2:1)<br>
-	8. DavidIggyLou (0:1)<br>
-	10. A-z-sh (2:1)<br>
+41. #stront01 (1093) +1<br>
++82|+74|+60|+41|+31|+27|+16|+6<br>
+	5. rickss (2:4)<br>
+	6. Jarre (3:0)<br>
+	8. Tiberius88 (0:3)<br>
+	10. A-z-sh (5:5)<br>
 <br>
-43. #stront01 (1092) 0<br>
-+81|+73|+59|+40|+29|+26|+15|+4<br>
-	4. rickss (2:4)<br>
-	5. Jarre (3:0)<br>
-	7. Tiberius88 (0:2)<br>
-	10. A-z-sh (5:4)<br>
+42. #TheNorwegian (1093) 0<br>
++77|+70|+59|+53|+41|+30|+19|+9|+3<br>
+	1. PEPrasetya (0:1)<br>
+	4. flagstone (3:2)<br>
+	8. Tiberius88 (3:2)<br>
+	10. A-z-sh (2:2)<br>
 <br>
-44. #somepatzer (1092) 0<br>
+43. #somepatzer (1092) 0<br>
 +74|+52|+35|+25|+15|-2<br>
-	1. GreatApple~214 (0:1)<br>
-	2. Vlajs001 (1:0)<br>
-	3. flagstone (1:1)<br>
-	4. rickss (0:1)<br>
-	6. Buz (2:1)<br>
-	8. DavidIggyLou (0:1)<br>
+	3. Vlajs001 (1:0)<br>
+	4. flagstone (1:1)<br>
+	5. rickss (0:1)<br>
+	7. Buz (2:1)<br>
+	9. DavidIggyLou (0:1)<br>
 	10. A-z-sh (0:1)<br>
 <br>
-45. #Symsymmy (1090) +4<br>
-+78|+67|+48|+36|+18|+9<br>
-	2. Vlajs001 (2:2)<br>
-	4. rickss (1:3)<br>
-	8. DavidIggyLou (1:1)<br>
-	9. GroovyFlame (1:1)<br>
-	10. A-z-sh (10:5)<br>
+44. #Kaborage (1091) +3<br>
++81|+56|+36|+17<br>
+	1. PEPrasetya (1:0)<br>
+	5. rickss (1:5)<br>
+	6. Jarre (4:3)<br>
+	7. Buz (0:1)<br>
+	9. DavidIggyLou (2:1)<br>
+	10. A-z-sh (13:10)<br>
 <br>
-46. #Kaborage (1087) +4<br>
-+78|+52|+32|+13<br>
-	4. rickss (1:5)<br>
-	5. Jarre (4:3)<br>
-	6. Buz (0:1)<br>
-	8. DavidIggyLou (2:1)<br>
+45. #Symsymmy (1089) -1<br>
++77|+66|+48|+35|+17|+8<br>
+	3. Vlajs001 (2:2)<br>
+	5. rickss (1:3)<br>
+	9. DavidIggyLou (1:1)<br>
 	10. A-z-sh (9:6)<br>
 <br>
-47. #dIehAppY (1086) 0<br>
-+76|+65|+55|+44|+29|+23|+14|+3|+3<br>
-	4. rickss (0:1)<br>
-	8. DavidIggyLou (1:1)<br>
-	9. GroovyFlame (0:1)<br>
+46. #KimJong (1087) +2<br>
++81|+65|+54|+44|+36|+30|+14|+3|+4<br>
+	1. PEPrasetya (4:3)<br>
+	2. GreatApple~214 (4:3)<br>
+	3. Vlajs001 (0:4)<br>
+	4. flagstone (0:1)<br>
+	5. rickss (0:5)<br>
+	7. Buz (0:1)<br>
+	9. DavidIggyLou (1:0)<br>
+	10. A-z-sh (1:2)<br>
+<br>
+47. #dIehAppY (1086) -1<br>
++75|+64|+54|+44|+29|+22|+13|+2|+3<br>
+	1. PEPrasetya (1:0)<br>
+	5. rickss (0:1)<br>
+	9. DavidIggyLou (1:1)<br>
 	10. A-z-sh (2:1)<br>
 <br>
 48. #onz2 (1085) 0<br>
 +67|+55|+38|+29|+19|+3<br>
-	1. GreatApple~214 (2:3)<br>
-	4. rickss (1:7)<br>
-	5. Jarre (0:1)<br>
-	6. Buz (2:1)<br>
-	8. DavidIggyLou (1:1)<br>
+	2. GreatApple~214 (1:1)<br>
+	6. Jarre (0:1)<br>
+	7. Buz (2:1)<br>
+	9. DavidIggyLou (1:1)<br>
 	10. A-z-sh (3:1)<br>
 <br>
-49. #KimJong (1085) 0<br>
-+79|+63|+52|+42|+34|+28|+12|+1|+2<br>
-	1. GreatApple~214 (4:3)<br>
-	2. Vlajs001 (0:4)<br>
-	3. flagstone (0:1)<br>
-	4. rickss (0:5)<br>
-	6. Buz (0:1)<br>
-	8. DavidIggyLou (1:0)<br>
+49. #Yamamoto79 (1076) +1<br>
++51|+27|+11<br>
+	2. GreatApple~214 (1:2)<br>
+	4. flagstone (1:0)<br>
+	5. rickss (2:3)<br>
+	6. Jarre (0:2)<br>
+	7. Buz (2:1)<br>
+	8. Tiberius88 (3:1)<br>
+	9. DavidIggyLou (3:0)<br>
+	10. A-z-sh (16:3)<br>
+<br>
+50. #archiz (1073) +1<br>
++42|+34|+29|+27|+23|+12|+8|+11|+9|+1<br>
+	1. PEPrasetya (0:1)<br>
+	2. GreatApple~214 (1:6)<br>
+	4. flagstone (2:4)<br>
+	5. rickss (1:1)<br>
+	6. Jarre (0:1)<br>
+	8. Tiberius88 (1:3)<br>
 	10. A-z-sh (1:2)<br>
 <br>
-50. #Yamamoto79 (1075) +2<br>
-+50|+26|+10<br>
-	1. GreatApple~214 (1:2)<br>
-	3. flagstone (1:0)<br>
-	4. rickss (2:3)<br>
-	5. Jarre (0:3)<br>
-	6. Buz (2:1)<br>
-	7. Tiberius88 (3:1)<br>
-	8. DavidIggyLou (3:0)<br>
-	9. GroovyFlame (1:0)<br>
-	10. A-z-sh (15:2)<br>
-<br>
-51. #archiz (1072) 0<br>
-+41|+33|+28|+27|+22|+11|+7|+11|+8|+1<br>
-	1. GreatApple~214 (1:6)<br>
-	3. flagstone (2:4)<br>
-	4. rickss (1:1)<br>
-	5. Jarre (0:1)<br>
-	7. Tiberius88 (1:3)<br>
-	9. GroovyFlame (0:2)<br>
-	10. A-z-sh (1:2)<br>
-<br>
-52. #BadButter~266 (1069) +1<br>
-+56|+46|+35|+26|+24|+15|+6|+3<br>
-	1. GreatApple~214 (1:1)<br>
-	2. Vlajs001 (1:1)<br>
-	5. Jarre (1:0)<br>
-	6. Buz (1:0)<br>
-	7. Tiberius88 (3:2)<br>
-	9. GroovyFlame (1:1)<br>
+51. #BadButter~266 (1072) +3<br>
++59|+49|+38|+29|+27|+18|+9|+6|0<br>
+	1. PEPrasetya (4:2)<br>
+	2. GreatApple~214 (1:1)<br>
+	3. Vlajs001 (1:1)<br>
+	7. Buz (1:0)<br>
+	8. Tiberius88 (5:5)<br>
 	10. A-z-sh (2:0)<br>
 <br>
-53. #smart_boy24 (1068) 0<br>
-+66|+60|+51|+34|+29|+7<br>
-	2. Vlajs001 (0:1)<br>
-	4. rickss (0:5)<br>
-	5. Jarre (1:1)<br>
-	6. Buz (2:2)<br>
-	7. Tiberius88 (0:1)<br>
-	9. GroovyFlame (2:0)<br>
+52. #smart_boy24 (1070) +2<br>
++68|+61|+53|+36|+31|+9|0<br>
+	3. Vlajs001 (0:1)<br>
+	5. rickss (0:3)<br>
+	6. Jarre (1:1)<br>
+	7. Buz (1:2)<br>
+	8. Tiberius88 (0:1)<br>
 	10. A-z-sh (5:3)<br>
 <br>
-54. #the-jk (1067) 0<br>
+53. #the-jk (1067) 0<br>
 +48|+32|+24|+11|+2<br>
-	1. GreatApple~214 (0:3)<br>
-	3. flagstone (2:3)<br>
-	4. rickss (2:2)<br>
-	6. Buz (0:1)<br>
-	7. Tiberius88 (1:2)<br>
-	8. DavidIggyLou (1:2)<br>
-	10. A-z-sh (1:3)<br>
+	2. GreatApple~214 (0:3)<br>
+	4. flagstone (2:3)<br>
+	5. rickss (2:2)<br>
+	7. Buz (0:1)<br>
+	8. Tiberius88 (1:2)<br>
+	9. DavidIggyLou (1:2)<br>
+	10. A-z-sh (1:5)<br>
 <br>
-55. #FeistyTea~555 (1062) -1<br>
-+46|+39|+24|+13|+1<br>
-	2. Vlajs001 (4:7)<br>
-	4. rickss (1:8)<br>
-	5. Jarre (1:1)<br>
-	6. Buz (1:4)<br>
-	8. DavidIggyLou (0:1)<br>
-	9. GroovyFlame (0:1)<br>
-	10. A-z-sh (3:6)<br>
-<br>
-56. #flames20 (1059) +2<br>
-+49|+38|+27|+23|+7<br>
-	4. rickss (0:1)<br>
-	5. Jarre (0:1)<br>
-	6. Buz (1:0)<br>
-	7. Tiberius88 (1:2)<br>
-	10. A-z-sh (20:17)<br>
-<br>
-57. #u6o_Hexyu (1055) 0<br>
-+59|+42|+30|+30|+17|+7|+2<br>
-	3. flagstone (1:3)<br>
-	4. rickss (2:1)<br>
-	5. Jarre (2:1)<br>
-	6. Buz (2:0)<br>
-	7. Tiberius88 (1:1)<br>
-	8. DavidIggyLou (1:2)<br>
-	10. A-z-sh (4:15)<br>
-<br>
-58. #FreshKettle~130 (1055) 0<br>
-+47|+36|+28|+24|+9|+9|+6|-1<br>
-	3. flagstone (1:0)<br>
-	6. Buz (0:1)<br>
-	10. A-z-sh (3:4)<br>
-<br>
-59. #destruct098 (1054) 0<br>
-+40|+25|+17|+13|+5<br>
-	2. Vlajs001 (2:2)<br>
-	3. flagstone (0:1)<br>
-	7. Tiberius88 (1:8)<br>
-	10. A-z-sh (1:3)<br>
-<br>
-60. #Gungala (1051) -1<br>
-+39|+35|+28|+19|+14|+15|+10|+2|+1|0<br>
-	1. GreatApple~214 (0:3)<br>
-	3. flagstone (1:2)<br>
-	4. rickss (2:1)<br>
-	5. Jarre (3:2)<br>
-	7. Tiberius88 (0:1)<br>
-	9. GroovyFlame (0:1)<br>
-	10. A-z-sh (0:2)<br>
-<br>
-61. #jewking (1050) 0<br>
-+52|+41|+30|+14|+4<br>
-	1. GreatApple~214 (1:3)<br>
-	4. rickss (1:5)<br>
-	5. Jarre (0:1)<br>
-	6. Buz (1:1)<br>
-	7. Tiberius88 (2:0)<br>
-	8. DavidIggyLou (1:0)<br>
-	10. A-z-sh (2:3)<br>
-<br>
-62. #BillY_Patro (1047) 0<br>
-+35|+25|+14|+7<br>
-	1. GreatApple~214 (0:2)<br>
-	2. Vlajs001 (1:0)<br>
-	3. flagstone (1:3)<br>
-	5. Jarre (0:5)<br>
-	7. Tiberius88 (2:1)<br>
-	8. DavidIggyLou (1:5)<br>
-	10. A-z-sh (11:21)<br>
-<br>
-63. #FlatMusic~785 (1047) 0<br>
-+14|+13|+13|+18|+18|+16|+16|+11|+6|0<br>
-	6. Buz (0:3)<br>
-	7. Tiberius88 (1:5)<br>
-	8. DavidIggyLou (0:2)<br>
-<br>
-64. #maultier2 (1046) 0<br>
-+25|+1<br>
-	3. flagstone (0:1)<br>
-	4. rickss (1:3)<br>
-	5. Jarre (0:1)<br>
-	6. Buz (0:1)<br>
-	8. DavidIggyLou (1:1)<br>
-	9. GroovyFlame (1:1)<br>
-	10. A-z-sh (3:5)<br>
-<br>
-65. #Dangit (1043) +1<br>
-+44|+42|+36|+29|+30|+11<br>
-	2. Vlajs001 (1:0)<br>
-	4. rickss (1:1)<br>
-	5. Jarre (1:0)<br>
-	6. Buz (0:1)<br>
-	8. DavidIggyLou (1:0)<br>
-	10. A-z-sh (5:2)<br>
-<br>
-66. #nil (1034) -1<br>
-+25|+6<br>
-	3. flagstone (1:0)<br>
-	4. rickss (2:3)<br>
-	6. Buz (2:1)<br>
-	7. Tiberius88 (4:2)<br>
-	10. A-z-sh (2:2)<br>
-<br>
-67. #Khalifah (1033) 0<br>
-+34|+21|+14|+5|+2<br>
-	5. Jarre (1:1)<br>
-	7. Tiberius88 (2:3)<br>
-	9. GroovyFlame (0:2)<br>
-	10. A-z-sh (1:3)<br>
-<br>
-68. #the_chemodan (1033) -2<br>
-+25|+18|+16|+2<br>
-	2. Vlajs001 (1:0)<br>
-	4. rickss (2:4)<br>
-	5. Jarre (1:2)<br>
-	8. DavidIggyLou (0:1)<br>
-	9. GroovyFlame (1:1)<br>
-	10. A-z-sh (4:4)<br>
-<br>
-69. #AMRAP (1032) +1<br>
-+17|+15|+7|+2<br>
-	3. flagstone (2:1)<br>
-	7. Tiberius88 (2:0)<br>
-	8. DavidIggyLou (1:2)<br>
-	10. A-z-sh (0:3)<br>
-<br>
-70. #Cognito (1030) -1<br>
-+15<br>
-	2. Vlajs001 (0:1)<br>
-	4. rickss (1:0)<br>
-	6. Buz (0:1)<br>
-	7. Tiberius88 (0:1)<br>
-	8. DavidIggyLou (1:1)<br>
-	9. GroovyFlame (2:1)<br>
+54. #FeistyTea~555 (1060) -2<br>
++44|+37|+22|+11|-2<br>
+	3. Vlajs001 (4:7)<br>
+	5. rickss (1:8)<br>
+	6. Jarre (1:1)<br>
+	7. Buz (1:4)<br>
+	9. DavidIggyLou (0:1)<br>
 	10. A-z-sh (2:5)<br>
 <br>
-71. #WiryFox~219 (1029) 0<br>
-+24|+12|+10|+9|+4|+6<br>
-	3. flagstone (1:3)<br>
-	4. rickss (0:4)<br>
-	6. Buz (0:1)<br>
-	7. Tiberius88 (4:6)<br>
-	8. DavidIggyLou (0:1)<br>
+55. #flames20 (1059) -1<br>
++49|+37|+27|+22|+6<br>
+	6. Jarre (0:1)<br>
+	7. Buz (1:0)<br>
+	8. Tiberius88 (1:2)<br>
+	10. A-z-sh (21:20)<br>
+<br>
+56. #u6o_Hexyu (1055) 0<br>
++59|+42|+30|+30|+17|+7|+2<br>
+	4. flagstone (1:3)<br>
+	5. rickss (2:1)<br>
+	6. Jarre (2:1)<br>
+	7. Buz (2:0)<br>
+	8. Tiberius88 (1:1)<br>
+	9. DavidIggyLou (1:2)<br>
+	10. A-z-sh (4:15)<br>
+<br>
+57. #FreshKettle~130 (1055) 0<br>
++47|+36|+28|+24|+9|+9|+6|-1<br>
+	4. flagstone (1:0)<br>
+	7. Buz (0:1)<br>
+	10. A-z-sh (3:4)<br>
+<br>
+58. #destruct098 (1054) 0<br>
++40|+25|+17|+13|+5<br>
+	3. Vlajs001 (2:2)<br>
+	4. flagstone (0:1)<br>
+	8. Tiberius88 (1:8)<br>
+	10. A-z-sh (1:3)<br>
+<br>
+59. #jewking (1052) +3<br>
++54|+44|+33|+16|+7<br>
+	1. PEPrasetya (0:1)<br>
+	2. GreatApple~214 (1:3)<br>
+	5. rickss (1:5)<br>
+	6. Jarre (0:1)<br>
+	7. Buz (1:1)<br>
+	8. Tiberius88 (1:0)<br>
+	9. DavidIggyLou (1:0)<br>
 	10. A-z-sh (2:3)<br>
 <br>
-72. #shadybiz (1024) 0<br>
-+23|+12|+8|+2<br>
-	3. flagstone (0:1)<br>
-	4. rickss (0:1)<br>
-	5. Jarre (0:1)<br>
-	7. Tiberius88 (1:2)<br>
-	9. GroovyFlame (2:1)<br>
-<br>
-73. #BraveShovel~508 (1019) +4<br>
-+9|+3<br>
-	3. flagstone (1:0)<br>
-	5. Jarre (0:1)<br>
-	7. Tiberius88 (0:1)<br>
-	8. DavidIggyLou (0:2)<br>
-	9. GroovyFlame (1:2)<br>
-<br>
-74. #G4m3R34p3r (1016) 0<br>
-+5|+1<br>
-	2. Vlajs001 (0:1)<br>
-	4. rickss (1:2)<br>
-	6. Buz (1:2)<br>
-	10. A-z-sh (3:9)<br>
-<br>
-75. #bmwitt1234 (1013) 0<br>
-+3|0<br>
-	2. Vlajs001 (1:1)<br>
-	4. rickss (0:1)<br>
-	6. Buz (1:0)<br>
-	8. DavidIggyLou (1:0)<br>
-<br>
-76. #Star69lord (1013) 0<br>
-+18|+18|+5|0<br>
-	2. Vlajs001 (1:6)<br>
-	4. rickss (0:3)<br>
-	5. Jarre (1:2)<br>
-	7. Tiberius88 (0:2)<br>
-	8. DavidIggyLou (0:1)<br>
-	10. A-z-sh (0:1)<br>
-<br>
-77. #scabz (1012) -1<br>
-+11|-1<br>
-	3. flagstone (0:1)<br>
-	4. rickss (1:5)<br>
-	5. Jarre (1:0)<br>
-	7. Tiberius88 (4:6)<br>
-	10. A-z-sh (0:1)<br>
-<br>
-78. #TidyFox~415 (1010) +1<br>
-+6|+2<br>
-	2. Vlajs001 (0:1)<br>
-	5. Jarre (0:1)<br>
-	7. Tiberius88 (0:3)<br>
-	8. DavidIggyLou (0:1)<br>
-	9. GroovyFlame (1:3)<br>
-<br>
-79. #cswhaha (1010) 0<br>
-+10|+12|+16|+12|+3<br>
-	2. Vlajs001 (2:0)<br>
-	3. flagstone (1:0)<br>
-	4. rickss (3:6)<br>
-	5. Jarre (2:15)<br>
-	6. Buz (0:5)<br>
-	8. DavidIggyLou (1:1)<br>
-	10. A-z-sh (2:8)<br>
-<br>
-80. #LittleClove~834 (1010) 0<br>
-+11|+16|+13|+2<br>
-	1. GreatApple~214 (0:2)<br>
-	2. Vlajs001 (1:1)<br>
-	3. flagstone (1:2)<br>
-	4. rickss (0:4)<br>
-	5. Jarre (0:2)<br>
-	7. Tiberius88 (0:7)<br>
+60. #Gungala (1051) 0<br>
++38|+35|+28|+19|+14|+15|+10|+2|+1|0<br>
+	2. GreatApple~214 (0:3)<br>
+	4. flagstone (1:2)<br>
+	5. rickss (2:1)<br>
+	6. Jarre (3:2)<br>
+	8. Tiberius88 (0:1)<br>
 	10. A-z-sh (0:3)<br>
 <br>
-81. #LightRice~866 (1009) 0<br>
-+1<br>
-	1. GreatApple~214 (0:1)<br>
-	4. rickss (0:1)<br>
-	9. GroovyFlame (1:4)<br>
+61. #FlatMusic~785 (1048) +1<br>
++15|+14|+14|+19|+19|+16|+16|+12|+6|0<br>
+	7. Buz (0:3)<br>
+	8. Tiberius88 (1:5)<br>
+	9. DavidIggyLou (0:2)<br>
 <br>
-82. #MagicRake~874 (1009) +2<br>
-+7<br>
-	1. GreatApple~214 (1:0)<br>
-	7. Tiberius88 (5:5)<br>
-	8. DavidIggyLou (1:0)<br>
+62. #maultier2 (1047) +1<br>
++25|+2<br>
+	1. PEPrasetya (0:3)<br>
+	4. flagstone (0:1)<br>
+	5. rickss (1:3)<br>
+	6. Jarre (0:1)<br>
+	7. Buz (0:1)<br>
+	9. DavidIggyLou (1:1)<br>
+	10. A-z-sh (3:5)<br>
+<br>
+63. #BillY_Patro (1046) -1<br>
++34|+24|+13|+5<br>
+	1. PEPrasetya (0:2)<br>
+	2. GreatApple~214 (0:2)<br>
+	3. Vlajs001 (1:0)<br>
+	4. flagstone (1:3)<br>
+	6. Jarre (0:5)<br>
+	8. Tiberius88 (2:1)<br>
+	9. DavidIggyLou (1:5)<br>
+	10. A-z-sh (11:21)<br>
+<br>
+64. #Dangit (1043) 0<br>
++44|+42|+36|+29|+30|+11<br>
+	3. Vlajs001 (1:0)<br>
+	5. rickss (1:1)<br>
+	6. Jarre (1:0)<br>
+	7. Buz (0:1)<br>
+	9. DavidIggyLou (1:0)<br>
+	10. A-z-sh (6:2)<br>
+<br>
+65. #Khalifah (1034) +1<br>
++35|+21|+14|+5|+2<br>
+	4. flagstone (1:0)<br>
+	6. Jarre (1:1)<br>
+	8. Tiberius88 (2:3)<br>
+	10. A-z-sh (1:3)<br>
+<br>
+66. #nil (1033) 0<br>
++25|+6<br>
+	1. PEPrasetya (1:2)<br>
+	4. flagstone (1:0)<br>
+	5. rickss (2:3)<br>
+	7. Buz (2:1)<br>
+	8. Tiberius88 (4:2)<br>
+	10. A-z-sh (2:2)<br>
+<br>
+67. #Cognito (1033) +3<br>
++18|0<br>
+	1. PEPrasetya (2:0)<br>
+	3. Vlajs001 (0:1)<br>
+	5. rickss (1:0)<br>
+	7. Buz (0:1)<br>
+	8. Tiberius88 (0:1)<br>
+	9. DavidIggyLou (1:1)<br>
+	10. A-z-sh (2:5)<br>
+<br>
+68. #AMRAP (1032) 0<br>
++17|+15|+7|+2<br>
+	4. flagstone (2:1)<br>
+	8. Tiberius88 (2:0)<br>
+	9. DavidIggyLou (1:2)<br>
+	10. A-z-sh (0:3)<br>
+<br>
+69. #shadybiz (1032) +7<br>
++30|+20|+16|+10<br>
+	1. PEPrasetya (0:1)<br>
+	4. flagstone (0:1)<br>
+	5. rickss (0:1)<br>
+	6. Jarre (0:1)<br>
+	8. Tiberius88 (1:2)<br>
+	10. A-z-sh (2:1)<br>
+<br>
+70. #WiryFox~219 (1029) 0<br>
++24|+12|+10|+9|+4|+6<br>
+	1. PEPrasetya (2:2)<br>
+	4. flagstone (1:3)<br>
+	5. rickss (0:4)<br>
+	7. Buz (0:1)<br>
+	8. Tiberius88 (4:6)<br>
+	9. DavidIggyLou (0:1)<br>
+	10. A-z-sh (2:3)<br>
+<br>
+71. #BraveShovel~508 (1021) +2<br>
++12|+6<br>
+	1. PEPrasetya (0:1)<br>
+	4. flagstone (1:0)<br>
+	6. Jarre (0:1)<br>
+	8. Tiberius88 (0:1)<br>
+	9. DavidIggyLou (0:2)<br>
+<br>
+72. #G4m3R34p3r (1015) 0<br>
++5|0<br>
+	1. PEPrasetya (0:1)<br>
+	3. Vlajs001 (0:1)<br>
+	5. rickss (1:2)<br>
+	7. Buz (1:2)<br>
+	10. A-z-sh (3:9)<br>
+<br>
+73. #bmwitt1234 (1013) 0<br>
++3|0<br>
+	3. Vlajs001 (1:1)<br>
+	5. rickss (0:1)<br>
+	7. Buz (1:0)<br>
+	9. DavidIggyLou (1:0)<br>
+<br>
+74. #Star69lord (1013) 0<br>
++18|+18|+5|0<br>
+	1. PEPrasetya (1:0)<br>
+	3. Vlajs001 (1:6)<br>
+	5. rickss (0:3)<br>
+	6. Jarre (1:0)<br>
+	8. Tiberius88 (0:2)<br>
+	9. DavidIggyLou (0:1)<br>
 	10. A-z-sh (0:1)<br>
 <br>
-83. #QuirkyToad~911 (1000) 0<br>
+75. #scabz (1012) -1<br>
++10|-1<br>
+	1. PEPrasetya (0:2)<br>
+	4. flagstone (0:1)<br>
+	5. rickss (1:5)<br>
+	6. Jarre (1:0)<br>
+	8. Tiberius88 (4:6)<br>
+	10. A-z-sh (0:1)<br>
+<br>
+76. #LittleClove~834 (1010) 0<br>
++11|+16|+13|+2<br>
+	2. GreatApple~214 (1:3)<br>
+	3. Vlajs001 (1:1)<br>
+	4. flagstone (1:2)<br>
+	5. rickss (0:4)<br>
+	6. Jarre (1:3)<br>
+	8. Tiberius88 (0:7)<br>
+	10. A-z-sh (0:4)<br>
+<br>
+77. #TidyFox~415 (1010) -1<br>
++5|+1<br>
+	3. Vlajs001 (0:1)<br>
+	6. Jarre (0:1)<br>
+	8. Tiberius88 (0:3)<br>
+	9. DavidIggyLou (0:1)<br>
+<br>
+78. #cswhaha (1009) -1<br>
++9|+11|+15|+11|+2<br>
+	3. Vlajs001 (2:0)<br>
+	4. flagstone (1:0)<br>
+	5. rickss (3:6)<br>
+	6. Jarre (2:15)<br>
+	7. Buz (0:5)<br>
+	9. DavidIggyLou (1:1)<br>
+	10. A-z-sh (2:8)<br>
+<br>
+79. #LightRice~866 (1009) 0<br>
++1<br>
+	2. GreatApple~214 (0:1)<br>
+	5. rickss (0:1)<br>
+<br>
+80. #MagicRake~874 (1008) 0<br>
++6<br>
+	1. PEPrasetya (0:1)<br>
+	2. GreatApple~214 (1:0)<br>
+	8. Tiberius88 (5:5)<br>
+	9. DavidIggyLou (1:0)<br>
+	10. A-z-sh (0:1)<br>
+<br>
+81. #QuirkyToad~911 (1000) 0<br>
 +4|+1<br>
-	7. Tiberius88 (2:10)<br>
-	8. DavidIggyLou (0:2)<br>
+	8. Tiberius88 (2:10)<br>
+	9. DavidIggyLou (0:2)<br>
 <br>
-84. #Maximus4444 (996) 0<br>
--4|-2<br>
-	1. GreatApple~214 (2:4)<br>
-	5. Jarre (0:1)<br>
-	6. Buz (1:5)<br>
-	7. Tiberius88 (0:6)<br>
-	9. GroovyFlame (0:2)<br>
+82. #Maximus4444 (995) -1<br>
+-5|-3|-1<br>
+	1. PEPrasetya (2:1)<br>
+	2. GreatApple~214 (2:4)<br>
+	6. Jarre (0:1)<br>
+	7. Buz (1:5)<br>
+	8. Tiberius88 (0:6)<br>
+	9. DavidIggyLou (1:0)<br>
 <br>
-85. #orenong (955) -4<br>
--26|-18|-19|-17|-13|-13|-17|-10|-8|-1<br>
-	1. GreatApple~214 (1:2)<br>
-	4. rickss (0:1)<br>
-	5. Jarre (0:2)<br>
-	8. DavidIggyLou (0:1)<br>
-	9. GroovyFlame (2:0)<br>
+83. #orenong (953) -2<br>
+-27|-20|-21|-19|-15|-14|-19|-12|-10|-3<br>
+	2. GreatApple~214 (1:2)<br>
+	5. rickss (0:1)<br>
+	6. Jarre (0:2)<br>
+	9. DavidIggyLou (0:2)<br>
 	10. A-z-sh (1:0)<br>
