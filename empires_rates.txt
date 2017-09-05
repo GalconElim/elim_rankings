@@ -1,806 +1,798 @@
 Recent win rates against top 10 over the past 21 days<br>
 <br>
-1. #Artimal_PL (1278) +3<br>
+1. #Artimal_PL (1278) 0<br>
 +9|+12|+5|0|+5|+3|+1|+9|+10|+7<br>
 	2. Shunrai (4:4)<br>
-	4. someOnh (13:10)<br>
-	5. Xoi (8:18)<br>
-	6. croissant (4:2)<br>
+	4. Xoi (8:18)<br>
+	5. croissant (4:2)<br>
+	6. someOnh (13:10)<br>
 	7. Parko (4:4)<br>
 	8. WickedPizza~656 (5:9)<br>
 	10. dIehAppY (3:2)<br>
 <br>
-2. #Shunrai (1241) +1<br>
+2. #Shunrai (1241) 0<br>
 -38|-27|-21|-22|-21|-17|-15|-4|+3|+1<br>
 	1. Artimal_PL (4:4)<br>
 	3. bejut (0:1)<br>
-	7. Parko (0:1)<br>
 	8. WickedPizza~656 (1:0)<br>
 <br>
 3. #bejut (1209) 0<br>
 +51|+43|+38|+41|+36|+29|+32|+18|+17|+1<br>
 	2. Shunrai (1:0)<br>
-	4. someOnh (1:1)<br>
-	5. Xoi (4:4)<br>
-	6. croissant (0:2)<br>
+	4. Xoi (4:4)<br>
+	5. croissant (0:2)<br>
 	7. Parko (2:3)<br>
 <br>
-4. #someOnh (1201) -1<br>
--9|-21|-22|-23|-24|-28|-28|-23|-10|-6<br>
-	1. Artimal_PL (10:13)<br>
-	3. bejut (1:1)<br>
-	5. Xoi (6:3)<br>
-	7. Parko (4:3)<br>
-	8. WickedPizza~656 (2:5)<br>
-	10. dIehAppY (1:1)<br>
-<br>
-5. #Xoi (1197) 0<br>
-+22|+27|+34|+30|+28|+16|+8|+6|+4|+4<br>
+4. #Xoi (1196) -1<br>
++21|+26|+33|+29|+26|+15|+7|+5|+3|+2<br>
 	1. Artimal_PL (18:8)<br>
 	3. bejut (4:4)<br>
-	4. someOnh (3:6)<br>
-	6. croissant (5:6)<br>
+	5. croissant (5:7)<br>
+	6. someOnh (3:6)<br>
 	7. Parko (3:2)<br>
 	8. WickedPizza~656 (8:6)<br>
 	9. JazzyDeer (3:1)<br>
 	10. dIehAppY (2:4)<br>
 <br>
-6. #croissant (1195) -1<br>
--25|-25|-17|-16|-16|-7|+4|-9|-6|-4<br>
+5. #croissant (1194) -1<br>
+-25|-26|-18|-16|-17|-8|+3|-9|-6|-5<br>
 	1. Artimal_PL (2:4)<br>
 	3. bejut (2:0)<br>
-	5. Xoi (6:5)<br>
+	4. Xoi (7:5)<br>
+	6. someOnh (2:0)<br>
 	7. Parko (10:24)<br>
 	8. WickedPizza~656 (3:7)<br>
+	9. JazzyDeer (0:1)<br>
 	10. dIehAppY (4:2)<br>
+<br>
+6. #someOnh (1191) -9<br>
+-31|-32|-32|-33|-37|-37|-32|-20|-15|-5<br>
+	1. Artimal_PL (10:13)<br>
+	4. Xoi (6:3)<br>
+	5. croissant (0:2)<br>
+	7. Parko (4:3)<br>
+	8. WickedPizza~656 (2:5)<br>
+	10. dIehAppY (1:1)<br>
 <br>
 7. #Parko (1182) 0<br>
 +40|+30|+34|+19|+25|+29|+23|+13|+5|+8<br>
 	1. Artimal_PL (4:4)<br>
-	2. Shunrai (1:0)<br>
 	3. bejut (3:2)<br>
-	4. someOnh (3:4)<br>
-	5. Xoi (2:3)<br>
-	6. croissant (24:10)<br>
+	4. Xoi (2:3)<br>
+	5. croissant (24:10)<br>
+	6. someOnh (3:4)<br>
 	7. Parko (1:1)<br>
 	8. WickedPizza~656 (1:3)<br>
 	9. JazzyDeer (8:7)<br>
 <br>
-8. #WickedPizza~656 (1181) -1<br>
+8. #WickedPizza~656 (1181) 0<br>
 -13|-11|+7|+1|+2|+1|-5|-3|-6|0<br>
 	1. Artimal_PL (9:5)<br>
 	2. Shunrai (0:1)<br>
-	4. someOnh (5:2)<br>
-	5. Xoi (6:8)<br>
-	6. croissant (7:3)<br>
+	4. Xoi (6:8)<br>
+	5. croissant (7:3)<br>
+	6. someOnh (5:2)<br>
 	7. Parko (3:1)<br>
 <br>
-9. #JazzyDeer (1171) -6<br>
--30|-32|-39|-52|-40|-24|-21|-19|-19|-18<br>
-	5. Xoi (1:3)<br>
+9. #JazzyDeer (1173) +2<br>
+-30|-38|-50|-38|-22|-19|-17|-17|-17|0<br>
+	4. Xoi (1:3)<br>
+	5. croissant (1:0)<br>
 	7. Parko (7:8)<br>
 	10. dIehAppY (2:2)<br>
 <br>
-10. #dIehAppY (1169) 0<br>
--1|-2|-14|-22|-18|-14|-5|+5|-2|+2<br>
+10. #dIehAppY (1170) +1<br>
+0|-1|-13|-21|-17|-13|-4|+6|-1|+3<br>
 	1. Artimal_PL (2:3)<br>
-	4. someOnh (1:1)<br>
-	5. Xoi (4:2)<br>
-	6. croissant (2:4)<br>
+	4. Xoi (4:2)<br>
+	5. croissant (2:4)<br>
+	6. someOnh (1:1)<br>
 	9. JazzyDeer (2:2)<br>
 <br>
 11. #dpmartin (1165) 0<br>
 +22|+8|+7|+10|+4|+11|+10|+6|+2|-3<br>
-	4. someOnh (2:0)<br>
+	6. someOnh (2:0)<br>
 	8. WickedPizza~656 (7:4)<br>
 <br>
 12. #Kraken809 (1161) 0<br>
 +6|+3|+6|+6|-1|-6|-13|-4|-2|0<br>
 	1. Artimal_PL (4:10)<br>
-	4. someOnh (4:4)<br>
-	5. Xoi (1:1)<br>
-	6. croissant (1:0)<br>
+	4. Xoi (1:1)<br>
+	5. croissant (1:0)<br>
+	6. someOnh (4:4)<br>
 <br>
-13. #TimeBreaker (1161) -2<br>
+13. #TimeBreaker (1161) 0<br>
 -17|-16|-17|-15|-11|-18|-13|-11|-3|-5<br>
 	1. Artimal_PL (4:5)<br>
 	2. Shunrai (2:5)<br>
 	3. bejut (2:0)<br>
-	4. someOnh (3:2)<br>
-	5. Xoi (1:2)<br>
-	6. croissant (2:2)<br>
-	7. Parko (1:5)<br>
+	4. Xoi (1:2)<br>
+	5. croissant (2:2)<br>
+	6. someOnh (3:2)<br>
+	7. Parko (1:0)<br>
 	8. WickedPizza~656 (5:6)<br>
 	9. JazzyDeer (0:1)<br>
 	10. dIehAppY (1:0)<br>
 <br>
-14. #CsAsTra (1155) 0<br>
-+5|-1|-1|-5|+6|+2|+2|+4|+3|+4<br>
+14. #csastra (1155) 0<br>
++5|0|-1|-4|+6|+2|+2|+5|+4|+4<br>
 	1. Artimal_PL (5:8)<br>
 	2. Shunrai (11:10)<br>
 	3. bejut (9:2)<br>
-	4. someOnh (2:4)<br>
-	7. Parko (15:16)<br>
+	6. someOnh (2:4)<br>
+	7. Parko (13:11)<br>
 	9. JazzyDeer (6:4)<br>
 <br>
-15. #mr.oujia (1151) -12<br>
-+4|+7|+10|+8|-4|-10|-15|-14|-13|-1<br>
-	1. Artimal_PL (3:3)<br>
-	2. Shunrai (3:7)<br>
-	4. someOnh (12:11)<br>
-	5. Xoi (6:6)<br>
-	6. croissant (11:9)<br>
-	7. Parko (2:8)<br>
-	8. WickedPizza~656 (7:15)<br>
-	10. dIehAppY (2:6)<br>
-<br>
-16. #no.yes (1150) 0<br>
+15. #no.yes (1150) 0<br>
 -2|-3|-1|+3|+1|-4|-9|-1|-4|0<br>
 	1. Artimal_PL (3:5)<br>
 	3. bejut (0:3)<br>
-	4. someOnh (4:2)<br>
-	5. Xoi (0:1)<br>
-	6. croissant (18:21)<br>
+	4. Xoi (0:1)<br>
+	5. croissant (18:21)<br>
+	6. someOnh (4:2)<br>
 	7. Parko (0:1)<br>
 	8. WickedPizza~656 (39:28)<br>
 	10. dIehAppY (5:5)<br>
 <br>
+16. #mr.oujia (1139) -12<br>
+-5|-2|-4|-16|-22|-27|-26|-25|-13|-6<br>
+	1. Artimal_PL (3:3)<br>
+	2. Shunrai (0:5)<br>
+	4. Xoi (6:6)<br>
+	5. croissant (13:12)<br>
+	6. someOnh (16:15)<br>
+	7. Parko (2:8)<br>
+	8. WickedPizza~656 (7:15)<br>
+	10. dIehAppY (2:6)<br>
+<br>
 17. #sadpanda (1137) 0<br>
 +57|+20|+8|-14|+5|-4|-37|-33|-12|-1<br>
-	6. croissant (1:0)<br>
+	5. croissant (1:0)<br>
 	7. Parko (0:1)<br>
 	8. WickedPizza~656 (4:6)<br>
 <br>
-18. #scampadour (1135) 0<br>
-+36|+33|+37|+27|+26|+21|+23|+22|+7|+1<br>
-	7. Parko (2:3)<br>
-	9. JazzyDeer (3:2)<br>
-<br>
-19. #JmaN8080 (1132) 0<br>
+18. #JmaN8080 (1132) 0<br>
 +14|+11|+20|+12|+20|+11|+8|+12|+14|+3<br>
 	1. Artimal_PL (4:1)<br>
-	4. someOnh (3:1)<br>
+	6. someOnh (3:1)<br>
 	8. WickedPizza~656 (7:7)<br>
 	9. JazzyDeer (1:2)<br>
 	10. dIehAppY (3:1)<br>
 <br>
-20. #hobbes313 (1132) 0<br>
+19. #hobbes313 (1132) 0<br>
 +16|+15|+14|+18|+21|+12|+15|+18|+17|+9<br>
 	1. Artimal_PL (6:5)<br>
-	2. Shunrai (9:4)<br>
+	2. Shunrai (4:2)<br>
 	3. bejut (1:0)<br>
-	4. someOnh (1:1)<br>
-	5. Xoi (1:1)<br>
-	6. croissant (2:5)<br>
+	4. Xoi (1:1)<br>
+	5. croissant (2:5)<br>
+	6. someOnh (1:0)<br>
 	8. WickedPizza~656 (7:13)<br>
 <br>
-21. #xxixx (1129) 0<br>
-+18|+13|+15|+17|+8|+3|+2|+5|0|+1<br>
-	8. WickedPizza~656 (2:7)<br>
-<br>
-22. #K1LL3rW33D (1123) 0<br>
+20. #K1LL3rW33D (1123) 0<br>
 +8|+4|-1|+12|+9|+14|+15|+10|+17|0<br>
 	2. Shunrai (0:4)<br>
-	4. someOnh (4:0)<br>
-	6. croissant (3:6)<br>
+	5. croissant (3:6)<br>
+	6. someOnh (4:0)<br>
 	8. WickedPizza~656 (7:6)<br>
 <br>
-23. #MadDookie (1120) +4<br>
--23|-30|-22|-22|-19|-8|-1|+7|+8|+2<br>
-	1. Artimal_PL (4:11)<br>
-	2. Shunrai (2:1)<br>
-	4. someOnh (6:7)<br>
-	5. Xoi (4:2)<br>
-	6. croissant (11:14)<br>
-	7. Parko (8:14)<br>
-	8. WickedPizza~656 (14:10)<br>
-	10. dIehAppY (2:1)<br>
-<br>
-24. #metbo (1120) 0<br>
--9|-10|-5|-6|-11|-12|-13|-8|-4|-4<br>
-	1. Artimal_PL (1:1)<br>
-	2. Shunrai (2:2)<br>
-	3. bejut (1:1)<br>
-	6. croissant (0:1)<br>
-	7. Parko (1:0)<br>
-	10. dIehAppY (1:1)<br>
-<br>
-25. #creaky2 (1119) -2<br>
--12|-14|-11|-9|+14|+17|+1|-9|+4|+3<br>
+21. #creaky2 (1121) +2<br>
+-12|-10|-8|+16|+18|+2|-7|+5|+5|+3<br>
 	1. Artimal_PL (5:24)<br>
 	2. Shunrai (0:1)<br>
 	3. bejut (2:3)<br>
-	4. someOnh (4:7)<br>
-	5. Xoi (23:38)<br>
-	6. croissant (4:12)<br>
+	4. Xoi (23:38)<br>
+	5. croissant (4:13)<br>
+	6. someOnh (10:10)<br>
 	7. Parko (1:0)<br>
 	8. WickedPizza~656 (8:12)<br>
 	9. JazzyDeer (1:0)<br>
 <br>
-26. #JDHA218 (1116) +1<br>
-+64|+57|+47|+41|+35|+28|+16|+17|+16|+6<br>
-	9. JazzyDeer (3:15)<br>
-<br>
-27. #cricric (1114) -2<br>
-+23|+11|+10|+18|+10|+11|+14|+6|+7|-8<br>
-	4. someOnh (1:0)<br>
-	6. croissant (2:4)<br>
+22. #MadDookie (1121) 0<br>
+-30|-21|-21|-19|-8|0|+7|+8|+2|-3<br>
+	1. Artimal_PL (4:11)<br>
+	2. Shunrai (2:1)<br>
+	4. Xoi (4:2)<br>
+	5. croissant (11:13)<br>
+	6. someOnh (7:8)<br>
+	7. Parko (8:14)<br>
+	8. WickedPizza~656 (14:10)<br>
 	10. dIehAppY (2:1)<br>
 <br>
-28. #zamrai (1111) 0<br>
-+12|+1|+3|+10|+22|+22|+16|+8|-3|+3<br>
-	5. Xoi (2:0)<br>
-	9. JazzyDeer (4:8)<br>
-<br>
-29. #Fluffywolf (1110) 0<br>
-+33|+30|+26|+29|+19|+15|+2|0|-3|0<br>
+23. #metbo (1120) 0<br>
+-9|-10|-5|-6|-11|-12|-13|-8|-4|-4<br>
+	1. Artimal_PL (1:1)<br>
 	2. Shunrai (1:0)<br>
+	3. bejut (1:1)<br>
+	5. croissant (0:1)<br>
+	7. Parko (1:0)<br>
+	10. dIehAppY (1:1)<br>
 <br>
-30. #doeish (1110) -4<br>
--5|-13|-12|-9|-10|-7|-6|+7|+1|-4<br>
-	5. Xoi (0:2)<br>
-	6. croissant (2:5)<br>
-	7. Parko (1:4)<br>
-	8. WickedPizza~656 (4:8)<br>
-	9. JazzyDeer (2:3)<br>
-	10. dIehAppY (2:3)<br>
-<br>
-31. #eLemeNt. (1109) 0<br>
--42|-45|-34|-28|-23|-16|-9|+10|+5|+2<br>
-	1. Artimal_PL (7:8)<br>
-	2. Shunrai (1:2)<br>
-	4. someOnh (11:8)<br>
-	5. Xoi (2:2)<br>
-	6. croissant (0:3)<br>
-	8. WickedPizza~656 (4:4)<br>
-	10. dIehAppY (0:1)<br>
-<br>
-32. #gmoe (1109) +1<br>
-+17|+12|+11|+10|+10|+12|+13|+11|+13|+6<br>
-	1. Artimal_PL (2:1)<br>
-	8. WickedPizza~656 (5:2)<br>
-<br>
-33. #zeropoint (1109) 0<br>
-+3|+2|+5|-5|-3|-2|+4|+11|+3|+1<br>
-	1. Artimal_PL (4:6)<br>
-	2. Shunrai (0:1)<br>
-	4. someOnh (4:2)<br>
-	5. Xoi (5:7)<br>
-	9. JazzyDeer (0:1)<br>
-<br>
-34. #DaCAP (1107) 0<br>
-+34|+24|+27|+25|+16|+21|+18|+12|+15|+2<br>
-	2. Shunrai (0:2)<br>
-	5. Xoi (0:3)<br>
-	6. croissant (1:1)<br>
-	10. dIehAppY (1:7)<br>
-<br>
-35. #GaudyWeasel (1107) -1<br>
--28|-19|-26|-27|-25|-4|+1|-1|+5|+3<br>
-	5. Xoi (0:5)<br>
-	6. croissant (0:2)<br>
-	8. WickedPizza~656 (0:1)<br>
+24. #JDHA218 (1119) +4<br>
++67|+60|+50|+45|+38|+32|+20|+20|+20|+9<br>
 	9. JazzyDeer (1:1)<br>
 <br>
-36. #vip_genius (1107) 0<br>
--5|-4|+14|+3|+1|-10|-2|+4|0|-1<br>
+25. #xxixx (1119) -10<br>
++8|+3|+5|+7|-2|-7|-8|-5|-10|-9<br>
+	8. WickedPizza~656 (2:7)<br>
+<br>
+26. #cricric (1113) -1<br>
++23|+10|+9|+17|+10|+10|+13|+5|+6|-9<br>
+	5. croissant (2:4)<br>
+	6. someOnh (2:2)<br>
+	10. dIehAppY (2:1)<br>
+<br>
+27. #vip_genius (1111) +4<br>
+-1|+1|+18|+7|+5|-6|+2|+8|+4|+4<br>
 	1. Artimal_PL (0:3)<br>
 	2. Shunrai (2:9)<br>
-	4. someOnh (5:5)<br>
-	5. Xoi (7:7)<br>
-	6. croissant (1:3)<br>
+	4. Xoi (7:7)<br>
+	5. croissant (1:3)<br>
+	6. someOnh (5:5)<br>
 	7. Parko (0:1)<br>
 	8. WickedPizza~656 (0:1)<br>
 	10. dIehAppY (2:4)<br>
 <br>
-37. #mafl (1107) +1<br>
--4|-8|-9|-8|-7|-3|+2|-4|-1|-1<br>
-	2. Shunrai (2:4)<br>
-	5. Xoi (4:12)<br>
-	6. croissant (2:6)<br>
-	8. WickedPizza~656 (6:4)<br>
+28. #zamrai (1111) 0<br>
++12|+1|+3|+10|+22|+22|+16|+8|-3|+3<br>
+	4. Xoi (2:0)<br>
+	9. JazzyDeer (4:8)<br>
 <br>
-38. #OhmSweetOhm (1103) 0<br>
+29. #eLemeNt. (1110) +1<br>
+-40|-44|-33|-27|-22|-15|-8|+11|+6|+3<br>
+	1. Artimal_PL (7:8)<br>
+	2. Shunrai (1:2)<br>
+	4. Xoi (2:2)<br>
+	5. croissant (1:3)<br>
+	6. someOnh (19:13)<br>
+	8. WickedPizza~656 (4:4)<br>
+	10. dIehAppY (0:1)<br>
+<br>
+30. #Fluffywolf (1110) 0<br>
++33|+30|+26|+29|+19|+15|+2|0|-3|0<br>
+<br>
+31. #GaudyWeasel (1109) +2<br>
+-26|-16|-24|-25|-22|-2|+3|+1|+7|+5<br>
+	4. Xoi (0:5)<br>
+	5. croissant (0:2)<br>
+	8. WickedPizza~656 (0:1)<br>
+	9. JazzyDeer (1:1)<br>
+<br>
+32. #mafl (1108) +1<br>
+-2|-6|-8|-7|-5|-2|+3|-3|+1|0<br>
+	2. Shunrai (2:4)<br>
+	4. Xoi (4:12)<br>
+	5. croissant (4:6)<br>
+	8. WickedPizza~656 (6:4)<br>
+	9. JazzyDeer (1:0)<br>
+<br>
+33. #zeropoint (1108) -1<br>
++2|+1|+4|-6|-4|-4|+3|+10|+2|0<br>
+	1. Artimal_PL (4:6)<br>
+	2. Shunrai (0:1)<br>
+	4. Xoi (5:7)<br>
+	6. someOnh (4:2)<br>
+	9. JazzyDeer (0:1)<br>
+<br>
+34. #gmoe (1108) -1<br>
++16|+10|+9|+8|+8|+10|+12|+10|+12|+5<br>
+	1. Artimal_PL (2:1)<br>
+	8. WickedPizza~656 (5:2)<br>
+<br>
+35. #DaCAP (1107) 0<br>
++34|+24|+27|+25|+16|+21|+18|+12|+15|+2<br>
+	2. Shunrai (0:2)<br>
+	4. Xoi (0:3)<br>
+	5. croissant (1:1)<br>
+	10. dIehAppY (1:7)<br>
+<br>
+36. #OhmSweetOhm (1103) 0<br>
 -24|-20|-18|-7|-9|-9|-11|-8|-4|+1<br>
 	1. Artimal_PL (1:0)<br>
-	2. Shunrai (5:3)<br>
+	2. Shunrai (3:3)<br>
 	3. bejut (2:0)<br>
-	4. someOnh (0:6)<br>
-	5. Xoi (8:15)<br>
-	6. croissant (2:0)<br>
+	4. Xoi (8:15)<br>
+	5. croissant (2:0)<br>
+	6. someOnh (0:6)<br>
 	7. Parko (1:1)<br>
 	8. WickedPizza~656 (1:5)<br>
 	9. JazzyDeer (5:2)<br>
 	10. dIehAppY (1:1)<br>
 <br>
-39. #SupiorLemon (1100) -6<br>
-+18|+19|+13|+10|+14|+9|+5|+4|-6|-10<br>
+37. #supiorlemon (1101) +1<br>
++21|+14|+12|+15|+10|+7|+6|-4|-8|0<br>
 	1. Artimal_PL (2:6)<br>
 	2. Shunrai (24:31)<br>
 	3. bejut (4:1)<br>
-	4. someOnh (2:2)<br>
-	5. Xoi (26:37)<br>
-	6. croissant (11:10)<br>
+	4. Xoi (26:37)<br>
+	5. croissant (11:10)<br>
+	6. someOnh (2:2)<br>
 	7. Parko (1:8)<br>
-	8. WickedPizza~656 (12:5)<br>
+	8. WickedPizza~656 (11:5)<br>
 	10. dIehAppY (7:2)<br>
 <br>
-40. #balthazar- (1098) 0<br>
+38. #doeish (1099) -11<br>
+-23|-23|-20|-21|-18|-17|-4|-10|-15|-9<br>
+	4. Xoi (1:2)<br>
+	5. croissant (3:6)<br>
+	6. someOnh (2:0)<br>
+	8. WickedPizza~656 (4:8)<br>
+	9. JazzyDeer (2:3)<br>
+	10. dIehAppY (2:3)<br>
+<br>
+39. #balthazar- (1098) 0<br>
 +68|+64|+46|+26|-4|0|-2|+5|-10|-3<br>
 	1. Artimal_PL (0:2)<br>
-	4. someOnh (1:3)<br>
-	5. Xoi (3:3)<br>
+	4. Xoi (3:3)<br>
+	6. someOnh (1:3)<br>
 <br>
-41. #Ardi09. (1097) +3<br>
-+7|0|-8|-14|-11|-15|-8|-13|0|0<br>
+40. #Ardi09. (1097) -1<br>
++7|0|-8|-15|-12|-16|-9|-13|0|0<br>
 	1. Artimal_PL (1:5)<br>
 	2. Shunrai (2:3)<br>
-	5. Xoi (1:3)<br>
-	6. croissant (0:1)<br>
+	4. Xoi (1:3)<br>
+	5. croissant (0:1)<br>
+	6. someOnh (3:0)<br>
 	8. WickedPizza~656 (3:4)<br>
+	10. dIehAppY (0:1)<br>
 <br>
-42. #CrankyGrape (1088) +20<br>
-+74|+65|+47|+20|0<br>
-	1. Artimal_PL (4:12)<br>
-	4. someOnh (3:3)<br>
-	5. Xoi (2:1)<br>
-	6. croissant (3:2)<br>
-	8. WickedPizza~656 (7:4)<br>
-	10. dIehAppY (7:5)<br>
-<br>
-43. #pablo55 (1088) +5<br>
-+15|+35|+38|+24|+31|+25|+16|+30|+21|+10<br>
+41. #pablo55 (1091) +3<br>
++38|+41|+27|+35|+28|+20|+33|+25|+13|+3<br>
 	1. Artimal_PL (10:7)<br>
-	2. Shunrai (5:5)<br>
-	4. someOnh (2:3)<br>
-	6. croissant (8:14)<br>
-	7. Parko (2:3)<br>
+	2. Shunrai (2:4)<br>
+	5. croissant (6:12)<br>
+	6. someOnh (5:4)<br>
+	7. Parko (2:2)<br>
 	8. WickedPizza~656 (6:2)<br>
 	9. JazzyDeer (0:2)<br>
 	10. dIehAppY (8:3)<br>
 <br>
-44. #ruBEARRx (1086) -1<br>
-+39|+41|+38|+30|+21|+12|+6|+14|+11|+11<br>
-	1. Artimal_PL (1:7)<br>
-	2. Shunrai (0:1)<br>
-	5. Xoi (0:1)<br>
-	6. croissant (1:4)<br>
+42. #CrankyGrape (1088) 0<br>
++74|+65|+47|+20|0<br>
+	1. Artimal_PL (4:12)<br>
+	4. Xoi (2:1)<br>
+	5. croissant (3:2)<br>
+	6. someOnh (3:3)<br>
+	8. WickedPizza~656 (7:4)<br>
+	10. dIehAppY (7:5)<br>
 <br>
-45. #sugarwalls (1085) 0<br>
-+30|+35|+28|+25|+20|+21|+16|+15|+8|+1<br>
-	2. Shunrai (3:5)<br>
+43. #go4cHIPS (1087) +3<br>
++29|+36|+28|+19|+16|+10|+6|+6|+1|+6<br>
+	1. Artimal_PL (0:2)<br>
+	2. Shunrai (2:0)<br>
+	4. Xoi (3:3)<br>
+	5. croissant (10:13)<br>
+	6. someOnh (2:0)<br>
+	7. Parko (3:4)<br>
+	8. WickedPizza~656 (6:7)<br>
+	9. JazzyDeer (0:3)<br>
+<br>
+44. #ghost_face (1087) +2<br>
++7|+2|+2|0|-5|-10|-7|-7|+1|+1<br>
+	1. Artimal_PL (5:4)<br>
+	4. Xoi (11:26)<br>
+	5. croissant (11:15)<br>
+	8. WickedPizza~656 (10:10)<br>
+	10. dIehAppY (2:8)<br>
+<br>
+45. #sugarwalls (1086) +2<br>
++31|+36|+29|+26|+21|+23|+17|+17|+9|+3<br>
+	2. Shunrai (2:2)<br>
 	3. bejut (0:2)<br>
-	4. someOnh (1:0)<br>
-	5. Xoi (3:1)<br>
-	6. croissant (22:22)<br>
+	4. Xoi (3:1)<br>
+	5. croissant (23:22)<br>
+	6. someOnh (1:0)<br>
 	7. Parko (4:9)<br>
 	8. WickedPizza~656 (17:30)<br>
 	10. dIehAppY (1:1)<br>
 <br>
-46. #ghost_face (1084) 0<br>
-+5|0|0|-2|-7|-12|-9|-9|-2|-1<br>
-	1. Artimal_PL (5:4)<br>
-	5. Xoi (11:26)<br>
-	6. croissant (11:15)<br>
-	8. WickedPizza~656 (10:10)<br>
-	10. dIehAppY (2:8)<br>
+46. #ruBEARRx (1086) 0<br>
++39|+41|+38|+30|+21|+12|+6|+14|+11|+11<br>
+	1. Artimal_PL (1:7)<br>
+	2. Shunrai (0:1)<br>
+	4. Xoi (0:1)<br>
+	5. croissant (1:4)<br>
 <br>
-47. #go4cHIPS (1084) +3<br>
-+26|+33|+25|+16|+13|+7|+3|+3|-2|+3<br>
-	1. Artimal_PL (0:2)<br>
-	2. Shunrai (2:0)<br>
-	4. someOnh (2:0)<br>
-	5. Xoi (3:3)<br>
-	6. croissant (9:11)<br>
-	7. Parko (4:6)<br>
-	8. WickedPizza~656 (6:7)<br>
-	9. JazzyDeer (0:3)<br>
-<br>
-48. #quickmill (1082) +1<br>
--6|+6|+10|-2|-2|-6|-8|-15|-9|-3<br>
+47. #quickmill (1083) +1<br>
++6|+11|-1|-1|-5|-8|-14|-9|-3|0<br>
 	1. Artimal_PL (1:5)<br>
-	2. Shunrai (5:5)<br>
-	4. someOnh (5:5)<br>
-	5. Xoi (4:14)<br>
-	6. croissant (3:1)<br>
+	2. Shunrai (2:3)<br>
+	4. Xoi (4:14)<br>
+	5. croissant (3:1)<br>
+	6. someOnh (5:5)<br>
 	7. Parko (1:2)<br>
 	8. WickedPizza~656 (12:10)<br>
 	9. JazzyDeer (0:2)<br>
 	10. dIehAppY (2:2)<br>
 <br>
-49. #cugel (1081) 0<br>
+48. #cugel (1081) 0<br>
 +25|+30|+29|+10|-3|-15|-17|-28|-21|-2<br>
 	1. Artimal_PL (5:7)<br>
 	2. Shunrai (1:0)<br>
-	4. someOnh (8:9)<br>
-	5. Xoi (11:18)<br>
-	6. croissant (3:2)<br>
-	8. WickedPizza~656 (27:9)<br>
+	4. Xoi (11:18)<br>
+	5. croissant (3:2)<br>
+	6. someOnh (8:9)<br>
+	8. WickedPizza~656 (26:8)<br>
 	10. dIehAppY (2:3)<br>
 <br>
-50. #SlickRick61 (1075) -4<br>
-+4|+16|+12|+17|+19|+4|-4|+2|-6|+1<br>
-	1. Artimal_PL (2:7)<br>
-	3. bejut (2:2)<br>
-	4. someOnh (1:1)<br>
-	5. Xoi (9:11)<br>
-	6. croissant (1:4)<br>
-	7. Parko (3:2)<br>
-	8. WickedPizza~656 (8:7)<br>
-	9. JazzyDeer (0:2)<br>
-	10. dIehAppY (5:4)<br>
-<br>
-51. #Ovalrebel (1074) +2<br>
-+2|0|0|+3|-1|-1|-3|+1|-11|-8<br>
+49. #Ovalrebel (1075) 0<br>
++1|0|+3|-1|-1|-3|+1|-10|-7|-1<br>
 	1. Artimal_PL (1:0)<br>
-	2. Shunrai (5:2)<br>
+	2. Shunrai (0:1)<br>
 	3. bejut (2:1)<br>
-	4. someOnh (1:1)<br>
-	5. Xoi (0:2)<br>
-	6. croissant (7:9)<br>
-	7. Parko (1:6)<br>
+	4. Xoi (0:2)<br>
+	5. croissant (7:9)<br>
+	6. someOnh (1:1)<br>
 	8. WickedPizza~656 (0:1)<br>
 	9. JazzyDeer (1:0)<br>
 	10. dIehAppY (1:7)<br>
 <br>
-52. #Hoberdo (1073) 0<br>
-+62|+60|+51|+43|+29|+23|+12|+14|+4|-1<br>
+50. #HOBerdo (1074) +1<br>
++62|+61|+52|+44|+30|+24|+13|+15|+5|0<br>
 	1. Artimal_PL (1:1)<br>
 	2. Shunrai (1:4)<br>
-	4. someOnh (1:0)<br>
-	5. Xoi (0:1)<br>
+	4. Xoi (0:1)<br>
+	6. someOnh (1:0)<br>
 	8. WickedPizza~656 (2:3)<br>
 	9. JazzyDeer (1:0)<br>
 	10. dIehAppY (0:3)<br>
 <br>
-53. #ChillyRobin~733 (1071) 0<br>
-+40|+25|+20|+1<br>
-	1. Artimal_PL (3:1)<br>
-	4. someOnh (5:4)<br>
-	7. Parko (2:3)<br>
+51. #SlickRick61 (1074) -2<br>
++2|+14|+11|+15|+17|+3|-6|+1|-8|-1<br>
+	1. Artimal_PL (2:7)<br>
+	3. bejut (2:2)<br>
+	4. Xoi (9:11)<br>
+	5. croissant (1:4)<br>
+	6. someOnh (1:1)<br>
+	7. Parko (1:1)<br>
+	8. WickedPizza~656 (8:6)<br>
+	9. JazzyDeer (0:1)<br>
+	10. dIehAppY (5:4)<br>
 <br>
-54. #khalilmz (1070) 0<br>
-+26|+27|+24|+21|+16|+12|+15|+8|+2|-1<br>
-	1. Artimal_PL (1:2)<br>
-	5. Xoi (0:2)<br>
-	6. croissant (1:1)<br>
-	8. WickedPizza~656 (1:5)<br>
-<br>
-55. #GoOody (1070) 0<br>
-+37|+24|+23|+17|+15|+13|+14|+11|0|0<br>
-	5. Xoi (2:2)<br>
-	9. JazzyDeer (0:4)<br>
-<br>
-56. #Copper- (1070) 0<br>
-+57|+42|+34|+16|0<br>
-	1. Artimal_PL (6:8)<br>
-	3. bejut (1:2)<br>
-	4. someOnh (3:2)<br>
-	5. Xoi (1:8)<br>
-	6. croissant (3:2)<br>
-	7. Parko (8:10)<br>
-	8. WickedPizza~656 (0:1)<br>
-	9. JazzyDeer (6:13)<br>
-<br>
-57. #Kretschy198 (1069) 0<br>
-+72|+51|+33|+17|+12|0<br>
-	4. someOnh (1:1)<br>
-	9. JazzyDeer (2:1)<br>
-<br>
-58. #WigglyFox (1068) -1<br>
-+19|+6|-4|-5|-4|-10|-8|-2|-1|-1<br>
-	1. Artimal_PL (11:13)<br>
-	2. Shunrai (0:4)<br>
-	4. someOnh (1:0)<br>
-	5. Xoi (16:15)<br>
-	6. croissant (4:4)<br>
-	8. WickedPizza~656 (6:12)<br>
-	10. dIehAppY (4:3)<br>
-<br>
-59. #Reclamation- (1067) +7<br>
-+67|+54|+39|+24|+18<br>
-	6. croissant (2:3)<br>
-	9. JazzyDeer (2:9)<br>
-<br>
-60. #syrius (1066) 0<br>
-+43|+36|+29|+21|+22|+25|+24|+22|+13|+10<br>
-	1. Artimal_PL (1:1)<br>
-	5. Xoi (1:4)<br>
-	6. croissant (2:0)<br>
-	8. WickedPizza~656 (0:2)<br>
-	10. dIehAppY (1:0)<br>
-<br>
-61. #noa-B (1066) -1<br>
-+15|+12|+9|+12|+6|+10|+8|+12|+13|+6<br>
+52. #noa-B (1073) +6<br>
++18|+16|+19|+12|+16|+14|+18|+19|+12|0<br>
 	2. Shunrai (0:3)<br>
-	6. croissant (3:6)<br>
+	5. croissant (5:6)<br>
+	6. someOnh (1:0)<br>
 	7. Parko (2:0)<br>
 	8. WickedPizza~656 (4:1)<br>
 	10. dIehAppY (3:0)<br>
 <br>
-62. #CoolFaucet~518 (1064) 0<br>
--19|-17|-13|-4|-5|+2|+5|-4|-11|0<br>
-	6. croissant (0:2)<br>
+53. #khalilmz (1071) 0<br>
++26|+27|+25|+22|+16|+12|+16|+9|+2|0<br>
+	1. Artimal_PL (1:2)<br>
+	4. Xoi (0:2)<br>
+	5. croissant (1:1)<br>
+	8. WickedPizza~656 (1:5)<br>
 <br>
-63. #qqeye (1064) 0<br>
+54. #GoOody (1070) 0<br>
++37|+24|+23|+17|+15|+13|+14|+11|0|0<br>
+	4. Xoi (2:2)<br>
+	9. JazzyDeer (0:4)<br>
+<br>
+55. #Copper- (1070) 0<br>
++57|+42|+34|+16|0<br>
+	1. Artimal_PL (6:8)<br>
+	3. bejut (1:2)<br>
+	4. Xoi (1:8)<br>
+	5. croissant (3:2)<br>
+	6. someOnh (3:2)<br>
+	7. Parko (8:10)<br>
+	8. WickedPizza~656 (0:1)<br>
+	9. JazzyDeer (6:13)<br>
+<br>
+56. #Kretschy198 (1069) 0<br>
++72|+51|+33|+17|+12|0<br>
+<br>
+57. #syrius (1066) 0<br>
++43|+36|+29|+21|+22|+25|+24|+22|+13|+10<br>
+	1. Artimal_PL (1:1)<br>
+	4. Xoi (1:4)<br>
+	5. croissant (2:0)<br>
+	8. WickedPizza~656 (0:2)<br>
+	10. dIehAppY (1:0)<br>
+<br>
+58. #Reclamation- (1066) 0<br>
++67|+53|+39|+24|+18|-2<br>
+	5. croissant (3:5)<br>
+	6. someOnh (3:0)<br>
+	9. JazzyDeer (2:10)<br>
+<br>
+59. #WigglyFox (1065) -3<br>
++16|+4|-6|-8|-6|-12|-10|-4|-4|-4<br>
+	1. Artimal_PL (8:11)<br>
+	2. Shunrai (0:4)<br>
+	4. Xoi (16:15)<br>
+	5. croissant (4:4)<br>
+	8. WickedPizza~656 (6:12)<br>
+	10. dIehAppY (4:3)<br>
+<br>
+60. #CoolFaucet~518 (1064) 0<br>
+-19|-17|-13|-4|-5|+2|+5|-4|-11|0<br>
+	5. croissant (0:2)<br>
+<br>
+61. #qqeye (1064) 0<br>
 +13|+9|-3|-3|+3|+10|+5|0|-1|-1<br>
-	4. someOnh (6:3)<br>
-	6. croissant (0:3)<br>
+	5. croissant (0:3)<br>
+	6. someOnh (3:2)<br>
 	8. WickedPizza~656 (1:0)<br>
 <br>
-64. #edache22 (1061) -1<br>
-+24|+20|+22|+15|+12|+6|-2|+3|-6|-1<br>
-	1. Artimal_PL (7:6)<br>
+62. #edache22 (1064) +2<br>
++26|+22|+25|+18|+15|+8|+1|+6|-4|+1<br>
+	1. Artimal_PL (6:4)<br>
 	2. Shunrai (5:5)<br>
-	4. someOnh (2:2)<br>
-	5. Xoi (13:18)<br>
-	6. croissant (17:20)<br>
+	4. Xoi (15:18)<br>
+	5. croissant (19:20)<br>
+	6. someOnh (3:2)<br>
 	7. Parko (9:9)<br>
 	8. WickedPizza~656 (34:33)<br>
 	10. dIehAppY (6:9)<br>
 <br>
-65. #drhillikilil (1059) +1<br>
--4|-1|-2|0|-3|+3|0|-2|0|+1<br>
-	1. Artimal_PL (8:6)<br>
-	2. Shunrai (2:4)<br>
-	4. someOnh (7:9)<br>
-	5. Xoi (9:8)<br>
-	6. croissant (8:15)<br>
-	8. WickedPizza~656 (9:11)<br>
-	9. JazzyDeer (1:1)<br>
-	10. dIehAppY (4:3)<br>
+63. #spamo (1061) +5<br>
++28|+16|+7|+11|+7|-3|+8|+15|+6|+7<br>
+	1. Artimal_PL (0:4)<br>
+	10. dIehAppY (1:0)<br>
 <br>
-66. #quantum (1056) +7<br>
-+23|+10|-1|+9|+11|0|+1|+11|+8|-2<br>
+64. #quantum (1059) +3<br>
++26|+13|+2|+11|+14|+3|+4|+13|+10|+1<br>
 	1. Artimal_PL (4:9)<br>
 	2. Shunrai (6:9)<br>
 	3. bejut (3:2)<br>
-	4. someOnh (3:8)<br>
-	5. Xoi (18:32)<br>
-	6. croissant (9:16)<br>
+	4. Xoi (19:32)<br>
+	5. croissant (10:16)<br>
+	6. someOnh (3:8)<br>
 	7. Parko (8:10)<br>
 	8. WickedPizza~656 (14:10)<br>
 	10. dIehAppY (5:14)<br>
 <br>
-67. #spamo (1055) +4<br>
-+22|+10|+2|+5|+2|-9|+3|+10|0|+1<br>
-	1. Artimal_PL (0:4)<br>
-	10. dIehAppY (1:0)<br>
+65. #Glossy (1056) +3<br>
++15|+17|+13|+11|+15|+13|+9|+6|+8|+8<br>
+	1. Artimal_PL (5:2)<br>
+	2. Shunrai (1:3)<br>
+	4. Xoi (2:9)<br>
+	5. croissant (5:7)<br>
+	6. someOnh (2:4)<br>
+	7. Parko (0:1)<br>
+	8. WickedPizza~656 (8:19)<br>
+	9. JazzyDeer (1:0)<br>
+	10. dIehAppY (3:7)<br>
 <br>
-68. #TimDebJon (1054) +2<br>
+66. #TimDebJon (1054) 0<br>
 +43|+44|+40|+33|+32|+28|+16|+14|-4|+6<br>
 	1. Artimal_PL (6:9)<br>
 	3. bejut (3:1)<br>
-	5. Xoi (0:2)<br>
-	6. croissant (5:6)<br>
+	4. Xoi (0:2)<br>
+	5. croissant (4:2)<br>
 	7. Parko (1:0)<br>
 	8. WickedPizza~656 (3:3)<br>
 	9. JazzyDeer (3:1)<br>
 <br>
-69. #stuggidavid (1053) +1<br>
+67. #drhillikilil (1053) -5<br>
+-6|-7|-5|-8|-2|-5|-7|-5|-4|+1<br>
+	1. Artimal_PL (8:6)<br>
+	2. Shunrai (2:4)<br>
+	4. Xoi (10:8)<br>
+	5. croissant (10:16)<br>
+	6. someOnh (8:11)<br>
+	8. WickedPizza~656 (9:11)<br>
+	9. JazzyDeer (1:1)<br>
+	10. dIehAppY (4:3)<br>
+<br>
+68. #stuggidavid (1053) 0<br>
 +15|+12|+11|+9|+8|+3|+1|-5|-3|-2<br>
 	1. Artimal_PL (0:3)<br>
 	2. Shunrai (3:2)<br>
 	8. WickedPizza~656 (4:6)<br>
 	10. dIehAppY (0:2)<br>
 <br>
-70. #Glossy (1052) +3<br>
-+12|+14|+9|+8|+12|+9|+6|+3|+4|+5<br>
-	1. Artimal_PL (5:2)<br>
-	2. Shunrai (1:3)<br>
-	4. someOnh (3:2)<br>
-	5. Xoi (2:9)<br>
-	6. croissant (4:7)<br>
-	7. Parko (0:1)<br>
-	8. WickedPizza~656 (8:21)<br>
-	10. dIehAppY (3:7)<br>
+69. #osnoz (1050) +2<br>
++45|+35|+31|+28|+12|+10|+6|+12|+2|-1<br>
+	1. Artimal_PL (4:3)<br>
+	4. Xoi (2:2)<br>
+	8. WickedPizza~656 (2:0)<br>
 <br>
-71. #evilCherry (1048) 0<br>
+70. #evilCherry (1048) 0<br>
 +35|+27|+19<br>
 	1. Artimal_PL (0:2)<br>
 	3. bejut (2:2)<br>
-	4. someOnh (0:1)<br>
-	5. Xoi (1:4)<br>
-	6. croissant (0:1)<br>
+	4. Xoi (1:4)<br>
+	5. croissant (0:1)<br>
+	6. someOnh (0:1)<br>
 <br>
-72. #osnoz (1047) 0<br>
-+43|+33|+29|+26|+9|+8|+4|+9|0|-4<br>
-	1. Artimal_PL (4:3)<br>
-	5. Xoi (2:2)<br>
-	8. WickedPizza~656 (2:0)<br>
-<br>
-73. #goner (1047) -1<br>
-+6|+9|+15|+10|+5|-7|-4|+3|+6|+2<br>
-	6. croissant (1:2)<br>
+71. #goner (1047) 0<br>
++6|+9|+15|+10|+4|-7|-5|+3|+6|+2<br>
+	5. croissant (1:2)<br>
 	7. Parko (3:3)<br>
 <br>
-74. #fullofspite (1045) 0<br>
+72. #fullofspite (1045) 0<br>
 +34|+30|+29|+32|+35|+23|+8|+3|-3|-3<br>
-	6. croissant (2:1)<br>
+	5. croissant (2:1)<br>
 <br>
-75. #oculterito (1043) 0<br>
+73. #oculterito (1043) 0<br>
 +30|+29|+24|+17|+14|+5|+7|+12|+13|+6<br>
 	1. Artimal_PL (1:2)<br>
-	6. croissant (0:2)<br>
+	5. croissant (0:2)<br>
 	8. WickedPizza~656 (6:1)<br>
 <br>
-76. #xpedient (1043) 0<br>
+74. #xpedient (1043) 0<br>
 +22|+19|+14|+6|0|0|+1|-2|+1|0<br>
 	1. Artimal_PL (4:14)<br>
 	2. Shunrai (6:6)<br>
 	3. bejut (4:4)<br>
-	4. someOnh (1:2)<br>
-	5. Xoi (2:7)<br>
+	4. Xoi (2:7)<br>
+	6. someOnh (1:2)<br>
 <br>
-77. #heynongman (1041) -1<br>
-+31|+20|+10|+15|+5|+13|+7|+3|+5|-4<br>
+75. #qUidNovI (1042) +2<br>
++29|+19|+14|+12|+8|0|+8|+11|+8|+2<br>
 	2. Shunrai (1:0)<br>
-	4. someOnh (0:2)<br>
-	5. Xoi (8:5)<br>
-	8. WickedPizza~656 (0:4)<br>
-	9. JazzyDeer (3:25)<br>
+	3. bejut (1:1)<br>
+	4. Xoi (0:1)<br>
+	5. croissant (0:1)<br>
+	6. someOnh (2:0)<br>
+	8. WickedPizza~656 (5:6)<br>
 <br>
-78. #likeag66 (1040) 0<br>
-+40|+34|+43|+31|+24|+15|+11|+11|0<br>
+76. #shaddow (1041) +3<br>
+-29|-31|-40|-32|-18|-9|-10|-3|-7|+4<br>
+	1. Artimal_PL (3:6)<br>
+	4. Xoi (3:7)<br>
+	5. croissant (8:14)<br>
+	6. someOnh (7:7)<br>
+	7. Parko (3:4)<br>
+	8. WickedPizza~656 (11:14)<br>
+	10. dIehAppY (1:0)<br>
+<br>
+77. #likeag66 (1041) 0<br>
++41|+35|+43|+31|+24|+16|+11|+11|+1<br>
 	1. Artimal_PL (3:7)<br>
-	2. Shunrai (8:10)<br>
-	4. someOnh (4:4)<br>
-	5. Xoi (5:10)<br>
-	6. croissant (1:2)<br>
+	2. Shunrai (6:9)<br>
+	4. Xoi (5:10)<br>
+	5. croissant (2:4)<br>
+	6. someOnh (5:5)<br>
 	7. Parko (3:4)<br>
 	8. WickedPizza~656 (14:16)<br>
 	9. JazzyDeer (1:1)<br>
 	10. dIehAppY (1:0)<br>
 <br>
-79. #Gideon (1040) -3<br>
--43|-39|-19|-35|-34|-28|-10|-2|-7|-5<br>
+78. #Gideon (1040) 0<br>
+-44|-40|-19|-35|-35|-28|-10|-2|-7|-5<br>
 	1. Artimal_PL (0:1)<br>
 	3. bejut (1:0)<br>
-	6. croissant (3:6)<br>
+	5. croissant (3:6)<br>
 	7. Parko (0:1)<br>
 	10. dIehAppY (1:1)<br>
 <br>
-80. #qUidNovI (1040) -1<br>
-+27|+17|+12|+10|+6|-2|+6|+9|+6|0<br>
-	2. Shunrai (1:0)<br>
-	3. bejut (1:1)<br>
-	4. someOnh (2:0)<br>
-	5. Xoi (0:1)<br>
-	6. croissant (0:1)<br>
-	8. WickedPizza~656 (5:6)<br>
-<br>
-81. #Fire.n.Ice. (1039) 0<br>
+79. #Fire.n.Ice. (1039) 0<br>
 +15|+8|0|+7|-2|0|-2|-4|0|-3<br>
-	6. croissant (4:3)<br>
+	5. croissant (4:3)<br>
 	7. Parko (0:3)<br>
 	8. WickedPizza~656 (2:1)<br>
 <br>
-82. #shaddow (1038) 0<br>
--31|-34|-43|-35|-20|-11|-13|-6|-10|+1<br>
-	1. Artimal_PL (3:6)<br>
-	4. someOnh (6:5)<br>
-	5. Xoi (3:7)<br>
-	6. croissant (8:14)<br>
-	7. Parko (3:4)<br>
-	8. WickedPizza~656 (11:14)<br>
-	10. dIehAppY (1:0)<br>
-<br>
-83. #AcidOyster~487 (1038) 0<br>
+80. #AcidOyster~487 (1038) 0<br>
 +15<br>
-	5. Xoi (0:2)<br>
-	6. croissant (2:2)<br>
+	4. Xoi (0:2)<br>
+	5. croissant (2:2)<br>
 	8. WickedPizza~656 (2:0)<br>
 <br>
-84. #duruti (1034) -7<br>
--6|-2|-4|-20|-17|-16|-20|-11|-14|-5<br>
+81. #heynongman (1038) -3<br>
++28|+17|+7|+12|+2|+10|+4|0|+3|-7<br>
+	2. Shunrai (1:0)<br>
+	4. Xoi (8:5)<br>
+	6. someOnh (0:2)<br>
+	9. JazzyDeer (2:22)<br>
+<br>
+82. #keyblade335 (1036) +2<br>
++42|+44|+29|+30|+33|+31|+27|+7<br>
+	5. croissant (1:0)<br>
+	6. someOnh (2:0)<br>
+<br>
+83. #yeasonn (1032) -1<br>
++24|+17|+17|+13|+12|+15|+19|+18|+9|+1<br>
+	1. Artimal_PL (1:2)<br>
+	2. Shunrai (0:3)<br>
+	4. Xoi (1:1)<br>
+	5. croissant (3:1)<br>
+	6. someOnh (5:1)<br>
+	7. Parko (0:2)<br>
+	8. WickedPizza~656 (1:2)<br>
+<br>
+84. #duruti (1032) -2<br>
+-7|-3|-6|-21|-18|-18|-21|-12|-16|-7<br>
 	1. Artimal_PL (5:11)<br>
 	3. bejut (0:3)<br>
-	4. someOnh (12:12)<br>
-	5. Xoi (15:19)<br>
-	6. croissant (4:4)<br>
+	4. Xoi (15:19)<br>
+	5. croissant (4:4)<br>
+	6. someOnh (12:12)<br>
 	8. WickedPizza~656 (7:19)<br>
 	10. dIehAppY (8:5)<br>
 <br>
-85. #yeasonn (1033) 0<br>
-+25|+18|+18|+14|+13|+16|+20|+19|+10|+2<br>
-	1. Artimal_PL (1:2)<br>
-	2. Shunrai (0:3)<br>
-	4. someOnh (5:1)<br>
-	5. Xoi (1:1)<br>
-	6. croissant (3:1)<br>
-	7. Parko (0:2)<br>
-	8. WickedPizza~656 (1:4)<br>
-	9. JazzyDeer (1:0)<br>
-<br>
-86. #thehurricane (1032) 0<br>
+85. #thehurricane (1032) 0<br>
 +12|-4|+2|-2|-4|0<br>
-	8. WickedPizza~656 (0:3)<br>
 <br>
-87. #Sadic (1031) 0<br>
+86. #Sadic (1031) 0<br>
 +7|0|+2|0|-2|-18|-15|+3|+14|+1<br>
 	2. Shunrai (0:1)<br>
-	4. someOnh (0:4)<br>
-	6. croissant (1:1)<br>
+	5. croissant (1:1)<br>
+	6. someOnh (0:4)<br>
 	8. WickedPizza~656 (4:5)<br>
 <br>
-88. #Meep (1031) -1<br>
-+16|+16|+11|+9|+5|+6|+9|+4|+3|-2<br>
+87. #MrWayFarOut (1030) 0<br>
++20|-2|-3|0<br>
+	5. croissant (5:10)<br>
+<br>
+88. #SweetPeach~177 (1029) 0<br>
++30|+23|+25|+19|+23|+23|+17|+11|+5|0<br>
+	1. Artimal_PL (5:7)<br>
+	5. croissant (4:1)<br>
+	8. WickedPizza~656 (1:3)<br>
+	10. dIehAppY (3:3)<br>
+<br>
+89. #ATN (1029) -1<br>
++24|+36|+37|+31|+32|+21|+5|+11|-2|+3<br>
+	2. Shunrai (0:1)<br>
+	5. croissant (1:0)<br>
+	8. WickedPizza~656 (5:8)<br>
+	9. JazzyDeer (0:5)<br>
+<br>
+90. #Meep (1028) -2<br>
++14|+14|+8|+7|+3|+4|+6|+2|0|-5<br>
 	1. Artimal_PL (5:9)<br>
 	2. Shunrai (2:5)<br>
 	3. bejut (1:0)<br>
-	4. someOnh (1:4)<br>
-	5. Xoi (1:4)<br>
-	6. croissant (6:19)<br>
+	4. Xoi (1:4)<br>
+	5. croissant (6:19)<br>
+	6. someOnh (1:4)<br>
 	7. Parko (1:6)<br>
 	8. WickedPizza~656 (6:8)<br>
 	10. dIehAppY (1:2)<br>
 <br>
-89. #ATN (1030) +1<br>
-+25|+37|+38|+32|+33|+22|+6|+12|-1|+4<br>
-	2. Shunrai (0:1)<br>
-	6. croissant (1:0)<br>
-	8. WickedPizza~656 (5:8)<br>
-	9. JazzyDeer (0:7)<br>
-<br>
-90. #MrWayFarOut (1030) 0<br>
-+20|-2|-3|0<br>
-	6. croissant (5:10)<br>
-<br>
-91. #SweetPeach~177 (1029) 0<br>
-+30|+23|+25|+19|+23|+23|+17|+11|+5|0<br>
-	1. Artimal_PL (5:7)<br>
-	6. croissant (4:1)<br>
-	8. WickedPizza~656 (1:3)<br>
-	10. dIehAppY (3:3)<br>
-<br>
-92. #hyoshy (1027) +6<br>
-+2|+3|+6|+11|+13|+9|+11|+8|+8|+12<br>
-	1. Artimal_PL (1:2)<br>
-	4. someOnh (1:0)<br>
-	5. Xoi (2:1)<br>
-	6. croissant (1:1)<br>
-	10. dIehAppY (2:3)<br>
-<br>
-93. #Necabo (1027) 0<br>
+91. #Necabo (1027) 0<br>
 +24|+14<br>
 	1. Artimal_PL (1:5)<br>
 	3. bejut (4:1)<br>
-	4. someOnh (6:3)<br>
-	5. Xoi (15:23)<br>
-	6. croissant (1:0)<br>
+	4. Xoi (15:23)<br>
+	5. croissant (1:0)<br>
+	6. someOnh (6:3)<br>
 	7. Parko (4:5)<br>
 <br>
-94. #monsterV (1026) 0<br>
-+4|+11|+10|-2|-6|-6|-3|+6|+5|+3<br>
-	1. Artimal_PL (3:8)<br>
-	4. someOnh (0:2)<br>
-	5. Xoi (3:5)<br>
-	9. JazzyDeer (2:2)<br>
-<br>
-95. #oPs_0ps (1025) -3<br>
-+2|+1|+2|+10|+16|+8|+7|+2|0|-1<br>
+92. #oPs_0ps (1026) 0<br>
++2|+1|+3|+11|+16|+9|+7|+2|+1|0<br>
 	1. Artimal_PL (2:3)<br>
 	3. bejut (0:1)<br>
-	4. someOnh (1:5)<br>
-	5. Xoi (0:1)<br>
-	6. croissant (8:6)<br>
+	4. Xoi (0:1)<br>
+	5. croissant (6:4)<br>
+	6. someOnh (1:5)<br>
 	7. Parko (1:1)<br>
 	8. WickedPizza~656 (0:3)<br>
 	9. JazzyDeer (1:4)<br>
 <br>
-96. #Fourdixs (1025) 0<br>
+93. #monsterV (1026) 0<br>
++4|+11|+10|-2|-6|-6|-3|+6|+5|+3<br>
+	1. Artimal_PL (3:8)<br>
+	4. Xoi (3:5)<br>
+	6. someOnh (0:2)<br>
+	9. JazzyDeer (2:2)<br>
+<br>
+94. #hyoshy (1025) -2<br>
++1|+4|+9|+11|+7|+9|+6|+6|+10|-2<br>
+	1. Artimal_PL (1:2)<br>
+	4. Xoi (2:1)<br>
+	5. croissant (1:1)<br>
+	6. someOnh (1:0)<br>
+	10. dIehAppY (2:3)<br>
+<br>
+95. #Fourdixs (1025) 0<br>
 +20|+17|+9|+17|+12|+7|+7|0<br>
-	6. croissant (3:2)<br>
+	5. croissant (3:2)<br>
 	8. WickedPizza~656 (2:3)<br>
 <br>
-97. #dojunim (1025) 0<br>
+96. #dojunim (1025) 0<br>
 +34|+32|+28|+14|+9|0|+9|+6<br>
 	1. Artimal_PL (1:0)<br>
-	6. croissant (1:2)<br>
+	5. croissant (1:2)<br>
 	8. WickedPizza~656 (1:2)<br>
 	9. JazzyDeer (0:1)<br>
 <br>
-98. #AZ123 (1025) 0<br>
+97. #AZ123 (1025) 0<br>
 +13|+10|+13|+8|+10|+10|+17|+7|+5|+3<br>
 	1. Artimal_PL (1:0)<br>
 	3. bejut (0:1)<br>
@@ -808,720 +800,719 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. WickedPizza~656 (1:5)<br>
 	10. dIehAppY (1:0)<br>
 <br>
-99. #Shadowblaze. (1023) +3<br>
+98. #Shadowblaze. (1023) 0<br>
 +3<br>
-	6. croissant (1:0)<br>
+	5. croissant (1:0)<br>
 	9. JazzyDeer (12:13)<br>
 <br>
-100. #TheMainEvent (1023) +1<br>
-+20|+25|+20|+11|+13|0<br>
+99. #PaperGoose~533 (1022) 0<br>
++21|+21|+18|+16|+4|+3|+7|+11|+8|+1<br>
+	5. croissant (2:8)<br>
+<br>
+100. #Vagabond- (1022) 0<br>
++8|0<br>
+	1. Artimal_PL (1:0)<br>
+	4. Xoi (4:4)<br>
+	5. croissant (1:0)<br>
+	6. someOnh (1:2)<br>
+	8. WickedPizza~656 (0:1)<br>
+<br>
+101. #TheMainEvent (1021) -2<br>
++18|+22|+18|+9|+10|-3|0<br>
 	1. Artimal_PL (4:13)<br>
-	2. Shunrai (0:3)<br>
-	4. someOnh (3:6)<br>
-	5. Xoi (4:7)<br>
-	6. croissant (7:16)<br>
+	4. Xoi (4:7)<br>
+	5. croissant (7:17)<br>
+	6. someOnh (4:7)<br>
 	7. Parko (4:5)<br>
 	8. WickedPizza~656 (12:15)<br>
 	10. dIehAppY (5:5)<br>
 <br>
-101. #PaperGoose~533 (1022) 0<br>
-+21|+21|+18|+16|+4|+3|+7|+11|+8|+1<br>
-	6. croissant (2:8)<br>
-<br>
-102. #Vagabond- (1022) 0<br>
-+8|0<br>
-	1. Artimal_PL (1:0)<br>
-	4. someOnh (1:2)<br>
-	5. Xoi (4:4)<br>
-	6. croissant (1:0)<br>
-	8. WickedPizza~656 (0:1)<br>
-<br>
-103. #ZanyPear~221 (1020) 0<br>
+102. #ZanyPear~221 (1020) 0<br>
 +15|+23|+25|+20|+10|+7|+12|+13|+8|+7<br>
-	2. Shunrai (0:1)<br>
-	4. someOnh (0:1)<br>
-	6. croissant (1:1)<br>
+	5. croissant (1:1)<br>
 	8. WickedPizza~656 (2:1)<br>
 <br>
-104. #asshat (1019) 0<br>
+103. #asshat (1019) 0<br>
 +9|+12|+3|0|-3|+3|+1|-3|+4|+2<br>
 	1. Artimal_PL (5:6)<br>
 	2. Shunrai (1:2)<br>
-	4. someOnh (1:2)<br>
-	5. Xoi (10:8)<br>
-	6. croissant (2:4)<br>
+	4. Xoi (10:8)<br>
+	5. croissant (2:4)<br>
+	6. someOnh (1:2)<br>
 	8. WickedPizza~656 (7:6)<br>
 <br>
-105. #SweetTooth~619 (1018) -2<br>
+104. #SweetTooth~619 (1018) 0<br>
 -2|+3|-3|-7|-13|-17|-16|-19|-10|-5<br>
 	2. Shunrai (1:3)<br>
 	10. dIehAppY (4:5)<br>
 <br>
-106. #BigTemper~185 (1018) 0<br>
-+10|+1<br>
-	2. Shunrai (1:0)<br>
-	5. Xoi (2:2)<br>
-<br>
-107. #thestallion (1017) 0<br>
-+22|+22|+15|+1|-5|+2|0<br>
-	6. croissant (1:0)<br>
-	8. WickedPizza~656 (0:2)<br>
-	9. JazzyDeer (1:9)<br>
-	10. dIehAppY (2:3)<br>
-<br>
-108. #lostintime (1017) 0<br>
-+8|+9<br>
-	6. croissant (1:3)<br>
-	7. Parko (4:5)<br>
-<br>
-109. #BigUU (1017) +4<br>
-+22|+17|+15|+22|+36|+40|+43|+22|+12|+4<br>
-	4. someOnh (2:2)<br>
-	5. Xoi (1:5)<br>
-	6. croissant (3:7)<br>
-	7. Parko (2:8)<br>
-	8. WickedPizza~656 (3:1)<br>
-	10. dIehAppY (1:2)<br>
-<br>
-110. #NinjaBooM (1016) +1<br>
-+11|+12|+8|+9|+8|+1<br>
-	5. Xoi (2:2)<br>
-	6. croissant (0:1)<br>
-	7. Parko (0:1)<br>
-	8. WickedPizza~656 (2:3)<br>
-	9. JazzyDeer (2:7)<br>
-	10. dIehAppY (0:2)<br>
-<br>
-111. #sofierce (1014) 0<br>
-+2|-1|-5|-13|-10|-4|+6|+6|-2|0<br>
-	1. Artimal_PL (7:3)<br>
-	3. bejut (0:2)<br>
-	5. Xoi (5:7)<br>
-	8. WickedPizza~656 (10:6)<br>
-	10. dIehAppY (6:8)<br>
-<br>
-112. #Snake1976 (1012) +3<br>
--20|-14|-22|-19|-22|-16|-19|-14|-8|-2<br>
-	1. Artimal_PL (2:7)<br>
-	2. Shunrai (6:9)<br>
-	4. someOnh (5:5)<br>
-	5. Xoi (8:9)<br>
-	6. croissant (7:9)<br>
+105. #Snake1976 (1018) +6<br>
+-8|-16|-13|-16|-9|-13|-8|-1|+4|+5<br>
+	1. Artimal_PL (1:6)<br>
+	2. Shunrai (3:7)<br>
+	4. Xoi (8:9)<br>
+	5. croissant (7:9)<br>
+	6. someOnh (8:6)<br>
 	7. Parko (1:0)<br>
 	8. WickedPizza~656 (9:9)<br>
 	10. dIehAppY (0:1)<br>
 <br>
-113. #CaptainCrook (1012) +1<br>
-+23|+21|+21|+14|+13|+16|+14|+5|+7|+6<br>
-	4. someOnh (5:3)<br>
-	5. Xoi (4:0)<br>
-	6. croissant (2:3)<br>
-	7. Parko (1:1)<br>
+106. #BigTemper~185 (1018) 0<br>
++10|+1<br>
+	4. Xoi (2:2)<br>
+<br>
+107. #NinjaBooM (1018) +2<br>
++13|+14|+10|+11|+10|+2<br>
+	4. Xoi (2:2)<br>
+	5. croissant (1:2)<br>
+	7. Parko (0:1)<br>
+	8. WickedPizza~656 (2:3)<br>
+	9. JazzyDeer (3:9)<br>
+	10. dIehAppY (0:2)<br>
+<br>
+108. #thestallion (1017) 0<br>
++22|+22|+15|+1|-5|+2|0<br>
+	5. croissant (1:0)<br>
+	8. WickedPizza~656 (0:2)<br>
+	9. JazzyDeer (1:9)<br>
+	10. dIehAppY (2:3)<br>
+<br>
+109. #lostintime (1017) 0<br>
++8|+9<br>
+	5. croissant (1:3)<br>
+	7. Parko (4:5)<br>
+<br>
+110. #sofierce (1017) +3<br>
++2|-2|-10|-7|-1|+9|+9|+1|+3|+1<br>
+	1. Artimal_PL (7:3)<br>
+	3. bejut (0:2)<br>
+	4. Xoi (5:7)<br>
+	5. croissant (0:1)<br>
+	6. someOnh (2:0)<br>
+	8. WickedPizza~656 (10:6)<br>
+	10. dIehAppY (6:9)<br>
+<br>
+111. #BigUU (1016) 0<br>
++22|+17|+15|+22|+35|+40|+42|+22|+12|+4<br>
+	4. Xoi (1:5)<br>
+	5. croissant (3:7)<br>
+	6. someOnh (2:2)<br>
+	8. WickedPizza~656 (3:1)<br>
+	10. dIehAppY (1:2)<br>
+<br>
+112. #CaptainCrook (1014) +2<br>
++25|+23|+23|+16|+15|+18|+16|+7|+9|+8<br>
+	4. Xoi (4:0)<br>
+	5. croissant (2:3)<br>
+	6. someOnh (3:3)<br>
+	7. Parko (0:1)<br>
 	8. WickedPizza~656 (7:10)<br>
 	9. JazzyDeer (0:2)<br>
 	10. dIehAppY (4:4)<br>
 <br>
-114. #AppleDragon (1011) 0<br>
-+28|+23|+29|+19|+16|+21|+35|+23|+16|+5<br>
-	6. croissant (5:3)<br>
+113. #AppleDragon (1012) +1<br>
++28|+24|+30|+19|+16|+22|+36|+23|+17|+6<br>
+	5. croissant (7:3)<br>
 	7. Parko (2:3)<br>
 	10. dIehAppY (0:1)<br>
 <br>
-115. #hiasele (1011) 0<br>
+114. #hiasele (1011) 0<br>
 +9|+1|+3|+5|+6|-6|-17|-22|-7|-4<br>
 	1. Artimal_PL (1:1)<br>
-	4. someOnh (2:1)<br>
+	6. someOnh (2:1)<br>
 	9. JazzyDeer (0:2)<br>
 <br>
-116. #Rawz (1010) 0<br>
-+7|+6|+9|+5<br>
+115. #Rawz (1011) +1<br>
++8|+7|+10|+5<br>
 	2. Shunrai (1:2)<br>
-	4. someOnh (0:3)<br>
+	6. someOnh (0:3)<br>
 	7. Parko (3:4)<br>
 	9. JazzyDeer (1:0)<br>
 <br>
-117. #Infatuation- (1010) 0<br>
+116. #Infatuation- (1010) 0<br>
 +2<br>
 	1. Artimal_PL (5:6)<br>
 	2. Shunrai (0:3)<br>
-	5. Xoi (1:7)<br>
+	4. Xoi (1:7)<br>
 <br>
-118. #AnkleBreaker (1009) +2<br>
-+2<br>
-	9. JazzyDeer (0:2)<br>
-<br>
-119. #HollowHoppe~374 (1008) -1<br>
+117. #HollowHoppe~374 (1008) 0<br>
 0<br>
-	6. croissant (0:1)<br>
+	5. croissant (0:1)<br>
 <br>
-120. #sjehsan (1007) -2<br>
--1|-13|-8|+5|+10|+8|+5|+9|+2|+1<br>
-	1. Artimal_PL (3:11)<br>
-	2. Shunrai (0:1)<br>
-	5. Xoi (1:5)<br>
-	6. croissant (1:0)<br>
-	8. WickedPizza~656 (10:10)<br>
-	10. dIehAppY (1:2)<br>
+118. #BloodyRoots (1007) +2<br>
++1<br>
 <br>
-121. #SparkyPlane (1007) 0<br>
-+8|+6|+6|+1|+11|+6|+6|+6|0<br>
-	6. croissant (2:0)<br>
-<br>
-122. #SassyWalrus~319 (1007) 0<br>
-<br>
-<br>
-123. #Inspiration- (1007) 0<br>
+119. #Inspiration- (1007) 0<br>
 +3<br>
 	1. Artimal_PL (3:0)<br>
 	2. Shunrai (3:4)<br>
-	5. Xoi (3:2)<br>
-	6. croissant (0:2)<br>
+	4. Xoi (3:2)<br>
+	5. croissant (0:2)<br>
 	8. WickedPizza~656 (2:1)<br>
 	9. JazzyDeer (1:4)<br>
 <br>
-124. #GreenRegret~922 (1006) 0<br>
+120. #SparkyPlane (1006) -1<br>
++7|+5|+5|0|+10|+5|+5|+5|-1<br>
+	5. croissant (2:0)<br>
 <br>
-	4. someOnh (1:1)<br>
-	6. croissant (2:3)<br>
+121. #sjehsan (1006) -2<br>
+-15|-10|+3|+8|+7|+3|+7|0|0|-2<br>
+	1. Artimal_PL (2:8)<br>
+	2. Shunrai (0:1)<br>
+	4. Xoi (1:5)<br>
+	5. croissant (1:0)<br>
+	6. someOnh (0:1)<br>
+	8. WickedPizza~656 (10:10)<br>
+	10. dIehAppY (1:2)<br>
 <br>
-125. #BloodyRoots (1005) 0<br>
--1<br>
+122. #GreenRegret~922 (1006) 0<br>
 <br>
-126. #SUPREME-- (1005) 0<br>
+	5. croissant (2:3)<br>
+	6. someOnh (1:1)<br>
+<br>
+123. #SUPREME-- (1005) 0<br>
 +7<br>
 	1. Artimal_PL (0:3)<br>
 	2. Shunrai (0:1)<br>
-	4. someOnh (1:2)<br>
-	5. Xoi (0:2)<br>
-	6. croissant (1:2)<br>
+	4. Xoi (0:2)<br>
+	5. croissant (1:2)<br>
+	6. someOnh (0:1)<br>
 	7. Parko (0:2)<br>
 	8. WickedPizza~656 (0:4)<br>
 <br>
-127. #Gal-Kung-Fu (1005) 0<br>
+124. #CozyBike~447 (1005) 0<br>
++3<br>
+	4. Xoi (1:0)<br>
+	5. croissant (1:1)<br>
+	6. someOnh (3:1)<br>
+<br>
+125. #Gal-Kung-Fu (1005) 0<br>
 +2<br>
 	1. Artimal_PL (0:4)<br>
 	3. bejut (2:1)<br>
-	5. Xoi (1:4)<br>
-	6. croissant (1:3)<br>
+	4. Xoi (1:4)<br>
+	5. croissant (1:3)<br>
 	7. Parko (3:5)<br>
 	9. JazzyDeer (0:1)<br>
 <br>
-128. #EagerCheese~514 (1002) 0<br>
-+3<br>
-	1. Artimal_PL (0:3)<br>
-	7. Parko (1:2)<br>
-	9. JazzyDeer (0:2)<br>
+126. #Starfleet (1003) -1<br>
++25|+10|+19|+10|-1|+3|0|-2|+3|0<br>
+	2. Shunrai (0:1)<br>
+	5. croissant (0:3)<br>
+	6. someOnh (2:2)<br>
+	10. dIehAppY (1:0)<br>
 <br>
-129. #SlimBean~275 (1002) +2<br>
+127. #raphfg (1001) +10<br>
++7<br>
+	1. Artimal_PL (0:1)<br>
+	8. WickedPizza~656 (2:6)<br>
 <br>
+128. #YouCantWin (1000) 0<br>
 <br>
-130. #Bi-Polar (1001) -3<br>
+	2. Shunrai (0:3)<br>
+	6. someOnh (1:1)<br>
+	9. JazzyDeer (4:4)<br>
 <br>
-	6. croissant (1:3)<br>
+129. #Bi-Polar (1000) -1<br>
+<br>
+	5. croissant (2:3)<br>
 	7. Parko (0:2)<br>
 	8. WickedPizza~656 (0:1)<br>
 <br>
-131. #jennygirl (1001) -1<br>
-+8|-9|-16|-32|-30|-37|-19|-11|-5|-4<br>
+130. #Kaborage (999) +5<br>
++38|+31|+17|+17|+9|+9|+12|+10|+10|+2<br>
+	1. Artimal_PL (2:6)<br>
+	2. Shunrai (1:3)<br>
+	4. Xoi (3:3)<br>
+	5. croissant (12:3)<br>
+	6. someOnh (5:5)<br>
+	7. Parko (0:6)<br>
+	8. WickedPizza~656 (8:7)<br>
+	10. dIehAppY (4:4)<br>
+<br>
+131. #blankedout (998) 0<br>
+-1|-9|-8|-15|-10|-8|-4|-8|-2|+1<br>
+	4. Xoi (0:2)<br>
+	9. JazzyDeer (0:4)<br>
+<br>
+132. #bot (998) +12<br>
+0|-15|-17|-3|+4|-9|-7|-24|-21|-3<br>
+	1. Artimal_PL (1:0)<br>
+	2. Shunrai (1:2)<br>
+	3. bejut (2:5)<br>
+	4. Xoi (1:5)<br>
+	6. someOnh (7:4)<br>
+	7. Parko (2:0)<br>
+	9. JazzyDeer (17:24)<br>
+<br>
+133. #jennygirl (998) -3<br>
+-12|-19|-35|-33|-40|-22|-14|-8|-7|+2<br>
 	1. Artimal_PL (0:5)<br>
-	2. Shunrai (2:6)<br>
+	2. Shunrai (0:5)<br>
 	3. bejut (1:5)<br>
-	4. someOnh (4:3)<br>
-	5. Xoi (6:2)<br>
-	6. croissant (12:17)<br>
-	7. Parko (25:26)<br>
+	4. Xoi (6:2)<br>
+	5. croissant (12:17)<br>
+	6. someOnh (4:5)<br>
+	7. Parko (20:23)<br>
 	8. WickedPizza~656 (4:13)<br>
 	10. dIehAppY (4:1)<br>
 <br>
-132. #YouCantWin (1000) 0<br>
-<br>
-	2. Shunrai (0:3)<br>
-	4. someOnh (1:1)<br>
-	9. JazzyDeer (4:4)<br>
-<br>
-133. #blankedout (998) 0<br>
--1|-9|-8|-15|-10|-8|-4|-8|-2|+1<br>
-	5. Xoi (0:2)<br>
-	9. JazzyDeer (0:4)<br>
-<br>
-134. #Knightimer (998) +8<br>
--16|-13|-15|-11|-17|-10|-3|-6|+1|+7<br>
-	2. Shunrai (1:4)<br>
-	5. Xoi (1:0)<br>
-	6. croissant (18:27)<br>
-	7. Parko (2:14)<br>
-	8. WickedPizza~656 (15:9)<br>
-	10. dIehAppY (4:4)<br>
-<br>
-135. #MonkkeyTrikk (997) 0<br>
-0|-5|-12|-10|-10|-7|-11|-7|-3<br>
-	1. Artimal_PL (0:4)<br>
-<br>
-136. #DankMemes12 (997) 0<br>
+134. #DankMemes12 (997) 0<br>
 -4|-1<br>
 	8. WickedPizza~656 (2:2)<br>
 	9. JazzyDeer (4:6)<br>
 <br>
-137. #scottyo99 (997) 0<br>
+135. #scottyo99 (997) 0<br>
 +1|0<br>
-	9. JazzyDeer (8:10)<br>
+	9. JazzyDeer (6:7)<br>
 <br>
-138. #skyblaze (997) 0<br>
+136. #SlimBean~275 (997) -5<br>
+0<br>
+	6. someOnh (2:3)<br>
+	10. dIehAppY (1:2)<br>
+<br>
+137. #skyblaze (997) 0<br>
 -4|-2|+2<br>
 <br>
-139. #Krizzy (995) 0<br>
+138. #MonkkeyTrikk (997) 0<br>
+0|-5|-13|-10|-10|-8|-12|-8|-3<br>
+	1. Artimal_PL (0:4)<br>
+<br>
+139. #RAGnChicken (996) +2<br>
++1<br>
+	9. JazzyDeer (2:0)<br>
+	10. dIehAppY (0:1)<br>
+<br>
+140. #Krizzy (995) 0<br>
 0<br>
 	1. Artimal_PL (2:3)<br>
 	3. bejut (0:1)<br>
-	4. someOnh (3:3)<br>
-	5. Xoi (0:3)<br>
-	6. croissant (4:8)<br>
+	4. Xoi (0:3)<br>
+	5. croissant (4:8)<br>
+	6. someOnh (3:3)<br>
 	8. WickedPizza~656 (2:1)<br>
 	10. dIehAppY (2:3)<br>
 <br>
-140. #a_madness_of (995) 0<br>
--7|-17|-20|-22|-15|-6|-7|+1|+5|-1<br>
-	5. Xoi (0:1)<br>
-	6. croissant (7:15)<br>
-	7. Parko (3:2)<br>
-	8. WickedPizza~656 (10:11)<br>
-	10. dIehAppY (1:0)<br>
+141. #Knightimer (995) -3<br>
+-18|-15|-17|-13|-19|-13|-5|-9|-1|+4<br>
+	2. Shunrai (1:4)<br>
+	4. Xoi (1:0)<br>
+	5. croissant (18:27)<br>
+	7. Parko (2:14)<br>
+	8. WickedPizza~656 (15:9)<br>
+	10. dIehAppY (4:4)<br>
 <br>
-141. #Huffines (995) 0<br>
+142. #Huffines (995) 0<br>
 -8|-2|-2|+1|-3|-6|+2|-2|-8<br>
 	8. WickedPizza~656 (0:1)<br>
 	9. JazzyDeer (1:10)<br>
 <br>
-142. #zintencityp (994) 0<br>
+143. #a_madness_of (995) 0<br>
+-17|-20|-22|-15|-7|-7|+1|+5|-1|+1<br>
+	4. Xoi (0:1)<br>
+	5. croissant (7:15)<br>
+	7. Parko (3:2)<br>
+	8. WickedPizza~656 (10:11)<br>
+	10. dIehAppY (1:0)<br>
+<br>
+144. #zintencityp (994) 0<br>
 -21|-17|-7|-6|-6|-1|0|0|+4|+3<br>
-	6. croissant (2:2)<br>
+	5. croissant (2:2)<br>
 	7. Parko (1:0)<br>
 	8. WickedPizza~656 (2:9)<br>
 	10. dIehAppY (2:0)<br>
 <br>
-143. #RAGnChicken (994) -4<br>
--1<br>
-	9. JazzyDeer (2:0)<br>
-	10. dIehAppY (0:1)<br>
-<br>
-144. #Galithor (994) +7<br>
+145. #Galithor (994) 0<br>
 +6|-2<br>
-	4. someOnh (0:1)<br>
+	6. someOnh (0:1)<br>
 	9. JazzyDeer (1:2)<br>
 	10. dIehAppY (1:0)<br>
 <br>
-145. #Kaborage (993) 0<br>
-+32|+25|+11|+12|+3|+3|+6|+5|+4|-4<br>
-	1. Artimal_PL (2:6)<br>
-	2. Shunrai (1:3)<br>
-	4. someOnh (3:3)<br>
-	5. Xoi (1:3)<br>
-	6. croissant (8:3)<br>
-	7. Parko (0:6)<br>
-	8. WickedPizza~656 (8:7)<br>
-	10. dIehAppY (3:3)<br>
+146. #yari78 (993) +2<br>
+-7|-9|-7|-2|-5|-6|-7|-13|-3|+2<br>
+	2. Shunrai (1:2)<br>
+	8. WickedPizza~656 (3:3)<br>
 <br>
-146. #alien88 (993) +2<br>
+147. #alien88 (993) 0<br>
 +5<br>
 	7. Parko (1:0)<br>
 	8. WickedPizza~656 (0:6)<br>
 	9. JazzyDeer (0:3)<br>
 <br>
-147. #VOSTOK (993) 0<br>
--20|-17|-17|-20|-17|-21|-19|-11|-7|-9<br>
-	1. Artimal_PL (4:0)<br>
-	2. Shunrai (5:4)<br>
-	4. someOnh (1:1)<br>
-	5. Xoi (0:1)<br>
-	6. croissant (0:1)<br>
-	7. Parko (1:1)<br>
-	8. WickedPizza~656 (0:1)<br>
-<br>
 148. #amra9 (992) 0<br>
 -1<br>
 	2. Shunrai (0:1)<br>
-	5. Xoi (1:1)<br>
+	4. Xoi (1:1)<br>
 <br>
 149. #z.snafu (992) 0<br>
 +15|+20|+21|+11|+6|+9|+20|+15|+1|+6<br>
-	8. WickedPizza~656 (0:1)<br>
 	9. JazzyDeer (4:2)<br>
 <br>
-150. #yari78 (992) 0<br>
--8|-9|-11|-9|-4|-6|-8|-8|-14|-5<br>
-	2. Shunrai (1:2)<br>
-	8. WickedPizza~656 (3:3)<br>
+150. #VOSTOK (991) -2<br>
+-22|-19|-19|-22|-19|-23|-21|-12|-9|-11<br>
+	1. Artimal_PL (4:0)<br>
+	4. Xoi (0:1)<br>
+	5. croissant (0:3)<br>
+	6. someOnh (2:1)<br>
+	7. Parko (1:1)<br>
+	8. WickedPizza~656 (0:1)<br>
 <br>
-151. #raphfg (991) -2<br>
--3<br>
-	1. Artimal_PL (0:1)<br>
-	8. WickedPizza~656 (2:6)<br>
-<br>
-152. #RaggedZebra (990) 0<br>
+151. #RaggedZebra (990) 0<br>
 -1|+4|+9|+12|+11|+19|+19|+13|+9|-2<br>
 	1. Artimal_PL (1:2)<br>
-	4. someOnh (2:3)<br>
-	5. Xoi (2:7)<br>
-	6. croissant (2:2)<br>
+	4. Xoi (2:7)<br>
+	5. croissant (2:2)<br>
+	6. someOnh (2:3)<br>
 	8. WickedPizza~656 (4:2)<br>
 <br>
-153. #CHAMPIONS (990) 0<br>
--11|-10|-5|-5|-12|-9|0|+4|+3|+1<br>
-	3. bejut (1:1)<br>
-	6. croissant (1:4)<br>
-	8. WickedPizza~656 (0:2)<br>
-<br>
-154. #Andy65536 (988) 0<br>
--13|-5|-7|-15|-1<br>
+152. #Andy65536 (989) +1<br>
+-12|-4|-6|-14|0<br>
 	3. bejut (0:3)<br>
-	5. Xoi (2:1)<br>
-	6. croissant (2:5)<br>
+	4. Xoi (2:1)<br>
+	5. croissant (2:5)<br>
 <br>
-155. #lava_76 (988) -2<br>
--2|+6|+12|+14|+17|+14|+14|+7|+3|-1<br>
+153. #CHAMPIONS (989) -1<br>
+-12|-11|-5|-6|-13|-10|-1|+3|+2|0<br>
+	3. bejut (1:1)<br>
+	5. croissant (1:4)<br>
+<br>
+154. #phantomplan (989) +2<br>
+-6|-3|-12|-9|-10|-4|0|+4|0|+2<br>
+	5. croissant (2:3)<br>
+	6. someOnh (2:1)<br>
+	7. Parko (1:3)<br>
+<br>
+155. #lava_76 (988) 0<br>
+-2|+6|+12|+14|+17|+14|+14|+7|+4|-1<br>
 	1. Artimal_PL (0:1)<br>
 	8. WickedPizza~656 (1:1)<br>
 <br>
 156. #lexa96as (988) 0<br>
 -2<br>
-	5. Xoi (0:1)<br>
+	4. Xoi (0:1)<br>
 <br>
-157. #phantomplan (987) 0<br>
--8|-5|-13|-11|-12|-6|-2|+2|-2|0<br>
-	6. croissant (2:3)<br>
-	7. Parko (1:3)<br>
-<br>
-158. #HAIDER99 (987) -1<br>
--5|+7|+9|-2<br>
+157. #HAIDER99 (987) 0<br>
+-5|+8|+10|-1<br>
 	3. bejut (0:1)<br>
-	4. someOnh (1:0)<br>
-	5. Xoi (2:2)<br>
-	6. croissant (2:2)<br>
+	4. Xoi (2:2)<br>
+	5. croissant (2:2)<br>
+	6. someOnh (1:0)<br>
 	7. Parko (2:4)<br>
 	8. WickedPizza~656 (1:1)<br>
 <br>
-159. #bot (986) -14<br>
--17|+1|-13|-10|-12|0|-11|-27|-28|-15<br>
-	1. Artimal_PL (3:0)<br>
-	2. Shunrai (1:3)<br>
-	3. bejut (2:5)<br>
-	4. someOnh (4:4)<br>
-	5. Xoi (1:5)<br>
-	7. Parko (2:0)<br>
-	9. JazzyDeer (17:25)<br>
-<br>
-160. #bandy (986) 0<br>
--7|-5|-8|-10|-15|-16|-12|-8|-4|-1<br>
-	7. Parko (1:3)<br>
-	10. dIehAppY (1:1)<br>
-<br>
-161. #mthomas76 (985) 0<br>
+158. #mthomas76 (985) 0<br>
 -10|-18|-30|-31|-28|-20|-18|-11|+3|+2<br>
 	1. Artimal_PL (1:3)<br>
 	2. Shunrai (2:0)<br>
-	6. croissant (2:5)<br>
+	5. croissant (2:5)<br>
 	8. WickedPizza~656 (0:2)<br>
+<br>
+159. #Jamesking135 (985) +3<br>
+-10|-10|-7|+2<br>
+	1. Artimal_PL (1:3)<br>
+	5. croissant (0:1)<br>
+<br>
+160. #SappyBlur (985) -1<br>
+-6|-2|-4|-4|-10|-3|-1|+2|+4|0<br>
+<br>
+161. #bandy (984) -1<br>
+-8|-6|-10|-11|-16|-17|-13|-9|-5|-2<br>
+	7. Parko (1:3)<br>
+	10. dIehAppY (1:1)<br>
 <br>
 162. #mucker2.0 (983) 0<br>
 -5|-3|-3|-9|-9|-1|-3|+2|-2|-6<br>
 <br>
-163. #Jamesking135 (982) 0<br>
--13|-13|-9|-1<br>
-	1. Artimal_PL (1:3)<br>
-	6. croissant (0:1)<br>
-<br>
-164. #antv2 (982) +1<br>
--10|-9|-12|-9|-10|-15|-12|-3|+2|+1<br>
-	1. Artimal_PL (0:3)<br>
-	5. Xoi (5:6)<br>
-	6. croissant (3:4)<br>
-	7. Parko (1:1)<br>
-	8. WickedPizza~656 (2:6)<br>
-<br>
-165. #M6l8-711 (982) 0<br>
--7<br>
+163. #M6l8-711 (982) +1<br>
+-6<br>
 	2. Shunrai (0:1)<br>
-	5. Xoi (0:3)<br>
-	6. croissant (0:3)<br>
+	4. Xoi (0:3)<br>
+	5. croissant (0:3)<br>
 	7. Parko (3:1)<br>
 	8. WickedPizza~656 (3:1)<br>
-	9. JazzyDeer (1:0)<br>
 <br>
-166. #lelofadel111 (981) 0<br>
--18|-19|-9|-9|-10<br>
+164. #lelofadel111 (980) -1<br>
+-19|-20|-10|-10|-11<br>
 	2. Shunrai (0:1)<br>
-	4. someOnh (0:1)<br>
-	5. Xoi (1:2)<br>
-	7. Parko (1:4)<br>
+	4. Xoi (1:2)<br>
+	6. someOnh (0:1)<br>
+	7. Parko (0:1)<br>
 	8. WickedPizza~656 (0:1)<br>
 <br>
-167. #BigHuggie (979) -1<br>
+165. #BigHuggie (979) 0<br>
 -9|-12|-11|-8|+2<br>
-	6. croissant (0:1)<br>
+	5. croissant (0:1)<br>
 	8. WickedPizza~656 (0:1)<br>
 <br>
-168. #Polyergic (978) -5<br>
+166. #Polyergic (978) 0<br>
 -2|-19|-30|-14<br>
-	5. Xoi (0:5)<br>
+	4. Xoi (0:5)<br>
 	9. JazzyDeer (0:1)<br>
 <br>
-169. #LastTimeLord (978) -2<br>
-+8|+7|+8|+16|+13|+7|+2|+5|-4|-5<br>
-	1. Artimal_PL (4:12)<br>
+167. #LastTimeLord (977) -1<br>
++7|+6|+7|+15|+12|+6|+1|+4|-5|-6<br>
+	1. Artimal_PL (3:9)<br>
 	2. Shunrai (3:6)<br>
 	3. bejut (0:2)<br>
-	4. someOnh (8:10)<br>
-	5. Xoi (11:12)<br>
-	6. croissant (11:13)<br>
+	4. Xoi (11:12)<br>
+	5. croissant (11:13)<br>
+	6. someOnh (6:8)<br>
 	7. Parko (1:5)<br>
 	8. WickedPizza~656 (13:18)<br>
 	10. dIehAppY (3:6)<br>
 <br>
-170. #gervi (976) +2<br>
--9|-6|-6|-2|-4|-1|-1|-6|-4|+4<br>
+168. #gervi (976) 0<br>
+-6|-6|-2|-4|-1|-1|-6|-3|+4|+3<br>
 	1. Artimal_PL (9:10)<br>
 	2. Shunrai (5:8)<br>
 	3. bejut (0:4)<br>
-	4. someOnh (11:7)<br>
-	5. Xoi (7:11)<br>
-	6. croissant (3:13)<br>
+	4. Xoi (7:11)<br>
+	5. croissant (5:15)<br>
+	6. someOnh (16:9)<br>
 	7. Parko (2:1)<br>
 	8. WickedPizza~656 (14:22)<br>
 	10. dIehAppY (7:5)<br>
 <br>
-171. #a7mad (975) 0<br>
+169. #antv2 (976) -6<br>
+-17|-15|-18|-16|-16|-21|-18|-10|-4|-6<br>
+	1. Artimal_PL (0:3)<br>
+	4. Xoi (5:6)<br>
+	5. croissant (3:4)<br>
+	7. Parko (1:1)<br>
+	8. WickedPizza~656 (2:6)<br>
+<br>
+170. #a7mad (975) 0<br>
 -16|-6|-6<br>
-	5. Xoi (2:3)<br>
+	4. Xoi (2:3)<br>
+	5. croissant (1:0)<br>
 <br>
-172. #Milky007 (974) -3<br>
--10<br>
+171. #Milky007 (973) -1<br>
+-11<br>
 	1. Artimal_PL (0:1)<br>
-	4. someOnh (2:1)<br>
-	5. Xoi (2:4)<br>
+	4. Xoi (2:4)<br>
+	6. someOnh (2:1)<br>
 <br>
-173. #GenBelIblis (972) 0<br>
--20|-17|-14|-10|+1|+9|-4|-5|0<br>
-	6. croissant (0:1)<br>
+172. #GenBelIblis (971) -1<br>
+-21|-18|-15|-11|0|+8|-5|-6|-1<br>
+	5. croissant (0:1)<br>
 	10. dIehAppY (2:0)<br>
 <br>
-174. #statenisland (967) +12<br>
--6|+2|+3|-1|0|+1|-4|-12|+3|+10<br>
-	1. Artimal_PL (1:1)<br>
-	2. Shunrai (2:3)<br>
-	4. someOnh (1:4)<br>
-	5. Xoi (3:1)<br>
-	6. croissant (2:0)<br>
-	8. WickedPizza~656 (10:4)<br>
-	9. JazzyDeer (1:0)<br>
-<br>
-175. #Almarcha (965) +2<br>
--29|-16|-6|-4<br>
-	1. Artimal_PL (3:2)<br>
-	4. someOnh (0:2)<br>
-	6. croissant (0:1)<br>
+173. #Almarcha (964) 0<br>
+-30|-16|-7|-4<br>
+	5. croissant (0:1)<br>
 	9. JazzyDeer (0:2)<br>
 <br>
-176. #LilacRabbit (962) 0<br>
+174. #Viper715 (962) +2<br>
+-24|-27|-28|-18|-14|-4|+2|+1<br>
+	2. Shunrai (0:1)<br>
+	5. croissant (1:0)<br>
+	6. someOnh (1:4)<br>
+	8. WickedPizza~656 (4:11)<br>
+<br>
+175. #LilacRabbit (962) 0<br>
 +1|+3|+2|+3|-1|-9|-9|-3|-3|0<br>
 <br>
-177. #mashehu (960) -1<br>
-+20|+24|+20|+10|+11|-3|-1|+6|+4|-1<br>
-	1. Artimal_PL (0:1)<br>
-	4. someOnh (1:0)<br>
-	5. Xoi (1:6)<br>
-	6. croissant (4:7)<br>
-	8. WickedPizza~656 (2:11)<br>
-	10. dIehAppY (1:6)<br>
-<br>
-178. #Viper715 (960) -1<br>
--27|-29|-30|-20|-16|-6|0|-1<br>
-	2. Shunrai (0:1)<br>
-	4. someOnh (1:4)<br>
-	6. croissant (1:0)<br>
-	8. WickedPizza~656 (5:14)<br>
-<br>
-179. #meltedcheese (960) +3<br>
--50|-31|-29|-16|-17|-14|-13|+2|-6|+3<br>
-	2. Shunrai (2:1)<br>
-	3. bejut (0:5)<br>
-	4. someOnh (1:0)<br>
-	5. Xoi (4:1)<br>
-	6. croissant (0:3)<br>
+176. #meltedcheese (961) +1<br>
+-49|-30|-28|-15|-16|-13|-12|+3|-6|+4<br>
+	4. Xoi (4:1)<br>
+	5. croissant (0:3)<br>
 	8. WickedPizza~656 (1:8)<br>
 	10. dIehAppY (2:6)<br>
 <br>
-180. #moofaffa4 (960) 0<br>
+177. #statenisland (961) -6<br>
+-5|-3|-7|-6|-5|-10|-18|-3|+4|+1<br>
+	1. Artimal_PL (1:1)<br>
+	2. Shunrai (2:3)<br>
+	4. Xoi (3:1)<br>
+	5. croissant (2:0)<br>
+	6. someOnh (1:4)<br>
+	8. WickedPizza~656 (5:2)<br>
+<br>
+178. #mashehu (960) -1<br>
++19|+24|+20|+10|+10|-4|-1|+5|+3|-2<br>
+	1. Artimal_PL (0:1)<br>
+	4. Xoi (1:6)<br>
+	5. croissant (4:7)<br>
+	6. someOnh (1:0)<br>
+	8. WickedPizza~656 (2:11)<br>
+	10. dIehAppY (1:6)<br>
+<br>
+179. #moofaffa4 (960) 0<br>
 -29|-22|-8|-6|+3|+10|+8|0<br>
-	7. Parko (0:1)<br>
 	8. WickedPizza~656 (4:5)<br>
 	10. dIehAppY (3:1)<br>
 <br>
-181. #marcsync (960) 0<br>
+180. #marcsync (960) 0<br>
 -34|-26|-21|-13|-16|-19|-8<br>
 	1. Artimal_PL (2:3)<br>
-	4. someOnh (3:8)<br>
+	6. someOnh (3:8)<br>
 	7. Parko (0:2)<br>
 	8. WickedPizza~656 (1:2)<br>
 	10. dIehAppY (1:4)<br>
 <br>
-182. #Pantythief (958) 0<br>
--13|-13|-11|-10|-7|-4|-4|0|-4|-1<br>
+181. #Pantythief (959) +1<br>
+-12|-12|-10|-9|-6|-3|-3|+1|-3|0<br>
 	1. Artimal_PL (0:2)<br>
-	5. Xoi (0:1)<br>
-	6. croissant (5:4)<br>
+	4. Xoi (0:1)<br>
+	5. croissant (5:4)<br>
+	6. someOnh (0:1)<br>
 	7. Parko (1:6)<br>
 <br>
-183. #samsung172x (956) 0<br>
--12|-8|-6|+2|+2|-3|+1|-5|-6|-3<br>
+182. #samsung172x (958) +3<br>
+-9|-6|-3|+5|+4|0|+4|-3|-4|-1<br>
 	1. Artimal_PL (0:3)<br>
 	7. Parko (0:1)<br>
+	10. dIehAppY (1:0)<br>
 <br>
-184. #Pammiii (954) +1<br>
+183. #Pammiii (954) 0<br>
 -37|-23|-14|-10|+6|+1|+4<br>
 	1. Artimal_PL (0:1)<br>
-	6. croissant (4:3)<br>
+	5. croissant (4:3)<br>
 	7. Parko (6:5)<br>
 	8. WickedPizza~656 (1:0)<br>
 <br>
-185. #David_Gee (949) 0<br>
--34|-38|-16|-3|-10|+2<br>
-	2. Shunrai (3:2)<br>
-	4. someOnh (1:1)<br>
-	5. Xoi (1:1)<br>
-	6. croissant (1:10)<br>
-	8. WickedPizza~656 (10:15)<br>
-	10. dIehAppY (0:1)<br>
-<br>
-186. #Baboom (948) +1<br>
+184. #Baboom (948) 0<br>
 -40|-38|-31|-7<br>
-	4. someOnh (0:1)<br>
-	6. croissant (0:4)<br>
+	5. croissant (0:4)<br>
+	6. someOnh (0:1)<br>
 	7. Parko (2:2)<br>
 	10. dIehAppY (1:2)<br>
 <br>
-187. #wildhat-972 (944) -5<br>
--31|-35|-33|-25|-16|-19|-13|-1|-8|-5<br>
-	5. Xoi (1:5)<br>
-	6. croissant (0:1)<br>
+185. #David_Gee (947) -2<br>
+-36|-40|-18|-5|-12|0<br>
+	2. Shunrai (2:2)<br>
+	4. Xoi (1:1)<br>
+	5. croissant (1:10)<br>
+	6. someOnh (1:1)<br>
+	8. WickedPizza~656 (9:11)<br>
+	10. dIehAppY (0:1)<br>
+<br>
+186. #wildhat-972 (944) 0<br>
+-31|-35|-33|-24|-16|-19|-13|0|-8|-5<br>
+	4. Xoi (1:5)<br>
+	5. croissant (0:1)<br>
+	6. someOnh (1:1)<br>
 	7. Parko (1:0)<br>
 	8. WickedPizza~656 (11:9)<br>
 	10. dIehAppY (2:1)<br>
 <br>
-188. #ru-51 (937) -4<br>
--30|-24|-16|-9|-1|+4|+4|+1|-8|-8<br>
-	1. Artimal_PL (1:3)<br>
-	4. someOnh (2:3)<br>
-	5. Xoi (3:7)<br>
-	6. croissant (2:3)<br>
-	8. WickedPizza~656 (6:15)<br>
-	10. dIehAppY (5:9)<br>
-<br>
-189. #newpoweR (936) +1<br>
--22|-22|-27|-27|-19|-16|-14|-13|-6|0<br>
+187. #newpoweR (941) +5<br>
+-17|-16|-21|-22|-14|-11|-9|-8|-1|+5<br>
 	1. Artimal_PL (3:8)<br>
 	2. Shunrai (0:2)<br>
-	4. someOnh (2:2)<br>
-	5. Xoi (3:7)<br>
-	6. croissant (4:9)<br>
+	4. Xoi (3:7)<br>
+	5. croissant (4:9)<br>
+	6. someOnh (2:2)<br>
 	7. Parko (1:4)<br>
 	8. WickedPizza~656 (6:15)<br>
 	10. dIehAppY (0:2)<br>
 <br>
-190. #Grimfandango (936) 0<br>
+188. #Grimfandango (936) 0<br>
 +9|+17|+19|+24|+26|+23|+23|+19|+14|+4<br>
-	4. someOnh (1:1)<br>
-	5. Xoi (1:7)<br>
+	4. Xoi (1:7)<br>
+	6. someOnh (1:1)<br>
 	8. WickedPizza~656 (1:1)<br>
 <br>
-191. #justendit (933) +4<br>
--27|-19|-15|-9|-12|-4|0|+6|+16|+7<br>
+189. #ru-51 (935) -2<br>
+-27|-18|-12|-3|+2|+2|-1|-11|-11|-2<br>
+	1. Artimal_PL (1:3)<br>
+	4. Xoi (3:7)<br>
+	5. croissant (2:4)<br>
+	6. someOnh (3:9)<br>
+	8. WickedPizza~656 (6:15)<br>
+	10. dIehAppY (5:9)<br>
+<br>
+190. #justendit (935) +2<br>
+-25|-17|-13|-7|-10|-2|+2|+8|+18|+9<br>
 	1. Artimal_PL (0:1)<br>
-	5. Xoi (1:4)<br>
-	6. croissant (0:1)<br>
-	7. Parko (3:1)<br>
+	4. Xoi (1:4)<br>
+	5. croissant (0:3)<br>
+	6. someOnh (2:2)<br>
+	7. Parko (1:0)<br>
 	10. dIehAppY (1:1)<br>
 <br>
-192. #cryp7 (932) -3<br>
-+20|+17|+18|+14|+17|+4|-2|0|+2|0<br>
+191. #cryp7 (931) -1<br>
++20|+17|+17|+13|+16|+3|-3|-1|+1|0<br>
 	2. Shunrai (4:10)<br>
 	3. bejut (0:1)<br>
-	4. someOnh (8:11)<br>
-	5. Xoi (24:23)<br>
-	6. croissant (1:6)<br>
-	7. Parko (1:6)<br>
-	8. WickedPizza~656 (18:27)<br>
+	4. Xoi (24:23)<br>
+	5. croissant (1:6)<br>
+	6. someOnh (8:11)<br>
+	7. Parko (0:1)<br>
+	8. WickedPizza~656 (15:21)<br>
 	9. JazzyDeer (2:1)<br>
 	10. dIehAppY (4:6)<br>
 <br>
-193. #WickedDrago~460 (926) -1<br>
+192. #WickedDrago~460 (926) 0<br>
 -29|-28|-19|-17|-9|-4|0|+1|0|+7<br>
 	1. Artimal_PL (2:8)<br>
 	2. Shunrai (1:2)<br>
 	3. bejut (0:4)<br>
-	4. someOnh (10:15)<br>
-	5. Xoi (7:8)<br>
-	6. croissant (3:0)<br>
+	4. Xoi (7:8)<br>
+	5. croissant (3:0)<br>
+	6. someOnh (12:18)<br>
 	7. Parko (0:1)<br>
 	8. WickedPizza~656 (6:19)<br>
 <br>
-194. #seoirse (913) 0<br>
--11|-1|0|-3|0|-5|-3|-1|-1|-5<br>
-	4. someOnh (1:3)<br>
+193. #seoirse (914) +1<br>
+-10|0|0|-2|+1|-4|-3|0|0|-4<br>
+	6. someOnh (1:3)<br>
 	7. Parko (1:2)<br>
 	10. dIehAppY (3:3)<br>
 <br>
-195. #panadool (913) -1<br>
+194. #panadool (913) 0<br>
 -8|-16|-18|-21|-16|-16|-12|-4|-4|-3<br>
 	8. WickedPizza~656 (1:2)<br>
 <br>
-196. #MarbleMango~469 (906) -2<br>
+195. #MarbleMango~469 (906) 0<br>
 -16|-24|-35|-32|-28|-29|-23|-18|-8|0<br>
 <br>
-197. #Yulia1984 (906) -4<br>
--8|-7|-4|-5|-10|-6|-12|-6|+2|-5<br>
-	1. Artimal_PL (7:7)<br>
+196. #Yulia1984 (904) -2<br>
+-10|-9|-6|-8|-12|-8|-14|-8|0|-7<br>
+	1. Artimal_PL (6:7)<br>
 	2. Shunrai (0:3)<br>
 	3. bejut (2:0)<br>
-	4. someOnh (9:6)<br>
-	5. Xoi (0:1)<br>
-	6. croissant (3:11)<br>
-	7. Parko (4:15)<br>
+	4. Xoi (0:1)<br>
+	5. croissant (3:11)<br>
+	6. someOnh (9:6)<br>
+	7. Parko (4:10)<br>
 	8. WickedPizza~656 (8:8)<br>
 	10. dIehAppY (0:5)<br>
 <br>
-198. #unbridled (902) +1<br>
+197. #unbridled (902) 0<br>
 -28|-28|-21|-18|-9|-12|-8|-8|-14|-1<br>
 	1. Artimal_PL (1:2)<br>
-	4. someOnh (2:0)<br>
-	6. croissant (1:3)<br>
+	5. croissant (1:3)<br>
+	6. someOnh (2:0)<br>
 	7. Parko (0:1)<br>
 	8. WickedPizza~656 (1:2)<br>
 <br>
-199. #GreenDeer~922 (893) +1<br>
--5|-12|-9|-11|-10|-7|-6|-1|+10|+2<br>
-	1. Artimal_PL (3:7)<br>
-	4. someOnh (2:5)<br>
-	5. Xoi (0:5)<br>
-	6. croissant (2:4)<br>
+198. #GreenDeer~922 (892) -1<br>
+-6|-13|-10|-12|-12|-8|-7|-2|+9|+1<br>
+	1. Artimal_PL (2:6)<br>
+	4. Xoi (0:5)<br>
+	5. croissant (2:4)<br>
+	6. someOnh (2:2)<br>
 	7. Parko (1:1)<br>
-	8. WickedPizza~656 (8:17)<br>
+	8. WickedPizza~656 (4:14)<br>
 	10. dIehAppY (5:4)<br>
 <br>
-200. #pepitojoe93 (882) 0<br>
--46|-31|-29|-19|-19|-5|-12|-9|-9|0<br>
+199. #pepitojoe93 (886) +4<br>
+-42|-27|-25|-15|-15|-1|-8|-5|-5|+3<br>
 	1. Artimal_PL (1:4)<br>
-	4. someOnh (0:2)<br>
-	5. Xoi (3:7)<br>
-	6. croissant (1:5)<br>
+	4. Xoi (3:7)<br>
+	5. croissant (1:5)<br>
+	6. someOnh (3:0)<br>
 	7. Parko (0:2)<br>
 	8. WickedPizza~656 (3:2)<br>
 	10. dIehAppY (1:3)<br>
 <br>
-201. #mk5rabbit (859) 0<br>
--12|-9|-3|+2|-7|-2|+3|0|-8|-3<br>
+200. #mk5rabbit (859) 0<br>
+-11|-9|-3|+2|-7|-2|+3|0|-7|-3<br>
 	1. Artimal_PL (2:4)<br>
-	4. someOnh (0:1)<br>
-	5. Xoi (0:1)<br>
-	6. croissant (0:2)<br>
+	4. Xoi (0:1)<br>
+	5. croissant (1:4)<br>
+	6. someOnh (0:1)<br>
 	8. WickedPizza~656 (0:1)<br>
+	9. JazzyDeer (1:1)<br>
 	10. dIehAppY (0:3)<br>
