@@ -1,10 +1,10 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #Parko (1296) 0<br>
-+23|+24|+20|+18|+18|+10|+2|-2|+3|0<br>
+1. #Parko (1296) +1<br>
++24|+25|+21|+18|+19|+10|+2|-1|+4|+1<br>
 	1. Parko (13:13)<br>
 	3. sirgrapeLot (9:13)<br>
-	4. MadDookie (223:222)<br>
+	4. MadDookie (230:227)<br>
 	5. Enlights (64:81)<br>
 	6. Vadim1707 (7:9)<br>
 	7. JDHA218 (155:147)<br>
@@ -26,14 +26,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (0:2)<br>
 	9. Joe_Shome123 (1:7)<br>
 <br>
-4. #MadDookie (1259) -2<br>
--12|-8|-5|-6|+1|-5|+1|+6|-1|-2<br>
-	1. Parko (222:223)<br>
+4. #MadDookie (1260) +1<br>
+-7|-4|-5|+2|-4|+2|+7|0|-1|-1<br>
+	1. Parko (227:230)<br>
 	2. Kalenshah (5:5)<br>
 	3. sirgrapeLot (6:7)<br>
 	5. Enlights (241:254)<br>
 	6. Vadim1707 (31:37)<br>
-	7. JDHA218 (522:487)<br>
+	7. JDHA218 (526:491)<br>
 	8. spaceycarrot (141:153)<br>
 	9. Joe_Shome123 (10:6)<br>
 	10. Captain-Levi (57:41)<br>
@@ -59,11 +59,11 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (2:3)<br>
 	10. Captain-Levi (5:2)<br>
 <br>
-7. #JDHA218 (1227) +1<br>
-+20|+14|+7|+8|+9|+11|+3|+7|+3|+4<br>
+7. #JDHA218 (1226) -1<br>
++13|+6|+7|+8|+10|+3|+6|+2|+3|-1<br>
 	1. Parko (147:155)<br>
 	3. sirgrapeLot (4:1)<br>
-	4. MadDookie (487:522)<br>
+	4. MadDookie (491:526)<br>
 	5. Enlights (116:133)<br>
 	6. Vadim1707 (14:17)<br>
 	8. spaceycarrot (110:135)<br>
@@ -103,11 +103,11 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (8:4)<br>
 	9. Joe_Shome123 (22:22)<br>
 <br>
-11. #im_GORY (1197) +1<br>
-+3|+5|+3|+1|+5|+6|+7|+9|+8|+4<br>
+11. #im_GORY (1198) +1<br>
++5|+7|+4|+2|+6|+7|+9|+10|+10|+5<br>
 	1. Parko (67:53)<br>
 	3. sirgrapeLot (8:6)<br>
-	4. MadDookie (180:235)<br>
+	4. MadDookie (181:235)<br>
 	5. Enlights (106:109)<br>
 	6. Vadim1707 (42:34)<br>
 	7. JDHA218 (118:129)<br>
@@ -138,10 +138,10 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (1:6)<br>
 	10. Captain-Levi (6:19)<br>
 <br>
-14. #BepoHuka (1187) 0<br>
--15|-21|-30|-24|-28|-24|-23|-12|-2|-5<br>
+14. #BepoHuka (1186) -1<br>
+-16|-22|-31|-25|-29|-24|-23|-13|-3|-6<br>
 	1. Parko (5:15)<br>
-	4. MadDookie (52:71)<br>
+	4. MadDookie (52:73)<br>
 	5. Enlights (7:18)<br>
 	7. JDHA218 (22:36)<br>
 	8. spaceycarrot (9:13)<br>
@@ -158,7 +158,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Vadim1707 (11:27)<br>
 	7. JDHA218 (364:385)<br>
 	8. spaceycarrot (53:57)<br>
-	9. Joe_Shome123 (6:11)<br>
+	9. Joe_Shome123 (5:9)<br>
 	10. Captain-Levi (19:28)<br>
 <br>
 16. #LJpain (1173) 0<br>
@@ -181,7 +181,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (2:3)<br>
 	9. Joe_Shome123 (0:4)<br>
 <br>
-18. #zeropoint (1171) +2<br>
+18. #zeropoint (1171) 0<br>
 -3|+2|+1|-2|-6|-4|+2|+4|+4|+1<br>
 	1. Parko (28:40)<br>
 	2. Kalenshah (0:2)<br>
@@ -190,7 +190,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Vadim1707 (9:11)<br>
 	7. JDHA218 (31:33)<br>
 	8. spaceycarrot (14:20)<br>
-	10. Captain-Levi (6:7)<br>
+	10. Captain-Levi (4:4)<br>
 <br>
 19. #Symsymmy (1169) 0<br>
 +32|+28|+27|+26|+21|+16|+11|+4|+5|+2<br>
@@ -198,7 +198,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	2. Kalenshah (6:3)<br>
 	3. sirgrapeLot (17:8)<br>
 	4. MadDookie (311:374)<br>
-	5. Enlights (175:192)<br>
+	5. Enlights (175:190)<br>
 	6. Vadim1707 (32:26)<br>
 	7. JDHA218 (278:290)<br>
 	8. spaceycarrot (143:135)<br>
@@ -226,12 +226,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (28:27)<br>
 	9. Joe_Shome123 (4:12)<br>
 <br>
-22. #pablo55 (1164) 0<br>
-+21|+14|+13|+15|+14|+12|+9|+5|+6|+4<br>
+22. #pablo55 (1162) -2<br>
++19|+12|+11|+12|+12|+10|+6|+3|+3|+2<br>
 	1. Parko (79:102)<br>
 	2. Kalenshah (1:1)<br>
 	3. sirgrapeLot (6:5)<br>
-	4. MadDookie (199:229)<br>
+	4. MadDookie (200:234)<br>
 	5. Enlights (90:87)<br>
 	6. Vadim1707 (2:5)<br>
 	7. JDHA218 (181:200)<br>
@@ -265,7 +265,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (2:3)<br>
 	10. Captain-Levi (12:10)<br>
 <br>
-26. #HOBerdo (1150) +6<br>
+26. #HOBerdo (1150) 0<br>
 +40|+34|+30|+27|+17|+12|+9|+10|+6|0<br>
 	1. Parko (13:13)<br>
 	4. MadDookie (40:30)<br>
@@ -313,7 +313,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Vadim1707 (11:23)<br>
 	7. JDHA218 (62:67)<br>
 	8. spaceycarrot (21:27)<br>
-	9. Joe_Shome123 (10:6)<br>
+	9. Joe_Shome123 (6:2)<br>
 	10. Captain-Levi (5:5)<br>
 <br>
 32. #Fire.n.Ice. (1143) 0<br>
@@ -350,8 +350,6 @@ Recent win rates against top 10 over the past 20k matches<br>
 35. #shimon (1140) 0<br>
 -1|0|+2|+11|+15|+13|+6|+5|0|-1<br>
 	5. Enlights (4:4)<br>
-	7. JDHA218 (0:1)<br>
-	9. Joe_Shome123 (9:4)<br>
 	10. Captain-Levi (7:5)<br>
 <br>
 36. #Spinne (1138) 0<br>
@@ -365,20 +363,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (1:3)<br>
 	10. Captain-Levi (1:3)<br>
 <br>
-37. #qUidNovI (1137) -2<br>
--2|-7|-11|-5|-1|0|-1|-13|-4|-1<br>
-	1. Parko (297:371)<br>
-	2. Kalenshah (11:5)<br>
-	3. sirgrapeLot (19:17)<br>
-	4. MadDookie (967:1119)<br>
-	5. Enlights (322:388)<br>
-	6. Vadim1707 (40:58)<br>
-	7. JDHA218 (748:821)<br>
-	8. spaceycarrot (298:326)<br>
-	9. Joe_Shome123 (28:27)<br>
-	10. Captain-Levi (76:63)<br>
-<br>
-38. #phichi (1137) 0<br>
+37. #phichi (1137) 0<br>
 +7|+7|+4|+1|-4|-6|-8|0|-9|-3<br>
 	1. Parko (24:26)<br>
 	3. sirgrapeLot (7:7)<br>
@@ -387,8 +372,21 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Vadim1707 (14:16)<br>
 	7. JDHA218 (190:195)<br>
 	8. spaceycarrot (43:39)<br>
-	9. Joe_Shome123 (19:16)<br>
+	9. Joe_Shome123 (17:15)<br>
 	10. Captain-Levi (19:15)<br>
+<br>
+38. #qUidNovI (1134) -3<br>
+-5|-10|-14|-8|-4|-3|-4|-16|-7|-4<br>
+	1. Parko (297:371)<br>
+	2. Kalenshah (11:5)<br>
+	3. sirgrapeLot (19:17)<br>
+	4. MadDookie (967:1120)<br>
+	5. Enlights (321:384)<br>
+	6. Vadim1707 (40:58)<br>
+	7. JDHA218 (748:820)<br>
+	8. spaceycarrot (298:326)<br>
+	9. Joe_Shome123 (28:27)<br>
+	10. Captain-Levi (76:63)<br>
 <br>
 39. #Fares22 (1133) 0<br>
 +7|+10|+6|-2|-2|0|+1|-2|-5|+3<br>
@@ -427,23 +425,23 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (0:1)<br>
 	10. Captain-Levi (2:3)<br>
 <br>
-43. #croissant (1121) +4<br>
+43. #croissant (1121) 0<br>
 +38|+37|+37|+32|+32|+26|+16|+7|+4|+6<br>
 	1. Parko (6:6)<br>
 	4. MadDookie (27:32)<br>
-	5. Enlights (3:1)<br>
+	5. Enlights (2:1)<br>
 	6. Vadim1707 (0:1)<br>
 	7. JDHA218 (5:8)<br>
 	8. spaceycarrot (0:3)<br>
-	9. Joe_Shome123 (17:11)<br>
+	9. Joe_Shome123 (7:5)<br>
 	10. Captain-Levi (1:1)<br>
 <br>
-44. #AppleDragon (1119) -2<br>
-+48|+36|+25|+22|+20|+15|+9|+10|+2|-4<br>
-	1. Parko (41:44)<br>
+44. #AppleDragon (1118) -1<br>
++48|+36|+25|+22|+19|+14|+9|+10|+1|-4<br>
+	1. Parko (41:50)<br>
 	2. Kalenshah (8:2)<br>
 	3. sirgrapeLot (1:1)<br>
-	4. MadDookie (241:258)<br>
+	4. MadDookie (244:263)<br>
 	5. Enlights (88:100)<br>
 	6. Vadim1707 (6:16)<br>
 	7. JDHA218 (211:194)<br>
@@ -451,10 +449,10 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (9:8)<br>
 	10. Captain-Levi (20:35)<br>
 <br>
-45. #NinjaBooM (1118) +1<br>
-+45|+42|+31|+25|+22|+15|+14|+13|+2|+2<br>
+45. #NinjaBooM (1117) -1<br>
++41|+30|+24|+21|+14|+13|+12|+1|+1|-2<br>
 	1. Parko (15:20)<br>
-	4. MadDookie (100:120)<br>
+	4. MadDookie (105:131)<br>
 	5. Enlights (12:18)<br>
 	6. Vadim1707 (29:24)<br>
 	7. JDHA218 (72:89)<br>
@@ -472,7 +470,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (3:6)<br>
 	10. Captain-Levi (8:13)<br>
 <br>
-47. #Reclamation- (1110) 0<br>
+47. #syrius (1112) +3<br>
++20|+20|+17|+16|+21|+9|+12|+13|+12|+1<br>
+	1. Parko (25:32)<br>
+	4. MadDookie (77:58)<br>
+	5. Enlights (13:12)<br>
+	6. Vadim1707 (12:10)<br>
+	7. JDHA218 (25:24)<br>
+	8. spaceycarrot (4:6)<br>
+	10. Captain-Levi (10:7)<br>
+<br>
+48. #Reclamation- (1110) 0<br>
 +62|+56|+50|+42|+34|+26|+25|+19|+13|0<br>
 	1. Parko (2:2)<br>
 	4. MadDookie (17:15)<br>
@@ -481,17 +489,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (9:2)<br>
 	10. Captain-Levi (4:6)<br>
 <br>
-48. #syrius (1109) 0<br>
-+12|+16|+16|+13|+13|+17|+6|+9|+10|+9<br>
-	1. Parko (25:32)<br>
-	4. MadDookie (70:55)<br>
-	5. Enlights (13:12)<br>
-	6. Vadim1707 (12:10)<br>
-	7. JDHA218 (25:23)<br>
-	8. spaceycarrot (4:6)<br>
-	10. Captain-Levi (10:7)<br>
+49. #JMan8080 (1109) +4<br>
++30|+21|+18|+13|+10|+15|+10|+9|+7|0<br>
+	1. Parko (13:21)<br>
+	3. sirgrapeLot (4:1)<br>
+	4. MadDookie (55:59)<br>
+	5. Enlights (31:31)<br>
+	6. Vadim1707 (0:2)<br>
+	7. JDHA218 (90:92)<br>
+	8. spaceycarrot (8:6)<br>
+	9. Joe_Shome123 (22:20)<br>
+	10. Captain-Levi (13:18)<br>
 <br>
-49. #TimeBreaker (1108) 0<br>
+50. #TimeBreaker (1108) 0<br>
 +23|+17|+13|+4|+6|+4|-3|-1|-2|-3<br>
 	1. Parko (18:25)<br>
 	3. sirgrapeLot (4:5)<br>
@@ -502,7 +512,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (8:10)<br>
 	10. Captain-Levi (14:11)<br>
 <br>
-50. #xxixx (1107) 0<br>
+51. #xxixx (1107) 0<br>
 +26|+19|0|-8|-13|-9|-11|-9|-3|-1<br>
 	1. Parko (4:9)<br>
 	2. Kalenshah (3:2)<br>
@@ -510,7 +520,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (2:3)<br>
 	10. Captain-Levi (3:3)<br>
 <br>
-51. #JeffDoughnut (1106) 0<br>
+52. #JeffDoughnut (1106) 0<br>
 +53|+51|+39|+35|+24|+24|+9|+13|+7|-3<br>
 	1. Parko (17:17)<br>
 	3. sirgrapeLot (1:1)<br>
@@ -521,11 +531,11 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (0:2)<br>
 	10. Captain-Levi (6:6)<br>
 <br>
-52. #blini (1106) 0<br>
+53. #blini (1106) 0<br>
 -9|-15|-13|-13|-14|-13|-18|-7|-7|-3<br>
 	7. JDHA218 (10:20)<br>
 <br>
-53. #goner (1105) 0<br>
+54. #goner (1105) 0<br>
 -11|-8|-13|-14|-10|-4|-8|-7|-4|-1<br>
 	1. Parko (7:11)<br>
 	3. sirgrapeLot (12:9)<br>
@@ -536,18 +546,6 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (13:11)<br>
 	9. Joe_Shome123 (5:3)<br>
 	10. Captain-Levi (0:1)<br>
-<br>
-54. #JMan8080 (1104) 0<br>
-+37|+26|+16|+13|+9|+6|+11|+6|+5|+3<br>
-	1. Parko (12:19)<br>
-	3. sirgrapeLot (4:1)<br>
-	4. MadDookie (47:55)<br>
-	5. Enlights (31:31)<br>
-	6. Vadim1707 (0:2)<br>
-	7. JDHA218 (85:91)<br>
-	8. spaceycarrot (8:6)<br>
-	9. Joe_Shome123 (22:20)<br>
-	10. Captain-Levi (13:18)<br>
 <br>
 55. #Rawz (1104) 0<br>
 -8|0|-5|-6|0|-5|-9|-8|-5|0<br>
@@ -560,7 +558,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (28:34)<br>
 	9. Joe_Shome123 (5:6)<br>
 <br>
-56. #TPSproducer (1100) +1<br>
+56. #TPSproducer (1100) 0<br>
 +2|+4|+5|+2|+7|+5|+8|+8|+3|0<br>
 	1. Parko (4:6)<br>
 	4. MadDookie (12:16)<br>
@@ -577,17 +575,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. MadDookie (144:185)<br>
 	5. Enlights (62:76)<br>
 	6. Vadim1707 (6:4)<br>
-	7. JDHA218 (87:81)<br>
+	7. JDHA218 (87:80)<br>
 	8. spaceycarrot (39:41)<br>
-	9. Joe_Shome123 (7:6)<br>
+	9. Joe_Shome123 (6:5)<br>
 	10. Captain-Levi (13:11)<br>
 <br>
-58. #gervi (1099) -2<br>
-+12|+6|+5|+1|-5|-4|-5|-3|-7|-1<br>
+58. #gervi (1100) +1<br>
++13|+7|+6|+2|-4|-3|-4|-2|-6|0<br>
 	1. Parko (25:50)<br>
 	3. sirgrapeLot (0:1)<br>
-	4. MadDookie (161:209)<br>
-	5. Enlights (69:88)<br>
+	4. MadDookie (165:213)<br>
+	5. Enlights (68:88)<br>
 	6. Vadim1707 (13:9)<br>
 	7. JDHA218 (95:116)<br>
 	8. spaceycarrot (38:50)<br>
@@ -610,7 +608,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (21:21)<br>
 	10. Captain-Levi (2:2)<br>
 <br>
-61. #mightymeek (1087) 0<br>
+61. #GuacNinja (1089) +5<br>
++14|+11|+10|+10|+4|+1|0|+6|0|+4<br>
+	1. Parko (30:27)<br>
+	4. MadDookie (130:138)<br>
+	5. Enlights (32:47)<br>
+	6. Vadim1707 (51:60)<br>
+	7. JDHA218 (71:80)<br>
+	8. spaceycarrot (32:36)<br>
+	9. Joe_Shome123 (3:4)<br>
+	10. Captain-Levi (3:4)<br>
+<br>
+62. #mightymeek (1087) 0<br>
 +41|+35|+22|+25|+21|+19|+14|+13|+12|+5<br>
 	1. Parko (45:64)<br>
 	4. MadDookie (86:89)<br>
@@ -621,23 +630,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (5:4)<br>
 	10. Captain-Levi (0:5)<br>
 <br>
-62. #mills14 (1086) 0<br>
+63. #mills14 (1086) 0<br>
 +64|+55|+42|+38|+31|+22|+24|+15|+13|+2<br>
 	1. Parko (1:4)<br>
 	6. Vadim1707 (5:4)<br>
 	7. JDHA218 (20:19)<br>
-	9. Joe_Shome123 (22:23)<br>
-<br>
-63. #GuacNinja (1084) -2<br>
-+9|+6|+5|+5|-1|-4|-5|+1|-5|-1<br>
-	1. Parko (23:26)<br>
-	4. MadDookie (125:136)<br>
-	5. Enlights (32:47)<br>
-	6. Vadim1707 (51:60)<br>
-	7. JDHA218 (71:80)<br>
-	8. spaceycarrot (32:36)<br>
-	9. Joe_Shome123 (3:4)<br>
-	10. Captain-Levi (3:4)<br>
+	9. Joe_Shome123 (20:19)<br>
 <br>
 64. #rho (1080) 0<br>
 +48|+50|+42|+35|+30|+24|+14|+10|+8|+6<br>
@@ -659,22 +657,22 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (10:10)<br>
 	8. spaceycarrot (12:13)<br>
 <br>
-66. #jcphenom (1079) 0<br>
--2|+7|+3|+11|+14|+19|+19|+22|+10|+2<br>
-	4. MadDookie (14:17)<br>
-	5. Enlights (3:2)<br>
-	7. JDHA218 (21:22)<br>
-<br>
-67. #LastTimeLord (1079) 0<br>
-+9|+18|+15|+15|+11|+8|+8|+5|+4|-5<br>
-	1. Parko (28:28)<br>
-	4. MadDookie (109:127)<br>
+66. #LastTimeLord (1080) +1<br>
++19|+17|+16|+13|+9|+9|+6|+5|-3|+1<br>
+	1. Parko (29:31)<br>
+	4. MadDookie (113:129)<br>
 	5. Enlights (37:43)<br>
 	6. Vadim1707 (5:13)<br>
 	7. JDHA218 (56:58)<br>
 	8. spaceycarrot (21:37)<br>
 	9. Joe_Shome123 (2:6)<br>
 	10. Captain-Levi (13:20)<br>
+<br>
+67. #jcphenom (1079) 0<br>
+-2|+7|+3|+11|+14|+19|+19|+22|+10|+2<br>
+	4. MadDookie (14:17)<br>
+	5. Enlights (3:2)<br>
+	7. JDHA218 (21:22)<br>
 <br>
 68. #likeag66 (1078) 0<br>
 +17|+7|+9|+9|+11|+15|+12|0|+2|+3<br>
@@ -688,38 +686,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (3:2)<br>
 	10. Captain-Levi (6:12)<br>
 <br>
-69. #Gideon (1076) 0<br>
--15|-13|-16|-13|-16|-9|0|-5|+2|+3<br>
-	1. Parko (30:49)<br>
+69. #Gideon (1075) 0<br>
+-15|-14|-16|-13|-17|-9|-1|-5|+2|+3<br>
+	1. Parko (30:50)<br>
 	3. sirgrapeLot (4:7)<br>
-	4. MadDookie (83:132)<br>
+	4. MadDookie (83:133)<br>
 	5. Enlights (28:37)<br>
 	6. Vadim1707 (5:6)<br>
 	7. JDHA218 (71:77)<br>
 	8. spaceycarrot (36:59)<br>
-	9. Joe_Shome123 (8:11)<br>
+	9. Joe_Shome123 (1:3)<br>
 	10. Captain-Levi (2:8)<br>
 <br>
-70. #kittengod22 (1072) 0<br>
-+11|+19|+21|+24|+26|+20|+25|+16|-2|-4<br>
-	1. Parko (6:9)<br>
-	4. MadDookie (11:11)<br>
-	5. Enlights (17:7)<br>
-	7. JDHA218 (15:16)<br>
-	8. spaceycarrot (4:5)<br>
-<br>
-71. #waffle3z (1071) 0<br>
-+65|+58|+46|+38|+40|+32|+23|+12|+11|+8<br>
-	1. Parko (15:13)<br>
-	4. MadDookie (43:52)<br>
-	5. Enlights (2:8)<br>
-	6. Vadim1707 (5:7)<br>
-	7. JDHA218 (33:32)<br>
-	8. spaceycarrot (5:8)<br>
-	9. Joe_Shome123 (8:10)<br>
-<br>
-72. #mafl (1071) +2<br>
--3|-9|-1|-7|-9|-13|-6|-7|-4|+1<br>
+70. #mafl (1072) +1<br>
+-2|-8|+1|-5|-7|-12|-5|-6|-3|+2<br>
 	1. Parko (6:6)<br>
 	4. MadDookie (53:64)<br>
 	5. Enlights (26:40)<br>
@@ -728,6 +708,24 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (13:15)<br>
 	9. Joe_Shome123 (4:12)<br>
 	10. Captain-Levi (8:4)<br>
+<br>
+71. #kittengod22 (1072) 0<br>
++11|+19|+21|+24|+26|+20|+25|+16|-2|-4<br>
+	1. Parko (6:9)<br>
+	4. MadDookie (11:11)<br>
+	5. Enlights (17:7)<br>
+	7. JDHA218 (15:16)<br>
+	8. spaceycarrot (4:5)<br>
+<br>
+72. #waffle3z (1071) 0<br>
++65|+58|+46|+38|+40|+32|+23|+12|+11|+8<br>
+	1. Parko (15:13)<br>
+	4. MadDookie (43:52)<br>
+	5. Enlights (2:8)<br>
+	6. Vadim1707 (5:7)<br>
+	7. JDHA218 (33:32)<br>
+	8. spaceycarrot (5:8)<br>
+	9. Joe_Shome123 (8:10)<br>
 <br>
 73. #GaudyWeasel (1069) 0<br>
 +22|+15|+14|+12|+8|+13|+12|+7|+8|+1<br>
@@ -772,8 +770,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (12:12)<br>
 	9. Joe_Shome123 (6:4)<br>
 <br>
-77. #lava_76 (1053) +1<br>
-+23|+22|+13|+11|+19|+11|+8|+12|+9|+2<br>
+77. #lava_76 (1053) -1<br>
++23|+21|+12|+11|+18|+10|+7|+11|+8|+1<br>
 	1. Parko (24:40)<br>
 	4. MadDookie (109:143)<br>
 	5. Enlights (53:69)<br>
@@ -781,19 +779,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (13:17)<br>
 	10. Captain-Levi (7:7)<br>
 <br>
-78. #GenghisCon (1053) 0<br>
--12|-9|-4|-4|+2|+1|-3|-7|-5|+1<br>
-	1. Parko (66:81)<br>
-	3. sirgrapeLot (6:5)<br>
-	4. MadDookie (142:194)<br>
-	5. Enlights (85:116)<br>
-	6. Vadim1707 (27:29)<br>
-	7. JDHA218 (117:158)<br>
-	8. spaceycarrot (47:72)<br>
-	9. Joe_Shome123 (7:8)<br>
-	10. Captain-Levi (7:12)<br>
-<br>
-79. #jas (1050) 0<br>
+78. #jas (1050) 0<br>
 -7|-11|-15|-17|-21|-13|-17|-12|-7|+4<br>
 	1. Parko (5:18)<br>
 	4. MadDookie (16:14)<br>
@@ -802,7 +788,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (15:24)<br>
 	10. Captain-Levi (2:1)<br>
 <br>
-80. #Gone_vortex (1050) 0<br>
+79. #Gone_vortex (1050) 0<br>
 +2|-6|-1|+7|+5|+2|-2|-6|-1|+1<br>
 	1. Parko (34:49)<br>
 	2. Kalenshah (1:4)<br>
@@ -814,12 +800,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (32:54)<br>
 	9. Joe_Shome123 (4:8)<br>
 <br>
-81. #HandyInsect (1050) 0<br>
+80. #HandyInsect (1050) 0<br>
 -5|-7|-10|-5|+2|-3|-3|+5|0|+4<br>
 	5. Enlights (1:1)<br>
 	6. Vadim1707 (2:0)<br>
 <br>
-82. #ORBiter (1049) 0<br>
+81. #ORBiter (1049) 0<br>
 +34|+26|+23|+22|+21|+21|+22|+12|+2|-2<br>
 	1. Parko (4:7)<br>
 	4. MadDookie (9:11)<br>
@@ -827,7 +813,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (8:14)<br>
 	10. Captain-Levi (1:1)<br>
 <br>
-83. #Dark_One (1048) +1<br>
+82. #Dark_One (1048) 0<br>
 +18|+9|+7|+10|+10|+7|+9|+20|+13|+9<br>
 	1. Parko (6:9)<br>
 	3. sirgrapeLot (7:2)<br>
@@ -838,12 +824,24 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (4:3)<br>
 	9. Joe_Shome123 (2:4)<br>
 <br>
-84. #monsterV (1048) -1<br>
+83. #monsterV (1048) 0<br>
 +14|+12|+2|0|-5|0|-5|-2|-2|-1<br>
 	1. Parko (4:8)<br>
 	4. MadDookie (21:41)<br>
 	5. Enlights (5:7)<br>
 	7. JDHA218 (13:27)<br>
+<br>
+84. #GenghisCon (1047) -6<br>
+-15|-10|-10|-4|-5|-9|-13|-10|-5|-1<br>
+	1. Parko (68:90)<br>
+	3. sirgrapeLot (6:5)<br>
+	4. MadDookie (146:206)<br>
+	5. Enlights (85:116)<br>
+	6. Vadim1707 (27:29)<br>
+	7. JDHA218 (119:158)<br>
+	8. spaceycarrot (47:72)<br>
+	9. Joe_Shome123 (1:1)<br>
+	10. Captain-Levi (7:12)<br>
 <br>
 85. #tilltsimon (1045) 0<br>
 +27|+21|+10|+19|+7|+7|-3|-10|-7|-1<br>
@@ -852,7 +850,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. MadDookie (9:16)<br>
 	5. Enlights (0:4)<br>
 	6. Vadim1707 (0:2)<br>
-	7. JDHA218 (0:2)<br>
+	7. JDHA218 (0:1)<br>
 	8. spaceycarrot (8:7)<br>
 	9. Joe_Shome123 (3:1)<br>
 <br>
@@ -871,8 +869,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Enlights (7:13)<br>
 	7. JDHA218 (6:5)<br>
 <br>
-88. #VOSTOK (1042) 0<br>
-+5|0|+10|+3|+3|+2|+2|-6|-3|-7<br>
+88. #VOSTOK (1043) 0<br>
++6|+1|+11|+3|+4|+2|+2|-6|-3|-6<br>
 	1. Parko (4:10)<br>
 	2. Kalenshah (0:1)<br>
 	4. MadDookie (27:40)<br>
@@ -897,8 +895,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Vadim1707 (15:24)<br>
 	7. JDHA218 (6:9)<br>
 	8. spaceycarrot (22:29)<br>
-	9. Joe_Shome123 (6:12)<br>
-	10. Captain-Levi (3:5)<br>
+	9. Joe_Shome123 (0:2)<br>
+	10. Captain-Levi (1:2)<br>
 <br>
 91. #xMillY (1041) 0<br>
 +44|+33|+28|+30|+23|+21|+10|+8|+4|+1<br>
@@ -947,7 +945,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Vadim1707 (11:28)<br>
 	7. JDHA218 (165:192)<br>
 	8. spaceycarrot (58:71)<br>
-	9. Joe_Shome123 (6:6)<br>
+	9. Joe_Shome123 (5:5)<br>
 	10. Captain-Levi (13:17)<br>
 <br>
 97. #sAmA (1037) 0<br>
@@ -1005,7 +1003,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	2. Kalenshah (1:0)<br>
 	3. sirgrapeLot (11:10)<br>
 	4. MadDookie (98:133)<br>
-	5. Enlights (69:78)<br>
+	5. Enlights (68:78)<br>
 	6. Vadim1707 (18:18)<br>
 	7. JDHA218 (61:84)<br>
 	8. spaceycarrot (58:72)<br>
@@ -1035,9 +1033,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Enlights (1:2)<br>
 	7. JDHA218 (4:0)<br>
 	8. spaceycarrot (1:0)<br>
-	9. Joe_Shome123 (4:2)<br>
 <br>
-107. #phantomplan (1025) 0<br>
+107. #ruBEARRx (1026) +3<br>
++10|+7|+1|+6|+3|+2|+5|+12|+15|+7<br>
+	1. Parko (23:42)<br>
+	4. MadDookie (60:95)<br>
+	6. Vadim1707 (12:16)<br>
+	7. JDHA218 (43:52)<br>
+	8. spaceycarrot (7:13)<br>
+	10. Captain-Levi (6:10)<br>
+<br>
+108. #phantomplan (1025) 0<br>
 -21|-19|-7|-14|-8|-10|-10|-6|-5|-3<br>
 	1. Parko (13:10)<br>
 	4. MadDookie (3:7)<br>
@@ -1047,13 +1053,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (2:1)<br>
 	10. Captain-Levi (2:1)<br>
 <br>
-108. #quickmill (1024) 0<br>
+109. #quickmill (1024) 0<br>
 -37|-30|-23|-24|-21|-17|-14|-11|-5|-6<br>
 	5. Enlights (2:6)<br>
 	7. JDHA218 (1:9)<br>
 	8. spaceycarrot (3:4)<br>
 <br>
-109. #babymetal (1024) 0<br>
+110. #babymetal (1024) 0<br>
 -13|-14|-17|-12|-11|-13|-7|-3|-6|+1<br>
 	1. Parko (47:70)<br>
 	2. Kalenshah (3:1)<br>
@@ -1064,9 +1070,9 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (138:169)<br>
 	8. spaceycarrot (77:94)<br>
 	9. Joe_Shome123 (17:15)<br>
-	10. Captain-Levi (13:24)<br>
+	10. Captain-Levi (11:21)<br>
 <br>
-110. #panadool (1023) 0<br>
+111. #panadool (1023) 0<br>
 +7|+10|+11|+9|+15|+5|+7|+2|+4|-1<br>
 	1. Parko (75:105)<br>
 	3. sirgrapeLot (2:2)<br>
@@ -1075,10 +1081,10 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Vadim1707 (5:6)<br>
 	7. JDHA218 (88:136)<br>
 	8. spaceycarrot (42:40)<br>
-	9. Joe_Shome123 (5:5)<br>
+	9. Joe_Shome123 (2:1)<br>
 	10. Captain-Levi (22:25)<br>
 <br>
-111. #rumburak (1023) 0<br>
+112. #rumburak (1023) 0<br>
 +24|+16|+7|0|-4|+2<br>
 	1. Parko (17:20)<br>
 	2. Kalenshah (6:6)<br>
@@ -1088,22 +1094,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (27:34)<br>
 	10. Captain-Levi (5:11)<br>
 <br>
-112. #ruBEARRx (1023) 0<br>
-+7|+4|-2|+3|0|-1|+2|+9|+12|+5<br>
-	1. Parko (23:42)<br>
-	4. MadDookie (60:95)<br>
-	6. Vadim1707 (12:16)<br>
-	7. JDHA218 (43:52)<br>
-	8. spaceycarrot (7:13)<br>
-	10. Captain-Levi (6:10)<br>
-<br>
 113. #Daktylon (1023) 0<br>
 +45|+41|+39|+25|+16|+6|+13|+16|+11|+2<br>
 	4. MadDookie (8:9)<br>
 	7. JDHA218 (5:6)<br>
 	8. spaceycarrot (2:3)<br>
 <br>
-114. #WhiteFangz (1022) -2<br>
+114. #WhiteFangz (1022) 0<br>
 -6|+3|+1|-2|-5|-12|-12|-6|-4|-6<br>
 	1. Parko (12:18)<br>
 	4. MadDookie (10:11)<br>
@@ -1132,7 +1129,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. MadDookie (10:21)<br>
 	6. Vadim1707 (8:21)<br>
 <br>
-118. #to_o (1020) 0<br>
+118. #rpk (1021) +2<br>
+-32|-35|-31|-23|-27|-21|-16|-18|-11|-2<br>
+	1. Parko (125:188)<br>
+	3. sirgrapeLot (6:7)<br>
+	4. MadDookie (472:705)<br>
+	5. Enlights (131:190)<br>
+	6. Vadim1707 (12:20)<br>
+	7. JDHA218 (385:504)<br>
+	8. spaceycarrot (143:167)<br>
+	9. Joe_Shome123 (17:24)<br>
+	10. Captain-Levi (38:71)<br>
+<br>
+119. #to_o (1020) 0<br>
 +12<br>
 	4. MadDookie (9:6)<br>
 	5. Enlights (1:1)<br>
@@ -1141,14 +1150,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (1:0)<br>
 	10. Captain-Levi (5:3)<br>
 <br>
-119. #bejut (1020) 0<br>
+120. #bejut (1020) 0<br>
 +20|+14|+19|+13|+3<br>
 	1. Parko (6:8)<br>
 	4. MadDookie (5:3)<br>
 	5. Enlights (1:4)<br>
 	7. JDHA218 (1:6)<br>
 <br>
-120. #Tyler- (1019) 0<br>
+121. #Tyler- (1019) 0<br>
 +10|+11|+4<br>
 	1. Parko (31:32)<br>
 	4. MadDookie (28:35)<br>
@@ -1158,24 +1167,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (16:24)<br>
 	9. Joe_Shome123 (3:4)<br>
 <br>
-121. #Necabo (1019) 0<br>
+122. #Necabo (1019) 0<br>
 +2<br>
 	1. Parko (5:9)<br>
 	4. MadDookie (19:12)<br>
 	5. Enlights (1:0)<br>
 	7. JDHA218 (4:7)<br>
-<br>
-122. #rpk (1019) 0<br>
--34|-37|-33|-25|-29|-23|-18|-20|-13|-4<br>
-	1. Parko (119:179)<br>
-	3. sirgrapeLot (6:7)<br>
-	4. MadDookie (463:694)<br>
-	5. Enlights (133:193)<br>
-	6. Vadim1707 (12:20)<br>
-	7. JDHA218 (380:501)<br>
-	8. spaceycarrot (143:167)<br>
-	9. Joe_Shome123 (24:33)<br>
-	10. Captain-Levi (38:71)<br>
 <br>
 123. #SupiorLemon (1018) 0<br>
 +16|+13|+13|+14|+9|+13|+14|+12|+7|+7<br>
@@ -1201,7 +1198,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (16:14)<br>
 	8. spaceycarrot (3:4)<br>
 <br>
-126. #Mutation- (1017) +2<br>
+126. #Mutation- (1017) 0<br>
 +11<br>
 	1. Parko (0:2)<br>
 	4. MadDookie (27:19)<br>
@@ -1300,7 +1297,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Vadim1707 (2:4)<br>
 	7. JDHA218 (11:16)<br>
 <br>
-140. #number1daddy (1011) -1<br>
+140. #number1daddy (1011) 0<br>
 +1<br>
 	4. MadDookie (24:16)<br>
 	7. JDHA218 (19:14)<br>
@@ -1332,21 +1329,11 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (16:12)<br>
 	8. spaceycarrot (5:5)<br>
 <br>
-144. #a_madness_of (1010) 0<br>
-+30|+25|+18|+7|+3|+6|+8|+7|+5|+4<br>
-	1. Parko (1:1)<br>
-	3. sirgrapeLot (3:3)<br>
-	4. MadDookie (36:48)<br>
-	5. Enlights (10:6)<br>
-	7. JDHA218 (12:21)<br>
-	8. spaceycarrot (4:9)<br>
-	10. Captain-Levi (1:4)<br>
-<br>
-145. #BumpyCarrot~547 (1009) 0<br>
+144. #BumpyCarrot~547 (1009) 0<br>
 +6<br>
 	4. MadDookie (5:7)<br>
 <br>
-146. #Minxy (1009) 0<br>
+145. #Minxy (1009) 0<br>
 +5|+3|+2<br>
 	4. MadDookie (37:47)<br>
 	5. Enlights (8:2)<br>
@@ -1356,7 +1343,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (1:0)<br>
 	10. Captain-Levi (2:4)<br>
 <br>
-147. #Jaron (1009) 0<br>
+146. #Jaron (1009) 0<br>
 +1|+3<br>
 	1. Parko (4:9)<br>
 	4. MadDookie (5:9)<br>
@@ -1364,20 +1351,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (1:1)<br>
 	8. spaceycarrot (1:0)<br>
 <br>
-148. #Infatuation- (1008) 0<br>
+147. #Infatuation- (1008) 0<br>
 0<br>
 	1. Parko (2:0)<br>
 	4. MadDookie (17:17)<br>
 	7. JDHA218 (3:3)<br>
 	8. spaceycarrot (2:2)<br>
 <br>
-149. #fresh. (1008) 0<br>
+148. #fresh. (1008) 0<br>
 +1<br>
 	4. MadDookie (10:11)<br>
 	5. Enlights (2:5)<br>
 	8. spaceycarrot (5:5)<br>
 <br>
-150. #CopperJoke~710 (1008) 0<br>
+149. #CopperJoke~710 (1008) 0<br>
 +3|+1|-7|-2<br>
 	1. Parko (0:1)<br>
 	4. MadDookie (14:8)<br>
@@ -1387,7 +1374,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (11:8)<br>
 	10. Captain-Levi (1:1)<br>
 <br>
-151. #A_Skiller (1007) 0<br>
+150. #A_Skiller (1007) 0<br>
 +31|+22|+17|+11|+10|+12|+12|+6|+6|0<br>
 	1. Parko (3:7)<br>
 	4. MadDookie (30:44)<br>
@@ -1398,13 +1385,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (9:10)<br>
 	10. Captain-Levi (6:8)<br>
 <br>
-152. #Hen3zz14 (1007) 0<br>
+151. #Hen3zz14 (1007) 0<br>
 <br>
 	1. Parko (13:16)<br>
 	5. Enlights (3:2)<br>
 	8. spaceycarrot (2:1)<br>
 <br>
-153. #BurlyTurnip~681 (1007) 0<br>
+152. #BurlyTurnip~681 (1007) 0<br>
 +6<br>
 	1. Parko (3:3)<br>
 	4. MadDookie (8:21)<br>
@@ -1412,6 +1399,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Vadim1707 (3:3)<br>
 	7. JDHA218 (11:16)<br>
 	10. Captain-Levi (0:2)<br>
+<br>
+153. #SUPREME-- (1007) +1<br>
+0|-4<br>
+	4. MadDookie (15:17)<br>
+	5. Enlights (0:1)<br>
+	7. JDHA218 (30:31)<br>
+	8. spaceycarrot (2:5)<br>
 <br>
 154. #ki1laz0 (1007) 0<br>
 +8|+1|-3|+2|+2<br>
@@ -1446,13 +1440,23 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Enlights (2:3)<br>
 	7. JDHA218 (21:16)<br>
 <br>
-159. #Ryunoske (1006) 0<br>
+159. #a_madness_of (1006) -3<br>
++22|+15|+4|0|+3|+5|+4|+2|0|-3<br>
+	1. Parko (2:7)<br>
+	3. sirgrapeLot (3:3)<br>
+	4. MadDookie (39:57)<br>
+	5. Enlights (10:6)<br>
+	7. JDHA218 (14:23)<br>
+	8. spaceycarrot (4:9)<br>
+	10. Captain-Levi (1:4)<br>
+<br>
+160. #Ryunoske (1006) 0<br>
 -5|-15|-16|-14|-13|-13|-17|-8|-4|-4<br>
 	6. Vadim1707 (0:6)<br>
 	7. JDHA218 (3:4)<br>
 	8. spaceycarrot (3:11)<br>
 <br>
-160. #Obito_Uchiha (1006) 0<br>
+161. #Obito_Uchiha (1006) 0<br>
 0|-5<br>
 	1. Parko (4:6)<br>
 	4. MadDookie (4:11)<br>
@@ -1460,20 +1464,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Vadim1707 (4:6)<br>
 	8. spaceycarrot (2:5)<br>
 <br>
-161. #Drag0nstorm (1006) 0<br>
+162. #Drag0nstorm (1006) 0<br>
 <br>
 	4. MadDookie (20:13)<br>
 	5. Enlights (2:3)<br>
 	7. JDHA218 (4:3)<br>
 <br>
-162. #Gal-Kung-Fu (1006) 0<br>
+163. #Gal-Kung-Fu (1006) 0<br>
 +3<br>
 	1. Parko (8:10)<br>
 	4. MadDookie (13:20)<br>
 	5. Enlights (1:1)<br>
 	7. JDHA218 (17:19)<br>
 <br>
-163. #Inspiration- (1006) 0<br>
+164. #Inspiration- (1006) 0<br>
 +8|+1<br>
 	4. MadDookie (24:35)<br>
 	5. Enlights (1:2)<br>
@@ -1481,32 +1485,32 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (9:2)<br>
 	10. Captain-Levi (11:7)<br>
 <br>
-164. #SUPREME-- (1006) -1<br>
--1|-5<br>
-	4. MadDookie (12:13)<br>
-	5. Enlights (0:1)<br>
-	7. JDHA218 (30:31)<br>
-	8. spaceycarrot (2:5)<br>
-<br>
 165. #BumpyFlame~304 (1006) 0<br>
 <br>
 	4. MadDookie (11:5)<br>
 	10. Captain-Levi (5:5)<br>
 <br>
-166. #Alto. (1005) 0<br>
+166. #like.a.ninja (1006) +3<br>
++2<br>
+	4. MadDookie (12:12)<br>
+	5. Enlights (2:0)<br>
+	7. JDHA218 (6:7)<br>
+	8. spaceycarrot (0:2)<br>
+<br>
+167. #Alto. (1005) 0<br>
 +2<br>
 	1. Parko (4:1)<br>
 	4. MadDookie (10:14)<br>
 	6. Vadim1707 (7:17)<br>
 	7. JDHA218 (2:0)<br>
 <br>
-167. #SquareWolf~737 (1005) 0<br>
+168. #SquareWolf~737 (1005) 0<br>
 <br>
 	4. MadDookie (13:9)<br>
 	5. Enlights (4:0)<br>
 	8. spaceycarrot (1:1)<br>
 <br>
-168. #ChillyRobin~733 (1005) 0<br>
+169. #ChillyRobin~733 (1005) 0<br>
 +2<br>
 	1. Parko (20:24)<br>
 	3. sirgrapeLot (4:4)<br>
@@ -1514,45 +1518,45 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Enlights (6:9)<br>
 	7. JDHA218 (5:2)<br>
 <br>
-169. #Slimshadey (1005) 0<br>
+170. #Slimshadey (1005) 0<br>
 +1<br>
 	1. Parko (2:2)<br>
 	4. MadDookie (5:3)<br>
 	7. JDHA218 (5:1)<br>
 	10. Captain-Levi (0:3)<br>
 <br>
-170. #stuggidavid (1005) -1<br>
--27|-26|-32|-28|-24|-22|-18|-14|-6|-3<br>
+171. #stuggidavid (1004) 0<br>
+-27|-27|-32|-29|-25|-23|-19|-14|-6|-3<br>
 	1. Parko (9:12)<br>
 	2. Kalenshah (2:4)<br>
-	4. MadDookie (35:51)<br>
+	4. MadDookie (36:52)<br>
 	5. Enlights (2:6)<br>
 	7. JDHA218 (29:34)<br>
 	8. spaceycarrot (11:33)<br>
 	10. Captain-Levi (4:6)<br>
 <br>
-171. #mattymate (1004) 0<br>
+172. #mattymate (1004) 0<br>
 <br>
 	1. Parko (5:6)<br>
 	4. MadDookie (9:10)<br>
 	5. Enlights (4:8)<br>
 	7. JDHA218 (3:8)<br>
 <br>
-172. #Q.Raptor (1004) 0<br>
+173. #Q.Raptor (1004) 0<br>
 +1<br>
 	1. Parko (12:15)<br>
 	5. Enlights (8:13)<br>
 <br>
-173. #Winter. (1004) 0<br>
+174. #Winter. (1004) 0<br>
 -3|0<br>
 	1. Parko (5:7)<br>
 	4. MadDookie (5:6)<br>
-	5. Enlights (2:2)<br>
+	5. Enlights (0:1)<br>
 	7. JDHA218 (9:3)<br>
 	8. spaceycarrot (8:9)<br>
 	10. Captain-Levi (3:3)<br>
 <br>
-174. #SauceSamurai (1004) 0<br>
+175. #SauceSamurai (1004) 0<br>
 +3|+2<br>
 	1. Parko (3:5)<br>
 	4. MadDookie (43:61)<br>
@@ -1560,21 +1564,11 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (34:39)<br>
 	8. spaceycarrot (1:5)<br>
 <br>
-175. #Setin12 (1004) 0<br>
+176. #Setin12 (1004) 0<br>
 +1<br>
 	4. MadDookie (6:6)<br>
 	5. Enlights (0:4)<br>
 	7. JDHA218 (10:10)<br>
-<br>
-176. #Reductive (1003) 0<br>
-+25|+21|+21|+22|+28|+32|+26|+16|+9|+1<br>
-	1. Parko (23:35)<br>
-	4. MadDookie (64:57)<br>
-	5. Enlights (32:38)<br>
-	7. JDHA218 (64:63)<br>
-	8. spaceycarrot (8:14)<br>
-	9. Joe_Shome123 (1:1)<br>
-	10. Captain-Levi (0:1)<br>
 <br>
 177. #Shadowblaze. (1003) 0<br>
 +4|+1<br>
@@ -1588,20 +1582,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Enlights (3:5)<br>
 	7. JDHA218 (3:4)<br>
 <br>
-179. #TheMainEvent (1003) 0<br>
-<br>
-	1. Parko (3:6)<br>
-	4. MadDookie (21:20)<br>
-	5. Enlights (4:4)<br>
-<br>
-180. #Kyoku (1003) 0<br>
+179. #Kyoku (1003) 0<br>
 <br>
 	5. Enlights (3:1)<br>
 	6. Vadim1707 (1:1)<br>
 	7. JDHA218 (2:3)<br>
 	9. Joe_Shome123 (3:3)<br>
 <br>
-181. #Buff-Plunts (1003) 0<br>
+180. #Buff-Plunts (1003) 0<br>
 -2|-5|+3|0|+7|+3<br>
 	1. Parko (14:19)<br>
 	2. Kalenshah (0:1)<br>
@@ -1611,7 +1599,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (3:5)<br>
 	10. Captain-Levi (2:1)<br>
 <br>
-182. #DankMemes12 (1003) 0<br>
+181. #DankMemes12 (1003) 0<br>
 +2|-1|-7|-3<br>
 	1. Parko (0:2)<br>
 	4. MadDookie (12:21)<br>
@@ -1619,6 +1607,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Vadim1707 (1:2)<br>
 	7. JDHA218 (8:10)<br>
 	8. spaceycarrot (2:5)<br>
+<br>
+182. #playin4keeps (1003) +1<br>
++5|+9|+7|+6|+7|+8|+6|+7|+4<br>
+	1. Parko (2:1)<br>
+	4. MadDookie (19:18)<br>
+	7. JDHA218 (8:8)<br>
 <br>
 183. #iawai (1003) 0<br>
 <br>
@@ -1649,28 +1643,28 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Enlights (7:4)<br>
 	7. JDHA218 (12:12)<br>
 <br>
-187. #Ashanti (1002) 0<br>
+187. #Reductive (1002) -1<br>
++24|+20|+20|+21|+27|+31|+25|+15|+8|0<br>
+	1. Parko (23:35)<br>
+	4. MadDookie (64:57)<br>
+	5. Enlights (32:38)<br>
+	7. JDHA218 (64:63)<br>
+	8. spaceycarrot (8:14)<br>
+	9. Joe_Shome123 (1:1)<br>
+	10. Captain-Levi (0:1)<br>
+<br>
+188. #Ashanti (1002) 0<br>
 <br>
 	4. MadDookie (10:15)<br>
 	5. Enlights (3:1)<br>
 	7. JDHA218 (8:13)<br>
 <br>
-188. #David_Gee (1002) 0<br>
+189. #David_Gee (1002) 0<br>
 <br>
 	4. MadDookie (9:10)<br>
 	8. spaceycarrot (1:7)<br>
 <br>
-189. #playin4keeps (1002) 0<br>
-+4|+8|+6|+6|+7|+7|+5|+6|+3<br>
-	4. MadDookie (17:16)<br>
-	7. JDHA218 (8:8)<br>
-<br>
-190. #Delirium- (1002) 0<br>
-<br>
-	4. MadDookie (5:3)<br>
-	7. JDHA218 (8:12)<br>
-<br>
-191. #Meg.atome (1002) 0<br>
+190. #Meg.atome (1002) 0<br>
 +2|-1<br>
 	1. Parko (0:1)<br>
 	2. Kalenshah (1:3)<br>
@@ -1681,24 +1675,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (23:20)<br>
 	10. Captain-Levi (1:0)<br>
 <br>
-192. #wibbs (1002) 0<br>
-+9|+14|+3|+7|+2|+5|+2|+3|+2|+2<br>
-	1. Parko (2:7)<br>
-	3. sirgrapeLot (1:2)<br>
-	4. MadDookie (30:46)<br>
-	5. Enlights (8:14)<br>
-	7. JDHA218 (30:38)<br>
-	8. spaceycarrot (6:5)<br>
-	10. Captain-Levi (4:6)<br>
-<br>
-193. #cocainedog (1002) 0<br>
+191. #cocainedog (1002) 0<br>
 0<br>
 	4. MadDookie (24:28)<br>
 	5. Enlights (3:4)<br>
 	7. JDHA218 (3:7)<br>
 	8. spaceycarrot (0:4)<br>
 <br>
-194. #GalconKing_ (1001) 0<br>
+192. #GalconKing_ (1001) 0<br>
 0|+5|+3|-2|-7|-5<br>
 	1. Parko (1:2)<br>
 	4. MadDookie (7:18)<br>
@@ -1706,7 +1690,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (1:2)<br>
 	8. spaceycarrot (4:4)<br>
 <br>
-195. #FadedTooth~230 (1001) 0<br>
+193. #FadedTooth~230 (1001) 0<br>
 <br>
 	1. Parko (2:1)<br>
 	2. Kalenshah (1:0)<br>
@@ -1715,7 +1699,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (2:1)<br>
 	8. spaceycarrot (8:12)<br>
 <br>
-196. #FierceErmin~768 (1001) 0<br>
+194. #FierceErmin~768 (1001) 0<br>
 -2|-7<br>
 	1. Parko (2:3)<br>
 	4. MadDookie (2:1)<br>
@@ -1723,7 +1707,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (6:7)<br>
 	8. spaceycarrot (1:4)<br>
 <br>
-197. #Cosmos-King (1001) 0<br>
+195. #Cosmos-King (1001) 0<br>
 +1<br>
 	1. Parko (3:5)<br>
 	4. MadDookie (14:16)<br>
@@ -1731,8 +1715,25 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (19:24)<br>
 	8. spaceycarrot (4:2)<br>
 <br>
+196. #Andy65536 (1001) 0<br>
++3|+8|+12|+2|+6|-3<br>
+	1. Parko (27:39)<br>
+	4. MadDookie (3:3)<br>
+	5. Enlights (9:20)<br>
+	7. JDHA218 (11:16)<br>
+<br>
+197. #wibbs (1001) -1<br>
++8|+14|+3|+7|+2|+5|+2|+2|+2|+2<br>
+	1. Parko (2:9)<br>
+	3. sirgrapeLot (1:2)<br>
+	4. MadDookie (31:48)<br>
+	5. Enlights (8:14)<br>
+	7. JDHA218 (30:38)<br>
+	8. spaceycarrot (6:5)<br>
+	10. Captain-Levi (4:6)<br>
+<br>
 198. #SweetTooth~619 (1001) 0<br>
--6|-4|-1|-1|-9|-7|-5|-14|-14|-8<br>
+-7|-5|-2|-1|-9|-8|-6|-14|-15|-8<br>
 	1. Parko (18:17)<br>
 	3. sirgrapeLot (1:0)<br>
 	4. MadDookie (38:61)<br>
@@ -1743,18 +1744,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (2:0)<br>
 	10. Captain-Levi (7:5)<br>
 <br>
-199. #Andy65536 (1001) 0<br>
-+3|+8|+12|+2|+6|-3<br>
-	1. Parko (27:39)<br>
-	4. MadDookie (3:3)<br>
-	5. Enlights (9:20)<br>
-	7. JDHA218 (11:16)<br>
-<br>
-200. #Vhyme (1001) 0<br>
+199. #Vhyme (1001) 0<br>
 <br>
 	4. MadDookie (12:14)<br>
 	5. Enlights (4:5)<br>
 	7. JDHA218 (10:18)<br>
+<br>
+200. #TheMainEvent (1000) -3<br>
+<br>
+	1. Parko (4:14)<br>
+	4. MadDookie (24:26)<br>
+	5. Enlights (4:4)<br>
+	7. JDHA218 (0:1)<br>
 <br>
 201. #Convlusion (1000) 0<br>
 <br>
@@ -1846,51 +1847,56 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (4:5)<br>
 	8. spaceycarrot (1:1)<br>
 <br>
-215. #Tylermbcs16 (999) 0<br>
+215. #Delirium- (999) -3<br>
+<br>
+	4. MadDookie (5:8)<br>
+	7. JDHA218 (8:13)<br>
+<br>
+216. #Tylermbcs16 (999) 0<br>
 +7|+5<br>
 	1. Parko (2:2)<br>
 	4. MadDookie (2:1)<br>
 	7. JDHA218 (2:2)<br>
 	8. spaceycarrot (11:7)<br>
 <br>
-216. #sharifbang94 (999) 0<br>
+217. #sharifbang94 (999) 0<br>
 <br>
 	1. Parko (3:5)<br>
 	4. MadDookie (9:11)<br>
 	7. JDHA218 (8:9)<br>
 <br>
-217. #AOAEU (999) 0<br>
+218. #AOAEU (999) 0<br>
 +1|+5|+2|+8|+4|-2|0<br>
 	4. MadDookie (20:24)<br>
 	6. Vadim1707 (3:2)<br>
 	7. JDHA218 (8:18)<br>
 	8. spaceycarrot (6:7)<br>
 <br>
-218. #thehurricane (998) 0<br>
+219. #thehurricane (998) 0<br>
 <br>
 	4. MadDookie (6:16)<br>
 	5. Enlights (9:15)<br>
 <br>
-219. #Tor_ (998) 0<br>
+220. #Tor_ (998) 0<br>
 0<br>
 	1. Parko (5:6)<br>
 	4. MadDookie (5:8)<br>
 	5. Enlights (4:5)<br>
 	7. JDHA218 (15:11)<br>
 <br>
-220. #scottyo99 (998) 0<br>
+221. #scottyo99 (998) 0<br>
 -6|-1|-4|-6<br>
 	4. MadDookie (11:13)<br>
 	7. JDHA218 (4:9)<br>
 <br>
-221. #BigBabbaDope (998) 0<br>
+222. #BigBabbaDope (998) 0<br>
 <br>
 	4. MadDookie (4:5)<br>
 	6. Vadim1707 (1:1)<br>
 	7. JDHA218 (4:5)<br>
 	9. Joe_Shome123 (2:0)<br>
 <br>
-222. #josuma (997) 0<br>
+223. #josuma (997) 0<br>
 -5|-3|-1<br>
 	1. Parko (3:4)<br>
 	4. MadDookie (6:13)<br>
@@ -1899,7 +1905,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (1:1)<br>
 	10. Captain-Levi (2:4)<br>
 <br>
-223. #whisper- (997) 0<br>
+224. #whisper- (997) 0<br>
 <br>
 	1. Parko (7:8)<br>
 	4. MadDookie (2:6)<br>
@@ -1907,14 +1913,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (2:2)<br>
 	8. spaceycarrot (1:3)<br>
 <br>
-224. #Byufan (997) 0<br>
+225. #Byufan (997) 0<br>
 <br>
 	4. MadDookie (1:4)<br>
 	5. Enlights (4:8)<br>
 	6. Vadim1707 (1:1)<br>
 	7. JDHA218 (0:2)<br>
 <br>
-225. #JoeDumps (997) 0<br>
+226. #JoeDumps (997) 0<br>
 +5<br>
 	1. Parko (8:8)<br>
 	4. MadDookie (2:3)<br>
@@ -1923,7 +1929,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (1:0)<br>
 	10. Captain-Levi (1:1)<br>
 <br>
-226. #killerbear13 (997) 0<br>
+227. #killerbear13 (997) 0<br>
 -2|+3|+1<br>
 	1. Parko (2:10)<br>
 	3. sirgrapeLot (0:2)<br>
@@ -1931,20 +1937,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Enlights (5:9)<br>
 	7. JDHA218 (15:23)<br>
 <br>
-227. #MarsheL (997) 0<br>
+228. #MarsheL (997) 0<br>
 <br>
 	1. Parko (0:1)<br>
 	6. Vadim1707 (0:1)<br>
 	7. JDHA218 (3:6)<br>
 	8. spaceycarrot (1:2)<br>
 <br>
-228. #Oxydragon (997) 0<br>
+229. #Oxydragon (997) 0<br>
 <br>
 	4. MadDookie (7:12)<br>
 	7. JDHA218 (0:2)<br>
 	10. Captain-Levi (1:0)<br>
 <br>
-229. #CoolFaucet~518 (997) 0<br>
+230. #CoolFaucet~518 (997) 0<br>
 -2|+5|+3<br>
 	1. Parko (3:12)<br>
 	2. Kalenshah (2:4)<br>
@@ -1953,34 +1959,25 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (13:21)<br>
 	10. Captain-Levi (1:2)<br>
 <br>
-230. #JJDC (996) 0<br>
+231. #JJDC (996) 0<br>
 +1<br>
 	1. Parko (3:3)<br>
 	4. MadDookie (8:8)<br>
 	5. Enlights (3:5)<br>
 	7. JDHA218 (8:7)<br>
 <br>
-231. #JazzyJam~772 (996) 0<br>
+232. #JazzyJam~772 (996) 0<br>
 <br>
 	1. Parko (3:8)<br>
 	4. MadDookie (10:13)<br>
 	7. JDHA218 (2:4)<br>
 <br>
-232. #SloppyTea~932 (996) 0<br>
+233. #SloppyTea~932 (996) 0<br>
 <br>
 	1. Parko (2:6)<br>
 	4. MadDookie (4:9)<br>
 	7. JDHA218 (2:4)<br>
 	9. Joe_Shome123 (0:3)<br>
-<br>
-233. #scampadour (996) 0<br>
-+1|+3|+10|+1|-3|-1|-3|-3|+2|+1<br>
-	1. Parko (3:7)<br>
-	4. MadDookie (44:62)<br>
-	5. Enlights (6:10)<br>
-	6. Vadim1707 (0:1)<br>
-	7. JDHA218 (26:26)<br>
-	10. Captain-Levi (3:3)<br>
 <br>
 234. #HTALAQI (996) 0<br>
 <br>
@@ -2027,7 +2024,16 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (0:3)<br>
 	9. Joe_Shome123 (1:5)<br>
 <br>
-240. #Thurst777 (995) 0<br>
+240. #scampadour (995) -1<br>
+0|+3|+9|0|-3|-2|-4|-4|+1|0<br>
+	1. Parko (3:7)<br>
+	4. MadDookie (44:62)<br>
+	5. Enlights (6:10)<br>
+	6. Vadim1707 (0:1)<br>
+	7. JDHA218 (26:26)<br>
+	10. Captain-Levi (3:3)<br>
+<br>
+241. #Thurst777 (995) 0<br>
 -8|-5|-8|-3|-7|-13|-12|-7|-8|-2<br>
 	1. Parko (0:3)<br>
 	4. MadDookie (6:8)<br>
@@ -2035,20 +2041,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (4:5)<br>
 	10. Captain-Levi (0:1)<br>
 <br>
-241. #metbo (995) 0<br>
+242. #metbo (995) 0<br>
 <br>
 	4. MadDookie (5:6)<br>
 	5. Enlights (2:1)<br>
 	7. JDHA218 (2:3)<br>
 <br>
-242. #asali (994) 0<br>
+243. #asali (994) 0<br>
 -3|+2|+2|-1|-4|-2<br>
 	1. Parko (5:3)<br>
 	4. MadDookie (2:4)<br>
 	5. Enlights (1:2)<br>
 	7. JDHA218 (3:3)<br>
 <br>
-243. #dtrejo95 (994) 0<br>
+244. #dtrejo95 (994) 0<br>
 -3<br>
 	1. Parko (3:7)<br>
 	4. MadDookie (8:15)<br>
@@ -2057,7 +2063,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (5:12)<br>
 	8. spaceycarrot (4:5)<br>
 <br>
-244. #GOTTEM (994) 0<br>
+245. #GOTTEM (994) 0<br>
 +9|+15|+10|+11|+10|+9|+2|+1|+3|-1<br>
 	1. Parko (2:2)<br>
 	4. MadDookie (29:31)<br>
@@ -2068,11 +2074,11 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (1:0)<br>
 	10. Captain-Levi (2:0)<br>
 <br>
-245. #batman7000 (994) 0<br>
+246. #batman7000 (994) 0<br>
 <br>
 	7. JDHA218 (2:5)<br>
 <br>
-246. #yeasonn (994) 0<br>
+247. #yeasonn (994) 0<br>
 -3|-6<br>
 	1. Parko (3:7)<br>
 	4. MadDookie (5:5)<br>
@@ -2080,7 +2086,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (2:3)<br>
 	10. Captain-Levi (1:1)<br>
 <br>
-247. #rick- (994) 0<br>
+248. #rick- (994) 0<br>
 -6|-12|-7<br>
 	1. Parko (19:31)<br>
 	4. MadDookie (50:45)<br>
@@ -2091,7 +2097,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (0:1)<br>
 	10. Captain-Levi (1:3)<br>
 <br>
-248. #Vergilious (994) 0<br>
+249. #Vergilious (994) 0<br>
 0|+1|-1|-1<br>
 	1. Parko (0:1)<br>
 	4. MadDookie (2:4)<br>
@@ -2102,18 +2108,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (0:1)<br>
 	10. Captain-Levi (0:1)<br>
 <br>
-249. #Crazypiggy (994) 0<br>
+250. #Crazypiggy (994) 0<br>
 +25|+14|+18|+16|+18|+13|+9|+3|+4|-2<br>
 	4. MadDookie (2:4)<br>
 	7. JDHA218 (3:10)<br>
 	8. spaceycarrot (0:5)<br>
 <br>
-250. #Baboom (993) 0<br>
+251. #Baboom (993) 0<br>
 <br>
 	1. Parko (4:2)<br>
 	4. MadDookie (2:8)<br>
 <br>
-251. #Satan_NMMNG (993) 0<br>
+252. #Satan_NMMNG (993) 0<br>
 -6|+8|+4|0|0|+2<br>
 	1. Parko (8:14)<br>
 	4. MadDookie (13:22)<br>
@@ -2121,51 +2127,40 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (5:11)<br>
 	10. Captain-Levi (1:2)<br>
 <br>
-252. #AnkleBreaker (993) 0<br>
+253. #AnkleBreaker (993) 0<br>
 <br>
 	4. MadDookie (10:13)<br>
 	5. Enlights (1:4)<br>
 	7. JDHA218 (6:6)<br>
 <br>
-253. #heynongman (993) 0<br>
+254. #heynongman (993) 0<br>
 <br>
 	4. MadDookie (6:12)<br>
 	7. JDHA218 (5:15)<br>
 <br>
-254. #Vato96 (992) 0<br>
+255. #Vato96 (992) 0<br>
 -1<br>
 	4. MadDookie (2:6)<br>
 	5. Enlights (0:1)<br>
 	7. JDHA218 (0:1)<br>
 	8. spaceycarrot (0:2)<br>
 <br>
-255. #shaddow (992) 0<br>
--1|+4|+4|-3|-2|-7|-6|-6|-9|-11<br>
-	3. sirgrapeLot (0:1)<br>
-	4. MadDookie (6:20)<br>
-	5. Enlights (18:12)<br>
-	6. Vadim1707 (4:6)<br>
-	7. JDHA218 (5:6)<br>
-	8. spaceycarrot (0:3)<br>
-	9. Joe_Shome123 (0:1)<br>
-	10. Captain-Levi (3:3)<br>
-<br>
-256. #alex2006 (992) 0<br>
--1<br>
-	4. MadDookie (3:7)<br>
-	5. Enlights (2:7)<br>
-	8. spaceycarrot (0:2)<br>
-<br>
-257. #miomonster (992) 0<br>
--2|+4|+8|+10|-1|-2|+2|-1|0|-1<br>
-	1. Parko (23:26)<br>
-	4. MadDookie (85:138)<br>
+256. #miomonster (992) 0<br>
+-2|+5|+8|+10|0|-1|+3|0|0|-1<br>
+	1. Parko (24:32)<br>
+	4. MadDookie (89:143)<br>
 	5. Enlights (26:33)<br>
 	6. Vadim1707 (2:7)<br>
 	7. JDHA218 (72:76)<br>
 	8. spaceycarrot (57:57)<br>
 	9. Joe_Shome123 (0:1)<br>
 	10. Captain-Levi (4:7)<br>
+<br>
+257. #alex2006 (992) 0<br>
+-1<br>
+	4. MadDookie (3:7)<br>
+	5. Enlights (2:7)<br>
+	8. spaceycarrot (0:2)<br>
 <br>
 258. #Buz (992) 0<br>
 <br>
@@ -2187,21 +2182,32 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (1:0)<br>
 	10. Captain-Levi (6:9)<br>
 <br>
-261. #StArExPlOdEr (991) 0<br>
+261. #shaddow (991) -1<br>
+-2|+3|+4|-4|-3|-8|-7|-7|-10|-12<br>
+	3. sirgrapeLot (0:1)<br>
+	4. MadDookie (6:23)<br>
+	5. Enlights (18:12)<br>
+	6. Vadim1707 (4:6)<br>
+	7. JDHA218 (5:6)<br>
+	8. spaceycarrot (0:3)<br>
+	9. Joe_Shome123 (0:1)<br>
+	10. Captain-Levi (3:3)<br>
+<br>
+262. #StArExPlOdEr (991) 0<br>
 -6|-3|-3|-5|0|0|-1<br>
 	1. Parko (6:4)<br>
 	4. MadDookie (18:20)<br>
 	7. JDHA218 (2:1)<br>
 	8. spaceycarrot (3:5)<br>
 <br>
-262. #alster101 (990) 0<br>
+263. #alster101 (990) 0<br>
 -3|+6|-3<br>
 	1. Parko (3:13)<br>
 	3. sirgrapeLot (0:2)<br>
 	4. MadDookie (5:9)<br>
 	7. JDHA218 (0:3)<br>
 <br>
-263. #stront01 (989) 0<br>
+264. #stront01 (989) 0<br>
 -2<br>
 	1. Parko (0:2)<br>
 	4. MadDookie (17:36)<br>
@@ -2210,25 +2216,25 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (3:1)<br>
 	8. spaceycarrot (1:2)<br>
 <br>
-264. #Astindal (989) 0<br>
+265. #Astindal (989) 0<br>
 -13|-14|-3<br>
 	4. MadDookie (2:1)<br>
 	8. spaceycarrot (2:8)<br>
 <br>
-265. #arviiid (989) 0<br>
+266. #arviiid (989) 0<br>
 -1<br>
 	1. Parko (2:10)<br>
 	4. MadDookie (7:9)<br>
 	7. JDHA218 (3:3)<br>
 <br>
-266. #VNS700 (989) 0<br>
+267. #VNS700 (989) 0<br>
 -7|-2<br>
 	4. MadDookie (1:6)<br>
 	5. Enlights (1:2)<br>
 	7. JDHA218 (0:1)<br>
 	10. Captain-Levi (1:3)<br>
 <br>
-267. #K1LL3rW33D (989) 0<br>
+268. #K1LL3rW33D (989) 0<br>
 +12|+7|+8|+9|-2|-6|-6|-14|-12|-2<br>
 	2. Kalenshah (3:0)<br>
 	4. MadDookie (1:6)<br>
@@ -2236,14 +2242,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (4:10)<br>
 	8. spaceycarrot (0:1)<br>
 <br>
-268. #khalilmz (989) 0<br>
+269. #khalilmz (989) 0<br>
 <br>
 	4. MadDookie (6:17)<br>
 	5. Enlights (1:0)<br>
 	7. JDHA218 (0:1)<br>
 	10. Captain-Levi (1:3)<br>
 <br>
-269. #HollowHoppe~374 (988) 0<br>
+270. #HollowHoppe~374 (988) 0<br>
 -1<br>
 	4. MadDookie (9:19)<br>
 	5. Enlights (0:1)<br>
@@ -2251,7 +2257,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (7:11)<br>
 	8. spaceycarrot (0:2)<br>
 <br>
-270. #kern4life (988) 0<br>
+271. #kern4life (988) 0<br>
 -6<br>
 	1. Parko (1:10)<br>
 	4. MadDookie (2:9)<br>
@@ -2259,19 +2265,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (4:4)<br>
 	9. Joe_Shome123 (1:3)<br>
 <br>
-271. #aboody-sd (988) 0<br>
+272. #aboody-sd (988) 0<br>
 -14|-7|-1|+1|-6|-8|-13|-8|-3|+1<br>
 	4. MadDookie (3:8)<br>
 	5. Enlights (0:1)<br>
 	7. JDHA218 (15:14)<br>
 <br>
-272. #Minori (986) 0<br>
+273. #Minori (986) 0<br>
 -7|-1<br>
 	4. MadDookie (6:16)<br>
 	5. Enlights (10:16)<br>
 	8. spaceycarrot (4:4)<br>
 <br>
-273. #VividerAphid (986) 0<br>
+274. #VividerAphid (986) 0<br>
 -10|-12|-12|-9|-12|-3|+2<br>
 	1. Parko (4:12)<br>
 	4. MadDookie (12:17)<br>
@@ -2280,7 +2286,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (3:6)<br>
 	10. Captain-Levi (2:3)<br>
 <br>
-274. #eagleye14963 (986) 0<br>
+275. #eagleye14963 (986) 0<br>
 -11|-13|-12|-2<br>
 	4. MadDookie (5:10)<br>
 	5. Enlights (0:3)<br>
@@ -2289,19 +2295,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (2:2)<br>
 	10. Captain-Levi (0:2)<br>
 <br>
-275. #cryp7 (985) 0<br>
+276. #cryp7 (985) 0<br>
 -18|-13|-7<br>
 	4. MadDookie (6:15)<br>
 	5. Enlights (1:5)<br>
 	7. JDHA218 (15:32)<br>
 <br>
-276. #KryOEFor (985) 0<br>
+277. #KryOEFor (985) 0<br>
 -8|-2<br>
 	1. Parko (0:3)<br>
 	4. MadDookie (6:6)<br>
 	5. Enlights (1:0)<br>
 <br>
-277. #meltedcheese (985) 0<br>
+278. #meltedcheese (985) 0<br>
 -6<br>
 	2. Kalenshah (1:5)<br>
 	4. MadDookie (2:11)<br>
@@ -2310,13 +2316,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (4:11)<br>
 	9. Joe_Shome123 (0:1)<br>
 <br>
-278. #vatolina96 (984) 0<br>
+279. #vatolina96 (984) 0<br>
 <br>
 	1. Parko (1:4)<br>
 	4. MadDookie (1:5)<br>
 	7. JDHA218 (0:1)<br>
 <br>
-279. #XAustinX1 (984) 0<br>
+280. #XAustinX1 (984) 0<br>
 -9|-13|-10|-12|-2|-5|-6|+8|+3|0<br>
 	1. Parko (6:8)<br>
 	3. sirgrapeLot (1:0)<br>
@@ -2325,21 +2331,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Vadim1707 (3:9)<br>
 	7. JDHA218 (3:6)<br>
 <br>
-280. #drhillikilil (984) -1<br>
+281. #drhillikilil (984) 0<br>
 -13|-3<br>
 	4. MadDookie (5:3)<br>
 	6. Vadim1707 (1:9)<br>
 	7. JDHA218 (5:10)<br>
 	8. spaceycarrot (1:5)<br>
 	10. Captain-Levi (1:0)<br>
-<br>
-281. #Mimicry (983) 0<br>
--3|-8|-3<br>
-	1. Parko (2:6)<br>
-	4. MadDookie (4:8)<br>
-	7. JDHA218 (0:3)<br>
-	8. spaceycarrot (1:0)<br>
-	9. Joe_Shome123 (4:0)<br>
 <br>
 282. #chILLYpotat (983) 0<br>
 -14|-14|-9|-5|-3|-6|+5|+1|-1<br>
@@ -2373,30 +2371,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (20:26)<br>
 	8. spaceycarrot (1:5)<br>
 <br>
-285. #TimDebJon (983) +4<br>
--6|-16|-4|+4|+9|+3|+8|+8|+9|+5<br>
-	1. Parko (17:29)<br>
-	4. MadDookie (66:86)<br>
-	5. Enlights (17:30)<br>
-	6. Vadim1707 (5:6)<br>
-	7. JDHA218 (24:39)<br>
-	8. spaceycarrot (12:12)<br>
-	9. Joe_Shome123 (1:2)<br>
-	10. Captain-Levi (0:4)<br>
-<br>
-286. #Miniongalcon (983) 0<br>
+285. #Miniongalcon (983) 0<br>
 -6|-5|-7|-5|-3<br>
 	1. Parko (2:3)<br>
 	4. MadDookie (7:18)<br>
 <br>
-287. #antv2 (983) 0<br>
+286. #antv2 (983) 0<br>
 -10|-10|+1<br>
 	1. Parko (7:11)<br>
 	2. Kalenshah (0:2)<br>
 	5. Enlights (1:1)<br>
 	9. Joe_Shome123 (3:3)<br>
 <br>
-288. #Matthew0898 (983) 0<br>
+287. #Matthew0898 (983) 0<br>
 -22|-19|-20|-27|-14|-10|-1<br>
 	1. Parko (1:2)<br>
 	4. MadDookie (8:7)<br>
@@ -2406,24 +2393,35 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Joe_Shome123 (10:20)<br>
 	10. Captain-Levi (0:3)<br>
 <br>
-289. #iceking99 (982) 0<br>
--3|-8|0|-1|-9|-6|-6|-11|-2|0<br>
-	4. MadDookie (12:14)<br>
-	7. JDHA218 (1:4)<br>
-<br>
-290. #Slip4908 (982) 0<br>
+288. #Slip4908 (982) 0<br>
 -18|-10|-1<br>
 	1. Parko (7:7)<br>
 	4. MadDookie (5:8)<br>
 	7. JDHA218 (3:8)<br>
 	8. spaceycarrot (5:7)<br>
 <br>
+289. #TimDebJon (982) -1<br>
+-7|-16|-5|+4|+8|+2|+7|+7|+9|+4<br>
+	1. Parko (17:29)<br>
+	4. MadDookie (66:86)<br>
+	5. Enlights (17:30)<br>
+	6. Vadim1707 (5:6)<br>
+	7. JDHA218 (24:39)<br>
+	8. spaceycarrot (12:12)<br>
+	9. Joe_Shome123 (1:2)<br>
+	10. Captain-Levi (0:4)<br>
+<br>
+290. #iceking99 (982) 0<br>
+-4|-8|-1|-2|-10|-6|-7|-11|-2|0<br>
+	4. MadDookie (13:20)<br>
+	7. JDHA218 (1:4)<br>
+<br>
 291. #micklepickle (982) 0<br>
 -16|-15|-10|-1<br>
 	2. Kalenshah (6:8)<br>
 	4. MadDookie (11:13)<br>
-	7. JDHA218 (2:8)<br>
-	9. Joe_Shome123 (2:7)<br>
+	7. JDHA218 (2:5)<br>
+	9. Joe_Shome123 (0:1)<br>
 	10. Captain-Levi (1:4)<br>
 <br>
 292. #rubo (981) 0<br>
@@ -2488,7 +2486,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (2:2)<br>
 	8. spaceycarrot (1:4)<br>
 <br>
-300. #thedude (976) -1<br>
+300. #thedude (976) 0<br>
 -13|-15|-22|-8|-14|-16|-17|-7|-6|-1<br>
 	1. Parko (4:6)<br>
 	4. MadDookie (7:9)<br>
@@ -2551,7 +2549,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Vadim1707 (6:17)<br>
 	7. JDHA218 (54:51)<br>
 	8. spaceycarrot (14:26)<br>
-	9. Joe_Shome123 (24:35)<br>
+	9. Joe_Shome123 (20:25)<br>
 <br>
 309. #Jamesking135 (967) 0<br>
 +4|0|-1|-9|-6|-3|+5|-1|+4|0<br>
@@ -2630,7 +2628,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (9:8)<br>
 	10. Captain-Levi (0:1)<br>
 <br>
-319. #Meep (960) -2<br>
+319. #Meep (960) 0<br>
 -3|-3|-5|+3|+1|-3|-7|-8|-6|-4<br>
 	1. Parko (23:36)<br>
 	2. Kalenshah (2:0)<br>
@@ -2647,14 +2645,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	1. Parko (4:9)<br>
 	4. MadDookie (26:39)<br>
 	5. Enlights (0:6)<br>
-	7. JDHA218 (9:25)<br>
+	7. JDHA218 (9:23)<br>
 	8. spaceycarrot (3:12)<br>
 	10. Captain-Levi (7:11)<br>
 <br>
 321. #MojoRising (959) 0<br>
 -17|-9|-4|-4|-4|-5|-3|-1|+2|+1<br>
 	1. Parko (10:15)<br>
-	5. Enlights (6:11)<br>
+	5. Enlights (6:8)<br>
 	9. Joe_Shome123 (1:0)<br>
 <br>
 322. #sltan1995 (958) 0<br>
@@ -2675,7 +2673,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Vadim1707 (4:6)<br>
 	7. JDHA218 (2:2)<br>
 	8. spaceycarrot (12:12)<br>
-	9. Joe_Shome123 (0:2)<br>
+	9. Joe_Shome123 (0:1)<br>
 <br>
 324. #GenBelIblis (957) 0<br>
 -41|-38|-39|-33|-31|-26|-21|-13|0<br>
@@ -2731,7 +2729,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	1. Parko (24:39)<br>
 	2. Kalenshah (5:5)<br>
 	4. MadDookie (73:117)<br>
-	5. Enlights (19:26)<br>
+	5. Enlights (17:23)<br>
 	6. Vadim1707 (3:10)<br>
 	7. JDHA218 (24:42)<br>
 	8. spaceycarrot (14:25)<br>
@@ -2762,12 +2760,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. spaceycarrot (0:3)<br>
 	10. Captain-Levi (3:2)<br>
 <br>
-334. #Foxylocks12 (946) 0<br>
-+9|+20|+17|+15|+13|+11|+5|+2|+5|+3<br>
-	1. Parko (17:31)<br>
-	4. MadDookie (12:23)<br>
+334. #Foxylocks12 (947) 0<br>
++20|+17|+16|+14|+11|+5|+3|+5|+3|0<br>
+	1. Parko (17:32)<br>
+	4. MadDookie (14:26)<br>
 	5. Enlights (11:12)<br>
-	7. JDHA218 (20:22)<br>
+	7. JDHA218 (23:22)<br>
 	8. spaceycarrot (5:7)<br>
 	9. Joe_Shome123 (6:4)<br>
 	10. Captain-Levi (0:5)<br>
@@ -2806,7 +2804,6 @@ Recent win rates against top 10 over the past 20k matches<br>
 -33|-32|-29|-25|-25|-21|-18|-13|-5|-3<br>
 	1. Parko (8:12)<br>
 	4. MadDookie (11:24)<br>
-	5. Enlights (1:3)<br>
 	7. JDHA218 (14:27)<br>
 <br>
 339. #Starfleet (935) 0<br>
@@ -2841,26 +2838,26 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (7:14)<br>
 	8. spaceycarrot (4:11)<br>
 <br>
-343. #jennygirl (930) 0<br>
--1|0|+6|+8|+9|+6|+5|0|-1|-3<br>
-	1. Parko (130:198)<br>
-	4. MadDookie (181:264)<br>
-	5. Enlights (58:101)<br>
+343. #jennygirl (929) -1<br>
+-2|-1|+5|+7|+9|+5|+4|-1|-2|-4<br>
+	1. Parko (134:206)<br>
+	4. MadDookie (185:273)<br>
+	5. Enlights (58:98)<br>
 	6. Vadim1707 (12:20)<br>
-	7. JDHA218 (87:133)<br>
+	7. JDHA218 (88:134)<br>
 	8. spaceycarrot (42:73)<br>
 	9. Joe_Shome123 (6:4)<br>
 	10. Captain-Levi (7:23)<br>
 <br>
-344. #j1clique (928) +1<br>
-+19|+8|+4|-4|-7|-3|-1|+1|+1|+2<br>
+344. #j1clique (929) +1<br>
++20|+8|+4|-3|-6|-2|0|+1|+2|+3<br>
 	1. Parko (67:104)<br>
 	2. Kalenshah (1:1)<br>
 	3. sirgrapeLot (3:5)<br>
-	4. MadDookie (93:144)<br>
+	4. MadDookie (97:148)<br>
 	5. Enlights (60:77)<br>
 	6. Vadim1707 (11:15)<br>
-	7. JDHA218 (49:54)<br>
+	7. JDHA218 (49:57)<br>
 	8. spaceycarrot (23:28)<br>
 	9. Joe_Shome123 (6:10)<br>
 	10. Captain-Levi (11:11)<br>
@@ -2883,10 +2880,10 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (9:22)<br>
 	8. spaceycarrot (0:2)<br>
 <br>
-347. #HAIDER99 (921) +1<br>
--28|-24|-20|-12|-14|-15|-19|-11|-4|-4<br>
+347. #HAIDER99 (921) -1<br>
+-28|-25|-21|-13|-15|-15|-19|-12|-5|-5<br>
 	1. Parko (4:13)<br>
-	4. MadDookie (7:26)<br>
+	4. MadDookie (9:31)<br>
 	5. Enlights (2:8)<br>
 	7. JDHA218 (2:3)<br>
 <br>
@@ -2906,7 +2903,6 @@ Recent win rates against top 10 over the past 20k matches<br>
 -13|-8|-8|-8|-9|-10|-3|+3|+6|+1<br>
 	1. Parko (4:4)<br>
 	4. MadDookie (3:7)<br>
-	5. Enlights (1:2)<br>
 	7. JDHA218 (2:2)<br>
 <br>
 351. #BigUU (838) 0<br>
