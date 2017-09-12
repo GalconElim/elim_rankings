@@ -166,7 +166,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. vip_genius (0:1)<br>
 <br>
 18. #EternalFlame (1059) 0<br>
-+51|+32|+26|+15|+13|+5|+11|+4|+9|+4<br>
++32|+26|+15|+14|+5|+11|+4|+9|+4|0<br>
 	1. MusCu (1:1)<br>
 	3. bejut (7:5)<br>
 	6. pablo55 (2:1)<br>
@@ -262,15 +262,15 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. ss0317 (9:6)<br>
 	9. vip_genius (1:12)<br>
 <br>
-31. #Ardi09. (1000) 0<br>
--25|-11|-14|-8|-8|-6|-14|-9|-7|-3<br>
+31. #Ardi09. (1000) -1<br>
+-25|-11|-15|-9|-9|-7|-14|-10|-8|-4<br>
 	3. bejut (23:50)<br>
 	6. pablo55 (0:3)<br>
 	7. OrBiTeR (4:7)<br>
 	8. ss0317 (5:19)<br>
 	9. vip_genius (13:19)<br>
 <br>
-32. #milkyway (999) -1<br>
+32. #milkyway (999) 0<br>
 -1|-11|+5|+4|+2|+8|+6|-4|0|-4<br>
 	1. MusCu (0:1)<br>
 	3. bejut (18:38)<br>
@@ -279,19 +279,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. ss0317 (22:33)<br>
 	9. vip_genius (114:201)<br>
 <br>
-33. #icomeinpeece (989) 0<br>
-+3|+13|+7|+7|-8|-1|-8|0|+1|+7<br>
-	1. MusCu (10:37)<br>
-	2. Vadim1707 (0:6)<br>
-	3. bejut (79:131)<br>
-	5. HOBerdo (1:4)<br>
-	6. pablo55 (4:11)<br>
-	8. ss0317 (64:126)<br>
-	9. vip_genius (69:108)<br>
-	10. waffle3z (0:3)<br>
-<br>
-34. #ciubaka (989) 0<br>
--10|-11|-16|-20|-18|-17|-18|-7|0|0<br>
+33. #ciubaka (990) +1<br>
+-9|-10|-15|-19|-17|-16|-17|-6|+1|0<br>
 	1. MusCu (0:1)<br>
 	2. Vadim1707 (0:5)<br>
 	3. bejut (25:49)<br>
@@ -301,6 +290,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. OrBiTeR (0:3)<br>
 	8. ss0317 (30:59)<br>
 	9. vip_genius (6:12)<br>
+<br>
+34. #icomeinpeece (989) 0<br>
++3|+13|+7|+7|-8|-1|-8|0|+1|+7<br>
+	1. MusCu (10:37)<br>
+	2. Vadim1707 (0:6)<br>
+	3. bejut (79:131)<br>
+	5. HOBerdo (1:4)<br>
+	6. pablo55 (4:11)<br>
+	8. ss0317 (64:126)<br>
+	9. vip_genius (69:108)<br>
+	10. waffle3z (0:3)<br>
 <br>
 35. #Uranus-98 (986) 0<br>
 -13|-14|-17|-25|-19|-19|-21|-19|-11|0<br>
@@ -338,8 +338,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. ss0317 (2:11)<br>
 	9. vip_genius (1:1)<br>
 <br>
-39. #Sondair (952) +1<br>
--26|-26|-23|-28|-28|-16|-12|-6|+1|+10<br>
+39. #Sondair (951) -1<br>
+-27|-26|-24|-29|-29|-17|-12|-7|0|+9<br>
 	2. Vadim1707 (1:10)<br>
 	3. bejut (42:149)<br>
 	4. Kretschy198 (2:22)<br>
@@ -356,8 +356,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. ss0317 (5:17)<br>
 	9. vip_genius (2:0)<br>
 <br>
-41. #CoolFaucet~518 (942) 0<br>
--18|-23|-20|-17|-12|-3|-11|-14|-9|-2<br>
+41. #CoolFaucet~518 (941) 0<br>
+-19|-23|-20|-18|-12|-4|-11|-14|-9|-3<br>
 	1. MusCu (0:1)<br>
 	2. Vadim1707 (0:2)<br>
 	3. bejut (49:158)<br>
@@ -386,8 +386,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. ss0317 (7:52)<br>
 	9. vip_genius (4:8)<br>
 <br>
-44. #monguesto (888) 0<br>
--18|-17|-10|-4|-3|-7|-4|0|+8|-4<br>
+44. #monguesto (889) +1<br>
+-17|-15|-9|-3|-2|-6|-2|+1|+10|-2<br>
 	1. MusCu (0:11)<br>
 	2. Vadim1707 (0:4)<br>
 	3. bejut (3:38)<br>
@@ -396,7 +396,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. pablo55 (3:39)<br>
 	7. OrBiTeR (0:1)<br>
 	8. ss0317 (23:121)<br>
-	9. vip_genius (15:48)<br>
+	9. vip_genius (14:45)<br>
 	10. waffle3z (3:34)<br>
 <br>
 45. #quickmill (881) 0<br>
