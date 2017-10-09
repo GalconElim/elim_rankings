@@ -1,40 +1,49 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #Panic~Attack (1578) 0<br>
-+369|+241|+170|+111|+88|+85|+3<br>
+1. #Panic~Attack (1576) -2<br>
++367|+239|+168|+109|+86|+83|+1<br>
 	2. Mocha960725 (2:0)<br>
 	3. Attack~Bot (1:1)<br>
+	5. Echo~Bot (4:7)<br>
 	6. Mean~Machine (2:5)<br>
-	8. Test~Bot (2:1)<br>
-	10. Echo~Bot (4:7)<br>
+	9. Test~Bot (2:1)<br>
 <br>
 2. #Mocha960725 (1554) 0<br>
 +394|+215|+104|+64|+54|+36<br>
 	1. Panic~Attack (0:2)<br>
 	4. Impatient~Bot (3:7)<br>
+	5. Echo~Bot (12:7)<br>
 	6. Mean~Machine (4:12)<br>
-	8. Test~Bot (21:6)<br>
-	10. Echo~Bot (12:7)<br>
+	9. Test~Bot (21:6)<br>
+	10. Human~Being (4:3)<br>
 <br>
-3. #Attack~Bot (1512) +5<br>
+3. #Attack~Bot (1512) 0<br>
 +151|+125|+153|+156|+156|+123|+129|+99|+60|+19<br>
 	1. Panic~Attack (1:1)<br>
 	4. Impatient~Bot (7:3)<br>
+	5. Echo~Bot (6:7)<br>
 	6. Mean~Machine (3:4)<br>
-	8. Test~Bot (29:27)<br>
-	10. Echo~Bot (6:7)<br>
+	9. Test~Bot (28:27)<br>
+	10. Human~Being (3:2)<br>
 <br>
-4. #Impatient~Bot (1503) +9<br>
-+319|+232|+188|+89|+50|+36|+15<br>
+4. #Impatient~Bot (1508) +5<br>
++323|+236|+193|+94|+55|+41|+20<br>
 	2. Mocha960725 (7:3)<br>
 	3. Attack~Bot (3:7)<br>
+	5. Echo~Bot (3:1)<br>
 	6. Mean~Machine (14:7)<br>
-	8. Test~Bot (13:16)<br>
-	10. Echo~Bot (3:1)<br>
+	9. Test~Bot (13:16)<br>
+	10. Human~Being (60:29)<br>
 <br>
-5. #GoOody (1474) 0<br>
-+39|+36|+32|+13|+23|-3|-54|-9|-44|+32<br>
-	6. Mean~Machine (0:1)<br>
+5. #Echo~Bot (1474) +13<br>
++266|+161|+94|+62|+2<br>
+	1. Panic~Attack (7:4)<br>
+	2. Mocha960725 (7:12)<br>
+	3. Attack~Bot (7:6)<br>
+	4. Impatient~Bot (1:3)<br>
+	6. Mean~Machine (11:7)<br>
+	9. Test~Bot (11:3)<br>
+	10. Human~Being (23:14)<br>
 <br>
 6. #Mean~Machine (1473) 0<br>
 +302|+175|+96<br>
@@ -42,1230 +51,1256 @@ Recent win rates against top 10 over the past 20k matches<br>
 	2. Mocha960725 (12:4)<br>
 	3. Attack~Bot (4:3)<br>
 	4. Impatient~Bot (7:14)<br>
-	5. GoOody (1:0)<br>
-	8. Test~Bot (16:3)<br>
-	9. ianna (3:0)<br>
-	10. Echo~Bot (7:11)<br>
+	5. Echo~Bot (7:11)<br>
+	7. GoOody (1:0)<br>
+	9. Test~Bot (16:3)<br>
+	10. Human~Being (17:16)<br>
 <br>
-7. #svircs (1465) +5<br>
+7. #GoOody (1469) -5<br>
++33|+30|+26|+8|+18|-8|-59|-15|-49|+26<br>
+	6. Mean~Machine (0:1)<br>
+<br>
+8. #svircs (1465) 0<br>
 +106|+111|+84|+55|+21|0|+26|+34|+14|+24<br>
-	9. ianna (1:0)<br>
 <br>
-8. #Test~Bot (1464) -2<br>
+9. #Test~Bot (1464) 0<br>
 -24|-34|-13|-60|-3|+11|-3|+22|+13|+17<br>
 	1. Panic~Attack (1:2)<br>
 	2. Mocha960725 (6:21)<br>
-	3. Attack~Bot (27:29)<br>
+	3. Attack~Bot (27:28)<br>
 	4. Impatient~Bot (16:13)<br>
+	5. Echo~Bot (3:11)<br>
 	6. Mean~Machine (3:16)<br>
-	10. Echo~Bot (3:11)<br>
+	10. Human~Being (7:5)<br>
 <br>
-9. #ianna (1463) -5<br>
--54|-80|-44|+22|+74|+56|+20|+51|-7|-3<br>
-	6. Mean~Machine (0:3)<br>
-	7. svircs (0:1)<br>
-	10. Echo~Bot (6:9)<br>
-<br>
-10. #Echo~Bot (1461) +2<br>
-+252|+147|+81|+48<br>
-	1. Panic~Attack (7:4)<br>
-	2. Mocha960725 (7:12)<br>
-	3. Attack~Bot (7:6)<br>
-	4. Impatient~Bot (1:3)<br>
-	6. Mean~Machine (11:7)<br>
-	8. Test~Bot (11:3)<br>
-	9. ianna (9:6)<br>
-<br>
-11. #Human~Being (1456) +6<br>
-+116|+106|+87|+67|+81|+62|+38|+18|+6|+6<br>
+10. #Human~Being (1459) +2<br>
++119|+108|+90|+70|+83|+64|+41|+20|+8|+9<br>
 	2. Mocha960725 (3:4)<br>
 	3. Attack~Bot (2:3)<br>
-	4. Impatient~Bot (33:59)<br>
-	6. Mean~Machine (17:17)<br>
-	8. Test~Bot (5:7)<br>
-	9. ianna (54:96)<br>
-	10. Echo~Bot (13:22)<br>
+	4. Impatient~Bot (29:60)<br>
+	5. Echo~Bot (14:23)<br>
+	6. Mean~Machine (16:17)<br>
+	9. Test~Bot (5:7)<br>
 <br>
-12. #waffle~3z (1453) -2<br>
--85|-68|-69|-69|-70|-73|-65|-71|-92|-41<br>
+11. #waffle~3z (1452) -1<br>
+-86|-69|-70|-70|-71|-74|-66|-72|-92|-42<br>
 	1. Panic~Attack (4:15)<br>
 	2. Mocha960725 (0:5)<br>
 	3. Attack~Bot (0:4)<br>
 	4. Impatient~Bot (0:1)<br>
+	5. Echo~Bot (2:8)<br>
 	6. Mean~Machine (2:6)<br>
-	8. Test~Bot (3:5)<br>
-	10. Echo~Bot (2:8)<br>
+	9. Test~Bot (3:5)<br>
 <br>
-13. #Territorial~Bot (1450) +5<br>
-+18|-6|-39|-56|-6|+62|+66|+55|+41|+15<br>
+12. #Territorial~Bot (1451) +1<br>
++19|-6|-38|-55|-5|+63|+67|+55|+41|+16<br>
 	2. Mocha960725 (0:4)<br>
 	3. Attack~Bot (3:2)<br>
 	4. Impatient~Bot (18:37)<br>
+	5. Echo~Bot (0:2)<br>
 	6. Mean~Machine (0:4)<br>
-	8. Test~Bot (12:9)<br>
-	10. Echo~Bot (0:2)<br>
+	9. Test~Bot (12:9)<br>
+	10. Human~Being (60:48)<br>
 <br>
-14. #Nerf~Bot (1449) +3<br>
+13. #ianna (1451) -13<br>
+-66|-92|-56|+10|+62|+44|+8|+38|-19|-16<br>
+	5. Echo~Bot (6:13)<br>
+	6. Mean~Machine (0:3)<br>
+	8. svircs (0:1)<br>
+	10. Human~Being (97:58)<br>
+<br>
+14. #Nerf~Bot (1449) 0<br>
 -65|-24|-35|-32|-22|-16|-53|-55|-47|-19<br>
 	1. Panic~Attack (4:16)<br>
 	2. Mocha960725 (4:15)<br>
 	3. Attack~Bot (7:13)<br>
 	4. Impatient~Bot (1:3)<br>
+	5. Echo~Bot (6:9)<br>
 	6. Mean~Machine (7:7)<br>
-	8. Test~Bot (8:6)<br>
-	10. Echo~Bot (6:9)<br>
+	9. Test~Bot (8:6)<br>
+	10. Human~Being (1:0)<br>
 <br>
-15. #Squiggly~Line (1444) +12<br>
-+352|+240|+140|+96|+40|+25<br>
-	4. Impatient~Bot (3:11)<br>
+15. #Squiggly~Line (1446) +1<br>
++353|+241|+142|+97|+41|+26<br>
+	4. Impatient~Bot (4:13)<br>
 	6. Mean~Machine (1:1)<br>
-	9. ianna (4:2)<br>
+	10. Human~Being (10:23)<br>
 <br>
-16. #bruha (1436) -3<br>
-+67|+79|+124|+77|+57|+42|+12|-8|+8|-23<br>
+16. #bruha (1435) -1<br>
++66|+78|+123|+76|+55|+41|+11|-9|+7|-24<br>
 <br>
 17. #jbd (1425) 0<br>
-+65|+89|+114|+85|+90|+86|+47|+49|0|-16<br>
++65|+89|+114|+85|+90|+86|+47|+50|0|-16<br>
 <br>
-18. #Snapping~Turtle (1424) -2<br>
+18. #Snapping~Turtle (1424) 0<br>
 +3|+26|+42|+85|+88|+55|+36|+3|+4|+2<br>
 	1. Panic~Attack (0:2)<br>
 	2. Mocha960725 (4:5)<br>
-	3. Attack~Bot (10:31)<br>
+	3. Attack~Bot (10:30)<br>
 	4. Impatient~Bot (2:8)<br>
+	5. Echo~Bot (7:9)<br>
 	6. Mean~Machine (4:9)<br>
-	8. Test~Bot (5:13)<br>
-	10. Echo~Bot (7:9)<br>
+	9. Test~Bot (5:13)<br>
+	10. Human~Being (7:9)<br>
 <br>
-19. #Axitaxi (1416) 0<br>
-+110|+103|+103|+122|+110|+118|+74|+46|+37|+12<br>
+19. #Axitaxi (1418) +2<br>
++112|+105|+105|+124|+112|+120|+76|+48|+39|+14<br>
 	1. Panic~Attack (0:4)<br>
 <br>
-20. #Suicide~Bot (1409) 0<br>
-+77|+91|+62|+41|-25|+25|+10|+33|+35|+23<br>
-	2. Mocha960725 (1:5)<br>
-	4. Impatient~Bot (2:5)<br>
-	8. Test~Bot (0:2)<br>
-	10. Echo~Bot (0:2)<br>
-<br>
-21. #Tunnel~Bot (1404) +5<br>
--71|-56|-28|-25|-2|+22|-3|-4|-11|0<br>
+20. #Tunnel~Bot (1408) +4<br>
+-67|-52|-24|-20|+2|+26|+1|0|-7|+4<br>
 	1. Panic~Attack (0:1)<br>
 	2. Mocha960725 (0:5)<br>
 	3. Attack~Bot (1:0)<br>
 	4. Impatient~Bot (15:27)<br>
+	5. Echo~Bot (0:1)<br>
 	6. Mean~Machine (4:2)<br>
-	8. Test~Bot (5:9)<br>
-	10. Echo~Bot (0:1)<br>
+	9. Test~Bot (5:9)<br>
+	10. Human~Being (12:15)<br>
 <br>
-22. #yoky (1402) -2<br>
-+288|+240|+192|+137|+103|+75|+53|-10|-3|-14<br>
+21. #Suicide~Bot (1407) -2<br>
++75|+89|+60|+38|-27|+23|+8|+31|+33|+21<br>
+	2. Mocha960725 (1:5)<br>
+	4. Impatient~Bot (2:5)<br>
+	5. Echo~Bot (0:2)<br>
+	9. Test~Bot (0:2)<br>
+	10. Human~Being (7:5)<br>
+<br>
+22. #wagaf (1406) +8<br>
++20|+13|+23|-3|+5|+4|-1|-23|-47|+7<br>
+	7. GoOody (1:1)<br>
+<br>
+23. #yoky (1402) -1<br>
++287|+239|+191|+136|+102|+74|+52|-11|-4|-15<br>
 	1. Panic~Attack (0:1)<br>
 	2. Mocha960725 (1:0)<br>
 	3. Attack~Bot (1:1)<br>
-	7. svircs (1:1)<br>
-	8. Test~Bot (1:0)<br>
-	10. Echo~Bot (1:1)<br>
+	5. Echo~Bot (1:1)<br>
+	8. svircs (1:1)<br>
+	9. Test~Bot (1:0)<br>
 <br>
-23. #Magnetic~Field (1401) -4<br>
-+284|+218|+179|+141|+124|+77|+12|+10<br>
+24. #Magnetic~Field (1395) -6<br>
++278|+213|+174|+135|+119|+72|+6|+5<br>
 	1. Panic~Attack (3:11)<br>
 	2. Mocha960725 (3:8)<br>
 	3. Attack~Bot (5:10)<br>
-	4. Impatient~Bot (6:20)<br>
+	4. Impatient~Bot (4:22)<br>
+	5. Echo~Bot (2:15)<br>
 	6. Mean~Machine (9:35)<br>
-	8. Test~Bot (23:22)<br>
-	9. ianna (20:14)<br>
-	10. Echo~Bot (2:11)<br>
-<br>
-24. #wagaf (1398) -4<br>
-+12|+4|+15|-12|-3|-4|-9|-31|-56|-1<br>
+	9. Test~Bot (23:22)<br>
+	10. Human~Being (21:23)<br>
 <br>
 25. #remember-me (1391) 0<br>
 +235|+157|+102|+52|+67|+54|+9|-12|-9<br>
-	7. svircs (0:1)<br>
+	8. svircs (0:1)<br>
 <br>
 26. #NeuTriNo (1390) 0<br>
 +72|+79|+72|+84|+111|+64|+39|+22|-17|0<br>
 	1. Panic~Attack (0:1)<br>
 	6. Mean~Machine (0:1)<br>
-	9. ianna (1:0)<br>
 <br>
-27. #bandy (1389) +13<br>
--14|+16|+22|-24|-37|+18|-19|+4|-2|+22<br>
-	2. Mocha960725 (0:1)<br>
-	5. GoOody (0:1)<br>
-	7. svircs (3:2)<br>
-	9. ianna (3:2)<br>
-<br>
-28. #Langoulant (1388) 0<br>
+27. #Langoulant (1388) 0<br>
 +329|+304|+226|+141|+104|+10<br>
 	3. Attack~Bot (8:20)<br>
 	4. Impatient~Bot (30:17)<br>
-	5. GoOody (7:3)<br>
 	6. Mean~Machine (4:7)<br>
-	8. Test~Bot (25:30)<br>
+	7. GoOody (7:3)<br>
+	9. Test~Bot (25:30)<br>
+	10. Human~Being (13:6)<br>
 <br>
-29. #Vergilious (1381) +2<br>
+28. #Vergilious (1381) 0<br>
 +242|+222|+205|+230|+181|+102|+77|+24|+8|+2<br>
-	9. ianna (1:1)<br>
 <br>
-30. #osa (1381) +3<br>
+29. #osa (1381) 0<br>
 +14|+30|+36|+34|+13|+8|-14|+22|+22|+9<br>
-	7. svircs (0:2)<br>
-	8. Test~Bot (0:1)<br>
-	9. ianna (2:0)<br>
+	8. svircs (0:2)<br>
+	9. Test~Bot (0:1)<br>
 <br>
-31. #Major~Tom (1379) -17<br>
-+50|+38|+31|+3|+15|+4|+5|+20|-24|-7<br>
-	2. Mocha960725 (0:7)<br>
-	3. Attack~Bot (1:2)<br>
-	4. Impatient~Bot (23:49)<br>
-	6. Mean~Machine (9:23)<br>
-	8. Test~Bot (0:11)<br>
-	9. ianna (58:96)<br>
-	10. Echo~Bot (1:4)<br>
+30. #bandy (1380) -8<br>
+-23|+7|+14|-33|-45|+9|-27|-5|-11|+14<br>
+	2. Mocha960725 (0:1)<br>
+	7. GoOody (0:1)<br>
+	8. svircs (3:2)<br>
 <br>
-32. #Bi~Polar (1377) -6<br>
--64|-65|-46|-16|-10|+5|+45|+61|+24|+21<br>
+31. #proxywar (1379) +3<br>
++61|+43|+37|+16|+5|-4|+21|+35|+23|+7<br>
+	3. Attack~Bot (1:0)<br>
+	5. Echo~Bot (0:1)<br>
+	6. Mean~Machine (1:1)<br>
+	7. GoOody (1:10)<br>
+	8. svircs (1:5)<br>
+<br>
+32. #Bi~Polar (1379) +2<br>
+-62|-63|-44|-14|-8|+7|+47|+63|+26|+23<br>
 	2. Mocha960725 (0:1)<br>
 	4. Impatient~Bot (0:1)<br>
-	8. Test~Bot (1:0)<br>
-	9. ianna (7:11)<br>
+	9. Test~Bot (1:0)<br>
+	10. Human~Being (6:8)<br>
 <br>
-33. #proxywar (1376) +15<br>
-+58|+40|+34|+13|+2|-7|+18|+32|+20|+5<br>
-	3. Attack~Bot (1:0)<br>
-	5. GoOody (1:10)<br>
-	6. Mean~Machine (1:1)<br>
-	7. svircs (1:5)<br>
-	9. ianna (2:1)<br>
-	10. Echo~Bot (0:1)<br>
+33. #Major~Tom (1378) -1<br>
++49|+37|+30|+2|+15|+3|+4|+19|-25|-8<br>
+	2. Mocha960725 (0:7)<br>
+	3. Attack~Bot (1:2)<br>
+	4. Impatient~Bot (22:49)<br>
+	5. Echo~Bot (1:4)<br>
+	6. Mean~Machine (9:23)<br>
+	9. Test~Bot (0:11)<br>
+	10. Human~Being (69:79)<br>
 <br>
-34. #Astro~Chicken (1373) -2<br>
-+20|+15|+14|-27|-7|+6|-16|-26|-17|-14<br>
+34. #Astro~Chicken (1371) -2<br>
++13|+13|-29|-9|+4|-18|-27|-18|-16|0<br>
 	2. Mocha960725 (4:10)<br>
 	4. Impatient~Bot (0:2)<br>
+	5. Echo~Bot (0:2)<br>
 	6. Mean~Machine (1:3)<br>
-	10. Echo~Bot (0:2)<br>
+	10. Human~Being (2:3)<br>
 <br>
 35. #jammyboy9 (1368) 0<br>
 +332|+285|+273|+220|+172|+123|+70|+17|+4|-2<br>
-	9. ianna (1:0)<br>
 <br>
 36. #kwaz (1368) 0<br>
 0|-31|-27|+4|-12|-11|-32|-23|-17|-1<br>
-	3. Attack~Bot (0:1)<br>
-	10. Echo~Bot (0:1)<br>
+	5. Echo~Bot (0:1)<br>
 <br>
-37. #olaf2 (1364) +2<br>
+37. #olaf2 (1364) 0<br>
 +48|+48|+39|0|-12|-15|-28|-30|-24|-11<br>
 	3. Attack~Bot (0:2)<br>
+	5. Echo~Bot (1:3)<br>
 	6. Mean~Machine (1:0)<br>
-	7. svircs (1:2)<br>
-	8. Test~Bot (1:2)<br>
-	9. ianna (0:1)<br>
-	10. Echo~Bot (1:3)<br>
+	8. svircs (1:2)<br>
+	9. Test~Bot (1:2)<br>
 <br>
-38. #mucker2.0 (1363) -6<br>
-+52|-5|0|+7|+11|+25|+1|-19|+5|-5<br>
-	7. svircs (2:5)<br>
-<br>
-39. #LeBron_James (1362) 0<br>
+38. #LeBron_James (1362) 0<br>
 +199|+81|0<br>
 	1. Panic~Attack (0:1)<br>
-	5. GoOody (1:0)<br>
-	10. Echo~Bot (0:1)<br>
+	5. Echo~Bot (0:1)<br>
+	7. GoOody (1:0)<br>
 <br>
-40. #S7v7N (1362) 0<br>
+39. #S7v7N (1362) 0<br>
 +110|+85|+73|+64|+68|+64|+8|-2|0|-19<br>
 	3. Attack~Bot (0:3)<br>
 	4. Impatient~Bot (0:1)<br>
-	7. svircs (1:0)<br>
+	8. svircs (1:0)<br>
+<br>
+40. #snowball121 (1361) +4<br>
+-178|-167|-146|-180|-215|-185|-190|-112|-70|-35<br>
+	3. Attack~Bot (1:2)<br>
+	4. Impatient~Bot (7:9)<br>
+	6. Mean~Machine (4:2)<br>
+	7. GoOody (1:5)<br>
+	9. Test~Bot (0:2)<br>
+	10. Human~Being (13:14)<br>
 <br>
 41. #mafl (1361) 0<br>
 +25|+7|+1|-10|-13|-29|-10|-9|-5|-5<br>
-	9. ianna (2:0)<br>
 <br>
-42. #snowball121 (1357) -1<br>
--182|-171|-150|-184|-219|-189|-194|-116|-74|-40<br>
-	3. Attack~Bot (1:2)<br>
-	4. Impatient~Bot (6:9)<br>
-	5. GoOody (1:5)<br>
-	6. Mean~Machine (4:2)<br>
-	8. Test~Bot (0:2)<br>
-	9. ianna (0:2)<br>
+42. #zeropoint (1356) +9<br>
++264|+180|+108|+47|+10<br>
 <br>
-43. #jutlanduk (1356) 0<br>
+43. #mucker2.0 (1356) -7<br>
++44|-13|-7|0|+4|+17|-7|-26|-3|-12<br>
+	8. svircs (2:5)<br>
+<br>
+44. #jutlanduk (1356) 0<br>
 +216|+120|+36|+29|-51|-69|-27|-37|+1<br>
-	7. svircs (0:3)<br>
-	8. Test~Bot (0:1)<br>
-	9. ianna (2:1)<br>
+	8. svircs (0:3)<br>
+	9. Test~Bot (0:1)<br>
 <br>
-44. #2unread (1354) 0<br>
+45. #2unread (1354) 0<br>
 +27|+29|+59|+51|+59|+34|+6|-38|-46|-38<br>
-	5. GoOody (0:1)<br>
+	7. GoOody (0:1)<br>
 <br>
-45. #jetlagged (1352) 0<br>
--48|-61|-26|-54|-58|-27|-37|-55|-33|-3<br>
+46. #jetlagged (1348) -4<br>
+-52|-65|-30|-59|-62|-31|-41|-59|-37|-7<br>
 	4. Impatient~Bot (0:2)<br>
-	5. GoOody (0:5)<br>
 	6. Mean~Machine (0:2)<br>
-	7. svircs (0:1)<br>
+	7. GoOody (0:5)<br>
+	8. svircs (0:1)<br>
+	10. Human~Being (1:1)<br>
 <br>
-46. #BouncyToast~533 (1352) -10<br>
-+54|+18|-42|+13|+43|-6|+6|+16|-16|+7<br>
-	2. Mocha960725 (0:1)<br>
-	7. svircs (2:0)<br>
-	9. ianna (2:0)<br>
-	10. Echo~Bot (0:1)<br>
-<br>
-47. #zeropoint (1348) 0<br>
-+255|+171|+99|+38|+1<br>
+47. #sedativebeef (1348) +2<br>
++16|+8|+48|+27|+17|+28|+30|-16|-34|-18<br>
+	3. Attack~Bot (0:1)<br>
+	7. GoOody (2:2)<br>
 <br>
 48. #planetterror (1347) 0<br>
 +26|-3|-25|-19|-9|-25|-21|-28|+20|0<br>
-	5. GoOody (0:2)<br>
-	6. Mean~Machine (2:0)<br>
-	9. ianna (0:1)<br>
-	10. Echo~Bot (9:11)<br>
+	5. Echo~Bot (4:8)<br>
+	7. GoOody (0:2)<br>
+	10. Human~Being (4:1)<br>
 <br>
-49. #sedativebeef (1346) +3<br>
-+14|+6|+46|+25|+15|+26|+28|-18|-36|-20<br>
-	3. Attack~Bot (0:1)<br>
-	5. GoOody (1:1)<br>
-<br>
-50. #Franciturci (1345) 0<br>
-+153|+152|+113|+84|+15|+4|+3|-7|+6|+3<br>
-	7. svircs (1:0)<br>
-<br>
-51. #chebasqui (1342) 0<br>
-+40|-5|-3|+20|+40|+19|+16|-22|-76|-36<br>
-<br>
-52. #Tortoise~Waffle (1341) +6<br>
-+82|+83|+69|+33|+36|+57|+72|+76|+43|+24<br>
+49. #Tortoise~Waffle (1346) +6<br>
++88|+88|+75|+39|+42|+62|+78|+82|+48|+30<br>
 	1. Panic~Attack (0:1)<br>
 	2. Mocha960725 (2:5)<br>
 	3. Attack~Bot (0:1)<br>
 	4. Impatient~Bot (2:3)<br>
+	5. Echo~Bot (0:2)<br>
 	6. Mean~Machine (0:8)<br>
-	8. Test~Bot (2:0)<br>
-	10. Echo~Bot (0:2)<br>
+	9. Test~Bot (2:0)<br>
+	10. Human~Being (0:2)<br>
 <br>
-53. #thehurricane (1340) +7<br>
-+275|+163|+108|+86|+27<br>
-	5. GoOody (1:5)<br>
-	7. svircs (0:3)<br>
+50. #thehurricane (1346) +6<br>
++280|+169|+114|+92|+33<br>
+	7. GoOody (1:5)<br>
+	8. svircs (0:3)<br>
 <br>
-54. #Amiro (1339) 0<br>
-+252|+142|+83|+48|+1|+1|+25|-12<br>
+51. #Franciturci (1345) 0<br>
++153|+152|+113|+84|+15|+4|+3|-7|+6|+3<br>
+	8. svircs (1:0)<br>
+	10. Human~Being (0:2)<br>
+<br>
+52. #BouncyToast~533 (1344) -8<br>
++47|+11|-50|+6|+35|-14|-1|+9|-24|0<br>
+	2. Mocha960725 (0:1)<br>
+	5. Echo~Bot (0:1)<br>
+	8. svircs (2:0)<br>
+<br>
+53. #chebasqui (1344) +2<br>
++41|-3|-1|+22|+41|+21|+17|-20|-74|-34<br>
+<br>
+54. #Amiro (1344) +5<br>
++257|+146|+88|+53|+5|+5|+29|-7<br>
 	4. Impatient~Bot (0:1)<br>
-	5. GoOody (2:2)<br>
-	9. ianna (1:1)<br>
+	7. GoOody (2:2)<br>
 <br>
-55. #Starfleet (1337) 0<br>
-0|-5|+14|-18|-23|-28|-18|-30|-22|-12<br>
-	4. Impatient~Bot (1:1)<br>
-	9. ianna (1:0)<br>
-<br>
-56. #Grimfandango (1337) 0<br>
--26|-26|-26|-39|-20|+17|+32|+35|+11|+10<br>
-	3. Attack~Bot (0:1)<br>
-	4. Impatient~Bot (2:0)<br>
-<br>
-57. #barbatroc (1327) 0<br>
-+47|+35|-4|-22|+5|-1|-17|-11|+18|+1<br>
+55. #Starfleet (1342) +5<br>
++5|0|+19|-13|-18|-24|-14|-26|-18|-7<br>
 	4. Impatient~Bot (2:3)<br>
-	5. GoOody (0:1)<br>
-	8. Test~Bot (0:2)<br>
+	7. GoOody (1:1)<br>
+	10. Human~Being (1:0)<br>
 <br>
-58. #qqeye (1326) 0<br>
--41|-34|-2|+9|+46|-7|-25|-19|-5|-9<br>
-	4. Impatient~Bot (3:7)<br>
-	6. Mean~Machine (1:1)<br>
-	9. ianna (1:0)<br>
-	10. Echo~Bot (0:2)<br>
+56. #Grimfandango (1339) +2<br>
+-24|-24|-24|-37|-18|+19|+34|+37|+14|+12<br>
+	3. Attack~Bot (0:1)<br>
+	4. Impatient~Bot (1:0)<br>
+	10. Human~Being (1:5)<br>
 <br>
-59. #chomeur2 (1325) 0<br>
--36|-24|-30|-34|-12|-28|-9|-25|+16|-11<br>
+57. #nuttyjeans (1337) +8<br>
+-22|-53|-54|-49|-78|-34|-65|-67|-44|-5<br>
+	7. GoOody (1:0)<br>
+<br>
+58. #milkyway (1332) +13<br>
+-17|+12|-1|+11|-7|+18|+32|+11|+5|-5<br>
+	7. GoOody (0:1)<br>
+<br>
+59. #chomeur2 (1326) +1<br>
+-34|-23|-28|-33|-11|-27|-8|-24|+17|-10<br>
 	3. Attack~Bot (3:2)<br>
 	4. Impatient~Bot (3:0)<br>
-	5. GoOody (1:3)<br>
-	7. svircs (0:1)<br>
-	8. Test~Bot (3:1)<br>
+	7. GoOody (1:3)<br>
+	8. svircs (0:1)<br>
+	9. Test~Bot (3:1)<br>
+	10. Human~Being (0:1)<br>
 <br>
-60. #kaborage (1320) 0<br>
-+289|+238|+134|+62|+31<br>
-	7. svircs (1:0)<br>
-	9. ianna (1:0)<br>
+60. #qqeye (1326) 0<br>
+-41|-34|-2|+9|+46|-7|-25|-19|-5|-9<br>
+	4. Impatient~Bot (2:7)<br>
+	5. Echo~Bot (0:2)<br>
+	6. Mean~Machine (1:1)<br>
+	10. Human~Being (2:4)<br>
 <br>
-61. #xStatiCa (1320) 0<br>
-+6|-2|-4|+25|+16|-7|-2|+45|-13|+17<br>
+61. #barbatroc (1324) -4<br>
++43|+31|-7|-26|+1|-5|-21|-15|+14|-2<br>
+	4. Impatient~Bot (2:3)<br>
+	7. GoOody (0:1)<br>
+	9. Test~Bot (0:2)<br>
+	10. Human~Being (2:1)<br>
 <br>
-62. #milkyway (1319) -3<br>
-+6|-29|0|-14|-2|-20|+6|+20|-1|-8<br>
-	9. ianna (1:0)<br>
-<br>
-63. #jaggedspark (1319) 0<br>
-+174|+46<br>
-	9. ianna (3:0)<br>
-<br>
-64. #Grand~Admiral (1319) 0<br>
-+89<br>
-	1. Panic~Attack (5:5)<br>
+62. #Grand~Admiral (1323) +5<br>
++94<br>
+	1. Panic~Attack (6:5)<br>
 	2. Mocha960725 (10:2)<br>
 	3. Attack~Bot (1:2)<br>
 	4. Impatient~Bot (0:5)<br>
+	5. Echo~Bot (17:10)<br>
 	6. Mean~Machine (10:13)<br>
-	8. Test~Bot (5:0)<br>
-	9. ianna (1:0)<br>
-	10. Echo~Bot (17:10)<br>
+	7. GoOody (1:0)<br>
+	9. Test~Bot (5:0)<br>
+	10. Human~Being (11:5)<br>
 <br>
-65. #Ork (1319) 0<br>
+63. #Kaborage (1323) +2<br>
++291|+240|+137|+64|+34<br>
+	8. svircs (1:0)<br>
+<br>
+64. #xStatiCa (1320) 0<br>
++6|-2|-4|+25|+16|-7|-2|+45|-13|+17<br>
+<br>
+65. #jaggedspark (1319) 0<br>
++174|+46<br>
+<br>
+66. #Ork (1319) 0<br>
 +145|+71|+61|+40|+9|+25|-34|-59|-38|-22<br>
-	5. GoOody (0:1)<br>
-	9. ianna (1:0)<br>
+	7. GoOody (0:1)<br>
 <br>
-66. #CaptainCrook (1314) 0<br>
+67. #CaptainCrook (1314) 0<br>
 +240|+127|+76|+59|+17<br>
-	10. Echo~Bot (1:0)<br>
+	5. Echo~Bot (1:0)<br>
+	10. Human~Being (2:2)<br>
 <br>
-67. #seb80 (1313) -4<br>
+68. #seb80 (1313) 0<br>
 +43|+30|+18|-32|-75|-62|-56|-39|-48|-13<br>
 	3. Attack~Bot (0:1)<br>
 	4. Impatient~Bot (0:1)<br>
-	7. svircs (0:1)<br>
+	8. svircs (0:1)<br>
+	10. Human~Being (0:1)<br>
 <br>
-68. #tfblast (1312) 0<br>
+69. #tfblast (1312) 0<br>
 -154|-136|-145|-194|-156|-106|-33|-46|-22|-4<br>
 	3. Attack~Bot (1:4)<br>
+	5. Echo~Bot (0:7)<br>
 	6. Mean~Machine (1:7)<br>
-	8. Test~Bot (3:6)<br>
-	10. Echo~Bot (0:7)<br>
+	9. Test~Bot (3:6)<br>
+	10. Human~Being (0:2)<br>
 <br>
-69. #ExciteBike (1311) 0<br>
+70. #SableStrike~998 (1312) +3<br>
++189|+95|+55|+5<br>
+<br>
+71. #ExciteBike (1311) 0<br>
 +174|+99|+52|-6<br>
-	5. GoOody (0:5)<br>
-	7. svircs (1:6)<br>
+	7. GoOody (0:5)<br>
+	8. svircs (1:6)<br>
 <br>
-70. #SableStrike~998 (1310) +3<br>
-+186|+92|+53|+3<br>
-	9. ianna (1:0)<br>
-<br>
-71. #Bhorski (1309) 0<br>
+72. #Bhorski (1309) 0<br>
 +169|+156|+174|+108|+55|+35|+32|+24|+28|+12<br>
 <br>
-72. #freedoom (1309) 0<br>
+73. #freedoom (1309) 0<br>
 +232|+183|+149|+113|+63|+80|+44|+22|+6<br>
 	6. Mean~Machine (0:2)<br>
+	10. Human~Being (0:1)<br>
 <br>
-73. #goldfinger (1305) +2<br>
-+104|+106|+94|+100|+100|+92|+34|-15|-11|+2<br>
-	5. GoOody (1:0)<br>
-	9. ianna (0:1)<br>
+74. #smartdrummer (1308) +6<br>
++13|+19|+40|+8|-4|+30|+16|+16|-11|-12<br>
+	4. Impatient~Bot (0:3)<br>
+	7. GoOody (1:1)<br>
+	9. Test~Bot (1:1)<br>
+	10. Human~Being (2:1)<br>
 <br>
-74. #smartdrummer (1302) +2<br>
-+7|+13|+35|+2|-9|+24|+10|+10|-17|-18<br>
-	4. Impatient~Bot (0:2)<br>
-	8. Test~Bot (1:1)<br>
-<br>
-75. #EventHorzn65 (1302) -6<br>
-+64|+47|+44|+59|+34|+26|+35|+10|+13|-7<br>
-	5. GoOody (1:1)<br>
+75. #EventHorzn65 (1301) -1<br>
++63|+46|+43|+58|+33|+25|+34|+9|+12|-8<br>
+	7. GoOody (1:1)<br>
 <br>
 76. #CHAMPIONS (1300) 0<br>
 +27|+46|+29|+50|+40|+46|+49|+32|+6|+1<br>
-	5. GoOody (0:1)<br>
-	8. Test~Bot (0:1)<br>
+	7. GoOody (0:1)<br>
+	9. Test~Bot (0:1)<br>
 <br>
-77. #purakane (1299) -2<br>
+77. #purakane (1299) 0<br>
 +237|+188|+157|+133|+132|+91|+35|+40|-16|-2<br>
 	4. Impatient~Bot (0:2)<br>
-	5. GoOody (0:1)<br>
+	7. GoOody (0:1)<br>
 <br>
-78. #Terces (1299) 0<br>
+78. #goldfinger (1299) -5<br>
++98|+100|+88|+94|+94|+86|+29|-21|-16|-4<br>
+	7. GoOody (1:1)<br>
+<br>
+79. #Terces (1299) 0<br>
 +116|+8<br>
 	1. Panic~Attack (0:6)<br>
+	5. Echo~Bot (0:3)<br>
 	6. Mean~Machine (2:3)<br>
-	8. Test~Bot (2:5)<br>
-	10. Echo~Bot (0:3)<br>
+	9. Test~Bot (2:5)<br>
 <br>
-79. #jraz (1296) -4<br>
--123|-137|-114|-85|-82|-83|-66|-63|-34|-27<br>
+80. #jraz (1295) 0<br>
+-137|-114|-86|-83|-84|-66|-64|-34|-28|-3<br>
 	3. Attack~Bot (0:1)<br>
-	5. GoOody (1:1)<br>
-	9. ianna (1:0)<br>
-<br>
-80. #mahone007 (1296) 0<br>
-+6|+6|+15|-3|-52|-36|-19|-15|-28|-35<br>
-	5. GoOody (0:1)<br>
-	7. svircs (1:3)<br>
-	9. ianna (1:1)<br>
+	7. GoOody (1:2)<br>
 <br>
 81. #Tunnel~King (1292) 0<br>
-+33|+17|+6|+14|-5|+9|+21|+7|-19|-3<br>
++33|+16|+5|+14|-6|+9|+20|+6|-19|-4<br>
 	4. Impatient~Bot (2:3)<br>
 	6. Mean~Machine (0:1)<br>
+	10. Human~Being (0:4)<br>
 <br>
 82. #Alex_Zver (1291) 0<br>
 +278|+230|+206|+173|+141|+79|+5|+4|-15|+10<br>
 	4. Impatient~Bot (1:2)<br>
-	5. GoOody (0:2)<br>
+	7. GoOody (0:2)<br>
+	10. Human~Being (1:0)<br>
 <br>
-83. #Turtle~Waffle (1289) +4<br>
--14|-20|+18|+24|+24|+11|-5|-13|+11|+13<br>
+83. #mahone007 (1289) -6<br>
+-1|0|+9|-9|-59|-42|-25|-21|-35|-41<br>
+	7. GoOody (0:1)<br>
+	8. svircs (1:3)<br>
+<br>
+84. #Turtle~Waffle (1289) +1<br>
+-13|-19|+19|+25|+25|+11|-5|-12|+11|+14<br>
 	3. Attack~Bot (0:1)<br>
 	4. Impatient~Bot (0:3)<br>
+	5. Echo~Bot (0:1)<br>
 	6. Mean~Machine (0:1)<br>
-	10. Echo~Bot (0:1)<br>
+	10. Human~Being (4:17)<br>
 <br>
-84. #Lab_Rat (1287) 0<br>
+85. #Lab_Rat (1287) 0<br>
 +197|+80|+40|-15<br>
 <br>
-85. #Jsaun12377 (1287) 0<br>
+86. #Jsaun12377 (1287) 0<br>
 +16|+1|+9|+10|+2|-15|-29|-22|-19|-15<br>
 	4. Impatient~Bot (2:12)<br>
 	6. Mean~Machine (0:2)<br>
+	10. Human~Being (1:3)<br>
 <br>
-86. #rawbdor (1283) 0<br>
+87. #Balance~Bot (1285) +8<br>
++15|+24|+13|+15|+12|+13|+32|+34|+60|+28<br>
+	1. Panic~Attack (0:2)<br>
+	2. Mocha960725 (0:4)<br>
+	5. Echo~Bot (0:2)<br>
+	6. Mean~Machine (0:2)<br>
+	10. Human~Being (0:5)<br>
+<br>
+88. #rawbdor (1283) 0<br>
 +230|+200|+138|+95|+101|+93|+83|+58|+46|+21<br>
 <br>
-87. #TRistanbul (1283) 0<br>
+89. #TRistanbul (1283) 0<br>
 +172|+97|+28|+23|+13<br>
-	5. GoOody (0:1)<br>
-	7. svircs (0:2)<br>
-	9. ianna (1:0)<br>
+	7. GoOody (0:1)<br>
+	8. svircs (0:2)<br>
 <br>
-88. #SassyTalon~511 (1282) 0<br>
+90. #SassyTalon~511 (1282) 0<br>
 +110|+22<br>
 <br>
-89. #canehunter (1282) -31<br>
-+3|+22|-31|-84|-55|-35|-77|-68|-32|-15<br>
-	4. Impatient~Bot (0:2)<br>
-<br>
-90. #bmvj (1282) 0<br>
+91. #bmvj (1282) 0<br>
 +182|+136|+107|+112|+76|+81|+30|+47|+13|+5<br>
 <br>
-91. #doeish (1282) 0<br>
-+9|+25|+28|+11|+13|+22|+10|+11|+1|-24<br>
-	1. Panic~Attack (7:1)<br>
-	3. Attack~Bot (2:0)<br>
-	5. GoOody (0:5)<br>
-	6. Mean~Machine (4:0)<br>
-	7. svircs (0:2)<br>
-	8. Test~Bot (2:0)<br>
-	10. Echo~Bot (7:3)<br>
+92. #ludonco (1280) -1<br>
+-161|-133|-131|-114|-62|-40|-12|+2|+10|+5<br>
+	10. Human~Being (1:2)<br>
 <br>
-92. #ludonco (1281) 0<br>
--161|-132|-131|-114|-61|-40|-11|+3|+10|+5<br>
-	9. ianna (1:0)<br>
+93. #canehunter (1280) -2<br>
++1|+20|-33|-86|-57|-37|-79|-70|-34|-17<br>
+	4. Impatient~Bot (0:2)<br>
+	10. Human~Being (0:2)<br>
 <br>
-93. #qwertyuiop00 (1279) 0<br>
-+193|+97|+11<br>
-	5. GoOody (0:2)<br>
-<br>
-94. #Expand~Bot (1278) -1<br>
-+16|+34|+30|+45|+12|+24|+40|+6|+23|-6<br>
+94. #Expand~Bot (1278) 0<br>
++16|+34|+30|+45|+12|+24|+40|+5|+23|-6<br>
 	2. Mocha960725 (2:15)<br>
 	3. Attack~Bot (0:1)<br>
 	4. Impatient~Bot (0:4)<br>
+	5. Echo~Bot (0:6)<br>
 	6. Mean~Machine (0:5)<br>
-	8. Test~Bot (1:2)<br>
-	10. Echo~Bot (0:6)<br>
+	9. Test~Bot (1:2)<br>
+	10. Human~Being (0:5)<br>
 <br>
-95. #Balance~Bot (1277) -4<br>
-+7|+16|+6|+8|+4|+5|+24|+27|+52|+20<br>
-	1. Panic~Attack (0:2)<br>
-	2. Mocha960725 (0:4)<br>
-	6. Mean~Machine (0:2)<br>
-	10. Echo~Bot (0:2)<br>
+95. #doeish (1277) -4<br>
++5|+21|+24|+7|+8|+18|+6|+6|-3|-28<br>
+	1. Panic~Attack (7:1)<br>
+	3. Attack~Bot (2:0)<br>
+	5. Echo~Bot (7:3)<br>
+	6. Mean~Machine (4:0)<br>
+	7. GoOody (0:5)<br>
+	8. svircs (0:2)<br>
+	9. Test~Bot (2:0)<br>
+	10. Human~Being (2:0)<br>
 <br>
-96. #MUF (1275) -2<br>
+96. #MUF (1275) 0<br>
 +149|+92|-2<br>
 	4. Impatient~Bot (1:0)<br>
-	5. GoOody (1:2)<br>
-	7. svircs (0:1)<br>
-	8. Test~Bot (1:0)<br>
-	9. ianna (0:2)<br>
+	7. GoOody (1:2)<br>
+	8. svircs (0:1)<br>
+	9. Test~Bot (1:0)<br>
 <br>
-97. #pepitojoe93 (1273) -2<br>
+97. #qwertyuiop00 (1273) -6<br>
++187|+91|+6<br>
+	7. GoOody (0:2)<br>
+<br>
+98. #pepitojoe93 (1273) 0<br>
 +100|+80|+58|+32|-12|-1|+14|-8|-6|-4<br>
-	9. ianna (0:2)<br>
 <br>
-98. #LevelWalrus~485 (1272) 0<br>
-+161|+106|+58|+35|+16|+43|-18|-9|-10|+2<br>
-	5. GoOody (0:1)<br>
-	7. svircs (1:1)<br>
-	9. ianna (0:1)<br>
+99. #Fulgent (1272) +2<br>
++229|+190|+146|+55<br>
+	7. GoOody (1:3)<br>
 <br>
-99. #Mine~Turtle (1271) 0<br>
-+13|-21|-45|-74|-48|-32|+5|+8|+26|+27<br>
+100. #LevelWalrus~485 (1271) -1<br>
++160|+105|+57|+34|+15|+42|-19|-10|-11|0<br>
+	7. GoOody (0:1)<br>
+	8. svircs (1:1)<br>
+<br>
+101. #HungryFruit~602 (1271) 0<br>
++84<br>
+<br>
+102. #Mine~Turtle (1270) -1<br>
++12|-22|-46|-75|-49|-33|+4|+7|+25|+26<br>
 	1. Panic~Attack (0:2)<br>
 	2. Mocha960725 (0:12)<br>
 	3. Attack~Bot (2:4)<br>
 	4. Impatient~Bot (6:23)<br>
+	5. Echo~Bot (0:1)<br>
 	6. Mean~Machine (0:6)<br>
-	8. Test~Bot (2:7)<br>
-	10. Echo~Bot (0:1)<br>
+	9. Test~Bot (2:7)<br>
+	10. Human~Being (20:49)<br>
 <br>
-100. #HungryFruit~602 (1271) 0<br>
-+84<br>
-<br>
-101. #Fulgent (1270) +3<br>
-+227|+188|+144|+53<br>
-	5. GoOody (1:3)<br>
-<br>
-102. #Luksin (1268) 0<br>
+103. #Luksin (1268) 0<br>
 +147|+22<br>
 <br>
-103. #Anti~Neutral (1266) +2<br>
-+60|+28|+35|-18|-25|0|+24|-20|-12|-23<br>
+104. #Anti~Neutral (1265) -2<br>
++58|+26|+33|-19|-26|-2|+22|-21|-14|-24<br>
 	2. Mocha960725 (0:16)<br>
 	4. Impatient~Bot (0:1)<br>
-	8. Test~Bot (0:2)<br>
+	9. Test~Bot (0:2)<br>
+	10. Human~Being (0:3)<br>
 <br>
-104. #JaggedChimp~990 (1262) 0<br>
-+193|+64|+9<br>
-	5. GoOody (0:1)<br>
+105. #JaggedChimp~990 (1263) +1<br>
++194|+65|+10<br>
+	7. GoOody (0:1)<br>
 <br>
-105. #SilverBlade~993 (1259) 0<br>
+106. #SilverBlade~993 (1259) 0<br>
 +178|+125|+36|+1<br>
-	5. GoOody (2:5)<br>
-	7. svircs (2:1)<br>
+	7. GoOody (2:5)<br>
+	8. svircs (2:1)<br>
 <br>
-106. #Abdel~Baset (1258) -2<br>
--17|-21|+15|+39|+32|+50|+10|+14|+9|-1<br>
-	2. Mocha960725 (5:20)<br>
+107. #jq259 (1257) +6<br>
++89|+51|+35|+23|+11|+19|-1|-21|0|+3<br>
+	8. svircs (1:1)<br>
+<br>
+108. #Joergfu (1257) +3<br>
++186|+118|+65|+14<br>
 	3. Attack~Bot (0:1)<br>
-	4. Impatient~Bot (1:7)<br>
-	6. Mean~Machine (0:4)<br>
-	8. Test~Bot (5:4)<br>
-	9. ianna (1:19)<br>
-	10. Echo~Bot (0:3)<br>
 <br>
-107. #nazgol (1256) 0<br>
+109. #nazgol (1256) 0<br>
 +195|+139|+74|+61|+17|+1|-6|0<br>
 	2. Mocha960725 (1:1)<br>
 <br>
-108. #Joergfu (1254) -1<br>
-+183|+115|+63|+11<br>
-	3. Attack~Bot (0:1)<br>
-<br>
-109. #sodium (1254) -1<br>
-+122|+41<br>
+110. #sodium (1254) 0<br>
++121|+41<br>
 	3. Attack~Bot (1:0)<br>
-	4. Impatient~Bot (17:14)<br>
+	4. Impatient~Bot (16:14)<br>
 	6. Mean~Machine (0:1)<br>
-	8. Test~Bot (2:3)<br>
+	9. Test~Bot (2:3)<br>
+	10. Human~Being (6:4)<br>
 <br>
-110. #CrustyBean~273 (1252) 0<br>
+111. #CrustyBean~273 (1252) 0<br>
 +124|0<br>
 	1. Panic~Attack (0:1)<br>
 	2. Mocha960725 (0:1)<br>
-	5. GoOody (0:3)<br>
 	6. Mean~Machine (1:0)<br>
+	7. GoOody (0:3)<br>
 <br>
-111. #hods (1252) 0<br>
+112. #Abdel~Baset (1252) -6<br>
+-23|-27|+9|+32|+26|+44|+4|+7|+3|-7<br>
+	2. Mocha960725 (5:20)<br>
+	3. Attack~Bot (0:1)<br>
+	4. Impatient~Bot (1:7)<br>
+	5. Echo~Bot (0:3)<br>
+	6. Mean~Machine (0:4)<br>
+	9. Test~Bot (5:4)<br>
+	10. Human~Being (2:12)<br>
+<br>
+113. #hods (1252) 0<br>
 +64|+50|+34|+46|-20|-28|-41|-52|-32|-11<br>
-	5. GoOody (0:1)<br>
-	9. ianna (0:2)<br>
+	7. GoOody (0:1)<br>
 <br>
-112. #jq259 (1251) -1<br>
-+84|+45|+29|+17|+5|+14|-7|-27|-6|-2<br>
-	7. svircs (1:1)<br>
-<br>
-113. #TessTickles. (1249) 0<br>
+114. #TessTickles. (1249) 0<br>
 +53<br>
 <br>
-114. #WiryChurn~784 (1248) 0<br>
+115. #WiryChurn~784 (1248) 0<br>
 +267|+165|+113|+64|-5<br>
-	9. ianna (0:4)<br>
 <br>
-115. #RaggedTramp~229 (1248) -1<br>
-+90|+13|-13|-2<br>
+116. #TidyGoblin~169 (1248) +1<br>
++58|+109|+94|+118|+88|+98|+119|+65|+23|+10<br>
+	8. svircs (1:0)<br>
+<br>
+117. #RaggedTramp~229 (1247) -1<br>
++89|+12|-14|-3<br>
 	4. Impatient~Bot (1:0)<br>
+	10. Human~Being (2:0)<br>
 <br>
-116. #TidyGoblin~169 (1247) -1<br>
-+58|+108|+93|+118|+87|+97|+118|+64|+22|+9<br>
-	7. svircs (1:0)<br>
+118. #Zdream (1245) 0<br>
++46|+37|+11|-12|+11|+3|+31|+23|+24|-2<br>
 <br>
-117. #Nearest~Attack (1245) -2<br>
-+15|+9|-11|-11|-1|+7|-12|-23|-38|+6<br>
+119. #Nearest~Attack (1244) 0<br>
++15|+8|-11|-11|-2|+7|-13|-24|-38|+5<br>
 	2. Mocha960725 (3:13)<br>
 	3. Attack~Bot (0:1)<br>
 	4. Impatient~Bot (0:3)<br>
 <br>
-118. #Zdream (1245) 0<br>
-+46|+37|+11|-12|+11|+3|+31|+23|+24|-2<br>
-	9. ianna (1:2)<br>
-<br>
-119. #Dhillon (1242) +5<br>
-+153|+133|+107|+75|+73|+83|+72|+59|+54|+15<br>
-<br>
-120. #GreenDeer~922 (1241) -7<br>
-+117|+88|+94|+65|+66|+56|+45|+16|+29|0<br>
-	5. GoOody (0:1)<br>
-	7. svircs (0:1)<br>
-	9. ianna (0:1)<br>
+120. #Dhillon (1241) -1<br>
++152|+132|+106|+74|+72|+82|+71|+58|+53|+14<br>
+	10. Human~Being (0:3)<br>
 <br>
 121. #moofaffa4 (1241) 0<br>
 +126|+103|+42<br>
 	6. Mean~Machine (0:1)<br>
-	7. svircs (0:2)<br>
+	8. svircs (0:2)<br>
+	10. Human~Being (9:9)<br>
 <br>
-122. #sarchasmo (1240) 0<br>
+122. #GreenDeer~922 (1240) -1<br>
++116|+87|+93|+65|+66|+55|+44|+16|+28|-1<br>
+	7. GoOody (0:1)<br>
+	8. svircs (0:1)<br>
+<br>
+123. #sarchasmo (1240) 0<br>
 +158|+86|+22|-21<br>
 	2. Mocha960725 (1:0)<br>
-	5. GoOody (0:2)<br>
-	9. ianna (1:0)<br>
+	7. GoOody (0:2)<br>
 <br>
-123. #MashedCeler~614 (1239) 0<br>
+124. #MashedCeler~614 (1239) 0<br>
 +126|+4<br>
 <br>
-124. #Ghostt (1236) 0<br>
+125. #Ghostt (1236) 0<br>
 -8|+4|-4|+2|+3|-28|-13|-47|-22|-7<br>
-	5. GoOody (2:2)<br>
+	7. GoOody (2:2)<br>
 <br>
-125. #unbridled (1233) 0<br>
+126. #unbridled (1233) 0<br>
 +210|+201|+163|+142|+107|+50|+16<br>
 	4. Impatient~Bot (4:3)<br>
-	7. svircs (1:1)<br>
-	9. ianna (1:0)<br>
+	8. svircs (1:1)<br>
+	10. Human~Being (3:3)<br>
 <br>
-126. #lilminimi (1231) -1<br>
+127. #lilminimi (1231) 0<br>
 +151|+126|+53|-13|-13|+5<br>
-	7. svircs (0:1)<br>
+	8. svircs (0:1)<br>
+	10. Human~Being (0:2)<br>
 <br>
-127. #punitator (1230) 0<br>
+128. #punitator (1230) 0<br>
 +229|+204|+203|+139|+26|+47|-2<br>
 	6. Mean~Machine (0:1)<br>
 <br>
-128. #pawwolf (1229) 0<br>
+129. #pawwolf (1229) 0<br>
 +28|+30|+26|+53|+41|+17|+4|+12|+26|+23<br>
 	6. Mean~Machine (0:1)<br>
 <br>
-129. #soojook (1224) 0<br>
+130. #HairyRaptor~403 (1227) +16<br>
+-21|-33|-32|-15|-2|+10|+9|+29|+41|+34<br>
+	7. GoOody (1:6)<br>
+	10. Human~Being (0:2)<br>
+<br>
+131. #soojook (1224) 0<br>
 +87|-16|+29|+25|+29|0|-3<br>
 <br>
-130. #valeriocarre (1222) 0<br>
+132. #Sleeping~Waffle (1223) +6<br>
+-47|-63|-55|-46|-31|-44|-27|-8|-7|+7<br>
+	3. Attack~Bot (5:12)<br>
+	4. Impatient~Bot (16:39)<br>
+	5. Echo~Bot (1:5)<br>
+	6. Mean~Machine (1:10)<br>
+	9. Test~Bot (1:11)<br>
+	10. Human~Being (25:64)<br>
+<br>
+133. #valeriocarre (1222) 0<br>
 -15|-58|-8|-41|-38|-30|-32|-24|+1|+5<br>
 	4. Impatient~Bot (1:0)<br>
-	7. svircs (0:3)<br>
-	9. ianna (0:2)<br>
+	8. svircs (0:3)<br>
+	10. Human~Being (0:1)<br>
 <br>
-131. #Mystiq (1222) 0<br>
-+100|+96|+77|+56|+36|+42|-8|-3|-3|-5<br>
+134. #veqq (1221) 0<br>
++102|+58|+46|+18|-9|-14|-8|+4|-2|-2<br>
+	7. GoOody (0:4)<br>
+<br>
+135. #Mystiq (1221) -1<br>
++100|+95|+76|+55|+35|+41|-9|-4|-4|-6<br>
 	4. Impatient~Bot (0:1)<br>
 <br>
-132. #veqq (1221) 0<br>
-+102|+58|+46|+18|-9|-14|-8|+4|-2|-2<br>
-	5. GoOody (0:4)<br>
-<br>
-133. #BraveSkunk~933 (1221) 0<br>
+136. #BraveSkunk~933 (1221) 0<br>
 +190|+140|+112|+14<br>
-	9. ianna (1:2)<br>
 <br>
-134. #_Marik_ (1219) 0<br>
+137. #_Marik_ (1219) 0<br>
 +195|+162|+137|+44<br>
 	4. Impatient~Bot (0:2)<br>
 <br>
-135. #Sleeping~Waffle (1217) +1<br>
--53|-68|-60|-52|-36|-50|-32|-13|-13|+2<br>
-	3. Attack~Bot (5:12)<br>
-	4. Impatient~Bot (16:40)<br>
-	6. Mean~Machine (1:10)<br>
-	8. Test~Bot (1:11)<br>
-	9. ianna (15:107)<br>
-	10. Echo~Bot (1:5)<br>
-<br>
-136. #HairyRaptor~403 (1212) -1<br>
--37|-48|-48|-30|-18|-5|-6|+14|+25|+18<br>
-	5. GoOody (0:3)<br>
-<br>
-137. #BrawnyCeler~808 (1211) 0<br>
+138. #BrawnyCeler~808 (1211) 0<br>
 +61<br>
 <br>
-138. #Dacar (1210) 0<br>
+139. #Dacar (1210) 0<br>
 +175|+164|+133|+113|+118|+108|+84|+52|+30|+7<br>
-	5. GoOody (2:5)<br>
+	7. GoOody (2:5)<br>
 <br>
-139. #Over~Expand (1207) -8<br>
--26|+9|-11|-21|-52|-54|-26|-23|-5|+9<br>
+140. #Over~Expand (1206) -1<br>
+-27|+8|-12|-22|-52|-55|-27|-24|-6|+8<br>
 	2. Mocha960725 (1:9)<br>
 	4. Impatient~Bot (0:1)<br>
+	5. Echo~Bot (0:2)<br>
 	6. Mean~Machine (0:1)<br>
-	10. Echo~Bot (0:2)<br>
+	10. Human~Being (0:6)<br>
 <br>
-140. #ru-51 (1204) 0<br>
+141. #ru-51 (1204) 0<br>
 +172|+97|+44<br>
 	4. Impatient~Bot (0:2)<br>
-	7. svircs (0:1)<br>
+	8. svircs (0:1)<br>
+	10. Human~Being (0:2)<br>
 <br>
-141. #SaggyTea~543 (1204) 0<br>
+142. #SaggyTea~543 (1204) 0<br>
 +6<br>
-	9. ianna (1:0)<br>
 <br>
-142. #samsung172x (1201) 0<br>
-+167|+90|+58|+30|+14|-2<br>
-	4. Impatient~Bot (0:2)<br>
-	7. svircs (0:2)<br>
-	9. ianna (0:1)<br>
+143. #AcePegasus (1202) +4<br>
++139|+98|+28|+22|+10<br>
+	7. GoOody (2:4)<br>
 <br>
-143. #justendit (1201) +1<br>
+144. #justendit (1201) 0<br>
 +10|-2|+10|-4|+2|+12|+16|-3|+1|-23<br>
-	5. GoOody (1:3)<br>
-	7. svircs (0:1)<br>
+	7. GoOody (1:3)<br>
+	8. svircs (0:1)<br>
 <br>
-144. #AcePegasus (1198) +1<br>
-+135|+94|+24|+18|+5<br>
-	5. GoOody (1:0)<br>
+145. #samsung172x (1201) -1<br>
++167|+89|+57|+29|+14|-2<br>
+	4. Impatient~Bot (0:2)<br>
+	8. svircs (0:2)<br>
+	10. Human~Being (2:2)<br>
 <br>
-145. #TightRebel~609 (1193) 0<br>
+146. #TightRebel~609 (1193) 0<br>
 +41|+6<br>
 <br>
-146. #7paths (1193) 0<br>
+147. #7paths (1193) 0<br>
 +102|+20<br>
 <br>
-147. #drunkle (1191) 0<br>
+148. #drunkle (1191) 0<br>
 +147|+71|+35<br>
-	5. GoOody (0:2)<br>
+	7. GoOody (0:2)<br>
 <br>
-148. #SilverFlight (1189) -2<br>
+149. #SilverFlight (1189) 0<br>
 +178|+113|+77|+58|-12|+15<br>
 <br>
-149. #EagerCheese~514 (1180) 0<br>
+150. #EagerCheese~514 (1180) 0<br>
 +73<br>
 <br>
-150. #Saehyu (1176) 0<br>
+151. #qauil (1178) 0<br>
++92|+52<br>
+	8. svircs (0:2)<br>
+<br>
+152. #SassyRake~210 (1176) +2<br>
++81|+36|-10|-24|-13<br>
+	7. GoOody (0:2)<br>
+<br>
+153. #Saehyu (1176) 0<br>
 +154|+105|+20<br>
 <br>
-151. #SassyRake~210 (1175) 0<br>
-+80|+34|-12|-26|-14<br>
-	5. GoOody (0:2)<br>
+154. #gabucho (1175) +13<br>
++104|+42|+25<br>
+	7. GoOody (1:4)<br>
+	8. svircs (1:0)<br>
 <br>
-152. #drdeadscat (1171) 0<br>
-+134|+125|+116|+103|+103|+61|+18|+4|-6|-6<br>
-	2. Mocha960725 (0:1)<br>
-	7. svircs (0:1)<br>
-<br>
-153. #Milky007 (1170) 0<br>
-+45<br>
-	7. svircs (1:0)<br>
-<br>
-154. #DeXie420 (1168) -1<br>
-+96|+17<br>
-	4. Impatient~Bot (1:2)<br>
-	6. Mean~Machine (1:1)<br>
-	9. ianna (1:0)<br>
-<br>
-155. #littledark (1168) 0<br>
-+67<br>
-<br>
-156. #Genghis~Khan (1163) -4<br>
--12|+3|-42|-38|-10|-15|-2|-17|+18|+12<br>
-	2. Mocha960725 (0:3)<br>
-	4. Impatient~Bot (0:9)<br>
-	6. Mean~Machine (0:3)<br>
-	8. Test~Bot (0:1)<br>
-<br>
-157. #gabucho (1162) +1<br>
-+91|+29|+12<br>
-	5. GoOody (1:3)<br>
-	7. svircs (1:0)<br>
-<br>
-158. #nil (1160) 0<br>
-+74|+27|+9<br>
-	9. ianna (0:3)<br>
-<br>
-159. #Ozryel (1158) +23<br>
-+49|+1<br>
-	7. svircs (0:1)<br>
-<br>
-160. #Mika69 (1157) 0<br>
-+74|+28|+1<br>
-<br>
-161. #Radius~Attack (1157) 0<br>
-+21|-5|+1|0|+39|+7|+14|+15|0|+3<br>
+155. #Radius~Attack (1175) +18<br>
++14|+19|+18|+57|+26|+32|+33|+18|+21|+7<br>
 	1. Panic~Attack (0:3)<br>
 	3. Attack~Bot (0:1)<br>
 	4. Impatient~Bot (0:1)<br>
-	10. Echo~Bot (0:3)<br>
+	5. Echo~Bot (0:3)<br>
 <br>
-162. #bryanbb (1153) 0<br>
-+134|+133|+124|+95|+68|+67|+67|+57|+59|+4<br>
-	7. svircs (0:1)<br>
-	10. Echo~Bot (0:1)<br>
+156. #drdeadscat (1171) 0<br>
++134|+125|+116|+103|+103|+61|+18|+4|-6|-6<br>
+	2. Mocha960725 (0:1)<br>
+	8. svircs (0:1)<br>
+	10. Human~Being (0:1)<br>
 <br>
-163. #LateCrush~930 (1152) +4<br>
-+65|+6<br>
+157. #Milky007 (1170) 0<br>
++45<br>
+	8. svircs (1:0)<br>
+	10. Human~Being (0:1)<br>
 <br>
-164. #MagicBoat~315 (1152) 0<br>
+158. #Ozryel (1169) +11<br>
++60|+12<br>
+	8. svircs (0:1)<br>
+<br>
+159. #DeXie420 (1168) 0<br>
++96|+17<br>
+	4. Impatient~Bot (1:2)<br>
+	6. Mean~Machine (1:1)<br>
+	10. Human~Being (1:2)<br>
+<br>
+160. #littledark (1168) 0<br>
++67<br>
+<br>
+161. #Genghis~Khan (1165) +2<br>
+-11|+4|-41|-36|-9|-13|0|-16|+19|+13<br>
+	2. Mocha960725 (0:3)<br>
+	4. Impatient~Bot (0:9)<br>
+	6. Mean~Machine (0:3)<br>
+	9. Test~Bot (0:1)<br>
+	10. Human~Being (0:2)<br>
+<br>
+162. #Mika69 (1157) 0<br>
++74|+28|+1<br>
+<br>
+163. #nil (1155) -4<br>
++70|+23|+5<br>
+<br>
+164. #bryanbb (1153) 0<br>
++133|+133|+124|+94|+67|+67|+67|+56|+59|+4<br>
+	5. Echo~Bot (0:1)<br>
+	7. GoOody (0:2)<br>
+	8. svircs (0:1)<br>
+	10. Human~Being (1:0)<br>
+<br>
+165. #LateCrush~930 (1152) 0<br>
++66|+7<br>
+<br>
+166. #MagicBoat~315 (1152) 0<br>
 +33<br>
 <br>
-165. #Five~Percent (1151) +8<br>
-+91|+96|+43|+23|-5|-2|+3|+19|+38|+31<br>
-	2. Mocha960725 (0:9)<br>
-	5. GoOody (1:0)<br>
-	6. Mean~Machine (0:2)<br>
-	8. Test~Bot (0:2)<br>
-	10. Echo~Bot (1:2)<br>
-<br>
-166. #SpookyDoor~377 (1148) 0<br>
+167. #SpookyDoor~377 (1148) 0<br>
 +48<br>
 	3. Attack~Bot (0:1)<br>
 	4. Impatient~Bot (1:0)<br>
-	5. GoOody (2:1)<br>
+	5. Echo~Bot (2:0)<br>
 	6. Mean~Machine (0:2)<br>
-	8. Test~Bot (0:1)<br>
-	10. Echo~Bot (2:0)<br>
+	7. GoOody (2:1)<br>
+	9. Test~Bot (0:1)<br>
+	10. Human~Being (1:2)<br>
 <br>
-167. #CheapBeef~122 (1147) 0<br>
-+119|+50|+15<br>
+168. #Five~Percent (1148) -4<br>
++87|+92|+39|+20|-9|-6|-1|+15|+34|+27<br>
+	2. Mocha960725 (0:9)<br>
+	5. Echo~Bot (0:2)<br>
+	6. Mean~Machine (0:2)<br>
+	7. GoOody (1:0)<br>
+	9. Test~Bot (0:2)<br>
 <br>
-168. #FooMonkey (1146) 0<br>
-+58<br>
-	5. GoOody (0:1)<br>
-<br>
-169. #TaoisticVoid (1146) +1<br>
+169. #TaoisticVoid (1146) 0<br>
 +9<br>
-	9. ianna (1:0)<br>
 <br>
-170. #bupkis (1146) +4<br>
-+70<br>
+170. #CheapBeef~122 (1146) -1<br>
++118|+50|+14<br>
 <br>
 171. #Weire40 (1146) 0<br>
 +112|+83|+58|+1<br>
-	9. ianna (2:1)<br>
 <br>
-172. #mostafaaaa (1145) 0<br>
+172. #bupkis (1145) 0<br>
++70<br>
+	7. GoOody (0:1)<br>
+<br>
+173. #mostafaaaa (1145) 0<br>
 +119|+66|+28|+27|+18|-1<br>
-	5. GoOody (1:2)<br>
-	9. ianna (0:2)<br>
+	7. GoOody (1:2)<br>
 <br>
-173. #Wiggin (1143) +5<br>
+174. #FooMonkey (1144) -2<br>
++56<br>
+	7. GoOody (0:1)<br>
+<br>
+175. #sri-bhakti (1144) +14<br>
++66<br>
+<br>
+176. #Wiggin (1143) 0<br>
 +91<br>
 	4. Impatient~Bot (1:9)<br>
+	10. Human~Being (2:13)<br>
 <br>
-174. #OpticXkilla (1142) +15<br>
+177. #OpticXkilla (1142) 0<br>
 +117|+89<br>
 	2. Mocha960725 (0:1)<br>
 <br>
-175. #StickyKettl~538 (1137) 0<br>
+178. #BigTemper~185 (1137) +3<br>
++28<br>
+	7. GoOody (7:42)<br>
+	8. svircs (0:1)<br>
 <br>
-	5. GoOody (1:0)<br>
-	9. ianna (0:1)<br>
+179. #StickyKettl~538 (1137) 0<br>
 <br>
-176. #PaperPossum~681 (1136) 0<br>
+	7. GoOody (1:0)<br>
+<br>
+180. #PaperPossum~681 (1136) 0<br>
 +85|+37|+14<br>
 	4. Impatient~Bot (0:1)<br>
+	10. Human~Being (0:4)<br>
 <br>
-177. #terikpham (1135) 0<br>
+181. #terikpham (1135) 0<br>
 +104|+34|+10|+2<br>
 <br>
-178. #BigTemper~185 (1134) 0<br>
-+25<br>
-	5. GoOody (7:37)<br>
-	7. svircs (0:1)<br>
-<br>
-179. #sri-bhakti (1130) +3<br>
-+52<br>
-<br>
-180. #elmichelo (1126) 0<br>
+182. #elmichelo (1126) 0<br>
 +32<br>
 <br>
-181. #killyvera (1125) 0<br>
+183. #TessTickles8 (1126) +12<br>
 <br>
 <br>
-182. #RootedPlanet (1124) 0<br>
-+57|+9<br>
+184. #killyvera (1125) 0<br>
 <br>
-183. #atreides (1123) 0<br>
+<br>
+185. #EzoPro (1124) +5<br>
++115|+86|+14<br>
+	7. GoOody (0:1)<br>
+<br>
+186. #atreides (1123) 0<br>
 +26|+3|-10<br>
-	5. GoOody (0:1)<br>
+	7. GoOody (0:1)<br>
 <br>
-184. #EzoPro (1119) -3<br>
-+110|+81|+9<br>
-<br>
-185. #kokona (1118) 0<br>
+187. #kokona (1118) 0<br>
 +57<br>
-	5. GoOody (1:1)<br>
+	7. GoOody (1:1)<br>
 <br>
-186. #viva0002 (1116) 0<br>
+188. #viva0002 (1116) 0<br>
 +121|+57|+5<br>
-	5. GoOody (1:2)<br>
+	7. GoOody (1:2)<br>
 <br>
-187. #fatnips (1114) 0<br>
+189. #fatnips (1114) 0<br>
 <br>
 <br>
-188. #StollyBolly (1114) 0<br>
+190. #StollyBolly (1114) 0<br>
 <br>
 	2. Mocha960725 (2:1)<br>
-	5. GoOody (1:1)<br>
-	9. ianna (1:3)<br>
+	7. GoOody (1:1)<br>
 <br>
-189. #BloodyRoots (1113) 0<br>
+191. #NoisyHand~885 (1113) +7<br>
+<br>
+<br>
+192. #BloodyRoots (1113) 0<br>
 +31<br>
-	9. ianna (1:2)<br>
 <br>
-190. #AnkleBreaker (1111) +11<br>
-+29<br>
-	3. Attack~Bot (0:1)<br>
+193. #sdfre (1113) +16<br>
++63<br>
 <br>
-191. #BitterFlute~628 (1111) -2<br>
+194. #fretty (1111) +7<br>
+<br>
+	7. GoOody (0:4)<br>
+<br>
+195. #BitterFlute~628 (1111) 0<br>
 +65|+12<br>
-	5. GoOody (0:1)<br>
+	7. GoOody (0:1)<br>
 <br>
-192. #Sea~Slug (1111) +4<br>
-+22|+16|+6|+5|+10|-16|-1|-4|+19|+2<br>
+196. #Sea~Slug (1111) 0<br>
++22|+16|+6|+6|+10|-15|-1|-4|+20|+2<br>
 	2. Mocha960725 (2:4)<br>
 	3. Attack~Bot (1:1)<br>
 	4. Impatient~Bot (1:1)<br>
+	5. Echo~Bot (0:2)<br>
 	6. Mean~Machine (0:1)<br>
-	10. Echo~Bot (0:5)<br>
+	10. Human~Being (2:2)<br>
 <br>
-193. #NoisyHand~885 (1107) +11<br>
+197. #AnkleBreaker (1106) -5<br>
++24|-4<br>
+	3. Attack~Bot (0:1)<br>
+	7. GoOody (0:1)<br>
 <br>
-<br>
-194. #fretty (1104) -1<br>
-<br>
-	5. GoOody (0:4)<br>
-<br>
-195. #Benman3000 (1098) 0<br>
+198. #Benman3000 (1098) 0<br>
 +72|+54|+30|-1<br>
-	10. Echo~Bot (0:1)<br>
+	5. Echo~Bot (0:1)<br>
 <br>
-196. #sdfre (1096) +32<br>
-+47<br>
-<br>
-197. #EmptySpoon~865 (1096) 0<br>
+199. #EmptySpoon~865 (1096) 0<br>
 -4<br>
 <br>
-198. #BrightWolf~137 (1095) 0<br>
+200. #BrightWolf~137 (1095) 0<br>
 +45|+7<br>
 <br>
-199. #AbsurdSand~527 (1094) 0<br>
+201. #AbsurdSand~527 (1094) 0<br>
 +28<br>
-	9. ianna (1:0)<br>
 <br>
-200. #MushySand~375 (1091) -2<br>
-+47|-8<br>
+202. #MushySand~375 (1088) -3<br>
++44|-10<br>
 	1. Panic~Attack (0:1)<br>
 <br>
-201. #STXSlayer (1088) 0<br>
+203. #STXSlayer (1088) 0<br>
 <br>
 <br>
-202. #ace95 (1084) 0<br>
-+20<br>
+204. #ace95 (1088) +3<br>
++23<br>
 <br>
-203. #Cortality (1083) 0<br>
+205. #LazyCarrot~367 (1078) +3<br>
++56|+10<br>
+	7. GoOody (0:2)<br>
 <br>
+206. #adamfirst (1078) -2<br>
++48|-10<br>
+	7. GoOody (0:2)<br>
 <br>
-204. #adamfirst (1080) -2<br>
-+50|-8<br>
-	5. GoOody (0:2)<br>
+207. #ShinyTemper~434 (1078) -2<br>
++39|-1<br>
+	7. GoOody (0:1)<br>
 <br>
-205. #ShinyTemper~434 (1080) -1<br>
-+41|+1<br>
-<br>
-206. #LazyCarrot~367 (1076) -1<br>
-+53|+7<br>
-	5. GoOody (0:2)<br>
-	9. ianna (0:2)<br>
-<br>
-207. #mohamedazert (1075) +3<br>
+208. #WigglySpade~507 (1077) -2<br>
 <br>
 <br>
-208. #locochon133 (1075) 0<br>
+209. #BlackTiger (1076) +3<br>
+0<br>
+	7. GoOody (0:1)<br>
+	10. Human~Being (3:5)<br>
+<br>
+210. #mohamedazert (1075) 0<br>
+<br>
+<br>
+211. #locochon133 (1075) 0<br>
 +45<br>
-	5. GoOody (0:1)<br>
+	7. GoOody (0:1)<br>
 <br>
-209. #Mexikid (1074) 0<br>
-+29<br>
-<br>
-210. #BlackTiger (1074) 0<br>
-<br>
-	5. GoOody (0:1)<br>
-	9. ianna (0:1)<br>
-<br>
-211. #MasterHorus (1073) +2<br>
-+28<br>
-<br>
-212. #Born~2Snipe (1072) +1<br>
--23|-22|-3|+3|+43|+14|+14|-3|-3|+21<br>
+212. #Born~2Snipe (1075) +3<br>
+-20|-20|0|+5|+45|+17|+17|0|0|+23<br>
 	2. Mocha960725 (3:13)<br>
 	3. Attack~Bot (0:1)<br>
-	8. Test~Bot (3:1)<br>
-	10. Echo~Bot (3:3)<br>
+	5. Echo~Bot (3:3)<br>
+	9. Test~Bot (3:1)<br>
 <br>
-213. #cswhaha (1070) 0<br>
+213. #Mexikid (1074) 0<br>
++29<br>
+<br>
+214. #MasterHorus (1073) 0<br>
++28<br>
+<br>
+215. #cswhaha (1070) 0<br>
 +32<br>
 	3. Attack~Bot (0:2)<br>
-	5. GoOody (0:5)<br>
-	8. Test~Bot (0:1)<br>
+	7. GoOody (0:5)<br>
+	9. Test~Bot (0:1)<br>
 <br>
-214. #OneRing (1070) 0<br>
+216. #OneRing (1070) 0<br>
 <br>
 <br>
-215. #StickyCrayo~613 (1070) 0<br>
+217. #StickyCrayo~613 (1070) 0<br>
 +7<br>
 <br>
-216. #katy.cat (1068) 0<br>
+218. #katy.cat (1068) 0<br>
 +26<br>
-	7. svircs (0:1)<br>
+	8. svircs (0:1)<br>
 <br>
-217. #bolo59 (1064) 0<br>
+219. #bolo59 (1064) 0<br>
 <br>
 <br>
-218. #klumpy (1061) +3<br>
+220. #klumpy (1061) 0<br>
 +14<br>
-	5. GoOody (0:3)<br>
+	7. GoOody (0:3)<br>
 <br>
-219. #CleverFruit~483 (1060) 0<br>
+221. #CleverFruit~483 (1060) 0<br>
 +38|+10<br>
-	5. GoOody (0:4)<br>
+	7. GoOody (0:4)<br>
+	10. Human~Being (0:1)<br>
 <br>
-220. #Ognjen (1060) 0<br>
+222. #Ognjen (1060) 0<br>
 +10<br>
 	4. Impatient~Bot (0:6)<br>
 	6. Mean~Machine (0:3)<br>
-	7. svircs (0:2)<br>
+	8. svircs (0:2)<br>
+	10. Human~Being (0:4)<br>
 <br>
-221. #FreeWasp~498 (1060) 0<br>
+223. #FreeWasp~498 (1060) 0<br>
 +13<br>
 <br>
-222. #SkyEvil (1057) 0<br>
+224. #HollowHoppe~374 (1060) +3<br>
 <br>
 <br>
-223. #HollowHoppe~374 (1057) +21<br>
+225. #IcedBeluga~707 (1056) 0<br>
 <br>
 <br>
-224. #IcedBeluga~707 (1056) 0<br>
+226. #SkyEvil (1056) -1<br>
 <br>
 <br>
-225. #TidyFox~415 (1053) 0<br>
+227. #TidyFox~415 (1053) 0<br>
 +21<br>
-	5. GoOody (0:3)<br>
+	7. GoOody (0:3)<br>
 <br>
-226. #Hannibal~Smith (1053) -31<br>
--27|-32|-36|-6|-22|-36|-35|-35|-38|-13<br>
+228. #FittyTuck (1051) 0<br>
+<br>
+	7. GoOody (1:0)<br>
+<br>
+229. #Jovanlisac (1048) 0<br>
+-1<br>
+	4. Impatient~Bot (2:7)<br>
+	8. svircs (0:1)<br>
+	10. Human~Being (0:2)<br>
+<br>
+230. #col_angus (1048) 0<br>
+<br>
+	7. GoOody (0:1)<br>
+<br>
+231. #Hannibal~Smith (1046) -8<br>
+-39|-43|-13|-30|-43|-43|-43|-45|-21|-2<br>
 	2. Mocha960725 (1:7)<br>
 	4. Impatient~Bot (0:1)<br>
 	6. Mean~Machine (1:3)<br>
+	10. Human~Being (0:5)<br>
 <br>
-227. #FittyTuck (1051) 0<br>
-<br>
-	5. GoOody (1:0)<br>
-<br>
-228. #Jovanlisac (1048) 0<br>
--1<br>
-	4. Impatient~Bot (2:7)<br>
-	7. svircs (0:1)<br>
-<br>
-229. #col_angus (1048) 0<br>
-<br>
-	5. GoOody (0:1)<br>
-<br>
-230. #bomberJones (1045) -2<br>
-+1<br>
-<br>
-231. #Wthreal202 (1043) 0<br>
+232. #Wthreal202 (1043) 0<br>
 -2<br>
 <br>
-232. #MrMadeHerDay (1042) 0<br>
+233. #bomberJones (1043) -2<br>
+-1<br>
+	7. GoOody (0:3)<br>
+<br>
+234. #stopplease (1043) +4<br>
 <br>
 <br>
-233. #DrPhosphorus (1041) 0<br>
+235. #MrMadeHerDay (1042) 0<br>
+<br>
+<br>
+236. #DrPhosphorus (1041) 0<br>
 -6<br>
-	5. GoOody (0:2)<br>
+	7. GoOody (0:2)<br>
 <br>
-234. #gobindsingh (1041) 0<br>
-+12<br>
+237. #gobindsingh (1040) 0<br>
++11<br>
 	4. Impatient~Bot (0:1)<br>
-	5. GoOody (0:2)<br>
+	7. GoOody (0:2)<br>
 <br>
-235. #SpaceWeed (1040) 0<br>
+238. #SpaceWeed (1040) 0<br>
 <br>
-	5. GoOody (0:1)<br>
+	7. GoOody (0:1)<br>
 <br>
-236. #ITX10756 (1039) 0<br>
+239. #ITX10756 (1039) 0<br>
 +4<br>
 <br>
-237. #stopplease (1039) -3<br>
+240. #MaltonnA (1031) -1<br>
 <br>
+	7. GoOody (0:1)<br>
+	10. Human~Being (0:1)<br>
 <br>
-238. #MaltonnA (1032) 0<br>
+241. #Kiarashny (1030) 0<br>
+-2<br>
 <br>
-	5. GoOody (0:1)<br>
-<br>
-239. #Slow~Poke (1031) +21<br>
-+20|+25|+62|+50|+40|+12|+31|+26|+21|+36<br>
+242. #Slow~Poke (1029) -2<br>
++23|+60|+48|+38|+10|+29|+24|+19|+34|0<br>
 	1. Panic~Attack (1:1)<br>
 	2. Mocha960725 (0:3)<br>
 	3. Attack~Bot (0:1)<br>
 	4. Impatient~Bot (0:4)<br>
 	6. Mean~Machine (0:4)<br>
+	10. Human~Being (0:1)<br>
 <br>
-240. #Kiarashny (1030) 0<br>
--2<br>
+243. #mikeyjo411sp (1018) 0<br>
 <br>
-241. #mikeyjo411sp (1018) 0<br>
+	7. GoOody (0:1)<br>
 <br>
-	5. GoOody (0:1)<br>
+244. #shadybiz (1017) 0<br>
 <br>
-242. #shadybiz (1017) 0<br>
+	8. svircs (0:1)<br>
 <br>
-	7. svircs (0:1)<br>
+245. #orenong (1009) -1<br>
++12|+13|+28<br>
 <br>
-243. #lightsout6 (1011) +5<br>
+246. #lightsout6 (1009) -2<br>
 <br>
+	7. GoOody (0:2)<br>
 <br>
-244. #orenong (1010) 0<br>
-+12|+14|+29<br>
-<br>
-245. #LargeBeluga~896 (999) +2<br>
+247. #LargeBeluga~896 (1007) +8<br>
 <br>
 <br>
-246. #Joshua77 (992) 0<br>
+248. #Joshua77 (992) 0<br>
 <br>
-	5. GoOody (0:2)<br>
-	7. svircs (0:1)<br>
+	7. GoOody (0:2)<br>
+	8. svircs (0:1)<br>
+	10. Human~Being (0:1)<br>
 <br>
-247. #mrclysm (992) 0<br>
+249. #mrclysm (992) 0<br>
 0<br>
 <br>
-248. #ToxicRebel~672 (988) 0<br>
+250. #ToxicRebel~672 (988) 0<br>
 +4<br>
-	9. ianna (0:3)<br>
 <br>
-249. #dragginpeter (980) 0<br>
+251. #dragginpeter (980) 0<br>
 <br>
 <br>
-250. #BaggySong~441 (942) 0<br>
+252. #BaggySong~441 (942) 0<br>
 -119|-61|+3|+5<br>
 <br>
-251. #Sitting~Duck (933) -3<br>
-+16|+38|+40|+48|+51|+57|+65|+56|+37|+2<br>
+253. #Sitting~Duck (936) +3<br>
++41|+43|+51|+54|+60|+68|+59|+40|+5|-4<br>
 	1. Panic~Attack (0:2)<br>
 	2. Mocha960725 (0:13)<br>
 	3. Attack~Bot (0:1)<br>
 	4. Impatient~Bot (0:1)<br>
-	8. Test~Bot (0:1)<br>
-	10. Echo~Bot (0:3)<br>
+	5. Echo~Bot (0:3)<br>
+	9. Test~Bot (0:1)<br>
+	10. Human~Being (0:1)<br>
 <br>
-252. #assclism (916) 0<br>
+254. #assclism (916) 0<br>
 -31|-14<br>
 <br>
-253. #Home~Boy (877) +11<br>
--15|-4|-17|-4|0|-3|+2|0|+8|-4<br>
+255. #Home~Boy (870) -6<br>
+-22|-11|-23|-10|-6|-9|-4|-6|+1|-10<br>
 	2. Mocha960725 (2:24)<br>
 	4. Impatient~Bot (0:2)<br>
+	5. Echo~Bot (2:7)<br>
 	6. Mean~Machine (0:1)<br>
-	8. Test~Bot (1:3)<br>
-	10. Echo~Bot (2:7)<br>
+	9. Test~Bot (1:3)<br>
+	10. Human~Being (0:1)<br>
 <br>
-254. #Do~Nothing (646) -1<br>
-+6|+2|-3|-14|-2|-11|-12|-9|-9|-1<br>
+256. #Do~Nothing (656) +10<br>
++12|+6|-4|+8|-1|-2|+1|0|+9|+8<br>
 	2. Mocha960725 (0:3)<br>
 	4. Impatient~Bot (0:6)<br>
+	5. Echo~Bot (0:9)<br>
 	6. Mean~Machine (0:4)<br>
-	10. Echo~Bot (0:9)<br>
+	10. Human~Being (0:2)<br>
