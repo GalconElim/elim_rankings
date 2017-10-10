@@ -1,116 +1,135 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #Nimsta (1410) +21<br>
-+270|+186|+103|+96|+42|+39|+48<br>
+1. #Nimsta (1403) -7<br>
++263|+179|+96|+89|+35|+32|+41<br>
 	2. PEPrasetya (2:1)<br>
 	3. jacks0nh0le (1:2)<br>
 	4. GreatApple~214 (0:2)<br>
 	5. DavidIggyLou (4:3)<br>
 	6. Vergilious (1:0)<br>
+	7. Joergfu (1:0)<br>
 	8. svircs (2:2)<br>
-	9. Joergfu (1:0)<br>
-	10. Starfleet (7:2)<br>
+	9. Yamamoto79 (0:1)<br>
+	10. rickss (2:4)<br>
 <br>
-2. #PEPrasetya (1396) -1<br>
-+68|+44|+47|+32|+56|+5|+14|+23|+44|0<br>
+2. #PEPrasetya (1398) +2<br>
++70|+46|+49|+34|+58|+7|+16|+26|+46|+3<br>
 	1. Nimsta (1:2)<br>
 	4. GreatApple~214 (0:1)<br>
 	5. DavidIggyLou (1:0)<br>
-	9. Joergfu (1:0)<br>
-	10. Starfleet (5:0)<br>
+	7. Joergfu (1:0)<br>
+	9. Yamamoto79 (1:0)<br>
+	10. rickss (0:1)<br>
 <br>
-3. #jacks0nh0le (1395) -5<br>
-+164|+187|+179|+129|+100|+75|+71|+51|+28|+30<br>
+3. #jacks0nh0le (1394) -2<br>
++163|+186|+177|+127|+98|+73|+69|+49|+26|+28<br>
 	1. Nimsta (2:1)<br>
 	4. GreatApple~214 (1:2)<br>
 	5. DavidIggyLou (2:1)<br>
-	7. zeropoint (1:1)<br>
-	10. Starfleet (1:0)<br>
+	9. Yamamoto79 (0:1)<br>
 <br>
-4. #GreatApple~214 (1377) -2<br>
-+30|0|-4|-30|-40|-33|-28|-5|-16|-15<br>
+4. #GreatApple~214 (1375) -2<br>
++28|-2|-6|-32|-42|-35|-30|-7|-18|-17<br>
 	1. Nimsta (2:0)<br>
 	2. PEPrasetya (1:0)<br>
 	3. jacks0nh0le (2:1)<br>
 	5. DavidIggyLou (1:2)<br>
 	8. svircs (2:0)<br>
+	10. rickss (0:2)<br>
 <br>
-5. #DavidIggyLou (1368) +5<br>
-+76|+85|+74|+34|+15|-16|+28|+36|+31|+11<br>
+5. #DavidIggyLou (1365) -4<br>
++73|+81|+70|+30|+11|-19|+24|+33|+28|+7<br>
 	1. Nimsta (3:4)<br>
 	2. PEPrasetya (0:1)<br>
 	3. jacks0nh0le (1:2)<br>
 	4. GreatApple~214 (2:1)<br>
-	7. zeropoint (0:1)<br>
 	8. svircs (2:1)<br>
+	9. Yamamoto79 (1:0)<br>
+	10. rickss (1:4)<br>
 <br>
-6. #Vergilious (1366) +12<br>
-+22|+6|+18|+73|+28|-4|+5|+10|+16|+30<br>
+6. #Vergilious (1364) -3<br>
++20|+3|+16|+70|+26|-7|+2|+7|+14|+28<br>
 	1. Nimsta (0:1)<br>
-	9. Joergfu (4:1)<br>
-	10. Starfleet (2:2)<br>
+	7. Joergfu (4:1)<br>
+	9. Yamamoto79 (0:1)<br>
+	10. rickss (2:1)<br>
 <br>
-7. #zeropoint (1361) +1<br>
-+78|+39|+28|+13|+17|+31|+24|+2|+12|+21<br>
-	3. jacks0nh0le (1:1)<br>
-	5. DavidIggyLou (1:0)<br>
-	9. Joergfu (1:1)<br>
-	10. Starfleet (1:3)<br>
-<br>
-8. #svircs (1355) +1<br>
-+31|+22|+27|+47|+43|+14|+22|+45|-12|-6<br>
-	1. Nimsta (2:2)<br>
-	4. GreatApple~214 (0:2)<br>
-	5. DavidIggyLou (1:2)<br>
-	9. Joergfu (2:0)<br>
-<br>
-9. #Joergfu (1350) -5<br>
+7. #Joergfu (1350) 0<br>
 +237|+168|+130|+87|+82|+28|+15|+2|-8<br>
 	1. Nimsta (0:1)<br>
 	2. PEPrasetya (0:1)<br>
 	6. Vergilious (1:4)<br>
-	7. zeropoint (1:1)<br>
 	8. svircs (0:2)<br>
-	10. Starfleet (6:8)<br>
 <br>
-10. #Starfleet (1347) +9<br>
-+44|+46|+41|+44|+69|+27|+19|+43|+34|+17<br>
-	1. Nimsta (2:7)<br>
-	2. PEPrasetya (0:5)<br>
-	3. jacks0nh0le (0:1)<br>
-	6. Vergilious (2:2)<br>
-	7. zeropoint (3:1)<br>
-	9. Joergfu (8:6)<br>
+8. #svircs (1348) -7<br>
++24|+15|+21|+40|+36|+8|+16|+38|-18|-13<br>
+	1. Nimsta (2:2)<br>
+	4. GreatApple~214 (0:2)<br>
+	5. DavidIggyLou (1:2)<br>
+	7. Joergfu (2:0)<br>
+	9. Yamamoto79 (0:1)<br>
+	10. rickss (4:5)<br>
 <br>
-11. #rickss (1345) +5<br>
--17|-33|-27|-22|-31|-30|-7|-30|-11|-27<br>
-	1. Nimsta (4:2)<br>
-	2. PEPrasetya (1:0)<br>
-	4. GreatApple~214 (2:0)<br>
-	5. DavidIggyLou (3:1)<br>
-	6. Vergilious (1:2)<br>
-	8. svircs (5:4)<br>
-	10. Starfleet (2:1)<br>
-<br>
-12. #Yamamoto79 (1343) +2<br>
-+198|+102|+67|+47|-1|+14|+1<br>
+9. #Yamamoto79 (1348) +5<br>
++203|+107|+72|+52|+4|+19|+6<br>
 	1. Nimsta (1:0)<br>
 	2. PEPrasetya (0:1)<br>
 	3. jacks0nh0le (1:0)<br>
 	5. DavidIggyLou (0:1)<br>
 	6. Vergilious (1:0)<br>
 	8. svircs (1:0)<br>
-	10. Starfleet (2:2)<br>
 <br>
-13. #Symsymmy (1340) +8<br>
-+245|+186|+109|+78|+36|+40|+5|+7<br>
+10. #rickss (1342) -3<br>
+-20|-36|-30|-25|-34|-33|-10|-33|-13|-30<br>
+	1. Nimsta (4:2)<br>
+	2. PEPrasetya (1:0)<br>
+	4. GreatApple~214 (2:0)<br>
+	5. DavidIggyLou (4:1)<br>
+	6. Vergilious (1:2)<br>
+	8. svircs (5:4)<br>
+<br>
+11. #qwertyuiop00 (1339) +10<br>
++244|+148|+81|+49|+47|+4|-2|-1<br>
+	1. Nimsta (2:1)<br>
+	3. jacks0nh0le (1:0)<br>
+	5. DavidIggyLou (0:1)<br>
+	6. Vergilious (0:2)<br>
+	7. Joergfu (0:3)<br>
+	8. svircs (0:1)<br>
+	9. Yamamoto79 (0:2)<br>
+	10. rickss (1:1)<br>
+<br>
+12. #Symsymmy (1338) -2<br>
++244|+184|+107|+77|+34|+39|+3|+6<br>
 	1. Nimsta (7:5)<br>
 	3. jacks0nh0le (0:1)<br>
 	6. Vergilious (1:1)<br>
-	7. zeropoint (1:4)<br>
-	10. Starfleet (1:3)<br>
+	9. Yamamoto79 (0:2)<br>
+	10. rickss (0:1)<br>
 <br>
-14. #fifty6 (1334) +8<br>
+13. #flagstone (1336) +4<br>
++4|+14|+7|-8|-7|+9|+36|-2|+25|+20<br>
+	1. Nimsta (0:1)<br>
+	2. PEPrasetya (0:1)<br>
+	3. jacks0nh0le (1:1)<br>
+	4. GreatApple~214 (1:0)<br>
+	6. Vergilious (1:0)<br>
+	7. Joergfu (0:1)<br>
+	8. svircs (1:0)<br>
+	9. Yamamoto79 (1:0)<br>
+	10. rickss (2:0)<br>
+<br>
+14. #Starfleet (1335) -12<br>
++32|+34|+29|+32|+57|+15|+7|+31|+22|+5<br>
+	1. Nimsta (2:7)<br>
+	2. PEPrasetya (0:5)<br>
+	3. jacks0nh0le (0:1)<br>
+	6. Vergilious (2:2)<br>
+	7. Joergfu (8:3)<br>
+	9. Yamamoto79 (2:2)<br>
+	10. rickss (1:2)<br>
+<br>
+15. #fifty6 (1334) 0<br>
 +24|+9|-14|+5|-17|+12|-27|-51|-22|+7<br>
 	1. Nimsta (1:9)<br>
 	2. PEPrasetya (2:1)<br>
@@ -118,97 +137,94 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. GreatApple~214 (1:3)<br>
 	5. DavidIggyLou (1:1)<br>
 	6. Vergilious (1:0)<br>
-	7. zeropoint (1:0)<br>
+	7. Joergfu (0:1)<br>
 	8. svircs (2:3)<br>
-	9. Joergfu (0:1)<br>
+	9. Yamamoto79 (0:1)<br>
+	10. rickss (1:2)<br>
 <br>
-15. #flagstone (1332) 0<br>
-0|+10|+3|-12|-11|+5|+32|-6|+21|+16<br>
-	1. Nimsta (0:2)<br>
-	2. PEPrasetya (0:1)<br>
-	3. jacks0nh0le (1:1)<br>
-	4. GreatApple~214 (1:0)<br>
-	6. Vergilious (1:0)<br>
-	8. svircs (1:0)<br>
-	9. Joergfu (0:1)<br>
-	10. Starfleet (0:1)<br>
-<br>
-16. #GroovyFlame (1331) +5<br>
--7|-44|-48|-32|+3|+26|+28|-13|-5|+11<br>
-	1. Nimsta (1:7)<br>
-	2. PEPrasetya (0:1)<br>
-	4. GreatApple~214 (4:5)<br>
-	7. zeropoint (1:0)<br>
-	10. Starfleet (2:0)<br>
-<br>
-17. #qwertyuiop00 (1330) -11<br>
-+235|+138|+72|+39|+37|-6|-12|-11<br>
-	1. Nimsta (2:1)<br>
-	3. jacks0nh0le (1:0)<br>
-	5. DavidIggyLou (0:1)<br>
-	6. Vergilious (0:2)<br>
-	7. zeropoint (1:1)<br>
-	8. svircs (0:1)<br>
-	9. Joergfu (0:3)<br>
-	10. Starfleet (0:2)<br>
-<br>
-18. #MUF (1329) +5<br>
-+153|+102|+80|+94|+27|+8<br>
-	1. Nimsta (2:6)<br>
+16. #MUF (1332) +3<br>
++156|+104|+82|+97|+29|+11<br>
+	1. Nimsta (1:6)<br>
 	2. PEPrasetya (0:1)<br>
 	4. GreatApple~214 (1:6)<br>
 	5. DavidIggyLou (3:2)<br>
-	7. zeropoint (0:2)<br>
-	9. Joergfu (0:4)<br>
+	7. Joergfu (0:4)<br>
+	9. Yamamoto79 (2:2)<br>
+	10. rickss (0:1)<br>
 <br>
-19. #aeiou (1328) -4<br>
-+47|+39|+51|+17|+25|+20|-5|+18|+30|+29<br>
+17. #GroovyFlame (1330) 0<br>
+-8|-44|-48|-32|+2|+26|+27|-13|-6|+11<br>
+	1. Nimsta (1:7)<br>
+	2. PEPrasetya (0:1)<br>
+	4. GreatApple~214 (4:5)<br>
+	9. Yamamoto79 (0:1)<br>
+<br>
+18. #proxywar (1325) -3<br>
+-9|+23|+12|-12|+16|+23|+61|+60|+13|+20<br>
+	3. jacks0nh0le (0:2)<br>
+	6. Vergilious (2:0)<br>
+	7. Joergfu (2:2)<br>
+	8. svircs (0:1)<br>
+	10. rickss (1:0)<br>
+<br>
+19. #sebfillion (1322) 0<br>
++36|+30|+46|+24|+56|+39|-7|+5|+13|-5<br>
+	1. Nimsta (0:3)<br>
+	2. PEPrasetya (1:3)<br>
+	3. jacks0nh0le (1:1)<br>
+	7. Joergfu (0:1)<br>
+<br>
+20. #Naboothewolf (1320) -2<br>
++100|+74|+34|+17|+30|+13|+29|+26|+9|-22<br>
+	1. Nimsta (0:3)<br>
+	4. GreatApple~214 (5:3)<br>
+	9. Yamamoto79 (0:1)<br>
+<br>
+21. #aeiou (1318) -10<br>
++37|+29|+40|+7|+15|+10|-15|+8|+20|+19<br>
 	2. PEPrasetya (0:2)<br>
 	3. jacks0nh0le (0:1)<br>
 	4. GreatApple~214 (3:1)<br>
 	5. DavidIggyLou (5:0)<br>
 	6. Vergilious (0:2)<br>
 	8. svircs (0:1)<br>
-	10. Starfleet (8:11)<br>
 <br>
-20. #proxywar (1328) +3<br>
--6|+25|+14|-10|+18|+25|+64|+63|+15|+22<br>
-	3. jacks0nh0le (0:2)<br>
-	6. Vergilious (2:0)<br>
-	8. svircs (0:1)<br>
-	9. Joergfu (2:2)<br>
-	10. Starfleet (3:3)<br>
-<br>
-21. #Naboothewolf (1323) 0<br>
-+102|+77|+37|+20|+33|+16|+31|+28|+11|-20<br>
-	1. Nimsta (0:3)<br>
-	4. GreatApple~214 (5:3)<br>
-<br>
-22. #sebfillion (1322) 0<br>
-+36|+30|+46|+24|+56|+39|-7|+5|+13|-5<br>
-	1. Nimsta (0:3)<br>
-	2. PEPrasetya (1:3)<br>
-	3. jacks0nh0le (1:1)<br>
-	9. Joergfu (0:1)<br>
-<br>
-23. #A-z-sh (1311) -7<br>
--18|+28|+8|-17|-6|+3|-34|-16|+19|-17<br>
+22. #A-z-sh (1316) +5<br>
+-14|+32|+13|-12|-1|+8|-29|-11|+24|-12<br>
 	1. Nimsta (2:6)<br>
-	3. jacks0nh0le (2:0)<br>
+	3. jacks0nh0le (3:0)<br>
 	4. GreatApple~214 (0:2)<br>
 	5. DavidIggyLou (0:1)<br>
 	6. Vergilious (1:1)<br>
+	7. Joergfu (0:1)<br>
 	8. svircs (0:1)<br>
-	9. Joergfu (0:1)<br>
+	9. Yamamoto79 (1:1)<br>
+	10. rickss (2:5)<br>
 <br>
-24. #7paths (1309) -1<br>
-+242|+146|+67|+61|+58|+36|+15|+14|-1<br>
+23. #7paths (1310) +1<br>
++244|+147|+68|+62|+59|+38|+17|+15|0<br>
 	1. Nimsta (1:1)<br>
 	4. GreatApple~214 (0:1)<br>
-	10. Starfleet (0:1)<br>
+	10. rickss (5:4)<br>
 <br>
-25. #freedoom (1308) -5<br>
-+108|+88|+98|+42|-6|-25|-12|-22|+3|0<br>
+24. #Tiberius88 (1309) +4<br>
++26|+7|+2|+10|+28|+33|+11|+9|+30|+18<br>
+	1. Nimsta (2:1)<br>
+	3. jacks0nh0le (1:0)<br>
+	4. GreatApple~214 (1:1)<br>
+	5. DavidIggyLou (0:1)<br>
+	8. svircs (1:0)<br>
+	10. rickss (1:0)<br>
+<br>
+25. #KvL (1305) 0<br>
++56|+51|+37|+58|+54|+43|+17|-12|-7|+3<br>
+	1. Nimsta (0:3)<br>
+	3. jacks0nh0le (2:0)<br>
+	7. Joergfu (1:0)<br>
+	9. Yamamoto79 (1:0)<br>
+<br>
+26. #freedoom (1303) -5<br>
++83|+93|+36|-12|-30|-18|-27|-2|-6|0<br>
 	1. Nimsta (2:17)<br>
 	2. PEPrasetya (2:4)<br>
 	3. jacks0nh0le (1:0)<br>
@@ -216,216 +232,218 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. DavidIggyLou (0:2)<br>
 	6. Vergilious (0:2)<br>
 	8. svircs (1:0)<br>
-	10. Starfleet (1:3)<br>
+	9. Yamamoto79 (1:1)<br>
 <br>
-26. #KvL (1305) +7<br>
-+56|+51|+37|+58|+54|+43|+17|-12|-7|+3<br>
-	1. Nimsta (0:3)<br>
-	3. jacks0nh0le (2:0)<br>
-	9. Joergfu (1:0)<br>
-<br>
-27. #Tiberius88 (1305) +9<br>
-+22|+3|-3|+6|+24|+29|+7|+5|+26|+14<br>
-	1. Nimsta (2:1)<br>
-	3. jacks0nh0le (1:0)<br>
-	4. GreatApple~214 (1:1)<br>
-	5. DavidIggyLou (0:1)<br>
-	8. svircs (1:1)<br>
-<br>
-28. #FeelThaMode (1302) -1<br>
-+74|+38|+38|+60|+40|+12|+32|+9|+11|-1<br>
+27. #FeelThaMode (1300) -2<br>
++72|+36|+35|+58|+38|+10|+30|+7|+9|-3<br>
 	1. Nimsta (6:8)<br>
 	2. PEPrasetya (0:2)<br>
 	3. jacks0nh0le (0:2)<br>
 	4. GreatApple~214 (3:1)<br>
 	5. DavidIggyLou (1:5)<br>
 	6. Vergilious (2:1)<br>
-	7. zeropoint (1:2)<br>
+	7. Joergfu (1:1)<br>
 	8. svircs (2:0)<br>
-	9. Joergfu (1:1)<br>
 <br>
-29. #Jarre (1296) +13<br>
--14|-7|-34|-28|-33|-17|+6|-16|-2|+7<br>
-	1. Nimsta (3:4)<br>
-	3. jacks0nh0le (0:1)<br>
-	4. GreatApple~214 (3:1)<br>
-	7. zeropoint (1:1)<br>
-	8. svircs (0:1)<br>
-	9. Joergfu (1:2)<br>
-	10. Starfleet (0:1)<br>
-<br>
-30. #Celica (1292) +12<br>
-+27|+49|+31|-1|+8|+33|-6|-7|+28|+5<br>
-	1. Nimsta (0:1)<br>
-	4. GreatApple~214 (1:7)<br>
-	6. Vergilious (0:4)<br>
-	8. svircs (1:4)<br>
-	9. Joergfu (1:1)<br>
-	10. Starfleet (3:0)<br>
-<br>
-31. #ZenSamurai (1292) 0<br>
+28. #ZenSamurai (1292) 0<br>
 +85|+82|+49|+27|+42|+58|+20|0|-14|-9<br>
 	1. Nimsta (1:2)<br>
 	2. PEPrasetya (6:4)<br>
 	4. GreatApple~214 (0:2)<br>
 	5. DavidIggyLou (0:3)<br>
 	6. Vergilious (0:1)<br>
-	10. Starfleet (2:1)<br>
+	9. Yamamoto79 (0:1)<br>
+	10. rickss (1:3)<br>
 <br>
-32. #His-Majesty (1290) -21<br>
-+8|+23|+3|+7|-8|-15|-36|+1|-27|-8<br>
-	1. Nimsta (3:8)<br>
+29. #Celica (1291) 0<br>
++27|+49|+30|-2|+8|+33|-6|-7|+28|+4<br>
+	1. Nimsta (0:1)<br>
+	4. GreatApple~214 (1:7)<br>
+	6. Vergilious (0:4)<br>
+	7. Joergfu (1:1)<br>
+	8. svircs (1:5)<br>
+	10. rickss (2:7)<br>
+<br>
+30. #Jarre (1289) -8<br>
+-22|-15|-42|-36|-40|-25|-2|-24|-9|-1<br>
+	1. Nimsta (3:2)<br>
+	3. jacks0nh0le (0:1)<br>
+	4. GreatApple~214 (3:1)<br>
+	7. Joergfu (1:2)<br>
+	8. svircs (0:1)<br>
+	9. Yamamoto79 (1:1)<br>
+	10. rickss (3:4)<br>
+<br>
+31. #_Marik_ (1287) +3<br>
++206|+172|+48|+40|+51|+45|-5|-10<br>
+	1. Nimsta (2:1)<br>
+	3. jacks0nh0le (0:1)<br>
+	5. DavidIggyLou (1:0)<br>
+	6. Vergilious (1:1)<br>
+	10. rickss (0:1)<br>
+<br>
+32. #His-Majesty (1284) -6<br>
++2|+17|-3|+1|-14|-21|-42|-5|-33|-14<br>
+	1. Nimsta (2:6)<br>
 	2. PEPrasetya (0:1)<br>
 	3. jacks0nh0le (2:1)<br>
 	4. GreatApple~214 (1:10)<br>
 	5. DavidIggyLou (1:5)<br>
 	6. Vergilious (0:2)<br>
-	7. zeropoint (3:5)<br>
+	7. Joergfu (1:2)<br>
 	8. svircs (2:3)<br>
-	9. Joergfu (1:5)<br>
+	9. Yamamoto79 (0:1)<br>
+	10. rickss (1:4)<br>
 <br>
-33. #_Marik_ (1284) 0<br>
-+204|+169|+45|+37|+49|+42|-7|-13<br>
-	1. Nimsta (2:1)<br>
-	3. jacks0nh0le (0:1)<br>
-	5. DavidIggyLou (1:0)<br>
-	6. Vergilious (1:1)<br>
-<br>
-34. #aeyinc (1283) +3<br>
-+12|+1|+8|+35|+47|+15|+71|+44|+41|+4<br>
+33. #aeyinc (1282) -1<br>
++11|0|+7|+34|+46|+14|+69|+43|+40|+3<br>
 	4. GreatApple~214 (0:1)<br>
-	7. zeropoint (2:0)<br>
 	8. svircs (0:1)<br>
-	10. Starfleet (1:1)<br>
 <br>
-35. #BigPoppaNuts (1281) -3<br>
-+195|+113|+69|+25|+25|+8|+17|+3<br>
-	4. GreatApple~214 (1:0)<br>
-	6. Vergilious (1:0)<br>
-	8. svircs (1:0)<br>
-<br>
-36. #TheNorwegian (1279) +2<br>
-+138|+104|+87|+54|+19|-5|-7|+7|-20|+12<br>
-	6. Vergilious (0:3)<br>
-	7. zeropoint (1:1)<br>
-	9. Joergfu (1:0)<br>
-<br>
-37. #brondinmctie (1277) 0<br>
--13|-5|-23|-9|-26|-48|-43|-19|+26|+2<br>
+34. #brondinmctie (1280) +4<br>
+-9|-1|-19|-6|-22|-44|-39|-16|+30|+6<br>
 	1. Nimsta (0:1)<br>
 	3. jacks0nh0le (2:1)<br>
 	4. GreatApple~214 (0:6)<br>
-	9. Joergfu (0:1)<br>
-	10. Starfleet (1:0)<br>
+	7. Joergfu (0:1)<br>
+	8. svircs (1:0)<br>
+	10. rickss (1:0)<br>
 <br>
-38. #TangySoda~164 (1276) +12<br>
+35. #BigPoppaNuts (1280) -1<br>
++194|+112|+68|+24|+24|+7|+16|+2<br>
+	4. GreatApple~214 (1:0)<br>
+	6. Vergilious (1:0)<br>
+<br>
+36. #TheNorwegian (1279) 0<br>
++138|+104|+87|+54|+19|-5|-7|+7|-20|+12<br>
+	6. Vergilious (0:3)<br>
+	7. Joergfu (1:0)<br>
+	9. Yamamoto79 (1:0)<br>
+<br>
+37. #TangySoda~164 (1276) 0<br>
 +174|+89|+21|+7<br>
 	1. Nimsta (1:2)<br>
 	2. PEPrasetya (0:1)<br>
 	3. jacks0nh0le (0:2)<br>
-	4. GreatApple~214 (4:3)<br>
-	7. zeropoint (0:1)<br>
+	4. GreatApple~214 (2:1)<br>
 	8. svircs (3:1)<br>
-	9. Joergfu (0:4)<br>
-	10. Starfleet (1:0)<br>
+	10. rickss (1:0)<br>
 <br>
-39. #hamidrez (1275) +9<br>
--3|+23|+28|+26|+13|+3|-33|-3|+10|+36<br>
-	1. Nimsta (0:2)<br>
-	2. PEPrasetya (1:0)<br>
-	4. GreatApple~214 (1:1)<br>
-	5. DavidIggyLou (0:1)<br>
-	7. zeropoint (0:1)<br>
-<br>
-40. #dfyyxy (1273) -11<br>
-+30|+5|-10|-36|-2|+15|+12|+13|-17|-26<br>
-	1. Nimsta (6:5)<br>
-	3. jacks0nh0le (1:3)<br>
-	7. zeropoint (1:0)<br>
-	8. svircs (0:1)<br>
-	9. Joergfu (1:0)<br>
-	10. Starfleet (0:2)<br>
-<br>
-41. #enomeno (1270) +3<br>
-+163|+104|+88|+77|+53|+57|+50|+42|+44|+3<br>
-	1. Nimsta (1:2)<br>
-	5. DavidIggyLou (0:1)<br>
-	6. Vergilious (1:4)<br>
-<br>
-42. #xxjoshzxx (1269) 0<br>
-+28|+49|+8|+3|-53|-40|-42|-33|-21|+9<br>
-	1. Nimsta (2:3)<br>
-	5. DavidIggyLou (0:2)<br>
-	6. Vergilious (3:1)<br>
-	7. zeropoint (1:0)<br>
-	8. svircs (0:1)<br>
-	9. Joergfu (2:1)<br>
-	10. Starfleet (2:0)<br>
-<br>
-43. #olo (1268) +3<br>
-+28|+22|+4|+10|+30|+3|+9|-5|+11|+13<br>
-	3. jacks0nh0le (1:2)<br>
-	5. DavidIggyLou (1:0)<br>
-	6. Vergilious (1:0)<br>
-	8. svircs (3:2)<br>
-	9. Joergfu (1:0)<br>
-<br>
-44. #BillY_Patro (1268) +2<br>
-+176|+122|+74|+58|+37|+17|+16|+1<br>
+38. #BillY_Patro (1272) +4<br>
++180|+126|+78|+62|+41|+21|+20|+5<br>
 	1. Nimsta (3:6)<br>
 	2. PEPrasetya (1:0)<br>
 	4. GreatApple~214 (1:5)<br>
-	5. DavidIggyLou (2:1)<br>
+	5. DavidIggyLou (0:1)<br>
 	6. Vergilious (1:2)<br>
-	7. zeropoint (0:2)<br>
-	9. Joergfu (0:3)<br>
-	10. Starfleet (0:1)<br>
+	7. Joergfu (0:3)<br>
+	9. Yamamoto79 (2:1)<br>
 <br>
-45. #UNAGUY05 (1266) +14<br>
-+5|+53|+20|-17|+14|+25|-21|-25|-11|+1<br>
+39. #dfyyxy (1271) -2<br>
++28|+3|-12|-38|-3|+14|+11|+11|-19|-28<br>
+	1. Nimsta (1:2)<br>
+	3. jacks0nh0le (1:3)<br>
+	7. Joergfu (1:0)<br>
+	8. svircs (0:1)<br>
+	9. Yamamoto79 (0:1)<br>
+	10. rickss (1:0)<br>
+<br>
+40. #olo (1271) +3<br>
++31|+25|+7|+13|+33|+5|+11|-2|+14|+16<br>
+	3. jacks0nh0le (1:2)<br>
+	5. DavidIggyLou (1:0)<br>
+	6. Vergilious (1:0)<br>
+	7. Joergfu (1:0)<br>
+	8. svircs (3:2)<br>
+	10. rickss (1:0)<br>
+<br>
+41. #Buz (1265) +7<br>
+-36|-41|-8|-60|-22|-31|-20|+16|+44|+6<br>
+	1. Nimsta (1:5)<br>
+	2. PEPrasetya (0:3)<br>
+	3. jacks0nh0le (1:2)<br>
+	4. GreatApple~214 (1:3)<br>
+	5. DavidIggyLou (1:2)<br>
+	7. Joergfu (1:8)<br>
+	9. Yamamoto79 (4:1)<br>
+	10. rickss (2:3)<br>
+<br>
+42. #skeems (1265) 0<br>
+-1|+14|+12|-1|-10|-24|-16|-36|-26|-5<br>
+	1. Nimsta (1:5)<br>
+	3. jacks0nh0le (2:3)<br>
+	4. GreatApple~214 (0:7)<br>
+	5. DavidIggyLou (0:1)<br>
+	8. svircs (0:2)<br>
+	9. Yamamoto79 (1:0)<br>
+	10. rickss (1:4)<br>
+<br>
+43. #xxjoshzxx (1264) -5<br>
++23|+44|+3|-2|-58|-45|-47|-38|-26|+4<br>
+	1. Nimsta (2:3)<br>
+	4. GreatApple~214 (0:1)<br>
+	5. DavidIggyLou (0:2)<br>
+	6. Vergilious (3:1)<br>
+	7. Joergfu (2:1)<br>
+	8. svircs (0:1)<br>
+	9. Yamamoto79 (0:1)<br>
+	10. rickss (3:1)<br>
+<br>
+44. #stront01 (1262) +10<br>
++3|+16|-5|-22|+6|+12|+8|+4|+3|0<br>
+	1. Nimsta (3:6)<br>
+	2. PEPrasetya (0:2)<br>
+	3. jacks0nh0le (1:3)<br>
+	4. GreatApple~214 (2:4)<br>
+	5. DavidIggyLou (1:4)<br>
+	6. Vergilious (1:4)<br>
+	7. Joergfu (0:2)<br>
+	10. rickss (2:2)<br>
+<br>
+45. #enomeno (1261) -9<br>
++155|+95|+80|+68|+45|+48|+41|+33|+35|-6<br>
+	1. Nimsta (1:2)<br>
+	5. DavidIggyLou (0:1)<br>
+	6. Vergilious (1:4)<br>
+	9. Yamamoto79 (0:2)<br>
+<br>
+46. #shiftystop (1261) +6<br>
++224|+182|+110|+52|+41<br>
+	1. Nimsta (0:2)<br>
+	3. jacks0nh0le (0:1)<br>
+	8. svircs (0:2)<br>
+	10. rickss (0:1)<br>
+<br>
+47. #smurfa (1260) 0<br>
++43|+64|+74|+94|+19|+46|+39|+33|+24|+34<br>
+	1. Nimsta (1:0)<br>
+	4. GreatApple~214 (0:2)<br>
+	7. Joergfu (2:0)<br>
+	10. rickss (0:1)<br>
+<br>
+48. #UNAGUY05 (1260) -6<br>
+0|+48|+14|-22|+8|+20|-26|-30|-16|-5<br>
 	1. Nimsta (3:4)<br>
 	3. jacks0nh0le (0:1)<br>
 	4. GreatApple~214 (0:2)<br>
 	6. Vergilious (0:1)<br>
-	7. zeropoint (0:1)<br>
-	10. Starfleet (3:1)<br>
+	9. Yamamoto79 (1:1)<br>
 <br>
-46. #skeems (1265) 0<br>
--1|+14|+13|0|-9|-24|-16|-35|-26|-5<br>
-	1. Nimsta (2:5)<br>
-	3. jacks0nh0le (2:3)<br>
-	4. GreatApple~214 (0:7)<br>
-	5. DavidIggyLou (0:1)<br>
-	7. zeropoint (2:3)<br>
-	8. svircs (0:2)<br>
-<br>
-47. #themadox (1263) -5<br>
-+46|+57|+68|+52|+69|+25|+1|+34|+37|+20<br>
+49. #themadox (1260) -3<br>
++43|+54|+65|+49|+65|+22|-2|+31|+33|+17<br>
 	1. Nimsta (0:5)<br>
 	4. GreatApple~214 (0:2)<br>
 	6. Vergilious (3:5)<br>
+	7. Joergfu (1:0)<br>
 	8. svircs (0:1)<br>
-	9. Joergfu (1:0)<br>
+	10. rickss (1:1)<br>
 <br>
-48. #jerocco (1261) +11<br>
--2|-10|-8|-16|-8|+7|+52|+26|+9|+11<br>
-	1. Nimsta (1:2)<br>
-	3. jacks0nh0le (0:3)<br>
-	5. DavidIggyLou (1:1)<br>
-<br>
-49. #smurfa (1260) +7<br>
-+43|+64|+74|+94|+19|+46|+39|+33|+24|+34<br>
-	1. Nimsta (1:0)<br>
-	4. GreatApple~214 (0:2)<br>
-	8. svircs (1:1)<br>
-	9. Joergfu (2:0)<br>
-<br>
-50. #moonrocks (1259) +4<br>
-+21|-3|-5|+11|+20|+35|+10|+14|+30|0<br>
-	1. Nimsta (2:1)<br>
-	2. PEPrasetya (2:0)<br>
-	8. svircs (0:2)<br>
-	9. Joergfu (1:1)<br>
+50. #hamidrez (1259) -16<br>
+-19|+7|+12|+10|-3|-13|-48|-19|-6|+20<br>
+	1. Nimsta (0:2)<br>
+	2. PEPrasetya (1:0)<br>
+	4. GreatApple~214 (1:1)<br>
+	5. DavidIggyLou (0:1)<br>
 <br>
 51. #dIehAppY (1259) 0<br>
 +77|+39|-4|+2|-7|-18|+11|+21|-9|-10<br>
@@ -434,464 +452,473 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. GreatApple~214 (1:4)<br>
 	5. DavidIggyLou (0:1)<br>
 	6. Vergilious (1:0)<br>
-	7. zeropoint (1:2)<br>
 	8. svircs (0:1)<br>
-	10. Starfleet (1:0)<br>
+	9. Yamamoto79 (1:1)<br>
+	10. rickss (2:6)<br>
 <br>
-52. #Buz (1259) -9<br>
--42|-48|-15|-66|-28|-38|-26|+9|+37|0<br>
-	1. Nimsta (1:5)<br>
-	2. PEPrasetya (0:3)<br>
-	3. jacks0nh0le (1:2)<br>
-	4. GreatApple~214 (0:1)<br>
-	5. DavidIggyLou (0:2)<br>
-	7. zeropoint (3:4)<br>
-	9. Joergfu (1:8)<br>
-	10. Starfleet (2:4)<br>
+52. #moonrocks (1258) -1<br>
++20|-4|-6|+10|+19|+35|+9|+13|+29|-1<br>
+	1. Nimsta (2:1)<br>
+	2. PEPrasetya (2:0)<br>
+	7. Joergfu (1:1)<br>
+	10. rickss (0:1)<br>
 <br>
-53. #stront01 (1252) -4<br>
--7|+7|-15|-32|-4|+2|-2|-5|-6|-10<br>
-	1. Nimsta (3:6)<br>
-	2. PEPrasetya (0:2)<br>
-	3. jacks0nh0le (1:3)<br>
-	4. GreatApple~214 (1:4)<br>
-	5. DavidIggyLou (1:4)<br>
-	6. Vergilious (1:4)<br>
-	9. Joergfu (0:2)<br>
+53. #jerocco (1258) -4<br>
+-6|-14|-11|-20|-12|+3|+48|+23|+5|+7<br>
+	1. Nimsta (1:2)<br>
+	3. jacks0nh0le (0:3)<br>
+	5. DavidIggyLou (2:2)<br>
+	9. Yamamoto79 (1:0)<br>
+	10. rickss (1:2)<br>
 <br>
-54. #goldfinger (1249) +7<br>
--21|-18|-18|-21|-25|-58|-50|-66|-47|+6<br>
-	1. Nimsta (2:5)<br>
+54. #goldfinger (1257) +8<br>
+-10|-10|-14|-17|-50|-42|-58|-39|+14|+2<br>
+	1. Nimsta (0:2)<br>
 	3. jacks0nh0le (0:1)<br>
 	5. DavidIggyLou (0:2)<br>
 	6. Vergilious (1:1)<br>
+	7. Joergfu (1:3)<br>
 	8. svircs (3:0)<br>
-	9. Joergfu (1:3)<br>
+	9. Yamamoto79 (0:3)<br>
 <br>
-55. #mahone007 (1249) +7<br>
-+39|+55|+30|+36|+57|+56|-2|-3|+8|+4<br>
-	1. Nimsta (0:3)<br>
-	2. PEPrasetya (0:1)<br>
-	3. jacks0nh0le (0:1)<br>
-	9. Joergfu (1:0)<br>
-	10. Starfleet (0:2)<br>
-<br>
-56. #fleebjuice (1249) +10<br>
-+86|+47|-5|+7|+7<br>
-	1. Nimsta (1:1)<br>
-	4. GreatApple~214 (1:0)<br>
-	6. Vergilious (0:2)<br>
-	7. zeropoint (0:1)<br>
-	9. Joergfu (0:1)<br>
-<br>
-57. #tux111 (1247) +5<br>
-+134|+70|+19|+27|-3|-2|+19|+7<br>
-	1. Nimsta (0:1)<br>
-	8. svircs (0:2)<br>
-	10. Starfleet (0:1)<br>
-<br>
-58. #wizardtron (1247) -8<br>
+55. #wizardtron (1247) 0<br>
 +73|+28|+62|+42|+8|+21|-34|-4|-16|-4<br>
 	1. Nimsta (5:11)<br>
 	2. PEPrasetya (0:1)<br>
 	3. jacks0nh0le (1:0)<br>
-	4. GreatApple~214 (1:1)<br>
 	5. DavidIggyLou (0:2)<br>
 	6. Vergilious (2:1)<br>
 	8. svircs (2:0)<br>
+	9. Yamamoto79 (2:0)<br>
+	10. rickss (0:2)<br>
 <br>
-59. #tiger_style (1246) +7<br>
-+29|-11|-7|-46|-10|+2|+18|-3|+8|+1<br>
-	1. Nimsta (0:3)<br>
-	4. GreatApple~214 (0:1)<br>
-	5. DavidIggyLou (0:1)<br>
-	9. Joergfu (2:2)<br>
-	10. Starfleet (0:7)<br>
+56. #fleebjuice (1247) -2<br>
++84|+45|-7|+5|+5<br>
+	1. Nimsta (1:1)<br>
+	4. GreatApple~214 (1:0)<br>
+	6. Vergilious (0:2)<br>
+	7. Joergfu (0:1)<br>
+	9. Yamamoto79 (0:1)<br>
 <br>
-60. #LavishFauce~178 (1244) +6<br>
-+121|+85|+27<br>
-	1. Nimsta (2:6)<br>
-	2. PEPrasetya (3:3)<br>
-	3. jacks0nh0le (0:2)<br>
-	4. GreatApple~214 (0:5)<br>
-	7. zeropoint (1:0)<br>
-	8. svircs (1:3)<br>
-	9. Joergfu (0:1)<br>
-<br>
-61. #z.snafu (1242) -3<br>
--61|-59|-28|-27|-52|-64|-38|-34|-50|-4<br>
+57. #z.snafu (1247) +4<br>
+-56|-55|-24|-22|-47|-59|-34|-29|-45|0<br>
 	1. Nimsta (0:2)<br>
 	4. GreatApple~214 (1:1)<br>
 	6. Vergilious (0:2)<br>
 	8. svircs (0:1)<br>
+	10. rickss (0:1)<br>
 <br>
-62. #TinyOwl~323 (1241) +5<br>
-+18|-1|-6|-4|+13|+29|+35|+28|+18|-1<br>
-	1. Nimsta (9:20)<br>
-	3. jacks0nh0le (0:3)<br>
-	4. GreatApple~214 (0:6)<br>
-	6. Vergilious (0:2)<br>
-	8. svircs (1:0)<br>
-	9. Joergfu (3:3)<br>
-	10. Starfleet (0:2)<br>
-<br>
-63. #Dacar (1240) 0<br>
-+226|+201|+172|+95|+67|+5<br>
-	1. Nimsta (0:1)<br>
-<br>
-64. #Novacore (1239) +2<br>
-+204|+140|+89|+71|+37|+31|+24|+17|+5<br>
-	1. Nimsta (3:4)<br>
-	2. PEPrasetya (0:1)<br>
-	3. jacks0nh0le (2:4)<br>
-	4. GreatApple~214 (1:2)<br>
-	5. DavidIggyLou (1:2)<br>
-	7. zeropoint (0:2)<br>
-	8. svircs (0:1)<br>
-<br>
-65. #poner560 (1238) -1<br>
-+202|+138|+110|+73|+37|+17<br>
-	1. Nimsta (0:1)<br>
-	4. GreatApple~214 (0:3)<br>
-	9. Joergfu (0:1)<br>
-<br>
-66. #the-jk (1238) +12<br>
-+115|+42|+13|-11|0|-9|+40<br>
-	1. Nimsta (0:1)<br>
-	4. GreatApple~214 (1:2)<br>
+58. #tiger_style (1244) -2<br>
++27|-13|-9|-48|-12|0|+16|-5|+6|-1<br>
+	1. Nimsta (0:3)<br>
+	4. GreatApple~214 (0:1)<br>
 	5. DavidIggyLou (0:1)<br>
-	6. Vergilious (0:1)<br>
-	8. svircs (0:1)<br>
-	9. Joergfu (0:1)<br>
+	7. Joergfu (2:2)<br>
+	9. Yamamoto79 (0:1)<br>
+	10. rickss (0:1)<br>
 <br>
-67. #HairyBeetle~278 (1236) -6<br>
-+174|+102|+87|+38|0<br>
+59. #HairyBeetle~278 (1244) +7<br>
++181|+109|+94|+46|+7<br>
 	1. Nimsta (0:5)<br>
 	2. PEPrasetya (0:1)<br>
 	3. jacks0nh0le (2:0)<br>
 	5. DavidIggyLou (1:1)<br>
 	6. Vergilious (0:1)<br>
-	7. zeropoint (0:1)<br>
-	8. svircs (1:1)<br>
-	9. Joergfu (0:1)<br>
-	10. Starfleet (1:0)<br>
+	7. Joergfu (0:1)<br>
+	8. svircs (2:2)<br>
+	9. Yamamoto79 (0:1)<br>
+	10. rickss (0:1)<br>
 <br>
-68. #BDAT10 (1236) -1<br>
+60. #LavishFauce~178 (1241) -3<br>
++118|+82|+24<br>
+	1. Nimsta (2:6)<br>
+	2. PEPrasetya (3:3)<br>
+	3. jacks0nh0le (0:2)<br>
+	4. GreatApple~214 (0:5)<br>
+	7. Joergfu (0:1)<br>
+	9. Yamamoto79 (2:1)<br>
+	10. rickss (5:2)<br>
+<br>
+61. #Novacore (1240) 0<br>
++204|+140|+89|+71|+37|+31|+25|+17|+5<br>
+	1. Nimsta (3:4)<br>
+	2. PEPrasetya (0:1)<br>
+	3. jacks0nh0le (2:4)<br>
+	4. GreatApple~214 (1:2)<br>
+	5. DavidIggyLou (1:2)<br>
+	8. svircs (0:1)<br>
+<br>
+62. #the-jk (1238) 0<br>
++115|+42|+13|-11|0|-9|+40<br>
+	1. Nimsta (0:1)<br>
+	4. GreatApple~214 (1:2)<br>
+	5. DavidIggyLou (0:1)<br>
+	6. Vergilious (0:1)<br>
+	7. Joergfu (0:1)<br>
+	8. svircs (0:1)<br>
+<br>
+63. #mahone007 (1237) -12<br>
++26|+42|+18|+24|+45|+44|-14|-15|-4|-8<br>
+	1. Nimsta (0:3)<br>
+	2. PEPrasetya (0:1)<br>
+	3. jacks0nh0le (0:1)<br>
+	7. Joergfu (1:0)<br>
+	9. Yamamoto79 (0:1)<br>
+	10. rickss (2:1)<br>
+<br>
+64. #tigrenok026 (1236) +4<br>
++161|+91|+42|+19|-1<br>
+	1. Nimsta (1:7)<br>
+	2. PEPrasetya (0:2)<br>
+	6. Vergilious (0:1)<br>
+	7. Joergfu (0:1)<br>
+	10. rickss (1:1)<br>
+<br>
+65. #BDAT10 (1236) 0<br>
 -23|-52|-41|-21|-73|-45|-19|-16|-36|+7<br>
 	1. Nimsta (1:12)<br>
 	3. jacks0nh0le (2:2)<br>
 	4. GreatApple~214 (0:1)<br>
 	5. DavidIggyLou (3:1)<br>
 	6. Vergilious (1:0)<br>
-	9. Joergfu (1:4)<br>
-	10. Starfleet (0:1)<br>
 <br>
-69. #KimJong (1234) 0<br>
+66. #poner560 (1236) -2<br>
++199|+136|+108|+70|+34|+15<br>
+	1. Nimsta (0:1)<br>
+	4. GreatApple~214 (0:3)<br>
+	7. Joergfu (0:1)<br>
+	9. Yamamoto79 (1:0)<br>
+<br>
+67. #KimJong (1234) 0<br>
 +40|+16|-5|0|-36|-39|-3|+19|+17|+10<br>
-	1. Nimsta (0:2)<br>
+	1. Nimsta (0:1)<br>
 	2. PEPrasetya (2:1)<br>
 	6. Vergilious (1:4)<br>
-	7. zeropoint (0:1)<br>
+	7. Joergfu (1:2)<br>
 	8. svircs (0:3)<br>
-	9. Joergfu (1:2)<br>
-	10. Starfleet (2:1)<br>
+	9. Yamamoto79 (0:1)<br>
+	10. rickss (1:5)<br>
 <br>
-70. #tigrenok026 (1232) +1<br>
-+157|+88|+39|+15<br>
-	1. Nimsta (1:7)<br>
+68. #Dacar (1233) -7<br>
++219|+194|+164|+88|+60|-2<br>
+	1. Nimsta (0:1)<br>
+	9. Yamamoto79 (1:0)<br>
+<br>
+69. #drunkle (1233) +1<br>
++143|+92|+38<br>
+	1. Nimsta (2:4)<br>
 	2. PEPrasetya (0:2)<br>
-	6. Vergilious (0:1)<br>
-	9. Joergfu (0:1)<br>
-	10. Starfleet (0:1)<br>
+	6. Vergilious (0:3)<br>
 <br>
-71. #FreshKettle~130 (1232) 0<br>
+70. #FreshKettle~130 (1232) 0<br>
 +95|+54|+51|+9|+24|+33|+18|+57|+65|+14<br>
 	1. Nimsta (1:7)<br>
 	2. PEPrasetya (1:0)<br>
 	3. jacks0nh0le (1:2)<br>
 	4. GreatApple~214 (1:1)<br>
 	5. DavidIggyLou (0:1)<br>
+	7. Joergfu (1:0)<br>
 	8. svircs (0:2)<br>
-	9. Joergfu (1:0)<br>
+	10. rickss (0:1)<br>
 <br>
-72. #drunkle (1231) -3<br>
-+142|+90|+37<br>
-	1. Nimsta (3:4)<br>
-	2. PEPrasetya (0:2)<br>
-	6. Vergilious (0:3)<br>
-	7. zeropoint (2:1)<br>
+71. #TinyOwl~323 (1228) -14<br>
++4|-15|-20|-18|0|+15|+21|+14|+4|-15<br>
+	1. Nimsta (9:20)<br>
+	3. jacks0nh0le (0:3)<br>
+	4. GreatApple~214 (0:6)<br>
+	5. DavidIggyLou (0:2)<br>
+	6. Vergilious (0:2)<br>
+	7. Joergfu (3:3)<br>
+	8. svircs (1:0)<br>
+	9. Yamamoto79 (1:2)<br>
+	10. rickss (0:5)<br>
 <br>
-73. #sexflower69 (1225) +14<br>
-+104|+93|+82|+20|+29|+11|+20|+27|+36|+15<br>
+72. #aceofspa1234 (1227) +5<br>
++107<br>
+	4. GreatApple~214 (2:1)<br>
+	7. Joergfu (0:1)<br>
+	8. svircs (1:1)<br>
+<br>
+73. #sexflower69 (1222) -3<br>
++102|+90|+79|+17|+26|+8|+17|+25|+33|+12<br>
 	1. Nimsta (0:2)<br>
 	5. DavidIggyLou (0:1)<br>
 	6. Vergilious (2:1)<br>
-	9. Joergfu (2:1)<br>
+	7. Joergfu (2:1)<br>
+	10. rickss (0:1)<br>
 <br>
-74. #farzip (1223) -2<br>
--5|-4|-8|-35|-55|-39|-7|-10|-4|-6<br>
+74. #farzip (1222) -1<br>
+-6|-5|-9|-36|-56|-40|-9|-11|-5|-8<br>
 	1. Nimsta (2:2)<br>
 	2. PEPrasetya (0:1)<br>
 	4. GreatApple~214 (0:5)<br>
 	5. DavidIggyLou (0:1)<br>
-	7. zeropoint (2:1)<br>
+	7. Joergfu (0:1)<br>
 	8. svircs (0:1)<br>
-	9. Joergfu (0:1)<br>
 <br>
-75. #aceofspa1234 (1221) +4<br>
-+101<br>
-	4. GreatApple~214 (2:1)<br>
-	8. svircs (1:1)<br>
-	9. Joergfu (0:1)<br>
-<br>
-76. #shadybiz (1220) +1<br>
-+180|+114|+95|+72|+56|+40|+35|+20|-13|-13<br>
-	1. Nimsta (3:8)<br>
+75. #shadybiz (1218) -2<br>
++178|+113|+94|+70|+55|+39|+33|+18|-14|-15<br>
+	1. Nimsta (3:7)<br>
 	2. PEPrasetya (1:3)<br>
 	4. GreatApple~214 (2:4)<br>
 	5. DavidIggyLou (1:3)<br>
 	6. Vergilious (1:4)<br>
-	9. Joergfu (1:1)<br>
-	10. Starfleet (1:2)<br>
+	7. Joergfu (1:1)<br>
+	9. Yamamoto79 (2:1)<br>
+	10. rickss (0:1)<br>
 <br>
-77. #WiryFox~219 (1219) +10<br>
-+158|+91|+82|+74|+59|+78|+49|+38|-7<br>
+76. #WiryFox~219 (1216) -3<br>
++155|+88|+79|+71|+56|+76|+46|+35|-9<br>
 	1. Nimsta (1:1)<br>
 	4. GreatApple~214 (4:5)<br>
 	5. DavidIggyLou (1:0)<br>
 	6. Vergilious (0:1)<br>
-	7. zeropoint (1:1)<br>
+	10. rickss (1:0)<br>
 <br>
-78. #rotzo (1211) 0<br>
+77. #rotzo (1211) 0<br>
 +131|+93|+72|+22<br>
 	1. Nimsta (6:16)<br>
 	3. jacks0nh0le (0:5)<br>
 	4. GreatApple~214 (0:1)<br>
 	5. DavidIggyLou (0:4)<br>
 	6. Vergilious (1:1)<br>
-	7. zeropoint (0:1)<br>
+	7. Joergfu (0:1)<br>
 	8. svircs (1:1)<br>
-	9. Joergfu (0:1)<br>
+	9. Yamamoto79 (3:0)<br>
+	10. rickss (0:4)<br>
 <br>
-79. #zh2500464155 (1205) +10<br>
-+158|+58|+11|+5<br>
-	1. Nimsta (2:3)<br>
-	2. PEPrasetya (0:2)<br>
-	9. Joergfu (0:1)<br>
+78. #the_chemodan (1209) 0<br>
++140|+90|+73|+14|+5|-10<br>
+	4. GreatApple~214 (0:2)<br>
+	5. DavidIggyLou (1:2)<br>
+	6. Vergilious (1:1)<br>
+	9. Yamamoto79 (1:1)<br>
 <br>
-80. #faisal777 (1203) 0<br>
-+187|+112|+38|+25|-1<br>
+79. #GenPatton3 (1209) +16<br>
++127|+15<br>
+	1. Nimsta (9:3)<br>
+	2. PEPrasetya (4:1)<br>
+	4. GreatApple~214 (1:1)<br>
+	7. Joergfu (0:1)<br>
+<br>
+80. #faisal777 (1206) +3<br>
++190|+115|+41|+28|+2<br>
 	1. Nimsta (7:1)<br>
 	4. GreatApple~214 (0:1)<br>
 	6. Vergilious (2:0)<br>
-	7. zeropoint (1:2)<br>
+	7. Joergfu (0:1)<br>
 	8. svircs (0:1)<br>
-	9. Joergfu (0:1)<br>
-	10. Starfleet (1:3)<br>
+	10. rickss (2:2)<br>
 <br>
-81. #Star69lord (1199) +28<br>
-+192|+169|+96|+77|+63|+54|+3<br>
-	2. PEPrasetya (0:4)<br>
+81. #Star69lord (1205) +6<br>
++198|+174|+101|+83|+69|+60|+9<br>
+	2. PEPrasetya (1:5)<br>
+	4. GreatApple~214 (1:1)<br>
 	6. Vergilious (0:1)<br>
+	7. Joergfu (0:3)<br>
 	8. svircs (1:3)<br>
-	9. Joergfu (0:3)<br>
-	10. Starfleet (2:0)<br>
+	10. rickss (0:1)<br>
 <br>
-82. #xterra (1198) 0<br>
+82. #zh2500464155 (1203) -2<br>
++156|+56|+9|+3<br>
+	1. Nimsta (2:3)<br>
+	2. PEPrasetya (0:2)<br>
+	7. Joergfu (0:1)<br>
+	9. Yamamoto79 (1:0)<br>
+	10. rickss (0:1)<br>
+<br>
+83. #TidyFox~415 (1200) +2<br>
++145|+113|+94|+24|+16<br>
+	1. Nimsta (1:4)<br>
+	4. GreatApple~214 (0:1)<br>
+	8. svircs (1:0)<br>
+<br>
+84. #xterra (1198) 0<br>
 +116|+74|+60|+38|+3<br>
 	1. Nimsta (0:3)<br>
 	4. GreatApple~214 (2:5)<br>
 	5. DavidIggyLou (1:0)<br>
+	9. Yamamoto79 (0:1)<br>
 <br>
-83. #TidyFox~415 (1198) +15<br>
-+143|+111|+92|+22|+14<br>
-	1. Nimsta (1:4)<br>
-	4. GreatApple~214 (1:2)<br>
+85. #SpaceX (1194) +12<br>
++70<br>
+	1. Nimsta (4:11)<br>
+	2. PEPrasetya (0:1)<br>
+	4. GreatApple~214 (2:2)<br>
+	5. DavidIggyLou (0:1)<br>
+	7. Joergfu (0:1)<br>
 	8. svircs (1:0)<br>
-	10. Starfleet (0:1)<br>
+	9. Yamamoto79 (1:0)<br>
 <br>
-84. #GenPatton3 (1193) -3<br>
-+111|-1<br>
-	1. Nimsta (6:2)<br>
-	2. PEPrasetya (4:1)<br>
-	4. GreatApple~214 (1:1)<br>
-	9. Joergfu (0:1)<br>
-	10. Starfleet (1:0)<br>
+86. #Gungala (1192) +4<br>
++2|+29|+15|-12|-4|+4|+31|+15|-10|+6<br>
+	1. Nimsta (5:15)<br>
+	4. GreatApple~214 (0:1)<br>
+	5. DavidIggyLou (0:1)<br>
+	7. Joergfu (1:1)<br>
+	9. Yamamoto79 (1:3)<br>
 <br>
-85. #RockyStar~467 (1191) 0<br>
+87. #RockyStar~467 (1191) 0<br>
 +86|+89|+9|-6<br>
 	1. Nimsta (0:1)<br>
 	2. PEPrasetya (2:1)<br>
 	3. jacks0nh0le (0:3)<br>
 	5. DavidIggyLou (0:1)<br>
 	6. Vergilious (0:3)<br>
+	7. Joergfu (0:2)<br>
 	8. svircs (1:6)<br>
-	9. Joergfu (0:2)<br>
+	10. rickss (1:1)<br>
 <br>
-86. #Gungala (1188) -7<br>
--2|+25|+11|-16|-8|0|+27|+11|-14|+2<br>
-	1. Nimsta (4:13)<br>
-	4. GreatApple~214 (0:1)<br>
-	5. DavidIggyLou (0:1)<br>
-	7. zeropoint (1:2)<br>
-	9. Joergfu (1:1)<br>
-	10. Starfleet (0:6)<br>
-<br>
-87. #ShinyTemper~434 (1183) -7<br>
-+86|+45|+18|-42|-39|-37|-8|-11<br>
+88. #ShinyTemper~434 (1182) -1<br>
++85|+44|+17|-43|-39|-38|-9|-11<br>
 	1. Nimsta (1:5)<br>
 	2. PEPrasetya (1:4)<br>
 	4. GreatApple~214 (1:1)<br>
 	5. DavidIggyLou (0:2)<br>
 	6. Vergilious (0:1)<br>
-	7. zeropoint (1:0)<br>
 	8. svircs (0:1)<br>
+	10. rickss (0:1)<br>
 <br>
-88. #SpaceX (1182) +14<br>
-+59<br>
-	1. Nimsta (4:11)<br>
-	2. PEPrasetya (0:1)<br>
-	4. GreatApple~214 (2:2)<br>
-	5. DavidIggyLou (0:1)<br>
-	8. svircs (1:0)<br>
-	9. Joergfu (0:1)<br>
-<br>
-89. #TidyGoblin~169 (1176) -2<br>
+89. #TidyGoblin~169 (1176) 0<br>
 +10|+10|+25|+9|+23|+8|+45|+12|+2|-9<br>
+	7. Joergfu (1:1)<br>
 	8. svircs (4:4)<br>
-	9. Joergfu (1:1)<br>
 <br>
-90. #FlatMusic~785 (1175) -2<br>
-+19|+46|+42|+29|+27|+12|-1|-23|+4|+11<br>
+90. #FlatMusic~785 (1176) +1<br>
++20|+47|+44|+31|+28|+14|+1|-22|+5|+12<br>
 	1. Nimsta (1:1)<br>
 	3. jacks0nh0le (1:2)<br>
 	5. DavidIggyLou (1:0)<br>
-	9. Joergfu (0:2)<br>
+	7. Joergfu (0:2)<br>
 <br>
-91. #OneRing (1173) 0<br>
+91. #mandreas (1176) +5<br>
++109|+73<br>
+	1. Nimsta (3:4)<br>
+	4. GreatApple~214 (0:2)<br>
+	5. DavidIggyLou (2:0)<br>
+	6. Vergilious (0:1)<br>
+	9. Yamamoto79 (0:1)<br>
+<br>
+92. #OneRing (1173) 0<br>
 +88|+29<br>
 	1. Nimsta (2:4)<br>
 	3. jacks0nh0le (1:2)<br>
 	4. GreatApple~214 (3:4)<br>
 	6. Vergilious (0:1)<br>
-	7. zeropoint (0:2)<br>
 	8. svircs (2:2)<br>
+	9. Yamamoto79 (1:0)<br>
 <br>
-92. #mandreas (1171) +10<br>
-+104|+68<br>
-	1. Nimsta (3:4)<br>
-	4. GreatApple~214 (0:2)<br>
-	5. DavidIggyLou (2:0)<br>
+93. #JazzyJam~772 (1166) +7<br>
++37<br>
+	1. Nimsta (0:3)<br>
+	2. PEPrasetya (0:1)<br>
+	4. GreatApple~214 (1:1)<br>
 	6. Vergilious (0:1)<br>
-	7. zeropoint (0:1)<br>
 <br>
-93. #BraveShovel~508 (1160) -5<br>
+94. #Mika69 (1163) +3<br>
++91|+7|+2<br>
+	1. Nimsta (1:0)<br>
+	3. jacks0nh0le (0:1)<br>
+	4. GreatApple~214 (1:0)<br>
+	7. Joergfu (0:2)<br>
+<br>
+95. #BraveShovel~508 (1160) 0<br>
 +85|+45|+13|0|-2|-5<br>
 	1. Nimsta (2:2)<br>
 	2. PEPrasetya (1:3)<br>
 	3. jacks0nh0le (0:1)<br>
 	4. GreatApple~214 (0:3)<br>
 	5. DavidIggyLou (0:3)<br>
+	7. Joergfu (1:0)<br>
 	8. svircs (2:0)<br>
-	9. Joergfu (1:0)<br>
+	10. rickss (0:2)<br>
 <br>
-94. #Mika69 (1160) 0<br>
-+88|+4<br>
-	1. Nimsta (1:0)<br>
-	3. jacks0nh0le (0:1)<br>
+96. #scabz (1145) +9<br>
++100|+26|+18|-4|0|+7<br>
+	1. Nimsta (1:4)<br>
+	2. PEPrasetya (2:5)<br>
 	4. GreatApple~214 (1:0)<br>
-	9. Joergfu (0:2)<br>
+	9. Yamamoto79 (1:0)<br>
+	10. rickss (1:1)<br>
 <br>
-95. #JazzyJam~772 (1159) +4<br>
-+30<br>
-	1. Nimsta (0:3)<br>
-	2. PEPrasetya (0:1)<br>
-	6. Vergilious (0:1)<br>
-	10. Starfleet (1:3)<br>
-<br>
-96. #klumpy (1147) +4<br>
-+59<br>
+97. #klumpy (1143) -4<br>
++55<br>
 	1. Nimsta (3:7)<br>
 	2. PEPrasetya (1:2)<br>
 	3. jacks0nh0le (1:1)<br>
 	6. Vergilious (0:4)<br>
 	8. svircs (0:1)<br>
 <br>
-97. #Olliec (1144) +1<br>
-+134|+52|+49|+5|+14|+26|+3|-5|-22<br>
+98. #Olliec (1140) -4<br>
++130|+49|+45|+1|+10|+22|0|-9|-26<br>
 	1. Nimsta (1:2)<br>
 	4. GreatApple~214 (2:2)<br>
 	5. DavidIggyLou (1:1)<br>
 	6. Vergilious (1:1)<br>
+	9. Yamamoto79 (0:2)<br>
+	10. rickss (3:1)<br>
 <br>
-98. #SlickPine~286 (1137) -1<br>
+99. #SlickPine~286 (1137) 0<br>
 +107|+49|+7<br>
 	1. Nimsta (1:3)<br>
 	2. PEPrasetya (1:1)<br>
 	3. jacks0nh0le (0:1)<br>
+	7. Joergfu (1:0)<br>
 	8. svircs (0:4)<br>
-	9. Joergfu (1:0)<br>
-	10. Starfleet (1:2)<br>
+	9. Yamamoto79 (0:1)<br>
 <br>
-99. #scabz (1137) -16<br>
-+92|+18|+10|-12|-8<br>
-	1. Nimsta (1:4)<br>
-	2. PEPrasetya (1:4)<br>
-	4. GreatApple~214 (1:0)<br>
-	7. zeropoint (0:1)<br>
-	10. Starfleet (0:2)<br>
-<br>
-100. #collins20 (1136) 0<br>
-+25<br>
-	1. Nimsta (1:2)<br>
-	3. jacks0nh0le (0:1)<br>
-<br>
-101. #P90X (1134) +2<br>
-+65|0<br>
+100. #P90X (1136) +1<br>
++66|+1<br>
 	1. Nimsta (1:0)<br>
 	5. DavidIggyLou (0:1)<br>
 	8. svircs (0:1)<br>
 <br>
-102. #jacobpadova7 (1127) -2<br>
-+88|+22<br>
+101. #collins20 (1134) -2<br>
++23<br>
+	1. Nimsta (1:2)<br>
+	3. jacks0nh0le (0:1)<br>
+<br>
+102. #jacobpadova7 (1130) +3<br>
++91|+25<br>
 	4. GreatApple~214 (0:2)<br>
 	6. Vergilious (0:1)<br>
-	10. Starfleet (0:1)<br>
 <br>
-103. #cswhaha (1121) 0<br>
+103. #SlickErmine~247 (1126) +13<br>
++102|+30<br>
+	1. Nimsta (4:2)<br>
+	5. DavidIggyLou (0:1)<br>
+	6. Vergilious (0:1)<br>
+	8. svircs (1:0)<br>
+<br>
+104. #ShortDust~832 (1125) +5<br>
++16<br>
+	1. Nimsta (0:1)<br>
+	2. PEPrasetya (0:3)<br>
+	6. Vergilious (0:2)<br>
+	9. Yamamoto79 (0:2)<br>
+<br>
+105. #laviathon (1121) +3<br>
++44|+12<br>
+	1. Nimsta (4:8)<br>
+	4. GreatApple~214 (3:5)<br>
+	9. Yamamoto79 (1:2)<br>
+<br>
+106. #cswhaha (1121) 0<br>
 +79|+62|+61|+30|-9|-8|+4|-5<br>
 	1. Nimsta (0:4)<br>
 	2. PEPrasetya (1:3)<br>
 	4. GreatApple~214 (0:6)<br>
 	5. DavidIggyLou (0:1)<br>
 	8. svircs (0:1)<br>
+	10. rickss (2:1)<br>
 <br>
-104. #ShortDust~832 (1120) +34<br>
-+11<br>
-	1. Nimsta (0:1)<br>
-	2. PEPrasetya (0:3)<br>
-	6. Vergilious (0:2)<br>
-	10. Starfleet (0:1)<br>
-<br>
-105. #laviathon (1118) 0<br>
-+41|+9<br>
-	1. Nimsta (4:8)<br>
-	4. GreatApple~214 (3:5)<br>
-<br>
-106. #SlickErmine~247 (1113) +14<br>
-+89|+17<br>
-	1. Nimsta (4:2)<br>
-	5. DavidIggyLou (0:1)<br>
-	6. Vergilious (0:1)<br>
-<br>
-107. #LiquidShoe~680 (1112) +6<br>
-+12<br>
+107. #LiquidShoe~680 (1109) -3<br>
++9<br>
 	1. Nimsta (1:9)<br>
 	2. PEPrasetya (0:2)<br>
 	4. GreatApple~214 (0:1)<br>
 	6. Vergilious (0:1)<br>
 	8. svircs (1:0)<br>
-	10. Starfleet (0:1)<br>
 <br>
 108. #ShaggyWasp~457 (1102) 0<br>
 +58|+10<br>
@@ -899,18 +926,26 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. GreatApple~214 (0:1)<br>
 	5. DavidIggyLou (0:1)<br>
 	6. Vergilious (0:1)<br>
-	9. Joergfu (0:1)<br>
+	7. Joergfu (0:1)<br>
+	10. rickss (2:0)<br>
 <br>
-109. #dixmasher9 (1073) -2<br>
-+24<br>
+109. #dixmasher9 (1079) +6<br>
++30<br>
 	1. Nimsta (0:1)<br>
 	5. DavidIggyLou (0:1)<br>
 	6. Vergilious (0:1)<br>
-	7. zeropoint (0:3)<br>
 <br>
-110. #orenong (1044) -11<br>
--21|+6|+12|+21|+32|-22|-24|-14|-15|-4<br>
+110. #SourIsland~843 (1074) +4<br>
++21<br>
+	1. Nimsta (2:2)<br>
+	2. PEPrasetya (0:1)<br>
+	3. jacks0nh0le (0:1)<br>
+	4. GreatApple~214 (0:2)<br>
+	9. Yamamoto79 (0:1)<br>
+<br>
+111. #orenong (1048) +4<br>
+-17|+10|+16|+25|+36|-18|-20|-10|-11|0<br>
 	1. Nimsta (2:8)<br>
 	4. GreatApple~214 (0:1)<br>
 	8. svircs (0:5)<br>
-	10. Starfleet (1:0)<br>
+	9. Yamamoto79 (0:2)<br>
