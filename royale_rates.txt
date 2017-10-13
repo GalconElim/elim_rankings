@@ -1,5218 +1,5557 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #JazzyDeer (1426) -37<br>
-+340|+226|+137|+63|+7|-35|-41<br>
-	1. JazzyDeer (3:3)<br>
-	2. PotatFarmer (1:0)<br>
-	3. SloppyTea~932 (4:7)<br>
-	4. MadDookie (5:3)<br>
-	7. Vergilious (0:2)<br>
-	8. Foxylocks12 (4:2)<br>
-<br>
-2. #PotatFarmer (1398) 0<br>
+1. #PotatFarmer (1398) 0<br>
 +259|+146|+63|+1<br>
-	1. JazzyDeer (0:1)<br>
+	2. JazzyDeer (0:1)<br>
 <br>
-3. #SloppyTea~932 (1167) +16<br>
-+140|+117|+80|+49|+38|+20|+16<br>
-	1. JazzyDeer (7:4)<br>
-	4. MadDookie (47:35)<br>
-	5. bandy (4:4)<br>
-	7. Vergilious (25:11)<br>
-	8. Foxylocks12 (13:8)<br>
-	9. spookydoor (1:0)<br>
-<br>
-4. #MadDookie (1114) +22<br>
-+90|+73|+57|+51|+47|+26|+8<br>
-	1. JazzyDeer (3:5)<br>
-	3. SloppyTea~932 (35:47)<br>
-	5. bandy (2:2)<br>
-	7. Vergilious (3:3)<br>
-	8. Foxylocks12 (9:9)<br>
-<br>
-5. #bandy (1113) +1<br>
-+74|+56|+23|+8<br>
-	3. SloppyTea~932 (4:4)<br>
-	4. MadDookie (2:2)<br>
-	7. Vergilious (25:27)<br>
-	8. Foxylocks12 (0:1)<br>
-	9. spookydoor (2:5)<br>
-	10. ValveFury (4:1)<br>
-<br>
-6. #QuickFlute~539 (1107) 0<br>
-+85|+67|+53<br>
-	7. Vergilious (2:0)<br>
-	8. Foxylocks12 (3:1)<br>
-	9. spookydoor (8:5)<br>
-<br>
-7. #Vergilious (1105) +7<br>
-+81|+56|+42|+28|+16|+10|+8<br>
-	1. JazzyDeer (2:0)<br>
-	3. SloppyTea~932 (11:25)<br>
-	4. MadDookie (3:3)<br>
-	5. bandy (27:25)<br>
-	6. QuickFlute~539 (0:2)<br>
-	8. Foxylocks12 (1:3)<br>
-	9. spookydoor (6:14)<br>
-	10. ValveFury (8:5)<br>
-<br>
-8. #Foxylocks12 (1104) +35<br>
-+71|+43|+18<br>
-	1. JazzyDeer (2:4)<br>
-	3. SloppyTea~932 (8:13)<br>
-	4. MadDookie (9:9)<br>
-	5. bandy (1:0)<br>
-	6. QuickFlute~539 (1:3)<br>
-	7. Vergilious (3:1)<br>
-<br>
-9. #spookydoor (1103) +13<br>
-+69|+42|+15<br>
-	3. SloppyTea~932 (0:1)<br>
-	5. bandy (5:2)<br>
-	6. QuickFlute~539 (5:8)<br>
-	7. Vergilious (14:6)<br>
-	10. ValveFury (2:1)<br>
-<br>
-10. #ValveFury (1097) +1<br>
-+64|+1<br>
-	5. bandy (1:4)<br>
-	7. Vergilious (5:8)<br>
-	9. spookydoor (1:2)<br>
-<br>
-11. #SparkyPlane (1097) +7<br>
-+63|+17<br>
-	4. MadDookie (0:1)<br>
-	5. bandy (7:2)<br>
-	6. QuickFlute~539 (1:0)<br>
-	7. Vergilious (3:0)<br>
-	9. spookydoor (1:3)<br>
-	10. ValveFury (2:1)<br>
-<br>
-12. #Miniongalcon (1092) 0<br>
-+51|-1<br>
-	3. SloppyTea~932 (0:1)<br>
-	4. MadDookie (0:1)<br>
-	5. bandy (6:2)<br>
-	6. QuickFlute~539 (9:2)<br>
-	7. Vergilious (12:7)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-13. #AnkleBreaker (1090) +3<br>
-+68|+48|+39|+41|+23|+45|+9|+3<br>
-	1. JazzyDeer (2:3)<br>
-	3. SloppyTea~932 (5:10)<br>
-	4. MadDookie (4:5)<br>
-	5. bandy (7:7)<br>
-	6. QuickFlute~539 (1:1)<br>
-	7. Vergilious (14:16)<br>
-	8. Foxylocks12 (0:5)<br>
-	9. spookydoor (11:10)<br>
-	10. ValveFury (3:82)<br>
-<br>
-14. #steve333 (1087) +7<br>
-+66|+45|+25|-4|+8|+1<br>
-	5. bandy (5:5)<br>
-	6. QuickFlute~539 (10:18)<br>
-	7. Vergilious (2:2)<br>
-	9. spookydoor (7:19)<br>
-	10. ValveFury (6:1)<br>
-<br>
-15. #SpookyDoor~377 (1087) 0<br>
-+75|+51|+41|+29<br>
-	5. bandy (15:18)<br>
-	6. QuickFlute~539 (2:1)<br>
-	7. Vergilious (4:3)<br>
-	8. Foxylocks12 (0:2)<br>
-	10. ValveFury (2:1)<br>
-<br>
-16. #deezpeanutz (1083) +22<br>
-+45|+27|+8<br>
-	1. JazzyDeer (6:7)<br>
-	3. SloppyTea~932 (5:5)<br>
-	4. MadDookie (13:19)<br>
-	5. bandy (2:2)<br>
-	7. Vergilious (1:8)<br>
-	8. Foxylocks12 (2:1)<br>
-	9. spookydoor (0:2)<br>
-	10. ValveFury (5:3)<br>
-<br>
-17. #JOW44 (1082) -1<br>
-+39|+10<br>
-	5. bandy (1:4)<br>
-	6. QuickFlute~539 (6:3)<br>
-	7. Vergilious (4:1)<br>
-	9. spookydoor (0:5)<br>
-<br>
-18. #PRZEPRASZAM (1080) 0<br>
-+60<br>
-	4. MadDookie (4:16)<br>
-<br>
-19. #Parko (1079) +21<br>
-+44|+34<br>
-	3. SloppyTea~932 (6:1)<br>
-	4. MadDookie (1:0)<br>
-	5. bandy (2:1)<br>
-	6. QuickFlute~539 (0:1)<br>
-	7. Vergilious (5:6)<br>
-	8. Foxylocks12 (1:1)<br>
-	9. spookydoor (1:0)<br>
-<br>
-20. #RaggedApple~612 (1079) 0<br>
-+49|+26|+8<br>
-	5. bandy (6:7)<br>
-	6. QuickFlute~539 (13:10)<br>
-	7. Vergilious (5:4)<br>
-	9. spookydoor (9:4)<br>
-<br>
-21. #cHiCkEn- (1078) +26<br>
-+67|+58|+29<br>
-	1. JazzyDeer (1:3)<br>
-	3. SloppyTea~932 (3:12)<br>
-	4. MadDookie (0:1)<br>
-	5. bandy (3:1)<br>
+2. #JazzyDeer (1381) -44<br>
++296|+181|+93|+18|-37|-79|-85|-28<br>
+	1. PotatFarmer (1:0)<br>
+	2. JazzyDeer (3:3)<br>
+	3. SloppyTea~932 (7:11)<br>
+	5. MadDookie (20:11)<br>
 	7. Vergilious (0:2)<br>
-	8. Foxylocks12 (1:0)<br>
-	10. ValveFury (3:4)<br>
+	8. Matthew0898 (43:17)<br>
+	10. Foxylocks12 (4:2)<br>
 <br>
-22. #LELOFADEL111 (1078) 0<br>
-+72|+60|+38|+38|+28|+18|+4|+5|-5|0<br>
-	3. SloppyTea~932 (8:12)<br>
-	4. MadDookie (7:5)<br>
-	5. bandy (1:0)<br>
-	6. QuickFlute~539 (2:1)<br>
-	7. Vergilious (6:10)<br>
-	8. Foxylocks12 (3:5)<br>
-	9. spookydoor (0:2)<br>
-	10. ValveFury (3:2)<br>
+3. #SloppyTea~932 (1173) +6<br>
++146|+123|+86|+55|+44|+26|+22|+5<br>
+	2. JazzyDeer (11:7)<br>
+	4. bandy (4:4)<br>
+	5. MadDookie (49:37)<br>
+	6. spookydoor (1:0)<br>
+	7. Vergilious (28:12)<br>
+	8. Matthew0898 (43:28)<br>
+	10. Foxylocks12 (13:8)<br>
 <br>
-23. #Mae_1 (1075) 0<br>
-+77|+68|+41|+22|+13|+8|+2<br>
-	3. SloppyTea~932 (4:10)<br>
-	4. MadDookie (1:4)<br>
-	6. QuickFlute~539 (8:13)<br>
-	7. Vergilious (10:5)<br>
-	8. Foxylocks12 (5:6)<br>
-	9. spookydoor (1:1)<br>
-	10. ValveFury (3:0)<br>
+4. #bandy (1142) +29<br>
++103|+85|+52|+37|+5<br>
+	3. SloppyTea~932 (4:4)<br>
+	5. MadDookie (2:2)<br>
+	6. spookydoor (2:5)<br>
+	7. Vergilious (26:27)<br>
+	8. Matthew0898 (0:2)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-24. #Vato96 (1075) +17<br>
-+46|+21|+8<br>
-	3. SloppyTea~932 (4:7)<br>
-	4. MadDookie (2:5)<br>
-	5. bandy (0:2)<br>
+5. #MadDookie (1124) +10<br>
++99|+82|+67|+61|+56|+35|+18<br>
+	2. JazzyDeer (11:20)<br>
+	3. SloppyTea~932 (37:49)<br>
+	4. bandy (2:2)<br>
+	7. Vergilious (3:3)<br>
+	8. Matthew0898 (23:20)<br>
+	10. Foxylocks12 (9:9)<br>
+<br>
+6. #spookydoor (1120) +16<br>
++86|+59|+31|+12|+10<br>
+	3. SloppyTea~932 (0:1)<br>
+	4. bandy (5:2)<br>
+	7. Vergilious (14:6)<br>
+	9. QuickFlute~539 (5:8)<br>
+<br>
+7. #Vergilious (1113) +7<br>
++88|+64|+49|+35|+23|+17|+16<br>
+	2. JazzyDeer (2:0)<br>
+	3. SloppyTea~932 (12:28)<br>
+	4. bandy (27:26)<br>
+	5. MadDookie (3:3)<br>
+	6. spookydoor (6:14)<br>
+	8. Matthew0898 (7:9)<br>
+	9. QuickFlute~539 (0:2)<br>
+	10. Foxylocks12 (1:3)<br>
+<br>
+8. #Matthew0898 (1107) +34<br>
++85|+68|+53|+47|+46|+42|+40|+33|+6<br>
+	2. JazzyDeer (17:43)<br>
+	3. SloppyTea~932 (28:43)<br>
+	4. bandy (2:0)<br>
+	5. MadDookie (20:23)<br>
+	7. Vergilious (9:7)<br>
+	10. Foxylocks12 (15:9)<br>
+<br>
+9. #QuickFlute~539 (1107) 0<br>
++85|+67|+53<br>
+	6. spookydoor (8:5)<br>
+	7. Vergilious (2:0)<br>
+	10. Foxylocks12 (3:1)<br>
+<br>
+10. #Foxylocks12 (1104) 0<br>
++71|+43|+18<br>
+	2. JazzyDeer (2:4)<br>
+	3. SloppyTea~932 (8:13)<br>
+	4. bandy (1:0)<br>
+	5. MadDookie (9:9)<br>
 	7. Vergilious (3:1)<br>
-	8. Foxylocks12 (1:1)<br>
-	9. spookydoor (3:6)<br>
-	10. ValveFury (2:2)<br>
+	8. Matthew0898 (9:15)<br>
+	9. QuickFlute~539 (1:3)<br>
 <br>
-25. #PEPrasetya (1074) +3<br>
+11. #Miniongalcon (1100) +8<br>
++59|+7<br>
+	3. SloppyTea~932 (0:1)<br>
+	4. bandy (6:2)<br>
+	5. MadDookie (0:1)<br>
+	7. Vergilious (12:7)<br>
+	8. Matthew0898 (1:0)<br>
+	9. QuickFlute~539 (9:2)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+12. #SparkyPlane (1100) +3<br>
++66|+20<br>
+	4. bandy (7:2)<br>
+	5. MadDookie (0:1)<br>
+	6. spookydoor (1:3)<br>
+	7. Vergilious (3:0)<br>
+	9. QuickFlute~539 (1:0)<br>
+<br>
+13. #ValveFury (1097) -1<br>
++63|0<br>
+	4. bandy (1:4)<br>
+	6. spookydoor (1:2)<br>
+	7. Vergilious (5:8)<br>
+<br>
+14. #deezpeanutz (1096) +14<br>
++58|+41|+22<br>
+	2. JazzyDeer (11:12)<br>
+	3. SloppyTea~932 (5:5)<br>
+	4. bandy (3:2)<br>
+	5. MadDookie (18:21)<br>
+	6. spookydoor (0:2)<br>
+	7. Vergilious (1:8)<br>
+	10. Foxylocks12 (2:1)<br>
+<br>
+15. #AnkleBreaker (1090) 0<br>
++67|+48|+39|+40|+22|+45|+9|+2<br>
+	2. JazzyDeer (2:3)<br>
+	3. SloppyTea~932 (5:10)<br>
+	4. bandy (7:7)<br>
+	5. MadDookie (4:5)<br>
+	6. spookydoor (12:10)<br>
+	7. Vergilious (14:16)<br>
+	8. Matthew0898 (2:2)<br>
+	9. QuickFlute~539 (1:1)<br>
+	10. Foxylocks12 (0:5)<br>
+<br>
+16. #Mae_1 (1090) +14<br>
++92|+82|+55|+37|+28|+23|+16<br>
+	3. SloppyTea~932 (4:10)<br>
+	5. MadDookie (1:4)<br>
+	6. spookydoor (1:1)<br>
+	7. Vergilious (10:5)<br>
+	8. Matthew0898 (2:5)<br>
+	9. QuickFlute~539 (8:13)<br>
+	10. Foxylocks12 (5:6)<br>
+<br>
+17. #steve333 (1089) +2<br>
++68|+47|+26|-2|+9|+2|-7<br>
+	4. bandy (5:5)<br>
+	6. spookydoor (7:21)<br>
+	7. Vergilious (4:2)<br>
+	9. QuickFlute~539 (10:18)<br>
+<br>
+18. #SpookyDoor~377 (1087) 0<br>
++75|+51|+41|+29<br>
+	4. bandy (15:18)<br>
+	7. Vergilious (4:3)<br>
+	8. Matthew0898 (0:1)<br>
+	9. QuickFlute~539 (2:1)<br>
+	10. Foxylocks12 (0:2)<br>
+<br>
+19. #Vato96 (1086) +11<br>
++57|+32|+18<br>
+	3. SloppyTea~932 (4:7)<br>
+	4. bandy (0:2)<br>
+	5. MadDookie (2:5)<br>
+	6. spookydoor (7:7)<br>
+	7. Vergilious (3:1)<br>
+	8. Matthew0898 (0:3)<br>
+	10. Foxylocks12 (1:1)<br>
+<br>
+20. #cHiCkEn- (1082) +4<br>
++71|+62|+33|+3<br>
+	2. JazzyDeer (1:3)<br>
+	3. SloppyTea~932 (3:12)<br>
+	4. bandy (3:1)<br>
+	5. MadDookie (0:1)<br>
+	7. Vergilious (0:2)<br>
+	8. Matthew0898 (7:6)<br>
+	10. Foxylocks12 (1:0)<br>
+<br>
+21. #JOW44 (1082) 0<br>
++39|+10<br>
+	4. bandy (1:4)<br>
+	6. spookydoor (2:5)<br>
+	7. Vergilious (4:1)<br>
+	9. QuickFlute~539 (6:3)<br>
+<br>
+22. #RaggedApple~612 (1080) +2<br>
++50|+27|+9<br>
+	4. bandy (6:7)<br>
+	6. spookydoor (9:4)<br>
+	7. Vergilious (5:4)<br>
+	9. QuickFlute~539 (13:10)<br>
+<br>
+23. #PRZEPRASZAM (1080) 0<br>
++60<br>
+	5. MadDookie (4:16)<br>
+<br>
+24. #Parko (1079) 0<br>
++44|+33<br>
+	3. SloppyTea~932 (6:1)<br>
+	4. bandy (2:1)<br>
+	5. MadDookie (1:1)<br>
+	6. spookydoor (1:0)<br>
+	7. Vergilious (5:6)<br>
+	9. QuickFlute~539 (0:1)<br>
+	10. Foxylocks12 (1:1)<br>
+<br>
+25. #cocainedog (1079) +7<br>
++69|+58|+43|+41|+32|+21|+6|+7|+6<br>
+	2. JazzyDeer (5:6)<br>
+	3. SloppyTea~932 (22:19)<br>
+	4. bandy (2:8)<br>
+	5. MadDookie (24:30)<br>
+	6. spookydoor (8:7)<br>
+	7. Vergilious (8:4)<br>
+	8. Matthew0898 (13:13)<br>
+	9. QuickFlute~539 (3:4)<br>
+	10. Foxylocks12 (8:9)<br>
+<br>
+26. #WindyMit~547 (1079) +11<br>
++69|+56|+38|+22|+14<br>
+	2. JazzyDeer (0:3)<br>
+	3. SloppyTea~932 (7:7)<br>
+	4. bandy (2:2)<br>
+	5. MadDookie (1:3)<br>
+	7. Vergilious (2:3)<br>
+	8. Matthew0898 (4:3)<br>
+	9. QuickFlute~539 (10:11)<br>
+	10. Foxylocks12 (1:0)<br>
+<br>
+27. #PEPrasetya (1074) 0<br>
 +35|+10<br>
 	3. SloppyTea~932 (0:1)<br>
-	5. bandy (3:2)<br>
-	8. Foxylocks12 (1:2)<br>
-	9. spookydoor (2:4)<br>
+	4. bandy (3:2)<br>
+	6. spookydoor (2:4)<br>
+	10. Foxylocks12 (1:2)<br>
 <br>
-26. #Matthew0898 (1074) -1<br>
-+51|+34|+19|+13|+13|+8|+7|-1<br>
-	1. JazzyDeer (3:29)<br>
-	3. SloppyTea~932 (26:38)<br>
-	4. MadDookie (14:17)<br>
-	5. bandy (2:0)<br>
-	7. Vergilious (6:4)<br>
-	8. Foxylocks12 (15:9)<br>
-<br>
-27. #AppleDragon (1073) +3<br>
+28. #AppleDragon (1072) 0<br>
 +51|+19<br>
 	3. SloppyTea~932 (9:12)<br>
-	4. MadDookie (4:2)<br>
+	5. MadDookie (4:2)<br>
 	7. Vergilious (1:1)<br>
-	8. Foxylocks12 (3:1)<br>
+	10. Foxylocks12 (3:1)<br>
 <br>
-28. #cocainedog (1072) -1<br>
-+62|+50|+36|+34|+25|+14|-1|0<br>
-	1. JazzyDeer (0:1)<br>
-	3. SloppyTea~932 (20:18)<br>
-	4. MadDookie (23:26)<br>
-	5. bandy (2:8)<br>
-	6. QuickFlute~539 (3:4)<br>
-	7. Vergilious (8:4)<br>
-	8. Foxylocks12 (8:9)<br>
-	9. spookydoor (6:6)<br>
-	10. ValveFury (0:1)<br>
+29. #LELOFADEL111 (1072) -6<br>
++54|+32|+32|+22|+12|-2|-1|-11|-6|-3<br>
+	3. SloppyTea~932 (8:12)<br>
+	4. bandy (1:0)<br>
+	5. MadDookie (7:5)<br>
+	6. spookydoor (0:3)<br>
+	7. Vergilious (6:10)<br>
+	8. Matthew0898 (15:12)<br>
+	9. QuickFlute~539 (2:1)<br>
+	10. Foxylocks12 (3:5)<br>
 <br>
-29. #WindyMit~547 (1068) +5<br>
-+58|+46|+28|+11|+3<br>
-	1. JazzyDeer (0:3)<br>
-	3. SloppyTea~932 (6:7)<br>
-	4. MadDookie (1:3)<br>
-	5. bandy (2:2)<br>
-	6. QuickFlute~539 (10:11)<br>
-	7. Vergilious (2:3)<br>
-	8. Foxylocks12 (1:0)<br>
+30. #PursuitOfPow (1067) +14<br>
++39|+13|+12<br>
+	3. SloppyTea~932 (1:1)<br>
+	4. bandy (6:21)<br>
+	5. MadDookie (0:1)<br>
+	6. spookydoor (4:2)<br>
+	7. Vergilious (7:10)<br>
+	9. QuickFlute~539 (1:0)<br>
+	10. Foxylocks12 (1:5)<br>
 <br>
-30. #Buff-Plunts (1066) +8<br>
+31. #Buff-Plunts (1066) 0<br>
 +19<br>
 	7. Vergilious (0:1)<br>
+	8. Matthew0898 (3:2)<br>
 <br>
-31. #FinalFantasy (1066) 0<br>
-+35|+34|+21<br>
+32. #FinalFantasy (1065) 0<br>
++34|+34|+20<br>
 	3. SloppyTea~932 (0:5)<br>
-	4. MadDookie (0:1)<br>
+	4. bandy (1:0)<br>
+	5. MadDookie (0:1)<br>
 	7. Vergilious (1:0)<br>
-	8. Foxylocks12 (0:6)<br>
+	10. Foxylocks12 (0:6)<br>
 <br>
-32. #GO4chips (1064) -3<br>
-+48|+44|+21|-2<br>
-	1. JazzyDeer (0:1)<br>
-	3. SloppyTea~932 (3:11)<br>
-	4. MadDookie (8:17)<br>
-	5. bandy (1:3)<br>
-	6. QuickFlute~539 (1:1)<br>
-	7. Vergilious (4:2)<br>
-	8. Foxylocks12 (4:11)<br>
-	10. ValveFury (3:3)<br>
+33. #Joergfu (1065) +10<br>
++32|+15<br>
+	4. bandy (0:2)<br>
+	6. spookydoor (11:10)<br>
+	8. Matthew0898 (2:0)<br>
+	10. Foxylocks12 (1:0)<br>
 <br>
-33. #largeowl (1063) +2<br>
-+23<br>
-<br>
-34. #Tylermbcs16 (1058) +5<br>
-+40|+2<br>
-	1. JazzyDeer (3:5)<br>
-	4. MadDookie (2:1)<br>
-	5. bandy (1:2)<br>
+34. #Tylermbcs16 (1063) +5<br>
++45|+8<br>
+	2. JazzyDeer (4:13)<br>
+	4. bandy (1:2)<br>
+	5. MadDookie (2:1)<br>
+	6. spookydoor (2:1)<br>
 	7. Vergilious (7:3)<br>
-	8. Foxylocks12 (8:12)<br>
-	9. spookydoor (2:1)<br>
-	10. ValveFury (4:1)<br>
+	8. Matthew0898 (6:9)<br>
+	10. Foxylocks12 (8:12)<br>
 <br>
-35. #_Marik_ (1058) +5<br>
+35. #GO4chips (1062) -2<br>
++46|+42|+19|-3|+2|0<br>
+	2. JazzyDeer (4:22)<br>
+	3. SloppyTea~932 (4:14)<br>
+	4. bandy (1:3)<br>
+	5. MadDookie (9:20)<br>
+	7. Vergilious (4:4)<br>
+	8. Matthew0898 (6:25)<br>
+	9. QuickFlute~539 (1:1)<br>
+	10. Foxylocks12 (4:11)<br>
+<br>
+36. #largeowl (1061) -2<br>
++21|+1<br>
+<br>
+37. #wibbs (1059) +29<br>
++38|+6<br>
+	2. JazzyDeer (2:0)<br>
+	3. SloppyTea~932 (0:1)<br>
+	4. bandy (0:1)<br>
+	6. spookydoor (0:1)<br>
+	7. Vergilious (0:2)<br>
+	8. Matthew0898 (0:3)<br>
+	9. QuickFlute~539 (1:1)<br>
+	10. Foxylocks12 (0:2)<br>
+<br>
+38. #coaltrain (1059) +14<br>
++39|+24|+20<br>
+	4. bandy (2:2)<br>
+	6. spookydoor (10:5)<br>
+	7. Vergilious (2:6)<br>
+	9. QuickFlute~539 (4:3)<br>
+<br>
+39. #_Marik_ (1058) 0<br>
 +25|+12<br>
 	3. SloppyTea~932 (21:29)<br>
-	4. MadDookie (13:7)<br>
-	5. bandy (2:1)<br>
-	8. Foxylocks12 (5:1)<br>
+	4. bandy (2:1)<br>
+	5. MadDookie (13:7)<br>
+	8. Matthew0898 (30:21)<br>
+	10. Foxylocks12 (5:1)<br>
 <br>
-36. #Aicha2103 (1058) +2<br>
-<br>
-<br>
-37. #Fruitfox (1058) 0<br>
+40. #Fruitfox (1058) 0<br>
 <br>
 <br>
-38. #ATN (1056) +2<br>
-+29<br>
-	4. MadDookie (3:3)<br>
+41. #7paths (1057) +5<br>
++34|+25|+6<br>
+	4. bandy (4:16)<br>
+	5. MadDookie (5:9)<br>
+	6. spookydoor (0:3)<br>
+	7. Vergilious (7:7)<br>
+	9. QuickFlute~539 (2:2)<br>
+<br>
+42. #Aicha2103 (1056) -2<br>
+<br>
+<br>
+43. #ATN (1055) -2<br>
++27<br>
+	5. MadDookie (3:3)<br>
 	7. Vergilious (1:0)<br>
-	8. Foxylocks12 (1:3)<br>
+	8. Matthew0898 (2:2)<br>
+	10. Foxylocks12 (1:3)<br>
 <br>
-39. #Joergfu (1055) +6<br>
-+22|+5<br>
-	5. bandy (0:2)<br>
-	8. Foxylocks12 (1:0)<br>
-	9. spookydoor (5:10)<br>
-	10. ValveFury (2:1)<br>
-<br>
-40. #resistfate88 (1054) -5<br>
+44. #resistfate88 (1054) 0<br>
 +42|+35|+23|+17|-1<br>
 	3. SloppyTea~932 (8:19)<br>
-	4. MadDookie (6:14)<br>
-	5. bandy (0:5)<br>
+	4. bandy (0:5)<br>
+	5. MadDookie (6:14)<br>
+	6. spookydoor (0:1)<br>
 	7. Vergilious (1:5)<br>
-	8. Foxylocks12 (4:6)<br>
-	9. spookydoor (0:1)<br>
-	10. ValveFury (0:1)<br>
+	8. Matthew0898 (9:6)<br>
+	10. Foxylocks12 (4:6)<br>
 <br>
-41. #PursuitOfPow (1053) 0<br>
-+25|-1<br>
-	3. SloppyTea~932 (1:1)<br>
-	4. MadDookie (0:1)<br>
-	5. bandy (6:20)<br>
-	6. QuickFlute~539 (1:0)<br>
-	7. Vergilious (6:7)<br>
-	8. Foxylocks12 (1:5)<br>
-	9. spookydoor (3:2)<br>
+45. #JCC (1052) +7<br>
++7<br>
+	4. bandy (3:2)<br>
+	6. spookydoor (2:5)<br>
+	7. Vergilious (4:2)<br>
 <br>
-42. #7paths (1052) 0<br>
-+29|+20|+2<br>
-	4. MadDookie (5:9)<br>
-	5. bandy (4:16)<br>
-	6. QuickFlute~539 (2:2)<br>
-	7. Vergilious (3:3)<br>
-	9. spookydoor (0:3)<br>
-	10. ValveFury (1:5)<br>
+46. #fatbucket (1051) +1<br>
++18<br>
+	4. bandy (1:3)<br>
+	6. spookydoor (1:0)<br>
+	7. Vergilious (0:3)<br>
+	9. QuickFlute~539 (0:1)<br>
 <br>
-43. #bmvj (1051) 0<br>
-+34|+34|+13<br>
-	5. bandy (0:2)<br>
-	7. Vergilious (14:10)<br>
-	9. spookydoor (7:15)<br>
-	10. ValveFury (1:2)<br>
-<br>
-44. #PaMMiii (1050) +1<br>
-+29|+8<br>
-	1. JazzyDeer (0:16)<br>
-	3. SloppyTea~932 (11:9)<br>
-	4. MadDookie (5:4)<br>
-	5. bandy (0:2)<br>
-	6. QuickFlute~539 (1:0)<br>
-	7. Vergilious (6:6)<br>
-	8. Foxylocks12 (2:3)<br>
-<br>
-45. #sAmA (1050) 0<br>
+47. #sAmA (1050) 0<br>
 +28<br>
 	3. SloppyTea~932 (1:1)<br>
-	4. MadDookie (0:1)<br>
+	5. MadDookie (0:1)<br>
+	6. spookydoor (2:1)<br>
 	7. Vergilious (2:2)<br>
-	8. Foxylocks12 (2:0)<br>
-	9. spookydoor (2:1)<br>
+	8. Matthew0898 (6:3)<br>
+	10. Foxylocks12 (2:0)<br>
 <br>
-46. #fatbucket (1050) +7<br>
-+17<br>
-	5. bandy (1:3)<br>
-	6. QuickFlute~539 (0:1)<br>
-	7. Vergilious (0:3)<br>
-	9. spookydoor (1:0)<br>
+48. #a_caesar (1050) +4<br>
++33|+15|+14|+4<br>
+	4. bandy (1:10)<br>
+	6. spookydoor (4:3)<br>
+	7. Vergilious (6:5)<br>
+	9. QuickFlute~539 (4:12)<br>
 <br>
-47. #posteriora (1047) +6<br>
-+23|+10<br>
-	9. spookydoor (0:1)<br>
+49. #PaMMiii (1049) -1<br>
++28|+7<br>
+	2. JazzyDeer (0:16)<br>
+	3. SloppyTea~932 (11:9)<br>
+	4. bandy (0:2)<br>
+	5. MadDookie (5:4)<br>
+	7. Vergilious (6:7)<br>
+	8. Matthew0898 (8:11)<br>
+	9. QuickFlute~539 (1:0)<br>
+	10. Foxylocks12 (2:3)<br>
 <br>
-48. #MaltonnA (1047) +2<br>
+50. #SOfa_kingDOM (1048) +1<br>
++13|+7<br>
+	3. SloppyTea~932 (2:4)<br>
+	6. spookydoor (2:5)<br>
+	7. Vergilious (11:7)<br>
+	8. Matthew0898 (3:3)<br>
+	9. QuickFlute~539 (1:2)<br>
+	10. Foxylocks12 (1:0)<br>
+<br>
+51. #bmvj (1047) -3<br>
++30|+30|+9|-1<br>
+	4. bandy (0:2)<br>
+	6. spookydoor (7:19)<br>
+	7. Vergilious (14:10)<br>
+<br>
+52. #MaltonnA (1047) 0<br>
 +25|-2<br>
+	2. JazzyDeer (0:1)<br>
 	7. Vergilious (2:2)<br>
-	8. Foxylocks12 (2:3)<br>
+	10. Foxylocks12 (2:3)<br>
 <br>
-49. #BillyDanger (1047) 0<br>
+53. #BillyDanger (1047) 0<br>
 +10|-3<br>
 	3. SloppyTea~932 (1:4)<br>
-	4. MadDookie (2:3)<br>
+	5. MadDookie (2:3)<br>
 	7. Vergilious (1:1)<br>
+	8. Matthew0898 (6:7)<br>
 <br>
-50. #SOfa_kingDOM (1047) +1<br>
-+12|+6<br>
-	3. SloppyTea~932 (2:4)<br>
-	6. QuickFlute~539 (1:2)<br>
-	7. Vergilious (10:7)<br>
-	8. Foxylocks12 (1:0)<br>
-	9. spookydoor (0:3)<br>
+54. #posteriora (1046) -1<br>
++22|+9<br>
+	6. spookydoor (1:5)<br>
 <br>
-51. #a_caesar (1046) +11<br>
-+29|+11|+9|0<br>
-	5. bandy (1:10)<br>
-	6. QuickFlute~539 (4:12)<br>
-	7. Vergilious (6:4)<br>
-	9. spookydoor (4:3)<br>
+55. #Uranus-98 (1045) +5<br>
++38|+34|+30|+4<br>
+	2. JazzyDeer (3:13)<br>
+	3. SloppyTea~932 (18:24)<br>
+	5. MadDookie (17:21)<br>
+	8. Matthew0898 (13:11)<br>
+	10. Foxylocks12 (2:1)<br>
 <br>
-52. #coaltrain (1045) +7<br>
-+26|+10|+6<br>
-	5. bandy (2:2)<br>
-	6. QuickFlute~539 (4:3)<br>
-	7. Vergilious (2:6)<br>
-	9. spookydoor (3:3)<br>
-	10. ValveFury (0:1)<br>
-<br>
-53. #JCC (1045) 0<br>
--1<br>
-	5. bandy (3:2)<br>
-	7. Vergilious (4:2)<br>
-	9. spookydoor (2:5)<br>
-<br>
-54. #heynongman (1044) +3<br>
+56. #heynongman (1044) 0<br>
 +12<br>
 <br>
-55. #Disguise (1044) 0<br>
+57. #Disguise (1044) 0<br>
 +16<br>
 	3. SloppyTea~932 (0:6)<br>
-	4. MadDookie (0:1)<br>
-	8. Foxylocks12 (0:2)<br>
+	5. MadDookie (0:1)<br>
+	8. Matthew0898 (1:1)<br>
+	10. Foxylocks12 (0:2)<br>
 <br>
-56. #Nymn24 (1044) 0<br>
+58. #Nymn24 (1044) 0<br>
 +15|+18|+18|-1|-16|-9<br>
 	3. SloppyTea~932 (4:3)<br>
+	6. spookydoor (0:1)<br>
 	7. Vergilious (2:6)<br>
-	8. Foxylocks12 (1:1)<br>
-	9. spookydoor (0:1)<br>
+	8. Matthew0898 (0:1)<br>
+	10. Foxylocks12 (1:1)<br>
 <br>
-57. #bigdave82 (1043) +2<br>
+59. #HairyBeetle~278 (1043) +4<br>
++11<br>
+<br>
+60. #bigdave82 (1043) 0<br>
 0<br>
-	5. bandy (1:1)<br>
-	6. QuickFlute~539 (4:4)<br>
+	4. bandy (1:1)<br>
+	6. spookydoor (3:4)<br>
 	7. Vergilious (0:3)<br>
-	9. spookydoor (3:4)<br>
+	9. QuickFlute~539 (4:4)<br>
 <br>
-58. #Fluffywolf (1043) 0<br>
+61. #Fluffywolf (1043) 0<br>
 +20<br>
-	5. bandy (2:1)<br>
+	4. bandy (2:1)<br>
+	6. spookydoor (4:3)<br>
 	7. Vergilious (2:0)<br>
-	8. Foxylocks12 (1:0)<br>
-	9. spookydoor (4:3)<br>
-	10. ValveFury (2:1)<br>
+	8. Matthew0898 (1:2)<br>
+	10. Foxylocks12 (1:0)<br>
 <br>
-59. #Shadowblaze. (1042) 0<br>
+62. #Shadowblaze. (1042) 0<br>
 +1<br>
-	1. JazzyDeer (1:2)<br>
+	2. JazzyDeer (1:2)<br>
 <br>
-60. #edache22 (1040) 0<br>
+63. #Artimal_PL (1041) +4<br>
++26|+9<br>
+	4. bandy (3:8)<br>
+	6. spookydoor (0:1)<br>
+	7. Vergilious (10:13)<br>
+	9. QuickFlute~539 (0:2)<br>
+<br>
+64. #A-n-u-b-i-s (1041) +6<br>
++30|+20|+8<br>
+	3. SloppyTea~932 (17:18)<br>
+	5. MadDookie (5:7)<br>
+	8. Matthew0898 (30:27)<br>
+	10. Foxylocks12 (1:1)<br>
+<br>
+65. #edache22 (1040) 0<br>
 +32|+4<br>
-	1. JazzyDeer (0:1)<br>
+	2. JazzyDeer (0:1)<br>
 	3. SloppyTea~932 (5:9)<br>
-	4. MadDookie (20:26)<br>
+	5. MadDookie (20:26)<br>
 	7. Vergilious (3:0)<br>
+	8. Matthew0898 (3:1)<br>
 <br>
-61. #Uranus-98 (1040) -1<br>
-+34|+29|+25|-1<br>
-	1. JazzyDeer (0:12)<br>
-	3. SloppyTea~932 (18:24)<br>
-	4. MadDookie (15:19)<br>
-	8. Foxylocks12 (2:1)<br>
-<br>
-62. #kittengod22 (1039) +1<br>
-+3<br>
-	4. MadDookie (4:6)<br>
-	7. Vergilious (1:1)<br>
-	8. Foxylocks12 (2:3)<br>
-<br>
-63. #HairyBeetle~278 (1039) +1<br>
-+7<br>
-<br>
-64. #amMIN (1039) -1<br>
-+22|0<br>
-	4. MadDookie (0:1)<br>
-	5. bandy (0:1)<br>
-	7. Vergilious (2:2)<br>
-	8. Foxylocks12 (1:3)<br>
-	10. ValveFury (0:1)<br>
-<br>
-65. #Gyrfa1con (1038) +2<br>
+66. #Gyrfa1con (1040) +2<br>
 <br>
 	3. SloppyTea~932 (2:1)<br>
-	10. ValveFury (1:0)<br>
 <br>
-66. #Bastet (1038) 0<br>
-<br>
-<br>
-67. #Artimal_PL (1037) 0<br>
-+22|+5<br>
-	5. bandy (3:8)<br>
-	6. QuickFlute~539 (0:2)<br>
-	7. Vergilious (10:13)<br>
-	9. spookydoor (0:1)<br>
-<br>
-68. #M-711 (1037) +3<br>
-+19|+5|+3<br>
-	3. SloppyTea~932 (4:11)<br>
-	4. MadDookie (1:3)<br>
-	7. Vergilious (0:5)<br>
-	8. Foxylocks12 (1:2)<br>
-<br>
-69. #shaidar (1036) +1<br>
-+16|+1<br>
-	4. MadDookie (0:2)<br>
-	5. bandy (0:1)<br>
-	7. Vergilious (5:14)<br>
-	8. Foxylocks12 (0:1)<br>
-	9. spookydoor (9:4)<br>
-<br>
-70. #ace95 (1036) +1<br>
-+18|-3<br>
-	5. bandy (2:2)<br>
-	6. QuickFlute~539 (1:1)<br>
+67. #kittengod22 (1039) 0<br>
++3<br>
+	5. MadDookie (4:6)<br>
 	7. Vergilious (1:1)<br>
-	8. Foxylocks12 (1:1)<br>
-	9. spookydoor (0:8)<br>
+	8. Matthew0898 (5:2)<br>
+	10. Foxylocks12 (2:3)<br>
 <br>
-71. #A-n-u-b-i-s (1035) +1<br>
-+24|+14|+3<br>
-	3. SloppyTea~932 (15:16)<br>
-	4. MadDookie (5:7)<br>
-	8. Foxylocks12 (1:1)<br>
+68. #ki1laz0 (1039) +4<br>
++5<br>
+	4. bandy (0:2)<br>
+	5. MadDookie (0:1)<br>
+	9. QuickFlute~539 (0:1)<br>
+	10. Foxylocks12 (0:2)<br>
 <br>
-72. #iceking99 (1035) +1<br>
-+48|+20<br>
+69. #amMIN (1039) 0<br>
++22|0<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (0:1)<br>
+	7. Vergilious (2:2)<br>
+	8. Matthew0898 (1:1)<br>
+	10. Foxylocks12 (1:3)<br>
+<br>
+70. #hyoshy (1038) +14<br>
++30|+1<br>
+	3. SloppyTea~932 (2:5)<br>
+	4. bandy (4:4)<br>
+	5. MadDookie (1:2)<br>
+	6. spookydoor (3:1)<br>
+	7. Vergilious (1:1)<br>
+	8. Matthew0898 (1:0)<br>
+	9. QuickFlute~539 (5:2)<br>
+<br>
+71. #HollowHoppe~374 (1038) +4<br>
++31|+28|+13|+3<br>
+	3. SloppyTea~932 (0:1)<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (1:1)<br>
+	6. spookydoor (1:0)<br>
+	7. Vergilious (1:3)<br>
+	8. Matthew0898 (12:11)<br>
+	10. Foxylocks12 (4:4)<br>
+<br>
+72. #Bastet (1038) 0<br>
+<br>
+<br>
+73. #hugepope2137 (1038) +15<br>
++36|+14<br>
+	4. bandy (3:2)<br>
+	7. Vergilious (0:5)<br>
+	8. Matthew0898 (3:6)<br>
+	10. Foxylocks12 (1:7)<br>
+<br>
+74. #RaggedZebra (1037) +5<br>
++23|+10|+16|-1<br>
+	3. SloppyTea~932 (1:4)<br>
+	4. bandy (2:10)<br>
+	5. MadDookie (1:2)<br>
+	6. spookydoor (3:6)<br>
+	7. Vergilious (5:3)<br>
+	8. Matthew0898 (2:1)<br>
+	9. QuickFlute~539 (0:2)<br>
+	10. Foxylocks12 (1:5)<br>
+<br>
+75. #shaidar (1037) +1<br>
++17|+2<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (0:2)<br>
+	6. spookydoor (9:4)<br>
+	7. Vergilious (5:14)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+76. #iceking99 (1037) +2<br>
++50|+22<br>
 	3. SloppyTea~932 (0:11)<br>
-	4. MadDookie (3:5)<br>
+	5. MadDookie (3:5)<br>
+	6. spookydoor (1:0)<br>
 	7. Vergilious (0:1)<br>
-	9. spookydoor (1:0)<br>
 <br>
-73. #ki1laz0 (1035) +2<br>
-+1<br>
-	4. MadDookie (0:1)<br>
-	5. bandy (0:2)<br>
-	6. QuickFlute~539 (0:1)<br>
-	8. Foxylocks12 (0:2)<br>
+77. #nazia13 (1036) +2<br>
++15|+12<br>
+	2. JazzyDeer (3:2)<br>
+	3. SloppyTea~932 (4:12)<br>
+	5. MadDookie (1:5)<br>
+	6. spookydoor (0:1)<br>
+	8. Matthew0898 (5:9)<br>
+	9. QuickFlute~539 (5:6)<br>
+	10. Foxylocks12 (1:0)<br>
 <br>
-74. #doeish (1034) 0<br>
+78. #playin4keeps (1036) +3<br>
++7|0<br>
+	2. JazzyDeer (3:2)<br>
+	3. SloppyTea~932 (0:4)<br>
+	5. MadDookie (4:9)<br>
+	7. Vergilious (4:0)<br>
+	8. Matthew0898 (10:2)<br>
+	10. Foxylocks12 (1:0)<br>
+<br>
+79. #M-711 (1036) -1<br>
++18|+4|+2<br>
+	2. JazzyDeer (0:1)<br>
+	3. SloppyTea~932 (4:11)<br>
+	5. MadDookie (1:3)<br>
+	7. Vergilious (0:5)<br>
+	8. Matthew0898 (0:3)<br>
+	10. Foxylocks12 (1:2)<br>
+<br>
+80. #ace95 (1036) 0<br>
++18|-3<br>
+	4. bandy (2:2)<br>
+	6. spookydoor (0:8)<br>
+	7. Vergilious (1:1)<br>
+	9. QuickFlute~539 (1:1)<br>
+	10. Foxylocks12 (1:1)<br>
+<br>
+81. #doeish (1034) 0<br>
 +23|+6<br>
 	3. SloppyTea~932 (7:12)<br>
-	4. MadDookie (18:14)<br>
-	8. Foxylocks12 (0:1)<br>
+	5. MadDookie (18:14)<br>
+	8. Matthew0898 (15:14)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-75. #nazia13 (1034) +6<br>
-+13|+10<br>
-	1. JazzyDeer (1:0)<br>
-	3. SloppyTea~932 (4:12)<br>
-	4. MadDookie (1:5)<br>
-	6. QuickFlute~539 (5:6)<br>
-	8. Foxylocks12 (1:0)<br>
-	9. spookydoor (0:1)<br>
-<br>
-76. #HollowHoppe~374 (1034) -1<br>
-+27|+24|+9|-1<br>
-	3. SloppyTea~932 (0:1)<br>
-	4. MadDookie (1:1)<br>
-	5. bandy (0:1)<br>
-	7. Vergilious (1:3)<br>
-	8. Foxylocks12 (4:4)<br>
-	9. spookydoor (1:0)<br>
-<br>
-77. #AuroraX (1033) 0<br>
-<br>
-<br>
-78. #croissant (1033) 0<br>
-+10<br>
-	9. spookydoor (1:0)<br>
-<br>
-79. #Rawz (1033) 0<br>
-+20|+3<br>
-	1. JazzyDeer (0:1)<br>
-	3. SloppyTea~932 (1:0)<br>
-<br>
-80. #playin4keeps (1033) -1<br>
-+4|-3<br>
-	1. JazzyDeer (1:1)<br>
-	3. SloppyTea~932 (0:4)<br>
-	4. MadDookie (2:9)<br>
-	7. Vergilious (4:0)<br>
-	8. Foxylocks12 (1:0)<br>
-<br>
-81. #RaggedZebra (1032) +4<br>
-+18|+5|+12<br>
-	3. SloppyTea~932 (0:3)<br>
-	4. MadDookie (1:2)<br>
-	5. bandy (2:9)<br>
-	6. QuickFlute~539 (0:2)<br>
-	7. Vergilious (3:3)<br>
-	8. Foxylocks12 (1:5)<br>
-	9. spookydoor (1:3)<br>
-	10. ValveFury (2:1)<br>
-<br>
-82. #flabjack (1032) -3<br>
-+21|+6<br>
-	3. SloppyTea~932 (1:1)<br>
-	4. MadDookie (1:1)<br>
-	5. bandy (1:1)<br>
-	7. Vergilious (2:3)<br>
-	9. spookydoor (1:2)<br>
-	10. ValveFury (2:1)<br>
-<br>
-83. #LevelWalrus~485 (1031) 0<br>
-+8|+7<br>
-	5. bandy (3:4)<br>
-	6. QuickFlute~539 (0:2)<br>
-	7. Vergilious (4:6)<br>
-	9. spookydoor (3:1)<br>
-	10. ValveFury (2:2)<br>
-<br>
-84. #wibbs (1030) +6<br>
-+9<br>
-	1. JazzyDeer (2:0)<br>
-	3. SloppyTea~932 (0:1)<br>
-	5. bandy (0:1)<br>
-	6. QuickFlute~539 (1:1)<br>
-	7. Vergilious (0:2)<br>
-	8. Foxylocks12 (0:2)<br>
-	9. spookydoor (0:1)<br>
-<br>
-85. #FIREREMIX (1030) 0<br>
-<br>
-	6. QuickFlute~539 (3:1)<br>
-	10. ValveFury (0:1)<br>
-<br>
-86. #Jamesking135 (1030) +14<br>
-+21<br>
-	3. SloppyTea~932 (2:2)<br>
-	5. bandy (1:2)<br>
-	7. Vergilious (1:6)<br>
-	9. spookydoor (4:3)<br>
-<br>
-87. #CrazyVest~284 (1030) +2<br>
-+1<br>
-	5. bandy (0:1)<br>
-<br>
-88. #im_GORY (1030) +4<br>
-+14<br>
-	3. SloppyTea~932 (3:1)<br>
-	4. MadDookie (5:2)<br>
-	7. Vergilious (2:2)<br>
-	10. ValveFury (1:1)<br>
-<br>
-89. #blankedout (1029) +3<br>
-<br>
-<br>
-90. #darth_jesse (1029) +5<br>
-+22<br>
-	1. JazzyDeer (0:4)<br>
-	3. SloppyTea~932 (0:3)<br>
-	4. MadDookie (3:8)<br>
-	5. bandy (0:3)<br>
-	6. QuickFlute~539 (2:0)<br>
-	7. Vergilious (2:3)<br>
-	8. Foxylocks12 (0:1)<br>
-	10. ValveFury (1:0)<br>
-<br>
-91. #NOVA-HEFTIG (1029) 0<br>
-0<br>
-	4. MadDookie (1:2)<br>
-	8. Foxylocks12 (0:2)<br>
-<br>
-92. #timogen (1028) +3<br>
-+26|+8<br>
-	3. SloppyTea~932 (3:4)<br>
-	4. MadDookie (3:3)<br>
-	6. QuickFlute~539 (1:1)<br>
-	7. Vergilious (1:0)<br>
-	8. Foxylocks12 (0:3)<br>
-	10. ValveFury (2:1)<br>
-<br>
-93. #TimDebJon (1028) +2<br>
-+22|+16|+12<br>
-	1. JazzyDeer (0:4)<br>
-	3. SloppyTea~932 (3:6)<br>
-	4. MadDookie (3:6)<br>
-	7. Vergilious (1:4)<br>
-	8. Foxylocks12 (1:2)<br>
-<br>
-94. #thedude (1027) 0<br>
-+3<br>
-<br>
-95. #HTALAQI (1027) -1<br>
+82. #croissant (1034) +1<br>
 +11<br>
+	6. spookydoor (1:0)<br>
+<br>
+83. #AuroraX (1033) 0<br>
+<br>
+<br>
+84. #jacks0nh0le (1033) +9<br>
+0<br>
+	9. QuickFlute~539 (3:5)<br>
+<br>
+85. #LevelWalrus~485 (1033) +2<br>
++10|+9<br>
+	4. bandy (3:4)<br>
+	6. spookydoor (4:4)<br>
+	7. Vergilious (4:6)<br>
+	9. QuickFlute~539 (0:2)<br>
+<br>
+86. #Rawz (1033) 0<br>
++20|+3<br>
+	2. JazzyDeer (0:1)<br>
+	3. SloppyTea~932 (1:0)<br>
+	8. Matthew0898 (13:3)<br>
+<br>
+87. #Starfleet (1033) +10<br>
++18|+4<br>
+	4. bandy (5:4)<br>
+	5. MadDookie (0:4)<br>
+	6. spookydoor (3:9)<br>
+	7. Vergilious (4:3)<br>
+	8. Matthew0898 (0:1)<br>
+	9. QuickFlute~539 (4:4)<br>
+<br>
+88. #darth_jesse (1032) +3<br>
++25|+1<br>
+	2. JazzyDeer (1:7)<br>
+	3. SloppyTea~932 (0:3)<br>
+	4. bandy (0:3)<br>
+	5. MadDookie (4:11)<br>
+	7. Vergilious (2:3)<br>
+	8. Matthew0898 (5:6)<br>
+	9. QuickFlute~539 (2:0)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+89. #im_GORY (1032) +3<br>
++17<br>
+	3. SloppyTea~932 (3:1)<br>
+	5. MadDookie (5:2)<br>
+	7. Vergilious (2:2)<br>
+	8. Matthew0898 (4:2)<br>
+<br>
+90. #blankedout (1032) +3<br>
+<br>
+<br>
+91. #flabjack (1031) 0<br>
++21|+6<br>
+	2. JazzyDeer (0:1)<br>
 	3. SloppyTea~932 (1:1)<br>
-	4. MadDookie (1:1)<br>
-	10. ValveFury (1:1)<br>
+	4. bandy (1:1)<br>
+	5. MadDookie (1:1)<br>
+	6. spookydoor (1:2)<br>
+	7. Vergilious (2:3)<br>
+	8. Matthew0898 (8:3)<br>
 <br>
-96. #james--- (1027) 0<br>
+92. #mojojojo1937 (1031) +7<br>
++32|+10<br>
+	3. SloppyTea~932 (0:8)<br>
+	4. bandy (1:0)<br>
+	6. spookydoor (0:2)<br>
+	7. Vergilious (0:3)<br>
+	8. Matthew0898 (2:2)<br>
+	9. QuickFlute~539 (0:4)<br>
 <br>
-	4. MadDookie (0:6)<br>
-	5. bandy (1:1)<br>
+93. #TimDebJon (1030) +3<br>
++24|+19|+14<br>
+	2. JazzyDeer (0:4)<br>
+	3. SloppyTea~932 (3:7)<br>
+	5. MadDookie (3:6)<br>
+	7. Vergilious (1:4)<br>
+	8. Matthew0898 (10:13)<br>
+	10. Foxylocks12 (1:2)<br>
 <br>
-97. #oPs_0ps (1026) -1<br>
+94. #FIREREMIX (1030) 0<br>
+<br>
+	9. QuickFlute~539 (3:1)<br>
+<br>
+95. #SignorJoSaf (1030) +6<br>
+<br>
+	6. spookydoor (1:0)<br>
+<br>
+96. #Saggycrayon (1030) +8<br>
++30<br>
+	3. SloppyTea~932 (8:5)<br>
+	5. MadDookie (3:5)<br>
+	7. Vergilious (1:0)<br>
+	8. Matthew0898 (7:2)<br>
+	9. QuickFlute~539 (1:3)<br>
+	10. Foxylocks12 (1:4)<br>
+<br>
+97. #MAKki (1030) +6<br>
+<br>
+	4. bandy (3:1)<br>
+	7. Vergilious (4:3)<br>
+	9. QuickFlute~539 (1:3)<br>
+<br>
+98. #CrazyVest~284 (1030) 0<br>
++1<br>
+	4. bandy (0:1)<br>
+<br>
+99. #NOVA-HEFTIG (1029) 0<br>
+0<br>
+	5. MadDookie (1:2)<br>
+	8. Matthew0898 (1:1)<br>
+	10. Foxylocks12 (0:2)<br>
+<br>
+100. #timogen (1028) 0<br>
++27|+8<br>
+	3. SloppyTea~932 (3:4)<br>
+	5. MadDookie (3:3)<br>
+	7. Vergilious (1:0)<br>
+	8. Matthew0898 (2:6)<br>
+	9. QuickFlute~539 (1:1)<br>
+	10. Foxylocks12 (0:3)<br>
+<br>
+101. #BrownPaint~258 (1028) +15<br>
+<br>
+<br>
+102. #Jamesking135 (1028) -1<br>
++20<br>
+	3. SloppyTea~932 (2:2)<br>
+	4. bandy (1:3)<br>
+	6. spookydoor (4:3)<br>
+	7. Vergilious (1:6)<br>
+	8. Matthew0898 (1:0)<br>
+<br>
+103. #ScaryJam-406 (1028) +5<br>
+<br>
+	6. spookydoor (1:1)<br>
+	9. QuickFlute~539 (1:2)<br>
+<br>
+104. #WarmShoe~212 (1028) +5<br>
+<br>
+	4. bandy (2:0)<br>
+	6. spookydoor (1:0)<br>
+	7. Vergilious (2:0)<br>
+<br>
+105. #bandits22 (1027) +10<br>
++2<br>
+	3. SloppyTea~932 (1:2)<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (1:1)<br>
+<br>
+106. #thedude (1027) 0<br>
++3<br>
+	8. Matthew0898 (0:5)<br>
+<br>
+107. #Almarcha (1027) +1<br>
++18|+1<br>
+	2. JazzyDeer (3:1)<br>
+	3. SloppyTea~932 (0:2)<br>
+	4. bandy (1:2)<br>
+	5. MadDookie (1:2)<br>
+	6. spookydoor (3:0)<br>
+	7. Vergilious (3:5)<br>
+	8. Matthew0898 (1:3)<br>
+	10. Foxylocks12 (1:2)<br>
+<br>
+108. #james--- (1027) 0<br>
+<br>
+	4. bandy (1:1)<br>
+	5. MadDookie (0:6)<br>
+<br>
+109. #sjehsan (1026) +1<br>
++13|+4<br>
+	2. JazzyDeer (2:1)<br>
+	3. SloppyTea~932 (7:10)<br>
+	4. bandy (1:4)<br>
+	5. MadDookie (4:11)<br>
+	8. Matthew0898 (2:2)<br>
+	10. Foxylocks12 (0:2)<br>
+<br>
+110. #oPs_0ps (1026) 0<br>
 +6<br>
+	2. JazzyDeer (0:1)<br>
 	3. SloppyTea~932 (1:1)<br>
-	4. MadDookie (2:4)<br>
+	5. MadDookie (2:4)<br>
 	7. Vergilious (0:1)<br>
+	8. Matthew0898 (1:0)<br>
 <br>
-98. #Jdpont (1026) 0<br>
+111. #Jdpont (1026) 0<br>
 +13|+5|0<br>
 	3. SloppyTea~932 (0:4)<br>
-	4. MadDookie (0:1)<br>
-	5. bandy (0:1)<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (0:1)<br>
+	8. Matthew0898 (1:12)<br>
 <br>
-99. #Worthless (1026) +7<br>
-+12<br>
-	6. QuickFlute~539 (3:0)<br>
-	7. Vergilious (7:6)<br>
-	8. Foxylocks12 (1:1)<br>
+112. #GaudyWeasel (1026) +3<br>
++1<br>
+	4. bandy (1:2)<br>
+	5. MadDookie (0:1)<br>
+	7. Vergilious (1:1)<br>
+	8. Matthew0898 (0:1)<br>
+	9. QuickFlute~539 (8:9)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-100. #Almarcha (1026) +12<br>
+113. #jewpiter (1026) 0<br>
+<br>
+<br>
+114. #TedTheoLogan (1026) +16<br>
 +17<br>
-	1. JazzyDeer (2:0)<br>
 	3. SloppyTea~932 (0:2)<br>
-	4. MadDookie (0:1)<br>
-	5. bandy (1:2)<br>
-	7. Vergilious (3:4)<br>
-	8. Foxylocks12 (1:2)<br>
-	9. spookydoor (3:0)<br>
-	10. ValveFury (0:1)<br>
-<br>
-101. #jewpiter (1026) 0<br>
-<br>
-<br>
-102. #sjehsan (1026) +2<br>
-+12|+3<br>
-	3. SloppyTea~932 (7:10)<br>
-	4. MadDookie (4:11)<br>
-	5. bandy (1:4)<br>
-	8. Foxylocks12 (0:2)<br>
-<br>
-103. #FARzard (1025) 0<br>
-+19<br>
-	3. SloppyTea~932 (1:6)<br>
-	4. MadDookie (1:4)<br>
-	7. Vergilious (1:6)<br>
-	8. Foxylocks12 (0:3)<br>
-<br>
-104. #MojoRising (1025) -1<br>
-+16<br>
-	3. SloppyTea~932 (3:10)<br>
-	5. bandy (0:1)<br>
-	7. Vergilious (3:4)<br>
-<br>
-105. #SignorJoSaf (1025) 0<br>
-<br>
-<br>
-106. #mojojojo1937 (1024) +15<br>
-+25|+3<br>
-	3. SloppyTea~932 (0:8)<br>
-	5. bandy (1:0)<br>
-	6. QuickFlute~539 (0:4)<br>
-	7. Vergilious (0:3)<br>
-	9. spookydoor (0:2)<br>
-<br>
-107. #cheetahJP (1024) +5<br>
-<br>
-	3. SloppyTea~932 (0:2)<br>
-<br>
-108. #hyoshy (1024) +6<br>
-+16<br>
-	3. SloppyTea~932 (2:5)<br>
-	4. MadDookie (1:2)<br>
-	5. bandy (2:4)<br>
-	6. QuickFlute~539 (5:2)<br>
-	7. Vergilious (1:1)<br>
-	9. spookydoor (1:0)<br>
-<br>
-109. #jacks0nh0le (1024) +4<br>
-<br>
-	6. QuickFlute~539 (3:5)<br>
-<br>
-110. #MAKki (1024) 0<br>
-<br>
-	5. bandy (3:1)<br>
-	6. QuickFlute~539 (1:3)<br>
-	7. Vergilious (4:3)<br>
-<br>
-111. #sappysock (1023) 0<br>
-<br>
-	5. bandy (3:5)<br>
-	7. Vergilious (1:3)<br>
-	10. ValveFury (0:1)<br>
-<br>
-112. #WateryApple~232 (1023) +7<br>
-+29|+20|+7<br>
-	1. JazzyDeer (0:1)<br>
-	4. MadDookie (1:1)<br>
-	7. Vergilious (0:2)<br>
-	8. Foxylocks12 (0:2)<br>
-<br>
-113. #Starfleet (1023) +1<br>
-+8<br>
-	4. MadDookie (0:4)<br>
-	5. bandy (1:1)<br>
-	6. QuickFlute~539 (4:4)<br>
-	7. Vergilious (4:3)<br>
-	9. spookydoor (3:9)<br>
-<br>
-114. #hugepope2137 (1023) +16<br>
-+21<br>
-	5. bandy (0:2)<br>
-	7. Vergilious (0:5)<br>
-	8. Foxylocks12 (1:7)<br>
-<br>
-115. #GaudyWeasel (1023) +5<br>
-<br>
-	4. MadDookie (0:1)<br>
-	5. bandy (1:2)<br>
-	6. QuickFlute~539 (8:9)<br>
-	7. Vergilious (1:1)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-116. #WarmShoe~212 (1023) +5<br>
-<br>
-	5. bandy (2:0)<br>
-	7. Vergilious (2:0)<br>
-	9. spookydoor (1:0)<br>
-<br>
-117. #ScaryJam-406 (1023) +3<br>
-<br>
-	6. QuickFlute~539 (1:2)<br>
-	9. spookydoor (1:1)<br>
-<br>
-118. #Saggycrayon (1023) 0<br>
-+23<br>
-	3. SloppyTea~932 (8:5)<br>
-	4. MadDookie (3:5)<br>
-	6. QuickFlute~539 (1:3)<br>
-	7. Vergilious (1:0)<br>
-	8. Foxylocks12 (1:4)<br>
-	10. ValveFury (1:0)<br>
-<br>
-119. #GoOody (1022) 0<br>
-<br>
-	6. QuickFlute~539 (7:7)<br>
-<br>
-120. #zamrai (1022) 0<br>
-<br>
-<br>
-121. #ccgn (1022) 0<br>
-+2<br>
-	5. bandy (1:0)<br>
-	6. QuickFlute~539 (9:12)<br>
-	9. spookydoor (0:4)<br>
-<br>
-122. #VeryRedShark (1022) +1<br>
-<br>
-	5. bandy (3:2)<br>
-	7. Vergilious (3:0)<br>
-<br>
-123. #sharifbang94 (1022) +4<br>
-+11|+5<br>
-	3. SloppyTea~932 (1:2)<br>
-	4. MadDookie (1:1)<br>
-	7. Vergilious (5:7)<br>
-	8. Foxylocks12 (1:1)<br>
-	9. spookydoor (0:3)<br>
-<br>
-124. #jeetu (1021) -4<br>
--5|-3<br>
-	1. JazzyDeer (0:3)<br>
-	3. SloppyTea~932 (4:13)<br>
-	6. QuickFlute~539 (0:1)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-125. #Jacob1998 (1021) 0<br>
-+8<br>
-	3. SloppyTea~932 (1:4)<br>
-	4. MadDookie (0:4)<br>
-	9. spookydoor (2:3)<br>
-<br>
-126. #Dragonscife (1021) 0<br>
-<br>
-	3. SloppyTea~932 (0:1)<br>
-	5. bandy (3:5)<br>
-	7. Vergilious (2:2)<br>
-	8. Foxylocks12 (2:1)<br>
-<br>
-127. #Terces (1021) 0<br>
-<br>
-	6. QuickFlute~539 (3:1)<br>
-	7. Vergilious (2:2)<br>
-<br>
-128. #Khael- (1021) +1<br>
-+3<br>
-	3. SloppyTea~932 (1:2)<br>
-	4. MadDookie (13:15)<br>
-	8. Foxylocks12 (2:2)<br>
-<br>
-129. #ForReal (1021) 0<br>
-0<br>
-	3. SloppyTea~932 (1:1)<br>
-	4. MadDookie (4:3)<br>
-	7. Vergilious (0:1)<br>
-<br>
-130. #batousai (1021) 0<br>
-+1|-3<br>
-	4. MadDookie (1:2)<br>
-	8. Foxylocks12 (0:3)<br>
-<br>
-131. #BigPoppaNuts (1021) -1<br>
--1<br>
-	5. bandy (0:2)<br>
-<br>
-132. #JMan8080 (1020) +3<br>
-<br>
-	3. SloppyTea~932 (2:4)<br>
-	4. MadDookie (0:1)<br>
-	5. bandy (2:1)<br>
-<br>
-133. #midKnight. (1019) +5<br>
-<br>
-	3. SloppyTea~932 (0:2)<br>
-	6. QuickFlute~539 (2:0)<br>
-	7. Vergilious (2:0)<br>
-<br>
-134. #likeag66 (1019) 0<br>
-+5<br>
-	3. SloppyTea~932 (4:8)<br>
-	4. MadDookie (3:5)<br>
-	5. bandy (1:1)<br>
-	7. Vergilious (0:1)<br>
-	8. Foxylocks12 (1:1)<br>
-<br>
-135. #GroovyHam (1019) +1<br>
-+10|+1<br>
-	5. bandy (4:5)<br>
-	6. QuickFlute~539 (2:8)<br>
-	7. Vergilious (1:3)<br>
-	9. spookydoor (0:1)<br>
-<br>
-136. #DubZz_23 (1019) +2<br>
-+15|+4|0<br>
-	5. bandy (4:10)<br>
-	6. QuickFlute~539 (3:4)<br>
-	7. Vergilious (2:5)<br>
-	8. Foxylocks12 (2:0)<br>
-	9. spookydoor (1:18)<br>
-	10. ValveFury (3:5)<br>
-<br>
-137. #cricric (1019) 0<br>
-<br>
-	9. spookydoor (3:2)<br>
-<br>
-138. #AceofGame (1019) 0<br>
-<br>
-<br>
-139. #milkyway (1018) 0<br>
-<br>
-	3. SloppyTea~932 (0:2)<br>
-	5. bandy (0:2)<br>
-	9. spookydoor (1:1)<br>
-<br>
-140. #Andy65536 (1018) 0<br>
-<br>
-	3. SloppyTea~932 (1:2)<br>
-<br>
-141. #theAceofGame (1018) 0<br>
-+15<br>
-	4. MadDookie (0:3)<br>
-	7. Vergilious (3:4)<br>
-	8. Foxylocks12 (1:2)<br>
-<br>
-142. #SpookyIslan~329 (1018) -1<br>
-<br>
-	3. SloppyTea~932 (1:0)<br>
-<br>
-143. #eggleung1995 (1018) 0<br>
-<br>
-<br>
-144. #stront01 (1018) 0<br>
-<br>
-<br>
-145. #FluffyHand (1017) +6<br>
-+6<br>
-	6. QuickFlute~539 (0:4)<br>
-	7. Vergilious (0:1)<br>
-	9. spookydoor (1:4)<br>
-<br>
-146. #Revonn (1017) 0<br>
--1<br>
-	4. MadDookie (3:5)<br>
-<br>
-147. #bandits22 (1017) +5<br>
-<br>
-	3. SloppyTea~932 (1:2)<br>
-	4. MadDookie (1:1)<br>
-	5. bandy (0:1)<br>
-<br>
-148. #Nekrik (1017) 0<br>
-<br>
-<br>
-149. #x-Carbon-x (1017) 0<br>
-<br>
-	5. bandy (0:2)<br>
-<br>
-150. #florihupf (1017) -3<br>
-0|-17|-2<br>
-	3. SloppyTea~932 (3:16)<br>
-	4. MadDookie (1:1)<br>
-	5. bandy (1:4)<br>
-	6. QuickFlute~539 (0:2)<br>
-	7. Vergilious (2:2)<br>
-	8. Foxylocks12 (0:2)<br>
-	9. spookydoor (2:0)<br>
-	10. ValveFury (2:0)<br>
-<br>
-151. #gea (1017) 0<br>
-+2<br>
-	3. SloppyTea~932 (9:13)<br>
-	4. MadDookie (2:2)<br>
-	7. Vergilious (3:4)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-152. #Mutation- (1017) +8<br>
-+3<br>
-	1. JazzyDeer (0:3)<br>
-	3. SloppyTea~932 (0:1)<br>
-	4. MadDookie (0:1)<br>
-	5. bandy (1:2)<br>
-	8. Foxylocks12 (0:2)<br>
-<br>
-153. #TrickyFlame~859 (1017) 0<br>
-<br>
-	3. SloppyTea~932 (1:1)<br>
-	4. MadDookie (1:1)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-154. #Lolicon4life (1016) 0<br>
-<br>
-<br>
-155. #ERider (1016) +2<br>
-<br>
-	5. bandy (1:0)<br>
+	4. bandy (0:5)<br>
+	6. spookydoor (1:1)<br>
 	7. Vergilious (1:2)<br>
 <br>
-156. #GERALAN (1015) 0<br>
+115. #HTALAQI (1026) -1<br>
++10<br>
+	3. SloppyTea~932 (1:1)<br>
+	5. MadDookie (1:1)<br>
+	8. Matthew0898 (0:1)<br>
 <br>
-	9. spookydoor (0:2)<br>
+116. #GroovyHam (1025) +6<br>
++16|+7<br>
+	4. bandy (4:5)<br>
+	6. spookydoor (0:1)<br>
+	7. Vergilious (1:3)<br>
+	9. QuickFlute~539 (2:8)<br>
 <br>
-157. #djr987 (1015) 0<br>
-<br>
-	3. SloppyTea~932 (0:4)<br>
-	4. MadDookie (1:2)<br>
-	5. bandy (0:1)<br>
-	7. Vergilious (0:2)<br>
-	9. spookydoor (2:1)<br>
-<br>
-158. #CsAsTra (1015) +3<br>
-+7<br>
-	1. JazzyDeer (0:9)<br>
-	3. SloppyTea~932 (1:0)<br>
-	5. bandy (2:0)<br>
-	7. Vergilious (1:0)<br>
-<br>
-159. #olaf2 (1015) +7<br>
-<br>
-	6. QuickFlute~539 (1:2)<br>
-<br>
-160. #JazzyJam~772 (1015) 0<br>
-<br>
-<br>
-161. #Tscharee (1015) -1<br>
+117. #Worthless (1025) -1<br>
 +11<br>
-	4. MadDookie (0:3)<br>
+	7. Vergilious (7:6)<br>
+	8. Matthew0898 (3:0)<br>
+	9. QuickFlute~539 (3:0)<br>
+	10. Foxylocks12 (1:1)<br>
+<br>
+118. #FARzard (1025) 0<br>
++19<br>
+	3. SloppyTea~932 (1:6)<br>
+	5. MadDookie (1:4)<br>
+	7. Vergilious (1:6)<br>
+	8. Matthew0898 (6:6)<br>
+	10. Foxylocks12 (0:3)<br>
+<br>
+119. #MojoRising (1025) 0<br>
++16<br>
+	3. SloppyTea~932 (3:10)<br>
+	4. bandy (0:1)<br>
+	7. Vergilious (3:4)<br>
+<br>
+120. #SpookyIslan~329 (1025) +7<br>
+<br>
+	3. SloppyTea~932 (1:0)<br>
+<br>
+121. #Andy65536 (1023) +5<br>
+<br>
+	2. JazzyDeer (3:4)<br>
+	3. SloppyTea~932 (2:4)<br>
+	5. MadDookie (3:3)<br>
+<br>
+122. #Jacob1998 (1023) +2<br>
++10|+2<br>
+	3. SloppyTea~932 (1:4)<br>
+	5. MadDookie (0:4)<br>
+	6. spookydoor (2:3)<br>
+	8. Matthew0898 (2:0)<br>
+<br>
+123. #WateryApple~232 (1023) 0<br>
++29|+20|+7<br>
+	2. JazzyDeer (0:1)<br>
+	5. MadDookie (1:1)<br>
+	7. Vergilious (0:3)<br>
+	8. Matthew0898 (10:18)<br>
+	10. Foxylocks12 (0:2)<br>
+<br>
+124. #ccgn (1023) +1<br>
++3<br>
+	4. bandy (1:0)<br>
+	6. spookydoor (0:4)<br>
+	9. QuickFlute~539 (9:12)<br>
+<br>
+125. #GoOody (1022) 0<br>
+<br>
+	9. QuickFlute~539 (7:7)<br>
+<br>
+126. #eggleung1995 (1022) +4<br>
+<br>
+<br>
+127. #zamrai (1022) 0<br>
+<br>
+<br>
+128. #sappysock (1022) -1<br>
+<br>
+	4. bandy (3:8)<br>
+	7. Vergilious (1:3)<br>
+<br>
+129. #VeryRedShark (1022) 0<br>
+<br>
+	4. bandy (3:2)<br>
+	6. spookydoor (2:3)<br>
+	7. Vergilious (3:0)<br>
+<br>
+130. #theAceofGame (1022) +3<br>
++19<br>
+	3. SloppyTea~932 (1:1)<br>
+	5. MadDookie (0:3)<br>
+	7. Vergilious (3:4)<br>
+	8. Matthew0898 (5:6)<br>
+	10. Foxylocks12 (1:2)<br>
+<br>
+131. #BigPoppaNuts (1022) +1<br>
+0<br>
+	4. bandy (0:2)<br>
+	8. Matthew0898 (0:2)<br>
+<br>
+132. #Dragonscife (1021) 0<br>
+<br>
+	3. SloppyTea~932 (0:1)<br>
+	4. bandy (3:5)<br>
+	7. Vergilious (2:2)<br>
+	10. Foxylocks12 (2:1)<br>
+<br>
+133. #Terces (1021) 0<br>
+<br>
+	7. Vergilious (2:2)<br>
+	9. QuickFlute~539 (3:1)<br>
+<br>
+134. #Khael- (1021) 0<br>
++3<br>
+	3. SloppyTea~932 (1:2)<br>
+	5. MadDookie (13:15)<br>
+	8. Matthew0898 (3:1)<br>
+	10. Foxylocks12 (2:2)<br>
+<br>
+135. #likeag66 (1021) +2<br>
++7<br>
+	3. SloppyTea~932 (4:8)<br>
+	4. bandy (1:1)<br>
+	5. MadDookie (5:8)<br>
+	7. Vergilious (0:1)<br>
+	8. Matthew0898 (13:10)<br>
+	10. Foxylocks12 (1:1)<br>
+<br>
+136. #liquidlegs (1021) +17<br>
++15<br>
+	4. bandy (0:2)<br>
+	7. Vergilious (0:3)<br>
+	10. Foxylocks12 (1:1)<br>
+<br>
+137. #ForReal (1021) 0<br>
+0<br>
+	3. SloppyTea~932 (1:1)<br>
+	5. MadDookie (4:3)<br>
+	7. Vergilious (0:1)<br>
+	8. Matthew0898 (4:1)<br>
+<br>
+138. #sharifbang94 (1021) -1<br>
++10|+4<br>
+	3. SloppyTea~932 (1:2)<br>
+	5. MadDookie (1:1)<br>
+	6. spookydoor (0:3)<br>
+	7. Vergilious (5:7)<br>
+	8. Matthew0898 (1:1)<br>
+	10. Foxylocks12 (1:1)<br>
+<br>
+139. #jeetu (1021) 0<br>
+-5|-3<br>
+	2. JazzyDeer (0:3)<br>
+	3. SloppyTea~932 (4:13)<br>
+	9. QuickFlute~539 (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+140. #batousai (1021) 0<br>
++1|-3<br>
+	5. MadDookie (1:2)<br>
+	8. Matthew0898 (1:3)<br>
+	10. Foxylocks12 (0:3)<br>
+<br>
+141. #cheetahJP (1021) -3<br>
+-4<br>
+	3. SloppyTea~932 (0:2)<br>
+<br>
+142. #stront01 (1021) +3<br>
+<br>
+<br>
+143. #ExoticFlowe~759 (1020) +7<br>
++13<br>
+	6. spookydoor (4:0)<br>
+	7. Vergilious (1:3)<br>
+	9. QuickFlute~539 (1:4)<br>
+<br>
+144. #gea (1020) +3<br>
++4<br>
+	3. SloppyTea~932 (9:13)<br>
+	5. MadDookie (2:2)<br>
+	7. Vergilious (3:4)<br>
+	8. Matthew0898 (3:3)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+145. #JMan8080 (1020) 0<br>
+<br>
+	3. SloppyTea~932 (2:4)<br>
+	4. bandy (2:1)<br>
+	5. MadDookie (0:1)<br>
+<br>
+146. #Ice.cream (1019) +18<br>
+<br>
+<br>
+147. #syrius (1019) +9<br>
++13<br>
+	3. SloppyTea~932 (0:5)<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (0:1)<br>
+	7. Vergilious (1:0)<br>
+	9. QuickFlute~539 (1:1)<br>
+<br>
+148. #TPSproducer (1019) +6<br>
+<br>
+	4. bandy (1:0)<br>
+	6. spookydoor (1:0)<br>
+<br>
+149. #FluffyHand (1019) +2<br>
++7<br>
+	6. spookydoor (1:4)<br>
+	7. Vergilious (0:1)<br>
+	9. QuickFlute~539 (0:4)<br>
+<br>
+150. #cricric (1019) 0<br>
+<br>
+	6. spookydoor (3:2)<br>
+<br>
+151. #milkyway (1019) 0<br>
+-2<br>
+	2. JazzyDeer (1:2)<br>
+	3. SloppyTea~932 (0:3)<br>
+	4. bandy (0:2)<br>
+	6. spookydoor (1:1)<br>
+	8. Matthew0898 (0:1)<br>
+<br>
+152. #AceofGame (1019) 0<br>
+<br>
+<br>
+153. #midKnight. (1018) -2<br>
+<br>
+	3. SloppyTea~932 (0:2)<br>
+	7. Vergilious (2:0)<br>
+	8. Matthew0898 (4:1)<br>
+	9. QuickFlute~539 (2:0)<br>
+<br>
+154. #Revonn (1017) 0<br>
+-1<br>
+	5. MadDookie (3:5)<br>
+<br>
+155. #Nekrik (1017) 0<br>
+<br>
+<br>
+156. #SSRZ_Chewy (1017) +5<br>
++11|+16|+12|+8|+15|+22|+17|+17|+5|+3<br>
+	2. JazzyDeer (6:28)<br>
+	3. SloppyTea~932 (7:15)<br>
+	4. bandy (5:15)<br>
+	5. MadDookie (6:16)<br>
+	6. spookydoor (1:5)<br>
+	7. Vergilious (14:23)<br>
+	8. Matthew0898 (4:8)<br>
+	9. QuickFlute~539 (3:6)<br>
+	10. Foxylocks12 (4:11)<br>
+<br>
+157. #Mutation- (1017) 0<br>
++3<br>
+	2. JazzyDeer (0:3)<br>
+	3. SloppyTea~932 (0:1)<br>
+	4. bandy (1:2)<br>
+	5. MadDookie (0:1)<br>
+	8. Matthew0898 (4:2)<br>
+	10. Foxylocks12 (0:2)<br>
+<br>
+158. #Meep (1017) +6<br>
+<br>
+	3. SloppyTea~932 (3:15)<br>
+	5. MadDookie (7:14)<br>
+	8. Matthew0898 (0:1)<br>
+	10. Foxylocks12 (3:1)<br>
+<br>
+159. #TrickyFlame~859 (1017) 0<br>
+<br>
+	3. SloppyTea~932 (1:1)<br>
+	5. MadDookie (1:1)<br>
+	8. Matthew0898 (1:3)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+160. #ERider (1017) +1<br>
+<br>
+	4. bandy (1:5)<br>
+	7. Vergilious (1:2)<br>
+<br>
+161. #ghostnixon (1017) +4<br>
++11<br>
+	4. bandy (1:0)<br>
+	6. spookydoor (1:1)<br>
+	7. Vergilious (1:1)<br>
+	9. QuickFlute~539 (0:1)<br>
+<br>
+162. #x-Carbon-x (1016) -1<br>
+<br>
+	4. bandy (0:2)<br>
+<br>
+163. #BenjiKozoR (1016) +4<br>
++13<br>
+	3. SloppyTea~932 (0:3)<br>
+	5. MadDookie (0:2)<br>
+	8. Matthew0898 (0:3)<br>
+	9. QuickFlute~539 (3:8)<br>
+<br>
+164. #GERALAN (1016) +1<br>
+<br>
+	6. spookydoor (0:2)<br>
+<br>
+165. #Lolicon4life (1016) 0<br>
+<br>
+<br>
+166. #DubZz_23 (1016) -3<br>
++12|+1|-3<br>
+	4. bandy (4:10)<br>
+	6. spookydoor (1:21)<br>
+	7. Vergilious (2:5)<br>
+	9. QuickFlute~539 (3:4)<br>
+	10. Foxylocks12 (2:0)<br>
+<br>
+167. #mystic28 (1016) +4<br>
+<br>
+	6. spookydoor (1:1)<br>
 	7. Vergilious (1:1)<br>
 <br>
-162. #germanat (1015) 0<br>
-<br>
+168. #CsAsTra (1016) +1<br>
++8<br>
+	2. JazzyDeer (0:10)<br>
 	3. SloppyTea~932 (1:0)<br>
-	4. MadDookie (1:5)<br>
-	5. bandy (7:1)<br>
-	7. Vergilious (0:3)<br>
+	4. bandy (2:0)<br>
+	5. MadDookie (0:2)<br>
+	7. Vergilious (1:0)<br>
+	8. Matthew0898 (0:1)<br>
 <br>
-163. #ritzyTurnip (1015) 0<br>
+169. #MagnusWH40K (1016) +10<br>
++10<br>
+	4. bandy (2:1)<br>
+	6. spookydoor (2:4)<br>
+	7. Vergilious (0:3)<br>
+	9. QuickFlute~539 (0:3)<br>
+<br>
+170. #phobia (1016) +4<br>
+-1<br>
+	3. SloppyTea~932 (1:0)<br>
+	8. Matthew0898 (1:0)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+171. #seanbolton (1015) +1<br>
++2<br>
+	4. bandy (2:0)<br>
+	5. MadDookie (0:2)<br>
+	6. spookydoor (1:3)<br>
+	7. Vergilious (3:4)<br>
+	9. QuickFlute~539 (2:5)<br>
+	10. Foxylocks12 (2:5)<br>
+<br>
+172. #djr987 (1015) 0<br>
+<br>
+	3. SloppyTea~932 (0:4)<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (1:2)<br>
+	6. spookydoor (2:1)<br>
+	7. Vergilious (0:2)<br>
+<br>
+173. #olaf2 (1015) 0<br>
+<br>
+	9. QuickFlute~539 (1:2)<br>
+<br>
+174. #JazzyJam~772 (1015) 0<br>
+<br>
+<br>
+175. #P.Bear (1015) +7<br>
++6<br>
+	4. bandy (2:0)<br>
+	6. spookydoor (2:2)<br>
+	9. QuickFlute~539 (0:4)<br>
+<br>
+176. #ritzyTurnip (1015) 0<br>
 <br>
 	7. Vergilious (0:1)<br>
 <br>
-164. #astroBOOM (1015) 0<br>
-<br>
-	7. Vergilious (2:0)<br>
-<br>
-165. #SoggyYam~473 (1015) 0<br>
+177. #SoggyYam~473 (1015) 0<br>
 <br>
 	3. SloppyTea~932 (1:3)<br>
 	7. Vergilious (3:4)<br>
+	8. Matthew0898 (1:0)<br>
 <br>
-166. #OHIO_STATE (1015) 0<br>
+178. #germanat (1015) 0<br>
 <br>
+	3. SloppyTea~932 (1:0)<br>
+	4. bandy (7:1)<br>
+	5. MadDookie (1:5)<br>
+	7. Vergilious (0:3)<br>
 <br>
-167. #creaky2 (1015) 0<br>
+179. #OHIO_STATE (1015) 0<br>
+<br>
+	8. Matthew0898 (2:0)<br>
+<br>
+180. #creaky2 (1015) 0<br>
 -2<br>
-	1. JazzyDeer (0:4)<br>
+	2. JazzyDeer (0:4)<br>
 	3. SloppyTea~932 (2:8)<br>
-	4. MadDookie (4:7)<br>
+	5. MadDookie (4:7)<br>
 	7. Vergilious (0:5)<br>
+	8. Matthew0898 (2:2)<br>
 <br>
-168. #gogoleiro2 (1015) 0<br>
+181. #Muddbutt (1015) +2<br>
++1<br>
+	4. bandy (0:1)<br>
+	6. spookydoor (4:13)<br>
+<br>
+182. #gogoleiro2 (1015) 0<br>
 +6<br>
-	6. QuickFlute~539 (1:0)<br>
-	9. spookydoor (0:1)<br>
+	6. spookydoor (0:1)<br>
+	9. QuickFlute~539 (1:0)<br>
 <br>
-169. #cxgslegend (1015) 0<br>
+183. #mohNabil10 (1015) +1<br>
+0<br>
+	2. JazzyDeer (0:1)<br>
+	3. SloppyTea~932 (0:1)<br>
+	4. bandy (6:1)<br>
+	6. spookydoor (1:5)<br>
+	7. Vergilious (0:3)<br>
+	9. QuickFlute~539 (0:2)<br>
 <br>
-	4. MadDookie (2:1)<br>
-	10. ValveFury (2:1)<br>
+184. #cxgslegend (1015) 0<br>
 <br>
-170. #Kaborage (1014) 0<br>
+	5. MadDookie (2:1)<br>
 <br>
-	4. MadDookie (0:1)<br>
-	5. bandy (1:0)<br>
+185. #LJpain (1014) +3<br>
+<br>
+	2. JazzyDeer (0:2)<br>
+	3. SloppyTea~932 (1:5)<br>
+	5. MadDookie (0:5)<br>
+	7. Vergilious (1:1)<br>
+	8. Matthew0898 (1:3)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+186. #Kaborage (1014) 0<br>
+<br>
+	4. bandy (1:0)<br>
+	5. MadDookie (0:1)<br>
 	7. Vergilious (1:0)<br>
 <br>
-171. #seanbolton (1014) +1<br>
-+1<br>
-	4. MadDookie (0:2)<br>
-	5. bandy (2:0)<br>
-	6. QuickFlute~539 (2:5)<br>
-	7. Vergilious (3:4)<br>
-	8. Foxylocks12 (2:5)<br>
-	9. spookydoor (1:3)<br>
-	10. ValveFury (0:1)<br>
+187. #ss0317 (1014) +2<br>
 <br>
-172. #mohNabil10 (1014) 0<br>
--1<br>
-	3. SloppyTea~932 (0:1)<br>
-	5. bandy (6:1)<br>
-	6. QuickFlute~539 (0:2)<br>
-	7. Vergilious (0:3)<br>
-	9. spookydoor (1:5)<br>
+	2. JazzyDeer (1:3)<br>
+	3. SloppyTea~932 (2:3)<br>
+	5. MadDookie (5:4)<br>
+	8. Matthew0898 (1:2)<br>
 <br>
-173. #mafl (1014) 0<br>
+188. #mafl (1014) 0<br>
 <br>
-	5. bandy (0:1)<br>
+	4. bandy (0:1)<br>
 	7. Vergilious (2:2)<br>
 <br>
-174. #FilthyFish~187 (1014) 0<br>
+189. #FilthyFish~187 (1014) 0<br>
 <br>
-	6. QuickFlute~539 (0:2)<br>
-	8. Foxylocks12 (0:1)<br>
+	8. Matthew0898 (2:0)<br>
+	9. QuickFlute~539 (0:2)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-175. #BrownPaint~258 (1014) +14<br>
+190. #Mr.NiceGuy32 (1014) +2<br>
++7|-1<br>
+	3. SloppyTea~932 (1:0)<br>
+	4. bandy (2:0)<br>
+	5. MadDookie (0:2)<br>
+	6. spookydoor (0:3)<br>
+	7. Vergilious (2:0)<br>
+	8. Matthew0898 (1:4)<br>
+	10. Foxylocks12 (0:2)<br>
 <br>
+191. #ru-51 (1014) +1<br>
++1<br>
+	4. bandy (2:4)<br>
+	5. MadDookie (3:1)<br>
+	6. spookydoor (1:0)<br>
+	9. QuickFlute~539 (1:4)<br>
 <br>
-176. #Setin12 (1014) 0<br>
+192. #Setin12 (1014) 0<br>
 -1<br>
-	4. MadDookie (2:5)<br>
+	5. MadDookie (2:5)<br>
 	7. Vergilious (1:0)<br>
+	8. Matthew0898 (2:1)<br>
 <br>
-177. #TPSproducer (1013) 0<br>
-<br>
-	5. bandy (1:0)<br>
-	9. spookydoor (1:0)<br>
-<br>
-178. #ExoticFlowe~759 (1013) 0<br>
-+7<br>
-	6. QuickFlute~539 (1:4)<br>
+193. #pandaface90 (1013) +10<br>
++18|0|+9|+14|+4<br>
+	3. SloppyTea~932 (4:8)<br>
+	5. MadDookie (6:17)<br>
+	6. spookydoor (1:3)<br>
 	7. Vergilious (1:3)<br>
-	9. spookydoor (4:0)<br>
+	8. Matthew0898 (4:5)<br>
+	10. Foxylocks12 (4:9)<br>
 <br>
-179. #Alburdy (1013) 0<br>
+194. #hawrati91 (1013) +14<br>
 <br>
-	8. Foxylocks12 (1:2)<br>
 <br>
-180. #SauceSamurai (1013) 0<br>
--1<br>
-	3. SloppyTea~932 (0:6)<br>
-	4. MadDookie (8:13)<br>
-	5. bandy (0:2)<br>
-	7. Vergilious (2:3)<br>
-	10. ValveFury (1:1)<br>
-<br>
-181. #PinkString~296 (1013) +7<br>
+195. #PinkString~296 (1013) 0<br>
 <br>
 	7. Vergilious (3:1)<br>
 <br>
-182. #Snech (1013) +3<br>
+196. #Alburdy (1013) 0<br>
+<br>
+	10. Foxylocks12 (1:2)<br>
+<br>
+197. #Tscharee (1013) -2<br>
++9|-2<br>
+	2. JazzyDeer (0:1)<br>
+	5. MadDookie (0:3)<br>
+	7. Vergilious (1:1)<br>
+	8. Matthew0898 (0:2)<br>
+<br>
+198. #SauceSamurai (1013) 0<br>
+-1<br>
+	3. SloppyTea~932 (0:6)<br>
+	4. bandy (0:2)<br>
+	5. MadDookie (8:13)<br>
+	7. Vergilious (2:3)<br>
+	8. Matthew0898 (0:1)<br>
+<br>
+199. #Raydar71 (1013) +1<br>
 +4<br>
-	5. bandy (2:1)<br>
+	4. bandy (1:1)<br>
+	6. spookydoor (1:2)<br>
+	7. Vergilious (1:2)<br>
+<br>
+200. #Snech (1013) 0<br>
++4<br>
+	4. bandy (2:1)<br>
+	6. spookydoor (2:5)<br>
 	7. Vergilious (1:1)<br>
-	9. spookydoor (2:5)<br>
 <br>
-183. #KingRK (1013) 0<br>
+201. #KingRK (1013) 0<br>
 <br>
 <br>
-184. #BigTemper~185 (1013) 0<br>
+202. #BigTemper~185 (1013) 0<br>
 +5<br>
-	6. QuickFlute~539 (9:15)<br>
+	6. spookydoor (6:4)<br>
 	7. Vergilious (2:5)<br>
-	9. spookydoor (6:4)<br>
+	9. QuickFlute~539 (9:15)<br>
 <br>
-185. #dIehAppY (1013) 0<br>
+203. #Axitaxi (1013) +1<br>
++11<br>
+	6. spookydoor (3:12)<br>
+	7. Vergilious (2:4)<br>
+<br>
+204. #dIehAppY (1013) 0<br>
 +17<br>
-	4. MadDookie (1:13)<br>
+	5. MadDookie (1:13)<br>
+	6. spookydoor (4:2)<br>
 	7. Vergilious (1:1)<br>
-	8. Foxylocks12 (0:3)<br>
-	9. spookydoor (4:2)<br>
+	8. Matthew0898 (1:5)<br>
+	10. Foxylocks12 (0:3)<br>
 <br>
-186. #thehurricane (1013) +1<br>
+205. #thehurricane (1013) 0<br>
 <br>
-	6. QuickFlute~539 (3:5)<br>
-	9. spookydoor (7:4)<br>
+	6. spookydoor (7:4)<br>
+	9. QuickFlute~539 (3:5)<br>
 <br>
-187. #mygalaxy (1013) +1<br>
+206. #mygalaxy (1013) 0<br>
 <br>
-	5. bandy (1:2)<br>
+	4. bandy (1:2)<br>
 	7. Vergilious (0:2)<br>
 <br>
-188. #patodonald (1012) 0<br>
+207. #patodonald (1012) 0<br>
 <br>
-	1. JazzyDeer (0:2)<br>
+	2. JazzyDeer (0:2)<br>
 <br>
-189. #mystic28 (1012) +3<br>
+208. #Raffey (1012) +4<br>
 <br>
-	7. Vergilious (1:1)<br>
-	9. spookydoor (1:1)<br>
-	10. ValveFury (2:3)<br>
+	5. MadDookie (0:1)<br>
 <br>
-190. #BenjiKozoR (1012) +2<br>
-+9<br>
-	3. SloppyTea~932 (0:3)<br>
-	4. MadDookie (0:2)<br>
-	6. QuickFlute~539 (3:8)<br>
-<br>
-191. #ghostnixon (1012) +5<br>
-+7<br>
-	5. bandy (1:0)<br>
-	6. QuickFlute~539 (0:1)<br>
-	7. Vergilious (1:1)<br>
-<br>
-192. #Muddbutt (1012) +10<br>
-<br>
-	5. bandy (0:1)<br>
-	9. spookydoor (2:9)<br>
-<br>
-193. #Anolre82 (1012) 0<br>
+209. #Anolre82 (1012) 0<br>
 <br>
 <br>
-194. #FastCrayon~361 (1012) 0<br>
+210. #iawai (1012) +3<br>
+<br>
+	4. bandy (0:1)<br>
+	7. Vergilious (1:11)<br>
+	9. QuickFlute~539 (1:3)<br>
+	10. Foxylocks12 (1:1)<br>
+<br>
+211. #FastCrayon~361 (1012) 0<br>
 +1|-2<br>
 	3. SloppyTea~932 (6:14)<br>
-	4. MadDookie (5:6)<br>
-	8. Foxylocks12 (1:0)<br>
+	5. MadDookie (5:6)<br>
+	8. Matthew0898 (14:31)<br>
+	10. Foxylocks12 (1:0)<br>
 <br>
-195. #ru-51 (1012) 0<br>
-0<br>
-	4. MadDookie (3:1)<br>
-	5. bandy (2:4)<br>
-	6. QuickFlute~539 (1:4)<br>
-<br>
-196. #malarkey (1012) 0<br>
-<br>
-<br>
-197. #Raydar71 (1012) +1<br>
-+3<br>
-	5. bandy (1:1)<br>
-	7. Vergilious (1:2)<br>
-	9. spookydoor (1:2)<br>
-<br>
-198. #NA9RALSHRIF (1012) +1<br>
+212. #NA9RALSHRIF (1012) 0<br>
 <br>
 	3. SloppyTea~932 (1:0)<br>
-	4. MadDookie (1:0)<br>
+	5. MadDookie (1:0)<br>
 	7. Vergilious (2:2)<br>
+	8. Matthew0898 (1:0)<br>
 <br>
-199. #Smaaug (1012) 0<br>
+213. #Smaaug (1012) 0<br>
 -21<br>
-	10. ValveFury (0:48)<br>
 <br>
-200. #SSRZ_Chewy (1012) +12<br>
-+8|+6|+11|+7|+3|+10|+17|+12|+12<br>
-	1. JazzyDeer (4:10)<br>
-	3. SloppyTea~932 (4:9)<br>
-	4. MadDookie (5:14)<br>
-	5. bandy (5:15)<br>
-	6. QuickFlute~539 (3:6)<br>
-	7. Vergilious (14:22)<br>
-	8. Foxylocks12 (4:11)<br>
-	9. spookydoor (1:5)<br>
-	10. ValveFury (0:1)<br>
+214. #StollyBolly (1012) 0<br>
 <br>
-201. #StollyBolly (1012) 0<br>
-<br>
-	5. bandy (0:5)<br>
+	4. bandy (0:5)<br>
 	7. Vergilious (0:1)<br>
-	10. ValveFury (6:1)<br>
 <br>
-202. #Ghazali (1012) +4<br>
-<br>
-	1. JazzyDeer (0:1)<br>
-	3. SloppyTea~932 (0:3)<br>
-	8. Foxylocks12 (0:3)<br>
-<br>
-203. #LukeDecanus (1012) 0<br>
+215. #LukeDecanus (1012) 0<br>
 +8<br>
-	4. MadDookie (0:3)<br>
+	5. MadDookie (0:3)<br>
 	7. Vergilious (0:2)<br>
-	8. Foxylocks12 (5:6)<br>
+	8. Matthew0898 (1:2)<br>
+	10. Foxylocks12 (5:6)<br>
 <br>
-204. #LJpain (1012) -1<br>
+216. #Kotori (1012) +6<br>
++5<br>
+	3. SloppyTea~932 (6:7)<br>
+	5. MadDookie (1:0)<br>
+	7. Vergilious (0:1)<br>
+	8. Matthew0898 (1:1)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-	1. JazzyDeer (0:2)<br>
-	3. SloppyTea~932 (1:5)<br>
-	4. MadDookie (0:5)<br>
-	7. Vergilious (1:1)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-205. #ss0317 (1012) +4<br>
-<br>
-	3. SloppyTea~932 (2:3)<br>
-	4. MadDookie (5:4)<br>
-	10. ValveFury (4:1)<br>
-<br>
-206. #noa-B (1012) 0<br>
-0<br>
-	1. JazzyDeer (0:1)<br>
-	3. SloppyTea~932 (1:5)<br>
-	4. MadDookie (10:17)<br>
-	5. bandy (0:1)<br>
-	8. Foxylocks12 (1:3)<br>
-<br>
-207. #phobia (1012) 0<br>
-<br>
-	3. SloppyTea~932 (1:0)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-208. #Mr.NiceGuy32 (1012) +1<br>
+217. #EzoPro (1012) +4<br>
 +4<br>
-	3. SloppyTea~932 (1:0)<br>
-	4. MadDookie (0:2)<br>
+	2. JazzyDeer (3:2)<br>
+	3. SloppyTea~932 (1:1)<br>
+	5. MadDookie (2:1)<br>
+	8. Matthew0898 (3:2)<br>
+<br>
+218. #wagaf (1012) +4<br>
+<br>
+	4. bandy (3:9)<br>
+	7. Vergilious (0:1)<br>
+<br>
+219. #astroBOOM (1012) -3<br>
+<br>
 	7. Vergilious (2:0)<br>
-	8. Foxylocks12 (0:2)<br>
-	9. spookydoor (0:3)<br>
 <br>
-209. #Axitaxi (1012) +1<br>
-+10<br>
-	7. Vergilious (2:4)<br>
-	9. spookydoor (1:4)<br>
+220. #marijuana10 (1012) +2<br>
+-1<br>
+	3. SloppyTea~932 (0:5)<br>
+	5. MadDookie (6:6)<br>
+	7. Vergilious (1:3)<br>
+	8. Matthew0898 (10:8)<br>
 <br>
-210. #sacore (1011) -2<br>
--4<br>
-	5. bandy (5:2)<br>
-	7. Vergilious (5:3)<br>
-	9. spookydoor (0:2)<br>
-	10. ValveFury (1:0)<br>
+221. #number1daddy (1012) +2<br>
++8<br>
+	2. JazzyDeer (0:3)<br>
+	3. SloppyTea~932 (1:3)<br>
+	5. MadDookie (1:3)<br>
+	7. Vergilious (1:0)<br>
+	8. Matthew0898 (3:4)<br>
 <br>
-211. #holzabee86 (1011) 0<br>
+222. #Ghazali (1012) 0<br>
 <br>
+	2. JazzyDeer (0:3)<br>
+	3. SloppyTea~932 (0:3)<br>
+	8. Matthew0898 (3:4)<br>
+	10. Foxylocks12 (0:3)<br>
 <br>
-212. #Meep (1011) -1<br>
-<br>
-	3. SloppyTea~932 (3:15)<br>
-	4. MadDookie (7:14)<br>
-	8. Foxylocks12 (3:1)<br>
-<br>
-213. #Geromyty (1011) 0<br>
-<br>
-	3. SloppyTea~932 (0:2)<br>
-	4. MadDookie (0:2)<br>
-	6. QuickFlute~539 (1:1)<br>
+223. #florihupf (1011) -6<br>
+-6|-23|-8|-5<br>
+	2. JazzyDeer (0:2)<br>
+	3. SloppyTea~932 (3:16)<br>
+	4. bandy (1:4)<br>
+	5. MadDookie (1:1)<br>
+	6. spookydoor (2:0)<br>
 	7. Vergilious (2:2)<br>
-	8. Foxylocks12 (0:1)<br>
+	8. Matthew0898 (1:5)<br>
+	9. QuickFlute~539 (0:2)<br>
+	10. Foxylocks12 (0:2)<br>
 <br>
-214. #T-_-TT-_-T (1011) 0<br>
+224. #holzabee86 (1011) 0<br>
 <br>
-	5. bandy (1:3)<br>
-	6. QuickFlute~539 (1:0)<br>
 <br>
-215. #Tertich (1011) 0<br>
+225. #daavid80 (1011) +8<br>
++3<br>
+	3. SloppyTea~932 (1:1)<br>
+	4. bandy (0:3)<br>
+	7. Vergilious (1:7)<br>
 <br>
-	5. bandy (0:1)<br>
-	9. spookydoor (0:1)<br>
-	10. ValveFury (1:0)<br>
+226. #noa-B (1011) -1<br>
+-1<br>
+	2. JazzyDeer (0:4)<br>
+	3. SloppyTea~932 (1:5)<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (10:17)<br>
+	8. Matthew0898 (1:0)<br>
+	10. Foxylocks12 (1:3)<br>
 <br>
-216. #quantum (1011) 0<br>
+227. #Skirmish (1011) +1<br>
+<br>
+	2. JazzyDeer (1:0)<br>
+	3. SloppyTea~932 (1:4)<br>
+	4. bandy (1:0)<br>
+	7. Vergilious (1:1)<br>
+	8. Matthew0898 (0:1)<br>
+	10. Foxylocks12 (0:3)<br>
+<br>
+228. #sacore (1011) 0<br>
+-5<br>
+	4. bandy (6:5)<br>
+	6. spookydoor (0:2)<br>
+	7. Vergilious (5:5)<br>
+<br>
+229. #quantum (1011) 0<br>
 -2|+2<br>
 	3. SloppyTea~932 (3:16)<br>
-	4. MadDookie (12:19)<br>
+	5. MadDookie (12:19)<br>
 	7. Vergilious (1:0)<br>
-	8. Foxylocks12 (1:5)<br>
+	8. Matthew0898 (7:14)<br>
+	10. Foxylocks12 (1:5)<br>
 <br>
-217. #Zimmux (1011) 0<br>
+230. #malarkey (1011) -1<br>
 <br>
-	4. MadDookie (3:5)<br>
-<br>
-218. #Brock (1011) 0<br>
-<br>
-	5. bandy (1:6)<br>
-	7. Vergilious (0:1)<br>
-	10. ValveFury (1:0)<br>
-<br>
-219. #Tot.Rice (1011) 0<br>
-<br>
-<br>
-220. #arviiid (1010) 0<br>
-+5|+15|0<br>
-	3. SloppyTea~932 (0:6)<br>
-	4. MadDookie (1:9)<br>
-	5. bandy (1:0)<br>
-	6. QuickFlute~539 (1:0)<br>
 	7. Vergilious (0:2)<br>
-	8. Foxylocks12 (2:2)<br>
-	9. spookydoor (0:3)<br>
-	10. ValveFury (1:0)<br>
 <br>
-221. #RacingSock~999 (1010) 0<br>
+231. #Zimmux (1011) 0<br>
 <br>
+	5. MadDookie (3:5)<br>
 <br>
-222. #jetlagged (1010) +7<br>
+232. #Brock (1011) 0<br>
 <br>
-	5. bandy (4:1)<br>
+	4. bandy (1:6)<br>
 	7. Vergilious (0:1)<br>
 <br>
-223. #duruti (1010) +3<br>
+233. #Geromyty (1011) 0<br>
+0<br>
+	3. SloppyTea~932 (0:3)<br>
+	5. MadDookie (0:2)<br>
+	7. Vergilious (2:2)<br>
+	8. Matthew0898 (4:3)<br>
+	9. QuickFlute~539 (1:1)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-	9. spookydoor (2:1)<br>
+234. #Kid.Op (1011) +3<br>
++4|+2|+3<br>
+	2. JazzyDeer (1:7)<br>
+	3. SloppyTea~932 (0:4)<br>
+	5. MadDookie (6:9)<br>
+	7. Vergilious (0:2)<br>
+	8. Matthew0898 (14:20)<br>
+	10. Foxylocks12 (4:13)<br>
 <br>
-224. #ipadpro12.9- (1010) 0<br>
+235. #Tot.Rice (1011) 0<br>
+<br>
+<br>
+236. #arviiid (1011) 0<br>
++5|+16|0<br>
+	3. SloppyTea~932 (0:6)<br>
+	4. bandy (1:0)<br>
+	5. MadDookie (1:9)<br>
+	6. spookydoor (0:3)<br>
+	7. Vergilious (0:2)<br>
+	8. Matthew0898 (1:6)<br>
+	9. QuickFlute~539 (1:0)<br>
+	10. Foxylocks12 (2:2)<br>
+<br>
+237. #JDHA218 (1010) +1<br>
+<br>
+	5. MadDookie (0:6)<br>
+	6. spookydoor (0:1)<br>
+	7. Vergilious (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+238. #RacingSock~999 (1010) 0<br>
+<br>
+<br>
+239. #littlestick (1010) +1<br>
+<br>
+	6. spookydoor (4:8)<br>
+<br>
+240. #jetlagged (1010) 0<br>
+<br>
+	4. bandy (4:1)<br>
+	7. Vergilious (0:1)<br>
+<br>
+241. #duruti (1010) 0<br>
+<br>
+	6. spookydoor (2:1)<br>
+<br>
+242. #ipadpro12.9- (1010) 0<br>
 <br>
 	3. SloppyTea~932 (0:1)<br>
 <br>
-225. #syrius (1010) 0<br>
-+4<br>
-	3. SloppyTea~932 (0:5)<br>
-	4. MadDookie (0:1)<br>
-	5. bandy (0:1)<br>
-	6. QuickFlute~539 (1:1)<br>
-	7. Vergilious (1:0)<br>
-<br>
-226. #Skirmish (1010) +2<br>
-<br>
-	1. JazzyDeer (1:0)<br>
-	3. SloppyTea~932 (1:4)<br>
-	5. bandy (1:0)<br>
-	7. Vergilious (1:1)<br>
-	8. Foxylocks12 (0:3)<br>
-<br>
-227. #hornblower (1010) +4<br>
+243. #hornblower (1010) 0<br>
 <br>
 <br>
-228. #BigBabbaDope (1010) +5<br>
+244. #Majed205 (1010) +3<br>
++14|0<br>
+	4. bandy (2:5)<br>
+	6. spookydoor (2:3)<br>
+	7. Vergilious (1:5)<br>
+	9. QuickFlute~539 (3:3)<br>
 <br>
-	3. SloppyTea~932 (0:2)<br>
-	4. MadDookie (0:1)<br>
-	8. Foxylocks12 (1:1)<br>
-<br>
-229. #Trashed (1010) +6<br>
-<br>
-	1. JazzyDeer (1:4)<br>
-	3. SloppyTea~932 (0:2)<br>
-	4. MadDookie (0:4)<br>
-<br>
-230. #marijuana10 (1010) 0<br>
--3<br>
-	3. SloppyTea~932 (0:5)<br>
-	4. MadDookie (6:6)<br>
-	7. Vergilious (1:3)<br>
-	10. ValveFury (0:1)<br>
-<br>
-231. #EntEmpire (1010) 0<br>
+245. #EntEmpire (1010) 0<br>
 +2<br>
-	4. MadDookie (0:1)<br>
+	5. MadDookie (0:1)<br>
 	7. Vergilious (1:0)<br>
-	8. Foxylocks12 (1:1)<br>
-	10. ValveFury (0:1)<br>
+	8. Matthew0898 (2:2)<br>
+	10. Foxylocks12 (1:1)<br>
 <br>
-232. #camilo9fox (1010) 0<br>
-<br>
-<br>
-233. #agentmrq (1010) 0<br>
-<br>
-	5. bandy (0:2)<br>
-	7. Vergilious (2:3)<br>
-<br>
-234. #iawai (1010) +4<br>
-<br>
-	5. bandy (0:1)<br>
-	6. QuickFlute~539 (1:3)<br>
-	7. Vergilious (1:10)<br>
-	8. Foxylocks12 (1:1)<br>
-<br>
-235. #hulan (1010) -1<br>
-<br>
-	3. SloppyTea~932 (2:11)<br>
-	4. MadDookie (2:2)<br>
-<br>
-236. #ausdiemaus67 (1009) +1<br>
-<br>
-	4. MadDookie (0:2)<br>
-	5. bandy (1:2)<br>
-	9. spookydoor (1:1)<br>
-<br>
-237. #littlestick (1009) +4<br>
+246. #camilo9fox (1010) 0<br>
 <br>
 <br>
-238. #TedTheoLogan (1009) 0<br>
-+1<br>
+247. #sedativebeef (1010) +6<br>
+<br>
+	4. bandy (1:3)<br>
+	6. spookydoor (0:2)<br>
+<br>
+248. #Trashed (1009) 0<br>
+<br>
+	2. JazzyDeer (1:6)<br>
 	3. SloppyTea~932 (0:2)<br>
-	5. bandy (0:1)<br>
-	7. Vergilious (1:2)<br>
-	9. spookydoor (1:1)<br>
+	5. MadDookie (0:5)<br>
 <br>
-239. #Mikflut (1009) 0<br>
+249. #Tertich (1009) -2<br>
 <br>
-	7. Vergilious (1:1)<br>
-	9. spookydoor (4:5)<br>
-	10. ValveFury (0:1)<br>
+	4. bandy (0:1)<br>
+	6. spookydoor (0:1)<br>
 <br>
-240. #pickynew (1009) 0<br>
+250. #ausdiemaus67 (1009) 0<br>
+<br>
+	4. bandy (1:2)<br>
+	5. MadDookie (0:2)<br>
+	6. spookydoor (1:1)<br>
+<br>
+251. #Lunula (1009) +3<br>
+<br>
+	2. JazzyDeer (0:2)<br>
+<br>
+252. #chabdura (1009) 0<br>
+<br>
+	4. bandy (3:4)<br>
+	7. Vergilious (1:0)<br>
+<br>
+253. #pickynew (1009) 0<br>
 <br>
 <br>
-241. #Buz (1009) 0<br>
+254. #Buz (1009) 0<br>
 <br>
 	3. SloppyTea~932 (2:6)<br>
 	7. Vergilious (0:3)<br>
 <br>
-242. #number1daddy (1009) +5<br>
-+6<br>
-	1. JazzyDeer (0:1)<br>
-	3. SloppyTea~932 (1:3)<br>
-	4. MadDookie (1:3)<br>
-	7. Vergilious (1:0)<br>
-<br>
-243. #Mateuszika (1009) 0<br>
+255. #Mateuszika (1009) 0<br>
 <br>
 <br>
-244. #chabdura (1009) -2<br>
+256. #agentmrq (1009) 0<br>
 <br>
-	5. bandy (3:3)<br>
-	7. Vergilious (1:0)<br>
+	4. bandy (0:2)<br>
+	7. Vergilious (2:3)<br>
 <br>
-245. #Tempo12 (1009) 0<br>
+257. #Tempo12 (1009) 0<br>
 <br>
 	7. Vergilious (0:1)<br>
 <br>
-246. #JDHA218 (1009) +3<br>
+258. #T-_-TT-_-T (1009) -2<br>
 <br>
-	4. MadDookie (0:6)<br>
-	7. Vergilious (0:1)<br>
-	8. Foxylocks12 (0:1)<br>
-	9. spookydoor (0:1)<br>
+	2. JazzyDeer (0:4)<br>
+	4. bandy (1:3)<br>
+	9. QuickFlute~539 (1:0)<br>
 <br>
-247. #SlimyDuck~719 (1009) 0<br>
+259. #SlimyDuck~719 (1009) 0<br>
 <br>
-	5. bandy (0:2)<br>
-	6. QuickFlute~539 (1:1)<br>
+	4. bandy (0:2)<br>
 	7. Vergilious (1:0)<br>
-	10. ValveFury (0:1)<br>
+	9. QuickFlute~539 (1:1)<br>
 <br>
-248. #bread (1009) 0<br>
+260. #kratos82 (1009) 0<br>
 <br>
-	8. Foxylocks12 (0:1)<br>
-	10. ValveFury (1:1)<br>
-<br>
-249. #SneakyRam~754 (1009) -2<br>
--2<br>
-	3. SloppyTea~932 (2:0)<br>
-	5. bandy (1:1)<br>
-	7. Vergilious (3:0)<br>
-<br>
-250. #kratos82 (1009) 0<br>
-<br>
+	6. spookydoor (0:1)<br>
 	7. Vergilious (0:2)<br>
-	9. spookydoor (0:1)<br>
 <br>
-251. #PlzNo_ (1009) 0<br>
+261. #AcidRam~254 (1009) +9<br>
 <br>
-	3. SloppyTea~932 (0:2)<br>
-	5. bandy (0:1)<br>
-	8. Foxylocks12 (0:1)<br>
+	4. bandy (1:7)<br>
+	6. spookydoor (1:4)<br>
+	7. Vergilious (2:4)<br>
 <br>
-252. #svircs (1009) 0<br>
+262. #GenBelIblis (1009) +2<br>
 <br>
-	5. bandy (1:1)<br>
+	2. JazzyDeer (2:1)<br>
+	3. SloppyTea~932 (1:2)<br>
+	5. MadDookie (2:3)<br>
+	10. Foxylocks12 (0:3)<br>
 <br>
-253. #jammyboy9 (1009) 0<br>
+263. #svircs (1009) 0<br>
+<br>
+	4. bandy (1:1)<br>
+<br>
+264. #jammyboy9 (1009) 0<br>
 +2<br>
 	3. SloppyTea~932 (0:2)<br>
 	7. Vergilious (1:3)<br>
 <br>
-254. #VNS700 (1009) 0<br>
+265. #VNS700 (1009) 0<br>
 +8<br>
-	5. bandy (0:1)<br>
+	4. bandy (0:1)<br>
 	7. Vergilious (0:5)<br>
-	8. Foxylocks12 (0:1)<br>
-	10. ValveFury (2:1)<br>
+	8. Matthew0898 (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-255. #kelly46joey (1009) +4<br>
+266. #SmotPoker (1009) +1<br>
 <br>
-	8. Foxylocks12 (1:0)<br>
+	2. JazzyDeer (1:0)<br>
+	5. MadDookie (1:2)<br>
+	8. Matthew0898 (5:2)<br>
 <br>
-256. #P.Bear (1009) -2<br>
--1<br>
-	6. QuickFlute~539 (0:4)<br>
-	9. spookydoor (2:0)<br>
+267. #kelly46joey (1009) 0<br>
 <br>
-257. #Tyleta (1008) 0<br>
+	10. Foxylocks12 (1:0)<br>
+<br>
+268. #Tyleta (1008) 0<br>
 <br>
 	7. Vergilious (0:1)<br>
 <br>
-258. #Nimsta (1008) 0<br>
+269. #Nimsta (1008) 0<br>
 <br>
 	7. Vergilious (1:2)<br>
-	8. Foxylocks12 (1:2)<br>
+	10. Foxylocks12 (1:2)<br>
 <br>
-259. #VioletOrca~869 (1008) 0<br>
+270. #VioletOrca~869 (1008) 0<br>
 <br>
-	6. QuickFlute~539 (7:6)<br>
+	9. QuickFlute~539 (7:6)<br>
 <br>
-260. #OriginalCin (1008) 0<br>
+271. #OriginalCin (1008) 0<br>
 <br>
-	6. QuickFlute~539 (1:1)<br>
+	6. spookydoor (1:3)<br>
 	7. Vergilious (0:1)<br>
-	9. spookydoor (1:3)<br>
+	9. QuickFlute~539 (1:1)<br>
 <br>
-261. #SadVest~463 (1008) +2<br>
-<br>
-	6. QuickFlute~539 (1:0)<br>
-<br>
-262. #SteveO84 (1008) 0<br>
+272. #SteveO84 (1008) 0<br>
 +9<br>
 	3. SloppyTea~932 (1:1)<br>
-	4. MadDookie (2:8)<br>
-	5. bandy (0:1)<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (2:8)<br>
 	7. Vergilious (0:4)<br>
-	10. ValveFury (1:0)<br>
 <br>
-263. #chadbrochill (1008) 0<br>
-<br>
-<br>
-264. #GenghisCon (1008) 0<br>
+273. #chadbrochill (1008) 0<br>
 <br>
 <br>
-265. #Ammar_N (1008) -1<br>
--3<br>
-	5. bandy (0:4)<br>
-	9. spookydoor (0:3)<br>
-<br>
-266. #wagaf (1008) 0<br>
-<br>
-	5. bandy (3:9)<br>
-	7. Vergilious (0:1)<br>
-<br>
-267. #Raffey (1008) 0<br>
-<br>
-	4. MadDookie (0:1)<br>
-<br>
-268. #EzoPro (1008) 0<br>
-0<br>
-	3. SloppyTea~932 (1:1)<br>
-	4. MadDookie (2:1)<br>
-	10. ValveFury (1:1)<br>
-<br>
-269. #Starkadh (1008) -4<br>
-<br>
-	3. SloppyTea~932 (1:3)<br>
-	5. bandy (1:0)<br>
-	7. Vergilious (1:0)<br>
-	8. Foxylocks12 (1:1)<br>
-<br>
-270. #His-Majesty (1008) 0<br>
+274. #GenghisCon (1008) 0<br>
 <br>
 <br>
-271. #valeriocarre (1008) +5<br>
+275. #drhillikilil (1008) +1<br>
+<br>
+	4. bandy (3:2)<br>
+	5. MadDookie (2:2)<br>
+<br>
+276. #Mikflut (1008) -1<br>
+<br>
+	4. bandy (0:1)<br>
+	6. spookydoor (4:5)<br>
+	7. Vergilious (1:1)<br>
+<br>
+277. #SadVest~463 (1008) 0<br>
+<br>
+	9. QuickFlute~539 (1:0)<br>
+<br>
+278. #PlzNo_ (1008) -1<br>
+<br>
+	2. JazzyDeer (0:1)<br>
+	3. SloppyTea~932 (0:2)<br>
+	4. bandy (0:1)<br>
+	8. Matthew0898 (1:2)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+279. #PluckyFire~766 (1008) +6<br>
+<br>
+	3. SloppyTea~932 (0:1)<br>
+	6. spookydoor (4:6)<br>
+	8. Matthew0898 (1:1)<br>
+<br>
+280. #His-Majesty (1008) 0<br>
 <br>
 <br>
-272. #b3t1 (1008) 0<br>
+281. #bread (1008) -1<br>
+<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+282. #b3t1 (1008) 0<br>
 <br>
 	3. SloppyTea~932 (0:2)<br>
 <br>
-273. #ZEROBASKAN (1008) 0<br>
+283. #ZEROBASKAN (1008) 0<br>
 <br>
-	8. Foxylocks12 (1:1)<br>
+	10. Foxylocks12 (1:1)<br>
 <br>
-274. #Gideon (1008) 0<br>
-+2<br>
-	1. JazzyDeer (1:11)<br>
-	3. SloppyTea~932 (3:7)<br>
-	4. MadDookie (9:10)<br>
-	8. Foxylocks12 (0:1)<br>
+284. #BigBabbaDope (1008) -2<br>
 <br>
-275. #Villager (1008) +5<br>
+	3. SloppyTea~932 (0:2)<br>
+	5. MadDookie (0:1)<br>
+	10. Foxylocks12 (1:1)<br>
+<br>
+285. #FilthyGlide~918 (1008) 0<br>
+<br>
+<br>
+286. #PaperGoose~533 (1008) 0<br>
+<br>
+<br>
+287. #Villager (1008) 0<br>
 <br>
 	3. SloppyTea~932 (0:5)<br>
-	6. QuickFlute~539 (0:3)<br>
+	9. QuickFlute~539 (0:3)<br>
 <br>
-276. #FilthyGlide~918 (1008) 0<br>
+288. #monguesto (1007) +8<br>
+<br>
+	4. bandy (4:5)<br>
+	6. spookydoor (3:6)<br>
+	7. Vergilious (2:1)<br>
+<br>
+289. #ThinBear~920 (1007) +1<br>
++4<br>
+	4. bandy (2:1)<br>
+	6. spookydoor (6:11)<br>
+	7. Vergilious (3:3)<br>
+	9. QuickFlute~539 (0:4)<br>
+	10. Foxylocks12 (1:0)<br>
+<br>
+290. #LavishFauce~178 (1007) +1<br>
+<br>
+	5. MadDookie (0:1)<br>
+<br>
+291. #VividerAphid (1007) +1<br>
+<br>
+	5. MadDookie (1:0)<br>
+	10. Foxylocks12 (1:7)<br>
+<br>
+292. #FlowoodMS (1007) 0<br>
 <br>
 <br>
-277. #PaperGoose~533 (1008) +6<br>
+293. #Gideon (1007) 0<br>
++2<br>
+	2. JazzyDeer (1:12)<br>
+	3. SloppyTea~932 (3:7)<br>
+	5. MadDookie (9:12)<br>
+	8. Matthew0898 (6:11)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-<br>
-278. #Kid.Op (1007) -1<br>
-+1|-1<br>
-	1. JazzyDeer (1:7)<br>
-	3. SloppyTea~932 (0:4)<br>
-	4. MadDookie (6:9)<br>
-	7. Vergilious (0:2)<br>
-	8. Foxylocks12 (4:13)<br>
-<br>
-279. #FlowoodMS (1007) 0<br>
-<br>
-<br>
-280. #SmotPoker (1007) 0<br>
-<br>
-<br>
-281. #TheRealNoob (1007) 0<br>
+294. #TheRealNoob (1007) 0<br>
 +7<br>
-	6. QuickFlute~539 (0:9)<br>
 	7. Vergilious (0:2)<br>
-	8. Foxylocks12 (0:1)<br>
+	9. QuickFlute~539 (0:9)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-282. #TaoGuardian (1007) 0<br>
+295. #Starkadh (1007) -1<br>
 <br>
-	6. QuickFlute~539 (0:3)<br>
+	3. SloppyTea~932 (1:3)<br>
+	4. bandy (1:0)<br>
+	7. Vergilious (1:0)<br>
+	8. Matthew0898 (1:2)<br>
+	10. Foxylocks12 (1:1)<br>
+<br>
+296. #TaoGuardian (1007) 0<br>
+<br>
 	7. Vergilious (0:3)<br>
-	8. Foxylocks12 (0:1)<br>
+	9. QuickFlute~539 (0:3)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-283. #drhillikilil (1007) -2<br>
-<br>
-	4. MadDookie (2:2)<br>
-	5. bandy (3:2)<br>
-<br>
-284. #wizardtron (1007) 0<br>
+297. #wizardtron (1007) 0<br>
 <br>
 	3. SloppyTea~932 (0:1)<br>
-	5. bandy (0:2)<br>
+	4. bandy (0:2)<br>
 	7. Vergilious (7:1)<br>
+	8. Matthew0898 (0:1)<br>
 <br>
-285. #scabz (1007) 0<br>
-<br>
-<br>
-286. #xtps (1007) 0<br>
+298. #scabz (1007) 0<br>
 <br>
 <br>
-287. #Majed205 (1007) -2<br>
-+11|-2<br>
-	5. bandy (2:5)<br>
-	6. QuickFlute~539 (3:3)<br>
-	7. Vergilious (1:5)<br>
-	10. ValveFury (1:2)<br>
+299. #Bi-Polar (1007) 0<br>
 <br>
-288. #scampadour (1007) 0<br>
+	4. bandy (0:5)<br>
+	7. Vergilious (1:0)<br>
+	9. QuickFlute~539 (0:1)<br>
+<br>
+300. #xtps (1007) 0<br>
+<br>
+<br>
+301. #scampadour (1007) 0<br>
 <br>
 	3. SloppyTea~932 (2:2)<br>
 	7. Vergilious (1:0)<br>
-	10. ValveFury (0:1)<br>
 <br>
-289. #Huragok (1007) 0<br>
-<br>
-<br>
-290. #BKwak28 (1007) 0<br>
+302. #Huragok (1007) 0<br>
 <br>
 <br>
-291. #Grand~Admiral (1007) +1<br>
+303. #BKwak28 (1007) 0<br>
 <br>
 <br>
-292. #Zacc_ (1007) +1<br>
-0<br>
-	3. SloppyTea~932 (0:1)<br>
-	8. Foxylocks12 (0:2)<br>
-<br>
-293. #SilentGhost~850 (1007) 0<br>
-<br>
-	5. bandy (0:1)<br>
-<br>
-294. #Stath (1007) 0<br>
+304. #valeriocarre (1007) -1<br>
 <br>
 <br>
-295. #asafe0 (1007) 0<br>
+305. #Grand~Admiral (1007) 0<br>
+<br>
+	8. Matthew0898 (0:1)<br>
+<br>
+306. #SneakyRam~754 (1007) -2<br>
+-4<br>
+	3. SloppyTea~932 (2:0)<br>
+	4. bandy (1:1)<br>
+	6. spookydoor (0:4)<br>
+	7. Vergilious (3:0)<br>
+<br>
+307. #Dadestroye (1007) +2<br>
++4<br>
+	2. JazzyDeer (2:4)<br>
+	3. SloppyTea~932 (3:4)<br>
+	5. MadDookie (6:7)<br>
+	7. Vergilious (1:4)<br>
+	8. Matthew0898 (3:4)<br>
+	10. Foxylocks12 (1:0)<br>
+<br>
+308. #SilentGhost~850 (1007) 0<br>
+<br>
+	4. bandy (0:1)<br>
+<br>
+309. #Stath (1007) 0<br>
 <br>
 <br>
-296. #WildMonkey~699 (1007) -3<br>
+310. #asafe0 (1007) 0<br>
 <br>
 <br>
-297. #Privat3 (1007) 0<br>
+311. #Privat3 (1007) 0<br>
+<br>
+	8. Matthew0898 (0:5)<br>
+<br>
+312. #AngryRobin~972 (1007) 0<br>
+<br>
+	4. bandy (1:0)<br>
+	6. spookydoor (4:2)<br>
+	9. QuickFlute~539 (0:1)<br>
+<br>
+313. #Ammar_N (1007) -1<br>
+-4<br>
+	4. bandy (0:4)<br>
+	6. spookydoor (0:3)<br>
+<br>
+314. #thepandasage (1007) 0<br>
+<br>
+	4. bandy (0:1)<br>
+	6. spookydoor (4:0)<br>
+<br>
+315. #tigrenok026 (1007) 0<br>
 <br>
 <br>
-298. #AngryRobin~972 (1007) +3<br>
+316. #beeman80 (1007) +4<br>
 <br>
-	5. bandy (1:0)<br>
-	6. QuickFlute~539 (0:1)<br>
-	9. spookydoor (4:2)<br>
+	4. bandy (2:2)<br>
 <br>
-299. #Bi-Polar (1007) +1<br>
-<br>
-	5. bandy (0:3)<br>
-	6. QuickFlute~539 (0:1)<br>
+317. #batman7000 (1007) +1<br>
++1<br>
+	2. JazzyDeer (1:0)<br>
+	3. SloppyTea~932 (0:5)<br>
+	5. MadDookie (0:1)<br>
 	7. Vergilious (1:0)<br>
+	8. Matthew0898 (0:1)<br>
+	9. QuickFlute~539 (1:1)<br>
 <br>
-300. #thepandasage (1007) 0<br>
-<br>
-	5. bandy (0:1)<br>
-	9. spookydoor (4:0)<br>
-<br>
-301. #tigrenok026 (1007) 0<br>
-<br>
-<br>
-302. #SnatchWeasel (1007) 0<br>
-+15|-6|-7|-2|+3|-3<br>
-	3. SloppyTea~932 (0:3)<br>
-	5. bandy (0:3)<br>
-	6. QuickFlute~539 (1:3)<br>
-	7. Vergilious (0:5)<br>
-	9. spookydoor (2:1)<br>
-	10. ValveFury (0:1)<br>
-<br>
-303. #a7mad (1007) 0<br>
-0<br>
-	3. SloppyTea~932 (0:4)<br>
-	4. MadDookie (2:4)<br>
-	7. Vergilious (0:4)<br>
-	8. Foxylocks12 (1:2)<br>
-<br>
-304. #supiorlemon (1007) 0<br>
-<br>
-	3. SloppyTea~932 (2:8)<br>
-	4. MadDookie (4:3)<br>
-<br>
-305. #VividerAphid (1006) -2<br>
-<br>
-	4. MadDookie (1:0)<br>
-	8. Foxylocks12 (1:7)<br>
-<br>
-306. #TRistanbul (1006) 0<br>
+318. #TRistanbul (1006) 0<br>
 -1<br>
 <br>
-307. #LavishFauce~178 (1006) 0<br>
+319. #bruha (1006) 0<br>
 <br>
-	4. MadDookie (0:1)<br>
-<br>
-308. #A_Skiller (1006) -1<br>
-<br>
-	3. SloppyTea~932 (1:0)<br>
-<br>
-309. #bruha (1006) 0<br>
-<br>
-	5. bandy (1:0)<br>
-	6. QuickFlute~539 (0:1)<br>
+	4. bandy (1:0)<br>
 	7. Vergilious (0:1)<br>
+	9. QuickFlute~539 (0:1)<br>
 <br>
-310. #murilobg (1006) 0<br>
+320. #murilobg (1006) 0<br>
 <br>
-	5. bandy (0:1)<br>
+	4. bandy (0:1)<br>
 	7. Vergilious (0:2)<br>
 <br>
-311. #GenBelIblis (1006) +2<br>
+321. #pew_pew (1006) +3<br>
 <br>
-	1. JazzyDeer (2:0)<br>
-	3. SloppyTea~932 (1:2)<br>
-	4. MadDookie (2:3)<br>
-	8. Foxylocks12 (0:3)<br>
+	2. JazzyDeer (0:3)<br>
 <br>
-312. #Mine~Turtle (1006) 0<br>
+322. #scottyo99 (1006) +2<br>
 <br>
+	2. JazzyDeer (1:2)<br>
+	5. MadDookie (3:2)<br>
+	8. Matthew0898 (3:2)<br>
 <br>
-313. #Kotori (1006) -1<br>
--1<br>
-	3. SloppyTea~932 (2:5)<br>
-	4. MadDookie (1:0)<br>
-	7. Vergilious (0:1)<br>
-	8. Foxylocks12 (0:1)<br>
+323. #supiorlemon (1006) 0<br>
 <br>
-314. #ThinBear~920 (1006) 0<br>
-+3<br>
-	5. bandy (2:1)<br>
-	6. QuickFlute~539 (0:4)<br>
-	7. Vergilious (3:3)<br>
-	8. Foxylocks12 (1:0)<br>
-	9. spookydoor (5:11)<br>
-	10. ValveFury (1:1)<br>
+	2. JazzyDeer (0:1)<br>
+	3. SloppyTea~932 (2:8)<br>
+	5. MadDookie (4:5)<br>
 <br>
-315. #Easter (1006) 0<br>
+324. #Mine~Turtle (1006) 0<br>
 <br>
 <br>
-316. #Patience.. (1006) 0<br>
+325. #Easter (1006) 0<br>
 <br>
+<br>
+326. #Patience.. (1006) 0<br>
+<br>
+	6. spookydoor (2:2)<br>
 	7. Vergilious (1:0)<br>
-	9. spookydoor (2:2)<br>
 <br>
-317. #HazyClove~853 (1006) 0<br>
+327. #HazyClove~853 (1006) 0<br>
 <br>
 <br>
-318. #Lunula (1006) 0<br>
+328. #Smaugy (1006) 0<br>
 <br>
-	1. JazzyDeer (0:2)<br>
+	10. Foxylocks12 (1:0)<br>
 <br>
-319. #Smaugy (1006) 0<br>
-<br>
-	8. Foxylocks12 (1:0)<br>
-<br>
-320. #xxjoshzxx (1006) 0<br>
+329. #xxjoshzxx (1006) 0<br>
 0<br>
-	4. MadDookie (2:4)<br>
+	5. MadDookie (2:4)<br>
 	7. Vergilious (5:5)<br>
 <br>
-321. #newguy11 (1006) +1<br>
+330. #newguy11 (1006) 0<br>
 <br>
 <br>
-322. #MagicTooth~593 (1006) 0<br>
+331. #MagicTooth~593 (1006) 0<br>
 <br>
 	3. SloppyTea~932 (5:8)<br>
 <br>
-323. #gervi (1006) 0<br>
+332. #A_Skiller (1006) -1<br>
+<br>
+	3. SloppyTea~932 (1:0)<br>
+	8. Matthew0898 (0:1)<br>
+<br>
+333. #hulan (1006) -4<br>
+<br>
+	3. SloppyTea~932 (2:11)<br>
+	5. MadDookie (2:2)<br>
+	6. spookydoor (0:3)<br>
+<br>
+334. #vip_genius (1006) 0<br>
+<br>
+	6. spookydoor (2:0)<br>
+	8. Matthew0898 (1:2)<br>
+<br>
+335. #Omnibus (1006) +4<br>
+<br>
+<br>
+336. #comandar (1006) 0<br>
+<br>
+	4. bandy (1:4)<br>
+	7. Vergilious (2:3)<br>
+	9. QuickFlute~539 (5:3)<br>
+<br>
+337. #unicornio123 (1006) 0<br>
+<br>
+<br>
+338. #dont.mess (1006) 0<br>
+<br>
+<br>
+339. #Waffle3z (1006) 0<br>
+<br>
+	8. Matthew0898 (3:1)<br>
+<br>
+340. #gervi (1005) 0<br>
 <br>
 	3. SloppyTea~932 (0:3)<br>
-	4. MadDookie (3:6)<br>
-	8. Foxylocks12 (1:1)<br>
+	5. MadDookie (3:6)<br>
+	10. Foxylocks12 (1:1)<br>
 <br>
-324. #vip_genius (1006) +6<br>
-<br>
-	9. spookydoor (2:0)<br>
-<br>
-325. #comandar (1006) 0<br>
-<br>
-	5. bandy (1:4)<br>
-	6. QuickFlute~539 (5:3)<br>
-	7. Vergilious (2:3)<br>
-<br>
-326. #unicornio123 (1006) 0<br>
+341. #HandyPear~678 (1005) 0<br>
 <br>
 <br>
-327. #dont.mess (1006) 0<br>
+342. #Knightimer (1005) 0<br>
 <br>
 <br>
-328. #Waffle3z (1006) 0<br>
+343. #LateCrush~930 (1005) 0<br>
 <br>
-<br>
-329. #MagnusWH40K (1005) +2<br>
--1<br>
-	5. bandy (2:1)<br>
-	6. QuickFlute~539 (0:3)<br>
-	7. Vergilious (0:3)<br>
-	9. spookydoor (0:2)<br>
-<br>
-330. #HandyPear~678 (1005) 0<br>
-<br>
-<br>
-331. #Knightimer (1005) 0<br>
-<br>
-<br>
-332. #LateCrush~930 (1005) 0<br>
-<br>
-	5. bandy (2:2)<br>
-	6. QuickFlute~539 (1:2)<br>
+	4. bandy (2:2)<br>
 	7. Vergilious (0:5)<br>
+	9. QuickFlute~539 (1:2)<br>
 <br>
-333. #Wickedrunner (1005) +1<br>
+344. #Wickedrunner (1005) 0<br>
 <br>
-	6. QuickFlute~539 (0:2)<br>
+	9. QuickFlute~539 (0:2)<br>
 <br>
-334. #JeffDoughnut (1005) 0<br>
-<br>
-<br>
-335. #hobbes313 (1005) 0<br>
+345. #JeffDoughnut (1005) 0<br>
 <br>
 <br>
-336. #VOSTOK (1005) +3<br>
+346. #hobbes313 (1005) 0<br>
+<br>
+<br>
+347. #gmclarty (1005) +10<br>
++14<br>
+	4. bandy (4:9)<br>
+	7. Vergilious (0:2)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+348. #VOSTOK (1005) 0<br>
 <br>
 	3. SloppyTea~932 (1:2)<br>
-	4. MadDookie (4:7)<br>
+	5. MadDookie (4:7)<br>
 	7. Vergilious (1:0)<br>
-	10. ValveFury (1:1)<br>
+	8. Matthew0898 (0:2)<br>
 <br>
-337. #kwaz (1005) 0<br>
-<br>
-<br>
-338. #AgoraX (1005) 0<br>
+349. #kwaz (1005) 0<br>
 <br>
 <br>
-339. #CurlySofa~686 (1005) 0<br>
+350. #AgoraX (1005) 0<br>
+<br>
+	8. Matthew0898 (0:3)<br>
+<br>
+351. #CurlySofa~686 (1005) 0<br>
 <br>
 <br>
-340. #pure1 (1005) 0<br>
+352. #pure1 (1005) 0<br>
 <br>
 <br>
-341. #batman7000 (1005) +2<br>
-<br>
-	1. JazzyDeer (1:0)<br>
-	3. SloppyTea~932 (0:5)<br>
-	4. MadDookie (0:1)<br>
-	6. QuickFlute~539 (1:1)<br>
-	7. Vergilious (1:0)<br>
-<br>
-342. #Retaliation- (1005) 0<br>
+353. #Retaliation- (1005) 0<br>
 <br>
 <br>
-343. #xomarhs (1005) 0<br>
--1<br>
-	7. Vergilious (2:7)<br>
-	10. ValveFury (0:1)<br>
-<br>
-344. #WigglyTater~864 (1005) 0<br>
+354. #WigglyTater~864 (1005) 0<br>
 <br>
 <br>
-345. #SableCloud~708 (1005) 0<br>
+355. #SableCloud~708 (1005) 0<br>
 <br>
 <br>
-346. #azi_dahaka (1005) -2<br>
+356. #azi_dahaka (1005) 0<br>
 +4<br>
 	3. SloppyTea~932 (2:1)<br>
-	4. MadDookie (0:1)<br>
-	5. bandy (0:1)<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (0:1)<br>
+	7. Vergilious (1:3)<br>
+	8. Matthew0898 (0:2)<br>
+<br>
+357. #a7mad (1005) -2<br>
+-2<br>
+	3. SloppyTea~932 (0:4)<br>
+	4. bandy (0:5)<br>
+	5. MadDookie (2:4)<br>
+	7. Vergilious (0:4)<br>
+	8. Matthew0898 (6:7)<br>
+	10. Foxylocks12 (1:2)<br>
+<br>
+358. #nazgol (1005) 0<br>
+<br>
+<br>
+359. #GucciNectar (1005) +1<br>
+<br>
+	8. Matthew0898 (0:1)<br>
+	10. Foxylocks12 (0:2)<br>
+<br>
+360. #divz3r0 (1005) 0<br>
+<br>
+	4. bandy (1:0)<br>
 	7. Vergilious (1:3)<br>
 <br>
-347. #nazgol (1005) 0<br>
+361. #Dangit (1005) +6<br>
+<br>
+	6. spookydoor (5:4)<br>
+	10. Foxylocks12 (0:2)<br>
+<br>
+362. #Do~Nothing (1005) +2<br>
 <br>
 <br>
-348. #divz3r0 (1005) 0<br>
+363. #Huki (1005) 0<br>
 <br>
-	5. bandy (1:0)<br>
-	7. Vergilious (1:3)<br>
+	4. bandy (0:1)<br>
 <br>
-349. #Huki (1005) 0<br>
+364. #HugeKazoo~582 (1005) 0<br>
 <br>
-	5. bandy (0:1)<br>
-<br>
-350. #HugeKazoo~582 (1005) +1<br>
-<br>
-	1. JazzyDeer (0:1)<br>
+	2. JazzyDeer (0:1)<br>
 	3. SloppyTea~932 (0:1)<br>
-	4. MadDookie (2:5)<br>
-	8. Foxylocks12 (1:1)<br>
-	10. ValveFury (1:0)<br>
+	5. MadDookie (2:5)<br>
+	8. Matthew0898 (2:1)<br>
+	10. Foxylocks12 (1:1)<br>
 <br>
-351. #jinelle (1005) 0<br>
-<br>
-<br>
-352. #SourSpruce~675 (1005) 0<br>
+365. #jinelle (1005) 0<br>
 <br>
 <br>
-353. #TheLegend72 (1005) 0<br>
+366. #SourSpruce~675 (1005) 0<br>
+<br>
+<br>
+367. #TheLegend72 (1005) 0<br>
 <br>
 	3. SloppyTea~932 (1:2)<br>
-	4. MadDookie (1:0)<br>
-	5. bandy (0:3)<br>
+	4. bandy (0:3)<br>
+	5. MadDookie (1:0)<br>
 	7. Vergilious (1:1)<br>
+	8. Matthew0898 (2:1)<br>
 <br>
-354. #BepoHuka (1005) 0<br>
+368. #BepoHuka (1005) 0<br>
 <br>
 <br>
-355. #scottyo99 (1005) 0<br>
+369. #mlewiz (1005) +1<br>
 <br>
-	4. MadDookie (2:2)<br>
 <br>
-356. #Thurst777 (1004) 0<br>
+370. #Thurst777 (1004) 0<br>
 <br>
-	4. MadDookie (0:1)<br>
-	5. bandy (1:2)<br>
+	4. bandy (1:2)<br>
+	5. MadDookie (0:1)<br>
 	7. Vergilious (1:0)<br>
 <br>
-357. #LiquidS (1004) 0<br>
-+12|+6<br>
-	5. bandy (3:4)<br>
-	7. Vergilious (2:5)<br>
-	9. spookydoor (1:8)<br>
-<br>
-358. #Dadestroye (1004) +1<br>
-+2<br>
-	3. SloppyTea~932 (3:4)<br>
-	4. MadDookie (5:4)<br>
-	7. Vergilious (1:4)<br>
-	8. Foxylocks12 (1:0)<br>
-<br>
-359. #Hai_Rijo (1004) +2<br>
-<br>
-	10. ValveFury (0:1)<br>
-<br>
-360. #bluesteez (1004) 0<br>
+371. #Hai_Rijo (1004) 0<br>
 <br>
 <br>
-361. #warmant-116 (1004) 0<br>
+372. #bluesteez (1004) 0<br>
 <br>
 <br>
-362. #Alano (1004) 0<br>
+373. #warmant-116 (1004) 0<br>
 <br>
 <br>
-363. #OrkBlood (1004) 0<br>
+374. #Alano (1004) 0<br>
 <br>
 <br>
-364. #liquidlegs (1004) 0<br>
-<br>
-	5. bandy (0:1)<br>
-	7. Vergilious (0:3)<br>
-	8. Foxylocks12 (1:1)<br>
-<br>
-365. #Badlemon (1004) 0<br>
+375. #OrkBlood (1004) 0<br>
 <br>
 <br>
-366. #PMN (1004) 0<br>
+376. #Mimicry (1004) +4<br>
 <br>
 <br>
-367. #doc123 (1004) 0<br>
+377. #teamdaddy (1004) +4<br>
 <br>
-	4. MadDookie (0:1)<br>
-	9. spookydoor (0:1)<br>
-<br>
-368. #the-jk (1004) 0<br>
-<br>
-<br>
-369. #Axew02 (1004) 0<br>
-<br>
-<br>
-370. #sixteled (1004) 0<br>
-<br>
-<br>
-371. #Monsterz (1004) 0<br>
-<br>
-	3. SloppyTea~932 (1:1)<br>
+	4. bandy (1:0)<br>
+	6. spookydoor (1:2)<br>
 	7. Vergilious (1:0)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-372. #ShyPants~334 (1004) 0<br>
+378. #Badlemon (1004) 0<br>
 <br>
 <br>
-373. #someOnh (1004) 0<br>
+379. #WildWapiti (1004) +4<br>
+<br>
+<br>
+380. #PMN (1004) 0<br>
+<br>
+<br>
+381. #WildMonkey~699 (1004) -3<br>
+<br>
+<br>
+382. #doc123 (1004) 0<br>
+<br>
+	5. MadDookie (0:1)<br>
+	6. spookydoor (0:1)<br>
+<br>
+383. #the-jk (1004) 0<br>
+<br>
+	8. Matthew0898 (2:0)<br>
+<br>
+384. #Axew02 (1004) 0<br>
+<br>
+<br>
+385. #sixteled (1004) 0<br>
+<br>
+<br>
+386. #someOnh (1004) 0<br>
 <br>
 	7. Vergilious (0:1)<br>
 <br>
-374. #Symsymmy (1004) -2<br>
+387. #Symsymmy (1004) 0<br>
 +1<br>
-	4. MadDookie (3:3)<br>
+	5. MadDookie (3:3)<br>
+	8. Matthew0898 (0:1)<br>
 <br>
-375. #xarry2 (1004) 0<br>
+388. #xarry2 (1004) 0<br>
 -1<br>
-	5. bandy (1:7)<br>
+	4. bandy (1:7)<br>
 	7. Vergilious (0:3)<br>
 <br>
-376. #Neehor (1004) 0<br>
+389. #TheMafia (1004) +4<br>
 <br>
-	5. bandy (0:4)<br>
-	6. QuickFlute~539 (0:2)<br>
-	9. spookydoor (1:1)<br>
+	3. SloppyTea~932 (0:1)<br>
+	4. bandy (0:1)<br>
+	6. spookydoor (1:0)<br>
 <br>
-377. #LightChalk~422 (1004) 0<br>
-<br>
-<br>
-378. #GucciNectar (1004) -2<br>
-<br>
-	8. Foxylocks12 (0:2)<br>
-<br>
-379. #mlewiz (1004) 0<br>
-<br>
-<br>
-380. #Yogensha- (1004) 0<br>
-<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-381. #emoji.Com (1004) 0<br>
-<br>
-<br>
-382. #barlyaev (1004) 0<br>
-<br>
-	5. bandy (1:1)<br>
-<br>
-383. #polinom (1004) 0<br>
-<br>
-<br>
-384. #daneanater13 (1004) 0<br>
+390. #Monsterz (1004) 0<br>
 <br>
 	3. SloppyTea~932 (1:1)<br>
-	4. MadDookie (1:1)<br>
 	7. Vergilious (1:0)<br>
 <br>
-385. #purakane (1004) 0<br>
+391. #Neehor (1004) 0<br>
+<br>
+	4. bandy (0:4)<br>
+	6. spookydoor (1:1)<br>
+	9. QuickFlute~539 (0:2)<br>
+<br>
+392. #LightChalk~422 (1004) 0<br>
 <br>
 <br>
-386. #FancyCar~225 (1004) 0<br>
+393. #Yogensha- (1004) 0<br>
 <br>
-	5. bandy (0:4)<br>
-	6. QuickFlute~539 (1:1)<br>
+	8. Matthew0898 (4:4)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-387. #sedativebeef (1004) -2<br>
-<br>
-	5. bandy (1:3)<br>
-	9. spookydoor (0:1)<br>
-<br>
-388. #ammoore1028 (1004) 0<br>
+394. #emoji.Com (1004) 0<br>
 <br>
 <br>
-389. #jbperez808 (1004) 0<br>
+395. #barlyaev (1004) 0<br>
+<br>
+	4. bandy (1:1)<br>
+<br>
+396. #daneanater13 (1004) 0<br>
+<br>
+	3. SloppyTea~932 (1:1)<br>
+	5. MadDookie (1:1)<br>
+	7. Vergilious (1:0)<br>
+	8. Matthew0898 (1:0)<br>
+<br>
+397. #purakane (1004) 0<br>
+<br>
+	8. Matthew0898 (1:0)<br>
+<br>
+398. #FancyCar~225 (1004) 0<br>
+<br>
+	4. bandy (0:4)<br>
+	9. QuickFlute~539 (1:1)<br>
+<br>
+399. #ammoore1028 (1004) 0<br>
 <br>
 <br>
-390. #AbsurdTiger~542 (1004) +3<br>
+400. #jbperez808 (1004) 0<br>
 <br>
 <br>
-391. #horrorX (1004) 0<br>
+401. #AbsurdTiger~542 (1004) 0<br>
 <br>
 <br>
-392. #pandaface90 (1004) +4<br>
-+8|-10|-1|+4<br>
-	3. SloppyTea~932 (4:8)<br>
-	4. MadDookie (6:17)<br>
-	7. Vergilious (1:3)<br>
-	8. Foxylocks12 (4:9)<br>
-	9. spookydoor (0:1)<br>
+402. #horrorX (1004) 0<br>
 <br>
-393. #raptorian (1004) 0<br>
+<br>
+403. #raptorian (1004) 0<br>
 <br>
 	3. SloppyTea~932 (2:0)<br>
 <br>
-394. #pew_pew (1004) 0<br>
-<br>
-	1. JazzyDeer (0:3)<br>
-<br>
-395. #monsterV (1004) 0<br>
+404. #monsterV (1004) 0<br>
 <br>
 <br>
-396. #Smaug- (1004) 0<br>
+405. #Smaug- (1004) 0<br>
 <br>
 	7. Vergilious (0:2)<br>
 <br>
-397. #Cpt_Faramir (1003) 0<br>
+406. #Squiggly~Line (1004) +2<br>
 <br>
-	5. bandy (2:5)<br>
+<br>
+407. #Cpt_Faramir (1003) 0<br>
+<br>
+	4. bandy (2:5)<br>
 	7. Vergilious (3:7)<br>
 <br>
-398. #Human~Being (1003) +4<br>
+408. #Human~Being (1003) 0<br>
 <br>
 <br>
-399. #boww38 (1003) 0<br>
+409. #boww38 (1003) 0<br>
 <br>
 <br>
-400. #CheapBeef~122 (1003) 0<br>
-<br>
-	5. bandy (3:3)<br>
-	7. Vergilious (2:1)<br>
-<br>
-401. #bifflaps (1003) 0<br>
+410. #bifflaps (1003) 0<br>
 <br>
 <br>
-402. #Reclamation- (1003) -1<br>
+411. #Reclamation- (1003) 0<br>
 <br>
 	3. SloppyTea~932 (1:1)<br>
-	5. bandy (0:1)<br>
-	8. Foxylocks12 (1:1)<br>
+	4. bandy (0:1)<br>
+	8. Matthew0898 (3:0)<br>
+	10. Foxylocks12 (1:1)<br>
 <br>
-403. #Do~Nothing (1003) 0<br>
+412. #xomarhs (1003) -2<br>
+-2<br>
+	6. spookydoor (0:1)<br>
+	7. Vergilious (2:7)<br>
+<br>
+413. #kokona (1003) +1<br>
++1|+1|+2<br>
+	4. bandy (1:5)<br>
+	6. spookydoor (3:12)<br>
+	7. Vergilious (2:6)<br>
+	9. QuickFlute~539 (1:2)<br>
+	10. Foxylocks12 (3:0)<br>
+<br>
+414. #Kitini (1003) +3<br>
+<br>
+	5. MadDookie (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+415. #Cap.Kirk (1003) 0<br>
 <br>
 <br>
-404. #Cap.Kirk (1003) 0<br>
+416. #miomonster (1003) 0<br>
+<br>
+	5. MadDookie (0:1)<br>
+<br>
+417. #Lucarius (1003) 0<br>
 <br>
 <br>
-405. #miomonster (1003) 0<br>
-<br>
-	4. MadDookie (0:1)<br>
-<br>
-406. #Lucarius (1003) 0<br>
+418. #ratlabory (1003) 0<br>
 <br>
 <br>
-407. #ratlabory (1003) 0<br>
+419. #Juggernaut (1003) 0<br>
+<br>
+	2. JazzyDeer (0:1)<br>
+	3. SloppyTea~932 (0:1)<br>
+<br>
+420. #polinom (1003) -1<br>
+<br>
+	8. Matthew0898 (1:1)<br>
+<br>
+421. #LilacRabbit (1003) 0<br>
 <br>
 <br>
-408. #WiryBean~310 (1003) 0<br>
+422. #OhmSweetOhm (1003) 0<br>
+<br>
+	4. bandy (0:1)<br>
+	8. Matthew0898 (2:2)<br>
+<br>
+423. #lc2357 (1003) 0<br>
+<br>
+<br>
+424. #bupkis (1003) +3<br>
++1<br>
+	4. bandy (1:7)<br>
+	6. spookydoor (0:3)<br>
+	7. Vergilious (6:11)<br>
+	9. QuickFlute~539 (4:8)<br>
+<br>
+425. #CopperCooki~748 (1003) 0<br>
+<br>
+<br>
+426. #StormyYam~602 (1003) 0<br>
+<br>
+	6. spookydoor (0:1)<br>
+	9. QuickFlute~539 (1:0)<br>
+<br>
+427. #bigbuy (1003) +3<br>
+<br>
+<br>
+428. #HAIDER99 (1003) +2<br>
+<br>
+	5. MadDookie (3:3)<br>
+<br>
+429. #nuttyjeans (1003) 0<br>
+<br>
+	4. bandy (0:1)<br>
+	9. QuickFlute~539 (0:1)<br>
+<br>
+430. #Zacc_ (1003) -4<br>
+-4<br>
+	3. SloppyTea~932 (0:1)<br>
+	10. Foxylocks12 (0:2)<br>
+<br>
+431. #skogbogi4eve (1003) 0<br>
+<br>
+<br>
+432. #WhiteFangz (1003) 0<br>
++2<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (1:1)<br>
+	7. Vergilious (2:5)<br>
+	8. Matthew0898 (5:3)<br>
+	10. Foxylocks12 (2:2)<br>
+<br>
+433. #HillsKING (1003) 0<br>
+-3<br>
+	7. Vergilious (2:0)<br>
+	9. QuickFlute~539 (2:1)<br>
+<br>
+434. #AngryZebra~329 (1003) 0<br>
+<br>
+<br>
+435. #Radius~Attack (1003) 0<br>
+<br>
+<br>
+436. #MrWayFarOut (1003) 0<br>
+<br>
+	2. JazzyDeer (1:0)<br>
+<br>
+437. #SPARTANxRK (1003) 0<br>
+<br>
+	2. JazzyDeer (0:1)<br>
+	5. MadDookie (0:3)<br>
+	6. spookydoor (0:1)<br>
+	8. Matthew0898 (2:0)<br>
+<br>
+438. #marcsync (1003) 0<br>
+<br>
+	4. bandy (1:4)<br>
+<br>
+439. #WiryBean~310 (1003) 0<br>
 <br>
 	3. SloppyTea~932 (3:2)<br>
-	4. MadDookie (1:1)<br>
+	5. MadDookie (1:1)<br>
+	8. Matthew0898 (5:3)<br>
 <br>
-409. #Juggernaut (1003) -1<br>
+440. #CheapBeef~122 (1003) -1<br>
 <br>
-	1. JazzyDeer (0:1)<br>
-	3. SloppyTea~932 (0:1)<br>
+	4. bandy (3:3)<br>
+	7. Vergilious (2:1)<br>
 <br>
-410. #LilacRabbit (1003) 0<br>
+441. #GoofySoup~442 (1003) 0<br>
 <br>
+	8. Matthew0898 (1:0)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-411. #OhmSweetOhm (1003) 0<br>
-<br>
-	5. bandy (0:1)<br>
-<br>
-412. #lc2357 (1003) 0<br>
-<br>
-<br>
-413. #CopperCooki~748 (1003) 0<br>
+442. #grand008 (1003) 0<br>
 <br>
 <br>
-414. #daavid80 (1003) +2<br>
+443. #PERDIGUEIRO0 (1003) +7<br>
++5|+5<br>
+	2. JazzyDeer (0:5)<br>
+	4. bandy (0:3)<br>
+	5. MadDookie (4:7)<br>
+	6. spookydoor (2:7)<br>
+	7. Vergilious (1:5)<br>
+	8. Matthew0898 (2:5)<br>
+	9. QuickFlute~539 (0:2)<br>
 <br>
-	3. SloppyTea~932 (1:1)<br>
-	5. bandy (0:3)<br>
-	7. Vergilious (1:7)<br>
-	10. ValveFury (0:2)<br>
-<br>
-415. #StormyYam~602 (1003) 0<br>
-<br>
-	6. QuickFlute~539 (1:0)<br>
-	9. spookydoor (0:1)<br>
-<br>
-416. #nuttyjeans (1003) 0<br>
-<br>
-	5. bandy (0:1)<br>
-	6. QuickFlute~539 (0:1)<br>
-<br>
-417. #skogbogi4eve (1003) +3<br>
-<br>
-<br>
-418. #WhiteFangz (1003) 0<br>
-+2<br>
-	4. MadDookie (1:1)<br>
-	5. bandy (0:1)<br>
-	7. Vergilious (2:5)<br>
-	8. Foxylocks12 (2:2)<br>
-<br>
-419. #HillsKING (1003) 0<br>
--3<br>
-	6. QuickFlute~539 (2:1)<br>
-	7. Vergilious (2:0)<br>
-<br>
-420. #AngryZebra~329 (1003) 0<br>
-<br>
-<br>
-421. #duvanos (1003) +3<br>
+444. #Bran (1003) 0<br>
 <br>
 	3. SloppyTea~932 (1:1)<br>
-	4. MadDookie (1:3)<br>
-	7. Vergilious (0:1)<br>
-<br>
-422. #Radius~Attack (1003) +2<br>
-<br>
-<br>
-423. #MrWayFarOut (1003) +2<br>
-<br>
-	1. JazzyDeer (1:0)<br>
-<br>
-424. #SPARTANxRK (1003) 0<br>
-<br>
-	1. JazzyDeer (0:1)<br>
-	4. MadDookie (0:3)<br>
-	9. spookydoor (0:1)<br>
-<br>
-425. #marcsync (1003) 0<br>
-<br>
-	5. bandy (1:4)<br>
-<br>
-426. #N-O-V-A (1003) -1<br>
-<br>
-	3. SloppyTea~932 (0:2)<br>
-	4. MadDookie (0:1)<br>
-<br>
-427. #GoofySoup~442 (1003) +3<br>
-<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-428. #grand008 (1003) +2<br>
-<br>
-<br>
-429. #Bran (1003) 0<br>
-<br>
-	3. SloppyTea~932 (1:1)<br>
-	4. MadDookie (1:2)<br>
+	5. MadDookie (1:2)<br>
 	7. Vergilious (3:4)<br>
-	10. ValveFury (0:1)<br>
 <br>
-430. #tulumz (1003) 0<br>
-<br>
-<br>
-431. #woody28 (1003) 0<br>
-<br>
-	5. bandy (0:1)<br>
-<br>
-432. #abcabc83 (1003) 0<br>
-<br>
-	4. MadDookie (1:0)<br>
-<br>
-433. #GreenDeer~922 (1003) -1<br>
-<br>
-	5. bandy (0:1)<br>
-<br>
-434. #aKatsuki808 (1003) 0<br>
+445. #tulumz (1003) 0<br>
 <br>
 <br>
-435. #PII (1003) 0<br>
+446. #Dark_One (1003) 0<br>
+<br>
+	8. Matthew0898 (1:0)<br>
+<br>
+447. #woody28 (1003) 0<br>
+<br>
+	4. bandy (0:1)<br>
+<br>
+448. #abcabc83 (1003) 0<br>
+<br>
+	5. MadDookie (1:0)<br>
+	8. Matthew0898 (1:0)<br>
+<br>
+449. #ShyPants~334 (1003) -2<br>
 <br>
 <br>
-436. #WickedHamme~460 (1003) 0<br>
+450. #manett (1003) +2<br>
 <br>
 <br>
-437. #Dark_One (1003) 0<br>
+451. #aKatsuki808 (1003) 0<br>
 <br>
 <br>
-438. #wallis327 (1003) 0<br>
+452. #PII (1003) 0<br>
 <br>
 <br>
-439. #WigglySpade~507 (1002) 0<br>
+453. #WickedHamme~460 (1003) 0<br>
 <br>
 <br>
-440. #beeman80 (1002) 0<br>
+454. #wallis327 (1003) 0<br>
 <br>
 <br>
-441. #katy.cat (1002) 0<br>
--3<br>
-	3. SloppyTea~932 (1:5)<br>
-	9. spookydoor (0:1)<br>
-<br>
-442. #MagicGum (1002) -2<br>
+455. #WigglySpade~507 (1002) 0<br>
 <br>
 <br>
-443. #Uriel- (1002) 0<br>
+456. #Uriel- (1002) 0<br>
 <br>
 	3. SloppyTea~932 (1:1)<br>
 <br>
-444. #SlickYam~265 (1002) 0<br>
+457. #SlickYam~265 (1002) 0<br>
 <br>
 <br>
-445. #BumpySpot~699 (1002) 0<br>
+458. #duvanos (1002) -1<br>
 <br>
-	9. spookydoor (1:2)<br>
+	3. SloppyTea~932 (1:1)<br>
+	5. MadDookie (1:3)<br>
+	7. Vergilious (0:1)<br>
 <br>
-446. #WickedPizza~656 (1002) 0<br>
+459. #GreenDeer~922 (1002) 0<br>
 <br>
+	4. bandy (0:1)<br>
+	6. spookydoor (0:1)<br>
 <br>
-447. #dr.paradox (1002) 0<br>
+460. #BumpySpot~699 (1002) 0<br>
 <br>
-	3. SloppyTea~932 (0:1)<br>
-	4. MadDookie (2:4)<br>
+	6. spookydoor (1:2)<br>
 <br>
-448. #reevil (1002) 0<br>
-<br>
-<br>
-449. #KIDdontcry (1002) 0<br>
-<br>
-<br>
-450. #PuffyCelery~204 (1002) 0<br>
+461. #WickedPizza~656 (1002) 0<br>
 <br>
 <br>
-451. #Zeus857 (1002) 0<br>
-<br>
-<br>
-452. #proxywar (1002) +2<br>
+462. #N-O-V-A (1002) -1<br>
 <br>
 	3. SloppyTea~932 (0:2)<br>
-	8. Foxylocks12 (1:1)<br>
+	5. MadDookie (0:1)<br>
 <br>
-453. #Angel26 (1002) 0<br>
+463. #dr.paradox (1002) 0<br>
+<br>
+	3. SloppyTea~932 (0:1)<br>
+	5. MadDookie (2:4)<br>
+<br>
+464. #edgarWS (1002) +2<br>
+<br>
+	4. bandy (0:3)<br>
+<br>
+465. #reevil (1002) 0<br>
+<br>
+	8. Matthew0898 (0:1)<br>
+<br>
+466. #PuffyCelery~204 (1002) 0<br>
 <br>
 <br>
-454. #zhaoyufan20 (1002) 0<br>
+467. #k7mar999 (1002) +2<br>
 <br>
-	5. bandy (2:2)<br>
+	8. Matthew0898 (0:1)<br>
+	9. QuickFlute~539 (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-455. #alqahttani (1002) 0<br>
+468. #Zeus857 (1002) 0<br>
 <br>
 <br>
-456. #drunkle (1002) 0<br>
+469. #storage (1002) +2<br>
 <br>
 <br>
-457. #nikpjk (1002) 0<br>
+470. #proxywar (1002) 0<br>
+<br>
+	3. SloppyTea~932 (0:2)<br>
+	8. Matthew0898 (1:1)<br>
+	10. Foxylocks12 (1:1)<br>
+<br>
+471. #mr.oujia (1002) +2<br>
+<br>
+<br>
+472. #zhaoyufan20 (1002) 0<br>
+<br>
+	4. bandy (2:2)<br>
+<br>
+473. #alqahttani (1002) 0<br>
+<br>
+<br>
+474. #DeAThGoD23 (1002) +2<br>
+<br>
+	4. bandy (1:12)<br>
+	6. spookydoor (3:7)<br>
+	7. Vergilious (0:2)<br>
+<br>
+475. #drunkle (1002) 0<br>
+<br>
+<br>
+476. #nikpjk (1002) 0<br>
 <br>
 	7. Vergilious (0:1)<br>
 <br>
-458. #Khalifah (1002) 0<br>
+477. #Khalifah (1002) 0<br>
 <br>
 <br>
-459. #Zaagareth (1002) 0<br>
+478. #Zaagareth (1002) 0<br>
 <br>
-	9. spookydoor (1:0)<br>
+	6. spookydoor (1:0)<br>
 <br>
-460. #pesterd (1002) 0<br>
+479. #pesterd (1002) 0<br>
 <br>
-	8. Foxylocks12 (0:1)<br>
-	10. ValveFury (2:0)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-461. #FurryShoe~205 (1002) 0<br>
-<br>
-<br>
-462. #kokona (1002) -3<br>
-0|0|0<br>
-	5. bandy (1:5)<br>
-	6. QuickFlute~539 (1:2)<br>
-	7. Vergilious (2:6)<br>
-	8. Foxylocks12 (3:0)<br>
-	9. spookydoor (2:12)<br>
-	10. ValveFury (3:2)<br>
-<br>
-463. #Vieu (1002) 0<br>
+480. #FurryShoe~205 (1002) 0<br>
 <br>
 <br>
-464. #Mean~Machine (1002) 0<br>
+481. #Vieu (1002) 0<br>
+<br>
+	8. Matthew0898 (1:0)<br>
+<br>
+482. #Angel26 (1002) 0<br>
 <br>
 <br>
-465. #John117UNSC (1002) +2<br>
+483. #Mean~Machine (1002) 0<br>
 <br>
 <br>
-466. #FiercePony~445 (1002) 0<br>
+484. #John117UNSC (1002) 0<br>
 <br>
 <br>
-467. #zh1271 (1002) 0<br>
+485. #FiercePony~445 (1002) 0<br>
 <br>
 <br>
-468. #deltron3030 (1002) -1<br>
-<br>
-	5. bandy (0:1)<br>
-<br>
-469. #iiKingii (1002) 0<br>
+486. #NaCly (1002) +1<br>
 <br>
 <br>
-470. #Tribeur (1002) 0<br>
+487. #deltron3030 (1002) 0<br>
+<br>
+	4. bandy (0:1)<br>
+<br>
+488. #iiKingii (1002) 0<br>
 <br>
 <br>
-471. #bad.inc (1002) 0<br>
+489. #Tribeur (1002) 0<br>
+<br>
+<br>
+490. #bad.inc (1002) 0<br>
 <br>
 	3. SloppyTea~932 (4:5)<br>
-	4. MadDookie (1:0)<br>
+	5. MadDookie (1:0)<br>
+	8. Matthew0898 (1:1)<br>
 <br>
-472. #carezma404 (1002) 0<br>
-<br>
-<br>
-473. #RedRegret~313 (1002) 0<br>
-<br>
-	5. bandy (1:1)<br>
-<br>
-474. #PluckyFire~766 (1002) -1<br>
-<br>
-	3. SloppyTea~932 (0:1)<br>
-<br>
-475. #ganjasslol (1002) +4<br>
--5|-1|+1<br>
-	1. JazzyDeer (0:2)<br>
-	3. SloppyTea~932 (0:5)<br>
-	4. MadDookie (4:8)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-476. #tristin (1002) +1<br>
-<br>
-	4. MadDookie (0:1)<br>
-	5. bandy (0:1)<br>
-	9. spookydoor (0:1)<br>
-<br>
-477. #MiaKhalifah (1002) 0<br>
+491. #carezma404 (1002) 0<br>
 <br>
 <br>
-478. #trripyy (1002) +2<br>
+492. #RedRegret~313 (1002) 0<br>
+<br>
+	4. bandy (1:1)<br>
+<br>
+493. #MiaKhalifah (1002) 0<br>
 <br>
 <br>
-479. #SHUTTHEF.UP (1002) 0<br>
-<br>
-	9. spookydoor (1:0)<br>
-<br>
-480. #Xoi (1002) 0<br>
-<br>
-	3. SloppyTea~932 (2:1)<br>
-	4. MadDookie (2:0)<br>
-<br>
-481. #QtMagnatar (1002) 0<br>
+494. #trripyy (1002) 0<br>
 <br>
 <br>
-482. #SaggyTea~543 (1002) 0<br>
+495. #katy.cat (1002) -1<br>
+-4<br>
+	3. SloppyTea~932 (1:5)<br>
+	6. spookydoor (0:4)<br>
+	8. Matthew0898 (1:0)<br>
+<br>
+496. #SHUTTHEF.UP (1002) 0<br>
+<br>
+	6. spookydoor (1:0)<br>
+<br>
+497. #QtMagnatar (1002) 0<br>
 <br>
 <br>
-483. #MusicHunter (1002) 0<br>
+498. #SaggyTea~543 (1002) 0<br>
 <br>
 <br>
-484. #mrskimdagame (1002) 0<br>
+499. #MusicHunter (1002) 0<br>
 <br>
 <br>
-485. #Sipp_Succ (1002) 0<br>
+500. #mrskimdagame (1002) 0<br>
 <br>
 <br>
-486. #raisr4 (1002) 0<br>
+501. #Sipp_Succ (1002) 0<br>
 <br>
 <br>
-487. #WiseMit~500 (1002) -3<br>
--5<br>
-<br>
-488. #SouthSide (1002) 0<br>
+502. #raisr4 (1002) 0<br>
 <br>
 <br>
-489. #jkoy3.2 (1002) 0<br>
+503. #SouthSide (1002) 0<br>
 <br>
 <br>
-490. #Omnibus (1002) -2<br>
+504. #jkoy3.2 (1002) 0<br>
 <br>
 <br>
-491. #ChiefBlkHawk (1002) 0<br>
+505. #ChiefBlkHawk (1002) 0<br>
 <br>
 <br>
-492. #LazyRobin~553 (1001) 0<br>
+506. #LazyRobin~553 (1001) 0<br>
 <br>
 <br>
-493. #GrumpyBeef~626 (1001) 0<br>
+507. #GrumpyBeef~626 (1001) 0<br>
 <br>
 	7. Vergilious (0:1)<br>
 <br>
-494. #dahetus (1001) 0<br>
+508. #dahetus (1001) 0<br>
 <br>
 <br>
-495. #LateSoup~552 (1001) 0<br>
+509. #LateSoup~552 (1001) 0<br>
 <br>
 <br>
-496. #BUTCHER-47 (1001) +3<br>
+510. #BUTCHER-47 (1001) 0<br>
 <br>
 	3. SloppyTea~932 (1:5)<br>
-	4. MadDookie (1:1)<br>
-	6. QuickFlute~539 (1:1)<br>
+	5. MadDookie (1:1)<br>
+	8. Matthew0898 (0:4)<br>
+	9. QuickFlute~539 (1:1)<br>
 <br>
-497. #HAIDER99 (1001) 0<br>
-<br>
-	4. MadDookie (3:3)<br>
-<br>
-498. #J_Dawg99 (1001) 0<br>
+511. #J_Dawg99 (1001) 0<br>
 <br>
 <br>
-499. #Inspiration- (1001) 0<br>
+512. #Inspiration- (1001) 0<br>
 <br>
 <br>
-500. #RoyalChief~942 (1001) +1<br>
+513. #RoyalChief~942 (1001) 0<br>
 <br>
 <br>
-501. #davide231098 (1001) 0<br>
+514. #spacewab (1001) 0<br>
 <br>
 <br>
-502. #spacewab (1001) 0<br>
+515. #Attack~Bot (1001) 0<br>
 <br>
 <br>
-503. #Attack~Bot (1001) 0<br>
+516. #qauil (1001) 0<br>
+<br>
+	6. spookydoor (1:2)<br>
+<br>
+517. #FeistyCrow~643 (1001) 0<br>
 <br>
 <br>
-504. #Kinansk (1001) +1<br>
-<br>
-	7. Vergilious (1:0)<br>
-<br>
-505. #qauil (1001) 0<br>
-<br>
-	9. spookydoor (1:2)<br>
-<br>
-506. #FeistyCrow~643 (1001) 0<br>
+518. #Aeraeni (1001) 0<br>
 <br>
 <br>
-507. #Aeraeni (1001) 0<br>
-<br>
-<br>
-508. #orenong (1001) 0<br>
+519. #orenong (1001) 0<br>
 <br>
 	3. SloppyTea~932 (4:2)<br>
 	7. Vergilious (1:0)<br>
 <br>
-509. #testona (1001) 0<br>
+520. #testona (1001) 0<br>
 <br>
 <br>
-510. #Kaden (1001) +1<br>
+521. #Xoi (1001) 0<br>
+<br>
+	3. SloppyTea~932 (2:1)<br>
+	5. MadDookie (2:0)<br>
+<br>
+522. #Kaden (1001) 0<br>
 <br>
 <br>
-511. #Eagleye14963 (1001) 0<br>
+523. #Eagleye14963 (1001) 0<br>
 <br>
 <br>
-512. #HappyBeet~134 (1001) 0<br>
+524. #HappyBeet~134 (1001) 0<br>
 <br>
 <br>
-513. #z.snafu (1001) 0<br>
+525. #z.snafu (1001) 0<br>
 <br>
 <br>
-514. #Philidor (1001) +1<br>
+526. #Philidor (1001) 0<br>
 <br>
 <br>
-515. #amirreza_shi (1001) 0<br>
+527. #tristin (1001) -1<br>
 <br>
-<br>
-516. #woody51 (1001) +1<br>
-<br>
-	7. Vergilious (0:1)<br>
-	9. spookydoor (1:0)<br>
-<br>
-517. #rali (1001) 0<br>
-<br>
-<br>
-518. #YogiBear- (1001) 0<br>
-<br>
-	4. MadDookie (1:0)<br>
-	8. Foxylocks12 (1:2)<br>
-<br>
-519. #Carnivorous (1001) 0<br>
-<br>
-<br>
-520. #Catastrofik (1001) 0<br>
-<br>
-<br>
-521. #Strangebud (1001) 0<br>
-<br>
-<br>
-522. #xxixx (1001) 0<br>
-<br>
-	4. MadDookie (1:2)<br>
-<br>
-523. #MashedTurni~861 (1001) 0<br>
-<br>
-<br>
-524. #daniel327 (1001) 0<br>
-<br>
-<br>
-525. #PinkTank~672 (1001) 0<br>
-<br>
-<br>
-526. #SwiftShadows (1001) 0<br>
-<br>
-	1. JazzyDeer (0:1)<br>
+	2. JazzyDeer (0:1)<br>
 	3. SloppyTea~932 (0:1)<br>
-	4. MadDookie (2:3)<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (0:1)<br>
+	6. spookydoor (0:1)<br>
+	7. Vergilious (0:1)<br>
 <br>
-527. #RoniBadoni (1001) 0<br>
+528. #davide231098 (1001) 0<br>
 <br>
+	6. spookydoor (0:1)<br>
 <br>
-528. #MarbleDuck~237 (1001) 0<br>
-<br>
-	10. ValveFury (1:1)<br>
-<br>
-529. #jiyao (1001) 0<br>
-<br>
-	6. QuickFlute~539 (3:3)<br>
-	9. spookydoor (4:5)<br>
-	10. ValveFury (1:1)<br>
-<br>
-530. #Armstrong13 (1001) 0<br>
+529. #amirreza_shi (1001) 0<br>
 <br>
 <br>
-531. #TimeBreaker (1001) +1<br>
+530. #woody51 (1001) 0<br>
 <br>
-	4. MadDookie (2:1)<br>
+	6. spookydoor (1:0)<br>
+	7. Vergilious (0:1)<br>
 <br>
-532. #Balance~Bot (1001) 0<br>
-<br>
-<br>
-533. #knocker (1001) 0<br>
-<br>
-	5. bandy (0:1)<br>
-<br>
-534. #CloudyGrill~448 (1001) 0<br>
+531. #rali (1001) 0<br>
 <br>
 <br>
-535. #klumpy (1001) 0<br>
+532. #zh1271 (1001) -1<br>
+<br>
+	6. spookydoor (0:1)<br>
+<br>
+533. #Swim. (1001) +3<br>
+<br>
+	5. MadDookie (0:2)<br>
+	7. Vergilious (0:2)<br>
+<br>
+534. #YogiBear- (1001) 0<br>
+<br>
+	5. MadDookie (1:0)<br>
+	10. Foxylocks12 (1:2)<br>
+<br>
+535. #Carnivorous (1001) 0<br>
 <br>
 <br>
-536. #Greyhawk5000 (1001) 0<br>
+536. #Catastrofik (1001) 0<br>
 <br>
 <br>
-537. #dpcjz (1001) 0<br>
-<br>
-	10. ValveFury (1:1)<br>
-<br>
-538. #DizzySpot~669 (1001) 0<br>
+537. #Strangebud (1001) 0<br>
 <br>
 <br>
-539. #nenad (1001) +1<br>
+538. #xxixx (1001) 0<br>
 <br>
-	4. MadDookie (1:0)<br>
+	5. MadDookie (1:2)<br>
+	8. Matthew0898 (5:7)<br>
 <br>
-540. #RipeFang299 (1001) 0<br>
-<br>
-	5. bandy (0:2)<br>
-<br>
-541. #henry700 (1001) 0<br>
+539. #MashedTurni~861 (1001) 0<br>
 <br>
 <br>
-542. #TimTim (1001) +1<br>
+540. #daniel327 (1001) 0<br>
 <br>
 <br>
-543. #mohammed-b52 (1001) +1<br>
+541. #PinkTank~672 (1001) 0<br>
 <br>
 <br>
-544. #Kitini (1001) 0<br>
+542. #SwiftShadows (1001) 0<br>
 <br>
-	4. MadDookie (0:1)<br>
-	8. Foxylocks12 (0:1)<br>
+	2. JazzyDeer (0:1)<br>
+	3. SloppyTea~932 (0:1)<br>
+	5. MadDookie (2:3)<br>
 <br>
-545. #Infectinator (1001) 0<br>
-<br>
-	6. QuickFlute~539 (1:0)<br>
-<br>
-546. #Magnetic~Field (1001) +2<br>
+543. #Thor. (1001) +2<br>
 <br>
 <br>
-547. #barbatroc (1001) 0<br>
+544. #RoniBadoni (1001) 0<br>
+<br>
+<br>
+545. #MarbleDuck~237 (1001) 0<br>
+<br>
+<br>
+546. #Armstrong13 (1001) 0<br>
+<br>
+<br>
+547. #dimbeni (1001) 0<br>
+<br>
+	9. QuickFlute~539 (1:0)<br>
+<br>
+548. #Alexzander (1001) +2<br>
+<br>
+<br>
+549. #TimeBreaker (1001) 0<br>
+<br>
+	5. MadDookie (2:1)<br>
+<br>
+550. #Balance~Bot (1001) 0<br>
+<br>
+<br>
+551. #knocker (1001) 0<br>
+<br>
+	4. bandy (0:1)<br>
+<br>
+552. #CloudyGrill~448 (1001) 0<br>
+<br>
+<br>
+553. #klumpy (1001) 0<br>
+<br>
+	8. Matthew0898 (1:1)<br>
+<br>
+554. #Greyhawk5000 (1001) 0<br>
+<br>
+<br>
+555. #HAIRYTOOTH (1001) +2<br>
+<br>
+	2. JazzyDeer (1:2)<br>
+	8. Matthew0898 (1:3)<br>
+<br>
+556. #dpcjz (1001) 0<br>
+<br>
+<br>
+557. #DizzySpot~669 (1001) 0<br>
+<br>
+<br>
+558. #nenad (1001) 0<br>
+<br>
+	5. MadDookie (1:0)<br>
+<br>
+559. #RipeFang299 (1001) 0<br>
+<br>
+	4. bandy (0:2)<br>
+<br>
+560. #KANT (1001) +3<br>
+<br>
+	9. QuickFlute~539 (2:6)<br>
+	10. Foxylocks12 (1:1)<br>
+<br>
+561. #TimTim (1001) 0<br>
+<br>
+<br>
+562. #mohammed-b52 (1001) 0<br>
+<br>
+<br>
+563. #UpUrAnus (1001) +1<br>
+<br>
+	7. Vergilious (0:3)<br>
+	9. QuickFlute~539 (0:7)<br>
+<br>
+564. #Infectinator (1001) 0<br>
+<br>
+	9. QuickFlute~539 (1:0)<br>
+<br>
+565. #Magnetic~Field (1001) 0<br>
+<br>
+<br>
+566. #thestallion (1001) +7<br>
+<br>
+<br>
+567. #barbatroc (1001) 0<br>
 <br>
 	7. Vergilious (2:0)<br>
 <br>
-548. #Flash640k (1001) 0<br>
+568. #Flash640k (1001) 0<br>
 <br>
-	5. bandy (3:0)<br>
+	4. bandy (3:0)<br>
 	7. Vergilious (1:3)<br>
 <br>
-549. #toast17 (1001) 0<br>
+569. #toast17 (1001) 0<br>
 <br>
+	8. Matthew0898 (1:1)<br>
 <br>
-550. #shanks91 (1001) 0<br>
+570. #shanks91 (1001) 0<br>
 <br>
-	9. spookydoor (0:1)<br>
+	6. spookydoor (0:1)<br>
 <br>
-551. #PreBoom (1001) 0<br>
--2<br>
-	3. SloppyTea~932 (0:2)<br>
-	4. MadDookie (2:1)<br>
-	5. bandy (2:0)<br>
-	7. Vergilious (1:3)<br>
-	10. ValveFury (1:0)<br>
-<br>
-552. #middlefinger (1001) 0<br>
+571. #ProAssaulter (1001) +8<br>
 +3<br>
-	5. bandy (0:1)<br>
+	3. SloppyTea~932 (1:5)<br>
+	5. MadDookie (0:2)<br>
+	7. Vergilious (0:1)<br>
+	8. Matthew0898 (0:3)<br>
+	10. Foxylocks12 (0:2)<br>
+<br>
+572. #middlefinger (1001) 0<br>
++3<br>
+	4. bandy (0:1)<br>
 	7. Vergilious (0:5)<br>
-	10. ValveFury (0:1)<br>
 <br>
-553. #Blaigen (1001) 0<br>
-<br>
-<br>
-554. #rooksconman (1001) 0<br>
+573. #Blaigen (1001) 0<br>
 <br>
 <br>
-555. #Orgcar (1001) 0<br>
+574. #rooksconman (1001) 0<br>
 <br>
 <br>
-556. #mr.oujia (1001) 0<br>
+575. #Orgcar (1001) 0<br>
 <br>
 <br>
-557. #NaCly (1001) 0<br>
+576. #TackyChain~526 (1001) 0<br>
 <br>
+	9. QuickFlute~539 (0:1)<br>
 <br>
-558. #TackyChain~526 (1001) 0<br>
-<br>
-	6. QuickFlute~539 (0:1)<br>
-<br>
-559. #yoky (1001) 0<br>
+577. #yoky (1001) 0<br>
 <br>
 	3. SloppyTea~932 (0:2)<br>
-	10. ValveFury (1:0)<br>
 <br>
-560. #Galreth (1001) 0<br>
-<br>
-<br>
-561. #yankoO (1001) 0<br>
+578. #Galreth (1001) 0<br>
 <br>
 <br>
-562. #gshbzhd (1001) 0<br>
+579. #ShortDust~832 (1001) +5<br>
+<br>
+	6. spookydoor (3:0)<br>
+	7. Vergilious (1:0)<br>
+<br>
+580. #yankoO (1001) 0<br>
+<br>
+<br>
+581. #gshbzhd (1001) 0<br>
 <br>
 	7. Vergilious (0:2)<br>
 <br>
-563. #LoudSoup~240 (1001) 0<br>
+582. #TallWheel~243 (1001) +2<br>
 <br>
-	5. bandy (1:4)<br>
+<br>
+583. #LoudSoup~240 (1001) 0<br>
+<br>
+	4. bandy (1:4)<br>
+	6. spookydoor (0:3)<br>
 	7. Vergilious (0:2)<br>
-	9. spookydoor (0:3)<br>
 <br>
-564. #skins. (1001) 0<br>
+584. #skins. (1001) 0<br>
 <br>
 	3. SloppyTea~932 (1:0)<br>
 <br>
-565. #Grimfandango (1001) 0<br>
+585. #Grimfandango (1001) 0<br>
 <br>
-	4. MadDookie (0:4)<br>
-	5. bandy (0:1)<br>
-	6. QuickFlute~539 (1:0)<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (0:4)<br>
 	7. Vergilious (0:1)<br>
+	9. QuickFlute~539 (1:0)<br>
 <br>
-566. #tristlee (1001) +1<br>
-<br>
-<br>
-567. #micklepickle (1001) 0<br>
+586. #tristlee (1001) 0<br>
 <br>
 <br>
-568. #daRt (1000) 0<br>
+587. #micklepickle (1001) 0<br>
 <br>
 <br>
-569. #drdeadscat (1000) 0<br>
+588. #PreBoom (1001) 0<br>
+-2<br>
+	3. SloppyTea~932 (0:2)<br>
+	4. bandy (2:0)<br>
+	5. MadDookie (2:1)<br>
+	7. Vergilious (1:3)<br>
 <br>
-	5. bandy (4:4)<br>
+589. #daRt (1000) 0<br>
+<br>
+<br>
+590. #drdeadscat (1000) 0<br>
+<br>
+	4. bandy (4:4)<br>
 	7. Vergilious (1:2)<br>
-	10. ValveFury (0:1)<br>
 <br>
-570. #waffle~3z (1000) 0<br>
--1<br>
-<br>
-571. #k7mar999 (1000) 0<br>
-<br>
-	6. QuickFlute~539 (0:1)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-572. #PluckyKettl~233 (1000) 0<br>
+591. #PluckyKettl~233 (1000) 0<br>
 <br>
 <br>
-573. #SUPREME-- (1000) 0<br>
+592. #Yodigity514 (1000) +5<br>
++4<br>
+	3. SloppyTea~932 (2:2)<br>
+	4. bandy (0:3)<br>
+	6. spookydoor (0:1)<br>
+	7. Vergilious (2:3)<br>
+	8. Matthew0898 (0:1)<br>
+	9. QuickFlute~539 (1:6)<br>
+<br>
+593. #WiseMit~500 (1000) -1<br>
+-6<br>
+	8. Matthew0898 (3:8)<br>
+<br>
+594. #SUPREME-- (1000) 0<br>
 <br>
 	3. SloppyTea~932 (0:1)<br>
-	4. MadDookie (1:1)<br>
+	5. MadDookie (1:1)<br>
 <br>
-574. #astralfrog (1000) 0<br>
-<br>
-<br>
-575. #Bi~Polar (1000) 0<br>
+595. #astralfrog (1000) 0<br>
 <br>
 <br>
-576. #SilverPocke~676 (1000) 0<br>
+596. #SilverPocke~676 (1000) 0<br>
 <br>
 <br>
-577. #Septaphobia (1000) 0<br>
+597. #Septaphobia (1000) 0<br>
 <br>
 <br>
-578. #darthjarjar (1000) 0<br>
+598. #darthjarjar (1000) 0<br>
 <br>
 <br>
-579. #DrStarlord (1000) 0<br>
+599. #DrStarlord (1000) 0<br>
 <br>
 <br>
-580. #ActionJ1234 (1000) -3<br>
+600. #ActionJ1234 (1000) 0<br>
 <br>
 <br>
-581. #SloppyLemon~347 (1000) 0<br>
+601. #SloppyLemon~347 (1000) 0<br>
 <br>
+	6. spookydoor (1:1)<br>
 	7. Vergilious (0:1)<br>
-	9. spookydoor (1:1)<br>
 <br>
-582. #WhiteTramp~498 (1000) 0<br>
-<br>
-<br>
-583. #Kretschy198 (1000) +1<br>
+602. #WhiteTramp~498 (1000) 0<br>
 <br>
 <br>
-584. #darwinalki (1000) -2<br>
-<br>
-	5. bandy (0:1)<br>
-<br>
-585. #Enlights (1000) 0<br>
+603. #Kretschy198 (1000) 0<br>
 <br>
 <br>
-586. #jacobw (1000) 0<br>
+604. #KIDdontcry (1000) -2<br>
 <br>
 <br>
-587. #GrandSquid~702 (1000) 0<br>
+605. #Enlights (1000) 0<br>
 <br>
 <br>
-588. #monkeyanddog (1000) 0<br>
+606. #CalmClove~995 (1000) 0<br>
 <br>
-	5. bandy (0:4)<br>
+	2. JazzyDeer (0:2)<br>
 <br>
-589. #Tunnel~Bot (1000) 0<br>
-<br>
-<br>
-590. #moayad98 (1000) 0<br>
+607. #MagicGum (1000) -2<br>
 <br>
 <br>
-591. #LitleMonstar (1000) -1<br>
-<br>
-	8. Foxylocks12 (0:2)<br>
-<br>
-592. #ranobeanski (1000) -1<br>
+608. #jacobw (1000) 0<br>
 <br>
 <br>
-593. #Im.A.Noob. (1000) 0<br>
+609. #patrick56 (1000) 0<br>
 <br>
 <br>
-594. #patzoka (1000) 0<br>
+610. #GrandSquid~702 (1000) 0<br>
 <br>
-	4. MadDookie (0:2)<br>
+<br>
+611. #monkeyanddog (1000) 0<br>
+<br>
+	4. bandy (0:4)<br>
+<br>
+612. #LitleMonstar (1000) 0<br>
+<br>
+	10. Foxylocks12 (0:2)<br>
+<br>
+613. #SpicyViper (1000) +1<br>
+0<br>
+	2. JazzyDeer (0:1)<br>
+	3. SloppyTea~932 (2:4)<br>
+	5. MadDookie (4:3)<br>
+	7. Vergilious (3:0)<br>
+	8. Matthew0898 (0:1)<br>
+	10. Foxylocks12 (1:6)<br>
+<br>
+614. #Im.A.Noob. (1000) 0<br>
+<br>
+<br>
+615. #patzoka (1000) 0<br>
+<br>
+	5. MadDookie (0:2)<br>
 	7. Vergilious (1:0)<br>
 <br>
-595. #KvL (1000) +6<br>
+616. #KvL (1000) 0<br>
 <br>
-	1. JazzyDeer (0:2)<br>
-	4. MadDookie (0:5)<br>
+	2. JazzyDeer (0:2)<br>
+	5. MadDookie (0:5)<br>
 <br>
-596. #bryanbb (1000) +5<br>
+617. #bryanbb (1000) 0<br>
 <br>
 	3. SloppyTea~932 (0:2)<br>
-	5. bandy (1:3)<br>
+	4. bandy (1:3)<br>
 	7. Vergilious (0:1)<br>
-	8. Foxylocks12 (3:2)<br>
+	8. Matthew0898 (0:1)<br>
+	10. Foxylocks12 (3:2)<br>
 <br>
-597. #PuffyPear~932 (1000) 0<br>
+618. #PuffyPear~932 (1000) 0<br>
+<br>
+	8. Matthew0898 (1:1)<br>
+<br>
+619. #ganjasslol (1000) -2<br>
+-6|-3|-1<br>
+	2. JazzyDeer (0:2)<br>
+	3. SloppyTea~932 (0:7)<br>
+	5. MadDookie (4:8)<br>
+	8. Matthew0898 (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+620. #Territorial~Bot (1000) 0<br>
 <br>
 <br>
-598. #edgarWS (1000) 0<br>
+621. #dddqqq (1000) 0<br>
 <br>
 <br>
-599. #Territorial~Bot (1000) 0<br>
-<br>
-<br>
-600. #dddqqq (1000) 0<br>
-<br>
-<br>
-601. #ArtyFarty (1000) 0<br>
-<br>
-	6. QuickFlute~539 (1:1)<br>
-<br>
-602. #DeimosX (1000) 0<br>
+622. #DeimosX (1000) 0<br>
 <br>
 	3. SloppyTea~932 (0:2)<br>
 <br>
-603. #Gustavo99 (1000) -2<br>
+623. #G4m3R34p3r (1000) -1<br>
+<br>
+	4. bandy (0:2)<br>
+<br>
+624. #BDES (1000) 0<br>
 <br>
 <br>
-604. #TheMafia (1000) 0<br>
+625. #Spoon_ (1000) 0<br>
 <br>
-	5. bandy (0:1)<br>
+	6. spookydoor (1:7)<br>
 <br>
-605. #BDES (1000) 0<br>
-<br>
-<br>
-606. #Reductive (1000) 0<br>
+626. #Reductive (1000) 0<br>
 <br>
 	3. SloppyTea~932 (0:4)<br>
-	4. MadDookie (0:1)<br>
+	5. MadDookie (0:1)<br>
 <br>
-607. #GentleBird~194 (1000) 0<br>
+627. #ItchyButter~671 (1000) 0<br>
 <br>
-<br>
-608. #patrick56 (1000) 0<br>
-<br>
-<br>
-609. #varix (1000) 0<br>
-<br>
+	4. bandy (1:1)<br>
 	7. Vergilious (1:0)<br>
-	8. Foxylocks12 (2:3)<br>
 <br>
-610. #ALOS6ORA (1000) 0<br>
-<br>
-	6. QuickFlute~539 (1:0)<br>
-<br>
-611. #teamdaddy (1000) 0<br>
-<br>
-	5. bandy (1:0)<br>
-	7. Vergilious (1:0)<br>
-	8. Foxylocks12 (0:1)<br>
-	9. spookydoor (1:2)<br>
-<br>
-612. #phantomplan (1000) 0<br>
+628. #GentleBird~194 (1000) 0<br>
 <br>
 <br>
-613. #a_madness_of (1000) 0<br>
+629. #Faye- (1000) 0<br>
+<br>
+	6. spookydoor (2:6)<br>
+<br>
+630. #ALOS6ORA (1000) 0<br>
+<br>
+	9. QuickFlute~539 (1:0)<br>
+<br>
+631. #paaldanzen (1000) +1<br>
+<br>
+<br>
+632. #phantomplan (1000) 0<br>
+<br>
+<br>
+633. #waffle~3z (1000) 0<br>
+-1<br>
+<br>
+634. #a_madness_of (1000) 0<br>
 <br>
 	3. SloppyTea~932 (3:4)<br>
-	4. MadDookie (1:1)<br>
+	5. MadDookie (1:1)<br>
 	7. Vergilious (0:1)<br>
-	8. Foxylocks12 (1:0)<br>
+	10. Foxylocks12 (1:0)<br>
 <br>
-614. #ExoticOgre~292 (1000) 0<br>
-<br>
-<br>
-615. #fifty6 (1000) 0<br>
+635. #ExoticOgre~292 (1000) 0<br>
 <br>
 <br>
-616. #TinyMask~890 (1000) 0<br>
+636. #Tilenol (1000) 0<br>
 <br>
 <br>
-617. #tux111 (1000) 0<br>
+637. #fifty6 (1000) 0<br>
 <br>
 <br>
-618. #Brotstangen (1000) 0<br>
+638. #TinyMask~890 (1000) 0<br>
+<br>
+<br>
+639. #DeXie420 (1000) 0<br>
+<br>
+	4. bandy (0:2)<br>
+	6. spookydoor (1:6)<br>
+<br>
+640. #tux111 (1000) 0<br>
+<br>
+<br>
+641. #Brotstangen (1000) 0<br>
 <br>
 	3. SloppyTea~932 (0:1)<br>
-	5. bandy (0:1)<br>
-	8. Foxylocks12 (0:1)<br>
+	4. bandy (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-619. #Spaciel (1000) 0<br>
+642. #Spaciel (1000) 0<br>
 <br>
 <br>
-620. #nowayhaze (1000) 0<br>
+643. #Kurok (1000) +1<br>
+<br>
+	3. SloppyTea~932 (1:0)<br>
+<br>
+644. #nowayhaze (1000) 0<br>
 +4<br>
-	4. MadDookie (0:1)<br>
-	5. bandy (0:5)<br>
+	4. bandy (0:5)<br>
+	5. MadDookie (0:1)<br>
+	6. spookydoor (4:9)<br>
 	7. Vergilious (0:1)<br>
-	9. spookydoor (4:9)<br>
 <br>
-621. #WaxRaptor~248 (1000) 0<br>
+645. #WaxRaptor~248 (1000) 0<br>
 <br>
-	1. JazzyDeer (0:4)<br>
+	2. JazzyDeer (0:4)<br>
 <br>
-622. #FullRetard (1000) 0<br>
-<br>
-	5. bandy (0:2)<br>
-<br>
-623. #DustyPeach~882 (1000) 0<br>
-<br>
-	4. MadDookie (0:4)<br>
-<br>
-624. #SlimyOrca~274 (1000) 0<br>
-<br>
-	4. MadDookie (1:0)<br>
-<br>
-625. #threecs (1000) 0<br>
+646. #Bi~Polar (1000) 0<br>
 <br>
 <br>
-626. #viva0002 (1000) 0<br>
+647. #FullRetard (1000) 0<br>
+<br>
+	4. bandy (0:2)<br>
+<br>
+648. #DustyPeach~882 (1000) 0<br>
+<br>
+	5. MadDookie (0:4)<br>
+<br>
+649. #SlimyOrca~274 (1000) 0<br>
+<br>
+	5. MadDookie (1:0)<br>
+	8. Matthew0898 (1:0)<br>
+<br>
+650. #threecs (1000) 0<br>
 <br>
 <br>
-627. #worshipr (1000) 0<br>
+651. #viva0002 (1000) 0<br>
 <br>
 <br>
-628. #ColdCelery~822 (1000) 0<br>
+652. #varix (1000) 0<br>
+<br>
+	7. Vergilious (1:0)<br>
+	8. Matthew0898 (2:4)<br>
+	10. Foxylocks12 (2:3)<br>
+<br>
+653. #worshipr (1000) 0<br>
 <br>
 <br>
-629. #Alaskanboy (1000) 0<br>
+654. #ColdCelery~822 (1000) 0<br>
 <br>
 <br>
-630. #WinstonWolfe (1000) -2<br>
+655. #Alaskanboy (1000) 0<br>
+<br>
+<br>
+656. #WinstonWolfe (1000) 0<br>
 <br>
 	3. SloppyTea~932 (0:1)<br>
-	4. MadDookie (0:3)<br>
+	5. MadDookie (0:3)<br>
+	8. Matthew0898 (4:4)<br>
 <br>
-631. #BigUU (1000) 0<br>
+657. #henry700 (1000) -1<br>
 <br>
-	5. bandy (1:2)<br>
+	8. Matthew0898 (2:1)<br>
 <br>
-632. #MeltedKettl~395 (1000) 0<br>
+658. #CleverFruit~483 (1000) 0<br>
 <br>
-	4. MadDookie (0:1)<br>
-	7. Vergilious (1:2)<br>
+	6. spookydoor (0:2)<br>
 <br>
-633. #CleverFruit~483 (1000) 0<br>
+659. #goodsoul (1000) +3<br>
++1|-1<br>
+	3. SloppyTea~932 (3:11)<br>
+	5. MadDookie (2:6)<br>
+	6. spookydoor (0:1)<br>
+	7. Vergilious (0:3)<br>
+	9. QuickFlute~539 (0:1)<br>
+	10. Foxylocks12 (0:3)<br>
 <br>
-	9. spookydoor (0:2)<br>
-<br>
-634. #WackyInsect~297 (1000) 0<br>
-<br>
-<br>
-635. #SpicySpark~731 (1000) 0<br>
-<br>
-<br>
-636. #qwertyuiop00 (1000) 0<br>
-<br>
-	5. bandy (0:1)<br>
-<br>
-637. #CrankyWalru~762 (1000) 0<br>
+660. #Tunnel~Bot (1000) 0<br>
 <br>
 <br>
-638. #SpicyViper (1000) +1<br>
--1<br>
-	3. SloppyTea~932 (2:4)<br>
-	4. MadDookie (4:3)<br>
-	7. Vergilious (3:0)<br>
-	8. Foxylocks12 (1:6)<br>
+661. #BigUU (1000) 0<br>
 <br>
-639. #rocket-man (1000) +1<br>
+	4. bandy (1:2)<br>
+	8. Matthew0898 (0:1)<br>
 <br>
-	8. Foxylocks12 (1:3)<br>
-<br>
-640. #URCHGOD (1000) 0<br>
+662. #WackyInsect~297 (1000) 0<br>
 <br>
 <br>
-641. #sebfillion (1000) -1<br>
+663. #qwertyuiop00 (1000) 0<br>
+<br>
+	4. bandy (0:1)<br>
+<br>
+664. #CrankyWalru~762 (1000) 0<br>
 <br>
 <br>
-642. #AdmiralDerp (1000) 0<br>
+665. #URCHGOD (1000) 0<br>
+<br>
+<br>
+666. #sebfillion (1000) 0<br>
+<br>
+<br>
+667. #AdmiralDerp (1000) 0<br>
 <br>
 	7. Vergilious (0:2)<br>
 <br>
-643. #CoolFaucet~518 (1000) 0<br>
-<br>
-	1. JazzyDeer (0:2)<br>
-<br>
-644. #EagerShovel~562 (1000) 0<br>
+668. #moayad98 (1000) -1<br>
 <br>
 <br>
-645. #DeXie420 (1000) -1<br>
+669. #CoolFaucet~518 (1000) 0<br>
 <br>
-	5. bandy (0:2)<br>
-	9. spookydoor (1:6)<br>
+	2. JazzyDeer (0:2)<br>
 <br>
-646. #Joe_Shome123 (1000) 0<br>
-<br>
-<br>
-647. #WhiteRake~492 (1000) 0<br>
+670. #Joe_Shome123 (1000) 0<br>
 <br>
 <br>
-648. #RockyGlass~852 (1000) 0<br>
+671. #WhiteRake~492 (1000) 0<br>
+<br>
+<br>
+672. #RockyGlass~852 (1000) 0<br>
 <br>
 	3. SloppyTea~932 (0:1)<br>
 <br>
-649. #Duke-a-Heart (1000) +1<br>
+673. #Duke-a-Heart (1000) 0<br>
 <br>
-	5. bandy (1:0)<br>
+	4. bandy (1:0)<br>
 	7. Vergilious (0:1)<br>
 <br>
-650. #bupkis (1000) 0<br>
--2<br>
-	5. bandy (1:7)<br>
-	6. QuickFlute~539 (4:8)<br>
-	7. Vergilious (6:11)<br>
-	9. spookydoor (0:3)<br>
-	10. ValveFury (1:1)<br>
+674. #LazyChurn~353 (1000) 0<br>
 <br>
-651. #CurlyGrill~583 (1000) 0<br>
+	2. JazzyDeer (0:1)<br>
+	8. Matthew0898 (0:1)<br>
 <br>
+675. #darwinalki (1000) -1<br>
 <br>
-652. #B3LL4TOR (1000) 0<br>
+	4. bandy (0:1)<br>
 <br>
-	4. MadDookie (0:2)<br>
-	8. Foxylocks12 (4:6)<br>
+676. #ArtyFarty (1000) -1<br>
 <br>
-653. #Monster21 (1000) 0<br>
+	4. bandy (0:3)<br>
+	9. QuickFlute~539 (1:1)<br>
 <br>
+677. #B3LL4TOR (1000) 0<br>
 <br>
-654. #JD166448soto (1000) 0<br>
+	5. MadDookie (0:2)<br>
+	8. Matthew0898 (5:4)<br>
+	10. Foxylocks12 (4:6)<br>
 <br>
-<br>
-655. #CabessaDeAlh (1000) 0<br>
+678. #Monster21 (1000) 0<br>
 <br>
 <br>
-656. #Yukas (1000) 0<br>
+679. #RitzyWind~501 (1000) 0<br>
 <br>
 <br>
-657. #AcidRam~254 (1000) 0<br>
-<br>
-	5. bandy (0:1)<br>
-	7. Vergilious (2:4)<br>
-	9. spookydoor (1:4)<br>
-<br>
-658. #UpUrAnus (1000) 0<br>
-<br>
-	6. QuickFlute~539 (0:7)<br>
-<br>
-659. #bp01 (1000) 0<br>
+680. #JD166448soto (1000) 0<br>
 <br>
 <br>
-660. #Five~Percent (1000) 0<br>
+681. #CabessaDeAlh (1000) 0<br>
 <br>
 <br>
-661. #TCW_Marshy (1000) 0<br>
+682. #Yukas (1000) 0<br>
 <br>
 <br>
-662. #WindyWren~283 (1000) 0<br>
+683. #bp01 (1000) 0<br>
 <br>
 <br>
-663. #samuguima98 (1000) 0<br>
+684. #TCW_Marshy (1000) 0<br>
 <br>
 <br>
-664. #jucasdef03 (1000) -1<br>
+685. #WindyWren~283 (1000) 0<br>
 <br>
+<br>
+686. #samuguima98 (1000) 0<br>
+<br>
+<br>
+687. #LastTimeLord (1000) +3<br>
++2<br>
+	2. JazzyDeer (1:9)<br>
+	3. SloppyTea~932 (1:4)<br>
+	5. MadDookie (4:10)<br>
 	7. Vergilious (0:3)<br>
+	8. Matthew0898 (0:6)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-665. #Daytona36 (999) 0<br>
+688. #dud (1000) 0<br>
 <br>
-<br>
-666. #iamkarebear (999) 0<br>
-<br>
-<br>
-667. #googoogirl (999) 0<br>
-<br>
-<br>
-668. #Aecyreus (999) 0<br>
-<br>
+	2. JazzyDeer (0:1)<br>
 	3. SloppyTea~932 (0:2)<br>
-	8. Foxylocks12 (0:1)<br>
 <br>
-669. #BraveShovel~508 (999) 0<br>
+689. #imCVNT (1000) +5<br>
+-1|+2|+6|+9<br>
+	4. bandy (0:1)<br>
+	6. spookydoor (11:16)<br>
+	7. Vergilious (1:2)<br>
+	8. Matthew0898 (1:3)<br>
+	9. QuickFlute~539 (1:1)<br>
+	10. Foxylocks12 (1:3)<br>
+<br>
+690. #Daytona36 (999) 0<br>
 <br>
 <br>
-670. #SkyBlaze (999) 0<br>
+691. #iamkarebear (999) 0<br>
+<br>
+<br>
+692. #googoogirl (999) 0<br>
+<br>
+<br>
+693. #BraveShovel~508 (999) 0<br>
+<br>
+<br>
+694. #SkyBlaze (999) 0<br>
 <br>
 	3. SloppyTea~932 (2:3)<br>
-	4. MadDookie (2:4)<br>
+	5. MadDookie (2:4)<br>
 	7. Vergilious (0:1)<br>
 <br>
-671. #monguesto (999) 0<br>
+695. #TinySound~597 (999) -1<br>
 <br>
-	7. Vergilious (2:1)<br>
-	9. spookydoor (0:2)<br>
+	2. JazzyDeer (0:2)<br>
+	3. SloppyTea~932 (0:2)<br>
+	5. MadDookie (0:1)<br>
 <br>
-672. #SloppyGrape~510 (999) 0<br>
-<br>
-<br>
-673. #abuzub (999) 0<br>
+696. #SloppyGrape~510 (999) 0<br>
 <br>
 <br>
-674. #JORGELORA (999) 0<br>
+697. #abuzub (999) 0<br>
 <br>
 <br>
-675. #sugarwalls (999) 0<br>
-<br>
-	4. MadDookie (0:2)<br>
-<br>
-676. #SappyBlur (999) 0<br>
+698. #JORGELORA (999) 0<br>
 <br>
 <br>
-677. #spamo (999) 0<br>
+699. #sugarwalls (999) 0<br>
+<br>
+	5. MadDookie (0:2)<br>
+<br>
+700. #SappyBlur (999) 0<br>
+<br>
+<br>
+701. #spamo (999) 0<br>
 <br>
 	3. SloppyTea~932 (1:2)<br>
 <br>
-678. #ZincSheet~351 (999) 0<br>
+702. #ZincSheet~351 (999) 0<br>
 <br>
 <br>
-679. #BadButter~266 (999) 0<br>
+703. #BadButter~266 (999) 0<br>
 <br>
 <br>
-680. #stingjagua20 (999) 0<br>
+704. #stingjagua20 (999) 0<br>
 <br>
 <br>
-681. #siempelibre (999) 0<br>
+705. #siempelibre (999) 0<br>
 <br>
 <br>
-682. #Astinax (999) -1<br>
-<br>
-	3. SloppyTea~932 (0:1)<br>
-	4. MadDookie (0:1)<br>
-<br>
-683. #Thor. (999) 0<br>
+706. #xxSpanionxx (999) +2<br>
 <br>
 <br>
-684. #SweetGopher~571 (999) -1<br>
+707. #SweetGopher~571 (999) 0<br>
 <br>
-	4. MadDookie (0:1)<br>
+	5. MadDookie (0:1)<br>
 <br>
-685. #planetsexy (999) 0<br>
-<br>
-<br>
-686. #ajhod (999) 0<br>
-<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-687. #Neve (999) 0<br>
-<br>
-	4. MadDookie (0:1)<br>
-	8. Foxylocks12 (2:2)<br>
-<br>
-688. #Sandeetoes (999) 0<br>
-<br>
-	3. SloppyTea~932 (0:2)<br>
-<br>
-689. #joropo808 (999) 0<br>
+708. #planetsexy (999) 0<br>
 <br>
 <br>
-690. #StinkySquas~541 (999) 0<br>
+709. #ajhod (999) 0<br>
+<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+710. #Neve (999) 0<br>
+<br>
+	5. MadDookie (0:1)<br>
+	8. Matthew0898 (0:1)<br>
+	10. Foxylocks12 (2:2)<br>
+<br>
+711. #im_G0RY (999) -1<br>
 <br>
 <br>
-691. #CloudyGuita~988 (999) 0<br>
-<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-692. #TaoisticVoid (999) -1<br>
+712. #joropo808 (999) 0<br>
 <br>
 <br>
-693. #eder99 (999) 0<br>
+713. #StinkySquas~541 (999) 0<br>
 <br>
 <br>
-694. #PurpleGlass~480 (999) 0<br>
+714. #CloudyGuita~988 (999) 0<br>
 <br>
-	4. MadDookie (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-695. #Impatient~Bot (999) 0<br>
-<br>
-<br>
-696. #fleebjuice (999) 0<br>
+715. #TaoisticVoid (999) 0<br>
 <br>
 <br>
-697. #HAIRYTOOTH (999) +1<br>
+716. #eder99 (999) 0<br>
 <br>
 <br>
-698. #GreatTail~316 (999) 0<br>
+717. #PurpleGlass~480 (999) 0<br>
+<br>
+	5. MadDookie (0:1)<br>
+<br>
+718. #Impatient~Bot (999) 0<br>
+<br>
+<br>
+719. #fleebjuice (999) 0<br>
+<br>
+	8. Matthew0898 (0:1)<br>
+<br>
+720. #GreatTail~316 (999) 0<br>
 <br>
 	7. Vergilious (0:1)<br>
-	8. Foxylocks12 (0:1)<br>
+	8. Matthew0898 (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-699. #CruZty (999) 0<br>
-<br>
-<br>
-700. #Dangit (999) 0<br>
-<br>
-	8. Foxylocks12 (0:2)<br>
-<br>
-701. #GlossyMoney~873 (999) 0<br>
+721. #CruZty (999) 0<br>
 <br>
 <br>
-702. #MarbleCarro~242 (999) 0<br>
+722. #GlossyMoney~873 (999) 0<br>
 <br>
 <br>
-703. #fretty (999) 0<br>
+723. #MarbleCarro~242 (999) 0<br>
 <br>
 <br>
-704. #nayk007 (999) 0<br>
+724. #fretty (999) 0<br>
 <br>
 <br>
-705. #StormyStar~713 (999) 0<br>
+725. #nayk007 (999) 0<br>
 <br>
 <br>
-706. #zeropoint (999) 0<br>
+726. #StormyStar~713 (999) 0<br>
+<br>
+<br>
+727. #zeropoint (999) 0<br>
 <br>
 	3. SloppyTea~932 (1:3)<br>
 	7. Vergilious (0:1)<br>
-	10. ValveFury (1:1)<br>
 <br>
-707. #fullspeed (999) 0<br>
+728. #Five~Percent (999) 0<br>
 <br>
 <br>
-708. #ThamGata (999) 0<br>
+729. #Kinansk (999) -2<br>
+<br>
+	6. spookydoor (0:3)<br>
+	7. Vergilious (1:0)<br>
+<br>
+730. #fullspeed (999) 0<br>
+<br>
+<br>
+731. #ThamGata (999) 0<br>
 <br>
 	7. Vergilious (1:3)<br>
 <br>
-709. #DapperJuice~106 (999) 0<br>
+732. #EagerShovel~562 (999) -1<br>
 <br>
 <br>
-710. #TLKS (999) 0<br>
+733. #DapperJuice~106 (999) 0<br>
+<br>
+<br>
+734. #TLKS (999) 0<br>
 <br>
 	7. Vergilious (0:3)<br>
 <br>
-711. #MarsheL (999) 0<br>
+735. #MarsheL (999) 0<br>
 <br>
 <br>
-712. #xarcusx (999) 0<br>
+736. #xarcusx (999) 0<br>
 <br>
 	3. SloppyTea~932 (0:2)<br>
-	4. MadDookie (0:2)<br>
-	5. bandy (0:1)<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (0:2)<br>
 <br>
-713. #HappyMask~424 (999) 0<br>
+737. #HappyMask~424 (999) 0<br>
 <br>
-	8. Foxylocks12 (0:2)<br>
+	8. Matthew0898 (1:1)<br>
+	10. Foxylocks12 (0:2)<br>
 <br>
-714. #D1ll (999) 0<br>
-<br>
-<br>
-715. #Siegfried12 (999) 0<br>
+738. #D1ll (999) 0<br>
 <br>
 <br>
-716. #panadool (999) 0<br>
+739. #Siegfried12 (999) 0<br>
 <br>
-	7. Vergilious (0:1)<br>
 <br>
-717. #flames20 (999) 0<br>
+740. #flames20 (999) 0<br>
 <br>
 	3. SloppyTea~932 (0:1)<br>
-	4. MadDookie (0:2)<br>
+	5. MadDookie (0:2)<br>
 <br>
-718. #jq259 (999) 0<br>
-<br>
-<br>
-719. #kobe16 (999) 0<br>
+741. #jq259 (999) 0<br>
 <br>
 <br>
-720. #prexxx (999) 0<br>
-<br>
-	5. bandy (0:1)<br>
-<br>
-721. #GOTTEM (999) 0<br>
+742. #kobe16 (999) 0<br>
 <br>
 <br>
-722. #unbridled (999) 0<br>
+743. #prexxx (999) 0<br>
+<br>
+	4. bandy (0:1)<br>
+<br>
+744. #GOTTEM (999) 0<br>
 <br>
 <br>
-723. #Space-1296 (999) 0<br>
+745. #unbridled (999) 0<br>
 <br>
 <br>
-724. #suicideboy14 (999) 0<br>
+746. #Space-1296 (999) 0<br>
 <br>
 <br>
-725. #FastCobweb~239 (999) 0<br>
+747. #suicideboy14 (999) 0<br>
 <br>
 <br>
-726. #amnfairman21 (999) 0<br>
+748. #FastCobweb~239 (999) 0<br>
+<br>
+	8. Matthew0898 (2:0)<br>
+<br>
+749. #Samoanbrat (999) 0<br>
+<br>
+	2. JazzyDeer (0:1)<br>
+<br>
+750. #amnfairman21 (999) 0<br>
 <br>
 <br>
-727. #JazzyYam~717 (999) 0<br>
+751. #JazzyYam~717 (999) 0<br>
 <br>
 <br>
-728. #pasozyt (999) 0<br>
+752. #pasozyt (999) 0<br>
 <br>
-	5. bandy (0:2)<br>
+	4. bandy (0:2)<br>
 <br>
-729. #Alexzander (999) 0<br>
-<br>
-<br>
-730. #beb123 (999) 0<br>
+753. #beb123 (999) 0<br>
 <br>
 <br>
-731. #Kurok (999) 0<br>
+754. #TidyGoblin~169 (999) 0<br>
+<br>
+	4. bandy (0:3)<br>
+<br>
+755. #Gustavo99 (999) -1<br>
 <br>
 <br>
-732. #TidyGoblin~169 (999) 0<br>
+756. #Alphaomega21 (999) 0<br>
 <br>
-	5. bandy (0:3)<br>
-<br>
-733. #Alphaomega21 (999) 0<br>
-<br>
+	6. spookydoor (1:0)<br>
 	7. Vergilious (1:0)<br>
-	9. spookydoor (1:0)<br>
 <br>
-734. #SittingDuck (999) 0<br>
-<br>
-<br>
-735. #Snuffle (999) 0<br>
+757. #SittingDuck (999) 0<br>
 <br>
 <br>
-736. #BabyPunter (999) 0<br>
+758. #Snuffle (999) 0<br>
 <br>
 <br>
-737. #FierceBelug~603 (999) 0<br>
+759. #BabyPunter (999) 0<br>
 <br>
 <br>
-738. #Sporker (999) 0<br>
-<br>
-	5. bandy (2:2)<br>
-	6. QuickFlute~539 (0:1)<br>
-<br>
-739. #amash43 (999) 0<br>
+760. #FierceBelug~603 (999) 0<br>
 <br>
 <br>
-740. #lanky074 (999) 0<br>
+761. #Astinax (999) 0<br>
+<br>
+	3. SloppyTea~932 (0:1)<br>
+	5. MadDookie (0:1)<br>
+	8. Matthew0898 (0:2)<br>
+<br>
+762. #Sporker (999) 0<br>
+<br>
+	4. bandy (2:2)<br>
+	9. QuickFlute~539 (0:1)<br>
+<br>
+763. #amash43 (999) 0<br>
+<br>
+<br>
+764. #lanky074 (999) 0<br>
 <br>
 	3. SloppyTea~932 (1:2)<br>
 	7. Vergilious (1:3)<br>
-	10. ValveFury (0:1)<br>
 <br>
-741. #DeadPuppy (999) 0<br>
-<br>
-<br>
-742. #MagicShoe~159 (999) 0<br>
-<br>
-	6. QuickFlute~539 (3:5)<br>
-<br>
-743. #StormyRibbo~396 (999) 0<br>
+765. #DeadPuppy (999) 0<br>
 <br>
 <br>
-744. #jelly1932 (999) 0<br>
+766. #JazzyAnt~183 (999) 0<br>
 <br>
 <br>
-745. #GJCPPP (999) 0<br>
+767. #MagicShoe~159 (999) 0<br>
+<br>
+	9. QuickFlute~539 (3:5)<br>
+<br>
+768. #StormyRibbo~396 (999) 0<br>
 <br>
 <br>
-746. #JazzyTail~255 (999) -1<br>
+769. #jelly1932 (999) 0<br>
 <br>
 <br>
-747. #toxyc (999) 0<br>
+770. #GJCPPP (999) 0<br>
 <br>
 <br>
-748. #FeistyBike~345 (999) 0<br>
+771. #JazzyTail~255 (999) 0<br>
 <br>
-	3. SloppyTea~932 (1:2)<br>
 <br>
-749. #sveta (999) 0<br>
+772. #toxyc (999) 0<br>
 <br>
-	8. Foxylocks12 (0:2)<br>
 <br>
-750. #SIR-SHREDZ (999) 0<br>
+773. #FeistyBike~345 (999) 0<br>
 <br>
 	3. SloppyTea~932 (1:2)<br>
-	5. bandy (1:1)<br>
+<br>
+774. #sveta (999) 0<br>
+<br>
+	10. Foxylocks12 (0:2)<br>
+<br>
+775. #SIR-SHREDZ (999) 0<br>
+<br>
+	3. SloppyTea~932 (1:2)<br>
+	4. bandy (1:1)<br>
 	7. Vergilious (2:1)<br>
 <br>
-751. #quidnOvi (999) 0<br>
+776. #quidnOvi (999) 0<br>
 <br>
 <br>
-752. #Echo~Bot (999) 0<br>
+777. #Echo~Bot (999) 0<br>
 <br>
 <br>
-753. #rekitaPOWER (999) 0<br>
+778. #jucasdef03 (999) -1<br>
 <br>
-	5. bandy (0:1)<br>
+	7. Vergilious (0:3)<br>
+	8. Matthew0898 (0:1)<br>
 <br>
-754. #Kolous530 (999) 0<br>
+779. #rekitaPOWER (999) 0<br>
 <br>
-	5. bandy (0:1)<br>
-	9. spookydoor (0:1)<br>
+	4. bandy (0:1)<br>
 <br>
-755. #SillyVest~691 (999) 0<br>
+780. #Kolous530 (999) 0<br>
+<br>
+	4. bandy (0:1)<br>
+	6. spookydoor (0:1)<br>
+<br>
+781. #SillyVest~691 (999) 0<br>
 <br>
 	3. SloppyTea~932 (0:4)<br>
 <br>
-756. #wisesauce (999) 0<br>
+782. #wisesauce (999) 0<br>
 <br>
 <br>
-757. #goner (999) 0<br>
+783. #goner (999) 0<br>
 <br>
-	4. MadDookie (1:3)<br>
+	5. MadDookie (1:3)<br>
 <br>
-758. #SlickKazoo~569 (999) 0<br>
-<br>
-<br>
-759. #statenisland (999) 0<br>
+784. #SlickKazoo~569 (999) 0<br>
 <br>
 <br>
-760. #OvalShirt~451 (999) 0<br>
+785. #statenisland (999) 0<br>
 <br>
 <br>
-761. #juacopes1 (999) -1<br>
+786. #OvalShirt~451 (999) 0<br>
 <br>
 <br>
-762. #Stained (999) 0<br>
+787. #juacopes1 (999) 0<br>
 <br>
 <br>
-763. #Rainman14 (999) 0<br>
+788. #Stained (999) 0<br>
 <br>
 <br>
-764. #B.lack (999) 0<br>
+789. #Rainman14 (999) 0<br>
 <br>
 <br>
-765. #LoudDrum~220 (999) 0<br>
+790. #B.lack (999) 0<br>
 <br>
 <br>
-766. #keyblade335 (999) 0<br>
+791. #ranobeanski (999) -2<br>
 <br>
-	4. MadDookie (1:1)<br>
+	6. spookydoor (0:2)<br>
 <br>
-767. #Dirtydarthc3 (999) 0<br>
-<br>
-<br>
-768. #onehunglow (999) 0<br>
+792. #LoudDrum~220 (999) 0<br>
 <br>
 <br>
-769. #Germany1 (999) 0<br>
+793. #keyblade335 (999) 0<br>
 <br>
-	9. spookydoor (0:1)<br>
+	5. MadDookie (1:1)<br>
+	8. Matthew0898 (0:1)<br>
 <br>
-770. #Etamkter (999) 0<br>
-<br>
-<br>
-771. #Opaline (999) 0<br>
+794. #Dirtydarthc3 (999) 0<br>
 <br>
 <br>
-772. #Franciturci (999) 0<br>
+795. #homedog (999) 0<br>
+0<br>
+	3. SloppyTea~932 (2:1)<br>
+	8. Matthew0898 (4:9)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-	5. bandy (1:0)<br>
+796. #Germany1 (999) 0<br>
+<br>
+	6. spookydoor (0:1)<br>
+<br>
+797. #Etamkter (999) 0<br>
+<br>
+<br>
+798. #Opaline (999) 0<br>
+<br>
+<br>
+799. #Franciturci (999) 0<br>
+<br>
+	4. bandy (1:0)<br>
 	7. Vergilious (0:7)<br>
-	10. ValveFury (0:3)<br>
 <br>
-773. #hacto42 (999) -2<br>
-<br>
-	6. QuickFlute~539 (0:2)<br>
-<br>
-774. #Lazaras (999) 0<br>
+800. #Slow~Poke (999) +2<br>
 <br>
 <br>
-775. #Willjax (999) -1<br>
--1|-1<br>
-	1. JazzyDeer (0:1)<br>
-	3. SloppyTea~932 (4:6)<br>
-	5. bandy (0:2)<br>
-	7. Vergilious (3:4)<br>
-	8. Foxylocks12 (0:1)<br>
-	10. ValveFury (1:0)<br>
+801. #ProudHammer~232 (999) -1<br>
 <br>
-776. #SilkyGlass~394 (999) 0<br>
+	4. bandy (0:1)<br>
+	9. QuickFlute~539 (0:1)<br>
+<br>
+802. #Lazaras (999) 0<br>
+<br>
+<br>
+803. #S.T.Arship (999) -1<br>
+<br>
+	2. JazzyDeer (0:2)<br>
+	8. Matthew0898 (0:1)<br>
+<br>
+804. #SilkyGlass~394 (999) 0<br>
 <br>
 	3. SloppyTea~932 (0:3)<br>
 <br>
-777. #BlackKnightI (999) 0<br>
+805. #BlackKnightI (999) 0<br>
 <br>
 <br>
-778. #WhitePine~243 (999) 0<br>
+806. #WhitePine~243 (999) 0<br>
 <br>
 <br>
-779. #james88 (999) 0<br>
+807. #james88 (999) 0<br>
 <br>
 <br>
-780. #nil (999) 0<br>
-<br>
-	5. bandy (1:3)<br>
-<br>
-781. #homedog (999) 0<br>
--1<br>
-	3. SloppyTea~932 (2:1)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-782. #Cool_breeze (999) 0<br>
+808. #Cool_breeze (999) 0<br>
 <br>
 <br>
-783. #Hannibal~Smith (999) 0<br>
+809. #Hannibal~Smith (999) 0<br>
 <br>
 <br>
-784. #Death-BOT (999) 0<br>
+810. #Death-BOT (999) 0<br>
 <br>
 <br>
-785. #KylieJenner (999) 0<br>
+811. #KylieJenner (999) 0<br>
 <br>
 <br>
-786. #onixguard (999) 0<br>
+812. #onixguard (999) 0<br>
 <br>
 	7. Vergilious (0:1)<br>
 <br>
-787. #GoldenDuck~390 (999) 0<br>
+813. #GoldenDuck~390 (999) 0<br>
 <br>
 <br>
-788. #WittyMoon~907 (999) 0<br>
+814. #WittyMoon~907 (999) 0<br>
 <br>
 	3. SloppyTea~932 (0:1)<br>
 <br>
-789. #Elbox (999) 0<br>
+815. #Elbox (999) 0<br>
 <br>
 <br>
-790. #Dbagrag (999) 0<br>
+816. #Dbagrag (999) 0<br>
 <br>
 <br>
-791. #VIPHEAVYRAIN (999) 0<br>
+817. #VIPHEAVYRAIN (999) 0<br>
 <br>
 <br>
-792. #Gutz50 (999) 0<br>
+818. #Gutz50 (999) 0<br>
 <br>
-	5. bandy (0:2)<br>
+	4. bandy (0:2)<br>
 <br>
-793. #YellowTurtle (999) 0<br>
+819. #YellowTurtle (999) 0<br>
 <br>
-	9. spookydoor (0:2)<br>
+	6. spookydoor (0:2)<br>
 <br>
-794. #nic1112 (999) 0<br>
-<br>
-<br>
-795. #xomega12 (999) 0<br>
+820. #nic1112 (999) 0<br>
 <br>
 <br>
-796. #AkRamUchiHa (999) 0<br>
+821. #xomega12 (999) 0<br>
 <br>
 <br>
-797. #mcthx (999) 0<br>
+822. #AkRamUchiHa (999) 0<br>
 <br>
 <br>
-798. #ynaik (999) 0<br>
+823. #mcthx (999) 0<br>
 <br>
 <br>
-799. #rudi1990 (999) 0<br>
+824. #ynaik (999) 0<br>
 <br>
 <br>
-800. #I.. (998) 0<br>
+825. #rudi1990 (999) 0<br>
 <br>
 <br>
-801. #Anti~Neutral (998) 0<br>
+826. #I.. (998) 0<br>
 <br>
 <br>
-802. #IBangUMafaka (998) 0<br>
+827. #Anti~Neutral (998) 0<br>
 <br>
 <br>
-803. #hydra0602 (998) 0<br>
+828. #IBangUMafaka (998) 0<br>
+<br>
+<br>
+829. #hydra0602 (998) 0<br>
 <br>
 	7. Vergilious (0:1)<br>
 <br>
-804. #cryp7 (998) 0<br>
+830. #cryp7 (998) 0<br>
 <br>
 <br>
-805. #twinkles3004 (998) 0<br>
+831. #twinkles3004 (998) 0<br>
 <br>
 <br>
-806. #Rewbay (998) 0<br>
-<br>
-	10. ValveFury (0:1)<br>
-<br>
-807. #Ian10 (998) -2<br>
+832. #Rewbay (998) 0<br>
 <br>
 <br>
-808. #tamapay12 (998) -2<br>
+833. #Ian10 (998) 0<br>
 <br>
 <br>
-809. #nightmare__ (998) 0<br>
-<br>
-	6. QuickFlute~539 (0:2)<br>
-<br>
-810. #sssinperwolf (998) 0<br>
+834. #DryRay~246 (998) -2<br>
 <br>
 <br>
-811. #gu_gatao (998) 0<br>
+835. #nightmare__ (998) 0<br>
+<br>
+	9. QuickFlute~539 (0:2)<br>
+<br>
+836. #sssinperwolf (998) 0<br>
 <br>
 <br>
-812. #JackGalaxy (998) +1<br>
+837. #Willjax (998) 0<br>
+-1|-2<br>
+	2. JazzyDeer (0:1)<br>
+	3. SloppyTea~932 (4:6)<br>
+	4. bandy (0:2)<br>
+	5. MadDookie (0:2)<br>
+	7. Vergilious (3:4)<br>
+	8. Matthew0898 (0:2)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-	1. JazzyDeer (1:4)<br>
-	3. SloppyTea~932 (0:2)<br>
-	4. MadDookie (1:2)<br>
-	9. spookydoor (0:1)<br>
+838. #PurpleChanny (998) +1<br>
 <br>
-813. #sky1025 (998) 0<br>
+	6. spookydoor (1:1)<br>
 <br>
+839. #jiyao (998) -3<br>
 <br>
-814. #Swim. (998) 0<br>
+	6. spookydoor (4:5)<br>
+	9. QuickFlute~539 (3:3)<br>
 <br>
-	4. MadDookie (0:2)<br>
-	7. Vergilious (0:2)<br>
+840. #sky1025 (998) 0<br>
 <br>
-815. #JuicyNectar (998) 0<br>
+	2. JazzyDeer (0:1)<br>
 <br>
+841. #JuicyNectar (998) 0<br>
 <br>
-816. #stopplease (998) 0<br>
+	8. Matthew0898 (0:1)<br>
 <br>
-<br>
-817. #Tinytrip (998) 0<br>
+842. #stopplease (998) 0<br>
 <br>
 <br>
-818. #philhassey (998) 0<br>
+843. #nil (998) 0<br>
+<br>
+	4. bandy (4:17)<br>
+	7. Vergilious (2:0)<br>
+<br>
+844. #Tinytrip (998) 0<br>
 <br>
 <br>
-819. #WildHat-972 (998) 0<br>
+845. #chILLYpotat (998) +1<br>
+<br>
+	3. SloppyTea~932 (0:1)<br>
+	8. Matthew0898 (0:2)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+846. #philhassey (998) 0<br>
+<br>
+	8. Matthew0898 (0:1)<br>
+<br>
+847. #WildHat-972 (998) 0<br>
 <br>
 	3. SloppyTea~932 (1:2)<br>
-	4. MadDookie (3:9)<br>
-	8. Foxylocks12 (0:4)<br>
+	5. MadDookie (3:9)<br>
+	10. Foxylocks12 (0:4)<br>
 <br>
-820. #ubi_pedera (998) 0<br>
-<br>
-<br>
-821. #mikkel12 (998) 0<br>
+848. #ubi_pedera (998) 0<br>
 <br>
 <br>
-822. #MoldyWeasel~317 (998) -2<br>
+849. #mikkel12 (998) 0<br>
 <br>
 <br>
-823. #SmokyBear~699 (998) 0<br>
+850. #MoldyWeasel~317 (998) 0<br>
 <br>
 <br>
-824. #drownway (998) 0<br>
+851. #SmokyBear~699 (998) 0<br>
 <br>
-	8. Foxylocks12 (0:2)<br>
+	8. Matthew0898 (0:1)<br>
 <br>
-825. #FoamyBike~240 (998) 0<br>
+852. #drownway (998) 0<br>
 <br>
+	10. Foxylocks12 (0:2)<br>
 <br>
-826. #Janfu (998) +1<br>
-<br>
-<br>
-827. #Sleeping~Waffle (998) -4<br>
+853. #FoamyBike~240 (998) 0<br>
 <br>
 <br>
-828. #CheapMoon~643 (998) 0<br>
+854. #MeltedKettl~395 (998) -2<br>
+<br>
+	2. JazzyDeer (0:1)<br>
+	5. MadDookie (0:1)<br>
+	7. Vergilious (1:2)<br>
+	8. Matthew0898 (0:6)<br>
+<br>
+855. #Glitchy-J (998) -2<br>
+<br>
+<br>
+856. #Janfu (998) 0<br>
+<br>
+<br>
+857. #Sleeping~Waffle (998) 0<br>
+<br>
+<br>
+858. #CheapMoon~643 (998) 0<br>
 <br>
 	7. Vergilious (0:1)<br>
 <br>
-829. #dan236 (998) +4<br>
-+3|+8<br>
-	5. bandy (0:2)<br>
-	7. Vergilious (0:2)<br>
-	10. ValveFury (0:2)<br>
-<br>
-830. #kiki09 (998) 0<br>
+859. #kiki09 (998) 0<br>
 <br>
 <br>
-831. #SwiftSand~464 (998) 0<br>
+860. #SwiftSand~464 (998) 0<br>
 <br>
-	9. spookydoor (0:1)<br>
+	6. spookydoor (0:1)<br>
 <br>
-832. #C60 (998) 0<br>
-<br>
-<br>
-833. #DizzyDrum~499 (998) 0<br>
+861. #C60 (998) 0<br>
 <br>
 <br>
-834. #TheMainEvent (998) 0<br>
-<br>
-	4. MadDookie (0:1)<br>
-<br>
-835. #Zfenix (998) -2<br>
+862. #DizzyDrum~499 (998) 0<br>
 <br>
 <br>
-836. #Louis1975 (998) -2<br>
-+8|-3<br>
-	5. bandy (1:5)<br>
-	6. QuickFlute~539 (0:2)<br>
-	9. spookydoor (0:6)<br>
+863. #TheMainEvent (998) 0<br>
 <br>
-837. #FreshFork~371 (998) 0<br>
+	5. MadDookie (0:1)<br>
+<br>
+864. #Zfenix (998) 0<br>
 <br>
 <br>
-838. #LittleHawk~329 (998) 0<br>
+865. #FreshFork~371 (998) 0<br>
 <br>
 <br>
-839. #noaaf (998) 0<br>
+866. #LittleHawk~329 (998) 0<br>
+<br>
+<br>
+867. #noaaf (998) 0<br>
 <br>
 	3. SloppyTea~932 (0:6)<br>
 <br>
-840. #FadedCrayon~928 (998) 0<br>
+868. #Louis1975 (998) 0<br>
++8|-3<br>
+	4. bandy (1:5)<br>
+	6. spookydoor (0:7)<br>
+	9. QuickFlute~539 (0:2)<br>
+<br>
+869. #dan236 (998) 0<br>
++3|+8<br>
+	4. bandy (0:4)<br>
+	7. Vergilious (0:3)<br>
+<br>
+870. #FadedCrayon~928 (998) 0<br>
 <br>
 <br>
-841. #CaptainCrook (998) 0<br>
+871. #CaptainCrook (998) 0<br>
 <br>
 <br>
-842. #mcan (998) 0<br>
+872. #mcan (998) 0<br>
 <br>
 <br>
-843. #seoirse (998) 0<br>
-<br>
-	5. bandy (0:2)<br>
-<br>
-844. #ilyxagospodi (998) 0<br>
+873. #ilyxagospodi (998) 0<br>
 <br>
 <br>
-845. #WackyHat~879 (998) 0<br>
+874. #WackyHat~879 (998) 0<br>
 <br>
-	5. bandy (0:4)<br>
+	4. bandy (0:4)<br>
 <br>
-846. #HoodedShadow (998) -1<br>
-<br>
-<br>
-847. #EternalNexus (998) 0<br>
+875. #HoodedShadow (998) 0<br>
 <br>
 <br>
-848. #HairyGrass~757 (998) 0<br>
+876. #EternalNexus (998) 0<br>
 <br>
 <br>
-849. #Peace1 (998) -3<br>
+877. #HairyGrass~757 (998) 0<br>
+<br>
+<br>
+878. #Peace1 (998) 0<br>
 +1<br>
-	1. JazzyDeer (0:2)<br>
+	2. JazzyDeer (0:2)<br>
 	3. SloppyTea~932 (2:1)<br>
-	8. Foxylocks12 (0:2)<br>
+	8. Matthew0898 (4:5)<br>
+	10. Foxylocks12 (0:2)<br>
 <br>
-850. #jacobmr98 (998) 0<br>
+879. #jacobmr98 (998) 0<br>
 <br>
 <br>
-851. #SweetTooth~619 (998) 0<br>
+880. #SweetTooth~619 (998) 0<br>
 <br>
 	3. SloppyTea~932 (0:1)<br>
-	4. MadDookie (0:4)<br>
-	8. Foxylocks12 (0:1)<br>
+	5. MadDookie (0:4)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-852. #Hitini (998) 0<br>
-<br>
-	8. Foxylocks12 (0:3)<br>
-<br>
-853. #essisheik (998) 0<br>
-<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-854. #DPK (998) 0<br>
+881. #sara29 (998) -2<br>
 <br>
 <br>
-855. #nokal (998) 0<br>
+882. #Hitini (998) 0<br>
+<br>
+	10. Foxylocks12 (0:3)<br>
+<br>
+883. #essisheik (998) 0<br>
+<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+884. #DPK (998) 0<br>
 <br>
 <br>
-856. #FLA (998) 0<br>
+885. #nokal (998) 0<br>
 <br>
 <br>
-857. #Born~2Snipe (998) 0<br>
+886. #Aecyreus (998) -1<br>
+<br>
+	3. SloppyTea~932 (0:2)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+887. #FLA (998) 0<br>
 <br>
 <br>
-858. #Tunnel~King (998) 0<br>
+888. #Born~2Snipe (998) 0<br>
+<br>
+	8. Matthew0898 (0:1)<br>
+<br>
+889. #gu_gatao (998) 0<br>
 <br>
 <br>
-859. #Gengar (998) 0<br>
+890. #Gengar (998) 0<br>
 <br>
 	3. SloppyTea~932 (6:6)<br>
-	6. QuickFlute~539 (0:1)<br>
-	8. Foxylocks12 (0:1)<br>
+	8. Matthew0898 (0:1)<br>
+	9. QuickFlute~539 (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-860. #dred001 (998) 0<br>
-<br>
-<br>
-861. #sobol (998) 0<br>
+891. #sobol (998) 0<br>
 <br>
 <br>
-862. #raphfg (998) 0<br>
+892. #raphfg (998) 0<br>
 <br>
 	3. SloppyTea~932 (0:1)<br>
+	8. Matthew0898 (1:3)<br>
 <br>
-863. #hasan.187 (998) 0<br>
-<br>
-<br>
-864. #Xx4xelxX (998) -1<br>
+893. #hasan.187 (998) 0<br>
 <br>
 <br>
-865. #Qvictoria (998) 0<br>
+894. #Xx4xelxX (998) 0<br>
+<br>
+<br>
+895. #Qvictoria (998) 0<br>
 <br>
 	7. Vergilious (0:1)<br>
 <br>
-866. #LuckySnail~211 (998) 0<br>
+896. #LuckySnail~211 (998) 0<br>
 <br>
 <br>
-867. #Demper (998) 0<br>
+897. #Demper (998) 0<br>
 <br>
-	9. spookydoor (0:2)<br>
+	6. spookydoor (0:2)<br>
 <br>
-868. #mc16 (998) 0<br>
+898. #mc16 (998) 0<br>
 <br>
 <br>
-869. #meechydarko (998) 0<br>
+899. #meechydarko (998) 0<br>
 <br>
-	9. spookydoor (2:1)<br>
+	6. spookydoor (2:1)<br>
 <br>
-870. #KANT (998) 0<br>
-<br>
-	6. QuickFlute~539 (2:6)<br>
-	8. Foxylocks12 (1:1)<br>
-<br>
-871. #Jaraxxus (998) 0<br>
-<br>
-	7. Vergilious (0:2)<br>
-<br>
-872. #AngryChurn~435 (998) 0<br>
-<br>
-<br>
-873. #citysinner (998) 0<br>
-<br>
-<br>
-874. #brondinmctie (998) 0<br>
-<br>
-<br>
-875. #Bierlin (998) 0<br>
-<br>
-<br>
-876. #jennygirl (998) 0<br>
-<br>
-	3. SloppyTea~932 (0:1)<br>
-	4. MadDookie (1:7)<br>
-	7. Vergilious (0:3)<br>
-<br>
-877. #LavishPants~926 (998) 0<br>
-<br>
-<br>
-878. #UmberShoe~606 (998) 0<br>
-<br>
-	10. ValveFury (1:0)<br>
-<br>
-879. #SHYXR (998) 0<br>
-+10|+11<br>
-	3. SloppyTea~932 (5:6)<br>
-	4. MadDookie (0:6)<br>
-	5. bandy (0:7)<br>
-	7. Vergilious (1:0)<br>
-	8. Foxylocks12 (3:7)<br>
-<br>
-880. #chILLYpotat (998) -1<br>
-<br>
-	3. SloppyTea~932 (0:1)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-881. #platypus752 (998) 0<br>
-<br>
-	5. bandy (1:1)<br>
-	7. Vergilious (0:1)<br>
-<br>
-882. #alsayri (998) 0<br>
-<br>
-	3. SloppyTea~932 (0:1)<br>
-	5. bandy (1:0)<br>
-<br>
-883. #BlackZebra~903 (998) 0<br>
-<br>
-<br>
-884. #the_chemodan (998) 0<br>
-<br>
-<br>
-885. #lucasffonsec (998) -1<br>
-<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-886. #klebz1000 (998) 0<br>
-<br>
-<br>
-887. #HazyKazoo~122 (998) 0<br>
-<br>
-<br>
-888. #surenderKING (998) 0<br>
-<br>
-	5. bandy (0:3)<br>
-<br>
-889. #BurntCobweb (998) -1<br>
-<br>
-<br>
-890. #MushySand~375 (998) 0<br>
-<br>
-	3. SloppyTea~932 (0:1)<br>
-	4. MadDookie (2:0)<br>
-	8. Foxylocks12 (1:0)<br>
-<br>
-891. #bugimann14 (997) -3<br>
-<br>
-<br>
-892. #pepitojoe93 (997) 0<br>
-<br>
-<br>
-893. #Chinto (997) 0<br>
-<br>
-	5. bandy (0:1)<br>
-<br>
-894. #ollieisabith (997) 0<br>
-<br>
-<br>
-895. #stuggidavid (997) -3<br>
-<br>
-<br>
-896. #zh2500464155 (997) 0<br>
-<br>
-	4. MadDookie (0:4)<br>
-	7. Vergilious (0:1)<br>
-	10. ValveFury (0:1)<br>
-<br>
-897. #cmensperm (997) 0<br>
-<br>
-<br>
-898. #PurpleChanny (997) 0<br>
-<br>
-	9. spookydoor (1:1)<br>
-<br>
-899. #SleepyChain~505 (997) 0<br>
-<br>
-<br>
-900. #vagpwner (997) 0<br>
-<br>
-<br>
-901. #mehrdad3886 (997) 0<br>
-<br>
-<br>
-902. #lost_r2d2 (997) 0<br>
-<br>
-<br>
-903. #TheWarDemon (997) 0<br>
-<br>
-<br>
-904. #Power69 (997) 0<br>
-+1<br>
-	5. bandy (0:1)<br>
-	9. spookydoor (1:7)<br>
-<br>
-905. #CozySand~536 (997) 0<br>
-<br>
-<br>
-906. #AstroSam (997) 0<br>
-<br>
-	1. JazzyDeer (0:1)<br>
-	4. MadDookie (0:3)<br>
-<br>
-907. #ny220e (997) 0<br>
-<br>
-	7. Vergilious (1:4)<br>
-	9. spookydoor (2:1)<br>
-<br>
-908. #LiquidKiwi~971 (997) 0<br>
-<br>
-<br>
-909. #goodsoul (997) +1<br>
--2|-4<br>
-	3. SloppyTea~932 (3:11)<br>
-	4. MadDookie (2:6)<br>
-	6. QuickFlute~539 (0:1)<br>
-	7. Vergilious (0:3)<br>
-	8. Foxylocks12 (0:3)<br>
-	9. spookydoor (0:1)<br>
-<br>
-910. #ieaturmumout (997) +1<br>
-<br>
-	7. Vergilious (0:1)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-911. #OceanMan (997) -3<br>
-<br>
-	9. spookydoor (0:4)<br>
-<br>
-912. #Jackdeath3 (997) 0<br>
-<br>
-<br>
-913. #shunrai (997) 0<br>
-<br>
-<br>
-914. #Sayedib (997) 0<br>
-<br>
-	3. SloppyTea~932 (1:7)<br>
-<br>
-915. #Slow~Poke (997) -2<br>
-<br>
-<br>
-916. #xNive_isBack (997) 0<br>
-<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-917. #Rafinha (997) 0<br>
-<br>
-<br>
-918. #topisagirl (997) 0<br>
-<br>
-	4. MadDookie (0:2)<br>
-<br>
-919. #velikey (997) 0<br>
-<br>
-<br>
-920. #Suicide~Bot (997) 0<br>
-<br>
-<br>
-921. #cwyspito (997) 0<br>
-<br>
-	3. SloppyTea~932 (0:1)<br>
-<br>
-922. #FluffyBunny4 (997) -2<br>
+900. #Sandeetoes (998) -2<br>
 <br>
 	3. SloppyTea~932 (0:2)<br>
 <br>
-923. #toby253 (997) 0<br>
+901. #Jaraxxus (998) 0<br>
 <br>
-	8. Foxylocks12 (0:5)<br>
+	7. Vergilious (0:2)<br>
 <br>
-924. #BlurryTapir~996 (997) 0<br>
+902. #AngryChurn~435 (998) 0<br>
+<br>
+<br>
+903. #tamapay12 (998) -1<br>
+<br>
+<br>
+904. #citysinner (998) 0<br>
+<br>
+<br>
+905. #brondinmctie (998) 0<br>
+<br>
+<br>
+906. #Bierlin (998) 0<br>
+<br>
+<br>
+907. #jennygirl (998) 0<br>
+<br>
+	3. SloppyTea~932 (0:1)<br>
+	5. MadDookie (1:7)<br>
+	7. Vergilious (0:3)<br>
+<br>
+908. #LavishPants~926 (998) 0<br>
+<br>
+<br>
+909. #UmberShoe~606 (998) 0<br>
+<br>
+<br>
+910. #SHYXR (998) 0<br>
++10|+11<br>
+	3. SloppyTea~932 (5:6)<br>
+	4. bandy (0:7)<br>
+	5. MadDookie (0:6)<br>
+	7. Vergilious (1:0)<br>
+	10. Foxylocks12 (3:7)<br>
+<br>
+911. #alsayri (998) 0<br>
+<br>
+	3. SloppyTea~932 (0:1)<br>
+	4. bandy (1:0)<br>
+<br>
+912. #BlackZebra~903 (998) 0<br>
+<br>
+<br>
+913. #Power69 (998) 0<br>
++1<br>
+	4. bandy (0:1)<br>
+	6. spookydoor (2:9)<br>
+<br>
+914. #the_chemodan (998) 0<br>
+<br>
+<br>
+915. #lucasffonsec (998) 0<br>
+<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+916. #HazyKazoo~122 (998) 0<br>
+<br>
+<br>
+917. #surenderKING (998) 0<br>
+<br>
+	4. bandy (0:3)<br>
+<br>
+918. #BurntCobweb (998) 0<br>
+<br>
+<br>
+919. #bugimann14 (997) 0<br>
+<br>
+<br>
+920. #pepitojoe93 (997) 0<br>
+<br>
+<br>
+921. #Chinto (997) 0<br>
+<br>
+	4. bandy (0:1)<br>
+<br>
+922. #GhostWalk (997) -3<br>
+<br>
+<br>
+923. #Tunnel~King (997) 0<br>
+<br>
+<br>
+924. #ollieisabith (997) 0<br>
+<br>
+<br>
+925. #stuggidavid (997) 0<br>
+<br>
+<br>
+926. #zh2500464155 (997) 0<br>
+<br>
+	5. MadDookie (0:4)<br>
+	7. Vergilious (0:1)<br>
+	8. Matthew0898 (0:1)<br>
+<br>
+927. #cmensperm (997) 0<br>
+<br>
+<br>
+928. #SleepyChain~505 (997) 0<br>
+<br>
+<br>
+929. #panadool (997) -2<br>
+<br>
+	7. Vergilious (0:1)<br>
+<br>
+930. #vagpwner (997) 0<br>
+<br>
+<br>
+931. #seoirse (997) -1<br>
+<br>
+	4. bandy (0:2)<br>
+<br>
+932. #mehrdad3886 (997) 0<br>
+<br>
+<br>
+933. #lost_r2d2 (997) 0<br>
+<br>
+<br>
+934. #TheWarDemon (997) 0<br>
+<br>
+<br>
+935. #rocket-man (997) -3<br>
+-1<br>
+	4. bandy (0:3)<br>
+	10. Foxylocks12 (1:3)<br>
+<br>
+936. #CozySand~536 (997) 0<br>
+<br>
+<br>
+937. #AstroSam (997) 0<br>
+<br>
+	2. JazzyDeer (0:1)<br>
+	5. MadDookie (0:3)<br>
+<br>
+938. #SilkyEagle~729 (997) -3<br>
+<br>
+<br>
+939. #LiquidKiwi~971 (997) 0<br>
+<br>
+<br>
+940. #ieaturmumout (997) 0<br>
+<br>
+	7. Vergilious (0:1)<br>
+	8. Matthew0898 (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+941. #Jackdeath3 (997) 0<br>
+<br>
+<br>
+942. #shunrai (997) 0<br>
+<br>
+<br>
+943. #Sayedib (997) 0<br>
+<br>
+	3. SloppyTea~932 (1:7)<br>
+<br>
+944. #xNive_isBack (997) 0<br>
+<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+945. #topisagirl (997) 0<br>
+<br>
+	5. MadDookie (0:2)<br>
+<br>
+946. #velikey (997) 0<br>
+<br>
+<br>
+947. #Suicide~Bot (997) 0<br>
+<br>
+<br>
+948. #cwyspito (997) 0<br>
+<br>
+	3. SloppyTea~932 (0:1)<br>
+<br>
+949. #toby253 (997) 0<br>
+<br>
+	10. Foxylocks12 (0:5)<br>
+<br>
+950. #OceanMan (997) 0<br>
+<br>
+	6. spookydoor (0:4)<br>
+<br>
+951. #BlurryTapir~996 (997) 0<br>
 <br>
 	3. SloppyTea~932 (1:1)<br>
 <br>
-925. #HugeBeef~654 (997) 0<br>
+952. #HugeBeef~654 (997) 0<br>
 <br>
 <br>
-926. #RaggedMonke~770 (997) 0<br>
+953. #RaggedMonke~770 (997) 0<br>
 <br>
 <br>
-927. #xxSpanionxx (997) 0<br>
+954. #Effa_Raise (997) -3<br>
+<br>
+	6. spookydoor (0:2)<br>
+<br>
+955. #ThinAce~461 (997) 0<br>
+<br>
+	4. bandy (0:1)<br>
+<br>
+956. #SpiffyMouse~286 (997) 0<br>
 <br>
 <br>
-928. #ThinAce~461 (997) 0<br>
+957. #JackGalaxy (997) -2<br>
+0<br>
+	2. JazzyDeer (1:4)<br>
+	3. SloppyTea~932 (0:5)<br>
+	5. MadDookie (1:2)<br>
+	6. spookydoor (0:1)<br>
+	7. Vergilious (0:1)<br>
+	8. Matthew0898 (2:2)<br>
 <br>
-	5. bandy (0:1)<br>
+958. #Operator. (997) 0<br>
 <br>
-929. #SpiffyMouse~286 (997) 0<br>
+	6. spookydoor (0:1)<br>
+	10. Foxylocks12 (1:1)<br>
 <br>
+959. #dred001 (997) -1<br>
 <br>
-930. #xaelia (997) 0<br>
+	6. spookydoor (0:1)<br>
 <br>
-	8. Foxylocks12 (1:6)<br>
+960. #rogueleader6 (997) 0<br>
 <br>
-931. #Major~Tom (997) 0<br>
+	4. bandy (0:1)<br>
+	6. spookydoor (1:1)<br>
 <br>
-<br>
-932. #Operator. (997) 0<br>
-<br>
-	8. Foxylocks12 (1:1)<br>
-	9. spookydoor (0:1)<br>
-<br>
-933. #rogueleader6 (997) 0<br>
-<br>
-	5. bandy (0:1)<br>
-	9. spookydoor (1:1)<br>
-<br>
-934. #thickmeat (997) -2<br>
-<br>
-	5. bandy (0:1)<br>
-	6. QuickFlute~539 (0:2)<br>
-	8. Foxylocks12 (0:1)<br>
-	9. spookydoor (0:1)<br>
-<br>
-935. #NeonNazi (997) 0<br>
+961. #CurlyGrill~583 (997) -3<br>
 <br>
 <br>
-936. #gabucho (997) +8<br>
-+4<br>
-	5. bandy (0:2)<br>
-	7. Vergilious (1:4)<br>
-	8. Foxylocks12 (0:1)<br>
-	9. spookydoor (2:4)<br>
-	10. ValveFury (1:0)<br>
+962. #thickmeat (997) 0<br>
 <br>
-937. #playg123 (997) 0<br>
+	4. bandy (0:1)<br>
+	6. spookydoor (0:1)<br>
+	9. QuickFlute~539 (0:2)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+963. #NeonNazi (997) 0<br>
+<br>
+<br>
+964. #SmartWhale~311 (997) 0<br>
+<br>
+	4. bandy (0:1)<br>
+<br>
+965. #hacto42 (997) -2<br>
+<br>
+	6. spookydoor (0:4)<br>
+	9. QuickFlute~539 (0:2)<br>
+<br>
+966. #blobby1928 (997) 0<br>
+<br>
+<br>
+967. #poner560 (997) 0<br>
+<br>
+<br>
+968. #MrFahd (997) 0<br>
+<br>
+	4. bandy (0:3)<br>
+	7. Vergilious (1:1)<br>
+<br>
+969. #klebz1000 (997) -1<br>
+<br>
+<br>
+970. #HazyBolt~459 (997) 0<br>
+<br>
+<br>
+971. #POLOFICAN (997) 0<br>
+-9|+6<br>
+	3. SloppyTea~932 (1:1)<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (2:6)<br>
+	6. spookydoor (0:2)<br>
+	7. Vergilious (1:1)<br>
+	8. Matthew0898 (1:7)<br>
+<br>
+972. #SilkyBoot~528 (997) 0<br>
+<br>
+<br>
+973. #Over~Expand (997) 0<br>
+<br>
+<br>
+974. #Jacob7am (997) 0<br>
+<br>
+<br>
+975. #Mangudai (997) 0<br>
+<br>
+<br>
+976. #playg123 (996) 0<br>
 <br>
 	7. Vergilious (2:1)<br>
 <br>
-938. #SmartWhale~311 (997) 0<br>
-<br>
-	5. bandy (0:1)<br>
-<br>
-939. #blobby1928 (997) +1<br>
-<br>
-<br>
-940. #poner560 (997) 0<br>
-<br>
-<br>
-941. #MrFahd (997) 0<br>
-<br>
-	5. bandy (0:3)<br>
-	7. Vergilious (1:1)<br>
-<br>
-942. #Frangta (997) +4<br>
-<br>
-	4. MadDookie (0:5)<br>
-	5. bandy (1:4)<br>
-	9. spookydoor (1:1)<br>
-<br>
-943. #HazyBolt~459 (997) 0<br>
-<br>
-<br>
-944. #Empalador (997) 0<br>
-<br>
-<br>
-945. #POLOFICAN (997) +7<br>
--9|+6<br>
-	3. SloppyTea~932 (1:1)<br>
-	4. MadDookie (2:6)<br>
-	5. bandy (0:1)<br>
-	7. Vergilious (1:1)<br>
-	9. spookydoor (0:2)<br>
-<br>
-946. #SilkyBoot~528 (997) 0<br>
-<br>
-<br>
-947. #Over~Expand (997) -1<br>
-<br>
-<br>
-948. #Jacob7am (997) 0<br>
-<br>
-<br>
-949. #Expand~Bot (997) 0<br>
-<br>
-<br>
-950. #LastTimeLord (997) +1<br>
--1<br>
-	1. JazzyDeer (0:4)<br>
-	3. SloppyTea~932 (1:4)<br>
-	4. MadDookie (3:8)<br>
-	7. Vergilious (0:3)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-951. #Mangudai (997) 0<br>
-<br>
-<br>
-952. #djsd11 (996) 0<br>
+977. #djsd11 (996) 0<br>
 <br>
 	7. Vergilious (1:0)<br>
 <br>
-953. #Lancer-69 (996) +1<br>
+978. #xaelia (996) 0<br>
+<br>
+	8. Matthew0898 (0:2)<br>
+	10. Foxylocks12 (1:6)<br>
+<br>
+979. #A-711 (996) +1<br>
+<br>
+	6. spookydoor (1:0)<br>
+<br>
+980. #Lancer-69 (996) 0<br>
 <br>
 	3. SloppyTea~932 (0:1)<br>
-	6. QuickFlute~539 (1:3)<br>
+	9. QuickFlute~539 (1:3)<br>
 <br>
-954. #max743 (996) 0<br>
+981. #max743 (996) 0<br>
 <br>
 	7. Vergilious (0:2)<br>
-	10. ValveFury (0:3)<br>
 <br>
-955. #FurrySofa~805 (996) 0<br>
+982. #FurrySofa~805 (996) 0<br>
 <br>
-	5. bandy (0:3)<br>
-	6. QuickFlute~539 (0:2)<br>
+	4. bandy (0:3)<br>
+	6. spookydoor (0:2)<br>
 	7. Vergilious (1:2)<br>
-	9. spookydoor (0:2)<br>
+	9. QuickFlute~539 (0:2)<br>
 <br>
-956. #yoni10 (996) +1<br>
-<br>
-	1. JazzyDeer (1:9)<br>
-<br>
-957. #atreides (996) -2<br>
-<br>
-	6. QuickFlute~539 (0:3)<br>
-<br>
-958. #Diestro (996) -4<br>
-<br>
-	4. MadDookie (0:1)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-959. #Tortoise~Waffle (996) 0<br>
+983. #Major~Tom (996) 0<br>
 <br>
 <br>
-960. #ColdCobweb~960 (996) 0<br>
+984. #yoni10 (996) 0<br>
 <br>
-	5. bandy (0:2)<br>
-	8. Foxylocks12 (2:3)<br>
+	2. JazzyDeer (1:9)<br>
+	8. Matthew0898 (2:2)<br>
 <br>
-961. #MrMadeHerDay (996) 0<br>
+985. #atreides (996) 0<br>
+<br>
+	9. QuickFlute~539 (0:3)<br>
+<br>
+986. #Tortoise~Waffle (996) 0<br>
 <br>
 <br>
-962. #OmarR (996) 0<br>
+987. #ColdCobweb~960 (996) 0<br>
 <br>
-	5. bandy (0:3)<br>
-	6. QuickFlute~539 (0:1)<br>
+	4. bandy (0:2)<br>
+	10. Foxylocks12 (2:3)<br>
+<br>
+988. #MrMadeHerDay (996) 0<br>
+<br>
+<br>
+989. #OmarR (996) 0<br>
+<br>
+	4. bandy (0:3)<br>
+	6. spookydoor (4:2)<br>
 	7. Vergilious (0:8)<br>
-	9. spookydoor (4:2)<br>
-	10. ValveFury (0:4)<br>
+	9. QuickFlute~539 (0:1)<br>
 <br>
-963. #shadowhelix (996) 0<br>
-<br>
-<br>
-964. #VioletClock~594 (996) 0<br>
+990. #shadowhelix (996) 0<br>
 <br>
 <br>
-965. #AstroBram (996) 0<br>
+991. #VioletClock~594 (996) 0<br>
 <br>
 <br>
-966. #louis_achkar (996) 0<br>
-<br>
-	6. QuickFlute~539 (0:1)<br>
-<br>
-967. #Mystiq (996) 0<br>
-<br>
-	5. bandy (2:7)<br>
-	7. Vergilious (1:0)<br>
-	9. spookydoor (0:1)<br>
-<br>
-968. #PERDIGUEIRO0 (996) -2<br>
--2|-2<br>
-	1. JazzyDeer (0:1)<br>
-	4. MadDookie (0:3)<br>
-	5. bandy (0:3)<br>
-	6. QuickFlute~539 (0:2)<br>
-	7. Vergilious (1:5)<br>
-	9. spookydoor (2:7)<br>
-<br>
-969. #Nerf~Bot (996) 0<br>
+992. #Rafinha (996) -1<br>
 <br>
 <br>
-970. #ShortDust~832 (996) 0<br>
+993. #Expand~Bot (996) 0<br>
 <br>
+<br>
+994. #AstroBram (996) 0<br>
+<br>
+<br>
+995. #louis_achkar (996) 0<br>
+<br>
+	9. QuickFlute~539 (0:1)<br>
+<br>
+996. #Mystiq (996) 0<br>
+<br>
+	4. bandy (2:7)<br>
+	6. spookydoor (0:1)<br>
 	7. Vergilious (1:0)<br>
 <br>
-971. #LavishVioli~755 (996) -2<br>
+997. #Snake1976 (996) +4<br>
+-2|+4<br>
+	3. SloppyTea~932 (0:4)<br>
+	5. MadDookie (9:22)<br>
+	7. Vergilious (1:2)<br>
+	8. Matthew0898 (1:2)<br>
+	10. Foxylocks12 (1:3)<br>
 <br>
-	1. JazzyDeer (0:1)<br>
-	3. SloppyTea~932 (0:1)<br>
-<br>
-972. #Nearest~Attack (996) 0<br>
+998. #Nerf~Bot (996) 0<br>
 <br>
 <br>
-973. #lightsout6 (996) 0<br>
+999. #Diestro (996) 0<br>
 <br>
-	5. bandy (0:1)<br>
+	5. MadDookie (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+1000. #gabucho (996) -1<br>
++3<br>
+	4. bandy (0:2)<br>
+	6. spookydoor (2:6)<br>
+	7. Vergilious (1:4)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+1001. #Nearest~Attack (996) 0<br>
+<br>
+<br>
+1002. #SpicySpark~731 (996) -4<br>
+<br>
+	2. JazzyDeer (0:1)<br>
+<br>
+1003. #lightsout6 (996) 0<br>
+<br>
+	4. bandy (0:1)<br>
 	7. Vergilious (0:1)<br>
 <br>
-974. #SmartFox~702 (996) -2<br>
+1004. #Empalador (996) -1<br>
 <br>
 <br>
-975. #Autists (996) 0<br>
+1005. #Autists (996) 0<br>
 <br>
 <br>
-976. #clownkiller (996) 0<br>
+1006. #LavishVioli~755 (996) 0<br>
 <br>
-	5. bandy (1:5)<br>
-	7. Vergilious (1:7)<br>
+	2. JazzyDeer (0:1)<br>
+	3. SloppyTea~932 (0:1)<br>
 <br>
-977. #Home~Boy (996) -4<br>
-<br>
-<br>
-978. #Yodigity514 (996) 0<br>
--1<br>
-	3. SloppyTea~932 (2:2)<br>
-	5. bandy (0:3)<br>
-	6. QuickFlute~539 (1:6)<br>
-	7. Vergilious (2:3)<br>
-	9. spookydoor (0:1)<br>
-	10. ValveFury (1:1)<br>
-<br>
-979. #xpedient (996) 0<br>
+1007. #xpedient (996) 0<br>
 <br>
 <br>
-980. #LittleSnail~133 (996) 0<br>
+1008. #LiquidS (996) -9<br>
++3|-3<br>
+	4. bandy (3:10)<br>
+	6. spookydoor (1:8)<br>
+	7. Vergilious (2:5)<br>
+<br>
+1009. #LittleSnail~133 (996) 0<br>
 <br>
 <br>
-981. #Wurtnik (996) 0<br>
+1010. #Wurtnik (996) 0<br>
 <br>
 <br>
-982. #myracle.fui (996) 0<br>
+1011. #myracle.fui (996) 0<br>
 <br>
-	6. QuickFlute~539 (0:2)<br>
+	9. QuickFlute~539 (0:2)<br>
 <br>
-983. #DMEN (996) -1<br>
+1012. #SpookyClove~947 (996) -4<br>
+<br>
+	4. bandy (0:1)<br>
+<br>
+1013. #DMEN (996) 0<br>
 <br>
 <br>
-984. #gmclarty (996) +1<br>
-+4<br>
-	5. bandy (1:6)<br>
-	7. Vergilious (0:2)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-985. #athena2109 (995) 0<br>
+1014. #athena2109 (995) 0<br>
 <br>
 	3. SloppyTea~932 (0:4)<br>
-	10. ValveFury (0:1)<br>
 <br>
-986. #Astro~Chicken (995) 0<br>
+1015. #Astro~Chicken (995) 0<br>
 <br>
 <br>
-987. #DirtySponge~587 (995) 0<br>
+1016. #youWIIIN (995) -5<br>
+<br>
+<br>
+1017. #DirtySponge~587 (995) 0<br>
 0<br>
 	3. SloppyTea~932 (1:12)<br>
-	4. MadDookie (4:8)<br>
+	5. MadDookie (4:8)<br>
+	8. Matthew0898 (0:2)<br>
 <br>
-988. #A-711 (995) 0<br>
+1018. #Alex_Zver (995) 0<br>
 <br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-989. #Alex_Zver (995) 0<br>
+1019. #BouncyOgre~164 (995) +2<br>
 <br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-990. #BrianWong200 (995) 0<br>
-<br>
-<br>
-991. #locochon133 (995) 0<br>
-<br>
-	4. MadDookie (0:1)<br>
+	4. bandy (0:2)<br>
 	7. Vergilious (0:1)<br>
 <br>
-992. #Mojomax123 (995) 0<br>
+1020. #BrianWong200 (995) 0<br>
 <br>
-	6. QuickFlute~539 (0:2)<br>
-	10. ValveFury (0:1)<br>
 <br>
-993. #SneakyBaske~171 (995) 0<br>
+1021. #locochon133 (995) 0<br>
+<br>
+	5. MadDookie (0:1)<br>
+	7. Vergilious (0:1)<br>
+<br>
+1022. #Home~Boy (995) 0<br>
+<br>
+<br>
+1023. #FluffyBunny4 (995) -2<br>
+<br>
+	3. SloppyTea~932 (0:2)<br>
+<br>
+1024. #SneakyBaske~171 (995) 0<br>
 <br>
 	7. Vergilious (0:1)<br>
 <br>
-994. #bomberJones (995) 0<br>
-<br>
-<br>
-995. #Maximorax (995) 0<br>
+1025. #Maximorax (995) 0<br>
 <br>
 	3. SloppyTea~932 (1:2)<br>
-	4. MadDookie (1:2)<br>
-	5. bandy (0:1)<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (1:2)<br>
+	8. Matthew0898 (0:1)<br>
 <br>
-996. #Abdel~Baset (995) 0<br>
-<br>
-<br>
-997. #alex44442 (995) 0<br>
-<br>
-	6. QuickFlute~539 (0:1)<br>
-<br>
-998. #tj101560 (995) 0<br>
+1026. #Abdel~Baset (995) 0<br>
 <br>
 <br>
-999. #DerpLorde (995) 0<br>
+1027. #alex44442 (995) 0<br>
 <br>
-	5. bandy (0:1)<br>
+	9. QuickFlute~539 (0:1)<br>
+<br>
+1028. #tj101560 (995) 0<br>
+<br>
+<br>
+1029. #platypus752 (995) -3<br>
+<br>
+	4. bandy (1:1)<br>
+	6. spookydoor (0:1)<br>
+	7. Vergilious (0:1)<br>
+<br>
+1030. #DerpLorde (995) 0<br>
+<br>
+	4. bandy (0:1)<br>
 	7. Vergilious (0:2)<br>
 <br>
-1000. #TrueLab (995) 0<br>
+1031. #MushySand~375 (995) -3<br>
+<br>
+	3. SloppyTea~932 (0:1)<br>
+	5. MadDookie (2:0)<br>
+	8. Matthew0898 (1:1)<br>
+	10. Foxylocks12 (1:0)<br>
+<br>
+1032. #TrueLab (995) 0<br>
 <br>
 <br>
-1001. #Test~Bot (995) 0<br>
+1033. #Test~Bot (995) 0<br>
 <br>
 <br>
-1002. #CrustySoap~479 (995) 0<br>
+1034. #CrustySoap~479 (995) 0<br>
 <br>
 	7. Vergilious (0:1)<br>
 <br>
-1003. #Acrae (995) 0<br>
+1035. #Acrae (995) 0<br>
 <br>
-	5. bandy (0:6)<br>
+	4. bandy (0:6)<br>
+	6. spookydoor (1:3)<br>
 	7. Vergilious (1:8)<br>
-	9. spookydoor (1:3)<br>
 <br>
-1004. #BadPony~191 (995) 0<br>
+1036. #BadPony~191 (995) 0<br>
 <br>
-	5. bandy (0:1)<br>
+	4. bandy (0:1)<br>
 <br>
-1005. #Abelinha123 (995) 0<br>
-<br>
-<br>
-1006. #smokeyson012 (995) 0<br>
-<br>
-	1. JazzyDeer (0:1)<br>
-<br>
-1007. #AbruptPuppet (995) 0<br>
-<br>
-	5. bandy (0:1)<br>
-<br>
-1008. #znth23 (995) 0<br>
-<br>
-	4. MadDookie (0:3)<br>
-<br>
-1009. #Seraphim617 (995) 0<br>
+1037. #Abelinha123 (995) 0<br>
 <br>
 <br>
-1010. #MasterHorus (995) 0<br>
+1038. #smokeyson012 (995) 0<br>
 <br>
-	5. bandy (0:1)<br>
+	2. JazzyDeer (0:1)<br>
+<br>
+1039. #AbruptPuppet (995) 0<br>
+<br>
+	4. bandy (0:1)<br>
+<br>
+1040. #znth23 (995) 0<br>
+<br>
+	5. MadDookie (0:3)<br>
+<br>
+1041. #ny220e (995) -2<br>
+<br>
+	6. spookydoor (3:2)<br>
+	7. Vergilious (1:4)<br>
+<br>
+1042. #Seraphim617 (995) 0<br>
+<br>
+<br>
+1043. #MasterHorus (995) 0<br>
+<br>
+	4. bandy (0:1)<br>
+	6. spookydoor (0:3)<br>
 	7. Vergilious (0:1)<br>
-	9. spookydoor (0:3)<br>
 <br>
-1011. #Skywalker83 (995) 0<br>
-<br>
-<br>
-1012. #SassyFox~171 (995) 0<br>
+1044. #Skywalker83 (995) 0<br>
 <br>
 <br>
-1013. #sepee67 (995) 0<br>
+1045. #SassyFox~171 (995) 0<br>
+<br>
+<br>
+1046. #sepee67 (995) 0<br>
 <br>
 	3. SloppyTea~932 (0:3)<br>
-	4. MadDookie (1:2)<br>
+	5. MadDookie (1:2)<br>
 <br>
-1014. #alizzze (995) 0<br>
+1047. #alizzze (995) 0<br>
 <br>
-	4. MadDookie (0:1)<br>
-	10. ValveFury (1:3)<br>
+	5. MadDookie (0:1)<br>
 <br>
-1015. #AcePegasus (994) 0<br>
-<br>
-<br>
-1016. #Snapping~Turtle (994) 0<br>
+1048. #AcePegasus (994) 0<br>
 <br>
 <br>
-1017. #pepper (994) -2<br>
+1049. #Snapping~Turtle (994) 0<br>
+<br>
+<br>
+1050. #pepper (994) 0<br>
 <br>
 	3. SloppyTea~932 (0:5)<br>
-	8. Foxylocks12 (0:5)<br>
+	8. Matthew0898 (1:3)<br>
+	10. Foxylocks12 (0:5)<br>
 <br>
-1018. #NuttySquash~817 (994) 0<br>
-<br>
-<br>
-1019. #zeltor99 (994) 0<br>
+1051. #NuttySquash~817 (994) 0<br>
 <br>
 <br>
-1020. #king64 (994) 0<br>
+1052. #zeltor99 (994) 0<br>
+<br>
+<br>
+1053. #king64 (994) 0<br>
 <br>
 	3. SloppyTea~932 (1:0)<br>
 	7. Vergilious (0:1)<br>
+	8. Matthew0898 (0:1)<br>
 <br>
-1021. #Fulgent (994) -1<br>
+1054. #Fulgent (994) 0<br>
 <br>
 	3. SloppyTea~932 (1:4)<br>
 	7. Vergilious (0:2)<br>
+	8. Matthew0898 (0:1)<br>
 <br>
-1022. #G-FORCE2727 (994) 0<br>
+1055. #G-FORCE2727 (994) 0<br>
 <br>
-	8. Foxylocks12 (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-1023. #Felixx (994) 0<br>
+1056. #Felixx (994) 0<br>
 <br>
 	7. Vergilious (0:2)<br>
-	10. ValveFury (1:2)<br>
 <br>
-1024. #Turtle~Waffle (994) 0<br>
-<br>
-<br>
-1025. #imCVNT (994) +8<br>
--7|-3|0<br>
-	5. bandy (0:1)<br>
-	6. QuickFlute~539 (1:1)<br>
-	7. Vergilious (1:2)<br>
-	8. Foxylocks12 (1:3)<br>
-	9. spookydoor (1:5)<br>
-	10. ValveFury (0:2)<br>
-<br>
-1026. #lotfiaab (994) +1<br>
+1057. #Turtle~Waffle (994) 0<br>
 <br>
 <br>
-1027. #vatolina96 (994) -2<br>
--2<br>
-	3. SloppyTea~932 (0:3)<br>
-	4. MadDookie (0:3)<br>
+1058. #Mojomax123 (994) -1<br>
 <br>
-1028. #SourIsland~843 (994) 0<br>
+	9. QuickFlute~539 (0:2)<br>
+<br>
+1059. #SourIsland~843 (994) 0<br>
 <br>
 <br>
-1029. #Ekun (994) 0<br>
+1060. #Ekun (994) 0<br>
 <br>
 	3. SloppyTea~932 (0:1)<br>
-	4. MadDookie (0:1)<br>
+	5. MadDookie (0:1)<br>
 <br>
-1030. #CoolOrbit~874 (994) 0<br>
-<br>
-	4. MadDookie (0:1)<br>
-<br>
-1031. #thestallion (994) -4<br>
-<br>
-<br>
-1032. #BouncyOgre~164 (994) 0<br>
-<br>
-	5. bandy (0:2)<br>
-	7. Vergilious (0:1)<br>
-	10. ValveFury (1:0)<br>
-<br>
-1033. #rawbdor (994) +4<br>
-+5<br>
-	4. MadDookie (0:7)<br>
-	5. bandy (1:0)<br>
-	9. spookydoor (0:1)<br>
-<br>
-1034. #MarbleFlute~229 (994) 0<br>
-<br>
-<br>
-1035. #QueenJess18 (994) 0<br>
-0<br>
-	3. SloppyTea~932 (1:9)<br>
-	5. bandy (1:4)<br>
-	7. Vergilious (7:16)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-1036. #Lyzax (993) +2<br>
+1061. #Lyzax (994) 0<br>
 0<br>
 	3. SloppyTea~932 (0:3)<br>
-	4. MadDookie (3:6)<br>
+	5. MadDookie (3:6)<br>
 	7. Vergilious (1:3)<br>
 <br>
-1037. #ManiVS (993) 0<br>
+1062. #CoolOrbit~874 (994) 0<br>
 <br>
-	6. QuickFlute~539 (4:1)<br>
-	9. spookydoor (0:1)<br>
+	5. MadDookie (0:1)<br>
+	8. Matthew0898 (1:2)<br>
 <br>
-1038. #StormyJeans~231 (993) 0<br>
-<br>
-<br>
-1039. #teichikun (993) 0<br>
-<br>
-<br>
-1040. #PacMang (993) -1<br>
-<br>
-<br>
-1041. #iTRax (993) -1<br>
-<br>
-<br>
-1042. #purduepete (993) 0<br>
-<br>
-	9. spookydoor (0:3)<br>
-<br>
-1043. #ProAssaulter (993) 0<br>
-<br>
-	3. SloppyTea~932 (1:5)<br>
-	7. Vergilious (0:1)<br>
-	8. Foxylocks12 (0:2)<br>
-<br>
-1044. #GreedyDeer~849 (993) 0<br>
-<br>
-<br>
-1045. #mitchtater (993) -4<br>
-<br>
-<br>
-1046. #mini_pilot (993) -2<br>
--10<br>
+1063. #mini_pilot (994) +1<br>
+-9<br>
 	3. SloppyTea~932 (1:0)<br>
-	4. MadDookie (0:1)<br>
-	8. Foxylocks12 (0:1)<br>
+	5. MadDookie (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-1047. #aceface (993) 0<br>
-+1<br>
-	5. bandy (2:5)<br>
-	7. Vergilious (0:5)<br>
-	9. spookydoor (0:1)<br>
-	10. ValveFury (1:0)<br>
+1064. #rawbdor (994) 0<br>
++5<br>
+	4. bandy (1:0)<br>
+	5. MadDookie (0:7)<br>
+	6. spookydoor (0:1)<br>
 <br>
-1048. #john-difool (993) -1<br>
-<br>
-	5. bandy (0:2)<br>
-	7. Vergilious (1:4)<br>
-	9. spookydoor (0:3)<br>
-<br>
-1049. #Genghis~Khan (993) 0<br>
+1065. #MarbleFlute~229 (994) 0<br>
 <br>
 <br>
-1050. #Sea~Slug (993) -4<br>
+1066. #ManiVS (994) 0<br>
+<br>
+	6. spookydoor (0:3)<br>
+	9. QuickFlute~539 (4:1)<br>
+<br>
+1067. #StormyJeans~231 (993) 0<br>
 <br>
 <br>
-1051. #SirUltimate (993) +5<br>
-<br>
-	3. SloppyTea~932 (0:4)<br>
-	5. bandy (2:1)<br>
-	9. spookydoor (0:2)<br>
-<br>
-1052. #algalcone (992) 0<br>
-<br>
-	4. MadDookie (1:3)<br>
-	5. bandy (0:2)<br>
-<br>
-1053. #Pedrum (992) -1<br>
-<br>
-	1. JazzyDeer (0:1)<br>
-	3. SloppyTea~932 (2:2)<br>
-	4. MadDookie (1:0)<br>
-<br>
-1054. #habeebc6a2 (992) 0<br>
-<br>
-	6. QuickFlute~539 (0:3)<br>
-	9. spookydoor (1:6)<br>
-<br>
-1055. #Sitting~Duck (992) -4<br>
+1068. #teichikun (993) 0<br>
 <br>
 <br>
-1056. #Thund3rfrakk (992) 0<br>
+1069. #PacMang (993) 0<br>
 <br>
 <br>
-1057. #luisluis (992) -8<br>
+1070. #purduepete (993) 0<br>
+<br>
+	6. spookydoor (0:3)<br>
+<br>
+1071. #GreedyDeer~849 (993) 0<br>
 <br>
 <br>
-1058. #marcopolo23 (992) +2<br>
--2<br>
-	4. MadDookie (2:1)<br>
-<br>
-1059. #melvinlhh (992) 0<br>
-<br>
-<br>
-1060. #mattymate (992) +2<br>
+1072. #Frangta (993) -4<br>
 -3<br>
-	1. JazzyDeer (0:1)<br>
-	3. SloppyTea~932 (2:2)<br>
-	4. MadDookie (1:2)<br>
-	5. bandy (0:2)<br>
-	7. Vergilious (3:2)<br>
-	8. Foxylocks12 (2:6)<br>
+	4. bandy (1:4)<br>
+	5. MadDookie (0:5)<br>
+	6. spookydoor (1:1)<br>
 <br>
-1061. #Italobr (992) +3<br>
-0|+4<br>
-	1. JazzyDeer (2:11)<br>
-	3. SloppyTea~932 (1:6)<br>
-	4. MadDookie (0:2)<br>
-	8. Foxylocks12 (1:4)<br>
-<br>
-1062. #MR_JABROT_X (992) +2<br>
-+4|+3<br>
-	5. bandy (2:16)<br>
-	7. Vergilious (2:21)<br>
-	9. spookydoor (1:3)<br>
-<br>
-1063. #RED_SKELETON (992) 0<br>
-<br>
-	6. QuickFlute~539 (1:0)<br>
-<br>
-1064. #MashedChain~793 (992) 0<br>
+1073. #mitchtater (993) 0<br>
 <br>
 <br>
-1065. #FierceErmin~768 (992) 0<br>
-<br>
-	5. bandy (0:1)<br>
-	9. spookydoor (0:1)<br>
-<br>
-1066. #Snake1976 (992) +1<br>
--6|0<br>
-	3. SloppyTea~932 (0:4)<br>
-	4. MadDookie (9:22)<br>
-	7. Vergilious (1:2)<br>
-	8. Foxylocks12 (1:3)<br>
-<br>
-1067. #Calssacolada (991) 0<br>
-<br>
-<br>
-1068. #Crims0n (991) 0<br>
--15|0<br>
-	3. SloppyTea~932 (0:8)<br>
-	4. MadDookie (1:9)<br>
-	8. Foxylocks12 (2:11)<br>
-<br>
-1069. #gobindsingh (991) -1<br>
-+6<br>
-	4. MadDookie (1:2)<br>
-	5. bandy (0:1)<br>
+1074. #aceface (993) 0<br>
++1<br>
+	4. bandy (2:5)<br>
+	6. spookydoor (0:1)<br>
 	7. Vergilious (0:5)<br>
-	8. Foxylocks12 (1:0)<br>
-	10. ValveFury (3:3)<br>
 <br>
-1070. #mahone007 (991) +1<br>
+1075. #Genghis~Khan (993) 0<br>
 <br>
-	6. QuickFlute~539 (0:1)<br>
-	9. spookydoor (1:1)<br>
 <br>
-1071. #NimbleRam~874 (991) 0<br>
+1076. #Sea~Slug (993) 0<br>
 <br>
-	6. QuickFlute~539 (0:4)<br>
-	9. spookydoor (1:3)<br>
 <br>
-1072. #phaneron (991) 0<br>
--13|-1<br>
-	3. SloppyTea~932 (0:7)<br>
-	4. MadDookie (7:21)<br>
+1077. #SirUltimate (993) 0<br>
+<br>
+	3. SloppyTea~932 (0:4)<br>
+	4. bandy (2:1)<br>
+	6. spookydoor (0:2)<br>
+<br>
+1078. #algalcone (992) 0<br>
+<br>
+	4. bandy (0:2)<br>
+	5. MadDookie (1:3)<br>
+	8. Matthew0898 (0:2)<br>
+<br>
+1079. #Pedrum (992) 0<br>
+<br>
+	2. JazzyDeer (0:1)<br>
+	3. SloppyTea~932 (2:2)<br>
+	5. MadDookie (1:0)<br>
+	8. Matthew0898 (0:1)<br>
+<br>
+1080. #bomberJones (992) -3<br>
+<br>
+<br>
+1081. #habeebc6a2 (992) 0<br>
+<br>
+	6. spookydoor (1:6)<br>
+	9. QuickFlute~539 (0:3)<br>
+<br>
+1082. #Sitting~Duck (992) 0<br>
+<br>
+<br>
+1083. #Thund3rfrakk (992) 0<br>
+<br>
+<br>
+1084. #SmartFox~702 (992) -4<br>
+<br>
+	6. spookydoor (0:4)<br>
+<br>
+1085. #melvinlhh (992) 0<br>
+<br>
+	8. Matthew0898 (0:1)<br>
+<br>
+1086. #mattymate (992) 0<br>
+-3<br>
+	2. JazzyDeer (0:1)<br>
+	3. SloppyTea~932 (2:2)<br>
+	4. bandy (0:2)<br>
+	5. MadDookie (1:2)<br>
+	7. Vergilious (3:2)<br>
+	8. Matthew0898 (1:3)<br>
+	10. Foxylocks12 (2:6)<br>
+<br>
+1087. #lotfiaab (992) -2<br>
+<br>
+<br>
+1088. #FierceErmin~768 (992) 0<br>
+<br>
+	4. bandy (0:1)<br>
+	6. spookydoor (0:2)<br>
+<br>
+1089. #SnatchWeasel (992) -15<br>
+0|-21|-22|-17|-12|-18|-13|-2<br>
+	3. SloppyTea~932 (0:3)<br>
+	4. bandy (4:24)<br>
+	6. spookydoor (2:7)<br>
+	7. Vergilious (0:6)<br>
+	8. Matthew0898 (3:8)<br>
+	9. QuickFlute~539 (1:3)<br>
+<br>
+1090. #MashedChain~793 (992) 0<br>
+<br>
+<br>
+1091. #Calssacolada (991) 0<br>
+<br>
+<br>
+1092. #ciubaka (991) +1<br>
+<br>
+	4. bandy (0:2)<br>
+	6. spookydoor (0:1)<br>
 	7. Vergilious (0:2)<br>
-	8. Foxylocks12 (0:2)<br>
+	9. QuickFlute~539 (0:2)<br>
 <br>
-1073. #WildGuitar~793 (991) 0<br>
+1093. #gobindsingh (991) 0<br>
++6<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (1:2)<br>
+	7. Vergilious (0:5)<br>
+	8. Matthew0898 (3:8)<br>
+	10. Foxylocks12 (1:0)<br>
 <br>
-	5. bandy (0:1)<br>
+1094. #djhunt (991) 0<br>
+<br>
+	5. MadDookie (1:7)<br>
+	6. spookydoor (0:3)<br>
+<br>
+1095. #Red_Skeleton (991) -1<br>
+<br>
+	9. QuickFlute~539 (1:0)<br>
+<br>
+1096. #NimbleRam~874 (991) 0<br>
+<br>
+	6. spookydoor (1:3)<br>
+	9. QuickFlute~539 (0:4)<br>
+<br>
+1097. #WildGuitar~793 (991) 0<br>
+<br>
+	4. bandy (0:1)<br>
+	6. spookydoor (1:11)<br>
 	7. Vergilious (1:3)<br>
-	9. spookydoor (1:11)<br>
-	10. ValveFury (1:0)<br>
 <br>
-1074. #djhunt (991) 0<br>
+1098. #QueenJess18 (991) -3<br>
+-3<br>
+	2. JazzyDeer (0:7)<br>
+	3. SloppyTea~932 (1:10)<br>
+	4. bandy (1:4)<br>
+	5. MadDookie (0:2)<br>
+	7. Vergilious (7:17)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-	4. MadDookie (1:7)<br>
+1099. #Fanfoue9 (991) +3<br>
+-4<br>
+	2. JazzyDeer (1:6)<br>
+	3. SloppyTea~932 (2:3)<br>
+	4. bandy (2:6)<br>
+	5. MadDookie (1:7)<br>
+	7. Vergilious (1:3)<br>
+	8. Matthew0898 (2:8)<br>
 <br>
-1075. #ciubaka (990) 0<br>
-<br>
-	5. bandy (0:2)<br>
-	6. QuickFlute~539 (0:2)<br>
+1100. #phaneron (990) 0<br>
+-13|-2<br>
+	3. SloppyTea~932 (0:7)<br>
+	5. MadDookie (7:21)<br>
 	7. Vergilious (0:2)<br>
+	8. Matthew0898 (0:5)<br>
+	10. Foxylocks12 (0:2)<br>
 <br>
-1076. #adolfijood (990) 0<br>
+1101. #adolfijood (990) 0<br>
 <br>
 <br>
-1077. #babyMacci (990) +2<br>
-0<br>
-	3. SloppyTea~932 (0:2)<br>
-	4. MadDookie (0:4)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-1078. #Queerio (990) -1<br>
+1102. #Queerio (990) 0<br>
 <br>
 	3. SloppyTea~932 (3:15)<br>
-	4. MadDookie (1:5)<br>
-	9. spookydoor (0:1)<br>
+	5. MadDookie (1:5)<br>
+	6. spookydoor (0:1)<br>
 <br>
-1079. #ProudPlane~337 (990) -2<br>
--2<br>
-	4. MadDookie (0:5)<br>
-	5. bandy (0:1)<br>
-	8. Foxylocks12 (0:4)<br>
+1103. #iTRAX (990) -3<br>
 <br>
-1080. #ZincBoat~290 (990) 0<br>
+<br>
+1104. #ZincBoat~290 (990) 0<br>
 -2<br>
+	6. spookydoor (0:1)<br>
 	7. Vergilious (0:2)<br>
-	9. spookydoor (0:1)<br>
 <br>
-1081. #Minny (990) 0<br>
+1105. #Minny (990) 0<br>
 <br>
 	3. SloppyTea~932 (0:1)<br>
-	5. bandy (0:2)<br>
+	4. bandy (0:2)<br>
+	6. spookydoor (0:4)<br>
 	7. Vergilious (3:16)<br>
-	9. spookydoor (0:4)<br>
-	10. ValveFury (0:1)<br>
 <br>
-1082. #Doge42 (990) 0<br>
--1<br>
-	3. SloppyTea~932 (0:1)<br>
-	6. QuickFlute~539 (0:7)<br>
-	9. spookydoor (2:16)<br>
+1106. #Crims0n (990) -2<br>
+-16|-2<br>
+	2. JazzyDeer (0:5)<br>
+	3. SloppyTea~932 (0:9)<br>
+	5. MadDookie (1:10)<br>
+	8. Matthew0898 (2:5)<br>
+	10. Foxylocks12 (2:11)<br>
 <br>
-1083. #o0viper0o (989) 0<br>
+1107. #john-difool (990) -3<br>
+<br>
+	4. bandy (0:2)<br>
+	6. spookydoor (0:5)<br>
+	7. Vergilious (1:4)<br>
+<br>
+1108. #o0viper0o (989) 0<br>
 <br>
 <br>
-1084. #maery (989) 0<br>
+1109. #maery (989) 0<br>
 <br>
 <br>
-1085. #futurexo (989) 0<br>
+1110. #mahone007 (989) -2<br>
+<br>
+	6. spookydoor (1:1)<br>
+	9. QuickFlute~539 (0:1)<br>
+<br>
+1111. #futurexo (989) 0<br>
 <br>
 	7. Vergilious (0:2)<br>
 <br>
-1086. #SmartBeast~394 (989) 0<br>
-<br>
-	4. MadDookie (0:1)<br>
-	8. Foxylocks12 (0:1)<br>
-<br>
-1087. #bluelobster4 (989) 0<br>
+1112. #bluelobster4 (989) 0<br>
 -2<br>
 	3. SloppyTea~932 (0:2)<br>
-	4. MadDookie (0:1)<br>
-	5. bandy (0:1)<br>
-	6. QuickFlute~539 (0:1)<br>
+	4. bandy (1:1)<br>
+	5. MadDookie (0:1)<br>
 	7. Vergilious (0:3)<br>
-	8. Foxylocks12 (0:1)<br>
-	10. ValveFury (0:1)<br>
+	9. QuickFlute~539 (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-1088. #trishaabaaby (988) -1<br>
--4<br>
-	5. bandy (0:7)<br>
-	6. QuickFlute~539 (1:8)<br>
-	7. Vergilious (0:1)<br>
-	9. spookydoor (0:3)<br>
-<br>
-1089. #Fanfoue9 (988) -7<br>
+1113. #vatolina96 (989) -5<br>
 -7<br>
-	1. JazzyDeer (0:2)<br>
 	3. SloppyTea~932 (0:3)<br>
-	4. MadDookie (0:5)<br>
-	5. bandy (2:6)<br>
-	7. Vergilious (1:3)<br>
+	5. MadDookie (0:3)<br>
+	8. Matthew0898 (0:1)<br>
 <br>
-1090. #MagicFox~931 (988) -2<br>
+1114. #SmartBeast~394 (989) 0<br>
 <br>
-	10. ValveFury (1:0)<br>
+	5. MadDookie (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-1091. #krocdur (988) +1<br>
+1115. #marcopolo23 (989) -3<br>
+-5<br>
+	5. MadDookie (2:1)<br>
 <br>
-	4. MadDookie (1:3)<br>
+1116. #Doge42 (989) -1<br>
+-2<br>
+	3. SloppyTea~932 (0:1)<br>
+	6. spookydoor (2:16)<br>
+	9. QuickFlute~539 (0:7)<br>
 <br>
-1092. #Busch (988) -2<br>
+1117. #trishaabaaby (988) 0<br>
+-4<br>
+	4. bandy (0:7)<br>
+	6. spookydoor (0:3)<br>
+	7. Vergilious (0:1)<br>
+	9. QuickFlute~539 (1:8)<br>
 <br>
-	8. Foxylocks12 (0:2)<br>
-	9. spookydoor (0:3)<br>
+1118. #MagicFox~931 (988) 0<br>
 <br>
-1093. #RaptorKills (987) 0<br>
+<br>
+1119. #babyMacci (988) -2<br>
+-2<br>
+	2. JazzyDeer (0:3)<br>
+	3. SloppyTea~932 (0:2)<br>
+	5. MadDookie (0:4)<br>
+	8. Matthew0898 (5:17)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+1120. #RaptorKills (987) 0<br>
 -13|-3<br>
-	5. bandy (1:5)<br>
-	6. QuickFlute~539 (1:0)<br>
-	8. Foxylocks12 (1:3)<br>
+	4. bandy (1:5)<br>
+	9. QuickFlute~539 (1:0)<br>
+	10. Foxylocks12 (1:3)<br>
 <br>
-1094. #GoFucUrSelf (987) 0<br>
+1121. #GoFucUrSelf (987) 0<br>
 <br>
 <br>
-1095. #evilCherry2 (987) +3<br>
--16|-15|-11|-6|+7<br>
-	1. JazzyDeer (0:2)<br>
-	3. SloppyTea~932 (3:17)<br>
-	4. MadDookie (1:3)<br>
-	5. bandy (0:15)<br>
-	6. QuickFlute~539 (0:4)<br>
-	7. Vergilious (3:12)<br>
-	8. Foxylocks12 (1:1)<br>
-	9. spookydoor (3:21)<br>
-	10. ValveFury (1:5)<br>
+1122. #luisluis (987) -5<br>
 <br>
-1096. #FastGoblin~692 (987) +1<br>
+	6. spookydoor (0:1)<br>
 <br>
-	6. QuickFlute~539 (0:3)<br>
-	9. spookydoor (0:2)<br>
+1123. #ProudPlane~337 (987) -3<br>
+-5|0<br>
+	2. JazzyDeer (1:2)<br>
+	4. bandy (0:5)<br>
+	5. MadDookie (0:7)<br>
+	8. Matthew0898 (1:4)<br>
+	10. Foxylocks12 (0:4)<br>
 <br>
-1097. #DustyToad~122 (986) 0<br>
+1124. #Busch (987) -1<br>
+0<br>
+	6. spookydoor (0:3)<br>
+	10. Foxylocks12 (0:2)<br>
 <br>
-	5. bandy (0:4)<br>
-	6. QuickFlute~539 (0:1)<br>
+1125. #krocdur (986) -1<br>
+<br>
+	5. MadDookie (1:3)<br>
+<br>
+1126. #DustyToad~122 (986) 0<br>
+<br>
+	4. bandy (0:4)<br>
 	7. Vergilious (0:6)<br>
-	10. ValveFury (0:2)<br>
+	9. QuickFlute~539 (0:1)<br>
 <br>
-1098. #thehealerspr (986) 0<br>
+1127. #thehealerspr (986) 0<br>
 0<br>
 	3. SloppyTea~932 (0:2)<br>
+	6. spookydoor (1:8)<br>
 	7. Vergilious (0:1)<br>
-	9. spookydoor (1:8)<br>
 <br>
-1099. #jantheman (986) 0<br>
+1128. #jantheman (986) 0<br>
 <br>
 <br>
-1100. #LazyCarrot~367 (986) 0<br>
+1129. #FastGoblin~692 (986) 0<br>
 <br>
-	4. MadDookie (0:1)<br>
+	6. spookydoor (0:2)<br>
+	9. QuickFlute~539 (0:3)<br>
+<br>
+1130. #LazyCarrot~367 (986) 0<br>
+<br>
+	5. MadDookie (0:1)<br>
 	7. Vergilious (0:1)<br>
-	8. Foxylocks12 (0:1)<br>
+	8. Matthew0898 (1:3)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-1101. #edwin327 (986) -2<br>
--6<br>
-	5. bandy (1:1)<br>
-	6. QuickFlute~539 (2:8)<br>
-	7. Vergilious (0:2)<br>
-	9. spookydoor (0:2)<br>
+1131. #Italobr (986) -6<br>
+-6|-2<br>
+	2. JazzyDeer (2:11)<br>
+	3. SloppyTea~932 (1:6)<br>
+	5. MadDookie (0:2)<br>
+	8. Matthew0898 (4:11)<br>
+	10. Foxylocks12 (1:4)<br>
 <br>
-1102. #Drag0nstorm (985) 0<br>
+1132. #Drag0nstorm (985) 0<br>
 <br>
 <br>
-1103. #UMadBro__ (985) 0<br>
+1133. #evilCherry2 (985) -2<br>
+-19|-17|-13|-8|+4|0<br>
+	2. JazzyDeer (0:3)<br>
+	3. SloppyTea~932 (3:17)<br>
+	4. bandy (0:15)<br>
+	5. MadDookie (1:5)<br>
+	6. spookydoor (4:24)<br>
+	7. Vergilious (3:12)<br>
+	9. QuickFlute~539 (0:4)<br>
+	10. Foxylocks12 (1:1)<br>
 <br>
-	4. MadDookie (0:4)<br>
+1134. #UMadBro__ (985) 0<br>
 <br>
-1104. #littledark (985) 0<br>
+	5. MadDookie (0:4)<br>
+<br>
+1135. #littledark (985) 0<br>
 -2<br>
-	6. QuickFlute~539 (1:8)<br>
+	6. spookydoor (1:3)<br>
 	7. Vergilious (2:5)<br>
-	9. spookydoor (1:3)<br>
+	9. QuickFlute~539 (1:8)<br>
 <br>
-1105. #BlackDestiny (984) 0<br>
+1136. #BlackDestiny (984) 0<br>
 <br>
 <br>
-1106. #GiddyPine~548 (984) -1<br>
+1137. #GiddyPine~548 (984) 0<br>
 0|+1<br>
-	1. JazzyDeer (0:1)<br>
+	2. JazzyDeer (0:1)<br>
+	6. spookydoor (0:5)<br>
 	7. Vergilious (2:4)<br>
-	9. spookydoor (0:5)<br>
 <br>
-1107. #SoggyIcicle~968 (984) 0<br>
+1138. #edwin327 (984) -2<br>
+-8<br>
+	4. bandy (1:1)<br>
+	6. spookydoor (0:2)<br>
+	7. Vergilious (0:2)<br>
+	9. QuickFlute~539 (2:8)<br>
+<br>
+1139. #SoggyIcicle~968 (984) 0<br>
 -5<br>
-	4. MadDookie (0:2)<br>
-	5. bandy (0:7)<br>
+	4. bandy (0:7)<br>
+	5. MadDookie (0:2)<br>
+	6. spookydoor (0:2)<br>
 	7. Vergilious (1:4)<br>
-	9. spookydoor (0:2)<br>
-	10. ValveFury (1:3)<br>
 <br>
-1108. #JuicyCocoa~688 (983) 0<br>
--6<br>
-	5. bandy (0:5)<br>
-	7. Vergilious (0:10)<br>
+1140. #onehunglow (984) -15<br>
+-5<br>
+	4. bandy (0:21)<br>
 <br>
-1109. #Legalamb (983) 0<br>
+1141. #Legalamb (983) 0<br>
 0|-2<br>
 	7. Vergilious (0:1)<br>
-	10. ValveFury (1:4)<br>
+	8. Matthew0898 (0:5)<br>
 <br>
-1110. #MessyMitten~903 (983) 0<br>
+1142. #MessyMitten~903 (983) 0<br>
 <br>
-	5. bandy (0:2)<br>
+	4. bandy (0:2)<br>
 <br>
-1111. #HazyTrain~509 (982) -1<br>
+1143. #clownkiller (983) -13<br>
+-1<br>
+	4. bandy (1:12)<br>
+	7. Vergilious (1:7)<br>
+<br>
+1144. #JuicyCocoa~688 (982) -1<br>
+-6<br>
+	4. bandy (0:5)<br>
+	7. Vergilious (0:10)<br>
+<br>
+1145. #HazyTrain~509 (982) 0<br>
 -8|-7|+2<br>
-	1. JazzyDeer (0:5)<br>
+	2. JazzyDeer (1:10)<br>
 	3. SloppyTea~932 (6:25)<br>
-	4. MadDookie (2:12)<br>
+	5. MadDookie (2:13)<br>
 	7. Vergilious (1:5)<br>
-	8. Foxylocks12 (1:9)<br>
+	8. Matthew0898 (4:21)<br>
+	10. Foxylocks12 (1:9)<br>
 <br>
-1112. #paul11 (981) -2<br>
--9<br>
-	3. SloppyTea~932 (4:6)<br>
-	4. MadDookie (1:0)<br>
-	7. Vergilious (2:2)<br>
-	9. spookydoor (1:8)<br>
-	10. ValveFury (1:1)<br>
+1146. #culodmose (982) +5<br>
+-10|+1<br>
+	3. SloppyTea~932 (1:10)<br>
+	4. bandy (0:1)<br>
+	5. MadDookie (0:2)<br>
+	7. Vergilious (1:3)<br>
+	8. Matthew0898 (4:4)<br>
+	9. QuickFlute~539 (0:1)<br>
+	10. Foxylocks12 (0:2)<br>
 <br>
-1113. #ChunkyButte~933 (981) 0<br>
+1147. #ChunkyButte~933 (981) 0<br>
 -12|-2<br>
-	5. bandy (0:1)<br>
-	9. spookydoor (0:3)<br>
+	4. bandy (0:1)<br>
+	6. spookydoor (0:3)<br>
 <br>
-1114. #aawwa (979) -1<br>
--5<br>
-	5. bandy (2:5)<br>
-	7. Vergilious (0:6)<br>
-	9. spookydoor (0:1)<br>
+1148. #baby_ace (980) +2<br>
+-9|0<br>
+	3. SloppyTea~932 (0:2)<br>
+	5. MadDookie (0:2)<br>
+	7. Vergilious (1:2)<br>
+	8. Matthew0898 (1:1)<br>
+	9. QuickFlute~539 (0:3)<br>
+	10. Foxylocks12 (2:13)<br>
 <br>
-1115. #DapperBeast~588 (979) 0<br>
+1149. #paul11 (979) -2<br>
+-11<br>
+	3. SloppyTea~932 (4:6)<br>
+	5. MadDookie (1:0)<br>
+	6. spookydoor (1:8)<br>
+	7. Vergilious (2:2)<br>
+	8. Matthew0898 (2:0)<br>
+<br>
+1150. #DapperBeast~588 (979) 0<br>
 -2<br>
 	3. SloppyTea~932 (0:1)<br>
-	4. MadDookie (0:1)<br>
+	5. MadDookie (0:1)<br>
+	8. Matthew0898 (0:5)<br>
 <br>
-1116. #JamesTheMan3 (979) -1<br>
-<br>
-	3. SloppyTea~932 (0:1)<br>
-	7. Vergilious (0:1)<br>
-	8. Foxylocks12 (0:1)<br>
-	9. spookydoor (0:2)<br>
-	10. ValveFury (0:2)<br>
-<br>
-1117. #Jay07 (978) 0<br>
+1151. #Jay07 (978) 0<br>
 -1<br>
 	3. SloppyTea~932 (0:3)<br>
-	4. MadDookie (0:3)<br>
+	5. MadDookie (0:3)<br>
 	7. Vergilious (0:2)<br>
 <br>
-1118. #IO0IOl0I0lOO (978) 0<br>
+1152. #IO0IOl0I0lOO (978) 0<br>
 -9<br>
 	3. SloppyTea~932 (1:1)<br>
-	6. QuickFlute~539 (0:4)<br>
+	9. QuickFlute~539 (0:4)<br>
 <br>
-1119. #baby_ace (978) -1<br>
--11|-2<br>
-	3. SloppyTea~932 (0:2)<br>
-	4. MadDookie (0:2)<br>
-	6. QuickFlute~539 (0:3)<br>
-	8. Foxylocks12 (2:13)<br>
+1153. #JamesTheMan3 (976) -2<br>
 <br>
-1120. #culodmose (978) -5<br>
--14|-3<br>
-	3. SloppyTea~932 (1:9)<br>
-	4. MadDookie (0:2)<br>
-	5. bandy (0:1)<br>
-	6. QuickFlute~539 (0:1)<br>
-	7. Vergilious (1:3)<br>
-	8. Foxylocks12 (0:2)<br>
+	3. SloppyTea~932 (0:1)<br>
+	6. spookydoor (0:4)<br>
+	7. Vergilious (0:1)<br>
+	8. Matthew0898 (0:2)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-1121. #GraySong~389 (976) -4<br>
+1154. #GraySong~389 (976) 0<br>
 -16|-1<br>
 	3. SloppyTea~932 (3:6)<br>
-	6. QuickFlute~539 (0:2)<br>
 	7. Vergilious (0:3)<br>
-	8. Foxylocks12 (0:1)<br>
+	8. Matthew0898 (1:0)<br>
+	9. QuickFlute~539 (0:2)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-1122. #Nuttykazoo (975) -1<br>
--9|-5<br>
-	3. SloppyTea~932 (0:6)<br>
-	5. bandy (0:1)<br>
-	6. QuickFlute~539 (0:2)<br>
-	8. Foxylocks12 (0:9)<br>
+1155. #aawwa (976) -3<br>
+-9<br>
+	4. bandy (2:5)<br>
+	6. spookydoor (0:1)<br>
+	7. Vergilious (0:6)<br>
 <br>
-1123. #BlackMonkey~695 (975) 0<br>
+1156. #DapperTooth~732 (975) 0<br>
 -3<br>
-	1. JazzyDeer (0:32)<br>
-	2. PotatFarmer (0:83)<br>
+	1. PotatFarmer (0:83)<br>
+	2. JazzyDeer (0:32)<br>
 <br>
-1124. #DapperTooth~732 (975) 0<br>
+1157. #BlackMonkey~695 (975) 0<br>
 -3<br>
-	1. JazzyDeer (0:32)<br>
-	2. PotatFarmer (0:83)<br>
+	1. PotatFarmer (0:83)<br>
+	2. JazzyDeer (0:32)<br>
 <br>
-1125. #JamesTheMan (975) 0<br>
+1158. #MR_JABROT_X (975) -17<br>
+-13|-14|-19|-5<br>
+	4. bandy (2:35)<br>
+	6. spookydoor (3:15)<br>
+	7. Vergilious (2:21)<br>
+<br>
+1159. #JamesTheMan (975) 0<br>
 -4<br>
+	6. spookydoor (0:5)<br>
 	7. Vergilious (0:5)<br>
-	8. Foxylocks12 (0:1)<br>
-	9. spookydoor (0:5)<br>
+	8. Matthew0898 (0:1)<br>
+	10. Foxylocks12 (0:1)<br>
 <br>
-1126. #silas13 (973) -1<br>
--10|-4<br>
-	1. JazzyDeer (1:3)<br>
-	3. SloppyTea~932 (0:2)<br>
-	4. MadDookie (2:5)<br>
-	7. Vergilious (1:5)<br>
-	8. Foxylocks12 (0:1)<br>
+1160. #Medito (973) +2<br>
+-10|+2|-5<br>
+	4. bandy (0:4)<br>
+	6. spookydoor (6:14)<br>
+	7. Vergilious (0:3)<br>
+	9. QuickFlute~539 (7:10)<br>
 <br>
-1127. #ZanyChalk~181 (972) 0<br>
+1161. #ShaggyGrill~634 (972) 0<br>
 -10|0<br>
-	1. JazzyDeer (0:200)<br>
+	2. JazzyDeer (0:200)<br>
 <br>
-1128. #ShaggyGrill~634 (972) 0<br>
+1162. #ZanyChalk~181 (972) 0<br>
 -10|0<br>
-	1. JazzyDeer (0:200)<br>
+	2. JazzyDeer (0:200)<br>
 <br>
-1129. #Galithor (972) -2<br>
+1163. #Galithor (972) 0<br>
 -20|-10|-1<br>
 	3. SloppyTea~932 (1:7)<br>
-	4. MadDookie (2:4)<br>
-	6. QuickFlute~539 (0:1)<br>
+	5. MadDookie (2:4)<br>
+	6. spookydoor (0:3)<br>
 	7. Vergilious (1:2)<br>
-	8. Foxylocks12 (1:0)<br>
-	9. spookydoor (0:3)<br>
+	8. Matthew0898 (1:0)<br>
+	9. QuickFlute~539 (0:1)<br>
+	10. Foxylocks12 (1:0)<br>
 <br>
-1130. #spicymanmeat (972) 0<br>
--13|-8|-2<br>
-	5. bandy (0:2)<br>
-	6. QuickFlute~539 (1:2)<br>
-	7. Vergilious (0:3)<br>
-	8. Foxylocks12 (0:1)<br>
-	9. spookydoor (0:2)<br>
-	10. ValveFury (0:1)<br>
-<br>
-1131. #Medito (971) -6<br>
--12|0|-7<br>
-	5. bandy (0:4)<br>
-	6. QuickFlute~539 (7:10)<br>
-	7. Vergilious (0:3)<br>
-	9. spookydoor (4:11)<br>
-<br>
-1132. #SpiffyTapir~355 (969) 0<br>
+1164. #SpiffyTapir~355 (969) 0<br>
 -8|-1<br>
-	10. ValveFury (1:0)<br>
 <br>
-1133. #GabbySoup~838 (966) 0<br>
+1165. #silas13 (968) -5<br>
+-15|-9|-2<br>
+	2. JazzyDeer (1:4)<br>
+	3. SloppyTea~932 (0:2)<br>
+	5. MadDookie (2:9)<br>
+	7. Vergilious (1:5)<br>
+	8. Matthew0898 (1:5)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+1166. #Nuttykazoo (966) -9<br>
+-18|-14|-1<br>
+	2. JazzyDeer (0:5)<br>
+	3. SloppyTea~932 (0:6)<br>
+	4. bandy (0:1)<br>
+	6. spookydoor (0:7)<br>
+	7. Vergilious (0:1)<br>
+	8. Matthew0898 (0:6)<br>
+	9. QuickFlute~539 (0:2)<br>
+	10. Foxylocks12 (0:9)<br>
+<br>
+1167. #GabbySoup~838 (966) 0<br>
 -26|-12|-5|0<br>
-	1. JazzyDeer (0:73)<br>
-	2. PotatFarmer (0:317)<br>
+	1. PotatFarmer (0:317)<br>
+	2. JazzyDeer (0:73)<br>
 <br>
-1134. #SuicideMan (963) -6<br>
--23|-14|-7<br>
-	6. QuickFlute~539 (0:1)<br>
-	7. Vergilious (0:4)<br>
-	9. spookydoor (1:7)<br>
-	10. ValveFury (0:1)<br>
-<br>
-1135. #SaltyCobweb~516 (963) 0<br>
+1168. #SaltyCobweb~516 (963) 0<br>
 -32|-29|-22|-11|-4<br>
-	1. JazzyDeer (0:253)<br>
-	2. PotatFarmer (0:317)<br>
+	1. PotatFarmer (0:317)<br>
+	2. JazzyDeer (0:253)<br>
 <br>
-1136. #DapperTruck~427 (962) 0<br>
+1169. #spicymanmeat (962) -9<br>
+-22|-17|-11|-4<br>
+	4. bandy (2:23)<br>
+	6. spookydoor (0:2)<br>
+	7. Vergilious (0:5)<br>
+	8. Matthew0898 (0:2)<br>
+	9. QuickFlute~539 (1:2)<br>
+	10. Foxylocks12 (0:1)<br>
+<br>
+1170. #DapperTruck~427 (962) 0<br>
 -35|-31|-27|-13|-5|0<br>
-	1. JazzyDeer (0:253)<br>
-	2. PotatFarmer (0:317)<br>
+	1. PotatFarmer (0:317)<br>
+	2. JazzyDeer (0:253)<br>
 	3. SloppyTea~932 (2:1)<br>
-	4. MadDookie (2:3)<br>
+	5. MadDookie (2:3)<br>
+	8. Matthew0898 (2:0)<br>
 <br>
-1137. #jkoy3.1 (957) -3<br>
--27|-8<br>
-	1. JazzyDeer (0:2)<br>
+1171. #jkoy3.1 (958) +1<br>
+-26|-7<br>
+	2. JazzyDeer (0:2)<br>
 	3. SloppyTea~932 (0:3)<br>
-	4. MadDookie (0:2)<br>
-	5. bandy (0:4)<br>
-	6. QuickFlute~539 (0:1)<br>
+	4. bandy (0:4)<br>
+	5. MadDookie (0:2)<br>
+	9. QuickFlute~539 (0:1)<br>
 <br>
-1138. #CloudyRobin~939 (924) 0<br>
+1172. #SuicideMan (955) -9<br>
+-32|-23|-16|0<br>
+	6. spookydoor (1:18)<br>
+	7. Vergilious (0:7)<br>
+	9. QuickFlute~539 (0:1)<br>
+<br>
+1173. #CloudyRobin~939 (924) 0<br>
 -58|-48|-30|-23|-24|-20|-10|-4|0<br>
-	1. JazzyDeer (0:485)<br>
-	2. PotatFarmer (0:400)<br>
+	1. PotatFarmer (0:400)<br>
+	2. JazzyDeer (0:485)<br>
 <br>
-1139. #RichePotat (918) 0<br>
+1174. #RichePotat (918) 0<br>
 -75|-55|-45|-31|-25|-22|-21|-11|-5|-1<br>
-	1. JazzyDeer (0:556)<br>
-	2. PotatFarmer (0:399)<br>
-	4. MadDookie (2:0)<br>
+	1. PotatFarmer (0:399)<br>
+	2. JazzyDeer (0:556)<br>
+	5. MadDookie (2:0)<br>
+	8. Matthew0898 (2:0)<br>
