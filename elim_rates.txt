@@ -1,29 +1,19 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #gamaray1719 (1442) -1<br>
-+32|+26|+30|+23|+13|+4|-3|-5|-3|-2<br>
-	2. waffle3z (5:1)<br>
-	3. Reclamation- (9:1)<br>
+1. #gamaray1719 (1442) 0<br>
++26|+30|+23|+13|+4|-3|-5|-3|-2|0<br>
+	2. Reclamation- (9:1)<br>
+	3. waffle3z (5:1)<br>
 	4. JazzyDeer (6:4)<br>
 	5. Symsymmy (7:2)<br>
 	6. Hoberdo (38:10)<br>
 	8. Orbiter (13:1)<br>
 	9. Jasem (1:0)<br>
 <br>
-2. #waffle3z (1319) 0<br>
--2|+3|+4|+7|+7|+8|+9|+3|+1|-2<br>
-	1. gamaray1719 (1:5)<br>
-	3. Reclamation- (74:55)<br>
-	4. JazzyDeer (9:8)<br>
-	5. Symsymmy (12:5)<br>
-	6. Hoberdo (16:8)<br>
-	9. Jasem (16:8)<br>
-	10. bejut (7:6)<br>
-<br>
-3. #Reclamation- (1317) +6<br>
-+16|+12|+10|+15|+18|+24|+24|+22|+7|+1<br>
+2. #Reclamation- (1320) +3<br>
++19|+15|+13|+18|+21|+27|+27|+25|+10|+4<br>
 	1. gamaray1719 (1:9)<br>
-	2. waffle3z (55:74)<br>
+	3. waffle3z (55:74)<br>
 	4. JazzyDeer (9:8)<br>
 	5. Symsymmy (44:26)<br>
 	6. Hoberdo (8:11)<br>
@@ -32,11 +22,21 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Jasem (1:2)<br>
 	10. bejut (7:4)<br>
 <br>
+3. #waffle3z (1319) 0<br>
+-2|+3|+4|+7|+7|+8|+9|+3|+1|-2<br>
+	1. gamaray1719 (1:5)<br>
+	2. Reclamation- (74:55)<br>
+	4. JazzyDeer (9:8)<br>
+	5. Symsymmy (12:5)<br>
+	6. Hoberdo (16:8)<br>
+	9. Jasem (16:8)<br>
+	10. bejut (7:6)<br>
+<br>
 4. #JazzyDeer (1272) 0<br>
 +49|+48|+44|+27|+26|+25|+20|+6|-1|+3<br>
 	1. gamaray1719 (4:6)<br>
-	2. waffle3z (8:9)<br>
-	3. Reclamation- (8:9)<br>
+	2. Reclamation- (8:9)<br>
+	3. waffle3z (8:9)<br>
 	5. Symsymmy (7:2)<br>
 	6. Hoberdo (2:0)<br>
 	8. Orbiter (5:2)<br>
@@ -45,8 +45,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 5. #Symsymmy (1260) 0<br>
 -40|-37|-40|-27|-34|-29|-27|-22|-12|-4<br>
 	1. gamaray1719 (2:7)<br>
-	2. waffle3z (5:12)<br>
-	3. Reclamation- (26:44)<br>
+	2. Reclamation- (26:44)<br>
+	3. waffle3z (5:12)<br>
 	4. JazzyDeer (2:7)<br>
 	6. Hoberdo (23:20)<br>
 	7. fifty6 (0:2)<br>
@@ -57,8 +57,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 6. #Hoberdo (1258) 0<br>
 +35|+36|+33|+26|+21|+24|+19|+15|+10|+2<br>
 	1. gamaray1719 (10:38)<br>
-	2. waffle3z (8:16)<br>
-	3. Reclamation- (11:8)<br>
+	2. Reclamation- (11:8)<br>
+	3. waffle3z (8:16)<br>
 	4. JazzyDeer (0:2)<br>
 	5. Symsymmy (20:23)<br>
 	7. fifty6 (4:0)<br>
@@ -67,7 +67,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 7. #fifty6 (1241) 0<br>
 -5|-8|-4|-5|-7|-5|-8|-8|-5|-1<br>
-	3. Reclamation- (8:12)<br>
+	2. Reclamation- (8:12)<br>
 	5. Symsymmy (2:0)<br>
 	6. Hoberdo (0:4)<br>
 	9. Jasem (9:9)<br>
@@ -75,17 +75,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 8. #Orbiter (1228) 0<br>
 +30|+24|+9|+12|+19|+20|+10|+6|+7|+2<br>
 	1. gamaray1719 (1:13)<br>
-	3. Reclamation- (4:5)<br>
+	2. Reclamation- (4:5)<br>
 	4. JazzyDeer (2:5)<br>
 	5. Symsymmy (2:7)<br>
 	9. Jasem (3:8)<br>
-	10. bejut (31:24)<br>
+	10. bejut (31:23)<br>
 <br>
 9. #Jasem (1221) 0<br>
 +7|+4|+1|-1|-6|0|+1|+6|+9|+5<br>
 	1. gamaray1719 (0:1)<br>
-	2. waffle3z (8:16)<br>
-	3. Reclamation- (2:1)<br>
+	2. Reclamation- (2:1)<br>
+	3. waffle3z (8:16)<br>
 	4. JazzyDeer (0:1)<br>
 	5. Symsymmy (2:3)<br>
 	6. Hoberdo (6:6)<br>
@@ -95,18 +95,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 10. #bejut (1217) 0<br>
 +2|+13|+5|+7|+7|0|-6|+3|+1|+4<br>
-	2. waffle3z (6:7)<br>
-	3. Reclamation- (4:7)<br>
+	2. Reclamation- (4:7)<br>
+	3. waffle3z (6:7)<br>
 	5. Symsymmy (0:3)<br>
 	6. Hoberdo (6:7)<br>
-	8. Orbiter (24:31)<br>
+	8. Orbiter (23:31)<br>
 	9. Jasem (2:5)<br>
 <br>
 11. #JDHA218 (1213) 0<br>
--8|-12|-7|-6|-2|-5|-7|-11|-10|-5<br>
+-8|-12|-7|-6|-2|-4|-7|-11|-10|-4<br>
 	1. gamaray1719 (7:15)<br>
-	2. waffle3z (20:35)<br>
-	3. Reclamation- (20:58)<br>
+	2. Reclamation- (20:58)<br>
+	3. waffle3z (20:35)<br>
 	4. JazzyDeer (0:1)<br>
 	5. Symsymmy (7:9)<br>
 	6. Hoberdo (12:21)<br>
@@ -115,52 +115,52 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Jasem (2:1)<br>
 	10. bejut (6:7)<br>
 <br>
-12. #ss0317 (1202) +2<br>
+12. #ss0317 (1202) 0<br>
 +19|+22|+22|+16|+9|+7|+7|+9|+2|+1<br>
 	1. gamaray1719 (5:38)<br>
-	2. waffle3z (4:5)<br>
-	3. Reclamation- (14:47)<br>
+	2. Reclamation- (14:47)<br>
+	3. waffle3z (4:5)<br>
 	4. JazzyDeer (1:1)<br>
 	5. Symsymmy (3:6)<br>
 	6. Hoberdo (17:28)<br>
 	8. Orbiter (4:12)<br>
 	10. bejut (1:3)<br>
 <br>
-13. #BenjiKozoR (1153) +1<br>
--1|+4|+5|+10|+20|+15|+21|+15|+4|+1<br>
-	2. waffle3z (17:29)<br>
-	3. Reclamation- (26:60)<br>
-	4. JazzyDeer (1:4)<br>
-	5. Symsymmy (11:12)<br>
-	6. Hoberdo (44:101)<br>
-	7. fifty6 (5:8)<br>
-	8. Orbiter (7:8)<br>
-	9. Jasem (3:12)<br>
-	10. bejut (7:10)<br>
-<br>
-14. #vip_genius (1153) -2<br>
-+1|-1|-3|-13|-15|-22|-16|-5|-5|0<br>
+13. #vip_genius (1154) +1<br>
++2|0|-2|-11|-14|-21|-15|-4|-4|+1<br>
 	1. gamaray1719 (0:1)<br>
-	3. Reclamation- (0:4)<br>
+	2. Reclamation- (0:4)<br>
 	6. Hoberdo (3:6)<br>
 <br>
-15. #GoodAce (1151) 0<br>
+14. #GoodAce (1151) 0<br>
 0|+3|+10|+5|+8|+3|+4|0|+3|-6<br>
 	1. gamaray1719 (0:3)<br>
-	2. waffle3z (6:20)<br>
-	3. Reclamation- (18:55)<br>
+	2. Reclamation- (18:55)<br>
+	3. waffle3z (6:20)<br>
 	4. JazzyDeer (16:31)<br>
-	5. Symsymmy (12:31)<br>
+	5. Symsymmy (10:25)<br>
 	6. Hoberdo (22:30)<br>
-	8. Orbiter (1:1)<br>
-	9. Jasem (5:5)<br>
+	8. Orbiter (0:1)<br>
+	9. Jasem (2:3)<br>
 	10. bejut (1:4)<br>
+<br>
+15. #BenjiKozoR (1149) -3<br>
++1|+2|+7|+16|+12|+18|+12|+1|-2|-3<br>
+	2. Reclamation- (26:60)<br>
+	3. waffle3z (17:29)<br>
+	4. JazzyDeer (1:4)<br>
+	5. Symsymmy (5:7)<br>
+	6. Hoberdo (44:101)<br>
+	7. fifty6 (5:8)<br>
+	8. Orbiter (4:6)<br>
+	9. Jasem (1:11)<br>
+	10. bejut (3:5)<br>
 <br>
 16. #Mutation- (1144) 0<br>
 +122|+91|+67|+49|+27|+16|+1<br>
 	1. gamaray1719 (1:7)<br>
-	2. waffle3z (6:4)<br>
-	3. Reclamation- (70:112)<br>
+	2. Reclamation- (70:112)<br>
+	3. waffle3z (6:4)<br>
 	4. JazzyDeer (2:2)<br>
 	5. Symsymmy (8:5)<br>
 	6. Hoberdo (1:2)<br>
@@ -170,25 +170,25 @@ Recent win rates against top 10 over the past 20k matches<br>
 17. #NinjaBooM (1142) 0<br>
 +18|+20|+21|+9|+3|+5|+7|+8|+11|+6<br>
 	1. gamaray1719 (3:3)<br>
-	2. waffle3z (2:10)<br>
-	3. Reclamation- (33:73)<br>
+	2. Reclamation- (33:73)<br>
+	3. waffle3z (2:10)<br>
 	4. JazzyDeer (6:23)<br>
-	5. Symsymmy (5:8)<br>
+	5. Symsymmy (3:7)<br>
 	6. Hoberdo (9:23)<br>
 	7. fifty6 (7:4)<br>
 	8. Orbiter (2:1)<br>
-	9. Jasem (1:3)<br>
+	9. Jasem (0:3)<br>
 	10. bejut (0:1)<br>
 <br>
 18. #dIehAppY (1136) 0<br>
 -41|-31|-30|-31|-35|-22|-14|-11|-4|-1<br>
-	2. waffle3z (0:4)<br>
+	3. waffle3z (0:4)<br>
 	4. JazzyDeer (1:4)<br>
 	7. fifty6 (1:0)<br>
 <br>
 19. #SadGalaxy360 (1135) 0<br>
 +6|+5|+5|+6|+5|-1|-8|-6|+2|-4<br>
-	2. waffle3z (0:1)<br>
+	3. waffle3z (0:1)<br>
 	4. JazzyDeer (1:1)<br>
 	5. Symsymmy (2:5)<br>
 	6. Hoberdo (10:20)<br>
@@ -196,11 +196,11 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Jasem (3:7)<br>
 	10. bejut (3:3)<br>
 <br>
-20. #zeropoint (1117) 0<br>
--14|-11|-17|-13|-12|-17|-10|-15|-12|-3<br>
+20. #zeropoint (1119) +2<br>
+-10|-16|-11|-11|-15|-9|-13|-10|-2|+1<br>
 	1. gamaray1719 (1:5)<br>
-	2. waffle3z (1:4)<br>
-	3. Reclamation- (22:43)<br>
+	2. Reclamation- (22:43)<br>
+	3. waffle3z (1:4)<br>
 	4. JazzyDeer (11:23)<br>
 	5. Symsymmy (1:2)<br>
 	6. Hoberdo (0:3)<br>
@@ -212,7 +212,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 21. #spaceycarrot (1106) 0<br>
 +30|+21|+20|+7|+6|-7|0|-7|-4|0<br>
 	1. gamaray1719 (0:6)<br>
-	3. Reclamation- (3:14)<br>
+	2. Reclamation- (3:14)<br>
 	4. JazzyDeer (4:10)<br>
 	5. Symsymmy (5:16)<br>
 	6. Hoberdo (2:8)<br>
@@ -220,11 +220,11 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Orbiter (0:1)<br>
 	10. bejut (0:2)<br>
 <br>
-22. #uranus-98 (1105) -5<br>
--10|-8|-13|-15|-13|-7|-7|-6|-6|-7<br>
+22. #uranus-98 (1106) +1<br>
+-9|-7|-12|-14|-12|-6|-6|-5|-5|-6<br>
 	1. gamaray1719 (2:6)<br>
-	2. waffle3z (9:28)<br>
-	3. Reclamation- (35:118)<br>
+	2. Reclamation- (35:118)<br>
+	3. waffle3z (9:28)<br>
 	4. JazzyDeer (9:22)<br>
 	5. Symsymmy (7:24)<br>
 	6. Hoberdo (2:5)<br>
@@ -233,42 +233,43 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 23. #CsAsTra (1099) 0<br>
 -17|-14|-16|-19|-25|-17|-19|-9|-2|+2<br>
-	3. Reclamation- (4:22)<br>
+	2. Reclamation- (4:22)<br>
 	5. Symsymmy (2:2)<br>
 	8. Orbiter (0:1)<br>
-	10. bejut (5:7)<br>
+	10. bejut (2:0)<br>
 <br>
-24. #Inspiration- (1092) +1<br>
-+70|+68|+54|+39|+12|+4<br>
+24. #Inspiration- (1092) 0<br>
++71|+68|+54|+39|+12|+4<br>
 	1. gamaray1719 (5:41)<br>
-	3. Reclamation- (25:60)<br>
+	2. Reclamation- (26:66)<br>
 	5. Symsymmy (1:1)<br>
 	6. Hoberdo (0:2)<br>
 	8. Orbiter (1:0)<br>
 <br>
-25. #JMan8080 (1091) 0<br>
-+76|+71|+63|+54|+45|+27|+15|+9|+2|-3<br>
-	1. gamaray1719 (0:2)<br>
-	2. waffle3z (1:4)<br>
+25. #JMan8080 (1092) +1<br>
++77|+72|+64|+55|+46|+28|+17|+10|+3|-2<br>
+	1. gamaray1719 (1:7)<br>
+	2. Reclamation- (0:1)<br>
+	3. waffle3z (1:4)<br>
 	4. JazzyDeer (0:8)<br>
 	5. Symsymmy (1:7)<br>
 	9. Jasem (0:1)<br>
 <br>
 26. #Shadowblaze. (1058) 0<br>
 +49|+33|+17<br>
-	3. Reclamation- (3:12)<br>
+	2. Reclamation- (3:12)<br>
 	4. JazzyDeer (17:59)<br>
 	8. Orbiter (0:2)<br>
 <br>
-27. #milkyway (1057) -1<br>
+27. #milkyway (1057) 0<br>
 -19|-18|-15|-4|-6|-2|-4|+1|-1|-7<br>
-	3. Reclamation- (1:24)<br>
+	2. Reclamation- (1:24)<br>
 	6. Hoberdo (0:1)<br>
 <br>
 28. #topisagirl (1049) 0<br>
 +22|+16|+11|+7|+8|+4|+11|+13|-4|-3<br>
-	2. waffle3z (1:9)<br>
-	3. Reclamation- (0:1)<br>
+	2. Reclamation- (0:1)<br>
+	3. waffle3z (1:9)<br>
 	4. JazzyDeer (2:6)<br>
 	5. Symsymmy (2:6)<br>
 	9. Jasem (4:1)<br>
@@ -276,14 +277,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 29. #Ardi09. (1048) 0<br>
 -5|-6|-10|-15|-15|-7|-5|-1|-2|+2<br>
-	3. Reclamation- (2:0)<br>
+	2. Reclamation- (2:0)<br>
 	6. Hoberdo (1:1)<br>
 	8. Orbiter (2:7)<br>
 <br>
-30. #GenghisCon (1047) -1<br>
+30. #GenghisCon (1047) 0<br>
 +25|+24|+20|+26|+23|+15|+8|-3|-5|-3<br>
 	1. gamaray1719 (4:14)<br>
-	3. Reclamation- (5:25)<br>
+	2. Reclamation- (5:25)<br>
 	4. JazzyDeer (2:12)<br>
 	5. Symsymmy (4:6)<br>
 	7. fifty6 (1:9)<br>
@@ -292,8 +293,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 31. #ciubaka (1045) 0<br>
 -17|-13|-13|-9|-18|-12|-1|-2|-2|0<br>
 	1. gamaray1719 (0:4)<br>
-	2. waffle3z (1:8)<br>
-	3. Reclamation- (0:1)<br>
+	2. Reclamation- (0:1)<br>
+	3. waffle3z (1:8)<br>
 	4. JazzyDeer (1:1)<br>
 	6. Hoberdo (4:16)<br>
 	8. Orbiter (0:2)<br>
@@ -303,22 +304,22 @@ Recent win rates against top 10 over the past 20k matches<br>
 32. #keyblade335 (1037) 0<br>
 +23|+19|+14|+6|+6|-7|-4|-2|-5|-10<br>
 	1. gamaray1719 (0:1)<br>
-	3. Reclamation- (3:34)<br>
+	2. Reclamation- (3:34)<br>
 	4. JazzyDeer (3:3)<br>
 	5. Symsymmy (8:18)<br>
 	9. Jasem (0:1)<br>
 <br>
 33. #miomonster (1030) 0<br>
 +43|+40|+26|+14|+7|+7<br>
-	3. Reclamation- (1:5)<br>
+	2. Reclamation- (1:5)<br>
 	4. JazzyDeer (0:2)<br>
 	5. Symsymmy (0:3)<br>
 	6. Hoberdo (1:9)<br>
 <br>
 34. #number1daddy (1017) 0<br>
-+17|+19|+18|+8|+2|0<br>
-	2. waffle3z (0:5)<br>
-	3. Reclamation- (5:25)<br>
++18|+19|+18|+8|+3|+1<br>
+	2. Reclamation- (6:26)<br>
+	3. waffle3z (0:5)<br>
 	4. JazzyDeer (3:12)<br>
 	5. Symsymmy (0:5)<br>
 	6. Hoberdo (1:3)<br>
@@ -327,10 +328,10 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. bejut (2:10)<br>
 <br>
 35. #Sondair (1011) 0<br>
--27|-21|-11|-10|-5|+4|+2|+7|-2|0<br>
+-26|-21|-11|-10|-5|+4|+2|+7|-2|0<br>
 	1. gamaray1719 (0:1)<br>
-	2. waffle3z (0:2)<br>
-	3. Reclamation- (1:9)<br>
+	2. Reclamation- (1:9)<br>
+	3. waffle3z (0:2)<br>
 	6. Hoberdo (6:44)<br>
 	8. Orbiter (3:25)<br>
 	10. bejut (2:13)<br>
@@ -338,26 +339,26 @@ Recent win rates against top 10 over the past 20k matches<br>
 36. #YouCantWin (1007) 0<br>
 +6|+4|-1<br>
 	1. gamaray1719 (0:1)<br>
-	3. Reclamation- (1:7)<br>
+	2. Reclamation- (1:7)<br>
 	4. JazzyDeer (6:22)<br>
 	6. Hoberdo (2:12)<br>
 <br>
 37. #theAceofGame (1007) 0<br>
 +17|+27|+31|+25|+16|+4|+8|+1|0|-2<br>
-	3. Reclamation- (10:41)<br>
+	2. Reclamation- (10:41)<br>
 	4. JazzyDeer (6:18)<br>
 	5. Symsymmy (8:24)<br>
 	8. Orbiter (0:1)<br>
 <br>
 38. #Langoulant (994) 0<br>
--13|-17|-4|+7|+7|+2|+11|+11|+10<br>
-	2. waffle3z (0:3)<br>
-	3. Reclamation- (3:47)<br>
+-13|-17|-5|+7|+6|+2|+11|+11|+9<br>
+	2. Reclamation- (3:54)<br>
+	3. waffle3z (0:3)<br>
 	6. Hoberdo (0:3)<br>
 <br>
-39. #Spaciel (992) +3<br>
-+17|+18|+12|+8|+2<br>
-	3. Reclamation- (5:19)<br>
+39. #Spaciel (992) 0<br>
++17|+17|+12|+8|+1<br>
+	2. Reclamation- (7:35)<br>
 	5. Symsymmy (0:5)<br>
 	6. Hoberdo (0:2)<br>
 	9. Jasem (0:3)<br>
@@ -365,30 +366,30 @@ Recent win rates against top 10 over the past 20k matches<br>
 40. #rickss (982) 0<br>
 +17|+26|+18|+6|+7|-3|-7|-11|-10|+1<br>
 	1. gamaray1719 (0:1)<br>
-	3. Reclamation- (5:42)<br>
+	2. Reclamation- (5:42)<br>
 	5. Symsymmy (9:31)<br>
 	6. Hoberdo (1:0)<br>
 	7. fifty6 (1:0)<br>
 <br>
 41. #logic1 (980) 0<br>
 -21|-5|-2|-28|-19|-7<br>
-	3. Reclamation- (2:34)<br>
+	2. Reclamation- (2:34)<br>
 	5. Symsymmy (4:15)<br>
 	8. Orbiter (0:1)<br>
 	9. Jasem (0:8)<br>
 <br>
-42. #CoolFaucet~518 (973) -2<br>
+42. #CoolFaucet~518 (973) 0<br>
 -31|-32|-34|-16|-20|-30|-26|-25|-21|-8<br>
-	3. Reclamation- (6:65)<br>
+	2. Reclamation- (6:65)<br>
 	5. Symsymmy (1:2)<br>
 	6. Hoberdo (2:21)<br>
 	10. bejut (7:32)<br>
 <br>
-43. #monguesto (951) +2<br>
--4|+4|+5|+12|-5|0|+2|+2|-10|-5<br>
+43. #monguesto (951) -1<br>
+-5|+4|+5|+11|-6|-1|+1|+1|-11|-6<br>
 	1. gamaray1719 (1:5)<br>
-	2. waffle3z (1:19)<br>
-	3. Reclamation- (12:86)<br>
+	2. Reclamation- (12:91)<br>
+	3. waffle3z (1:19)<br>
 	4. JazzyDeer (2:11)<br>
 	5. Symsymmy (4:14)<br>
 	6. Hoberdo (0:2)<br>
@@ -398,7 +399,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 44. #quickmill (941) 0<br>
 -21|-17|-15|-10|-5|-11|-9|-8|-5|+2<br>
 	1. gamaray1719 (1:14)<br>
-	3. Reclamation- (0:2)<br>
+	2. Reclamation- (0:2)<br>
 	4. JazzyDeer (0:5)<br>
 	6. Hoberdo (2:12)<br>
 	7. fifty6 (0:1)<br>
@@ -409,17 +410,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 45. #x-Carbon-x (936) 0<br>
 +9|+3|+9|+10|+5|+7|-4|-7|-5|-7<br>
 	1. gamaray1719 (0:3)<br>
-	2. waffle3z (1:11)<br>
-	3. Reclamation- (4:15)<br>
+	2. Reclamation- (4:15)<br>
+	3. waffle3z (1:11)<br>
 	6. Hoberdo (1:0)<br>
 	7. fifty6 (2:6)<br>
 	8. Orbiter (0:1)<br>
 	10. bejut (0:3)<br>
 <br>
-46. #AlGalcone (922) 0<br>
-+13|+5|+2|+1|-11|-11|-13|-8|-8|0<br>
-	1. gamaray1719 (2:18)<br>
-	3. Reclamation- (10:40)<br>
+46. #AlGalcone (920) -2<br>
++11|+3|-1|-1|-13|-13|-15|-10|-10|-2<br>
+	1. gamaray1719 (2:23)<br>
+	2. Reclamation- (10:40)<br>
 	4. JazzyDeer (1:3)<br>
 	5. Symsymmy (2:12)<br>
 	6. Hoberdo (5:27)<br>
@@ -428,7 +429,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 47. #Ares8 (768) 0<br>
 0|+10|+12|+10|+7|+8|+2|+2|+4|+3<br>
-	3. Reclamation- (0:6)<br>
+	2. Reclamation- (0:6)<br>
 	5. Symsymmy (1:19)<br>
 	6. Hoberdo (0:1)<br>
 	8. Orbiter (0:2)<br>
