@@ -1,74 +1,82 @@
 Recent win rates against top 10 over the past 21 days<br>
 <br>
-1. #MoldyCrush~110 (1477) -3<br>
-+257|+210|+173|+145|+90|+52|+43|+34|+11|0<br>
+1. #MoldyCrush~110 (1481) +4<br>
++260|+214|+177|+149|+93|+56|+47|+38|+14|+4<br>
 <br>
-2. #GoOody (1446) 0<br>
-+81|+69|+55|+28|+11|-3|+1|-14|+12|+9<br>
-<br>
-3. #waffle~3z (1446) -4<br>
-+55|+50|+57|+73|+69|+68|+44|+19|+18|-2<br>
-	5. GaudyWeasel (0:1)<br>
-	6. jacks0nh0le (2:0)<br>
+2. #waffle~3z (1448) +2<br>
++57|+52|+59|+75|+71|+70|+46|+21|+20|0<br>
+	4. GaudyWeasel (0:1)<br>
+	5. jacks0nh0le (3:0)<br>
 	8. BenjiKozoR (1:0)<br>
 <br>
-4. #ianna (1431) +3<br>
--19|-15|+11|+47|+48|+32|+45|+26|+22|+9<br>
+3. #ianna (1430) -1<br>
+-21|-16|+10|+46|+46|+30|+43|+24|+21|+7<br>
 <br>
-5. #GaudyWeasel (1419) 0<br>
+4. #GaudyWeasel (1419) 0<br>
 +82|+70|+52|+49|+38|+38|+27|+23|+15|+9<br>
-	3. waffle~3z (1:0)<br>
-	7. Yamamoto79 (2:3)<br>
+	2. waffle~3z (1:0)<br>
+	7. Yamamoto79 (0:1)<br>
 	9. zamrai (3:2)<br>
 <br>
-6. #jacks0nh0le (1416) -3<br>
-+59|+53|+50|+42|+28|+14|+11|+12|+8|-4<br>
-	3. waffle~3z (0:2)<br>
+5. #jacks0nh0le (1411) -5<br>
++54|+48|+45|+37|+23|+9|+6|+7|+3|-9<br>
+	2. waffle~3z (0:3)<br>
 	8. BenjiKozoR (3:3)<br>
 	9. zamrai (2:1)<br>
 	10. rickss (4:6)<br>
 <br>
+6. #Mocha960725 (1404) +16<br>
++181|+167|+156|+169|+144|+133|+109|+65|+61|+20<br>
+	7. Yamamoto79 (1:0)<br>
+<br>
 7. #Yamamoto79 (1404) 0<br>
 +34|+42|+27|+11|+8|+3|+4|+4|+1|+1<br>
-	5. GaudyWeasel (3:2)<br>
+	4. GaudyWeasel (1:0)<br>
+	6. Mocha960725 (0:1)<br>
 	8. BenjiKozoR (1:2)<br>
 	9. zamrai (0:2)<br>
 <br>
-8. #BenjiKozoR (1402) -1<br>
+8. #BenjiKozoR (1402) 0<br>
 +55|+43|+23|+14|-8|+6|+3|+14|+9|-1<br>
-	3. waffle~3z (0:1)<br>
-	6. jacks0nh0le (3:3)<br>
+	2. waffle~3z (0:1)<br>
+	5. jacks0nh0le (3:3)<br>
 	7. Yamamoto79 (2:1)<br>
 	10. rickss (0:5)<br>
 <br>
 9. #zamrai (1400) 0<br>
 +25|+25|+20|+26|+26|+31|+33|+16|+5|-1<br>
-	5. GaudyWeasel (2:3)<br>
-	6. jacks0nh0le (1:2)<br>
+	4. GaudyWeasel (2:3)<br>
+	5. jacks0nh0le (1:2)<br>
 	7. Yamamoto79 (2:0)<br>
 	10. rickss (2:0)<br>
 <br>
-10. #rickss (1393) +16<br>
-+31|+28|+29|+39|+41|+24|+18|+16|+16|+11<br>
-	6. jacks0nh0le (6:4)<br>
+10. #rickss (1392) -1<br>
++26|+28|+37|+39|+23|+17|+14|+15|+10|+2<br>
+	5. jacks0nh0le (6:4)<br>
 	8. BenjiKozoR (5:0)<br>
 	9. zamrai (0:2)<br>
 <br>
-11. #Mocha960725 (1389) +6<br>
-+165|+152|+141|+153|+129|+118|+94|+50|+46|+4<br>
-	7. Yamamoto79 (1:0)<br>
-<br>
-12. #DavidIggyLou (1385) -4<br>
-+37|+35|+35|+19|+23|+13|+16|+4|-8|-1<br>
-	6. jacks0nh0le (1:1)<br>
+11. #DavidIggyLou (1386) 0<br>
++38|+36|+35|+19|+23|+14|+16|+5|-7|-1<br>
+	5. jacks0nh0le (1:1)<br>
 	9. zamrai (1:0)<br>
-	10. rickss (1:3)<br>
+	10. rickss (1:4)<br>
 <br>
-13. #GreatApple~214 (1382) 0<br>
-+14|-4|-3|-18|-23|-18|-10|-16|-13|+7<br>
-	6. jacks0nh0le (4:2)<br>
+12. #GreatApple~214 (1384) +2<br>
++16|-2|-1|-16|-21|-16|-8|-14|-11|+9<br>
+	5. jacks0nh0le (4:2)<br>
 	8. BenjiKozoR (6:0)<br>
 	9. zamrai (2:2)<br>
+<br>
+13. #Nimsta (1382) +6<br>
+-20|-27|-27|-26|-3|+10|+20|+25|+27|+5<br>
+	4. GaudyWeasel (1:0)<br>
+	5. jacks0nh0le (1:0)<br>
+	6. Mocha960725 (1:0)<br>
+	7. Yamamoto79 (0:1)<br>
+	8. BenjiKozoR (1:0)<br>
+	9. zamrai (5:0)<br>
+	10. rickss (7:4)<br>
 <br>
 14. #utah801 (1382) 0<br>
 +51|+44|+48|+44|+19|+41|+42|+28|+10|+7<br>
@@ -76,1249 +84,1253 @@ Recent win rates against top 10 over the past 21 days<br>
 	9. zamrai (0:1)<br>
 	10. rickss (0:1)<br>
 <br>
-15. #Panic~Attack (1380) -2<br>
--116|-93|-84|-77|-50|-27|-30|-5|-6|-1<br>
-	3. waffle~3z (4:8)<br>
-	5. GaudyWeasel (0:2)<br>
-	6. jacks0nh0le (1:3)<br>
-	8. BenjiKozoR (2:5)<br>
-	10. rickss (2:2)<br>
+15. #Arkady (1381) +3<br>
++32|+23|+15|+21|+21|+20|+19|+10|+2|+1<br>
 <br>
-16. #Vergilious (1378) -4<br>
-+19|+13|+5|+6|+6|+3|-5|-7|0|-6<br>
-	3. waffle~3z (1:1)<br>
-	6. jacks0nh0le (2:2)<br>
+16. #Vergilious (1379) 0<br>
++20|+13|+6|+7|+6|+3|-5|-6|0|-5<br>
+	2. waffle~3z (1:1)<br>
+	5. jacks0nh0le (2:2)<br>
 	7. Yamamoto79 (1:1)<br>
 	10. rickss (4:1)<br>
 <br>
 17. #Enlights (1378) 0<br>
 +37|+29|+34|+50|+46|+30|+14|-4|+2|+7<br>
-	3. waffle~3z (0:1)<br>
+	2. waffle~3z (0:1)<br>
 	8. BenjiKozoR (1:0)<br>
 	9. zamrai (0:1)<br>
 <br>
-18. #Arkady (1377) 0<br>
-+29|+19|+11|+18|+18|+16|+15|+6|-1|-2<br>
+18. #7paths (1377) +6<br>
++46|+48|+35|+28|+35|+27|+33|+20|+11|0<br>
+	5. jacks0nh0le (0:3)<br>
+	6. Mocha960725 (1:1)<br>
+	10. rickss (1:2)<br>
 <br>
-19. #PEPrasetya (1377) -7<br>
--19|-10|-11|-4|-3|0|+15|+8|-9|-8<br>
+19. #Panic~Attack (1375) -4<br>
+-98|-88|-81|-55|-31|-34|-10|-11|-5|-3<br>
+	2. waffle~3z (4:9)<br>
+	4. GaudyWeasel (0:2)<br>
+	5. jacks0nh0le (1:3)<br>
+	6. Mocha960725 (1:3)<br>
+	8. BenjiKozoR (2:5)<br>
+	10. rickss (2:2)<br>
+<br>
+20. #sebfillion (1375) 0<br>
++22|+17|+18|+15|+16|+16|+4|+2|-4|-7<br>
+	4. GaudyWeasel (0:1)<br>
+	6. Mocha960725 (0:1)<br>
+<br>
+21. #PEPrasetya (1374) -3<br>
+-22|-13|-14|-7|-6|-3|+12|+5|-12|-11<br>
+	6. Mocha960725 (3:0)<br>
 	10. rickss (4:4)<br>
 <br>
-20. #Nimsta (1377) +5<br>
--24|-26|-33|-33|-32|-9|+5|+14|+19|+22<br>
-	5. GaudyWeasel (1:0)<br>
-	6. jacks0nh0le (1:0)<br>
-	7. Yamamoto79 (0:1)<br>
-	8. BenjiKozoR (1:0)<br>
-	9. zamrai (5:2)<br>
-	10. rickss (7:4)<br>
-<br>
-21. #sebfillion (1375) 0<br>
-+22|+17|+18|+15|+16|+16|+4|+2|-4|-7<br>
-	5. GaudyWeasel (0:1)<br>
-<br>
-22. #GroovyFlame (1374) -5<br>
+22. #GroovyFlame (1374) 0<br>
 +7|-8|-2|+2|+1|+9|+13|+14|+5|0<br>
-	6. jacks0nh0le (3:3)<br>
+	5. jacks0nh0le (3:3)<br>
 	9. zamrai (0:6)<br>
 	10. rickss (3:9)<br>
 <br>
-23. #zeropoint (1371) 0<br>
+23. #Mean~Machine (1373) +3<br>
++99|+101|+84|+68|+68|+68|+51|+14|+2|+3<br>
+	2. waffle~3z (8:18)<br>
+	4. GaudyWeasel (0:3)<br>
+	5. jacks0nh0le (3:7)<br>
+	6. Mocha960725 (1:3)<br>
+	8. BenjiKozoR (0:5)<br>
+<br>
+24. #zeropoint (1371) 0<br>
 +4|-1|-7|-4|+11|+7|+1|+7|+2|-4<br>
-	6. jacks0nh0le (1:4)<br>
+	5. jacks0nh0le (1:4)<br>
 	7. Yamamoto79 (0:1)<br>
 	8. BenjiKozoR (0:1)<br>
 	9. zamrai (0:2)<br>
 	10. rickss (7:7)<br>
 <br>
-24. #7paths (1371) -2<br>
-+40|+42|+29|+22|+29|+21|+28|+14|+5|-6<br>
-	6. jacks0nh0le (0:3)<br>
-	10. rickss (1:1)<br>
-<br>
 25. #cricric (1371) 0<br>
 +20|+8|+24|+2|+13|+2|-7|-13|-22|0<br>
-	3. waffle~3z (2:3)<br>
+	2. waffle~3z (2:3)<br>
 	7. Yamamoto79 (0:1)<br>
 <br>
-26. #TimTim (1370) 0<br>
+26. #multiball. (1370) +1<br>
+-1|+3|+17|+29|+25|+16|+1|-11|-13|+2<br>
+	10. rickss (2:3)<br>
+<br>
+27. #TimTim (1370) 0<br>
 +1|-3|-20|-10|-5|+1|+17|+2|-1|-4<br>
 	7. Yamamoto79 (0:1)<br>
 <br>
-27. #Mean~Machine (1369) 0<br>
-+95|+98|+81|+65|+65|+64|+48|+11|-2|0<br>
-	3. waffle~3z (7:16)<br>
-	5. GaudyWeasel (0:3)<br>
-	6. jacks0nh0le (3:7)<br>
-	8. BenjiKozoR (0:5)<br>
-<br>
-28. #Symsymmy (1369) 0<br>
-+23|+33|+12|-10|-24|-20|-13|-19|+3|+6<br>
-	7. Yamamoto79 (4:4)<br>
-<br>
-29. #wagaf (1369) 0<br>
+28. #wagaf (1369) 0<br>
 +23|+23|+19|+22|+6|-12|-2|+5|-6|-1<br>
-	2. GoOody (1:1)<br>
-	5. GaudyWeasel (1:0)<br>
 <br>
-30. #multiball. (1369) -1<br>
--2|+2|+15|+27|+24|+14|0|-12|-14|+1<br>
-	10. rickss (2:3)<br>
+29. #fifty6 (1368) +3<br>
+-31|-25|-22|-24|-23|-15|-1|-11|-14|+4<br>
+	4. GaudyWeasel (0:1)<br>
+	6. Mocha960725 (4:2)<br>
+	10. rickss (4:2)<br>
 <br>
-31. #Magnetic~Field (1365) +1<br>
-+48|+48|+39|+37|+26|+40|+39|+28|+29|+20<br>
-	3. waffle~3z (0:2)<br>
-	4. ianna (5:13)<br>
-	6. jacks0nh0le (1:0)<br>
+30. #Magnetic~Field (1366) 0<br>
++48|+39|+37|+26|+41|+39|+28|+29|+20|-1<br>
+	2. waffle~3z (0:3)<br>
+	3. ianna (4:12)<br>
+	5. jacks0nh0le (1:0)<br>
+	6. Mocha960725 (5:11)<br>
 	10. rickss (6:3)<br>
 <br>
-32. #Starfleet (1365) 0<br>
-+35|+34|+49|+39|+42|+21|+21|+30|+17|-2<br>
-	2. GoOody (1:1)<br>
-	4. ianna (1:0)<br>
-	7. Yamamoto79 (4:2)<br>
-	8. BenjiKozoR (2:3)<br>
-	9. zamrai (2:3)<br>
+31. #Echo~Bot (1365) +1<br>
++45|+45|+36|+23|+7|+20|+26|+16|+9|+2<br>
+	2. waffle~3z (2:2)<br>
+	3. ianna (2:4)<br>
+	5. jacks0nh0le (3:6)<br>
+	6. Mocha960725 (14:17)<br>
+	10. rickss (2:2)<br>
 <br>
-33. #qwertyuiop00 (1365) -8<br>
+32. #Symsymmy (1365) -4<br>
++29|+8|-14|-28|-24|-17|-23|-1|+1|-2<br>
+	5. jacks0nh0le (1:0)<br>
+	7. Yamamoto79 (4:4)<br>
+<br>
+33. #qwertyuiop00 (1365) 0<br>
 +29|+22|+23|+3|+10|+2|+11|-2|-19|-17<br>
-	5. GaudyWeasel (0:1)<br>
-	6. jacks0nh0le (0:1)<br>
+	4. GaudyWeasel (0:1)<br>
+	5. jacks0nh0le (0:1)<br>
 	8. BenjiKozoR (1:2)<br>
 	10. rickss (3:1)<br>
 <br>
-34. #fifty6 (1365) 0<br>
--34|-28|-24|-27|-26|-18|-4|-14|-17|+1<br>
-	5. GaudyWeasel (0:1)<br>
-	7. Yamamoto79 (2:0)<br>
-	10. rickss (4:2)<br>
+34. #Starfleet (1365) 0<br>
++35|+34|+49|+39|+42|+21|+21|+30|+17|-2<br>
+	3. ianna (1:0)<br>
+	8. BenjiKozoR (2:3)<br>
+	9. zamrai (2:3)<br>
 <br>
-35. #thedude (1365) -1<br>
+35. #thedude (1365) 0<br>
 +35|+27|+1|+7|+5|+4|+2|+8|+9|+2<br>
-	3. waffle~3z (0:1)<br>
-	6. jacks0nh0le (1:0)<br>
+	2. waffle~3z (0:1)<br>
+	5. jacks0nh0le (1:0)<br>
 	10. rickss (6:1)<br>
 <br>
-36. #snowball121 (1365) -5<br>
--57|-71|-90|-100|-106|-77|-61|-34|-11|-3<br>
-	4. ianna (0:2)<br>
+36. #snowball121 (1364) 0<br>
+-57|-72|-90|-100|-106|-77|-61|-34|-11|-3<br>
+	3. ianna (0:2)<br>
 <br>
 37. #blankedout (1364) -1<br>
-+70|+75|+64|+65|+47|+55|+41|+34|+22|+15<br>
-	5. GaudyWeasel (1:0)<br>
-	6. jacks0nh0le (1:0)<br>
++70|+75|+64|+65|+47|+55|+40|+34|+22|+15<br>
+	4. GaudyWeasel (1:0)<br>
+	5. jacks0nh0le (1:0)<br>
 	10. rickss (0:1)<br>
 <br>
-38. #Foxylocks12 (1364) -6<br>
-+104|+68|+60|+26|+18|+23|+20|+9|+15|+5<br>
-	10. rickss (0:2)<br>
-<br>
-39. #Echo~Bot (1364) +1<br>
-+44|+44|+35|+22|+5|+19|+25|+15|+8|+1<br>
-	3. waffle~3z (2:2)<br>
-	4. ianna (6:4)<br>
-	6. jacks0nh0le (3:6)<br>
-	10. rickss (2:2)<br>
-<br>
-40. #skeems (1360) 0<br>
--12|-18|-19|-8|+10|-18|-11|-4|-10|-10<br>
-	7. Yamamoto79 (0:1)<br>
-<br>
-41. #raptorian (1359) 0<br>
-+12|+17|+16|+14|+16|+26|+39|+14|+3|+5<br>
-	7. Yamamoto79 (1:0)<br>
+38. #raptorian (1361) +2<br>
++14|+19|+18|+16|+18|+28|+41|+16|+5|+7<br>
 	10. rickss (2:0)<br>
 <br>
-42. #bandy (1359) -1<br>
--16|-17|-5|-21|-11|-6|-7|-6|-6|-4<br>
-	4. ianna (1:0)<br>
-	5. GaudyWeasel (2:1)<br>
+39. #skeems (1360) 0<br>
+-12|-18|-19|-8|+10|-18|-11|-4|-10|-10<br>
+	6. Mocha960725 (0:1)<br>
+	7. Yamamoto79 (0:1)<br>
 <br>
-43. #Joergfu (1357) 0<br>
-+87|+70|+42|+34|+17|+18|+25|+17|+11|+8<br>
+40. #bandy (1359) 0<br>
+-16|-17|-5|-20|-11|-5|-7|-6|-5|-3<br>
+	3. ianna (1:0)<br>
 <br>
-44. #pew_pew (1356) +4<br>
-+208|+187|+147|+95|+72|+47|+34|+36|+23|+3<br>
-	6. jacks0nh0le (1:0)<br>
+41. #Joergfu (1357) 0<br>
++87|+69|+42|+34|+17|+18|+25|+16|+11|+8<br>
+<br>
+42. #MAKki (1356) +15<br>
++214|+184|+165|+141|+112|+84|+82|+62|+46|+30<br>
+	10. rickss (1:0)<br>
+<br>
+43. #pew_pew (1356) 0<br>
++208|+187|+148|+96|+72|+47|+34|+36|+23|+3<br>
+	5. jacks0nh0le (1:0)<br>
 	10. rickss (2:2)<br>
 <br>
-45. #Attack~Bot (1356) 0<br>
-+51|+47|+52|+43|+41|+44|+29|+27|+9|+8<br>
-	3. waffle~3z (1:1)<br>
-	6. jacks0nh0le (3:7)<br>
-<br>
-46. #Human~Being (1355) +3<br>
-+54|+47|+49|+49|+26|+33|+24|+26|+7|+6<br>
-	3. waffle~3z (0:2)<br>
-	4. ianna (23:38)<br>
+44. #Human~Being (1355) 0<br>
++47|+49|+49|+26|+33|+24|+26|+7|+6|+2<br>
+	2. waffle~3z (0:2)<br>
+	3. ianna (21:38)<br>
+	6. Mocha960725 (4:1)<br>
 	10. rickss (4:0)<br>
 <br>
-47. #xxjoshzxx (1354) -2<br>
+45. #proxywar (1355) +4<br>
++11|+13|+23|+22|+18|+20|+3|+11|0|0<br>
+	4. GaudyWeasel (0:2)<br>
+<br>
+46. #Attack~Bot (1354) -1<br>
++49|+46|+51|+42|+40|+43|+28|+26|+8|+7<br>
+	2. waffle~3z (1:1)<br>
+	5. jacks0nh0le (3:6)<br>
+<br>
+47. #A-z-sh (1354) +4<br>
++6|-7|-17|-29|-18|-21|-10|-12|-15|+6<br>
+	4. GaudyWeasel (3:7)<br>
+	5. jacks0nh0le (8:7)<br>
+	6. Mocha960725 (4:1)<br>
+	7. Yamamoto79 (11:10)<br>
+	8. BenjiKozoR (16:7)<br>
+	9. zamrai (8:6)<br>
+	10. rickss (11:8)<br>
+<br>
+48. #xxjoshzxx (1354) 0<br>
 +10|+4|+10|+18|-7|+7|+1|-17|-8|-12<br>
-	6. jacks0nh0le (2:4)<br>
+	5. jacks0nh0le (2:4)<br>
+	6. Mocha960725 (2:0)<br>
 	7. Yamamoto79 (5:4)<br>
 	9. zamrai (4:0)<br>
 	10. rickss (4:11)<br>
 <br>
-48. #ZenSamurai (1352) +12<br>
-+27|+15|+19|+7|+2|+11|+17|+4|+8|+10<br>
-	6. jacks0nh0le (0:2)<br>
-<br>
-49. #joropo808 (1352) -4<br>
-+41|+39|+44|+21|+7|+6|+20|+10|+5|+15<br>
-	6. jacks0nh0le (3:1)<br>
-	7. Yamamoto79 (1:1)<br>
-	10. rickss (3:3)<br>
-<br>
-50. #svircs (1351) 0<br>
-+9|-5|+13|+8|+11|+13|-12|-8|-1|-2<br>
-	6. jacks0nh0le (1:0)<br>
-	9. zamrai (1:3)<br>
-<br>
-51. #Major~Tom (1351) 0<br>
-+22|+17|+26|+17|+27|+26|+28|+22|+19|+14<br>
-	4. ianna (12:50)<br>
-<br>
-52. #A-z-sh (1351) -7<br>
-+2|-11|-21|-33|-22|-24|-13|-16|-19|+3<br>
-	5. GaudyWeasel (4:8)<br>
-	6. jacks0nh0le (7:7)<br>
-	7. Yamamoto79 (11:10)<br>
-	8. BenjiKozoR (16:7)<br>
-	9. zamrai (13:12)<br>
-	10. rickss (12:10)<br>
-<br>
-53. #proxywar (1351) +3<br>
-+7|+9|+19|+18|+14|+16|-2|+7|-4|-4<br>
-	2. GoOody (1:0)<br>
-	5. GaudyWeasel (0:2)<br>
-<br>
-54. #Buz (1350) -11<br>
-+24|+41|+34|+36|+38|+27|+9|-3|-19|-12<br>
-	3. waffle~3z (0:1)<br>
-	5. GaudyWeasel (1:3)<br>
-	6. jacks0nh0le (2:0)<br>
-	7. Yamamoto79 (3:3)<br>
-	8. BenjiKozoR (0:1)<br>
-	9. zamrai (2:5)<br>
-	10. rickss (10:17)<br>
-<br>
-55. #marijuana10 (1349) +8<br>
-+211|+183|+152|+130|+105|+76|+57|+54|+35|+8<br>
-	7. Yamamoto79 (6:4)<br>
-	8. BenjiKozoR (1:0)<br>
-	9. zamrai (2:1)<br>
-	10. rickss (6:6)<br>
-<br>
-56. #Kaborage (1349) 0<br>
-+61|+36|+24|+3|-23|-22|-23|-19|-16|-7<br>
-	5. GaudyWeasel (0:2)<br>
-	6. jacks0nh0le (1:0)<br>
+49. #kaborage (1353) +4<br>
++65|+40|+28|+7|-19|-18|-19|-15|-12|-3<br>
+	4. GaudyWeasel (0:2)<br>
+	5. jacks0nh0le (2:0)<br>
 	7. Yamamoto79 (0:2)<br>
 	10. rickss (3:1)<br>
 <br>
-57. #Tunnel~Bot (1348) +7<br>
-+53|+48|+57|+62|+42|+36|+22|+21|+15|+9<br>
+50. #ZenSamurai (1352) 0<br>
++27|+15|+19|+7|+2|+11|+17|+4|+8|+10<br>
+	5. jacks0nh0le (0:2)<br>
 <br>
-58. #FeelThaMode (1347) 0<br>
-+39|+33|+38|+32|+24|+23|+13|+12|+13|+4<br>
-	5. GaudyWeasel (1:0)<br>
-	10. rickss (1:2)<br>
+51. #marijuana10 (1352) +2<br>
++185|+154|+132|+107|+78|+59|+56|+37|+11|0<br>
+	7. Yamamoto79 (6:4)<br>
+	8. BenjiKozoR (1:0)<br>
+	9. zamrai (2:1)<br>
+	10. rickss (6:7)<br>
 <br>
-59. #ATN (1346) -2<br>
+52. #joropo808 (1351) 0<br>
++41|+39|+43|+21|+7|+6|+19|+10|+5|+15<br>
+	5. jacks0nh0le (3:1)<br>
+	6. Mocha960725 (1:0)<br>
+	7. Yamamoto79 (1:1)<br>
+	10. rickss (3:3)<br>
+<br>
+53. #Major~Tom (1351) 0<br>
++17|+26|+17|+28|+26|+29|+22|+19|+14|-2<br>
+	3. ianna (15:50)<br>
+	6. Mocha960725 (2:30)<br>
+<br>
+54. #Grand~Admiral (1351) +6<br>
++239|+196|+167|+145|+118|+93|+73|+47|+17|+2<br>
+	2. waffle~3z (13:18)<br>
+	4. GaudyWeasel (0:3)<br>
+	5. jacks0nh0le (2:8)<br>
+	6. Mocha960725 (12:9)<br>
+	8. BenjiKozoR (2:5)<br>
+	10. rickss (1:0)<br>
+<br>
+55. #svircs (1350) -1<br>
++8|-6|+13|+8|+10|+12|-13|-9|-2|-3<br>
+	5. jacks0nh0le (1:0)<br>
+	9. zamrai (1:3)<br>
+	10. rickss (1:0)<br>
+<br>
+56. #Tunnel~Bot (1348) 0<br>
++53|+48|+57|+62|+41|+36|+22|+21|+15|+9<br>
+	6. Mocha960725 (5:16)<br>
+<br>
+57. #CIVIC93 (1347) +7<br>
++58|+46|+47|+43|+55|+46|+28|+24|+23|+7<br>
+	5. jacks0nh0le (2:0)<br>
+	10. rickss (1:0)<br>
+<br>
+58. #ATN (1346) 0<br>
 +51|+56|+53|+55|+40|+31|+33|+41|+32|+13<br>
-	3. waffle~3z (0:2)<br>
-	6. jacks0nh0le (2:1)<br>
+	2. waffle~3z (0:2)<br>
+	5. jacks0nh0le (2:1)<br>
 <br>
-60. #mafl (1345) 0<br>
-+8|+16|+10|+13|+8|-4|-12|-10|-1|-4<br>
-<br>
-61. #BouncyToast~533 (1345) +1<br>
-+35|+40|+24|+31|+13|-3|-12|-26|-9|0<br>
-	4. ianna (1:0)<br>
-	5. GaudyWeasel (1:2)<br>
+59. #BouncyToast~533 (1346) +1<br>
++37|+41|+25|+32|+14|-2|-11|-24|-8|+1<br>
+	4. GaudyWeasel (1:2)<br>
 	7. Yamamoto79 (1:0)<br>
 <br>
-62. #Grand~Admiral (1345) 0<br>
-+233|+190|+161|+140|+112|+88|+68|+41|+11|-4<br>
-	2. GoOody (1:0)<br>
-	3. waffle~3z (12:16)<br>
-	5. GaudyWeasel (0:3)<br>
-	6. jacks0nh0le (1:8)<br>
-	8. BenjiKozoR (2:5)<br>
-<br>
-63. #seb80 (1345) -2<br>
--14|-16|-19|-22|-10|-19|-9|0|-7|-1<br>
-	6. jacks0nh0le (1:0)<br>
-	10. rickss (1:1)<br>
-<br>
-64. #storage (1345) 0<br>
-+39|+30|+15|+20|+22|+17|+6|+7|+15|-2<br>
-	6. jacks0nh0le (0:1)<br>
-<br>
-65. #latespoon (1344) 0<br>
-0|-6|0|-8|-7|+4|+10|+5|+13|+14<br>
-	6. jacks0nh0le (0:1)<br>
-<br>
-66. #Mine~Turtle (1344) -1<br>
-+50|+53|+41|+44|+33|+29|+30|+18|+13|0<br>
-	1. MoldyCrush~110 (7:10)<br>
-	10. rickss (1:0)<br>
-<br>
-67. #mystic28 (1342) 0<br>
-+71|+42|+46|+46|+40|+28|+29|+30|+25|+7<br>
-	2. GoOody (1:0)<br>
-	5. GaudyWeasel (2:0)<br>
-	6. jacks0nh0le (2:0)<br>
-	7. Yamamoto79 (0:1)<br>
-	10. rickss (6:0)<br>
-<br>
-68. #Impatient~Bot (1342) +5<br>
-+46|+40|+48|+45|+25|+7|+6|+2|+7|+10<br>
-	10. rickss (4:0)<br>
-<br>
-69. #MAKki (1342) 0<br>
-+199|+169|+150|+126|+98|+69|+68|+48|+31|+15<br>
-	10. rickss (1:0)<br>
-<br>
-70. #theAceofGame (1341) 0<br>
-+56|+58|+41|+34|+42|+16|+16|+12|-4|+3<br>
-	10. rickss (0:3)<br>
-<br>
-71. #Naboothewolf (1341) 0<br>
-+11|+1|-27|-32|-34|-37|-18|-13|+2|+3<br>
-	5. GaudyWeasel (1:3)<br>
-	7. Yamamoto79 (0:1)<br>
-	9. zamrai (2:1)<br>
-<br>
-72. #Territorial~Bot (1341) -3<br>
-+49|+54|+44|+33|+34|+21|+20|+11|+3|+2<br>
+60. #FeelThaMode (1346) -1<br>
++39|+32|+37|+31|+24|+22|+12|+11|+12|+3<br>
+	4. GaudyWeasel (1:0)<br>
 	10. rickss (1:2)<br>
 <br>
-73. #CIVIC93 (1340) +1<br>
-+56|+50|+38|+40|+36|+48|+38|+20|+17|+16<br>
-	6. jacks0nh0le (2:0)<br>
-	10. rickss (1:0)<br>
+61. #mafl (1345) 0<br>
++8|+16|+10|+13|+8|-4|-12|-10|-1|-4<br>
 <br>
-74. #eggleung1995 (1337) 0<br>
-+28|+29|+20|+17|+5|+1|+4|+14|+4|-1<br>
-<br>
-75. #olaf2 (1336) 0<br>
-+36|+19|+15|+8|-9|-10|-4|-6|+1|-5<br>
-	2. GoOody (1:2)<br>
-<br>
-76. #nuttyjeans (1335) -1<br>
-+5|+16|+13|-13|-1|-1|+21|+28|+20|+6<br>
-	2. GoOody (1:0)<br>
-	9. zamrai (2:0)<br>
-	10. rickss (1:0)<br>
-<br>
-77. #mucker2.0 (1334) 0<br>
-+27|+20|+32|+31|+28|+17|+13|+25|+21|+4<br>
-	9. zamrai (6:3)<br>
-<br>
-78. #Nerf~Bot (1334) +1<br>
--17|-27|-37|-19|-10|-11|-11|-13|-7|+3<br>
-	3. waffle~3z (0:1)<br>
-	6. jacks0nh0le (1:4)<br>
-<br>
-79. #goldfinger (1333) +3<br>
-+15|+17|+44|+51|+46|+37|+34|+28|+24|+18<br>
-	2. GoOody (0:1)<br>
-	5. GaudyWeasel (2:2)<br>
+62. #goldfinger (1345) +12<br>
++30|+57|+64|+59|+50|+46|+41|+36|+30|+14<br>
+	4. GaudyWeasel (2:2)<br>
 	9. zamrai (1:4)<br>
 	10. rickss (1:1)<br>
 <br>
-80. #TimDebJon (1332) 0<br>
-+68|+58|+47|+43|+41|+28|+36|+36|+25|0<br>
-	10. rickss (0:1)<br>
+63. #storage (1345) 0<br>
++39|+30|+15|+20|+22|+17|+6|+7|+15|-2<br>
+	5. jacks0nh0le (0:1)<br>
 <br>
-81. #Sleeping~Waffle (1331) -9<br>
-+34|+23|+21|+26|+18|+15|+20|+21|-3|-9<br>
-	1. MoldyCrush~110 (0:8)<br>
-	4. ianna (6:25)<br>
+64. #Territorial~Bot (1344) +3<br>
++52|+58|+48|+36|+38|+24|+24|+15|+7|+5<br>
+	6. Mocha960725 (1:8)<br>
+	10. rickss (1:2)<br>
 <br>
-82. #flagstone (1330) -6<br>
--7|-10|-18|-10|-24|-27|-25|-12|-6|-1<br>
-	6. jacks0nh0le (0:2)<br>
+65. #latespoon (1344) 0<br>
+0|-6|0|-8|-7|+4|+10|+5|+13|+14<br>
+	5. jacks0nh0le (0:1)<br>
+<br>
+66. #seb80 (1342) -2<br>
+-16|-18|-21|-24|-12|-21|-11|-2|-10|-3<br>
+	5. jacks0nh0le (1:0)<br>
 	10. rickss (1:1)<br>
 <br>
-83. #Snapping~Turtle (1329) +3<br>
--27|-16|-10|-5|-13|-13|-12|-1|-8|+3<br>
-	3. waffle~3z (0:1)<br>
-	6. jacks0nh0le (0:1)<br>
+67. #mystic28 (1342) 0<br>
++71|+42|+46|+46|+40|+28|+29|+30|+25|+7<br>
+	4. GaudyWeasel (2:0)<br>
+	5. jacks0nh0le (2:0)<br>
+	7. Yamamoto79 (0:1)<br>
+	10. rickss (6:0)<br>
 <br>
-84. #TangySoda~164 (1329) -7<br>
-+10|+12|+15|+6|-4|-17|-18|-12|-3|-3<br>
-	6. jacks0nh0le (1:1)<br>
-	7. Yamamoto79 (3:3)<br>
-	9. zamrai (1:0)<br>
-	10. rickss (1:9)<br>
+68. #Impatient~Bot (1342) -1<br>
++39|+47|+44|+24|+7|+6|+1|+7|+9|-3<br>
+	6. Mocha960725 (5:2)<br>
+	10. rickss (4:0)<br>
 <br>
-85. #planetterror (1329) 0<br>
-+17|+12|+14|+11|+6|0|+16|+15|+11|0<br>
-	2. GoOody (1:1)<br>
+69. #theAceofGame (1342) +1<br>
++57|+59|+41|+34|+42|+16|+17|+12|-4|+3<br>
 <br>
-86. #TinyRick (1329) +2<br>
-+138|+106|+90|+68|+54|+32|+29|+14|+4|+3<br>
-	6. jacks0nh0le (1:0)<br>
-	7. Yamamoto79 (2:2)<br>
-	10. rickss (0:3)<br>
+70. #Naboothewolf (1340) 0<br>
++11|+1|-27|-32|-34|-37|-18|-13|+1|+2<br>
+	4. GaudyWeasel (1:3)<br>
+	7. Yamamoto79 (0:1)<br>
+	9. zamrai (2:1)<br>
 <br>
-87. #Jarre (1329) +10<br>
-+10|+29|+25|+27|+25|+19|+24|+4|-11|0<br>
-	5. GaudyWeasel (1:2)<br>
-	6. jacks0nh0le (2:2)<br>
+71. #Jarre (1339) +10<br>
++21|+40|+36|+37|+36|+30|+34|+15|-1|+11<br>
+	4. GaudyWeasel (1:1)<br>
+	5. jacks0nh0le (2:2)<br>
+	6. Mocha960725 (1:1)<br>
 	7. Yamamoto79 (2:1)<br>
 	9. zamrai (1:2)<br>
 	10. rickss (2:0)<br>
 <br>
-88. #feigwarze (1328) 0<br>
+72. #Buz (1337) -13<br>
++27|+21|+23|+24|+14|-4|-17|-32|-25|-16<br>
+	2. waffle~3z (0:1)<br>
+	4. GaudyWeasel (0:1)<br>
+	5. jacks0nh0le (2:0)<br>
+	6. Mocha960725 (1:0)<br>
+	7. Yamamoto79 (2:3)<br>
+	9. zamrai (2:5)<br>
+	10. rickss (10:18)<br>
+<br>
+73. #Mine~Turtle (1337) -7<br>
++42|+46|+34|+36|+26|+22|+22|+11|+6|-7<br>
+	1. MoldyCrush~110 (7:10)<br>
+	2. waffle~3z (0:1)<br>
+	6. Mocha960725 (2:21)<br>
+	10. rickss (1:0)<br>
+<br>
+74. #olaf2 (1336) 0<br>
++36|+19|+15|+8|-9|-10|-4|-6|+1|-5<br>
+<br>
+75. #Snapping~Turtle (1336) +7<br>
+-21|-9|-3|+2|-6|-6|-5|+6|-1|+9<br>
+	2. waffle~3z (0:1)<br>
+	6. Mocha960725 (2:0)<br>
+<br>
+76. #Sleeping~Waffle (1335) +5<br>
++38|+27|+26|+31|+23|+20|+25|+25|+2|-4<br>
+	1. MoldyCrush~110 (0:8)<br>
+	2. waffle~3z (0:1)<br>
+	3. ianna (4:26)<br>
+<br>
+77. #eggleung1995 (1335) -2<br>
++26|+18|+14|+3|-1|+2|+12|+2|-3|-3<br>
+<br>
+78. #mucker2.0 (1334) 0<br>
++27|+20|+32|+31|+28|+17|+13|+25|+21|+4<br>
+	9. zamrai (2:0)<br>
+<br>
+79. #NuttyJeans (1334) -1<br>
++4|+15|+12|-14|-2|-2|+20|+27|+19|+5<br>
+	9. zamrai (2:0)<br>
+	10. rickss (1:1)<br>
+<br>
+80. #Nerf~Bot (1334) 0<br>
+-17|-28|-38|-19|-10|-11|-11|-14|-8|+3<br>
+	2. waffle~3z (0:1)<br>
+	5. jacks0nh0le (1:3)<br>
+	6. Mocha960725 (4:14)<br>
+<br>
+81. #TheBersercer (1332) +1<br>
++23|+16|+14|+18|+5|+11|+15|+6|+3|+15<br>
+	7. Yamamoto79 (2:0)<br>
+<br>
+82. #TimDebJon (1332) 0<br>
++68|+58|+47|+43|+41|+28|+36|+36|+25|0<br>
+	10. rickss (0:1)<br>
+<br>
+83. #flagstone (1330) 0<br>
+-7|-10|-18|-10|-23|-27|-25|-12|-6|-1<br>
+	5. jacks0nh0le (0:2)<br>
+	10. rickss (1:1)<br>
+<br>
+84. #planetterror (1329) 0<br>
++17|+12|+14|+11|+6|0|+16|+15|+11|0<br>
+<br>
+85. #TinyRick (1329) 0<br>
++138|+106|+90|+68|+54|+32|+29|+14|+4|+3<br>
+	5. jacks0nh0le (1:0)<br>
+	7. Yamamoto79 (0:2)<br>
+	10. rickss (0:3)<br>
+<br>
+86. #feigwarze (1328) 0<br>
 +207|+168|+143|+115|+94|+65|+36|+35|+20|0<br>
-	5. GaudyWeasel (0:1)<br>
-	6. jacks0nh0le (0:1)<br>
+	4. GaudyWeasel (0:1)<br>
+	5. jacks0nh0le (0:1)<br>
 	10. rickss (4:0)<br>
 <br>
-89. #jetlagged (1328) 0<br>
--8|+1|-12|-19|-13|-21|-13|+2|0|+2<br>
+87. #TangySoda~164 (1324) -5<br>
++4|+6|+10|+1|-9|-22|-24|-18|-9|-9<br>
+	5. jacks0nh0le (1:1)<br>
+	7. Yamamoto79 (3:3)<br>
+	9. zamrai (1:0)<br>
+	10. rickss (3:12)<br>
 <br>
-90. #MUF (1327) +4<br>
-+38|+32|+12|+7|0|+8|+6|+13|-5|+5<br>
-	4. ianna (1:0)<br>
-	5. GaudyWeasel (2:4)<br>
-	6. jacks0nh0le (1:6)<br>
+88. #osa (1322) +1<br>
++10|+2|-2|-7|+11|+18|+17|+3|+4|+2<br>
+<br>
+89. #Franciturci (1322) 0<br>
++45|+35|+39|+43|+43|+30|+25|+25|+13|-2<br>
+<br>
+90. #MUF (1322) -5<br>
++33|+27|+7|+2|-5|+3|+2|+8|-10|0<br>
+	3. ianna (1:0)<br>
+	4. GaudyWeasel (2:4)<br>
+	5. jacks0nh0le (1:6)<br>
 	7. Yamamoto79 (1:9)<br>
 	9. zamrai (0:3)<br>
 	10. rickss (5:8)<br>
 <br>
-91. #Squiggly~Line (1324) +3<br>
-+23|+24|+27|+21|+30|+38|+19|+10|+6|+2<br>
-	1. MoldyCrush~110 (11:36)<br>
+91. #chomeur2 (1321) 0<br>
++10|+13|+5|0|-4|-9|-8|-9|-2|-10<br>
+	4. GaudyWeasel (1:2)<br>
+	10. rickss (1:1)<br>
 <br>
-92. #Franciturci (1322) 0<br>
-+45|+35|+39|+43|+43|+30|+26|+25|+14|-2<br>
+92. #sedativebeef (1321) 0<br>
++16|+4|-5|+5|+14|+5|+1|-6|+2|+2<br>
+	4. GaudyWeasel (0:1)<br>
 <br>
-93. #aeiou (1322) +1<br>
--9|+10|+11|-8|-1|+1|-1|-12|-5|+2<br>
-	5. GaudyWeasel (0:2)<br>
+93. #jetlagged (1321) -7<br>
+-14|-5|-19|-26|-20|-28|-20|-5|-7|-5<br>
+	6. Mocha960725 (2:0)<br>
+<br>
+94. #aeiou (1321) -1<br>
+-10|+9|+11|-8|-2|0|-2|-13|-6|+1<br>
+	4. GaudyWeasel (0:2)<br>
 	7. Yamamoto79 (1:0)<br>
 	8. BenjiKozoR (1:1)<br>
-	10. rickss (5:7)<br>
+	10. rickss (5:6)<br>
 <br>
-94. #osa (1322) 0<br>
-+27|+9|+1|-2|-8|+10|+17|+16|+2|+3<br>
-<br>
-95. #olo (1322) +13<br>
-+12|+23|+35|+45|+38|+40|+48|+39|+4|+7<br>
-	5. GaudyWeasel (1:2)<br>
+95. #olo (1320) -2<br>
++10|+21|+33|+44|+37|+38|+46|+37|+2|+5<br>
+	4. GaudyWeasel (1:2)<br>
+	6. Mocha960725 (1:0)<br>
 	7. Yamamoto79 (2:1)<br>
 	10. rickss (4:1)<br>
 <br>
-96. #chomeur2 (1321) -15<br>
-+10|+13|+5|0|-4|-9|-8|-9|-2|-10<br>
-	5. GaudyWeasel (1:2)<br>
-	10. rickss (1:1)<br>
-<br>
-97. #sedativebeef (1321) 0<br>
-+16|+4|-5|+5|+14|+5|+1|-6|+2|+2<br>
-	2. GoOody (1:1)<br>
-	5. GaudyWeasel (0:1)<br>
-<br>
-98. #davide231098 (1320) -3<br>
-+23|+34|+9|-3|+8|+14|+12|+3|+10|-2<br>
-	4. ianna (1:0)<br>
+96. #davide231098 (1319) -1<br>
++23|+34|+9|-4|+7|+14|+12|+3|+9|-2<br>
+	3. ianna (1:0)<br>
 	7. Yamamoto79 (2:5)<br>
 <br>
-99. #Test~Bot (1319) +4<br>
-+3|0|+4|-8|-5|+3|0|+5|+8|+3<br>
-	6. jacks0nh0le (0:1)<br>
+97. #Squiggly~Line (1319) -6<br>
++18|+21|+15|+24|+33|+13|+5|+1|-3|-4<br>
+	1. MoldyCrush~110 (11:37)<br>
+	6. Mocha960725 (9:21)<br>
+<br>
+98. #Test~Bot (1319) -1<br>
++3|0|+3|-9|-5|+3|-1|+4|+8|+2<br>
+	2. waffle~3z (0:1)<br>
+	5. jacks0nh0le (0:1)<br>
+	6. Mocha960725 (1:35)<br>
 	10. rickss (1:3)<br>
 <br>
-100. #Tamim (1318) 0<br>
+99. #Tamim (1318) 0<br>
 +85|+81|+70|+38|+26|+26|+16|-4|-16|-5<br>
 	7. Yamamoto79 (2:0)<br>
 <br>
-101. #VNS700 (1317) +3<br>
-+77|+65|+56|+47|+44|+38|+16|+8|0|-4<br>
-	5. GaudyWeasel (0:1)<br>
+100. #VNS700 (1318) +1<br>
++78|+66|+57|+48|+45|+39|+17|+9|+1|-3<br>
 	7. Yamamoto79 (1:0)<br>
-	10. rickss (3:5)<br>
+	10. rickss (3:6)<br>
 <br>
-102. #Bi~Polar (1317) -6<br>
-+53|+62|+65|+58|+30|+10|+13|+4|-7|-1<br>
-	1. MoldyCrush~110 (9:24)<br>
-	3. waffle~3z (0:2)<br>
-	4. ianna (9:23)<br>
-	6. jacks0nh0le (1:0)<br>
+101. #BigPoppaNuts (1318) +3<br>
++55|+61|+38|+30|+11|+24|+16|+17|+9|+10<br>
+	5. jacks0nh0le (1:1)<br>
+	10. rickss (0:1)<br>
 <br>
-103. #His-Majesty (1317) -13<br>
--21|-21|-14|-15|-12|-28|-35|-21|-19|-16<br>
-	5. GaudyWeasel (1:1)<br>
-	6. jacks0nh0le (3:11)<br>
-	7. Yamamoto79 (3:4)<br>
-	8. BenjiKozoR (2:3)<br>
-	10. rickss (2:16)<br>
+102. #siempelibre (1316) +3<br>
++106|+108|+90|+75|+53|+40|+51|+27|+15|+3<br>
+	4. GaudyWeasel (1:1)<br>
+	5. jacks0nh0le (0:1)<br>
+	8. BenjiKozoR (0:1)<br>
+	10. rickss (1:3)<br>
 <br>
-104. #googoogirl (1317) +7<br>
-+103|+78|+69|+73|+60|+43|+36|+25|+5|+3<br>
-	6. jacks0nh0le (4:2)<br>
+103. #googoogirl (1316) -1<br>
++102|+77|+67|+72|+59|+42|+35|+24|+4|+2<br>
+	5. jacks0nh0le (4:2)<br>
 	8. BenjiKozoR (2:1)<br>
 	10. rickss (0:1)<br>
 <br>
-105. #Amiro (1315) +3<br>
-+99|+86|+74|+72|+61|+55|+39|+28|+15|+5<br>
-	6. jacks0nh0le (0:2)<br>
-	10. rickss (1:3)<br>
-<br>
-106. #shrfreemax (1315) 0<br>
-+53|+44|+30|+28|+24|+13|+9|+10|+9|-2<br>
-	7. Yamamoto79 (5:5)<br>
-	10. rickss (0:1)<br>
-<br>
-107. #BigPoppaNuts (1315) +7<br>
-+53|+58|+35|+27|+8|+21|+13|+14|+6|+7<br>
-	2. GoOody (0:1)<br>
-	6. jacks0nh0le (1:1)<br>
-	10. rickss (0:1)<br>
-<br>
-108. #hahhah9 (1314) +2<br>
+104. #hahhah9 (1314) 0<br>
 +41|+58|+54|+39|+30|+27|+12|+6|+6|+1<br>
-	6. jacks0nh0le (0:1)<br>
+	5. jacks0nh0le (0:1)<br>
 	7. Yamamoto79 (1:4)<br>
 	9. zamrai (0:1)<br>
 	10. rickss (0:2)<br>
 <br>
-109. #maj0ra (1314) +4<br>
+105. #EagleOxy (1314) +1<br>
++37|+23|+28|+10|+8|+10|+1|-4|+2|+1<br>
+	7. Yamamoto79 (0:2)<br>
+	10. rickss (1:1)<br>
+<br>
+106. #maj0ra (1314) 0<br>
 +77|+53|+38|+39|+34|+23|+22|+29|+18|+13<br>
 	10. rickss (1:1)<br>
 <br>
-110. #siempelibre (1313) -1<br>
-+103|+106|+87|+72|+50|+37|+48|+24|+12|0<br>
-	5. GaudyWeasel (1:1)<br>
-	6. jacks0nh0le (0:1)<br>
-	8. BenjiKozoR (0:1)<br>
+107. #Amiro (1313) -2<br>
++84|+72|+70|+59|+52|+37|+26|+13|+3|-1<br>
+	5. jacks0nh0le (0:2)<br>
 	10. rickss (1:3)<br>
 <br>
-111. #EagleOxy (1313) -1<br>
-+36|+22|+27|+10|+7|+9|0|-5|+2|+1<br>
-	7. Yamamoto79 (0:2)<br>
-	10. rickss (1:1)<br>
+108. #shrfreemax (1313) -2<br>
++51|+42|+28|+26|+22|+11|+6|+8|+7|-4<br>
+	7. Yamamoto79 (5:5)<br>
+	10. rickss (0:1)<br>
 <br>
-112. #aeyinc (1312) -5<br>
-+12|+23|+17|+16|+14|+20|+12|+14|-5|-8<br>
-	5. GaudyWeasel (1:0)<br>
-	6. jacks0nh0le (2:0)<br>
+109. #Tiberius88 (1313) +2<br>
++19|+15|+10|+16|+1|+1|+4|+7|+11|+1<br>
+	7. Yamamoto79 (1:0)<br>
+	8. BenjiKozoR (1:0)<br>
+<br>
+110. #purakane (1312) 0<br>
++52|+41|+33|+24|+25|+13|+25|+21|+1|-5<br>
+	5. jacks0nh0le (1:0)<br>
+	7. Yamamoto79 (1:0)<br>
+	8. BenjiKozoR (1:1)<br>
+<br>
+111. #Bi~Polar (1311) -6<br>
++56|+59|+52|+24|+5|+8|-2|-13|-7|0<br>
+	1. MoldyCrush~110 (9:24)<br>
+	2. waffle~3z (0:2)<br>
+	3. ianna (9:23)<br>
+	5. jacks0nh0le (1:0)<br>
+	6. Mocha960725 (2:7)<br>
+<br>
+112. #His-Majesty (1311) -6<br>
+-26|-19|-20|-18|-33|-40|-26|-25|-21|-7<br>
+	4. GaudyWeasel (1:1)<br>
+	5. jacks0nh0le (3:11)<br>
+	6. Mocha960725 (0:1)<br>
+	7. Yamamoto79 (3:4)<br>
+	8. BenjiKozoR (2:3)<br>
+	10. rickss (3:18)<br>
+<br>
+113. #Matthew0898 (1310) 0<br>
++197|+152|+118|+92|+80|+67|+53|+21|+8|+1<br>
+	6. Mocha960725 (3:1)<br>
+	10. rickss (3:5)<br>
+<br>
+114. #aeyinc (1310) -3<br>
++21|+15|+13|+11|+18|+9|+11|-8|-11|-1<br>
+	4. GaudyWeasel (1:0)<br>
+	5. jacks0nh0le (2:0)<br>
 	7. Yamamoto79 (0:2)<br>
 	10. rickss (0:2)<br>
 <br>
-113. #purakane (1312) 0<br>
-+52|+41|+33|+24|+25|+13|+25|+21|+1|-5<br>
-	6. jacks0nh0le (1:0)<br>
-	7. Yamamoto79 (1:0)<br>
-	8. BenjiKozoR (1:1)<br>
+115. #55curtis (1310) +1<br>
++55|+32|+30|+21|+12|+17|+15|+14|+24|+9<br>
+	10. rickss (2:2)<br>
 <br>
-114. #BillY_Patro (1311) 0<br>
-+52|+45|+44|+46|+38|+26|+27|+18|+6|+4<br>
-	6. jacks0nh0le (0:1)<br>
-	8. BenjiKozoR (1:1)<br>
-	9. zamrai (2:1)<br>
-	10. rickss (1:0)<br>
-<br>
-115. #Tiberius88 (1311) +2<br>
-+16|+17|+13|+8|+14|-1|0|+3|+6|+10<br>
-	7. Yamamoto79 (1:0)<br>
-	8. BenjiKozoR (1:0)<br>
-	10. rickss (0:1)<br>
-<br>
-116. #Matthew0898 (1310) 0<br>
-+197|+152|+118|+92|+80|+67|+53|+21|+8|+1<br>
+116. #Celica (1310) +7<br>
+-6|+2|-10|+5|+1|+10|+7|+19|-3|+4<br>
+	7. Yamamoto79 (3:2)<br>
 	10. rickss (3:5)<br>
 <br>
-117. #jraz (1309) +1<br>
+117. #jraz (1309) 0<br>
 -50|-36|-20|-15|-22|-16|-18|-11|-2|+4<br>
-	2. GoOody (0:1)<br>
 <br>
-118. #_Marik_ (1308) +3<br>
-+53|+49|+44|+35|+24|-2|-16|-12|-6|+1<br>
-	6. jacks0nh0le (0:1)<br>
+118. #_Marik_ (1307) -1<br>
++52|+48|+43|+33|+23|-3|-17|-13|-7|0<br>
+	5. jacks0nh0le (0:1)<br>
 	8. BenjiKozoR (1:0)<br>
 	9. zamrai (0:1)<br>
 	10. rickss (0:1)<br>
 <br>
 119. #VOSTOK (1307) 0<br>
 +23|+26|+23|+25|+18|+15|+37|+24|+31|+1<br>
-	7. Yamamoto79 (1:1)<br>
 <br>
 120. #freedoom (1306) 0<br>
 -38|-34|-11|-24|-22|-23|-23|-18|-8|0<br>
-	7. Yamamoto79 (0:1)<br>
 	8. BenjiKozoR (3:6)<br>
 <br>
-121. #redzombie666 (1305) -4<br>
-+37|+21|+26|+12|+12|+27|+14|+8|+2|0<br>
+121. #redzombie666 (1306) +1<br>
++38|+22|+27|+13|+13|+28|+15|+9|+3|+1<br>
 	7. Yamamoto79 (0:2)<br>
 	10. rickss (0:1)<br>
 <br>
-122. #SriiB (1304) -4<br>
-+138|+109|+83|+53|+44|+38|+28|+13|+6|+5<br>
+122. #DizzyJeans~600 (1306) +5<br>
++40|+56|+59|+59|+45|+34|+31|+26|+28|+15<br>
+	5. jacks0nh0le (1:1)<br>
+	7. Yamamoto79 (1:5)<br>
+<br>
+123. #tiger_style (1305) +6<br>
++44|+43|+45|+39|+45|+35|+31|+26|+24|+17<br>
+	4. GaudyWeasel (0:3)<br>
+	10. rickss (1:1)<br>
+<br>
+124. #canehunter (1304) +1<br>
++50|+39|+44|+39|+20|+25|+34|+45|+28|+11<br>
+	3. ianna (1:0)<br>
+<br>
+125. #SriiB (1303) -2<br>
++137|+108|+81|+51|+42|+36|+26|+11|+4|+3<br>
 	8. BenjiKozoR (0:1)<br>
 	10. rickss (1:1)<br>
 <br>
-123. #canehunter (1302) -3<br>
-+48|+38|+42|+38|+19|+24|+33|+43|+27|+10<br>
-	4. ianna (1:0)<br>
-<br>
-124. #Celica (1302) -3<br>
--13|-5|-17|-2|-6|+3|0|+11|-10|-4<br>
-	7. Yamamoto79 (3:2)<br>
-	9. zamrai (1:1)<br>
-	10. rickss (3:5)<br>
-<br>
-125. #DizzyJeans~600 (1301) 0<br>
-+35|+51|+54|+54|+40|+29|+26|+21|+23|+10<br>
-	6. jacks0nh0le (1:1)<br>
-	7. Yamamoto79 (1:5)<br>
-<br>
-126. #UNAGUY05 (1301) +2<br>
-+14|+20|+11|+19|+12|+8|+22|+26|+22|0<br>
+126. #BillY_Patro (1302) -9<br>
++35|+34|+37|+29|+17|+17|+9|-3|-6|0<br>
+	5. jacks0nh0le (0:1)<br>
+	8. BenjiKozoR (1:1)<br>
+	9. zamrai (2:1)<br>
 <br>
 127. #xStatiCa (1301) 0<br>
 +28|+37|+31|+34|+25|+24|+43|+21|+29|+16<br>
+	6. Mocha960725 (1:0)<br>
 <br>
-128. #Novacore (1300) -3<br>
--7|-4|+19|+9|+13|+22|+10|-7|0|-6<br>
+128. #Novacore (1299) -1<br>
+-5|+18|+8|+12|+21|+9|-8|-1|-7|0<br>
 <br>
-129. #tiger_style (1299) +4<br>
-+38|+37|+39|+33|+39|+29|+25|+20|+18|+11<br>
-	5. GaudyWeasel (0:3)<br>
-	10. rickss (1:1)<br>
-<br>
-130. #TRistanbul (1298) 0<br>
-+35|+29|+25|+19|+19|+14|+19|+22|+17|+1<br>
-	6. jacks0nh0le (2:4)<br>
-	9. zamrai (0:1)<br>
-	10. rickss (0:3)<br>
-<br>
-131. #paaldanzen (1298) +1<br>
-+91|+92|+60|+46|+52|+26|+26|+24|+9|0<br>
-	8. BenjiKozoR (0:3)<br>
-	10. rickss (0:1)<br>
-<br>
-132. #TheNorwegian (1297) 0<br>
+129. #TheNorwegian (1297) 0<br>
 -3|+14|+10|+5|-5|+6|+6|+6|0|+1<br>
-	6. jacks0nh0le (0:3)<br>
+	5. jacks0nh0le (0:3)<br>
 	9. zamrai (2:3)<br>
 	10. rickss (0:2)<br>
 <br>
-133. #milkyway (1296) -1<br>
+130. #UNAGUY05 (1297) -4<br>
++10|+16|+7|+15|+8|+4|+18|+22|+18|-4<br>
+<br>
+131. #TRistanbul (1297) -1<br>
++34|+28|+24|+18|+18|+13|+18|+21|+16|0<br>
+	5. jacks0nh0le (2:4)<br>
+	9. zamrai (0:1)<br>
+	10. rickss (0:3)<br>
+<br>
+132. #paaldanzen (1296) -1<br>
++90|+91|+59|+45|+51|+25|+25|+23|+8|-1<br>
+	8. BenjiKozoR (0:3)<br>
+	10. rickss (0:1)<br>
+<br>
+133. #milkyway (1296) 0<br>
 +27|+24|+23|+28|+36|+30|+21|+24|-1|-2<br>
-	2. GoOody (0:1)<br>
-	4. ianna (1:0)<br>
-	5. GaudyWeasel (0:3)<br>
+	4. GaudyWeasel (0:3)<br>
 <br>
 134. #kirich (1295) 0<br>
 +36|+31|+39|+31|+32|+33|+20|-4|-2|+3<br>
 <br>
 135. #smurfa (1295) 0<br>
 +51|+52|+49|+30|+46|+44|+36|+28|+15|-6<br>
-	10. rickss (1:1)<br>
 <br>
-136. #KvL (1293) 0<br>
+136. #gusgus100096 (1293) +5<br>
++50|+32|+20|+14|+6|+14|+16|+4|+8|+2<br>
+	4. GaudyWeasel (0:1)<br>
+	10. rickss (2:2)<br>
+<br>
+137. #KvL (1293) 0<br>
 -15|-6|-2|-18|-30|-30|-32|-24|-4|-7<br>
-	5. GaudyWeasel (2:7)<br>
-	6. jacks0nh0le (1:3)<br>
-	7. Yamamoto79 (1:0)<br>
+	4. GaudyWeasel (2:7)<br>
+	5. jacks0nh0le (1:3)<br>
 	8. BenjiKozoR (1:7)<br>
 	10. rickss (7:10)<br>
 <br>
-137. #SpaceX (1293) 0<br>
+138. #flames20 (1293) 0<br>
++63|+59|+62|+57|+37|+32|+25|+12|+1|-4<br>
+	7. Yamamoto79 (2:1)<br>
+<br>
+139. #SpaceX (1293) 0<br>
 +234|+197|+156|+133|+104|+77|+57|+28|+16|+10<br>
-	6. jacks0nh0le (0:3)<br>
+	5. jacks0nh0le (0:3)<br>
 	7. Yamamoto79 (3:1)<br>
 	8. BenjiKozoR (3:3)<br>
 	10. rickss (5:4)<br>
 <br>
-138. #flames20 (1293) +3<br>
-+63|+59|+62|+56|+37|+31|+25|+12|0|-4<br>
-	7. Yamamoto79 (2:1)<br>
-<br>
-139. #mahone007 (1292) +7<br>
+140. #mahone007 (1292) 0<br>
 +27|+26|+3|+13|+11|+29|+32|+31|+14|+4<br>
-	4. ianna (1:3)<br>
+	3. ianna (1:3)<br>
 	7. Yamamoto79 (0:1)<br>
 	9. zamrai (0:1)<br>
 	10. rickss (1:0)<br>
 <br>
-140. #daneanater13 (1291) 0<br>
-+170|+158|+154|+135|+137|+98|+64|+52|+38|-2<br>
-	3. waffle~3z (4:2)<br>
-	5. GaudyWeasel (0:1)<br>
-	7. Yamamoto79 (0:1)<br>
-	9. zamrai (0:1)<br>
-	10. rickss (1:4)<br>
+141. #eddie6323 (1292) +3<br>
++38|+39|+26|+20|+28|+23|+15|+21|+5|+12<br>
+	6. Mocha960725 (1:0)<br>
 <br>
-141. #u6o_Hexyu (1290) -1<br>
-+90|+84|+72|+54|+44|+16|+16|+12|+9|+6<br>
-	6. jacks0nh0le (0:3)<br>
+142. #u6o_Hexyu (1292) +2<br>
++92|+86|+75|+56|+47|+18|+18|+14|+11|+8<br>
+	5. jacks0nh0le (0:3)<br>
 	10. rickss (2:2)<br>
 <br>
-142. #the-jk (1289) -2<br>
--47|-31|-19|-8|-5|-4|-2|-12|+1|-2<br>
-	7. Yamamoto79 (0:1)<br>
-	10. rickss (1:3)<br>
-<br>
-143. #eddie6323 (1289) +1<br>
-+35|+36|+23|+17|+25|+20|+12|+18|+2|+9<br>
-<br>
-144. #shawncyr (1289) +2<br>
-0|0|-4|+6|+22|+25|+22|+23|+17|-1<br>
-	5. GaudyWeasel (1:1)<br>
-	6. jacks0nh0le (0:1)<br>
-	8. BenjiKozoR (0:1)<br>
-	10. rickss (2:2)<br>
-<br>
-145. #gusgus100096 (1288) 0<br>
-+33|+45|+26|+15|+9|+1|+9|+11|-1|+3<br>
-	5. GaudyWeasel (0:1)<br>
-	10. rickss (2:2)<br>
-<br>
-146. #SableStrike~998 (1287) 0<br>
-+240|+189|+143|+107|+90|+58|+40|+14|+5<br>
-	10. rickss (1:0)<br>
-<br>
-147. #Dangit (1286) +4<br>
--30|-31|-28|-25|-29|-27|-16|+5|+3|0<br>
-	5. GaudyWeasel (0:1)<br>
-	6. jacks0nh0le (3:6)<br>
+143. #Dangit (1292) +6<br>
+-24|-25|-23|-19|-23|-21|-10|+11|+9|+6<br>
+	4. GaudyWeasel (0:1)<br>
+	5. jacks0nh0le (3:6)<br>
 	7. Yamamoto79 (0:2)<br>
 	8. BenjiKozoR (1:4)<br>
 	9. zamrai (1:0)<br>
 	10. rickss (0:5)<br>
 <br>
-148. #stront01 (1285) +5<br>
--23|-20|-23|-23|-24|-26|-1|-7|-9|+5<br>
-	6. jacks0nh0le (3:2)<br>
-	9. zamrai (0:1)<br>
-	10. rickss (8:8)<br>
-<br>
-149. #BDAT10 (1285) 0<br>
--22|+1|+34|+35|+27|+37|+20|+27|+10|+4<br>
+144. #BDAT10 (1291) +6<br>
++8|+40|+42|+33|+43|+27|+33|+16|+10|+1<br>
+	6. Mocha960725 (1:0)<br>
 	10. rickss (2:1)<br>
 <br>
-150. #piggomumps (1285) 0<br>
+145. #daneanater13 (1291) -1<br>
++169|+158|+153|+134|+136|+97|+64|+52|+37|-3<br>
+	2. waffle~3z (4:2)<br>
+	4. GaudyWeasel (0:1)<br>
+	7. Yamamoto79 (0:1)<br>
+	9. zamrai (0:1)<br>
+	10. rickss (1:4)<br>
+<br>
+146. #shawncyr (1290) +1<br>
++1|-3|+7|+23|+25|+23|+24|+18|0|-3<br>
+	4. GaudyWeasel (1:1)<br>
+	5. jacks0nh0le (0:1)<br>
+	8. BenjiKozoR (0:1)<br>
+	10. rickss (1:0)<br>
+<br>
+147. #the-jk (1286) -3<br>
+-50|-34|-22|-11|-8|-7|-5|-15|-2|-5<br>
+	7. Yamamoto79 (0:1)<br>
+	10. rickss (1:4)<br>
+<br>
+148. #piggomumps (1285) 0<br>
 +45|+30|+33|+30|+28|+21|+17|+21|-4|0<br>
+	6. Mocha960725 (2:2)<br>
 	7. Yamamoto79 (0:4)<br>
 	9. zamrai (1:0)<br>
 <br>
-151. #lilminimi (1284) 0<br>
+149. #Setin12 (1285) +2<br>
++206|+165|+156|+145|+106|+69|+42|+24|+5|+2<br>
+	5. jacks0nh0le (2:0)<br>
+<br>
+150. #lilminimi (1284) 0<br>
 +22|+24|+20|+23|+23|+26|+17|+24|+14|-2<br>
-	5. GaudyWeasel (0:2)<br>
+	4. GaudyWeasel (0:2)<br>
 <br>
-152. #TinyOwl~323 (1284) +5<br>
--31|-32|-12|-3|-44|-29|-24|-28|-9|0<br>
-	2. GoOody (0:6)<br>
-	5. GaudyWeasel (1:12)<br>
-	6. jacks0nh0le (6:11)<br>
-	7. Yamamoto79 (2:2)<br>
-	8. BenjiKozoR (0:2)<br>
-	10. rickss (3:10)<br>
+151. #fleebjuice (1284) +1<br>
++52|+21|+21|+13|+19|+14|+9|+13|+12|+6<br>
+	4. GaudyWeasel (0:1)<br>
 <br>
-153. #fleebjuice (1283) 0<br>
-+51|+21|+21|+12|+18|+14|+9|+13|+12|+6<br>
-	5. GaudyWeasel (1:3)<br>
-	9. zamrai (0:1)<br>
-<br>
-154. #SmotPoker (1283) +1<br>
-+21|+10|+3|+9|+8|+6|-4|-10|-8|0<br>
-	10. rickss (0:1)<br>
-<br>
-155. #Setin12 (1283) -3<br>
-+226|+205|+163|+154|+143|+104|+67|+40|+22|+3<br>
-	6. jacks0nh0le (2:0)<br>
-<br>
-156. #wizardtron (1281) -1<br>
-+13|+31|+22|+32|+9|+14|+6|-2|-24|-5<br>
-	5. GaudyWeasel (0:1)<br>
-	6. jacks0nh0le (0:4)<br>
+152. #wizardtron (1283) +3<br>
++15|+33|+25|+34|+12|+17|+8|+1|-22|-3<br>
+	4. GaudyWeasel (0:1)<br>
+	5. jacks0nh0le (0:4)<br>
+	6. Mocha960725 (0:2)<br>
 	7. Yamamoto79 (0:1)<br>
 	9. zamrai (1:3)<br>
 	10. rickss (0:4)<br>
 <br>
-157. #henry700 (1280) 0<br>
-+154|+143|+122|+94|+60|+41|+23|+19|-2|+1<br>
+153. #FlowoodMS (1282) +3<br>
+-5|-5|-8|-3|-10|+4|-10|-20|-10|+7<br>
+	10. rickss (1:3)<br>
+<br>
+154. #dfyyxy (1282) +6<br>
+-13|-9|-8|-29|-31|-27|-23|-12|-25|-2<br>
+	10. rickss (10:4)<br>
+<br>
+155. #henry700 (1281) 0<br>
++154|+143|+123|+94|+61|+41|+24|+19|-1|+2<br>
 	9. zamrai (0:1)<br>
 <br>
-158. #z.snafu (1280) +1<br>
--25|-11|+4|+2|-5|-11|-11|-12|-4|+12<br>
-	5. GaudyWeasel (1:0)<br>
-	7. Yamamoto79 (3:1)<br>
+156. #SmotPoker (1281) -2<br>
++19|+7|+1|+7|+6|+3|-6|-12|-10|-2<br>
+	10. rickss (0:1)<br>
 <br>
-159. #Jsaun12377 (1280) +9<br>
-+30|+25|+27|+20|+7|+12|+2|+1|+8|+4<br>
-	10. rickss (1:1)<br>
+157. #stront01 (1280) -5<br>
+-27|-25|-28|-28|-29|-31|-6|-12|-14|0<br>
+	5. jacks0nh0le (3:2)<br>
+	9. zamrai (0:1)<br>
+	10. rickss (8:8)<br>
 <br>
-160. #pesterd (1280) +1<br>
+158. #pesterd (1280) 0<br>
 +135|+125|+110|+83|+66|+32|+18|+17|+4|+1<br>
 	7. Yamamoto79 (0:2)<br>
 	10. rickss (1:0)<br>
 <br>
-161. #hods (1280) 0<br>
+159. #hods (1280) 0<br>
 -27|-36|-20|-8|-7|-2|-14|-2|+1|-2<br>
 	7. Yamamoto79 (0:1)<br>
 <br>
-162. #EnderWiggin0 (1279) 0<br>
+160. #EnderWiggin0 (1279) 0<br>
 +103|+75|+70|+50|+36|+22|+22|+19|+1|0<br>
-	6. jacks0nh0le (0:1)<br>
-	10. rickss (0:1)<br>
+	5. jacks0nh0le (0:1)<br>
 <br>
-163. #FlowoodMS (1279) 0<br>
--8|-8|-11|-6|-13|+1|-14|-23|-13|+4<br>
-	10. rickss (1:3)<br>
-<br>
-164. #hamidrez (1279) -9<br>
+161. #hamidrez (1279) 0<br>
 -18|-19|-10|+2|+2|+8|-8|-3|-17|+1<br>
-	5. GaudyWeasel (1:0)<br>
-	6. jacks0nh0le (1:1)<br>
+	4. GaudyWeasel (1:0)<br>
+	5. jacks0nh0le (1:1)<br>
 	7. Yamamoto79 (0:1)<br>
 	10. rickss (6:9)<br>
 <br>
-165. #warmant-116 (1278) 0<br>
-+39|+37|+18|+8|+9|+12|-3|+7|+17|0<br>
+162. #jammyboy9 (1278) +2<br>
+0|+2|0|-17|-16|-5|-8|+3|+6|+4<br>
+	4. GaudyWeasel (1:0)<br>
+<br>
+163. #enomeno (1278) +2<br>
++45|+37|+33|+42|+33|+9|+9|+20|+35|+23<br>
+	5. jacks0nh0le (0:1)<br>
+	9. zamrai (2:4)<br>
+<br>
+164. #Jsaun12377 (1277) -2<br>
++28|+22|+25|+17|+5|+10|0|-1|+6|+2<br>
+	10. rickss (1:1)<br>
+<br>
+165. #warmant-116 (1277) -1<br>
++38|+36|+17|+6|+8|+11|-4|+6|+16|-1<br>
 	9. zamrai (0:3)<br>
 	10. rickss (0:1)<br>
 <br>
-166. #LavishFauce~178 (1276) +1<br>
-+100|+87|+68|+38|+34|+28|+24|+4|+7|+1<br>
-	5. GaudyWeasel (0:2)<br>
-	7. Yamamoto79 (3:2)<br>
+166. #LavishFauce~178 (1276) -1<br>
++100|+86|+67|+37|+33|+27|+23|+3|+6|+1<br>
+	4. GaudyWeasel (0:2)<br>
+	6. Mocha960725 (1:2)<br>
 	8. BenjiKozoR (1:1)<br>
-	10. rickss (1:10)<br>
+	10. rickss (2:11)<br>
 <br>
-167. #enomeno (1276) -1<br>
-+44|+35|+31|+40|+32|+7|+8|+18|+34|+21<br>
-	6. jacks0nh0le (0:1)<br>
-	9. zamrai (2:4)<br>
+167. #DeimosX (1275) +15<br>
++221|+189|+153|+132|+93|+77|+57|+25|+25|+7<br>
+	4. GaudyWeasel (2:1)<br>
+	5. jacks0nh0le (0:2)<br>
+	7. Yamamoto79 (2:1)<br>
+	10. rickss (3:3)<br>
 <br>
-168. #jammyboy9 (1276) 0<br>
--2|0|-3|-19|-18|-7|-10|+1|+3|+2<br>
-	5. GaudyWeasel (1:0)<br>
-<br>
-169. #dfyyxy (1276) -19<br>
--19|-15|-14|-36|-37|-34|-29|-18|-31|-8<br>
-	10. rickss (10:4)<br>
-<br>
-170. #killerdude69 (1275) 0<br>
-+40|+34|+35|+24|+23|+20|+5|0|-6|+2<br>
-	5. GaudyWeasel (0:1)<br>
-	6. jacks0nh0le (0:1)<br>
-	9. zamrai (0:1)<br>
+168. #killerdude69 (1273) -1<br>
++39|+32|+34|+23|+22|+19|+4|-1|-8|+1<br>
+	4. GaudyWeasel (0:1)<br>
+	5. jacks0nh0le (0:1)<br>
 	10. rickss (1:3)<br>
 <br>
-171. #HairyBeetle~278 (1273) -2<br>
-+97|+86|+89|+44|+28|+21|+16|+14|-8|-4<br>
-	5. GaudyWeasel (0:2)<br>
-	6. jacks0nh0le (2:0)<br>
-	7. Yamamoto79 (1:1)<br>
-	10. rickss (2:8)<br>
+169. #z.snafu (1272) -8<br>
+-33|-19|-3|-6|-13|-19|-18|-19|-11|+5<br>
+	4. GaudyWeasel (1:0)<br>
+	7. Yamamoto79 (3:1)<br>
+	10. rickss (0:1)<br>
 <br>
-172. #smartdrummer (1272) 0<br>
-+28|+21|+12|+14|+18|+14|+12|-1|+15|+1<br>
-	2. GoOody (1:1)<br>
-<br>
-173. #hydra0602 (1270) 0<br>
-0|-6|-6|+10|+9|+10|+8|-2|-4|-1<br>
-	5. GaudyWeasel (0:1)<br>
+170. #hydra0602 (1272) +2<br>
++3|-3|-3|+13|+11|+12|+10|+1|-2|+1<br>
+	4. GaudyWeasel (0:1)<br>
 	7. Yamamoto79 (1:1)<br>
 	9. zamrai (1:0)<br>
 	10. rickss (0:4)<br>
 <br>
-174. #RigidAce~125 (1266) -1<br>
-+135|+118|+90|+72|+65|+39|+36|+22|-1|0<br>
-	5. GaudyWeasel (1:0)<br>
+171. #smartdrummer (1272) 0<br>
++28|+21|+12|+14|+18|+14|+12|-1|+15|+1<br>
+<br>
+172. #TinyOwl~323 (1271) -13<br>
+-45|-25|-16|-57|-42|-38|-41|-22|-13|-5<br>
+	4. GaudyWeasel (1:12)<br>
+	5. jacks0nh0le (6:11)<br>
+	6. Mocha960725 (5:5)<br>
+	7. Yamamoto79 (1:1)<br>
+	8. BenjiKozoR (0:2)<br>
+	10. rickss (3:11)<br>
+<br>
+173. #moonrocks (1271) +12<br>
++27|+25|+32|+32|+17|+23|+22|+28|+19|+3<br>
+	4. GaudyWeasel (1:3)<br>
+	5. jacks0nh0le (0:2)<br>
+	7. Yamamoto79 (0:1)<br>
 	10. rickss (0:1)<br>
 <br>
-175. #hugepope2137 (1265) 0<br>
-+182|+152|+128|+101|+48|+39|+31|+36|+27|+12<br>
+174. #tux111 (1269) +4<br>
++29|+32|+21|+27|+20|+17|+14|+12|+19|+4<br>
+	5. jacks0nh0le (1:2)<br>
+	7. Yamamoto79 (0:3)<br>
+	10. rickss (1:0)<br>
+<br>
+175. #HairyBeetle~278 (1269) -4<br>
++82|+85|+41|+25|+18|+12|+11|-11|-7|-3<br>
+	4. GaudyWeasel (0:2)<br>
+	7. Yamamoto79 (1:1)<br>
+	10. rickss (2:8)<br>
+<br>
+176. #RigidAce~125 (1268) +3<br>
++137|+121|+92|+75|+68|+42|+39|+24|+2|+3<br>
+	10. rickss (0:1)<br>
+<br>
+177. #oioiu (1267) +4<br>
+-11|-39|-23|-23|-25|-15|-4|+15|+20|+2<br>
+	6. Mocha960725 (1:0)<br>
+<br>
+178. #hugepope2137 (1267) +1<br>
++183|+153|+129|+102|+49|+40|+32|+37|+28|+13<br>
 	10. rickss (9:4)<br>
 <br>
-176. #tux111 (1265) +1<br>
-+25|+28|+18|+23|+17|+13|+10|+8|+15|+1<br>
-	6. jacks0nh0le (1:2)<br>
-	7. Yamamoto79 (0:3)<br>
+179. #GreedyJeans~930 (1263) 0<br>
++64|+47|+49|+42|+48|+48|+41|+33|+30|+8<br>
+	4. GaudyWeasel (0:2)<br>
+	5. jacks0nh0le (0:1)<br>
+	6. Mocha960725 (2:2)<br>
+	7. Yamamoto79 (8:5)<br>
 	10. rickss (1:1)<br>
 <br>
-177. #shadybiz (1265) +9<br>
-+6|+21|+25|+25|+20|+20|+10|+8|+6|+12<br>
-	5. GaudyWeasel (1:2)<br>
+180. #tigrenok026 (1263) +1<br>
++83|+69|+60|+55|+47|+36|+33|+23|+27|+18<br>
+	10. rickss (0:2)<br>
+<br>
+181. #shadybiz (1263) -2<br>
++4|+19|+23|+23|+18|+18|+8|+6|+4|+10<br>
+	4. GaudyWeasel (1:2)<br>
+	6. Mocha960725 (0:2)<br>
 	7. Yamamoto79 (3:3)<br>
 	9. zamrai (2:2)<br>
 	10. rickss (1:3)<br>
 <br>
-178. #bgo37 (1264) +3<br>
-+60|+44|+32|+14|+13|+1|-2|+10|+7|+11<br>
-<br>
-179. #GreedyJeans~930 (1263) 0<br>
-+64|+47|+49|+42|+48|+48|+41|+33|+30|+8<br>
-	5. GaudyWeasel (0:2)<br>
-	6. jacks0nh0le (0:1)<br>
-	7. Yamamoto79 (8:5)<br>
-	10. rickss (1:1)<br>
-<br>
-180. #darth_jesse (1263) 0<br>
-+203|+195|+180|+158|+124|+111|+77|+74|+54|+13<br>
-	5. GaudyWeasel (0:3)<br>
-	10. rickss (0:3)<br>
-<br>
-181. #oioiu (1263) 0<br>
--22|-15|-43|-27|-26|-29|-18|-8|+12|+16<br>
-<br>
 182. #littlestick (1263) 0<br>
 +111|+77|+59|+39|+32|+29|+31|+10|+12|+1<br>
-	6. jacks0nh0le (0:1)<br>
+	5. jacks0nh0le (0:1)<br>
 	10. rickss (0:2)<br>
 <br>
-183. #tigrenok026 (1263) +14<br>
-+83|+68|+60|+54|+46|+35|+32|+22|+26|+18<br>
-	10. rickss (0:2)<br>
+183. #bgo37 (1262) -2<br>
++58|+42|+30|+12|+11|0|-3|+8|+6|+9<br>
 <br>
-184. #jerocco (1261) 0<br>
-+24|+12|+9|-7|+2|-1|+11|-9|-9|-1<br>
-	10. rickss (2:1)<br>
+184. #darth_jesse (1262) -1<br>
++201|+194|+179|+156|+123|+110|+75|+72|+52|+11<br>
+	4. GaudyWeasel (0:3)<br>
+	10. rickss (0:3)<br>
 <br>
-185. #GrayRain~366 (1261) 0<br>
-+118|+88|+63|+61|+45|+34|+19|+18|+22|+9<br>
+185. #smart_boy24 (1262) +1<br>
++27|+12|+11|+1|+4|+8|-3|-9|-4|-1<br>
+<br>
+186. #GrayRain~366 (1262) +1<br>
++119|+89|+64|+62|+46|+35|+20|+18|+23|+10<br>
 	7. Yamamoto79 (0:1)<br>
 	8. BenjiKozoR (1:3)<br>
 <br>
-186. #smart_boy24 (1261) 0<br>
-+26|+11|+10|0|+3|+7|-4|-10|-5|-2<br>
+187. #jerocco (1261) 0<br>
++24|+12|+9|-7|+2|-1|+11|-9|-9|-1<br>
+	10. rickss (2:1)<br>
 <br>
-187. #themadox (1260) 0<br>
-+13|+7|+26|+32|+31|+28|+12|+17|+9|+7<br>
-	7. Yamamoto79 (1:1)<br>
-	10. rickss (1:3)<br>
-<br>
-188. #DeimosX (1260) +13<br>
-+237|+206|+175|+139|+117|+78|+62|+42|+10|+10<br>
-	5. GaudyWeasel (2:1)<br>
-	6. jacks0nh0le (0:2)<br>
-	7. Yamamoto79 (2:1)<br>
-	10. rickss (3:1)<br>
+188. #who22 (1261) 0<br>
+-3|+5|+5|-7|+3|-14|-12|-12|-10|+3<br>
 <br>
 189. #resistfate88 (1260) 0<br>
 +174|+147|+122|+92|+82|+72|+64|+40|+26|-6<br>
 	8. BenjiKozoR (0:2)<br>
 	10. rickss (3:0)<br>
 <br>
-190. #Turtle~Waffle (1259) -12<br>
-+33|+26|+15|-21|-39|-36|-44|-35|-18|-3<br>
+190. #Turtle~Waffle (1259) 0<br>
++33|+26|+15|-21|-39|-36|-44|-35|-18|-4<br>
 	1. MoldyCrush~110 (9:11)<br>
-	3. waffle~3z (0:1)<br>
+	2. waffle~3z (0:2)<br>
+	6. Mocha960725 (3:7)<br>
 <br>
-191. #moonrocks (1259) -8<br>
-+15|+13|+20|+20|+5|+11|+11|+16|+7|-8<br>
-	5. GaudyWeasel (1:3)<br>
-	6. jacks0nh0le (0:2)<br>
-	7. Yamamoto79 (0:1)<br>
-	10. rickss (0:1)<br>
-<br>
-192. #the_chemodan (1259) 0<br>
+191. #the_chemodan (1259) 0<br>
 +62|+48|+47|+46|+38|+34|+32|+27|+8|-2<br>
 	7. Yamamoto79 (2:0)<br>
 	10. rickss (1:0)<br>
 <br>
+192. #themadox (1258) -2<br>
++11|+5|+24|+30|+29|+26|+10|+14|+7|+5<br>
+	7. Yamamoto79 (1:1)<br>
+	10. rickss (1:3)<br>
+<br>
 193. #Viper715 (1257) 0<br>
 -21|-13|-16|-15|-19|-10|-9|-5|-6|+6<br>
 <br>
-194. #shiftystop (1256) +1<br>
+194. #shiftystop (1256) 0<br>
 +182|+152|+130|+114|+95|+72|+52|+45|+22|+14<br>
-	5. GaudyWeasel (0:1)<br>
+	4. GaudyWeasel (0:1)<br>
 	7. Yamamoto79 (1:0)<br>
 <br>
-195. #NiftyBean~912 (1256) -1<br>
-+139|+116|+99|+83|+61|+55|+27|+14|+15|0<br>
-	7. Yamamoto79 (1:1)<br>
-<br>
-196. #EventHorzn65 (1254) -2<br>
-+59|+51|+63|+45|+38|+41|+27|+25|+1|-1<br>
-	4. ianna (1:0)<br>
-<br>
-197. #DeXie420 (1251) 0<br>
-+192|+153|+131|+109|+84|+66|+33|+2<br>
-	10. rickss (1:3)<br>
-<br>
-198. #Tunnel~King (1250) +14<br>
-+23|+26|+23|+17|+8|+7|+20|+16|+12|+5<br>
-	1. MoldyCrush~110 (9:34)<br>
-	3. waffle~3z (1:0)<br>
-	7. Yamamoto79 (0:5)<br>
-<br>
-199. #Hai_Rijo (1250) -4<br>
-+95|+72|+62|+44|+30|+23|+18|+19|+17|+14<br>
-	10. rickss (0:2)<br>
-<br>
-200. #thehurricane (1250) 0<br>
-+224|+174|+127|+102|+79|+37|+6<br>
-	2. GoOody (2:6)<br>
-	3. waffle~3z (0:1)<br>
-<br>
-201. #TinyMask~890 (1249) 0<br>
-+46|+42|+31|+8|+17|+13|+1|+4|+10|+8<br>
-	7. Yamamoto79 (2:5)<br>
-<br>
-202. #karim3397 (1249) +1<br>
-+7|0|-16|-2|+8|+6|-1|-5|0|-1<br>
-	6. jacks0nh0le (1:3)<br>
+195. #karim3397 (1256) +7<br>
++13|+7|-9|+5|+14|+13|+6|+2|+7|+6<br>
+	5. jacks0nh0le (1:3)<br>
 	8. BenjiKozoR (0:2)<br>
 	10. rickss (2:11)<br>
 <br>
-203. #ccgn (1249) -1<br>
+196. #thehurricane (1255) +5<br>
++230|+180|+132|+107|+84|+42|+12<br>
+	2. waffle~3z (0:1)<br>
+<br>
+197. #Hai_Rijo (1254) +4<br>
++98|+76|+66|+48|+34|+27|+22|+23|+21|+17<br>
+	10. rickss (0:2)<br>
+<br>
+198. #EventHorzn65 (1254) 0<br>
++59|+51|+63|+45|+38|+41|+27|+25|+1|-1<br>
+	3. ianna (1:0)<br>
+<br>
+199. #ShortPilot~714 (1252) +4<br>
++31|+25|+11|+10|+15|+20|+13|+26|+12|+11<br>
+	10. rickss (3:2)<br>
+<br>
+200. #NiftyBean~912 (1251) -4<br>
++135|+111|+94|+78|+57|+50|+22|+10|+11|-4<br>
+	7. Yamamoto79 (1:1)<br>
+<br>
+201. #DeXie420 (1251) 0<br>
++192|+153|+131|+109|+84|+66|+33|+2<br>
+	10. rickss (1:3)<br>
+<br>
+202. #DarkSith666 (1251) +3<br>
++4|+6|+8|-6|-2|-15|-16|-7|+1|+1<br>
+	4. GaudyWeasel (2:3)<br>
+	10. rickss (0:2)<br>
+<br>
+203. #Abdel~Baset (1249) +16<br>
++27|+26|+22|+29|+33|+18|+23|+29|+28|+7<br>
+	1. MoldyCrush~110 (8:27)<br>
+	6. Mocha960725 (1:24)<br>
+<br>
+204. #ccgn (1249) 0<br>
 +174|+156|+148|+127|+109|+102|+91|+61|+38|+13<br>
 	8. BenjiKozoR (1:1)<br>
 <br>
-204. #Ozryel (1249) 0<br>
+205. #TinyMask~890 (1249) -1<br>
++41|+31|+7|+17|+13|+1|+3|+9|+8|0<br>
+	7. Yamamoto79 (2:5)<br>
+<br>
+206. #Ozryel (1249) 0<br>
 +243|+194|+162|+110|+50|+36|+17<br>
 <br>
-205. #ShortPilot~714 (1248) -4<br>
-+27|+21|+7|+6|+11|+16|+9|+22|+8|+7<br>
-	9. zamrai (0:1)<br>
-	10. rickss (3:2)<br>
+207. #BigTemper~185 (1248) +17<br>
++185|+140|+96|+34|+5<br>
 <br>
-206. #ShortDust~832 (1248) +7<br>
-+205|+165|+124|+107|+74|+41|+22|+14|+4<br>
-	5. GaudyWeasel (0:2)<br>
-	6. jacks0nh0le (1:3)<br>
-	7. Yamamoto79 (0:2)<br>
+208. #ShortDust~832 (1246) -2<br>
++203|+163|+122|+105|+73|+40|+20|+12|+2<br>
+	5. jacks0nh0le (1:3)<br>
 	10. rickss (4:6)<br>
 <br>
-207. #DarkSith666 (1248) +4<br>
-+1|+3|+5|-9|-5|-18|-19|-11|-3|-2<br>
-	5. GaudyWeasel (2:3)<br>
-	10. rickss (0:2)<br>
+209. #gabucho (1243) +1<br>
+-1|-15|-23|-18|+7|-8|+2|+2|+10|0<br>
 <br>
-208. #tarqs (1246) +1<br>
-+119|+104|+90|+84|+68|+49|+33|+30|+29|+18<br>
+210. #Tunnel~King (1242) -9<br>
++18|+14|+9|-1|-2|+11|+7|+4|-4|-5<br>
+	1. MoldyCrush~110 (10:45)<br>
+	2. waffle~3z (1:0)<br>
+	6. Mocha960725 (1:24)<br>
+	7. Yamamoto79 (0:5)<br>
 <br>
-209. #Astro~Chicken (1244) +4<br>
--2|-4|-9|-5|-7|-13|-12|-11|+2|+4<br>
-	1. MoldyCrush~110 (11:70)<br>
+211. #tarqs (1240) -6<br>
++113|+98|+84|+78|+62|+43|+27|+24|+23|+12<br>
 <br>
-210. #gabucho (1242) +1<br>
-+5|-2|-16|-24|-19|+6|-9|+1|+1|+9<br>
-	2. GoOody (0:1)<br>
-<br>
-211. #tomershu (1240) 0<br>
+212. #tomershu (1240) 0<br>
 +209|+158|+99|+53|+15<br>
 <br>
-212. #sharkman13 (1240) 0<br>
+213. #sharkman13 (1240) 0<br>
 +80|+62|+51|+38|+33|+38|+32|+26|+15|+11<br>
-	3. waffle~3z (0:1)<br>
+	2. waffle~3z (0:1)<br>
+	6. Mocha960725 (1:1)<br>
 	7. Yamamoto79 (0:3)<br>
 	8. BenjiKozoR (3:8)<br>
 	10. rickss (1:0)<br>
 <br>
-213. #Lowjack (1237) +1<br>
-+79|+67|+65|+56|+47|+41|+32|+26|+10|+1<br>
-	6. jacks0nh0le (0:3)<br>
-	10. rickss (4:2)<br>
+214. #Astro~Chicken (1238) -6<br>
+-10|-15|-11|-13|-20|-18|-17|-5|-2|-3<br>
+	1. MoldyCrush~110 (12:69)<br>
+	2. waffle~3z (0:1)<br>
+	6. Mocha960725 (6:16)<br>
 <br>
-214. #Dacar (1236) 0<br>
+215. #Dacar (1236) 0<br>
 +165|+133|+121|+100|+78|+61|+40|+24|+16|+9<br>
 	10. rickss (3:2)<br>
 <br>
-215. #GreenDeer~922 (1236) -1<br>
-+26|+13|+6|+3|+7|+3|0|-3|-7|+2<br>
-	4. ianna (0:1)<br>
-	9. zamrai (1:0)<br>
-<br>
-216. #qauil (1235) 0<br>
-+148|+133|+101|+95|+80|+73|+62|+50|+30|+9<br>
-	5. GaudyWeasel (0:1)<br>
-<br>
-217. #sexflower69 (1235) 0<br>
+216. #sexflower69 (1235) 0<br>
 +14|+24|+19|+15|+17|+21|+7|+5|-3|-1<br>
 	9. zamrai (0:5)<br>
 <br>
-218. #Abdel~Baset (1233) +7<br>
--4|+11|+10|+6|+13|+17|+2|+7|+13|+12<br>
-	1. MoldyCrush~110 (5:19)<br>
+217. #qauil (1234) -1<br>
++146|+131|+100|+94|+78|+71|+61|+49|+28|+8<br>
+<br>
+218. #Lowjack (1234) -3<br>
++76|+65|+62|+53|+44|+38|+29|+24|+7|-2<br>
+	5. jacks0nh0le (0:3)<br>
+	10. rickss (4:2)<br>
 <br>
 219. #laviathon (1233) 0<br>
 +194|+176|+134|+84|+37|+33|+51|+22|+10<br>
-	5. GaudyWeasel (0:4)<br>
+	4. GaudyWeasel (0:4)<br>
 <br>
-220. #jakopo (1233) -1<br>
-+107|+78|+70|+59|+35|+33|+29|+17|+2|0<br>
+220. #GreenDeer~922 (1233) -3<br>
++23|+9|+3|-1|+4|0|-4|-6|-10|-1<br>
+	3. ianna (0:1)<br>
+	9. zamrai (1:0)<br>
 <br>
-221. #creep2play (1231) 0<br>
+221. #P90X (1231) +1<br>
++178|+139|+99|+65|+37|+17|+18|+16<br>
+	7. Yamamoto79 (0:1)<br>
+	9. zamrai (0:1)<br>
+	10. rickss (2:4)<br>
+<br>
+222. #jakopo (1231) -1<br>
++106|+76|+68|+57|+34|+31|+27|+15|0|-1<br>
+<br>
+223. #creep2play (1231) 0<br>
 +92|+80|+59|+57|+40|+23|+15|+14|0|-1<br>
 <br>
-222. #Beyond96 (1231) 0<br>
+224. #Beyond96 (1231) 0<br>
 +137|+108|+94|+88|+63|+58|+48|+45|+41|+18<br>
 	8. BenjiKozoR (0:3)<br>
 	9. zamrai (0:1)<br>
 <br>
-223. #BigTemper~185 (1231) 0<br>
-+168|+123|+78|+17<br>
-	2. GoOody (0:13)<br>
-<br>
-224. #SlickPine~286 (1231) 0<br>
-+196|+177|+161|+140|+128|+93|+80|+60|+46|+22<br>
-<br>
-225. #Tortoise~Waffle (1230) -12<br>
--27|-37|-43|-25|-24|-28|-32|-15|-20|-12<br>
-	1. MoldyCrush~110 (10:28)<br>
-	7. Yamamoto79 (2:9)<br>
-<br>
-226. #P90X (1230) +12<br>
-+176|+137|+98|+64|+36|+16|+17|+14<br>
-	7. Yamamoto79 (0:1)<br>
-	9. zamrai (0:1)<br>
-	10. rickss (1:3)<br>
-<br>
-227. #Dhillon (1230) -1<br>
-+129|+114|+103|+82|+81|+67|+66|+50|+24|+5<br>
+225. #Dhillon (1231) +1<br>
++130|+116|+104|+83|+82|+68|+67|+52|+25|+6<br>
+	6. Mocha960725 (0:1)<br>
 	9. zamrai (1:1)<br>
 	10. rickss (1:0)<br>
 <br>
-228. #farzip (1230) +3<br>
--7|-14|-14|-16|-15|-10|-15|-10|+1|+14<br>
-	7. Yamamoto79 (1:1)<br>
+226. #SlickPine~286 (1231) 0<br>
++196|+177|+161|+140|+128|+93|+80|+60|+46|+22<br>
 <br>
-229. #LiquidShoe~680 (1228) +7<br>
-+186|+143|+115|+101|+85|+58|+34|+21|+9|+2<br>
-	5. GaudyWeasel (0:2)<br>
-	8. BenjiKozoR (0:4)<br>
+227. #LiquidShoe~680 (1229) +1<br>
++144|+116|+102|+86|+59|+35|+22|+10|+3|+8<br>
+	4. GaudyWeasel (0:2)<br>
+	6. Mocha960725 (1:0)<br>
+	8. BenjiKozoR (0:3)<br>
 	10. rickss (1:9)<br>
 <br>
-230. #drunkle (1227) 0<br>
+228. #farzip (1228) -2<br>
+-9|-16|-16|-18|-17|-12|-17|-12|-1|+12<br>
+	7. Yamamoto79 (1:1)<br>
+<br>
+229. #drunkle (1227) 0<br>
 +147|+102|+76|+57|+47|+29|+29|+25|+22|-2<br>
 <br>
-231. #TidyGoblin~169 (1226) 0<br>
-+61|+51|+44|+41|+31|+21|+11|+10|-4|-3<br>
+230. #aceofspa1234 (1226) +1<br>
++202|+142|+102|+60|+32|-2<br>
+	4. GaudyWeasel (0:1)<br>
+	9. zamrai (0:3)<br>
+	10. rickss (0:5)<br>
 <br>
-232. #nil (1226) +1<br>
-+131|+103|+79|+37|+34|+25|+24|+13|+2|0<br>
-	2. GoOody (1:0)<br>
-	4. ianna (1:0)<br>
+231. #Gudi87 (1225) +1<br>
++60|+52|+28|+10|+9|+21|+3|+7|+8|+18<br>
+<br>
+232. #timogen (1225) +3<br>
++88|+65|+63|+67|+62|+51|+50|+30|+15|+20<br>
+	4. GaudyWeasel (1:0)<br>
+	5. jacks0nh0le (2:0)<br>
+	8. BenjiKozoR (3:3)<br>
+	10. rickss (0:1)<br>
+<br>
+233. #TidyGoblin~169 (1225) -2<br>
++50|+42|+39|+29|+19|+9|+9|-6|-5|+1<br>
+<br>
+234. #nil (1224) -2<br>
++130|+101|+77|+35|+32|+23|+22|+12|+1|-2<br>
+	3. ianna (1:0)<br>
 	7. Yamamoto79 (0:3)<br>
 <br>
-233. #aceofspa1234 (1225) -1<br>
-+201|+141|+101|+59|+31|-3<br>
-	5. GaudyWeasel (0:1)<br>
-	9. zamrai (0:3)<br>
-	10. rickss (0:4)<br>
-<br>
-234. #xbe974 (1224) 0<br>
+235. #xbe974 (1224) 0<br>
 +69|+69|+46|+50|+47|+34|+26|+23|+15|+10<br>
 	9. zamrai (1:5)<br>
 	10. rickss (2:0)<br>
 <br>
-235. #Mika69 (1223) +3<br>
-+152|+130|+105|+81|+54|+46|+29|+8|+7|+9<br>
-	6. jacks0nh0le (0:3)<br>
-	8. BenjiKozoR (0:1)<br>
-	10. rickss (3:5)<br>
-<br>
-236. #timogen (1222) +3<br>
-+85|+62|+60|+64|+59|+48|+47|+27|+12|+17<br>
-	5. GaudyWeasel (1:0)<br>
-	6. jacks0nh0le (2:0)<br>
-	8. BenjiKozoR (3:3)<br>
-	10. rickss (0:1)<br>
-<br>
-237. #showyoulin (1222) 0<br>
+236. #showyoulin (1222) 0<br>
 +200|+181|+160|+122|+101|+49|+6<br>
 <br>
-238. #Suicide~Bot (1221) -7<br>
--33|-23|-18|-31|-15|-18|-29|-17|-2|-8<br>
-<br>
-239. #Gungala (1221) +2<br>
-+33|+31|+21|+15|+16|+9|+10|+12|+8|-1<br>
-	7. Yamamoto79 (2:8)<br>
-<br>
-240. #BadButter~266 (1221) -1<br>
-0|+6|+7|+4|+19|+22|+28|+20|+16|+10<br>
+237. #BadButter~266 (1221) 0<br>
+0|+6|+7|+4|+19|+21|+28|+20|+16|+10<br>
 	10. rickss (1:2)<br>
 <br>
-241. #zh2500464155 (1221) 0<br>
-+190|+160|+130|+97|+79|+52|+41|+30|+21|-1<br>
-	10. rickss (1:2)<br>
+238. #Tortoise~Waffle (1221) -10<br>
+-47|-53|-34|-34|-38|-42|-25|-29|-22|-1<br>
+	1. MoldyCrush~110 (10:27)<br>
+	6. Mocha960725 (8:15)<br>
+	7. Yamamoto79 (2:9)<br>
 <br>
-242. #Fulgent (1221) +1<br>
-+200|+184|+151|+139|+99|+66|+22<br>
-	5. GaudyWeasel (1:0)<br>
-	10. rickss (0:3)<br>
-<br>
-243. #Khalifah (1220) -2<br>
-+75|+72|+71|+66|+43|+35|+47|+31|+22|+8<br>
-	5. GaudyWeasel (3:0)<br>
-	10. rickss (2:4)<br>
-<br>
-244. #Pedrum (1219) 0<br>
-+192|+163|+142|+116|+90|+74|+52|+48|+18|0<br>
-	10. rickss (2:2)<br>
-<br>
-245. #Anti~Neutral (1216) +5<br>
-+36|+17|+11|+15|+10|+7|+5|+9|+5|+8<br>
-	7. Yamamoto79 (4:1)<br>
-<br>
-246. #sjehsan (1215) -2<br>
-+42|+39|+33|+29|+27|+4|+7|-11|+5|-1<br>
-	8. BenjiKozoR (2:2)<br>
-<br>
-247. #TidyFox~415 (1214) -4<br>
-+113|+86|+64|+62|+54|+43|+29|+8|-4|-11<br>
-	7. Yamamoto79 (2:0)<br>
-	9. zamrai (0:1)<br>
-<br>
-248. #poner560 (1214) -2<br>
-+93|+82|+60|+48|+42|+26|+12|-5|-13|-3<br>
-	5. GaudyWeasel (1:2)<br>
-	7. Yamamoto79 (0:1)<br>
-	10. rickss (1:3)<br>
-<br>
-249. #ranobeanski (1214) +1<br>
-+168|+161|+141|+89|+71|+47|+39|+27|+15|+3<br>
+239. #ranobeanski (1220) +6<br>
++174|+167|+147|+95|+77|+53|+45|+33|+20|+9<br>
 	7. Yamamoto79 (1:1)<br>
 <br>
-250. #flabjack (1214) +10<br>
-+207|+169|+129|+88|+56|+37|+6<br>
+240. #Khalifah (1220) 0<br>
++75|+72|+71|+66|+43|+35|+47|+31|+22|+8<br>
+	4. GaudyWeasel (3:0)<br>
+	10. rickss (2:4)<br>
+<br>
+241. #zh2500464155 (1219) -1<br>
++188|+158|+129|+96|+78|+51|+39|+29|+19|-3<br>
+	10. rickss (1:3)<br>
+<br>
+242. #Fulgent (1219) -1<br>
++198|+183|+149|+137|+97|+64|+20<br>
+	4. GaudyWeasel (1:0)<br>
+	10. rickss (0:3)<br>
+<br>
+243. #flabjack (1218) +5<br>
++212|+174|+133|+93|+60|+42|+11<br>
 	9. zamrai (1:0)<br>
 	10. rickss (0:3)<br>
 <br>
-251. #ubi_pedera (1212) 0<br>
-+39|+26|+20|+29|+19|+18|+33|+30|+20|+11<br>
+244. #Mika69 (1218) -4<br>
++125|+101|+76|+50|+42|+25|+3|+2|+5|-2<br>
+	5. jacks0nh0le (0:3)<br>
+	8. BenjiKozoR (0:1)<br>
+	10. rickss (3:5)<br>
 <br>
-252. #LevelWalrus~485 (1211) +3<br>
+245. #Suicide~Bot (1217) -4<br>
+-38|-27|-22|-35|-19|-22|-33|-21|-6|-12<br>
+	6. Mocha960725 (4:5)<br>
+<br>
+246. #Gungala (1217) -4<br>
++26|+16|+10|+12|+5|+5|+8|+4|-5|+2<br>
+	6. Mocha960725 (1:0)<br>
+	7. Yamamoto79 (1:4)<br>
+<br>
+247. #sjehsan (1215) 0<br>
++42|+39|+33|+28|+27|+4|+7|-11|+5|-1<br>
+	8. BenjiKozoR (2:2)<br>
+<br>
+248. #Pedrum (1214) -5<br>
++187|+158|+137|+111|+85|+69|+47|+43|+14|-5<br>
+	10. rickss (2:2)<br>
+<br>
+249. #TidyFox~415 (1213) -1<br>
++112|+84|+63|+61|+53|+42|+27|+6|-5|-12<br>
+	6. Mocha960725 (1:0)<br>
+	7. Yamamoto79 (2:0)<br>
+	9. zamrai (0:1)<br>
+<br>
+250. #ubi_pedera (1212) +1<br>
++40|+27|+21|+30|+20|+19|+33|+31|+21|+11<br>
+<br>
+251. #poner560 (1212) -3<br>
++90|+79|+57|+45|+39|+23|+9|-8|-16|-6<br>
+	4. GaudyWeasel (1:2)<br>
+	7. Yamamoto79 (0:1)<br>
+	10. rickss (1:3)<br>
+<br>
+252. #LevelWalrus~485 (1211) 0<br>
 +141|+113|+92|+71|+74|+39|+30|+17|+13|+3<br>
 <br>
-253. #BraveShovel~508 (1211) +4<br>
-+46|+35|+40|+26|+29|+22|+20|+5|+5|+6<br>
-	5. GaudyWeasel (1:0)<br>
-	7. Yamamoto79 (1:2)<br>
-	8. BenjiKozoR (1:0)<br>
-	10. rickss (0:2)<br>
-<br>
-254. #xterra (1211) 0<br>
+253. #xterra (1211) 0<br>
 +81|+87|+75|+78|+65|+42|+17|+18|+9|+3<br>
-	2. GoOody (0:1)<br>
-	5. GaudyWeasel (0:2)<br>
+	4. GaudyWeasel (0:2)<br>
 	8. BenjiKozoR (1:5)<br>
 	9. zamrai (0:1)<br>
 	10. rickss (3:4)<br>
 <br>
-255. #Balance~Bot (1209) -5<br>
--23|-19|-29|-25|-18|-7|-14|-17|-7|-8<br>
+254. #Anti~Neutral (1211) -5<br>
++12|+6|+9|+5|+2|0|+4|0|+3|-4<br>
+	6. Mocha960725 (0:5)<br>
+	7. Yamamoto79 (4:1)<br>
+<br>
+255. #BraveShovel~508 (1210) -1<br>
++45|+34|+39|+25|+28|+21|+19|+4|+4|+5<br>
+	7. Yamamoto79 (1:2)<br>
+	8. BenjiKozoR (1:0)<br>
+	10. rickss (0:2)<br>
 <br>
 256. #AbsurdSand~527 (1209) 0<br>
 +174|+144|+102|+70|+38|+10<br>
-	2. GoOody (0:1)<br>
-	5. GaudyWeasel (0:1)<br>
+	4. GaudyWeasel (0:1)<br>
 <br>
 257. #CheapWheel~194 (1209) 0<br>
 -6|+12|+15|+18|+10|+7|+18|+19|+9|+10<br>
-	6. jacks0nh0le (0:1)<br>
+	5. jacks0nh0le (0:1)<br>
 	8. BenjiKozoR (2:1)<br>
 	10. rickss (1:1)<br>
 <br>
@@ -1329,931 +1341,935 @@ Recent win rates against top 10 over the past 21 days<br>
 +176|+131|+93|+74|+41|+16<br>
 	8. BenjiKozoR (0:1)<br>
 <br>
-260. #yoni10 (1205) 0<br>
-+34|+37|+36|+44|+37|+32|+30|+35|+17|+2<br>
+260. #Balance~Bot (1207) -2<br>
+-25|-22|-31|-27|-20|-9|-16|-19|-9|-10<br>
+	6. Mocha960725 (0:3)<br>
 <br>
-261. #GreenTail~854 (1205) 0<br>
+261. #yoni10 (1207) +1<br>
++35|+38|+38|+45|+38|+34|+32|+36|+18|+4<br>
+<br>
+262. #GreenTail~854 (1205) 0<br>
 +176|+168|+150|+119|+85|+73|+60|+27|+13|+5<br>
 	7. Yamamoto79 (1:0)<br>
 	9. zamrai (0:2)<br>
-	10. rickss (0:5)<br>
+	10. rickss (0:3)<br>
 <br>
-262. #FlatMusic~785 (1204) 0<br>
+263. #FlatMusic~785 (1204) 0<br>
 -3|-8|-11|-18|+2|+4|+15|+13|+2|-2<br>
 <br>
-263. #Kotori (1204) 0<br>
+264. #Kotori (1204) 0<br>
 +165|+119|+94|+47|+29|+21<br>
-	6. jacks0nh0le (1:4)<br>
+	5. jacks0nh0le (1:4)<br>
 	8. BenjiKozoR (1:1)<br>
 	9. zamrai (0:3)<br>
 	10. rickss (1:5)<br>
 <br>
-264. #AbsurdTiger~542 (1203) +5<br>
+265. #LateChalk~528 (1203) +1<br>
++165|+126|+108|+79|+38|+19<br>
+<br>
+266. #AbsurdTiger~542 (1203) 0<br>
 +171|+139|+112|+75|+37|+17<br>
-	10. rickss (2:8)<br>
+	10. rickss (1:5)<br>
 <br>
-265. #LateChalk~528 (1203) 0<br>
-+164|+126|+108|+78|+37|+18<br>
-<br>
-266. #ashboe (1202) -5<br>
--26|-16|-12|-12|-14|-8|-6|0|-7|-9<br>
-<br>
-267. #FelixNavidad (1201) +4<br>
-+164|+134|+74|+54|+29|+5<br>
-	10. rickss (1:3)<br>
-<br>
-268. #slava86 (1201) -1<br>
-+174|+134|+108|+86|+63|+32|+14|+3|-6<br>
-	6. jacks0nh0le (0:1)<br>
-	7. Yamamoto79 (0:3)<br>
-	10. rickss (1:3)<br>
-<br>
-269. #NA9RALSHRIF (1200) +1<br>
-+187|+156|+116|+82|+45|+33|+21<br>
-	6. jacks0nh0le (0:1)<br>
+267. #NA9RALSHRIF (1202) +2<br>
++190|+158|+118|+84|+47|+35|+24<br>
+	5. jacks0nh0le (0:1)<br>
 	7. Yamamoto79 (0:1)<br>
 	8. BenjiKozoR (0:1)<br>
 	10. rickss (1:2)<br>
 <br>
-270. #Star69lord (1199) -1<br>
+268. #slava86 (1201) 0<br>
++174|+134|+108|+86|+63|+32|+14|+3|-6<br>
+	5. jacks0nh0le (0:1)<br>
+	6. Mocha960725 (0:1)<br>
+	7. Yamamoto79 (0:3)<br>
+	10. rickss (0:2)<br>
+<br>
+269. #ashboe (1201) -2<br>
+-27|-17|-14|-14|-16|-9|-7|-2|-8|-11<br>
+<br>
+270. #FelixNavidad (1200) 0<br>
++164|+134|+73|+53|+29|+5<br>
+	10. rickss (1:3)<br>
+<br>
+271. #Star69lord (1199) 0<br>
 +74|+60|+56|+53|+41|+33|+28|+32|+19|+2<br>
 <br>
-271. #f719 (1199) 0<br>
-+104|+92|+84|+74|+63|+44|+24|+23|+8|-2<br>
-	2. GoOody (0:1)<br>
-	5. GaudyWeasel (0:1)<br>
+272. #Nearest~Attack (1198) +3<br>
++28|+34|+39|+24|+35|+36|+27|+21|+9|+3<br>
+	1. MoldyCrush~110 (2:8)<br>
+	6. Mocha960725 (2:5)<br>
+	7. Yamamoto79 (2:2)<br>
 <br>
-272. #cswhaha (1198) -4<br>
-+62|+55|+45|+53|+40|+41|+22|+8|-8|-10<br>
+273. #cswhaha (1197) 0<br>
++62|+55|+44|+53|+40|+40|+22|+8|-8|-10<br>
 	7. Yamamoto79 (1:0)<br>
 	8. BenjiKozoR (1:7)<br>
 	10. rickss (0:4)<br>
 <br>
-273. #MeltedKettl~395 (1196) 0<br>
+274. #Suitor1 (1197) +19<br>
++136|+78|+55|+15<br>
+	4. GaudyWeasel (1:1)<br>
+	5. jacks0nh0le (3:2)<br>
+	8. BenjiKozoR (2:1)<br>
+	10. rickss (5:3)<br>
+<br>
+275. #MeltedKettl~395 (1196) 0<br>
 +161|+125|+87|+59|+13<br>
 	8. BenjiKozoR (0:3)<br>
 	10. rickss (0:1)<br>
 <br>
-274. #Nearest~Attack (1195) -2<br>
-+25|+31|+35|+21|+32|+33|+24|+18|+6|0<br>
-	1. MoldyCrush~110 (2:5)<br>
-	7. Yamamoto79 (2:2)<br>
-<br>
-275. #Maximus4444 (1195) 0<br>
-+158|+125|+106|+94|+87|+86|+61|+39|+15|+3<br>
+276. #Maximus4444 (1196) +1<br>
++159|+126|+107|+95|+88|+87|+62|+40|+16|+4<br>
 	10. rickss (0:1)<br>
 <br>
-276. #Astinax (1194) +2<br>
-+173|+156|+120|+89|+82|+63|+63|+46|+45|+10<br>
+277. #WateryApple~232 (1195) +6<br>
++172|+166|+137|+133|+109|+91|+69|+54|+36|+24<br>
+	6. Mocha960725 (2:2)<br>
 	10. rickss (0:1)<br>
 <br>
-277. #wacho789 (1194) -1<br>
-+168|+140|+101|+78|+53|+37|+26|+6<br>
-	5. GaudyWeasel (0:2)<br>
-	6. jacks0nh0le (0:3)<br>
+278. #Astinax (1195) +1<br>
++174|+157|+120|+90|+83|+64|+64|+47|+45|+10<br>
+	10. rickss (0:1)<br>
+<br>
+279. #f719 (1194) -5<br>
++99|+87|+79|+69|+58|+38|+18|+18|+3|-7<br>
+	4. GaudyWeasel (0:1)<br>
+<br>
+280. #wacho789 (1192) -1<br>
++167|+139|+99|+77|+52|+36|+25|+5<br>
+	4. GaudyWeasel (0:2)<br>
+	5. jacks0nh0le (0:3)<br>
+	6. Mocha960725 (2:0)<br>
 	7. Yamamoto79 (0:1)<br>
 <br>
-278. #ShinyTemper~434 (1191) -1<br>
-+6|+2|+7|-9|-3|+1|-3|+3|0|-6<br>
-	2. GoOody (0:1)<br>
-	6. jacks0nh0le (0:1)<br>
-	7. Yamamoto79 (0:1)<br>
-	10. rickss (1:1)<br>
+281. #MagicBoat~315 (1192) +4<br>
++144|+99|+44<br>
 <br>
-279. #SlickErmine~247 (1191) -4<br>
-+141|+119|+93|+64|+54|+53|+42|+24|+9|+1<br>
+282. #SlickErmine~247 (1190) -1<br>
++140|+118|+92|+63|+54|+52|+41|+24|+8|+1<br>
 	7. Yamamoto79 (1:1)<br>
 	10. rickss (1:1)<br>
 <br>
-280. #lovestern (1190) -1<br>
+283. #ShinyTemper~434 (1190) -1<br>
++5|+1|+6|-10|-4|0|-4|+2|-1|-7<br>
+	5. jacks0nh0le (0:1)<br>
+	7. Yamamoto79 (0:1)<br>
+	10. rickss (1:1)<br>
+<br>
+284. #lovestern (1190) 0<br>
 +17|+15|+28|+22|+13|+20|+20|+18|+15|0<br>
 	10. rickss (0:2)<br>
 <br>
-281. #Benman3000 (1189) 0<br>
-+30|+27|+18|+22|+10|+13|+12|+8|+1|0<br>
-	10. rickss (2:2)<br>
+285. #jucasdef03 (1190) +5<br>
++168|+141|+113|+78|+47|+24|+16<br>
 <br>
-282. #WateryApple~232 (1189) +11<br>
-+166|+159|+130|+127|+102|+85|+63|+47|+30|+18<br>
-	10. rickss (0:1)<br>
-<br>
-283. #samsung172x (1187) -1<br>
--6|-4|-9|-13|-13|-7|-11|-10|-8|-8<br>
-<br>
-284. #MagicBoat~315 (1187) +8<br>
-+140|+95|+40<br>
-<br>
-285. #JazzyJam~772 (1187) 0<br>
-+142|+91|+64|+45|+7<br>
-	10. rickss (0:1)<br>
-<br>
-286. #mandreas (1187) +1<br>
-+147|+137|+120|+109|+90|+70|+34|+13<br>
+286. #mandreas (1190) +3<br>
++150|+140|+123|+112|+93|+73|+37|+16<br>
 	10. rickss (1:0)<br>
 <br>
-287. #WiryFox~219 (1186) -1<br>
+287. #Benman3000 (1188) -1<br>
++29|+26|+17|+21|+9|+12|+11|+7|0|-1<br>
+	10. rickss (2:2)<br>
+<br>
+288. #samsung172x (1187) 0<br>
+-6|-4|-9|-13|-13|-7|-11|-10|-8|-8<br>
+	6. Mocha960725 (0:1)<br>
+<br>
+289. #sharifbang94 (1187) +1<br>
++116|+77|+40|+16<br>
+	10. rickss (3:4)<br>
+<br>
+290. #Galithor (1187) +1<br>
++155|+103|+91|+81|+71|+52|+39|+32|+16<br>
+	7. Yamamoto79 (0:1)<br>
+<br>
+291. #WiryFox~219 (1186) 0<br>
 +10|+6|+14|+5|-2|-10|-12|-3|-16|-7<br>
 	10. rickss (0:1)<br>
 <br>
-288. #sharifbang94 (1186) +5<br>
-+115|+77|+39|+15<br>
-	10. rickss (3:3)<br>
-<br>
-289. #Galithor (1185) +1<br>
-+153|+102|+90|+80|+69|+51|+38|+31|+15<br>
-	7. Yamamoto79 (0:1)<br>
-<br>
-290. #HairyRaptor~403 (1185) -1<br>
--32|-23|-20|-20|-9|-13|+3|+6|+6|0<br>
-	2. GoOody (1:3)<br>
-<br>
-291. #jucasdef03 (1185) +1<br>
-+163|+136|+107|+73|+42|+19|+11<br>
-	2. GoOody (1:1)<br>
-<br>
-292. #JosephD1570 (1183) 0<br>
-+38|+35|+34|+23|+23|+20|+6|+14|+21|+7<br>
-	7. Yamamoto79 (0:1)<br>
-<br>
-293. #scabz (1183) +12<br>
-+40|+42|+35|+36|+43|+29|+25|+14|+20|+23<br>
-	2. GoOody (1:1)<br>
-	5. GaudyWeasel (0:1)<br>
-	9. zamrai (0:4)<br>
-	10. rickss (2:9)<br>
-<br>
-294. #sacul85 (1183) +5<br>
-+169|+140|+108|+88|+62|+45|+19<br>
-	5. GaudyWeasel (0:1)<br>
-	6. jacks0nh0le (1:2)<br>
-	10. rickss (0:1)<br>
-<br>
-295. #aspiringhobo (1183) 0<br>
-+85|+65|+46|+38|+27|+19|+2|+4|+9|+12<br>
-<br>
-296. #netpavel (1180) 0<br>
-+152|+131|+110|+104|+80|+59|+49|+36|+22<br>
-<br>
-297. #sri-bhakti (1179) +2<br>
-+144|+77|+25<br>
-	2. GoOody (1:1)<br>
-<br>
-298. #AlGalcone (1177) -3<br>
-+49|+48|+40|+26|+15|+22|+15|+12|-2|-1<br>
-	4. ianna (0:2)<br>
-	5. GaudyWeasel (0:1)<br>
-<br>
-299. #Suitor1 (1177) -4<br>
-+116|+59|+36|-4<br>
-	5. GaudyWeasel (2:1)<br>
-	6. jacks0nh0le (0:2)<br>
-	8. BenjiKozoR (2:1)<br>
-	10. rickss (1:1)<br>
-<br>
-300. #Redmike (1177) 0<br>
-+140|+121|+104|+93|+76|+63|+33|+8<br>
-	7. Yamamoto79 (0:2)<br>
-<br>
-301. #Mr.NiceGuy32 (1176) +7<br>
-+152|+109|+76|+35|+7<br>
+292. #Mr.NiceGuy32 (1186) +10<br>
++162|+119|+87|+45|+17<br>
 	8. BenjiKozoR (1:3)<br>
 	10. rickss (2:3)<br>
 <br>
-302. #FittyTuck (1176) 0<br>
-+155|+134|+91|+67|+52|+17|+14|-9<br>
-	2. GoOody (0:1)<br>
-	5. GaudyWeasel (1:0)<br>
+293. #HairyRaptor~403 (1186) +1<br>
+-32|-23|-19|-19|-8|-13|+3|+7|+6|0<br>
 <br>
-303. #faisal777 (1176) -1<br>
-+119|+89|+73|+66|+58|+40|+23|+14|+5|+2<br>
-	5. GaudyWeasel (0:1)<br>
+294. #scabz (1185) +2<br>
++44|+38|+38|+45|+31|+27|+16|+22|+25|+3<br>
+	4. GaudyWeasel (0:1)<br>
+	9. zamrai (0:2)<br>
+	10. rickss (2:9)<br>
 <br>
-304. #klumpy (1172) 0<br>
-+138|+109|+72|+48|+34|+14<br>
+295. #col_angus (1185) +18<br>
++119|+94|+71|+34<br>
 <br>
-305. #collins20 (1172) 0<br>
-+133|+102|+55|+32|0<br>
+296. #aspiringhobo (1184) +1<br>
++86|+66|+48|+39|+28|+21|+3|+5|+11|+14<br>
 <br>
-306. #djhunt (1171) 0<br>
-+135|+133|+125|+84|+60|+31|+22|+7|-12|-9<br>
-<br>
-307. #G4m3R34p3r (1170) 0<br>
-+160|+136|+109|+97|+67|+58|+49|+26|+6|0<br>
-<br>
-308. #BumpyJelly~178 (1170) +1<br>
-+129|+102|+63|+41|+26<br>
-	10. rickss (0:1)<br>
-<br>
-309. #jacobpadova7 (1169) -5<br>
-+151|+135|+115|+82|+53|+29|+23|+6|-2<br>
-	5. GaudyWeasel (0:2)<br>
-	8. BenjiKozoR (0:1)<br>
-<br>
-310. #Action52 (1168) +3<br>
-+114|+59|+14<br>
-	10. rickss (0:2)<br>
-<br>
-311. #Expand~Bot (1168) +4<br>
-+29|+32|+43|+18|+32|+23|+13|+11|+11|-4<br>
-	1. MoldyCrush~110 (0:8)<br>
+297. #JosephD1570 (1183) 0<br>
++38|+35|+34|+23|+23|+20|+6|+14|+21|+7<br>
 	7. Yamamoto79 (0:1)<br>
 <br>
-312. #col_angus (1167) +3<br>
-+101|+76|+54|+16<br>
+298. #sacul85 (1183) 0<br>
++168|+140|+108|+88|+62|+44|+18<br>
+	4. GaudyWeasel (0:1)<br>
+	5. jacks0nh0le (1:2)<br>
+	10. rickss (0:1)<br>
 <br>
-313. #meltedcheese (1167) 0<br>
--21|-10|-5|+4|+15|+15|+15|+5|-3|-4<br>
+299. #netpavel (1180) 0<br>
++152|+131|+110|+104|+80|+59|+49|+36|+22<br>
+<br>
+300. #sri-bhakti (1179) 0<br>
++144|+77|+25<br>
+<br>
+301. #collins20 (1178) +6<br>
++138|+108|+60|+38|+5<br>
+	10. rickss (2:3)<br>
+<br>
+302. #AlGalcone (1177) 0<br>
++49|+48|+40|+26|+15|+22|+15|+12|-2|-1<br>
+	3. ianna (0:2)<br>
+	4. GaudyWeasel (0:1)<br>
+<br>
+303. #Redmike (1177) 0<br>
++140|+121|+104|+93|+76|+63|+33|+8<br>
+<br>
+304. #bah (1177) +1<br>
++111|+70|+33|0<br>
+	4. GaudyWeasel (1:1)<br>
+	9. zamrai (2:2)<br>
+<br>
+305. #FittyTuck (1176) 0<br>
++155|+134|+91|+67|+52|+17|+14|-9<br>
+	4. GaudyWeasel (1:0)<br>
+<br>
+306. #faisal777 (1176) 0<br>
++119|+89|+73|+66|+58|+40|+23|+14|+5|+2<br>
+	4. GaudyWeasel (0:1)<br>
+<br>
+307. #klumpy (1174) +1<br>
++139|+111|+74|+49|+35|+15<br>
+<br>
+308. #Action52 (1173) +5<br>
++120|+64|+20<br>
+	10. rickss (0:2)<br>
+<br>
+309. #djhunt (1171) 0<br>
++135|+133|+125|+84|+60|+31|+22|+7|-12|-9<br>
+<br>
+310. #G4m3R34p3r (1170) 0<br>
++160|+136|+109|+97|+67|+58|+49|+26|+6|0<br>
+<br>
+311. #BumpyJelly~178 (1170) 0<br>
++129|+102|+63|+41|+26<br>
+	6. Mocha960725 (0:2)<br>
+	10. rickss (0:1)<br>
+<br>
+312. #jacobpadova7 (1169) 0<br>
++151|+135|+115|+82|+53|+29|+23|+6|-2<br>
+	4. GaudyWeasel (0:2)<br>
+	8. BenjiKozoR (0:1)<br>
+<br>
+313. #guney33 (1168) +9<br>
++144|+128|+96|+62|+16<br>
+	4. GaudyWeasel (0:3)<br>
+<br>
+314. #meltedcheese (1167) 0<br>
+-21|-10|-5|+4|+14|+14|+15|+5|-3|-4<br>
 	7. Yamamoto79 (1:3)<br>
 	10. rickss (0:1)<br>
 <br>
-314. #Buff-Plunts (1166) +1<br>
+315. #Buff-Plunts (1166) 0<br>
 +97|+43|+3<br>
 	10. rickss (3:3)<br>
 <br>
-315. #FluffyBunny4 (1161) 0<br>
-+142|+111|+81|+65|+20|-1<br>
-	6. jacks0nh0le (1:2)<br>
+316. #Expand~Bot (1165) -3<br>
++27|+29|+40|+15|+29|+20|+10|+8|+9|-7<br>
+	1. MoldyCrush~110 (0:8)<br>
 	7. Yamamoto79 (0:1)<br>
 <br>
-316. #Olliec (1160) +3<br>
-+29|+20|+12|+2|-14|-10|-14|-4|-8|-2<br>
+317. #FluffyBunny4 (1163) +2<br>
++144|+112|+82|+67|+22|0<br>
+	5. jacks0nh0le (1:2)<br>
+	7. Yamamoto79 (0:1)<br>
+<br>
+318. #Olliec (1162) +2<br>
++31|+22|+14|+4|-12|-8|-12|-2|-6|0<br>
 	10. rickss (0:2)<br>
 <br>
-317. #guney33 (1159) 0<br>
-+135|+119|+87|+53|+7<br>
-	5. GaudyWeasel (0:3)<br>
-<br>
-318. #SecretSnake~302 (1159) +7<br>
-+133|+99|+79|+54|+15<br>
-<br>
-319. #batman7000 (1159) +9<br>
-+109|+74|+28<br>
+319. #batman7000 (1162) +3<br>
++112|+77|+31<br>
 	10. rickss (2:2)<br>
 <br>
-320. #Thentai (1158) 0<br>
-+119|+105|+98|+87|+68|+59|+47|+34|+20|+8<br>
-	2. GoOody (1:1)<br>
-<br>
-321. #poot_johnson (1157) 0<br>
-+93|+27<br>
-	9. zamrai (1:2)<br>
-	10. rickss (2:4)<br>
-<br>
-322. #Luksin (1155) +6<br>
-+101|+73|+28|+7<br>
-	4. ianna (1:0)<br>
-	5. GaudyWeasel (0:2)<br>
-	10. rickss (0:7)<br>
-<br>
-323. #Power69 (1155) +3<br>
-+134|+116|+102|+98|+98|+88|+58|+34|+19|+1<br>
-<br>
-324. #ace95 (1154) +1<br>
-+133|+96|+57|+27|0<br>
-	6. jacks0nh0le (0:2)<br>
-	8. BenjiKozoR (0:2)<br>
-<br>
-325. #samsa88 (1152) +5<br>
-+139|+117|+69|+48|+20|+4<br>
+320. #samsa88 (1161) +9<br>
++148|+126|+78|+57|+29|+13<br>
 	7. Yamamoto79 (0:5)<br>
 	10. rickss (3:4)<br>
 <br>
-326. #gobindsingh (1151) +4<br>
-+134|+136|+117|+84|+56|+53|+33|+39|+23|+18<br>
+321. #lelofadel111 (1159) +13<br>
++120|+111|+92|+85|+68|+49<br>
+	10. rickss (3:1)<br>
 <br>
-327. #Gekon2002 (1149) 0<br>
-+108|+66|+27|0<br>
-	10. rickss (5:3)<br>
+322. #Thentai (1158) 0<br>
++119|+105|+98|+87|+68|+59|+47|+34|+20|+8<br>
 <br>
-328. #LarsOlausson (1148) +6<br>
-+49|+41|+28|+24|+14|+9|+3|+8|-7|-4<br>
+323. #SecretSnake~302 (1157) -1<br>
++131|+98|+78|+53|+14<br>
 <br>
-329. #ShaggyWasp~457 (1147) +1<br>
-+123|+107|+100|+72|+56|+31|+14<br>
-	10. rickss (1:2)<br>
-<br>
-330. #Five~Percent (1145) -4<br>
-+22|+28|+22|+25|+25|+23|+8|-4|0|-3<br>
-	1. MoldyCrush~110 (2:17)<br>
-	3. waffle~3z (1:21)<br>
-<br>
-331. #LittleChrist (1145) 0<br>
-+45|+38|+28|+23|+26|+15|-1|-1|+3|+2<br>
-<br>
-332. #Saehyu (1144) 0<br>
-+140|+115|+96|+46|+29|+12<br>
-	10. rickss (2:1)<br>
-<br>
-333. #Agorax (1141) +2<br>
-+142|+123|+103|+93|+79|+62|+52|+33|+1<br>
-	7. Yamamoto79 (0:1)<br>
-	10. rickss (0:3)<br>
-<br>
-334. #Drotc (1141) -1<br>
-+137|+139|+116|+92|+79|+40|+17<br>
-	5. GaudyWeasel (1:1)<br>
-<br>
-335. #SableFish~932 (1137) 0<br>
-+80|+47|+4<br>
-	5. GaudyWeasel (2:6)<br>
+324. #poot_johnson (1157) 0<br>
++93|+27<br>
 	10. rickss (2:4)<br>
 <br>
-336. #K4lixx (1135) +1<br>
-+106|+87|+58|+35|-3<br>
-	5. GaudyWeasel (0:3)<br>
-	6. jacks0nh0le (0:2)<br>
+325. #Luksin (1155) 0<br>
++101|+73|+28|+7<br>
+	3. ianna (1:0)<br>
+	4. GaudyWeasel (0:2)<br>
+	10. rickss (0:7)<br>
+<br>
+326. #Power69 (1155) 0<br>
++134|+116|+102|+98|+98|+88|+58|+34|+19|+1<br>
+<br>
+327. #ace95 (1155) +1<br>
++134|+96|+58|+27|0<br>
+	5. jacks0nh0le (0:2)<br>
+	6. Mocha960725 (3:2)<br>
+	8. BenjiKozoR (0:2)<br>
+<br>
+328. #Gekon2002 (1153) +4<br>
++111|+69|+31|+4<br>
+	10. rickss (5:3)<br>
+<br>
+329. #gobindsingh (1150) 0<br>
++134|+136|+117|+84|+56|+53|+33|+38|+22|+18<br>
+	6. Mocha960725 (0:2)<br>
+<br>
+330. #LarsOlausson (1148) 0<br>
++49|+41|+28|+24|+14|+9|+3|+8|-7|-4<br>
+<br>
+331. #ShaggyWasp~457 (1147) 0<br>
++124|+107|+101|+72|+57|+32|+15<br>
+	10. rickss (1:2)<br>
+<br>
+332. #Five~Percent (1147) +2<br>
++29|+24|+26|+27|+25|+10|-2|+2|-1|-2<br>
+	1. MoldyCrush~110 (2:17)<br>
+	2. waffle~3z (1:22)<br>
+	6. Mocha960725 (0:26)<br>
+<br>
+333. #Saehyu (1147) +3<br>
++143|+118|+99|+49|+32|+15<br>
+	10. rickss (2:4)<br>
+<br>
+334. #FilthyGlide~918 (1147) +14<br>
++66|+3<br>
+	2. waffle~3z (0:2)<br>
+	9. zamrai (3:0)<br>
+	10. rickss (4:7)<br>
+<br>
+335. #LittleChrist (1145) 0<br>
++45|+38|+28|+23|+26|+15|-1|-1|+3|+2<br>
+<br>
+336. #Drotc (1145) +4<br>
++142|+143|+120|+96|+83|+45|+22|0<br>
+	4. GaudyWeasel (1:1)<br>
+<br>
+337. #Agorax (1143) +1<br>
++143|+125|+104|+94|+80|+64|+53|+35|+2<br>
+	7. Yamamoto79 (0:1)<br>
+<br>
+338. #SableFish~932 (1137) 0<br>
++80|+47|+4<br>
+	4. GaudyWeasel (2:6)<br>
+	10. rickss (2:4)<br>
+<br>
+339. #K4lixx (1137) +1<br>
++108|+89|+59|+37|-1<br>
+	4. GaudyWeasel (0:3)<br>
+	5. jacks0nh0le (0:2)<br>
+	6. Mocha960725 (0:1)<br>
 	8. BenjiKozoR (0:1)<br>
 	10. rickss (0:1)<br>
 <br>
-337. #FilthyGlide~918 (1132) +4<br>
-+52<br>
-	3. waffle~3z (0:2)<br>
-	9. zamrai (3:0)<br>
-	10. rickss (2:4)<br>
+340. #culodmose (1134) +5<br>
++110|+98|+89|+59|+48|+38|+34|+31|+23|+8<br>
+	4. GaudyWeasel (1:0)<br>
+	5. jacks0nh0le (2:0)<br>
 <br>
-338. #Born~2Snipe (1132) -6<br>
-+2|+5|+2|+3|-1|-13|-17|-9|-16|-5<br>
-	7. Yamamoto79 (1:3)<br>
-<br>
-339. #WindyMit~547 (1131) +6<br>
-+80|+14<br>
-<br>
-340. #culodmose (1129) +1<br>
-+105|+94|+84|+55|+43|+33|+29|+26|+18|+3<br>
-	5. GaudyWeasel (1:0)<br>
-	6. jacks0nh0le (2:0)<br>
-<br>
-341. #SkyEvil (1129) +1<br>
-+94|+68|+77|+53|+41|+29|+19|+13|+3<br>
-	5. GaudyWeasel (0:1)<br>
+341. #SkyEvil (1132) +3<br>
++97|+71|+80|+56|+44|+32|+22|+16|+6<br>
+	4. GaudyWeasel (0:1)<br>
 	10. rickss (1:4)<br>
 <br>
-342. #LiquidSock~186 (1125) +10<br>
+342. #WindyMit~547 (1131) 0<br>
++80|+14<br>
+<br>
+343. #bupkis (1130) +6<br>
++94|+59|+39|+14<br>
+<br>
+344. #LiquidSock~186 (1125) 0<br>
 +72|+26<br>
 <br>
-343. #Callisto103 (1124) 0<br>
+345. #Callisto103 (1124) 0<br>
 +90|+78|+64|+53|+17<br>
 	10. rickss (0:5)<br>
 <br>
-344. #DirtyPants~598 (1124) 0<br>
+346. #DirtyPants~598 (1124) 0<br>
 +89|+74|+65|+49|+39|+16|+1<br>
-	6. jacks0nh0le (0:2)<br>
+	5. jacks0nh0le (0:2)<br>
 <br>
-345. #Hannibal~Smith (1124) +1<br>
-+25|+29|+30|+43|+44|+25|+23|+16|+10|+4<br>
-	1. MoldyCrush~110 (3:10)<br>
+347. #Hannibal~Smith (1123) -1<br>
++28|+29|+42|+43|+24|+23|+15|+9|+3|+1<br>
+	1. MoldyCrush~110 (3:14)<br>
+	6. Mocha960725 (2:1)<br>
 	7. Yamamoto79 (0:4)<br>
 <br>
-346. #bupkis (1124) +4<br>
-+88|+53|+33|+8<br>
-	2. GoOody (0:1)<br>
-<br>
-347. #pierreg069 (1123) 0<br>
-+84|+67|+39|+21<br>
-<br>
-348. #Over~Expand (1123) +7<br>
-+7|-10|-3|0|-15|-6|-7|+2|+6|0<br>
-	1. MoldyCrush~110 (1:7)<br>
-	3. waffle~3z (0:1)<br>
-	7. Yamamoto79 (0:1)<br>
-<br>
-349. #Genghis~Khan (1123) -4<br>
--14|-13|-7|-1|-14|-9|-1|+4|+5|-12<br>
-	1. MoldyCrush~110 (2:14)<br>
+348. #Genghis~Khan (1123) 0<br>
+-13|-7|-1|-14|-10|-1|+4|+4|-12|+1<br>
+	1. MoldyCrush~110 (2:15)<br>
+	6. Mocha960725 (0:1)<br>
 	7. Yamamoto79 (0:2)<br>
 <br>
-350. #SandyVest~588 (1123) 0<br>
-+86|+52|+35|+12<br>
-<br>
-351. #SourIsland~843 (1119) +1<br>
-+114|+85|+57|+45|+19|-1<br>
-	5. GaudyWeasel (1:1)<br>
-	7. Yamamoto79 (1:1)<br>
+349. #SourIsland~843 (1122) +4<br>
++118|+88|+61|+49|+22|+3<br>
+	4. GaudyWeasel (1:1)<br>
 	10. rickss (0:2)<br>
 <br>
-352. #Majed205 (1118) 0<br>
-+79|+51|+13<br>
+350. #pierreg069 (1122) -1<br>
++83|+65|+37|+19<br>
 <br>
-353. #BlackTiger (1116) 0<br>
+351. #Born~2Snipe (1122) -11<br>
+-8|-5|-9|-7|-11|-23|-27|-19|-27|-16<br>
+	6. Mocha960725 (0:11)<br>
+	7. Yamamoto79 (1:3)<br>
+<br>
+352. #Over~Expand (1119) -4<br>
++4|-13|-7|-4|-19|-9|-10|-2|+2|-4<br>
+	1. MoldyCrush~110 (1:7)<br>
+	2. waffle~3z (0:1)<br>
+	6. Mocha960725 (0:1)<br>
+	7. Yamamoto79 (0:1)<br>
+<br>
+353. #Majed205 (1118) 0<br>
++79|+51|+13<br>
+	6. Mocha960725 (0:1)<br>
+<br>
+354. #ganeshs_will (1117) +1<br>
++139|+133|+105|+76|+48|+39|+36|+34|+16|+3<br>
+<br>
+355. #BlackTiger (1116) 0<br>
 +87|+40|+14<br>
 <br>
-354. #Muzzman3 (1115) 0<br>
-+123|+110|+82|+58|+36|+7<br>
+356. #SSRZ_Chewy (1116) +2<br>
++96|+38|+11<br>
+	5. jacks0nh0le (0:2)<br>
+	6. Mocha960725 (1:0)<br>
+	8. BenjiKozoR (2:1)<br>
+<br>
+357. #Muzzman3 (1115) -1<br>
++123|+109|+82|+57|+35|+6<br>
 	9. zamrai (2:1)<br>
 <br>
-355. #WindyTrain~292 (1114) 0<br>
+358. #WindyTrain~292 (1114) 0<br>
 +71|+34|+18<br>
 	7. Yamamoto79 (1:0)<br>
 	10. rickss (0:4)<br>
 <br>
-356. #SSRZ_Chewy (1114) 0<br>
-+95|+36|+10<br>
-	6. jacks0nh0le (0:2)<br>
-	8. BenjiKozoR (2:1)<br>
-<br>
-357. #Jackalope (1114) +21<br>
+359. #Jackalope (1114) 0<br>
 +58|+22<br>
-	6. jacks0nh0le (1:0)<br>
+	5. jacks0nh0le (1:0)<br>
 	10. rickss (2:1)<br>
 <br>
-358. #Radius~Attack (1112) -4<br>
-+11|+4|+15|-18|-3|-3|-13|+7|-1|-4<br>
-	1. MoldyCrush~110 (0:6)<br>
-<br>
-359. #GregJennings (1111) 0<br>
-+102|+77|+67|+43|+22<br>
-<br>
-360. #M-711 (1110) 0<br>
-+85|+49|+19<br>
-	2. GoOody (0:1)<br>
-	6. jacks0nh0le (4:4)<br>
+360. #M-711 (1112) +2<br>
++86|+51|+21<br>
+	5. jacks0nh0le (4:4)<br>
 	7. Yamamoto79 (0:1)<br>
 	10. rickss (0:1)<br>
 <br>
-361. #sashov (1108) 0<br>
-+83|+58|+25<br>
-	5. GaudyWeasel (1:4)<br>
-	10. rickss (0:1)<br>
+361. #CheapSpade~310 (1111) +12<br>
++100|+61|+19<br>
 <br>
-362. #NoisyBubble~679 (1108) +6<br>
-+40<br>
-	10. rickss (1:0)<br>
-<br>
-363. #KylieJenner (1107) 0<br>
-+80|+63|+30|+23<br>
-<br>
-364. #dawson27 (1107) +10<br>
-+99|+86|+47|+1<br>
+362. #dawson27 (1111) +3<br>
++103|+89|+50|+5<br>
 	10. rickss (2:5)<br>
 <br>
-365. #Dakarah21 (1102) -2<br>
+363. #ZestyWren~518 (1111) +8<br>
++56|+46|+28<br>
+<br>
+364. #GregJennings (1111) 0<br>
++102|+77|+67|+43|+22<br>
+<br>
+365. #sashov (1110) +2<br>
++85|+60|+27<br>
+	4. GaudyWeasel (1:4)<br>
+	6. Mocha960725 (2:1)<br>
+	10. rickss (0:1)<br>
+<br>
+366. #NoisyBubble~679 (1109) +1<br>
++41<br>
+	6. Mocha960725 (0:1)<br>
+<br>
+367. #Radius~Attack (1109) -3<br>
++8|+1|+12|-21|-6|-6|-16|+4|-4|-7<br>
+	1. MoldyCrush~110 (0:8)<br>
+	6. Mocha960725 (1:16)<br>
+<br>
+368. #KylieJenner (1108) +1<br>
++81|+64|+31|+24<br>
+<br>
+369. #Goober04 (1108) +14<br>
++68|+35|0<br>
+	5. jacks0nh0le (1:0)<br>
+	10. rickss (0:2)<br>
+<br>
+370. #amusedbeast (1103) -2<br>
++19|+24|+17|+25|+28|+17|+18|+9|+8|-2<br>
+<br>
+371. #Dakarah21 (1102) 0<br>
 +68|+23|+7<br>
-	5. GaudyWeasel (1:5)<br>
+	4. GaudyWeasel (1:5)<br>
 	7. Yamamoto79 (0:3)<br>
 	10. rickss (1:0)<br>
 <br>
-366. #CheapSpade~310 (1099) 0<br>
-+88|+49|+7<br>
+372. #Wiggin (1102) +8<br>
++83|+32|+14<br>
 <br>
-367. #ChubbyPizza~629 (1096) +5<br>
-+43|+1<br>
-	5. GaudyWeasel (1:1)<br>
+373. #Sourire (1100) +11<br>
++75|+49|+19|+9<br>
+	4. GaudyWeasel (0:2)<br>
+	10. rickss (2:6)<br>
 <br>
-368. #spookydoor (1094) 0<br>
-+50|+11<br>
+374. #JuicyNectar (1100) +12<br>
++82|+39|+11<br>
 <br>
-369. #loooser (1094) 0<br>
-+62|+35|+29|+3<br>
-	5. GaudyWeasel (1:1)<br>
+375. #ChubbyPizza~629 (1099) +3<br>
++46|+3<br>
+	4. GaudyWeasel (1:1)<br>
 <br>
-370. #Goober04 (1094) +21<br>
-+53|+21<br>
-	6. jacks0nh0le (1:0)<br>
-	10. rickss (0:2)<br>
+376. #spookydoor (1097) +3<br>
++53|+14<br>
 <br>
-371. #MeltedDrain~140 (1094) +11<br>
-+62|+28<br>
-	6. jacks0nh0le (1:0)<br>
-<br>
-372. #Wiggin (1094) +8<br>
-+75|+24|+7<br>
-<br>
-373. #Mexikid (1094) +2<br>
-+79|+67|+55|+32|+35|+13|+19|-2<br>
-	5. GaudyWeasel (0:2)<br>
-	10. rickss (0:2)<br>
-<br>
-374. #Sea~Slug (1093) -5<br>
--5|-3|0|-8|-14|-1|-13|+5|-4|-5<br>
-	1. MoldyCrush~110 (2:8)<br>
+377. #WiseMit~500 (1096) +4<br>
++67|+51|+8|+2|+3<br>
 	7. Yamamoto79 (0:2)<br>
 <br>
-375. #ZekeTalentx (1093) 0<br>
-+89|+67|+49|+31|+20|+10|-9<br>
-	5. GaudyWeasel (1:0)<br>
-	6. jacks0nh0le (1:0)<br>
+378. #loooser (1095) +1<br>
++63|+36|+31|+4<br>
+	4. GaudyWeasel (1:1)<br>
+<br>
+379. #ZekeTalentx (1095) +2<br>
++91|+69|+50|+32|+22|+12|-7<br>
+	4. GaudyWeasel (1:0)<br>
+	5. jacks0nh0le (1:0)<br>
 	8. BenjiKozoR (0:3)<br>
 	9. zamrai (0:5)<br>
 	10. rickss (0:5)<br>
 <br>
-376. #WiseMit~500 (1093) 0<br>
-+64|+48|+5|-1|0<br>
+380. #MeltedDrain~140 (1094) 0<br>
++62|+28<br>
+	5. jacks0nh0le (1:0)<br>
+<br>
+381. #Mexikid (1094) 0<br>
++79|+67|+55|+32|+35|+13|+19|-2<br>
+	4. GaudyWeasel (0:2)<br>
+	10. rickss (0:2)<br>
+<br>
+382. #Sea~Slug (1094) 0<br>
+-2|0|-7|-14|-1|-13|+6|-3|-5|-1<br>
+	1. MoldyCrush~110 (2:10)<br>
+	6. Mocha960725 (0:9)<br>
 	7. Yamamoto79 (0:2)<br>
 <br>
-377. #ERider (1091) 0<br>
+383. #ERider (1091) 0<br>
 +66|+29|+8<br>
-	2. GoOody (0:1)<br>
 	10. rickss (0:1)<br>
 <br>
-378. #HAIRYTOOTH (1091) 0<br>
+384. #HAIRYTOOTH (1091) 0<br>
 +89|+70|+54|+4<br>
 	10. rickss (1:0)<br>
 <br>
-379. #Sourire (1089) +2<br>
-+64|+38|+8<br>
-	5. GaudyWeasel (0:2)<br>
-	10. rickss (2:6)<br>
+385. #white_andrei (1091) +44<br>
++45|+4<br>
 <br>
-380. #JuicyNectar (1088) +1<br>
-+71|+27|-1<br>
-<br>
-381. #Steve.Jobs (1088) 0<br>
+386. #Steve.Jobs (1088) 0<br>
 +27<br>
 	8. BenjiKozoR (0:1)<br>
 <br>
-382. #cockcheese (1087) 0<br>
-+84|+86|+80|+71|+67|+53|+33|+27|-1<br>
-	8. BenjiKozoR (0:1)<br>
-<br>
-383. #Khael- (1082) 0<br>
+387. #Khael- (1082) 0<br>
 +28<br>
-	5. GaudyWeasel (1:1)<br>
+	4. GaudyWeasel (1:1)<br>
 	9. zamrai (1:3)<br>
 	10. rickss (0:2)<br>
 <br>
-384. #nihalem (1081) +6<br>
+388. #Ch1kn (1082) +11<br>
++78|+74|+59|+20<br>
+	4. GaudyWeasel (0:1)<br>
+	10. rickss (0:1)<br>
+<br>
+389. #nihalem (1081) 0<br>
 +28|+3<br>
 <br>
-385. #CalmMango~851 (1076) +6<br>
+390. #orenong (1080) +5<br>
++17|+17|+19|+27|+11|+4|+2|+5|+4|+11<br>
+	3. ianna (0:3)<br>
+	8. BenjiKozoR (0:1)<br>
+	10. rickss (0:3)<br>
+<br>
+391. #DerOllePete (1077) +3<br>
++10<br>
+	7. Yamamoto79 (2:0)<br>
+<br>
+392. #adamfirst (1076) +2<br>
++67|+49|+45|+36|+22|+1<br>
+	7. Yamamoto79 (0:1)<br>
+<br>
+393. #CalmMango~851 (1076) 0<br>
 +36|+6<br>
-	6. jacks0nh0le (0:2)<br>
+	5. jacks0nh0le (0:2)<br>
 	7. Yamamoto79 (0:1)<br>
 	10. rickss (1:4)<br>
 <br>
-386. #orenong (1075) +2<br>
-+11|+12|+14|+21|+6|-2|-3|0|-1|+6<br>
-	4. ianna (0:3)<br>
-	8. BenjiKozoR (0:1)<br>
-	10. rickss (0:3)<br>
+394. #stopplease (1075) +2<br>
++57|+42|+14|+3<br>
+	5. jacks0nh0le (0:1)<br>
 <br>
-387. #adamfirst (1074) -2<br>
-+65|+47|+42|+34|+19|-2<br>
-	7. Yamamoto79 (0:1)<br>
-	10. rickss (0:2)<br>
-<br>
-388. #DerOllePete (1074) +2<br>
-+7<br>
-	7. Yamamoto79 (2:0)<br>
-<br>
-389. #sdfre (1073) 0<br>
+395. #sdfre (1073) 0<br>
 +52|+13<br>
 <br>
-390. #grand008 (1073) +3<br>
+396. #grand008 (1073) 0<br>
 +41|+29<br>
 <br>
-391. #stopplease (1073) -1<br>
-+55|+40|+12|+1<br>
-	6. jacks0nh0le (0:1)<br>
+397. #papasfritas (1070) +4<br>
++32|0<br>
+	10. rickss (3:6)<br>
 <br>
-392. #Ch1kn (1070) 0<br>
-+66|+63|+48|+9<br>
-	5. GaudyWeasel (0:1)<br>
-	10. rickss (0:1)<br>
-<br>
-393. #JJ2201 (1069) 0<br>
+398. #JJ2201 (1069) 0<br>
 +10<br>
 	9. zamrai (0:3)<br>
 <br>
-394. #MaBallsRFull (1069) 0<br>
+399. #MaBallsRFull (1069) 0<br>
 +36|0<br>
 <br>
-395. #train12and35 (1068) 0<br>
+400. #train12and35 (1068) 0<br>
 +21<br>
 <br>
-396. #papasfritas (1067) +1<br>
-+28<br>
-	10. rickss (2:4)<br>
+401. #Spoon_ (1067) +3<br>
++25<br>
 <br>
-397. #Spoon_ (1064) +1<br>
-+23<br>
+402. #dorg (1067) +5<br>
++31|0<br>
 <br>
-398. #XadinPlays (1064) 0<br>
+403. #XadinPlays (1064) 0<br>
 +53|+46<br>
-	3. waffle~3z (0:1)<br>
-	6. jacks0nh0le (0:1)<br>
+	2. waffle~3z (0:1)<br>
+	5. jacks0nh0le (0:1)<br>
 <br>
-399. #dred001 (1063) 0<br>
+404. #dred001 (1063) 0<br>
 +59|+41|+1<br>
 	10. rickss (2:1)<br>
 <br>
-400. #karhockey88 (1063) 0<br>
-+15<br>
-	5. GaudyWeasel (0:1)<br>
-	7. Yamamoto79 (0:3)<br>
-<br>
-401. #littlesnail (1063) 0<br>
+405. #littlesnail (1063) 0<br>
 +20<br>
 	10. rickss (2:0)<br>
 <br>
-402. #UmberClock~804 (1062) 0<br>
-+33<br>
-	6. jacks0nh0le (0:1)<br>
-	10. rickss (1:1)<br>
+406. #ShinyGoose~286 (1062) +6<br>
++41|+20<br>
+	10. rickss (0:1)<br>
 <br>
-403. #dorg (1061) +6<br>
-+26<br>
-<br>
-404. #HugeKazoo~582 (1061) 0<br>
+407. #HugeKazoo~582 (1061) 0<br>
 +12<br>
 <br>
-405. #WildWapiti (1060) 0<br>
+408. #UmberClock~804 (1061) -1<br>
++31|0<br>
+	5. jacks0nh0le (0:1)<br>
+	10. rickss (1:1)<br>
+<br>
+409. #honeybear (1060) +3<br>
++18<br>
+<br>
+410. #WildWapiti (1060) 0<br>
 +50|+27|+8|+10|+3|-7|-5<br>
 	7. Yamamoto79 (0:2)<br>
 <br>
-406. #Neve (1059) +3<br>
+411. #Neve (1059) 0<br>
 +5<br>
-	5. GaudyWeasel (1:0)<br>
+	4. GaudyWeasel (1:0)<br>
 <br>
-407. #dixmasher9 (1057) +2<br>
+412. #dixmasher9 (1057) 0<br>
 +47|+28|+25|+21|+7<br>
-	6. jacks0nh0le (0:2)<br>
+	5. jacks0nh0le (0:2)<br>
+	6. Mocha960725 (1:0)<br>
 	7. Yamamoto79 (0:1)<br>
 	10. rickss (1:2)<br>
 <br>
-408. #rogueleader6 (1057) 0<br>
+413. #rogueleader6 (1057) 0<br>
 +24<br>
-	4. ianna (1:0)<br>
-	6. jacks0nh0le (0:1)<br>
+	3. ianna (1:0)<br>
+	5. jacks0nh0le (0:1)<br>
 <br>
-409. #honeybear (1057) +13<br>
-+15<br>
-<br>
-410. #ShinyGoose~286 (1056) 0<br>
-+35|+14<br>
-	10. rickss (0:1)<br>
-<br>
-411. #luisluis (1055) +1<br>
+414. #luisluis (1055) 0<br>
 +40|+16|+2<br>
 <br>
-412. #NiftyThief~340 (1055) 0<br>
+415. #NiftyThief~340 (1055) 0<br>
 +8<br>
 	10. rickss (0:2)<br>
 <br>
-413. #LonelyTruck~453 (1053) +3<br>
-+19<br>
-	5. GaudyWeasel (0:1)<br>
-	6. jacks0nh0le (1:1)<br>
+416. #LonelyTruck~453 (1054) +1<br>
++21<br>
+	4. GaudyWeasel (0:1)<br>
+	5. jacks0nh0le (1:1)<br>
 	10. rickss (2:4)<br>
 <br>
-414. #StinkyOwl~209 (1052) 0<br>
-+15<br>
-	2. GoOody (0:1)<br>
-	5. GaudyWeasel (0:2)<br>
+417. #james--- (1053) +5<br>
++9<br>
+	10. rickss (2:6)<br>
 <br>
-415. #Wowee (1052) 0<br>
+418. #StinkyOwl~209 (1052) 0<br>
++15<br>
+<br>
+419. #Wowee (1052) 0<br>
 +2<br>
 	7. Yamamoto79 (1:1)<br>
 <br>
-416. #FastCrayon~361 (1051) 0<br>
+420. #FastCrayon~361 (1051) 0<br>
 +25|+12<br>
-	5. GaudyWeasel (1:2)<br>
-	7. Yamamoto79 (1:3)<br>
 <br>
-417. #TheLegend72 (1051) 0<br>
+421. #TheLegend72 (1051) 0<br>
 +47|+33|+2<br>
 	10. rickss (1:0)<br>
 <br>
-418. #PERDIGUEIRO0 (1050) 0<br>
-+14<br>
-	2. GoOody (0:1)<br>
+422. #kpd (1049) +4<br>
++40|+25|+16|+6<br>
+	10. rickss (0:4)<br>
 <br>
-419. #Park_er (1049) 0<br>
+423. #Park_er (1049) 0<br>
 +8<br>
 <br>
-420. #KERATA1 (1049) 0<br>
-+2<br>
-	8. BenjiKozoR (0:1)<br>
-<br>
-421. #BrownCrayon~709 (1048) +7<br>
-0<br>
-<br>
-422. #lagoon0o0 (1048) 0<br>
-+38|-1<br>
-<br>
-423. #Worthless (1048) 0<br>
-<br>
-<br>
-424. #james--- (1048) +2<br>
-+4<br>
-	10. rickss (2:6)<br>
-<br>
-425. #Supastan (1047) +7<br>
-+4<br>
-	6. jacks0nh0le (0:2)<br>
+424. #Supastan (1048) +1<br>
++5<br>
+	5. jacks0nh0le (0:2)<br>
 	10. rickss (0:3)<br>
 <br>
-426. #white_andrei (1047) +36<br>
-+1<br>
+425. #lagoon0o0 (1048) 0<br>
++38|-1<br>
 <br>
-427. #WiryBean~310 (1047) 0<br>
-+25<br>
+426. #sirnotanoob (1048) +23<br>
++9<br>
+<br>
+427. #BrownCrayon~709 (1047) -1<br>
+-1<br>
+<br>
+428. #BrownPaint~258 (1047) +4<br>
+<br>
+	4. GaudyWeasel (0:1)<br>
 	9. zamrai (0:1)<br>
 <br>
-428. #kpd (1045) +3<br>
-+35|+21|+12|+2<br>
-	7. Yamamoto79 (0:1)<br>
-	10. rickss (0:2)<br>
+429. #KERATA1 (1047) -2<br>
+0<br>
+	8. BenjiKozoR (0:1)<br>
 <br>
-429. #BrownPaint~258 (1044) 0<br>
-<br>
-	5. GaudyWeasel (0:1)<br>
+430. #WiryBean~310 (1046) 0<br>
++25<br>
+	6. Mocha960725 (1:1)<br>
 	9. zamrai (0:1)<br>
 <br>
-430. #dotard (1042) 0<br>
-+25<br>
-	5. GaudyWeasel (0:1)<br>
+431. #Diestro (1045) +3<br>
++22|-1<br>
 <br>
-431. #Diestro (1042) 0<br>
+432. #TrickyOgre~433 (1045) +9<br>
++6<br>
+<br>
+433. #goldsky (1045) +8<br>
++18<br>
+<br>
+434. #TheHugoBowl (1045) +8<br>
 +19<br>
+	10. rickss (1:1)<br>
 <br>
-432. #SlimBear~902 (1042) 0<br>
+435. #Irish47 (1044) +5<br>
++18<br>
+<br>
+436. #SappyTuba~943 (1043) +3<br>
++24|+4<br>
+	7. Yamamoto79 (0:1)<br>
+<br>
+437. #dotard (1042) 0<br>
++25<br>
+	4. GaudyWeasel (0:1)<br>
+<br>
+438. #SlimBear~902 (1042) 0<br>
 <br>
 <br>
-433. #rasul_001 (1042) +2<br>
+439. #rasul_001 (1042) 0<br>
 +12<br>
 	10. rickss (1:0)<br>
 <br>
-434. #pandaface90 (1041) +2<br>
+440. #pandaface90 (1041) 0<br>
 +19|+5<br>
 	7. Yamamoto79 (0:1)<br>
 <br>
-435. #xantor (1041) +7<br>
-<br>
-<br>
-436. #CrustyScarf~585 (1041) 0<br>
+441. #CrustyScarf~585 (1041) 0<br>
 +6<br>
 <br>
-437. #patrick56 (1040) 0<br>
+442. #patrick56 (1040) 0<br>
 +35|+28|+20<br>
 <br>
-438. #BouncyBike~393 (1040) 0<br>
+443. #BouncyBike~393 (1040) 0<br>
 <br>
-	5. GaudyWeasel (2:0)<br>
+	4. GaudyWeasel (2:0)<br>
+	6. Mocha960725 (0:1)<br>
 	7. Yamamoto79 (0:1)<br>
 <br>
-439. #SappyTuba~943 (1040) 0<br>
-+21|+2<br>
-	7. Yamamoto79 (0:1)<br>
-<br>
-440. #Irish47 (1039) +13<br>
-+13<br>
-<br>
-441. #mabb (1038) 0<br>
+444. #mabb (1038) 0<br>
 +4<br>
 	7. Yamamoto79 (0:1)<br>
 	10. rickss (0:1)<br>
 <br>
-442. #burner66 (1038) 0<br>
+445. #burner66 (1038) 0<br>
 <br>
 	10. rickss (0:1)<br>
 <br>
-443. #ExoticFlowe~759 (1038) 0<br>
+446. #ExoticFlowe~759 (1038) 0<br>
 +19<br>
 	10. rickss (1:0)<br>
 <br>
-444. #a396673531 (1037) 0<br>
-+23<br>
-	8. BenjiKozoR (0:4)<br>
-<br>
-445. #FrOMinD (1037) 0<br>
-<br>
-	7. Yamamoto79 (0:1)<br>
-	10. rickss (0:3)<br>
-<br>
-446. #TheHugoBowl (1037) +26<br>
-+11<br>
-	10. rickss (1:1)<br>
-<br>
-447. #goldsky (1037) 0<br>
-+9<br>
-<br>
-448. #rayman99 (1036) +6<br>
-+20|+1<br>
+447. #rayman99 (1037) +1<br>
++21|+2<br>
 	8. BenjiKozoR (1:2)<br>
 	10. rickss (0:1)<br>
 <br>
-449. #TrickyOgre~433 (1036) +5<br>
+448. #a396673531 (1037) 0<br>
++23<br>
+	8. BenjiKozoR (0:4)<br>
 <br>
+449. #FrOMinD (1037) 0<br>
+<br>
+	7. Yamamoto79 (0:1)<br>
+	10. rickss (0:3)<br>
 <br>
 450. #WickedEdge~646 (1036) 0<br>
 +16|+7<br>
 <br>
-451. #ilyxagospodi (1034) +1<br>
+451. #ilyxagospodi (1034) 0<br>
 +30|+29|+10<br>
-	5. GaudyWeasel (0:1)<br>
+	4. GaudyWeasel (0:1)<br>
 <br>
-452. #thi972a (1034) 0<br>
-+14|0<br>
-	5. GaudyWeasel (0:4)<br>
+452. #thi972a (1032) -2<br>
++12|-2<br>
 <br>
-453. #SilverTank~207 (1032) +17<br>
-<br>
+453. #MvDDoG (1031) +3<br>
++36|+10<br>
+	7. Yamamoto79 (0:1)<br>
+	10. rickss (0:1)<br>
 <br>
 454. #GlobalBeef~782 (1030) 0<br>
 +15|-2<br>
 <br>
 455. #JazzyWren~269 (1030) 0<br>
 <br>
-	5. GaudyWeasel (1:1)<br>
+	4. GaudyWeasel (1:1)<br>
 <br>
 456. #FuzzyHam~452 (1030) 0<br>
 +18|+1|+6<br>
-	5. GaudyWeasel (1:1)<br>
+	4. GaudyWeasel (1:1)<br>
 <br>
-457. #SilkySeal~218 (1029) +1<br>
+457. #SilkySeal~218 (1029) 0<br>
 +6<br>
-	5. GaudyWeasel (0:1)<br>
-	6. jacks0nh0le (1:0)<br>
+	4. GaudyWeasel (0:1)<br>
+	5. jacks0nh0le (1:0)<br>
 <br>
-458. #MvDDoG (1029) 0<br>
-+34|+8<br>
-	7. Yamamoto79 (0:1)<br>
-	10. rickss (0:1)<br>
-<br>
-459. #starship5000 (1028) +7<br>
+458. #starship5000 (1028) 0<br>
 +9<br>
 	10. rickss (2:1)<br>
 <br>
-460. #iTRAX (1024) 0<br>
-+13<br>
+459. #OvalMoney~226 (1027) +4<br>
+-2<br>
 <br>
-461. #ZestyPocket~679 (1024) 0<br>
-+4<br>
-	6. jacks0nh0le (0:2)<br>
+460. #azzamath (1025) +3<br>
 <br>
-462. #charun9 (1023) 0<br>
-<br>
-	7. Yamamoto79 (1:0)<br>
-<br>
-463. #samrrr (1023) 0<br>
-+18|+5<br>
-	5. GaudyWeasel (0:3)<br>
-	10. rickss (1:0)<br>
-<br>
-464. #Caliber.7 (1022) 0<br>
-+9<br>
-	10. rickss (5:4)<br>
-<br>
-465. #azzamath (1022) 0<br>
-<br>
-	5. GaudyWeasel (0:2)<br>
+	4. GaudyWeasel (0:2)<br>
 	10. rickss (0:3)<br>
 <br>
-466. #Strahvraga (1021) 0<br>
+461. #iTRAX (1024) 0<br>
++13<br>
+<br>
+462. #ZestyPocket~679 (1024) 0<br>
++4<br>
+	5. jacks0nh0le (0:2)<br>
+<br>
+463. #Caliber.7 (1023) +1<br>
++10<br>
+	10. rickss (5:4)<br>
+<br>
+464. #samrrr (1023) 0<br>
++18|+5<br>
+	4. GaudyWeasel (0:3)<br>
+	10. rickss (1:0)<br>
+<br>
+465. #Strahvraga (1021) 0<br>
 <br>
 	10. rickss (1:0)<br>
 <br>
-467. #ultaqt (1021) +6<br>
+466. #ultaqt (1020) -1<br>
 <br>
 	7. Yamamoto79 (0:3)<br>
 	10. rickss (0:1)<br>
 <br>
-468. #CrustyEagle~834 (1020) 0<br>
-+8<br>
+467. #CrustyEagle~834 (1020) -1<br>
++7<br>
 <br>
-469. #psonntag (1017) +2<br>
+468. #psonntag (1017) 0<br>
 +4<br>
 	9. zamrai (0:1)<br>
 <br>
-470. #ARandomWeeb (1015) 0<br>
+469. #ARandomWeeb (1015) 0<br>
 +2<br>
 <br>
-471. #SimbaHamud (1010) 0<br>
+470. #SimbaHamud (1010) 0<br>
 <br>
-	6. jacks0nh0le (0:2)<br>
+	5. jacks0nh0le (0:2)<br>
 	7. Yamamoto79 (0:1)<br>
 	10. rickss (2:3)<br>
 <br>
-472. #SvetRus13 (1007) 0<br>
+471. #SvetRus13 (1007) 0<br>
 <br>
-	5. GaudyWeasel (0:2)<br>
+	4. GaudyWeasel (0:2)<br>
 	10. rickss (0:1)<br>
 <br>
-473. #snailtrail (1005) 0<br>
+472. #LargeBeluga~896 (1005) +5<br>
++7|+5<br>
+	7. Yamamoto79 (0:1)<br>
+	10. rickss (0:1)<br>
+<br>
+473. #snailtrail (1004) 0<br>
 +2<br>
 <br>
-474. #muscle (1003) 0<br>
--1<br>
-	5. GaudyWeasel (1:2)<br>
+474. #Asbo (1004) +2<br>
 <br>
-475. #LargeBeluga~896 (1000) 0<br>
-+2|0<br>
-	7. Yamamoto79 (0:2)<br>
+<br>
+475. #muscle (1003) 0<br>
+-1<br>
+	4. GaudyWeasel (1:2)<br>
 <br>
 476. #NO1ACE (998) 0<br>
 +2<br>
 	10. rickss (0:3)<br>
 <br>
-477. #Slow~Poke (988) +24<br>
-+15|+20|+14|+9|-3|+5|+10|+23|+8|+4<br>
-	3. waffle~3z (0:1)<br>
+477. #Slow~Poke (994) +5<br>
++19|+14|+3|+10|+15|+29|+14|+10|-4|-4<br>
+	2. waffle~3z (0:1)<br>
+	6. Mocha960725 (0:8)<br>
 <br>
-478. #Sitting~Duck (960) -11<br>
--18|-12|-1|+6|-8|-2|-3|-13|+3|+1<br>
+478. #Sitting~Duck (943) -17<br>
+-18|-11|-25|-19|-20|-30|-14|-16|-9|+3<br>
+	6. Mocha960725 (0:16)<br>
 <br>
-479. #Home~Boy (922) -18<br>
--13|-16|-31|-27|-31|-30|-17|-15|-6|-4<br>
-	3. waffle~3z (5:22)<br>
+479. #Home~Boy (930) +8<br>
+-23|-18|-23|-22|-9|-7|+2|+4|+1|-5<br>
+	2. waffle~3z (5:23)<br>
+	6. Mocha960725 (0:10)<br>
 <br>
-480. #Do~Nothing (874) -7<br>
--26|-22|-16|-18|-11|-11|-8|-3|+1|+1<br>
+480. #Do~Nothing (870) -4<br>
+-20|-22|-16|-15|-13|-7|-3|-3|+4|+15<br>
+	6. Mocha960725 (0:5)<br>
