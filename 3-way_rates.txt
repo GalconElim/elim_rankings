@@ -1,818 +1,876 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #GreatApple~214 (1281) 0<br>
--12|-23|-22|-23|-17|-19|-20|-14|-7|-3<br>
+1. #GreatApple~214 (1281) -1<br>
+-13|-24|-23|-24|-18|-20|-20|-15|-7|-3<br>
 	2. Nimsta (2:1)<br>
 	3. jacks0nh0le (1:1)<br>
 	4. rickss (1:1)<br>
-	7. A-z-sh (3:1)<br>
-	8. Jarre (0:1)<br>
-	9. chomeur2 (1:0)<br>
+	6. Jarre (0:1)<br>
+	7. chomeur2 (1:0)<br>
+	8. flagstone (0:1)<br>
+	10. A-z-sh (3:1)<br>
 <br>
-2. #Nimsta (1276) -2<br>
-+112|+75|+52|+42|+12|-7|+15|+24|-1|0<br>
+2. #Nimsta (1277) +1<br>
++113|+75|+53|+43|+13|-6|+16|+24|-1|+1<br>
 	1. GreatApple~214 (1:2)<br>
-	4. rickss (4:2)<br>
-	6. GroovyFlame (6:2)<br>
-	7. A-z-sh (9:5)<br>
-	9. chomeur2 (1:0)<br>
-	10. Tiberius88 (1:0)<br>
+	4. rickss (1:1)<br>
+	5. GroovyFlame (6:2)<br>
+	7. chomeur2 (1:0)<br>
+	9. Tiberius88 (1:0)<br>
+	10. A-z-sh (9:4)<br>
 <br>
-3. #jacks0nh0le (1270) -1<br>
-+151|+124|+102|+84|+76|+61|+42|+33|+13|+5<br>
+3. #jacks0nh0le (1269) -1<br>
++150|+122|+101|+83|+75|+60|+41|+32|+12|+4<br>
 	1. GreatApple~214 (1:1)<br>
 	4. rickss (4:3)<br>
-	6. GroovyFlame (2:1)<br>
-	7. A-z-sh (8:3)<br>
-	8. Jarre (1:2)<br>
+	5. GroovyFlame (2:1)<br>
+	6. Jarre (1:2)<br>
+	8. flagstone (1:0)<br>
+	10. A-z-sh (8:3)<br>
 <br>
-4. #rickss (1262) -3<br>
--6|+2|-9|-4|-9|-1|+3|-2|-6|-2<br>
+4. #rickss (1264) +2<br>
+-5|+4|-7|-2|-7|+1|+5|-1|-4|-1<br>
 	1. GreatApple~214 (1:1)<br>
-	2. Nimsta (2:4)<br>
+	2. Nimsta (1:1)<br>
 	3. jacks0nh0le (3:4)<br>
-	6. GroovyFlame (4:1)<br>
-	7. A-z-sh (6:5)<br>
-	8. Jarre (3:2)<br>
-	9. chomeur2 (1:1)<br>
-	10. Tiberius88 (0:1)<br>
+	5. GroovyFlame (4:1)<br>
+	6. Jarre (3:2)<br>
+	7. chomeur2 (1:1)<br>
+	9. Tiberius88 (0:1)<br>
+	10. A-z-sh (6:5)<br>
 <br>
-5. #proxywar (1239) +1<br>
--10|+1|+7|+26|+33|+14|+17|+10|+1|+4<br>
-	9. chomeur2 (12:6)<br>
-<br>
-6. #GroovyFlame (1235) +1<br>
+5. #GroovyFlame (1235) 0<br>
 -2|-6|+2|+10|+11|-4|-4|+3|-12|-4<br>
 	2. Nimsta (2:6)<br>
 	3. jacks0nh0le (1:2)<br>
 	4. rickss (1:4)<br>
-	7. A-z-sh (3:3)<br>
+	8. flagstone (0:1)<br>
+	10. A-z-sh (3:3)<br>
 <br>
-7. #A-z-sh (1232) +2<br>
-+23|+15|+14|+13|+10|+14|+7|+7|0|+2<br>
-	1. GreatApple~214 (1:3)<br>
-	2. Nimsta (5:9)<br>
-	3. jacks0nh0le (3:8)<br>
-	4. rickss (5:6)<br>
-	6. GroovyFlame (3:3)<br>
-	8. Jarre (7:3)<br>
-	9. chomeur2 (2:3)<br>
-	10. Tiberius88 (3:1)<br>
-<br>
-8. #Jarre (1232) -1<br>
-+5|+1|+3|+12|+5|+14|+19|+13|+1|-1<br>
+6. #Jarre (1233) +1<br>
++6|+3|+5|+13|+6|+15|+20|+14|+3|0<br>
 	1. GreatApple~214 (1:0)<br>
 	3. jacks0nh0le (2:1)<br>
 	4. rickss (2:3)<br>
-	7. A-z-sh (3:7)<br>
-	10. Tiberius88 (1:0)<br>
+	9. Tiberius88 (1:0)<br>
+	10. A-z-sh (3:7)<br>
 <br>
-9. #chomeur2 (1231) +4<br>
-0|-5|-6|-17|-14|-14|0|-4|-8|+4<br>
+7. #chomeur2 (1230) -1<br>
+-1|-6|-7|-18|-15|-15|-1|-5|-9|+3<br>
 	1. GreatApple~214 (0:1)<br>
 	2. Nimsta (0:1)<br>
 	4. rickss (1:1)<br>
-	5. proxywar (6:12)<br>
-	7. A-z-sh (3:2)<br>
+	10. A-z-sh (3:2)<br>
 <br>
-10. #Tiberius88 (1227) +1<br>
-+14|+14|+22|+24|+13|+9|+18|+15|+8|+2<br>
-	2. Nimsta (0:1)<br>
-	4. rickss (1:0)<br>
-	7. A-z-sh (1:3)<br>
-	8. Jarre (0:1)<br>
-<br>
-11. #flagstone (1227) +4<br>
--5|-10|-12|-5|+3|-14|-4|-5|-6|+2<br>
+8. #flagstone (1228) 0<br>
+-5|-10|-12|-5|+3|-13|-4|-4|-5|+2<br>
 	1. GreatApple~214 (1:0)<br>
 	3. jacks0nh0le (0:1)<br>
-	6. GroovyFlame (1:0)<br>
+	5. GroovyFlame (1:0)<br>
 <br>
-12. #joropo808 (1219) 0<br>
+9. #Tiberius88 (1225) -3<br>
++11|+11|+19|+21|+10|+6|+15|+12|+5|-1<br>
+	2. Nimsta (0:1)<br>
+	4. rickss (1:0)<br>
+	6. Jarre (0:1)<br>
+	10. A-z-sh (0:2)<br>
+<br>
+10. #A-z-sh (1221) -12<br>
++3|+2|+1|-1|+2|-4|-5|-12|-10|+1<br>
+	1. GreatApple~214 (1:3)<br>
+	2. Nimsta (4:9)<br>
+	3. jacks0nh0le (3:8)<br>
+	4. rickss (5:6)<br>
+	5. GroovyFlame (3:3)<br>
+	6. Jarre (7:3)<br>
+	7. chomeur2 (2:3)<br>
+	9. Tiberius88 (2:0)<br>
+<br>
+11. #joropo808 (1219) 0<br>
 +170|+132|+94|+92|+70|+49|+36|+24<br>
 	1. GreatApple~214 (1:0)<br>
 	3. jacks0nh0le (2:0)<br>
-	4. rickss (0:3)<br>
-	6. GroovyFlame (0:1)<br>
-	7. A-z-sh (9:4)<br>
+	4. rickss (0:2)<br>
+	5. GroovyFlame (0:1)<br>
+	10. A-z-sh (9:4)<br>
 <br>
-13. #7paths (1212) +1<br>
-+193|+151|+107|+92|+79|+60|+43|+31|+17|+4<br>
+12. #7paths (1210) -1<br>
++192|+150|+106|+91|+77|+59|+41|+30|+16|+3<br>
 	3. jacks0nh0le (0:1)<br>
 	4. rickss (1:1)<br>
-	7. A-z-sh (4:6)<br>
-	8. Jarre (1:0)<br>
+	6. Jarre (1:0)<br>
+	10. A-z-sh (4:6)<br>
 <br>
-14. #googoogirl (1205) -1<br>
-+169|+123|+97|+69|+59|+20|+5<br>
-	2. Nimsta (3:3)<br>
-	7. A-z-sh (4:7)<br>
-	10. Tiberius88 (1:0)<br>
-<br>
-15. #MUF (1198) 0<br>
-+132|+102|+81|+75|+36|+15|+7|-1<br>
+13. #MUF (1205) +8<br>
++139|+110|+89|+83|+44|+23|+14|+6|+6<br>
 	3. jacks0nh0le (0:2)<br>
-	4. rickss (0:4)<br>
-	5. proxywar (3:3)<br>
-	6. GroovyFlame (0:1)<br>
-	7. A-z-sh (3:5)<br>
-	8. Jarre (0:1)<br>
-	9. chomeur2 (1:1)<br>
-	10. Tiberius88 (0:2)<br>
+	4. rickss (1:4)<br>
+	5. GroovyFlame (0:1)<br>
+	6. Jarre (0:1)<br>
+	7. chomeur2 (1:1)<br>
+	8. flagstone (0:2)<br>
+	10. A-z-sh (3:5)<br>
 <br>
-16. #FeelThaMode (1194) 0<br>
-+26|+29|+18|+3|+5|-4|-4|-10|-11|-7<br>
+14. #googoogirl (1205) 0<br>
++169|+122|+97|+68|+59|+19|+4<br>
+	2. Nimsta (3:3)<br>
+	8. flagstone (1:1)<br>
+	9. Tiberius88 (1:0)<br>
+	10. A-z-sh (4:7)<br>
+<br>
+15. #FeelThaMode (1195) +1<br>
++27|+30|+19|+4|+6|-3|-3|-9|-10|-7<br>
 	1. GreatApple~214 (0:2)<br>
 	4. rickss (1:0)<br>
-	7. A-z-sh (4:2)<br>
-	8. Jarre (1:0)<br>
+	6. Jarre (1:0)<br>
+	10. A-z-sh (4:2)<br>
 <br>
-17. #z.snafu (1194) +1<br>
+16. #z.snafu (1194) 0<br>
 -4|+8|+14|+3|-4|+3|+6|0|+17|+6<br>
 	3. jacks0nh0le (2:0)<br>
 	4. rickss (0:1)<br>
-	6. GroovyFlame (4:3)<br>
-	7. A-z-sh (4:3)<br>
-	10. Tiberius88 (2:1)<br>
+	5. GroovyFlame (4:3)<br>
+	8. flagstone (1:0)<br>
+	9. Tiberius88 (2:1)<br>
+	10. A-z-sh (4:3)<br>
 <br>
-18. #BigPoppaNuts (1192) 0<br>
-+163|+127|+101|+76|+62|+44|+41|+23|+17|+3<br>
+17. #BigPoppaNuts (1192) 0<br>
++163|+127|+101|+76|+63|+44|+41|+24|+17|+3<br>
 	1. GreatApple~214 (0:1)<br>
 	3. jacks0nh0le (0:1)<br>
-	7. A-z-sh (1:2)<br>
+	8. flagstone (0:1)<br>
+	10. A-z-sh (1:2)<br>
 <br>
-19. #xxjoshzxx (1191) 0<br>
+18. #xxjoshzxx (1191) 0<br>
 +23|+20|-5|-5|-9|-8|-3|+10|+3|-7<br>
 	2. Nimsta (1:1)<br>
 	3. jacks0nh0le (1:1)<br>
-	4. rickss (3:2)<br>
-	7. A-z-sh (11:11)<br>
-	8. Jarre (1:1)<br>
-	10. Tiberius88 (2:1)<br>
+	4. rickss (1:0)<br>
+	6. Jarre (1:1)<br>
+	8. flagstone (3:1)<br>
+	9. Tiberius88 (2:1)<br>
+	10. A-z-sh (11:10)<br>
+<br>
+19. #His-Majesty (1190) +3<br>
+-14|-28|-23|-13|-18|-21|-28|-10|-5|-1<br>
+	1. GreatApple~214 (0:1)<br>
+	2. Nimsta (2:1)<br>
+	3. jacks0nh0le (2:4)<br>
+	4. rickss (5:12)<br>
+	5. GroovyFlame (2:4)<br>
+	6. Jarre (2:2)<br>
+	7. chomeur2 (0:2)<br>
+	8. flagstone (1:3)<br>
+	10. A-z-sh (15:21)<br>
 <br>
 20. #goldfinger (1190) 0<br>
 +2|-13|-15|-24|-20|+4|+3|+8|+7|-4<br>
 	2. Nimsta (2:2)<br>
 	4. rickss (0:2)<br>
-	5. proxywar (3:3)<br>
-	6. GroovyFlame (0:2)<br>
-	7. A-z-sh (1:0)<br>
+	5. GroovyFlame (0:2)<br>
+	8. flagstone (0:1)<br>
+	10. A-z-sh (1:0)<br>
 <br>
-21. #Buz (1188) -8<br>
--27|-20|-3|+19|+8|-2|-2|-23|-22|-3<br>
-	2. Nimsta (4:7)<br>
-	3. jacks0nh0le (1:0)<br>
-	4. rickss (7:8)<br>
-	6. GroovyFlame (2:0)<br>
-	7. A-z-sh (1:2)<br>
-	8. Jarre (1:1)<br>
-	9. chomeur2 (0:1)<br>
-	10. Tiberius88 (3:1)<br>
-<br>
-22. #His-Majesty (1188) -1<br>
--17|-31|-26|-16|-21|-23|-31|-13|-8|-4<br>
-	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (2:1)<br>
-	3. jacks0nh0le (2:4)<br>
-	4. rickss (5:11)<br>
-	5. proxywar (1:0)<br>
-	6. GroovyFlame (2:5)<br>
-	7. A-z-sh (17:22)<br>
-	8. Jarre (2:2)<br>
-	9. chomeur2 (0:2)<br>
-<br>
-23. #KvL (1186) -1<br>
-+16|+3|-13|-18|-18|-17|-18|-20|-6|-2<br>
-	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (7:12)<br>
+21. #KvL (1189) +3<br>
++20|+7|-10|-15|-14|-14|-15|-16|-3|+2<br>
+	1. GreatApple~214 (3:1)<br>
+	2. Nimsta (8:13)<br>
 	3. jacks0nh0le (1:2)<br>
 	4. rickss (5:4)<br>
-	6. GroovyFlame (1:4)<br>
-	7. A-z-sh (9:11)<br>
-	8. Jarre (0:2)<br>
+	5. GroovyFlame (1:4)<br>
+	6. Jarre (0:2)<br>
+	10. A-z-sh (9:11)<br>
 <br>
-24. #UNAGUY05 (1184) -1<br>
-+7|-6|+8|+14|-3|-8|-4|+1|-5|-7<br>
+22. #Buz (1187) 0<br>
+-27|-21|-3|+18|+8|-2|-2|-24|-23|-3<br>
+	2. Nimsta (3:6)<br>
+	3. jacks0nh0le (1:0)<br>
+	4. rickss (4:7)<br>
+	5. GroovyFlame (1:0)<br>
+	6. Jarre (1:1)<br>
+	7. chomeur2 (0:1)<br>
+	8. flagstone (1:1)<br>
+	9. Tiberius88 (3:1)<br>
+	10. A-z-sh (1:2)<br>
+<br>
+23. #UNAGUY05 (1185) 0<br>
++7|-6|+8|+14|-3|-8|-4|+1|-4|-6<br>
 	2. Nimsta (0:1)<br>
 	4. rickss (0:1)<br>
-	6. GroovyFlame (1:0)<br>
-	7. A-z-sh (0:3)<br>
-	8. Jarre (0:1)<br>
-	10. Tiberius88 (1:3)<br>
+	5. GroovyFlame (1:0)<br>
+	6. Jarre (0:1)<br>
+	8. flagstone (1:1)<br>
+	9. Tiberius88 (1:3)<br>
+	10. A-z-sh (0:3)<br>
 <br>
-25. #hamidrez (1184) 0<br>
-+44|+41|+31|+22|+2|+5|+7|+18|+9|+7<br>
-	3. jacks0nh0le (0:1)<br>
-	4. rickss (1:2)<br>
-	6. GroovyFlame (1:2)<br>
-	7. A-z-sh (5:7)<br>
-<br>
-26. #feigwarze (1184) +1<br>
+24. #feigwarze (1184) 0<br>
 +140|+102|+62|+35|0<br>
 	1. GreatApple~214 (1:1)<br>
 	2. Nimsta (4:3)<br>
 	4. rickss (2:0)<br>
-	7. A-z-sh (3:1)<br>
+	8. flagstone (0:2)<br>
+	10. A-z-sh (3:1)<br>
 <br>
-27. #VNS700 (1183) 0<br>
+25. #VNS700 (1183) 0<br>
 +140|+115|+86|+59|+36|+19|-1<br>
 	1. GreatApple~214 (1:1)<br>
 	2. Nimsta (2:4)<br>
 	4. rickss (0:3)<br>
-	7. A-z-sh (0:1)<br>
-	8. Jarre (1:1)<br>
-	10. Tiberius88 (1:1)<br>
+	6. Jarre (1:1)<br>
+	9. Tiberius88 (1:1)<br>
+	10. A-z-sh (0:1)<br>
 <br>
-28. #gusgus100096 (1180) +1<br>
-+127|+89|+58|+40|+28|+26|+19|+1<br>
+26. #hamidrez (1183) -1<br>
++43|+39|+30|+21|+1|+4|+5|+16|+7|+6<br>
+	3. jacks0nh0le (0:1)<br>
+	4. rickss (1:2)<br>
+	5. GroovyFlame (1:2)<br>
+	8. flagstone (2:1)<br>
+	10. A-z-sh (5:7)<br>
+<br>
+27. #theAceofGame (1180) +5<br>
++173|+152|+138|+124|+86|+70|+49|+37|+18|+13<br>
+	1. GreatApple~214 (1:0)<br>
+	2. Nimsta (2:3)<br>
+	4. rickss (1:0)<br>
+	6. Jarre (1:0)<br>
+	8. flagstone (0:1)<br>
+	10. A-z-sh (1:3)<br>
+<br>
+28. #gusgus100096 (1179) -1<br>
++126|+88|+57|+40|+27|+25|+18|0<br>
 	1. GreatApple~214 (0:2)<br>
 	2. Nimsta (1:0)<br>
 	4. rickss (2:0)<br>
-	6. GroovyFlame (1:0)<br>
-	7. A-z-sh (6:8)<br>
+	5. GroovyFlame (1:0)<br>
+	8. flagstone (2:1)<br>
+	10. A-z-sh (6:8)<br>
 <br>
 29. #moonrocks (1177) 0<br>
 +18|+20|+26|+14|+14|+19|+8|+12|-1|+7<br>
 	1. GreatApple~214 (1:3)<br>
 	2. Nimsta (3:2)<br>
 	4. rickss (0:2)<br>
-	7. A-z-sh (5:2)<br>
-	8. Jarre (1:5)<br>
-	10. Tiberius88 (0:1)<br>
+	6. Jarre (1:5)<br>
+	9. Tiberius88 (0:1)<br>
+	10. A-z-sh (5:2)<br>
 <br>
-30. #Celica (1175) -1<br>
--8|-10|-1|-18|-25|-15|-23|-26|-19|-17<br>
+30. #Celica (1175) 0<br>
+-10|-1|-18|-25|-15|-23|-26|-19|-17|0<br>
 	2. Nimsta (1:2)<br>
 	4. rickss (1:4)<br>
-	7. A-z-sh (3:9)<br>
-	8. Jarre (0:1)<br>
-	10. Tiberius88 (0:1)<br>
+	6. Jarre (0:1)<br>
+	9. Tiberius88 (0:1)<br>
+	10. A-z-sh (4:9)<br>
 <br>
-31. #theAceofGame (1175) +2<br>
-+168|+147|+134|+119|+81|+65|+44|+32|+13|+9<br>
-	1. GreatApple~214 (1:0)<br>
-	2. Nimsta (2:3)<br>
-	4. rickss (1:0)<br>
-	5. proxywar (5:3)<br>
-	7. A-z-sh (0:2)<br>
-	8. Jarre (1:0)<br>
-<br>
-32. #TangySoda~164 (1173) 0<br>
+31. #TangySoda~164 (1173) 0<br>
 +139|+102|+63|+41|+19|+4|-23|-16|-9<br>
 	1. GreatApple~214 (0:1)<br>
 	2. Nimsta (1:3)<br>
 	3. jacks0nh0le (0:2)<br>
 	4. rickss (2:5)<br>
-	7. A-z-sh (10:6)<br>
-	8. Jarre (0:6)<br>
-	10. Tiberius88 (1:3)<br>
+	6. Jarre (0:6)<br>
+	9. Tiberius88 (1:3)<br>
+	10. A-z-sh (10:6)<br>
 <br>
-33. #tiger_style (1172) +1<br>
-+9|+7|-13|-3|+1|+8|+4|+13|+10|+11<br>
+32. #tiger_style (1173) +1<br>
++8|-12|-1|+2|+9|+5|+14|+12|+12|+2<br>
 	1. GreatApple~214 (0:1)<br>
 	2. Nimsta (0:1)<br>
-	6. GroovyFlame (0:1)<br>
-	7. A-z-sh (5:4)<br>
-	8. Jarre (0:2)<br>
+	5. GroovyFlame (0:1)<br>
+	6. Jarre (0:2)<br>
+	10. A-z-sh (5:4)<br>
 <br>
-34. #tux111 (1168) -2<br>
-+126|+97|+69|+63|+44|+35|+36|+26|+20|+10<br>
+33. #tux111 (1170) +2<br>
++128|+99|+71|+65|+46|+38|+39|+29|+22|+12<br>
 	1. GreatApple~214 (2:1)<br>
 	2. Nimsta (1:0)<br>
 	3. jacks0nh0le (0:2)<br>
 	4. rickss (1:1)<br>
-	6. GroovyFlame (1:1)<br>
-	7. A-z-sh (1:1)<br>
-	8. Jarre (0:1)<br>
-	9. chomeur2 (0:1)<br>
-	10. Tiberius88 (0:2)<br>
+	5. GroovyFlame (1:1)<br>
+	6. Jarre (0:1)<br>
+	7. chomeur2 (0:1)<br>
+	8. flagstone (0:3)<br>
+	9. Tiberius88 (0:2)<br>
+	10. A-z-sh (1:1)<br>
 <br>
-35. #stront01 (1167) +1<br>
-+8|+8|+3|+1|0|-1|-8|-5|+4|+4<br>
+34. #olo (1167) 0<br>
+-14|-4|-15|-14|-20|-14|-10|+2|+3|-2<br>
+	1. GreatApple~214 (2:2)<br>
+	4. rickss (2:1)<br>
+	6. Jarre (2:1)<br>
+	8. flagstone (1:0)<br>
+	10. A-z-sh (4:3)<br>
+<br>
+35. #stront01 (1163) -4<br>
++4|+4|-1|-3|-4|-5|-12|-10|0|-1<br>
 	1. GreatApple~214 (1:2)<br>
 	2. Nimsta (3:2)<br>
 	3. jacks0nh0le (0:1)<br>
 	4. rickss (3:3)<br>
-	6. GroovyFlame (1:1)<br>
-	7. A-z-sh (4:3)<br>
-	9. chomeur2 (0:1)<br>
-	10. Tiberius88 (0:1)<br>
+	5. GroovyFlame (1:1)<br>
+	7. chomeur2 (0:1)<br>
+	8. flagstone (1:1)<br>
+	9. Tiberius88 (0:1)<br>
+	10. A-z-sh (5:3)<br>
 <br>
-36. #olo (1166) 0<br>
--14|-5|-15|-15|-21|-14|-11|+2|+3|-2<br>
-	1. GreatApple~214 (2:2)<br>
-	4. rickss (2:1)<br>
-	7. A-z-sh (4:3)<br>
-	8. Jarre (2:1)<br>
-<br>
-37. #DeimosX (1161) 0<br>
-+147|+115|+73|+37|+18<br>
-	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (2:3)<br>
-	4. rickss (4:1)<br>
-	6. GroovyFlame (2:3)<br>
-	7. A-z-sh (2:3)<br>
-	8. Jarre (1:1)<br>
-	10. Tiberius88 (1:2)<br>
-<br>
-38. #dfyyxy (1161) 0<br>
--17|-30|-21|-17|-18|-16|-28|-35|-25|-2<br>
+36. #dfyyxy (1162) +2<br>
+-16|-28|-19|-15|-16|-14|-27|-34|-24|0<br>
 	1. GreatApple~214 (1:0)<br>
 	2. Nimsta (0:6)<br>
-	7. A-z-sh (1:4)<br>
-	9. chomeur2 (0:2)<br>
-	10. Tiberius88 (0:4)<br>
+	7. chomeur2 (0:2)<br>
+	9. Tiberius88 (0:4)<br>
+	10. A-z-sh (1:4)<br>
 <br>
-39. #pesterd (1159) 0<br>
+37. #pesterd (1159) 0<br>
 +136|+125|+104|+95|+89|+71|+48|+27|+6<br>
 	2. Nimsta (1:4)<br>
 	4. rickss (0:1)<br>
-	6. GroovyFlame (2:1)<br>
-	7. A-z-sh (7:0)<br>
-	8. Jarre (1:1)<br>
+	5. GroovyFlame (2:1)<br>
+	6. Jarre (1:1)<br>
+	10. A-z-sh (7:0)<br>
 <br>
-40. #enomeno (1159) 0<br>
+38. #DeimosX (1159) -2<br>
++145|+113|+71|+35|+16<br>
+	1. GreatApple~214 (0:1)<br>
+	2. Nimsta (1:3)<br>
+	4. rickss (2:1)<br>
+	5. GroovyFlame (1:1)<br>
+	6. Jarre (1:1)<br>
+	10. A-z-sh (1:1)<br>
+<br>
+39. #enomeno (1159) 0<br>
 +90|+80|+64|+56|+49|+41|+36|+13|+16|-2<br>
-	2. Nimsta (0:2)<br>
+	2. Nimsta (0:1)<br>
 	3. jacks0nh0le (0:1)<br>
 	4. rickss (0:1)<br>
-	6. GroovyFlame (0:1)<br>
-	7. A-z-sh (1:3)<br>
-	8. Jarre (1:1)<br>
-	9. chomeur2 (1:0)<br>
-	10. Tiberius88 (0:1)<br>
+	6. Jarre (1:1)<br>
+	7. chomeur2 (1:0)<br>
+	9. Tiberius88 (0:1)<br>
+	10. A-z-sh (1:3)<br>
 <br>
-41. #SpaceX (1158) -1<br>
-+115|+84|+57|+26|+2<br>
-	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (1:1)<br>
-	3. jacks0nh0le (0:5)<br>
-	4. rickss (3:2)<br>
-	6. GroovyFlame (0:1)<br>
-	7. A-z-sh (6:8)<br>
-	10. Tiberius88 (1:3)<br>
+40. #Matthew0898 (1159) +6<br>
++115|+71|+59|+23|+4<br>
+	2. Nimsta (0:1)<br>
+	4. rickss (1:0)<br>
+	10. A-z-sh (2:9)<br>
 <br>
-42. #BillY_Patro (1158) -1<br>
-+128|+106|+83|+69|+52|+34|+25|+8|+2|+5<br>
+41. #BillY_Patro (1159) +1<br>
++129|+107|+84|+70|+53|+34|+26|+9|+3|+6<br>
 	1. GreatApple~214 (0:1)<br>
 	4. rickss (1:1)<br>
-	6. GroovyFlame (0:1)<br>
-	7. A-z-sh (2:4)<br>
-	8. Jarre (0:1)<br>
+	5. GroovyFlame (0:1)<br>
+	6. Jarre (0:1)<br>
+	10. A-z-sh (2:4)<br>
 <br>
-43. #ShortPilot~714 (1157) -2<br>
+42. #SpaceX (1157) -1<br>
++114|+83|+56|+25|+1<br>
+	1. GreatApple~214 (0:1)<br>
+	3. jacks0nh0le (0:5)<br>
+	4. rickss (1:1)<br>
+	5. GroovyFlame (0:1)<br>
+	8. flagstone (0:1)<br>
+	9. Tiberius88 (0:2)<br>
+	10. A-z-sh (6:7)<br>
+<br>
+43. #ShortPilot~714 (1157) 0<br>
 +121|+85|+68|+40|+26|+12|+4|0|+10|+3<br>
 	2. Nimsta (0:2)<br>
 	4. rickss (1:0)<br>
-	6. GroovyFlame (0:3)<br>
-	7. A-z-sh (0:2)<br>
-	8. Jarre (0:1)<br>
-	10. Tiberius88 (1:1)<br>
+	5. GroovyFlame (0:3)<br>
+	6. Jarre (0:1)<br>
+	9. Tiberius88 (1:1)<br>
+	10. A-z-sh (0:2)<br>
 <br>
-44. #Matthew0898 (1153) -2<br>
-+109|+65|+54|+17|-2<br>
-	2. Nimsta (0:1)<br>
-	4. rickss (1:0)<br>
-	7. A-z-sh (2:9)<br>
-<br>
-45. #wizardtron (1152) 0<br>
+44. #wizardtron (1152) 0<br>
 +56|+61|+48|+29|+29|0|+2|-7|-2|-4<br>
 	1. GreatApple~214 (0:1)<br>
 	2. Nimsta (1:2)<br>
 	3. jacks0nh0le (0:2)<br>
 	4. rickss (1:1)<br>
-	7. A-z-sh (1:4)<br>
+	8. flagstone (1:1)<br>
+	10. A-z-sh (1:4)<br>
 <br>
-46. #BDAT10 (1151) 0<br>
--43|-34|-25|-23|-31|-11|-10|-12|-16|-10<br>
+45. #BDAT10 (1150) -2<br>
+-45|-36|-27|-25|-33|-13|-12|-14|-18|-12<br>
 	1. GreatApple~214 (0:2)<br>
 	2. Nimsta (1:8)<br>
 	4. rickss (0:1)<br>
-	7. A-z-sh (3:4)<br>
-	9. chomeur2 (0:1)<br>
-	10. Tiberius88 (1:0)<br>
+	7. chomeur2 (0:1)<br>
+	8. flagstone (2:3)<br>
+	9. Tiberius88 (1:0)<br>
+	10. A-z-sh (3:4)<br>
 <br>
-47. #the-jk (1149) +1<br>
-+106|+73|+56|+34|+23|+14|+29|+12|+8<br>
+46. #the-jk (1148) -1<br>
++105|+73|+56|+34|+23|+14|+28|+12|+7<br>
 	4. rickss (0:2)<br>
-	6. GroovyFlame (0:1)<br>
-	7. A-z-sh (0:6)<br>
-	10. Tiberius88 (0:1)<br>
+	5. GroovyFlame (0:1)<br>
+	8. flagstone (2:0)<br>
+	10. A-z-sh (0:6)<br>
 <br>
-48. #HairyBeetle~278 (1146) -2<br>
+47. #HairyBeetle~278 (1146) 0<br>
 +128|+101|+91|+69|+44|+17|+15|+1<br>
 	1. GreatApple~214 (5:1)<br>
 	2. Nimsta (0:1)<br>
 	4. rickss (3:4)<br>
-	6. GroovyFlame (1:2)<br>
-	7. A-z-sh (3:9)<br>
-	8. Jarre (0:1)<br>
+	5. GroovyFlame (1:2)<br>
+	6. Jarre (0:1)<br>
+	10. A-z-sh (3:9)<br>
 <br>
-49. #shadybiz (1146) -1<br>
+48. #shadybiz (1146) 0<br>
 +66|+60|+49|+29|+23|+24|+21|+14|-1|-1<br>
 	1. GreatApple~214 (1:3)<br>
 	2. Nimsta (1:2)<br>
 	4. rickss (1:4)<br>
-	6. GroovyFlame (0:1)<br>
-	7. A-z-sh (2:1)<br>
-	8. Jarre (1:3)<br>
-	10. Tiberius88 (1:0)<br>
+	5. GroovyFlame (0:1)<br>
+	6. Jarre (1:3)<br>
+	8. flagstone (2:1)<br>
+	9. Tiberius88 (1:0)<br>
+	10. A-z-sh (2:1)<br>
+<br>
+49. #BadButter~266 (1143) +2<br>
++66|+51|+48|+35|+19|+21|+13|+19|+22|+11<br>
+	4. rickss (1:0)<br>
+	6. Jarre (0:3)<br>
 <br>
 50. #TidyFox~415 (1142) 0<br>
 +128|+117|+111|+79|+67|+50|+30|+17<br>
 	1. GreatApple~214 (0:1)<br>
 	4. rickss (1:4)<br>
-	6. GroovyFlame (2:2)<br>
-	7. A-z-sh (4:13)<br>
-	8. Jarre (0:1)<br>
-	10. Tiberius88 (5:4)<br>
+	5. GroovyFlame (2:2)<br>
+	6. Jarre (0:1)<br>
+	8. flagstone (5:1)<br>
+	9. Tiberius88 (5:4)<br>
+	10. A-z-sh (4:13)<br>
 <br>
-51. #BadButter~266 (1141) 0<br>
-+64|+49|+46|+33|+17|+19|+11|+17|+20|+9<br>
+51. #Khalifah (1136) +3<br>
++132|+105|+89|+71|+66|+45|+38|+8<br>
 	2. Nimsta (0:1)<br>
-	4. rickss (1:0)<br>
-	8. Jarre (0:2)<br>
+	4. rickss (2:1)<br>
+	5. GroovyFlame (1:0)<br>
+	6. Jarre (1:0)<br>
+	9. Tiberius88 (1:0)<br>
+	10. A-z-sh (0:1)<br>
 <br>
-52. #karim3397 (1136) 0<br>
-+86|+54|+49|+38|+24|+3|+3|-3|-3|0<br>
-	1. GreatApple~214 (0:3)<br>
-	2. Nimsta (1:5)<br>
+52. #karim3397 (1135) -1<br>
++53|+49|+37|+23|+2|+2|-3|-4|0|0<br>
+	1. GreatApple~214 (0:4)<br>
+	2. Nimsta (2:5)<br>
 	3. jacks0nh0le (0:4)<br>
 	4. rickss (1:6)<br>
-	6. GroovyFlame (1:1)<br>
-	7. A-z-sh (2:5)<br>
-	8. Jarre (1:0)<br>
-	9. chomeur2 (1:0)<br>
-	10. Tiberius88 (1:3)<br>
+	5. GroovyFlame (0:1)<br>
+	6. Jarre (1:0)<br>
+	7. chomeur2 (1:0)<br>
+	8. flagstone (1:2)<br>
+	9. Tiberius88 (1:3)<br>
+	10. A-z-sh (2:5)<br>
 <br>
-53. #LavishFauce~178 (1134) -1<br>
-+90|+76|+48|+29|+23|+3|+1<br>
+53. #LavishFauce~178 (1133) -1<br>
++89|+75|+48|+28|+22|+3|+1<br>
 	1. GreatApple~214 (2:1)<br>
 	4. rickss (1:6)<br>
-	6. GroovyFlame (0:3)<br>
-	7. A-z-sh (13:13)<br>
-	8. Jarre (4:0)<br>
-	9. chomeur2 (0:1)<br>
-	10. Tiberius88 (0:3)<br>
+	5. GroovyFlame (0:3)<br>
+	6. Jarre (4:0)<br>
+	7. chomeur2 (0:1)<br>
+	9. Tiberius88 (0:2)<br>
+	10. A-z-sh (14:13)<br>
 <br>
-54. #Khalifah (1133) +2<br>
-+129|+102|+86|+69|+63|+42|+35|+5<br>
-	2. Nimsta (0:1)<br>
-	4. rickss (2:2)<br>
-	6. GroovyFlame (1:0)<br>
-	7. A-z-sh (0:1)<br>
-	8. Jarre (1:0)<br>
-<br>
-55. #aceofspa1234 (1124) 0<br>
+54. #aceofspa1234 (1124) 0<br>
 +80|+35|+10<br>
 	1. GreatApple~214 (0:2)<br>
 	2. Nimsta (2:0)<br>
 	4. rickss (1:5)<br>
-	7. A-z-sh (0:1)<br>
-	8. Jarre (1:0)<br>
-	10. Tiberius88 (0:2)<br>
+	6. Jarre (1:0)<br>
+	9. Tiberius88 (0:2)<br>
+	10. A-z-sh (0:1)<br>
 <br>
-56. #Dangit (1121) 0<br>
+55. #Dangit (1121) 0<br>
 +119|+112|+97|+81|+81|+43|+20|+19|+7<br>
 	1. GreatApple~214 (1:0)<br>
 	2. Nimsta (3:3)<br>
 	3. jacks0nh0le (1:1)<br>
-	4. rickss (0:2)<br>
-	6. GroovyFlame (0:1)<br>
-	7. A-z-sh (4:7)<br>
-	8. Jarre (1:0)<br>
-	10. Tiberius88 (0:1)<br>
+	4. rickss (0:1)<br>
+	5. GroovyFlame (0:1)<br>
+	6. Jarre (1:0)<br>
+	9. Tiberius88 (0:1)<br>
+	10. A-z-sh (4:7)<br>
 <br>
-57. #Suitor1 (1114) +3<br>
-+60|+29<br>
+56. #TinyOwl~323 (1113) +6<br>
+-29|-29|-16|-16|-1|-6|+2|-2|-5|-5<br>
+	1. GreatApple~214 (1:2)<br>
+	2. Nimsta (0:4)<br>
+	3. jacks0nh0le (1:1)<br>
+	4. rickss (1:4)<br>
+	5. GroovyFlame (3:7)<br>
+	6. Jarre (2:4)<br>
+	7. chomeur2 (0:2)<br>
+	8. flagstone (1:1)<br>
+	9. Tiberius88 (3:7)<br>
+	10. A-z-sh (10:5)<br>
+<br>
+57. #Suitor1 (1112) -2<br>
++58|+27<br>
 	2. Nimsta (2:5)<br>
 	3. jacks0nh0le (2:1)<br>
 	4. rickss (1:2)<br>
-	6. GroovyFlame (0:1)<br>
-	7. A-z-sh (4:2)<br>
-	8. Jarre (2:1)<br>
+	5. GroovyFlame (0:1)<br>
+	6. Jarre (2:1)<br>
+	10. A-z-sh (4:2)<br>
 <br>
-58. #TinyOwl~323 (1107) -1<br>
--35|-36|-22|-23|-8|-12|-4|-8|-12|-11<br>
-	1. GreatApple~214 (1:2)<br>
-	2. Nimsta (0:5)<br>
-	3. jacks0nh0le (1:1)<br>
-	4. rickss (1:4)<br>
-	6. GroovyFlame (3:7)<br>
-	7. A-z-sh (10:5)<br>
-	8. Jarre (2:4)<br>
-	9. chomeur2 (0:2)<br>
-	10. Tiberius88 (2:7)<br>
-<br>
-59. #ShaggyWasp~457 (1106) +1<br>
-+96|+80|+49|+17<br>
+58. #ShaggyWasp~457 (1105) 0<br>
++96|+80|+49|+16<br>
 	1. GreatApple~214 (1:0)<br>
 	2. Nimsta (1:4)<br>
 	4. rickss (2:3)<br>
-	6. GroovyFlame (0:1)<br>
-	7. A-z-sh (1:12)<br>
-	10. Tiberius88 (3:4)<br>
+	5. GroovyFlame (0:1)<br>
+	9. Tiberius88 (3:4)<br>
+	10. A-z-sh (1:12)<br>
 <br>
-60. #poner560 (1105) 0<br>
-+100|+78|+64|+45|+23|+6|-4|+5<br>
-	1. GreatApple~214 (3:2)<br>
-	2. Nimsta (1:3)<br>
-	3. jacks0nh0le (1:0)<br>
-	4. rickss (0:2)<br>
-	6. GroovyFlame (1:1)<br>
-	7. A-z-sh (1:1)<br>
-	8. Jarre (2:0)<br>
-	10. Tiberius88 (0:1)<br>
-<br>
-61. #Gungala (1104) -1<br>
+59. #Gungala (1104) 0<br>
 +19|+4|+4|+5|+14|+9|-2|+1|-10|-8<br>
 	2. Nimsta (0:1)<br>
 	3. jacks0nh0le (0:1)<br>
 	4. rickss (0:1)<br>
-	7. A-z-sh (0:2)<br>
-	8. Jarre (1:3)<br>
+	6. Jarre (1:3)<br>
+	8. flagstone (0:1)<br>
+	10. A-z-sh (0:2)<br>
 <br>
-62. #BraveShovel~508 (1104) 0<br>
-+81|+67|+51|+45|+40|+36|+31|+29|+20|+2<br>
+60. #poner560 (1104) -1<br>
++99|+77|+63|+44|+22|+5|-5|+4<br>
+	1. GreatApple~214 (3:2)<br>
+	2. Nimsta (1:3)<br>
+	3. jacks0nh0le (1:0)<br>
+	4. rickss (0:2)<br>
+	5. GroovyFlame (0:1)<br>
+	6. Jarre (2:0)<br>
+	8. flagstone (1:1)<br>
+	9. Tiberius88 (0:1)<br>
+	10. A-z-sh (1:1)<br>
+<br>
+61. #BraveShovel~508 (1103) -1<br>
++80|+66|+50|+44|+40|+35|+30|+28|+19|+1<br>
 	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (4:6)<br>
+	2. Nimsta (4:5)<br>
 	4. rickss (1:3)<br>
-	7. A-z-sh (2:6)<br>
-	8. Jarre (0:1)<br>
-	10. Tiberius88 (2:6)<br>
+	6. Jarre (0:1)<br>
+	9. Tiberius88 (2:3)<br>
+	10. A-z-sh (2:6)<br>
 <br>
-63. #mandreas (1102) +6<br>
-+83|+71|+35|+12<br>
-	6. GroovyFlame (1:0)<br>
-	7. A-z-sh (3:6)<br>
-	10. Tiberius88 (1:1)<br>
+62. #mandreas (1103) +1<br>
++84|+73|+36|+13<br>
+	5. GroovyFlame (1:0)<br>
+	8. flagstone (1:1)<br>
+	9. Tiberius88 (1:1)<br>
+	10. A-z-sh (3:6)<br>
 <br>
-64. #wacho789 (1101) 0<br>
-+67|+50|+24<br>
+63. #wacho789 (1100) -1<br>
++66|+49|+22<br>
 	2. Nimsta (3:3)<br>
-	6. GroovyFlame (0:2)<br>
-	7. A-z-sh (6:12)<br>
+	5. GroovyFlame (0:2)<br>
+	8. flagstone (0:2)<br>
+	10. A-z-sh (6:12)<br>
 <br>
-65. #ShinyTemper~434 (1098) +1<br>
+64. #ShinyTemper~434 (1098) 0<br>
 +65|+47|+30|-3|-8|-13|-4|-7|-3<br>
+	1. GreatApple~214 (0:1)<br>
 	3. jacks0nh0le (0:1)<br>
 	4. rickss (1:2)<br>
-	5. proxywar (3:4)<br>
-	6. GroovyFlame (0:2)<br>
-	8. Jarre (0:2)<br>
-	10. Tiberius88 (1:3)<br>
+	5. GroovyFlame (0:2)<br>
+	6. Jarre (0:2)<br>
+	8. flagstone (1:0)<br>
+	9. Tiberius88 (1:3)<br>
 <br>
-66. #ShortDust~832 (1096) -2<br>
+65. #ShortDust~832 (1096) 0<br>
 +60|+28|+8|-4<br>
 	4. rickss (3:0)<br>
-	7. A-z-sh (1:0)<br>
-	8. Jarre (2:7)<br>
-	10. Tiberius88 (0:2)<br>
+	6. Jarre (2:7)<br>
+	9. Tiberius88 (0:2)<br>
+	10. A-z-sh (1:0)<br>
 <br>
-67. #meltedcheese (1094) 0<br>
-+17|+14|-11|-20|-11|-5|-1|+14|+14|+7<br>
+66. #meltedcheese (1096) +1<br>
++18|+15|-10|-18|-10|-4|0|+16|+15|+8<br>
+	1. GreatApple~214 (1:1)<br>
 	2. Nimsta (0:1)<br>
-	7. A-z-sh (4:7)<br>
-	10. Tiberius88 (1:1)<br>
+	9. Tiberius88 (1:1)<br>
+	10. A-z-sh (4:8)<br>
 <br>
-68. #col_angus (1093) +1<br>
-+44|+17<br>
+67. #col_angus (1094) +2<br>
++45|+19<br>
 	2. Nimsta (1:1)<br>
-	6. GroovyFlame (1:1)<br>
-	10. Tiberius88 (1:1)<br>
+	5. GroovyFlame (1:1)<br>
+	9. Tiberius88 (1:1)<br>
+	10. A-z-sh (1:0)<br>
 <br>
-69. #Mika69 (1088) -3<br>
+68. #samsa88 (1090) +4<br>
++75|+49|+8<br>
+	4. rickss (2:1)<br>
+	8. flagstone (1:0)<br>
+	9. Tiberius88 (2:0)<br>
+	10. A-z-sh (3:3)<br>
+<br>
+69. #Mika69 (1088) 0<br>
 +63|+29|+22|+5|-1<br>
 	1. GreatApple~214 (0:1)<br>
 	2. Nimsta (0:4)<br>
 	3. jacks0nh0le (0:1)<br>
 	4. rickss (2:2)<br>
-	7. A-z-sh (1:6)<br>
-	10. Tiberius88 (1:1)<br>
+	9. Tiberius88 (1:1)<br>
+	10. A-z-sh (1:6)<br>
 <br>
-70. #samsa88 (1086) 0<br>
-+71|+45|+4<br>
-	4. rickss (2:1)<br>
-	7. A-z-sh (3:3)<br>
-	10. Tiberius88 (2:0)<br>
+70. #FilthyGlide~918 (1085) +8<br>
++23<br>
+	4. rickss (2:3)<br>
+	6. Jarre (2:1)<br>
+	10. A-z-sh (5:4)<br>
 <br>
-71. #scabz (1083) -2<br>
-+75|+48|+42|+31|+30|+31|+22|+23|+1<br>
-	1. GreatApple~214 (3:1)<br>
-	2. Nimsta (2:4)<br>
-	4. rickss (0:3)<br>
-	6. GroovyFlame (0:7)<br>
-	7. A-z-sh (0:7)<br>
-	8. Jarre (1:0)<br>
-	10. Tiberius88 (1:3)<br>
-<br>
-72. #P90X (1080) +1<br>
-+59|+35|+14|+2<br>
-	2. Nimsta (0:2)<br>
-	4. rickss (0:2)<br>
-	6. GroovyFlame (1:0)<br>
-	7. A-z-sh (0:1)<br>
-	8. Jarre (0:1)<br>
-	10. Tiberius88 (0:2)<br>
-<br>
-73. #white_andrei (1079) +1<br>
-+41<br>
+71. #white_andrei (1084) +4<br>
++45<br>
 	1. GreatApple~214 (2:1)<br>
 	2. Nimsta (2:0)<br>
 	4. rickss (1:0)<br>
-	6. GroovyFlame (0:2)<br>
-	7. A-z-sh (3:2)<br>
-	8. Jarre (1:1)<br>
-	10. Tiberius88 (0:1)<br>
+	5. GroovyFlame (0:2)<br>
+	6. Jarre (1:1)<br>
+	8. flagstone (2:1)<br>
+	9. Tiberius88 (0:1)<br>
+	10. A-z-sh (3:2)<br>
 <br>
-74. #f719 (1079) 0<br>
-+56|+50|+39|+25|+34|+30|-4|-28|-12|-2<br>
-	5. proxywar (2:4)<br>
-	7. A-z-sh (4:5)<br>
-	8. Jarre (0:1)<br>
-	9. chomeur2 (3:4)<br>
+72. #scabz (1083) 0<br>
++74|+47|+42|+30|+30|+30|+21|+23|+1|-2<br>
+	1. GreatApple~214 (3:1)<br>
+	2. Nimsta (2:4)<br>
+	4. rickss (0:1)<br>
+	5. GroovyFlame (0:7)<br>
+	6. Jarre (1:0)<br>
+	8. flagstone (0:2)<br>
+	9. Tiberius88 (1:3)<br>
+	10. A-z-sh (0:7)<br>
 <br>
-75. #Goober04 (1078) 0<br>
+73. #Goober04 (1078) 0<br>
 +37<br>
 	4. rickss (0:2)<br>
-	5. proxywar (0:1)<br>
-	6. GroovyFlame (1:0)<br>
-	7. A-z-sh (2:2)<br>
-	8. Jarre (0:3)<br>
+	5. GroovyFlame (1:0)<br>
+	6. Jarre (0:3)<br>
+	8. flagstone (5:1)<br>
+	10. A-z-sh (2:2)<br>
 <br>
-76. #AbsurdTiger~542 (1076) +2<br>
-+51|+21<br>
-	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (1:2)<br>
-	6. GroovyFlame (0:1)<br>
-	7. A-z-sh (1:2)<br>
-	8. Jarre (0:1)<br>
-	9. chomeur2 (0:2)<br>
-	10. Tiberius88 (1:0)<br>
-<br>
-77. #Khael- (1075) +1<br>
-+31<br>
+74. #Khael- (1077) +2<br>
++34<br>
 	2. Nimsta (2:2)<br>
 	3. jacks0nh0le (1:0)<br>
 	4. rickss (1:1)<br>
-	6. GroovyFlame (0:1)<br>
-	7. A-z-sh (1:2)<br>
-	8. Jarre (1:2)<br>
+	5. GroovyFlame (0:1)<br>
+	6. Jarre (1:2)<br>
+	10. A-z-sh (1:2)<br>
 <br>
-78. #Kotori (1074) 0<br>
+75. #AbsurdTiger~542 (1076) 0<br>
++51|+21<br>
+	1. GreatApple~214 (0:1)<br>
+	2. Nimsta (1:2)<br>
+	5. GroovyFlame (0:1)<br>
+	6. Jarre (0:1)<br>
+	7. chomeur2 (0:2)<br>
+	9. Tiberius88 (1:0)<br>
+	10. A-z-sh (1:2)<br>
+<br>
+76. #Kotori (1074) 0<br>
 +41|+9<br>
 	1. GreatApple~214 (0:2)<br>
 	2. Nimsta (1:1)<br>
 	3. jacks0nh0le (1:2)<br>
 	4. rickss (0:1)<br>
-	5. proxywar (0:1)<br>
-	7. A-z-sh (7:8)<br>
-	9. chomeur2 (2:0)<br>
+	7. chomeur2 (2:0)<br>
+	10. A-z-sh (7:8)<br>
 <br>
-79. #Olliec (1073) 0<br>
+77. #f719 (1074) -5<br>
++51|+45|+35|+21|+29|+25|-8|-33|-17|-7<br>
+	6. Jarre (0:1)<br>
+	7. chomeur2 (3:4)<br>
+	10. A-z-sh (4:5)<br>
+<br>
+78. #Olliec (1073) 0<br>
 +50|+51|+34|+36|+34|+23|+18|+6|+14|+1<br>
-	7. A-z-sh (2:2)<br>
-	10. Tiberius88 (0:2)<br>
+	9. Tiberius88 (0:2)<br>
+	10. A-z-sh (2:1)<br>
 <br>
-80. #SlickErmine~247 (1069) 0<br>
-+69|+43|+37|+35|+11|+5<br>
-	1. GreatApple~214 (4:0)<br>
-	2. Nimsta (1:1)<br>
-	10. Tiberius88 (0:2)<br>
+79. #JuicyNectar (1072) +5<br>
++43|+9<br>
+	1. GreatApple~214 (0:1)<br>
+	2. Nimsta (1:0)<br>
+	10. A-z-sh (1:1)<br>
 <br>
-81. #slava86 (1067) +2<br>
-+39|+32|+14|+7<br>
-	1. GreatApple~214 (2:1)<br>
-	2. Nimsta (3:4)<br>
-	6. GroovyFlame (0:2)<br>
-	7. A-z-sh (5:4)<br>
-	8. Jarre (0:1)<br>
-	10. Tiberius88 (1:2)<br>
-<br>
-82. #dawson27 (1067) +1<br>
-+46|+6<br>
+80. #dawson27 (1072) +5<br>
++51|+10<br>
 	1. GreatApple~214 (0:1)<br>
 	2. Nimsta (0:1)<br>
 	4. rickss (0:3)<br>
-	7. A-z-sh (5:2)<br>
+	10. A-z-sh (5:2)<br>
+<br>
+81. #SlickErmine~247 (1070) +1<br>
++69|+43|+38|+36|+12|+6<br>
+	1. GreatApple~214 (4:0)<br>
+	2. Nimsta (1:1)<br>
+	8. flagstone (1:2)<br>
+	9. Tiberius88 (0:1)<br>
+<br>
+82. #slava86 (1068) +1<br>
++39|+33|+15|+8<br>
+	1. GreatApple~214 (2:1)<br>
+	2. Nimsta (3:4)<br>
+	5. GroovyFlame (0:2)<br>
+	6. Jarre (0:1)<br>
+	9. Tiberius88 (1:2)<br>
+	10. A-z-sh (5:4)<br>
 <br>
 83. #LiquidShoe~680 (1067) 0<br>
 +35|+31|+3|+6<br>
 	4. rickss (1:1)<br>
-	7. A-z-sh (2:5)<br>
-	8. Jarre (0:2)<br>
+	6. Jarre (0:2)<br>
+	10. A-z-sh (2:5)<br>
 <br>
-84. #JuicyNectar (1067) 0<br>
-+38|+4<br>
-	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (1:2)<br>
-	7. A-z-sh (1:1)<br>
-<br>
-85. #Drotc (1064) +3<br>
-+62|+32|+19<br>
+84. #Drotc (1066) +2<br>
++64|+34|+21<br>
 	1. GreatApple~214 (0:1)<br>
 	2. Nimsta (0:6)<br>
 	4. rickss (1:0)<br>
-	6. GroovyFlame (3:2)<br>
-	7. A-z-sh (5:4)<br>
+	5. GroovyFlame (3:2)<br>
+	8. flagstone (1:1)<br>
+	10. A-z-sh (5:5)<br>
 <br>
-86. #Sourire (1053) +3<br>
-+11|+4<br>
+85. #Jackalope (1061) +10<br>
++17<br>
+	3. jacks0nh0le (1:0)<br>
+	4. rickss (1:0)<br>
+	5. GroovyFlame (4:3)<br>
+	7. chomeur2 (2:0)<br>
+	10. A-z-sh (2:0)<br>
+<br>
+86. #cswhaha (1052) +2<br>
++44|+48|+36|+17|+12|+14|+11|+19|+6|-3<br>
+	2. Nimsta (4:5)<br>
+	5. GroovyFlame (0:2)<br>
+	6. Jarre (1:4)<br>
+<br>
+87. #Sourire (1051) -2<br>
++9|+2<br>
 	1. GreatApple~214 (0:1)<br>
 	2. Nimsta (1:4)<br>
 	3. jacks0nh0le (0:1)<br>
 	4. rickss (2:2)<br>
-	7. A-z-sh (2:6)<br>
-	9. chomeur2 (3:2)<br>
+	7. chomeur2 (3:2)<br>
+	8. flagstone (1:0)<br>
+	10. A-z-sh (2:6)<br>
 <br>
-87. #cswhaha (1050) -1<br>
-+42|+46|+34|+16|+10|+13|+9|+17|+4|-5<br>
-	2. Nimsta (4:5)<br>
-	6. GroovyFlame (0:2)<br>
-	8. Jarre (1:4)<br>
+88. #ChubbyPizza~629 (1047) +4<br>
++16<br>
+	2. Nimsta (3:0)<br>
+	4. rickss (1:0)<br>
+	9. Tiberius88 (2:0)<br>
+	10. A-z-sh (1:4)<br>
 <br>
-88. #TheHugoBowl (1046) 0<br>
+89. #TheHugoBowl (1046) 0<br>
 +4<br>
 	4. rickss (1:1)<br>
-	7. A-z-sh (0:2)<br>
-	8. Jarre (0:4)<br>
-	10. Tiberius88 (0:2)<br>
+	6. Jarre (0:4)<br>
+	9. Tiberius88 (0:2)<br>
+	10. A-z-sh (0:2)<br>
 <br>
-89. #dorg (1046) 0<br>
+90. #dorg (1046) 0<br>
 +4<br>
 	1. GreatApple~214 (1:1)<br>
 	3. jacks0nh0le (0:1)<br>
-	6. GroovyFlame (1:1)<br>
-	7. A-z-sh (0:3)<br>
-	9. chomeur2 (0:4)<br>
+	5. GroovyFlame (1:1)<br>
+	7. chomeur2 (0:4)<br>
+	8. flagstone (1:0)<br>
+	10. A-z-sh (0:3)<br>
 <br>
-90. #ChubbyPizza~629 (1043) -1<br>
-+12<br>
-	2. Nimsta (3:0)<br>
-	4. rickss (1:0)<br>
-	7. A-z-sh (2:5)<br>
-	10. Tiberius88 (2:0)<br>
+91. #LordZerkee (1044) +1<br>
++15<br>
+	2. Nimsta (0:1)<br>
+	4. rickss (0:2)<br>
+	9. Tiberius88 (0:1)<br>
+	10. A-z-sh (1:2)<br>
 <br>
-91. #SkyEvil (1043) +1<br>
-+37|+25|+14<br>
+92. #SkyEvil (1043) 0<br>
++37|+24|+13|0<br>
 	2. Nimsta (2:0)<br>
 	4. rickss (0:1)<br>
-	5. proxywar (0:1)<br>
-	7. A-z-sh (0:4)<br>
-	9. chomeur2 (1:1)<br>
+	7. chomeur2 (1:1)<br>
+	10. A-z-sh (0:4)<br>
 <br>
-92. #ZekeTalentx (1034) 0<br>
-+23|+11|+1<br>
-	2. Nimsta (0:1)<br>
-	3. jacks0nh0le (1:0)<br>
-	6. GroovyFlame (0:2)<br>
+93. #papasfritas (1039) 0<br>
++1<br>
+	4. rickss (1:2)<br>
+	5. GroovyFlame (0:1)<br>
+	6. Jarre (1:2)<br>
+	10. A-z-sh (0:6)<br>
 <br>
-93. #PuffyTramp~487 (1032) +4<br>
-+9<br>
+94. #MushyRam~673 (1032) -1<br>
++3<br>
+	1. GreatApple~214 (0:1)<br>
+	4. rickss (0:1)<br>
+	6. Jarre (2:1)<br>
+	10. A-z-sh (2:1)<br>
+<br>
+95. #PuffyTramp~487 (1032) 0<br>
++10<br>
 	1. GreatApple~214 (0:1)<br>
 	2. Nimsta (0:1)<br>
 	4. rickss (1:1)<br>
-	7. A-z-sh (1:6)<br>
-	8. Jarre (1:0)<br>
+	6. Jarre (1:0)<br>
+	10. A-z-sh (1:6)<br>
 <br>
-94. #rayman99 (1027) -3<br>
-+5|-2<br>
+96. #ZekeTalentx (1032) -2<br>
++21|+9|-1<br>
+	3. jacks0nh0le (1:0)<br>
+	5. GroovyFlame (0:2)<br>
+<br>
+97. #rayman99 (1029) +2<br>
++7|0<br>
 	1. GreatApple~214 (1:5)<br>
-	7. A-z-sh (1:4)<br>
-	10. Tiberius88 (0:4)<br>
+	9. Tiberius88 (0:4)<br>
+	10. A-z-sh (1:4)<br>
 <br>
-95. #goldsky (1021) -2<br>
+98. #Asbo (1027) +3<br>
++13<br>
+	3. jacks0nh0le (0:1)<br>
+	4. rickss (0:3)<br>
+	5. GroovyFlame (1:0)<br>
+	9. Tiberius88 (1:0)<br>
+	10. A-z-sh (0:1)<br>
+<br>
+99. #goldsky (1021) 0<br>
 +8<br>
 	1. GreatApple~214 (0:1)<br>
 	2. Nimsta (1:2)<br>
-	7. A-z-sh (1:4)<br>
-	8. Jarre (0:1)<br>
-	10. Tiberius88 (0:3)<br>
+	6. Jarre (0:1)<br>
+	9. Tiberius88 (0:3)<br>
+	10. A-z-sh (1:4)<br>
 <br>
-96. #orenong (1014) 0<br>
-+60|+35|+33|+33|+32|+38|+27|+15|+9|+7<br>
-	1. GreatApple~214 (3:1)<br>
-	2. Nimsta (1:0)<br>
-	4. rickss (0:1)<br>
-	7. A-z-sh (0:1)<br>
-	8. Jarre (1:1)<br>
+100. #AbsurdBeef~399 (1013) +2<br>
++20|+4<br>
+	1. GreatApple~214 (0:1)<br>
+	9. Tiberius88 (0:4)<br>
 <br>
-97. #Blackdwarf (1013) +6<br>
+101. #Blackdwarf (1013) 0<br>
 +13<br>
 	1. GreatApple~214 (1:2)<br>
 	3. jacks0nh0le (0:1)<br>
 	4. rickss (1:0)<br>
-	7. A-z-sh (2:4)<br>
-	10. Tiberius88 (1:2)<br>
+	8. flagstone (1:1)<br>
+	9. Tiberius88 (1:2)<br>
+	10. A-z-sh (2:4)<br>
 <br>
-98. #AbsurdBeef~399 (1011) -1<br>
-+18|+2<br>
-	1. GreatApple~214 (0:1)<br>
-	10. Tiberius88 (0:4)<br>
+102. #orenong (1012) -2<br>
++58|+34|+31|+31|+30|+36|+26|+13|+7|+6<br>
+	1. GreatApple~214 (3:1)<br>
+	2. Nimsta (1:0)<br>
+	4. rickss (0:1)<br>
+	6. Jarre (1:1)<br>
+	10. A-z-sh (2:1)<br>
 <br>
-99. #FuzzyOyster~550 (1010) 0<br>
+103. #FuzzyOyster~550 (1010) 0<br>
 -3|-2<br>
 	1. GreatApple~214 (0:2)<br>
 	2. Nimsta (2:0)<br>
-	7. A-z-sh (1:1)<br>
-	10. Tiberius88 (0:1)<br>
+	9. Tiberius88 (0:1)<br>
+	10. A-z-sh (1:1)<br>
