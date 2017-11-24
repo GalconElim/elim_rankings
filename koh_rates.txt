@@ -1,1995 +1,1903 @@
 Recent win rates against top 10 over the past 21 days<br>
 <br>
-1. #ValveFury (1441) -6<br>
-+150|+127|+98|+112|+97|+87|+63|+18|+38|+28<br>
-	3. SparkyPlane (0:1)<br>
-	7. Foxylocks12 (1:0)<br>
-	10. bandy (5:6)<br>
+1. #ValveFury (1439) 0<br>
++148|+124|+95|+110|+95|+85|+61|+16|+36|+25<br>
+	4. SparkyPlane (0:1)<br>
+	8. Foxylocks12 (1:0)<br>
 <br>
-2. #AppleDragon (1398) 0<br>
--4|+9|+4|+12|+20|+22|+9|+7|+6|-2<br>
-	4. Buff-Plunts (5:3)<br>
+2. #AppleDragon (1403) +6<br>
++2|+14|+9|+18|+26|+27|+15|+13|+12|+3<br>
+	3. Buff-Plunts (5:3)<br>
 	5. croissant (2:1)<br>
+	7. Miniongalcon (3:1)<br>
 <br>
-3. #SparkyPlane (1384) +4<br>
-+34|+22|+13|+19|+15|+12|+9|+7|0|+1<br>
-	1. ValveFury (1:0)<br>
-	8. Miniongalcon (1:0)<br>
-	9. cocoadog (9:12)<br>
-	10. bandy (4:7)<br>
-<br>
-4. #Buff-Plunts (1377) 0<br>
+3. #Buff-Plunts (1377) 0<br>
 -9|+12|-5|-15|-5|-11|-12|-5|-1|-3<br>
 	2. AppleDragon (3:5)<br>
 	5. croissant (1:1)<br>
-	8. Miniongalcon (1:1)<br>
+	7. Miniongalcon (1:0)<br>
 <br>
-5. #croissant (1369) +8<br>
-+55|+48|+48|+42|+30|+26|+14|+11|+13|+1<br>
+4. #SparkyPlane (1375) -3<br>
++14|+4|+10|+7|+3|+1|-1|-8|-8|0<br>
+	1. ValveFury (1:0)<br>
+	7. Miniongalcon (1:1)<br>
+	9. cocoadog (7:11)<br>
+	10. Fluffywolf (0:1)<br>
+<br>
+5. #croissant (1368) +3<br>
++55|+47|+47|+41|+29|+26|+13|+10|+12|0<br>
 	2. AppleDragon (1:2)<br>
-	4. Buff-Plunts (1:1)<br>
-	8. Miniongalcon (2:1)<br>
-	9. cocoadog (5:3)<br>
+	3. Buff-Plunts (1:1)<br>
+	7. Miniongalcon (2:1)<br>
+	9. cocoadog (7:5)<br>
+	10. Fluffywolf (1:0)<br>
 <br>
 6. #Tylermbcs16 (1360) 0<br>
 +20|+22|-9|-60|-85|-124|-104|-73|-61|-25<br>
-	7. Foxylocks12 (4:7)<br>
+	8. Foxylocks12 (4:7)<br>
 <br>
-7. #Foxylocks12 (1347) 0<br>
-+14|+9|+30|+17|+24|+16|+6|+1|+7|-2<br>
+7. #Miniongalcon (1349) +5<br>
++11|+7|+5|-11|-31|-29|-20|-19|-30|+5<br>
+	2. AppleDragon (1:3)<br>
+	3. Buff-Plunts (0:1)<br>
+	4. SparkyPlane (1:1)<br>
+	5. croissant (1:2)<br>
+	8. Foxylocks12 (0:2)<br>
+	10. Fluffywolf (1:1)<br>
+<br>
+8. #Foxylocks12 (1348) +1<br>
++15|+11|+31|+18|+26|+18|+7|+2|+9|0<br>
 	1. ValveFury (0:1)<br>
 	6. Tylermbcs16 (7:4)<br>
-	8. Miniongalcon (2:0)<br>
+	7. Miniongalcon (2:0)<br>
 	9. cocoadog (7:9)<br>
-	10. bandy (22:13)<br>
+	10. Fluffywolf (1:0)<br>
 <br>
-8. #Miniongalcon (1346) 0<br>
-+9|+4|+3|-14|-34|-32|-23|-22|-33|+2<br>
-	3. SparkyPlane (0:1)<br>
-	4. Buff-Plunts (1:1)<br>
-	5. croissant (1:2)<br>
-	7. Foxylocks12 (0:2)<br>
-	10. bandy (1:1)<br>
+9. #cocoadog (1337) -3<br>
++106|+73|+49|+23|+15|+12|-4|+5|+2|-5<br>
+	4. SparkyPlane (11:7)<br>
+	5. croissant (5:7)<br>
+	8. Foxylocks12 (9:7)<br>
+	10. Fluffywolf (4:11)<br>
 <br>
-9. #cocoadog (1339) -1<br>
-+108|+75|+50|+24|+17|+13|-3|+6|+4|-3<br>
-	3. SparkyPlane (12:9)<br>
-	5. croissant (3:5)<br>
-	7. Foxylocks12 (9:7)<br>
-	10. bandy (28:17)<br>
-<br>
-10. #bandy (1333) -8<br>
-+11|+13|+18|+3|+17|+7|+9|-3|-2|-3<br>
-	1. ValveFury (6:5)<br>
-	3. SparkyPlane (7:4)<br>
-	7. Foxylocks12 (13:22)<br>
-	8. Miniongalcon (1:1)<br>
-	9. cocoadog (17:28)<br>
-<br>
-11. #Fluffywolf (1331) +8<br>
-+85|+81|+66|+72|+66|+43|+43|+34|+32|+20<br>
+10. #Fluffywolf (1326) -5<br>
++76|+62|+68|+62|+39|+39|+30|+28|+16|-3<br>
+	4. SparkyPlane (1:0)<br>
 	5. croissant (0:1)<br>
-	7. Foxylocks12 (0:1)<br>
-	8. Miniongalcon (1:1)<br>
+	7. Miniongalcon (1:1)<br>
+	8. Foxylocks12 (0:1)<br>
 	9. cocoadog (11:4)<br>
 <br>
-12. #deezpeanutz (1326) +3<br>
-+173|+189|+162|+132|+115|+73|+35|+20|+2|+4<br>
+11. #phantomplan (1325) 0<br>
++114|+94|+85|+75|+71|+63|+49|+23|+12|+5<br>
+	1. ValveFury (3:2)<br>
+	3. Buff-Plunts (1:1)<br>
+	4. SparkyPlane (1:2)<br>
+	5. croissant (2:2)<br>
+	6. Tylermbcs16 (2:1)<br>
+	7. Miniongalcon (2:0)<br>
+	9. cocoadog (14:17)<br>
+<br>
+12. #deezpeanutz (1324) 0<br>
++171|+187|+160|+130|+113|+71|+33|+19|0|+2<br>
 	1. ValveFury (3:2)<br>
 	5. croissant (4:0)<br>
 	6. Tylermbcs16 (2:1)<br>
-	7. Foxylocks12 (0:1)<br>
+	8. Foxylocks12 (0:1)<br>
 	9. cocoadog (1:1)<br>
-	10. bandy (4:7)<br>
 <br>
-13. #phantomplan (1326) 0<br>
-+115|+95|+86|+76|+72|+64|+50|+24|+13|+6<br>
-	1. ValveFury (3:2)<br>
-	3. SparkyPlane (4:4)<br>
-	4. Buff-Plunts (1:1)<br>
-	5. croissant (2:2)<br>
-	6. Tylermbcs16 (2:1)<br>
-	8. Miniongalcon (2:0)<br>
-	9. cocoadog (18:19)<br>
+13. #bandy (1324) -2<br>
++4|+9|-6|+8|-2|0|-12|-11|-12|-2<br>
+	1. ValveFury (8:7)<br>
+	4. SparkyPlane (8:3)<br>
+	7. Miniongalcon (1:1)<br>
+	8. Foxylocks12 (9:10)<br>
+	9. cocoadog (13:17)<br>
+	10. Fluffywolf (0:1)<br>
 <br>
-14. #JCC (1321) 0<br>
-+20|+20|+14|+18|+19|+5|+5|+1|+9|0<br>
-	3. SparkyPlane (0:1)<br>
+14. #JCC (1319) -1<br>
++19|+19|+12|+17|+18|+3|+3|-1|+8|-1<br>
+	4. SparkyPlane (0:1)<br>
 	5. croissant (0:2)<br>
 	6. Tylermbcs16 (2:2)<br>
-	7. Foxylocks12 (2:4)<br>
+	8. Foxylocks12 (2:4)<br>
 	9. cocoadog (3:7)<br>
+	10. Fluffywolf (1:0)<br>
 <br>
-15. #Vergilious (1319) 0<br>
-+25|+24|+22|+20|+10|+9|-15|-15|-8|-13<br>
-	1. ValveFury (2:1)<br>
-	3. SparkyPlane (1:0)<br>
-	5. croissant (3:2)<br>
-	6. Tylermbcs16 (0:1)<br>
-	7. Foxylocks12 (3:6)<br>
-	8. Miniongalcon (1:0)<br>
-	9. cocoadog (5:4)<br>
-	10. bandy (4:2)<br>
+15. #GroovyHam (1310) +12<br>
++45|+27|+20|+14|+16|+16|+20|+10|+2|+15<br>
+	4. SparkyPlane (7:13)<br>
+	7. Miniongalcon (1:0)<br>
+	8. Foxylocks12 (3:0)<br>
+	9. cocoadog (16:22)<br>
+	10. Fluffywolf (8:5)<br>
 <br>
-16. #bigdave82 (1312) 0<br>
-+6|+19|+22|+10|+4|-1|+10|+2|-2|+1<br>
-	3. SparkyPlane (2:2)<br>
-	5. croissant (1:1)<br>
-	7. Foxylocks12 (1:0)<br>
-	9. cocoadog (2:5)<br>
-	10. bandy (2:1)<br>
-<br>
-17. #bittertater (1309) 0<br>
+16. #bittertater (1309) 0<br>
 +45|+42|+30|+26|+24|+5|+1|+13|-1|-4<br>
 	1. ValveFury (1:2)<br>
 	6. Tylermbcs16 (1:1)<br>
-	7. Foxylocks12 (2:2)<br>
+	8. Foxylocks12 (2:2)<br>
 	9. cocoadog (5:4)<br>
-	10. bandy (9:9)<br>
+	10. Fluffywolf (3:9)<br>
 <br>
-18. #Dragonscife (1309) -1<br>
-+22|+16|+31|+29|+26|+31|+26|+16|+12|-1<br>
-	1. ValveFury (2:1)<br>
-	4. Buff-Plunts (0:1)<br>
-	5. croissant (3:1)<br>
-	9. cocoadog (6:11)<br>
-	10. bandy (5:2)<br>
-<br>
-19. #im_GORY (1306) 0<br>
-+14|+13|+6|+19|+22|+23|+20|+8|-2|-3<br>
-	2. AppleDragon (0:1)<br>
-	4. Buff-Plunts (3:4)<br>
-	8. Miniongalcon (3:0)<br>
-	9. cocoadog (3:2)<br>
-<br>
-20. #GaudyWeasel (1304) 0<br>
--19|-35|-17|-16|-4|-3|+1|+12|-3|-1<br>
-	1. ValveFury (0:1)<br>
-	2. AppleDragon (0:1)<br>
-	4. Buff-Plunts (2:1)<br>
-	5. croissant (2:3)<br>
-	7. Foxylocks12 (1:0)<br>
-	9. cocoadog (9:8)<br>
-<br>
-21. #Artimal_PL (1304) +3<br>
-+14|+3|+5|+2|+15|+20|+15|+11|+7|+1<br>
-	3. SparkyPlane (4:9)<br>
+17. #Artimal_PL (1309) -6<br>
++19|+7|+10|+7|+20|+25|+20|+16|+12|+6<br>
+	4. SparkyPlane (3:7)<br>
 	5. croissant (1:0)<br>
 	6. Tylermbcs16 (0:2)<br>
-	8. Miniongalcon (1:1)<br>
-	9. cocoadog (39:57)<br>
-	10. bandy (1:3)<br>
+	7. Miniongalcon (1:1)<br>
+	8. Foxylocks12 (0:1)<br>
+	9. cocoadog (25:46)<br>
+	10. Fluffywolf (6:8)<br>
 <br>
-22. #ki1laz0 (1304) 0<br>
-+28|+30|+29|+34|+23|+15|-1|-20|-10|-5<br>
-	3. SparkyPlane (1:1)<br>
+18. #bigdave82 (1309) -3<br>
++3|+16|+19|+7|+1|-4|+7|-1|-5|-2<br>
+	4. SparkyPlane (2:2)<br>
+	5. croissant (1:1)<br>
+	8. Foxylocks12 (1:0)<br>
+	9. cocoadog (2:5)<br>
+	10. Fluffywolf (5:4)<br>
+<br>
+19. #Dragonscife (1307) 0<br>
++21|+14|+30|+28|+25|+30|+25|+14|+11|-2<br>
+	1. ValveFury (2:1)<br>
+	3. Buff-Plunts (0:1)<br>
+	5. croissant (3:1)<br>
+	9. cocoadog (6:10)<br>
+<br>
+20. #GaudyWeasel (1307) +2<br>
+-17|-33|-14|-13|-2|0|+3|+15|-1|+1<br>
+	1. ValveFury (0:1)<br>
+	2. AppleDragon (0:1)<br>
+	3. Buff-Plunts (1:0)<br>
+	4. SparkyPlane (2:1)<br>
+	5. croissant (1:2)<br>
+	8. Foxylocks12 (1:0)<br>
+	9. cocoadog (9:8)<br>
+<br>
+21. #kittengod22 (1307) 0<br>
++111|+79|+82|+74|+49|+43|+38|+34|+24|+7<br>
+	2. AppleDragon (1:0)<br>
+<br>
+22. #ki1laz0 (1306) +2<br>
++32|+31|+36|+25|+17|+1|-18|-8|-3|-1<br>
+	4. SparkyPlane (1:1)<br>
 	5. croissant (1:6)<br>
-	8. Miniongalcon (0:1)<br>
+	7. Miniongalcon (0:1)<br>
+	10. Fluffywolf (2:2)<br>
 <br>
-23. #wibbs (1303) 0<br>
--21|-29|-30|-17|-17|-24|-9|-5|-5|+4<br>
-	3. SparkyPlane (0:3)<br>
+23. #wibbs (1303) +1<br>
+-21|-30|-30|-17|-17|-24|-9|-6|-6|+4<br>
+	4. SparkyPlane (0:3)<br>
 	5. croissant (1:3)<br>
-	7. Foxylocks12 (5:5)<br>
+	8. Foxylocks12 (5:5)<br>
 	9. cocoadog (0:1)<br>
-	10. bandy (0:1)<br>
+	10. Fluffywolf (1:0)<br>
 <br>
-24. #spookydoor (1302) -8<br>
-0|-6|+3|+14|+10|+7|-2|-5|-13|-2<br>
-	3. SparkyPlane (19:22)<br>
-	5. croissant (0:6)<br>
-	7. Foxylocks12 (16:19)<br>
-	8. Miniongalcon (2:0)<br>
-	9. cocoadog (20:31)<br>
-	10. bandy (14:9)<br>
+24. #im_GORY (1303) 0<br>
++12|+11|+4|+17|+20|+21|+18|+6|-4|-5<br>
+	2. AppleDragon (0:1)<br>
+	3. Buff-Plunts (3:3)<br>
+	7. Miniongalcon (0:1)<br>
 <br>
-25. #GroovyHam (1301) -3<br>
-+43|+36|+19|+11|+5|+8|+7|+11|+1|-7<br>
-	3. SparkyPlane (2:7)<br>
-	7. Foxylocks12 (4:0)<br>
-	8. Miniongalcon (1:0)<br>
-	9. cocoadog (19:22)<br>
-	10. bandy (3:1)<br>
+25. #Vergilious (1301) -8<br>
++6|+4|+3|-8|-9|-33|-33|-26|-31|-6<br>
+	1. ValveFury (2:1)<br>
+	4. SparkyPlane (1:0)<br>
+	5. croissant (3:2)<br>
+	6. Tylermbcs16 (0:1)<br>
+	7. Miniongalcon (1:0)<br>
+	9. cocoadog (4:3)<br>
 <br>
-26. #shaidar (1301) 0<br>
-+15|+18|+25|+25|+30|+33|+26|+20|-4|-1<br>
-	3. SparkyPlane (0:3)<br>
+26. #Disguise (1299) +2<br>
++38|+47|+35|+40|+38|+28|+12|-8|+3|-1<br>
+	2. AppleDragon (1:4)<br>
+	3. Buff-Plunts (0:1)<br>
+	4. SparkyPlane (2:1)<br>
+	5. croissant (7:5)<br>
+	7. Miniongalcon (1:1)<br>
+<br>
+27. #GO4chips (1297) -1<br>
+-24|-21|-9|-2|-14|+7|+15|+14|+20|+6<br>
+	1. ValveFury (2:0)<br>
+	2. AppleDragon (0:1)<br>
+	3. Buff-Plunts (0:3)<br>
+	4. SparkyPlane (1:0)<br>
+	5. croissant (10:8)<br>
+	6. Tylermbcs16 (6:2)<br>
+	7. Miniongalcon (1:3)<br>
+	8. Foxylocks12 (1:3)<br>
+	9. cocoadog (4:11)<br>
+<br>
+28. #PaMMiii (1297) 0<br>
++61|+55|+40|+34|+21|+23|+14|+23|+19|+3<br>
 	5. croissant (1:1)<br>
 	9. cocoadog (1:0)<br>
-	10. bandy (2:0)<br>
 <br>
-27. #PaMMiii (1298) +2<br>
-+63|+56|+42|+36|+23|+25|+16|+25|+21|+5<br>
-	5. croissant (1:1)<br>
-	9. cocoadog (1:0)<br>
-	10. bandy (3:2)<br>
-<br>
-28. #M-711 (1298) 0<br>
--15|-19|-27|-26|-17|-2|-5|+5|+6|+4<br>
-	4. Buff-Plunts (1:0)<br>
-	8. Miniongalcon (2:3)<br>
-	9. cocoadog (0:2)<br>
-<br>
-29. #hyoshy (1297) +1<br>
-+33|+26|+25|+26|+16|+9|+6|-9|0|0<br>
-	3. SparkyPlane (1:1)<br>
-	7. Foxylocks12 (1:3)<br>
-	8. Miniongalcon (0:2)<br>
-	9. cocoadog (3:3)<br>
-	10. bandy (5:9)<br>
+29. #hyoshy (1296) 0<br>
++32|+25|+23|+25|+15|+8|+5|-10|-2|-1<br>
+	4. SparkyPlane (2:1)<br>
+	7. Miniongalcon (0:1)<br>
+	8. Foxylocks12 (1:2)<br>
+	9. cocoadog (2:3)<br>
+	10. Fluffywolf (0:2)<br>
 <br>
 30. #TPSproducer (1296) -1<br>
-+45|+34|+33|+21|+13|+13|+14|+14|+3|+7<br>
-	3. SparkyPlane (4:6)<br>
-	4. Buff-Plunts (1:3)<br>
++45|+33|+32|+20|+12|+12|+14|+14|+3|+7<br>
+	2. AppleDragon (2:2)<br>
+	3. Buff-Plunts (1:3)<br>
+	4. SparkyPlane (4:6)<br>
 	5. croissant (1:2)<br>
 	9. cocoadog (1:5)<br>
-	10. bandy (1:0)<br>
+	10. Fluffywolf (1:0)<br>
 <br>
-31. #Disguise (1296) 0<br>
-+35|+43|+32|+37|+35|+25|+8|-12|0|-4<br>
-	2. AppleDragon (1:4)<br>
-	3. SparkyPlane (2:1)<br>
-	4. Buff-Plunts (0:2)<br>
-	5. croissant (5:4)<br>
-	10. bandy (0:2)<br>
-<br>
-32. #blankedout (1295) -1<br>
-+141|+119|+88|+68|+56|+47|+31|+31|+20|+5<br>
-	1. ValveFury (1:0)<br>
-	7. Foxylocks12 (2:3)<br>
-<br>
-33. #mae_1 (1295) 0<br>
-+22|+18|+21|+19|+17|+12|+14|+21|+9|-1<br>
-	1. ValveFury (3:0)<br>
-	2. AppleDragon (6:9)<br>
-	3. SparkyPlane (2:4)<br>
-	4. Buff-Plunts (2:0)<br>
-	5. croissant (6:7)<br>
-	6. Tylermbcs16 (3:4)<br>
-	7. Foxylocks12 (2:4)<br>
-	8. Miniongalcon (1:2)<br>
-	9. cocoadog (18:17)<br>
-	10. bandy (3:6)<br>
-<br>
-34. #ATN (1294) -3<br>
-+33|+31|+29|+23|+12|+10|-7|-1|+7|0<br>
-	3. SparkyPlane (0:2)<br>
-	4. Buff-Plunts (2:4)<br>
-	5. croissant (0:2)<br>
-	7. Foxylocks12 (2:1)<br>
-	8. Miniongalcon (0:2)<br>
-	9. cocoadog (9:6)<br>
-	10. bandy (3:4)<br>
-<br>
-35. #GO4chips (1293) -2<br>
--28|-25|-12|-6|-17|+3|+11|+10|+16|+2<br>
-	1. ValveFury (2:0)<br>
-	2. AppleDragon (1:3)<br>
-	3. SparkyPlane (1:0)<br>
-	4. Buff-Plunts (0:5)<br>
-	5. croissant (7:9)<br>
-	6. Tylermbcs16 (6:2)<br>
-	7. Foxylocks12 (1:3)<br>
-	8. Miniongalcon (1:2)<br>
-	9. cocoadog (4:11)<br>
-	10. bandy (0:1)<br>
-<br>
-36. #monguesto (1291) -2<br>
-+66|+59|+52|+46|+39|+32|+32|+25|+14|-6<br>
-	1. ValveFury (0:1)<br>
-	3. SparkyPlane (8:8)<br>
-	4. Buff-Plunts (4:6)<br>
-	5. croissant (4:11)<br>
-	9. cocoadog (7:6)<br>
-<br>
-37. #mygalaxy (1290) 0<br>
-+42|+31|+24|+42|+47|+38|+21|+29|+26|+17<br>
-	3. SparkyPlane (0:1)<br>
-	7. Foxylocks12 (3:1)<br>
-	8. Miniongalcon (0:1)<br>
-	10. bandy (2:3)<br>
-<br>
-38. #NaCly (1289) +6<br>
--1|+10|-5|-2|+3|-9|-4|-8|-4|+7<br>
-	3. SparkyPlane (2:8)<br>
+31. #NaCly (1296) -1<br>
++17|+2|+5|+10|-2|+3|-1|+3|+14|0<br>
+	4. SparkyPlane (3:6)<br>
 	5. croissant (0:1)<br>
 	6. Tylermbcs16 (0:1)<br>
-	7. Foxylocks12 (1:3)<br>
-	9. cocoadog (7:8)<br>
-	10. bandy (2:0)<br>
+	7. Miniongalcon (0:1)<br>
+	8. Foxylocks12 (1:3)<br>
+	9. cocoadog (7:7)<br>
+	10. Fluffywolf (0:2)<br>
 <br>
-39. #fatbucket (1287) -3<br>
-+4|-2|-2|-8|0|-1|-3|+1|+5|+6<br>
-	3. SparkyPlane (4:4)<br>
+32. #shaidar (1295) -3<br>
++9|+12|+20|+20|+24|+28|+20|+14|-9|-7<br>
+	4. SparkyPlane (0:8)<br>
+	5. croissant (1:1)<br>
+	9. cocoadog (1:0)<br>
+<br>
+33. #ATN (1291) -3<br>
++28|+26|+20|+9|+7|-10|-4|+4|-3|0<br>
+	3. Buff-Plunts (2:4)<br>
+	4. SparkyPlane (0:2)<br>
+	5. croissant (0:2)<br>
+	7. Miniongalcon (0:3)<br>
+	8. Foxylocks12 (2:1)<br>
+	9. cocoadog (9:6)<br>
+<br>
+34. #ScaryJam-406 (1291) +3<br>
++79|+90|+71|+67|+64|+43|+30|+19|+15|+9<br>
+	4. SparkyPlane (13:12)<br>
+	5. croissant (0:1)<br>
+	7. Miniongalcon (2:1)<br>
+	9. cocoadog (8:9)<br>
+	10. Fluffywolf (1:2)<br>
+<br>
+35. #mygalaxy (1290) 0<br>
++42|+31|+24|+42|+47|+38|+21|+29|+26|+17<br>
+	7. Miniongalcon (0:1)<br>
+	8. Foxylocks12 (3:1)<br>
+<br>
+36. #fatbucket (1290) -2<br>
+0|+1|-5|+2|+1|-1|+3|+7|+8|0<br>
+	4. SparkyPlane (8:3)<br>
 	6. Tylermbcs16 (3:3)<br>
-	7. Foxylocks12 (4:6)<br>
-	9. cocoadog (4:13)<br>
-	10. bandy (7:9)<br>
+	8. Foxylocks12 (4:6)<br>
+	9. cocoadog (4:14)<br>
 <br>
-40. #playin4keeps (1287) +1<br>
+37. #mae_1 (1289) -3<br>
++12|+16|+14|+11|+7|+9|+16|+4|-6|+3<br>
+	1. ValveFury (3:0)<br>
+	2. AppleDragon (4:8)<br>
+	3. Buff-Plunts (1:0)<br>
+	4. SparkyPlane (2:4)<br>
+	5. croissant (8:8)<br>
+	6. Tylermbcs16 (3:4)<br>
+	7. Miniongalcon (3:5)<br>
+	8. Foxylocks12 (2:4)<br>
+	9. cocoadog (17:19)<br>
+	10. Fluffywolf (0:1)<br>
+<br>
+38. #playin4keeps (1287) 0<br>
 +7|+16|+17|+7|+15|+22|+9|+7|+23|+1<br>
-	2. AppleDragon (3:4)<br>
+	2. AppleDragon (3:3)<br>
 	5. croissant (1:2)<br>
 	9. cocoadog (1:3)<br>
 <br>
-41. #JOW44 (1285) -3<br>
-+41|+25|+13|+29|+46|+37|+34|+27|+15|-3<br>
-	3. SparkyPlane (1:4)<br>
+39. #MagnusWH40K (1286) +2<br>
++77|+70|+65|+56|+61|+36|+21|+7|+7|-8<br>
+	1. ValveFury (0:1)<br>
+	4. SparkyPlane (1:0)<br>
 	5. croissant (0:1)<br>
-	7. Foxylocks12 (1:0)<br>
-	9. cocoadog (2:9)<br>
+	6. Tylermbcs16 (1:0)<br>
+	7. Miniongalcon (1:0)<br>
+	9. cocoadog (0:3)<br>
+	10. Fluffywolf (1:0)<br>
 <br>
-42. #steve333 (1284) -3<br>
+40. #Swim. (1285) 0<br>
++57|+47|+46|+38|+19|+14|+14|-7|-4|-6<br>
+	2. AppleDragon (0:2)<br>
+	5. croissant (2:4)<br>
+	7. Miniongalcon (1:3)<br>
+	9. cocoadog (4:0)<br>
+<br>
+41. #steve333 (1284) 0<br>
 +10|+7|+15|+4|+2|-10|-11|-3|-8|-18<br>
 	1. ValveFury (1:1)<br>
-	3. SparkyPlane (1:4)<br>
+	4. SparkyPlane (1:4)<br>
 	5. croissant (0:1)<br>
-	7. Foxylocks12 (2:3)<br>
+	8. Foxylocks12 (2:3)<br>
 	9. cocoadog (7:16)<br>
-	10. bandy (2:4)<br>
+	10. Fluffywolf (0:1)<br>
 <br>
-43. #MagnusWH40K (1283) -13<br>
-+74|+67|+62|+53|+58|+32|+18|+3|+4|-11<br>
+42. #monguesto (1284) -8<br>
++52|+46|+40|+33|+25|+26|+18|+7|-12|-1<br>
 	1. ValveFury (0:1)<br>
-	3. SparkyPlane (1:0)<br>
-	6. Tylermbcs16 (1:0)<br>
-	8. Miniongalcon (1:0)<br>
-	9. cocoadog (1:2)<br>
+	3. Buff-Plunts (4:6)<br>
+	4. SparkyPlane (8:8)<br>
+	5. croissant (4:9)<br>
+	9. cocoadog (6:4)<br>
 <br>
-44. #ScaryJam-406 (1282) 0<br>
-+70|+81|+62|+57|+55|+34|+21|+10|+6|0<br>
-	3. SparkyPlane (8:10)<br>
+43. #spookydoor (1284) -1<br>
+-24|-15|-4|-8|-11|-20|-24|-31|-20|-17<br>
+	4. SparkyPlane (9:16)<br>
+	5. croissant (0:6)<br>
+	7. Miniongalcon (1:1)<br>
+	8. Foxylocks12 (14:15)<br>
+	9. cocoadog (15:22)<br>
+	10. Fluffywolf (3:1)<br>
+<br>
+44. #JOW44 (1283) +2<br>
++39|+22|+11|+26|+44|+35|+31|+25|+13|-5<br>
+	4. SparkyPlane (2:6)<br>
 	5. croissant (0:1)<br>
-	8. Miniongalcon (2:1)<br>
-	9. cocoadog (8:9)<br>
+	8. Foxylocks12 (1:0)<br>
+	9. cocoadog (2:7)<br>
+	10. Fluffywolf (0:1)<br>
 <br>
-45. #LJpain (1280) +1<br>
-+216|+189|+156|+119|+72|+31|+11<br>
-	3. SparkyPlane (1:1)<br>
-	6. Tylermbcs16 (0:1)<br>
-	7. Foxylocks12 (4:7)<br>
-	8. Miniongalcon (2:1)<br>
-<br>
-46. #lelofadel111 (1280) -1<br>
-+12|+7|-23|-36|-61|-64|-77|-66|-42|-8<br>
+45. #theAceofGame (1280) +2<br>
++211|+175|+149|+123|+88|+81|+48|+28|+8|+12<br>
 	2. AppleDragon (0:2)<br>
-	3. SparkyPlane (10:8)<br>
-	4. Buff-Plunts (11:22)<br>
-	5. croissant (16:11)<br>
-	7. Foxylocks12 (7:10)<br>
-	8. Miniongalcon (9:7)<br>
-	9. cocoadog (20:25)<br>
-	10. bandy (4:18)<br>
-<br>
-47. #PEPrasetya (1280) -1<br>
-+18|+21|+33|+20|+20|+27|+16|+13|+6|+1<br>
-	3. SparkyPlane (0:1)<br>
-	7. Foxylocks12 (7:10)<br>
-	10. bandy (1:4)<br>
-<br>
-48. #theAceofGame (1279) 0<br>
-+211|+175|+148|+122|+87|+81|+47|+28|+8|+11<br>
-	2. AppleDragon (0:3)<br>
-	3. SparkyPlane (1:0)<br>
-	4. Buff-Plunts (5:10)<br>
-	5. croissant (0:1)<br>
+	3. Buff-Plunts (5:10)<br>
+	4. SparkyPlane (1:0)<br>
 	6. Tylermbcs16 (7:5)<br>
-	7. Foxylocks12 (1:3)<br>
+	8. Foxylocks12 (1:3)<br>
 <br>
-49. #SOfa_kingDOM (1277) -2<br>
-+9|+1|+2|0|-8|-5|-3|-11|-12|-2<br>
-	3. SparkyPlane (2:0)<br>
-	4. Buff-Plunts (0:1)<br>
-	9. cocoadog (7:5)<br>
-	10. bandy (2:1)<br>
+46. #LJpain (1279) -1<br>
++215|+188|+155|+118|+71|+30|+10<br>
+	4. SparkyPlane (1:1)<br>
+	6. Tylermbcs16 (0:1)<br>
+	7. Miniongalcon (2:1)<br>
+	8. Foxylocks12 (4:7)<br>
+	9. cocoadog (0:1)<br>
+	10. Fluffywolf (3:0)<br>
+<br>
+47. #malarkey (1278) 0<br>
++23|+25|+37|+37|+31|+22|+22|+23|+28|+10<br>
+	1. ValveFury (1:0)<br>
+	3. Buff-Plunts (0:1)<br>
+<br>
+48. #PEPrasetya (1277) 0<br>
++15|+19|+30|+17|+17|+25|+13|+10|+4|-2<br>
+	4. SparkyPlane (0:1)<br>
+	8. Foxylocks12 (7:10)<br>
+<br>
+49. #SOfa_kingDOM (1276) -1<br>
++8|0|+1|-1|-8|-5|-4|-11|-13|-2<br>
+	3. Buff-Plunts (0:1)<br>
+	4. SparkyPlane (2:0)<br>
+	9. cocoadog (5:4)<br>
 <br>
 50. #SpookyIslan~329 (1276) 0<br>
 +135|+139|+123|+103|+79|+82|+69|+44|+32|+21<br>
 	5. croissant (1:1)<br>
 <br>
-51. #malarkey (1275) +4<br>
-+20|+21|+34|+34|+27|+19|+18|+20|+24|+7<br>
-	1. ValveFury (1:0)<br>
-	4. Buff-Plunts (0:1)<br>
-<br>
-52. #ghostnixon (1272) 0<br>
-+29|+10|+16|+19|+19|+23|+13|+4|+4|+3<br>
-	3. SparkyPlane (4:2)<br>
-	9. cocoadog (1:4)<br>
-<br>
-53. #7paths (1272) 0<br>
-+9|0|+6|+15|+14|+4|-1|+11|-9|-1<br>
-	1. ValveFury (3:2)<br>
-	3. SparkyPlane (1:3)<br>
-	7. Foxylocks12 (1:0)<br>
-	9. cocoadog (1:9)<br>
-	10. bandy (5:3)<br>
-<br>
-54. #SymSymmy (1272) 0<br>
-+10|+10|+10|+16|+16|+7|+3|+10|-1|0<br>
-	2. AppleDragon (0:1)<br>
-	4. Buff-Plunts (3:3)<br>
-	8. Miniongalcon (2:0)<br>
-<br>
-55. #arviiid (1272) 0<br>
-+18|+13|+13|+16|+21|+14|-2|+7|+7|0<br>
-	3. SparkyPlane (3:10)<br>
-	4. Buff-Plunts (0:4)<br>
-	5. croissant (1:1)<br>
-	7. Foxylocks12 (1:2)<br>
-	8. Miniongalcon (1:5)<br>
-	9. cocoadog (8:9)<br>
-	10. bandy (2:4)<br>
-<br>
-56. #AnkleBreaker (1271) +10<br>
--16|-6|+12|+22|+20|+23|+14|+29|+10|+7<br>
+51. #AnkleBreaker (1274) +3<br>
+-13|-4|+14|+24|+23|+26|+17|+32|+13|+9<br>
 	1. ValveFury (13:196)<br>
 	2. AppleDragon (1:2)<br>
-	3. SparkyPlane (2:4)<br>
-	4. Buff-Plunts (1:7)<br>
+	3. Buff-Plunts (1:7)<br>
+	4. SparkyPlane (2:3)<br>
 	5. croissant (6:3)<br>
 	6. Tylermbcs16 (2:4)<br>
-	7. Foxylocks12 (5:3)<br>
-	8. Miniongalcon (1:3)<br>
+	7. Miniongalcon (1:3)<br>
+	8. Foxylocks12 (5:2)<br>
 	9. cocoadog (7:14)<br>
-	10. bandy (4:16)<br>
 <br>
-57. #mafl (1265) +3<br>
-+62|+46|+39|+51|+21|+14|+15|+8|-3|+5<br>
+52. #ghostnixon (1273) 0<br>
++31|+12|+18|+20|+21|+25|+14|+5|+6|+5<br>
+	4. SparkyPlane (6:3)<br>
+	9. cocoadog (0:4)<br>
+<br>
+53. #arviiid (1272) +4<br>
++14|+14|+17|+22|+15|-1|+8|+8|+1|+4<br>
+	3. Buff-Plunts (0:4)<br>
+	4. SparkyPlane (3:10)<br>
+	5. croissant (2:1)<br>
+	7. Miniongalcon (1:6)<br>
+	8. Foxylocks12 (1:2)<br>
+	9. cocoadog (7:7)<br>
+<br>
+54. #7paths (1272) 0<br>
++9|0|+6|+15|+14|+4|-1|+11|-9|-1<br>
+	1. ValveFury (3:2)<br>
+	4. SparkyPlane (0:2)<br>
+	8. Foxylocks12 (1:0)<br>
+	9. cocoadog (1:9)<br>
+<br>
+55. #SymSymmy (1270) -2<br>
++9|+8|+9|+14|+15|+6|+2|+9|-3|-1<br>
+	2. AppleDragon (0:7)<br>
+	3. Buff-Plunts (3:3)<br>
+	7. Miniongalcon (3:5)<br>
+<br>
+56. #largeowl (1269) +2<br>
++5|+3|+8|-12|-4|-6|+2|-8|+10|-4<br>
+<br>
+57. #mafl (1269) 0<br>
++65|+50|+42|+54|+24|+17|+19|+12|0|+8<br>
 	5. croissant (0:1)<br>
 <br>
-58. #Axitaxi (1265) -2<br>
-+1|+5|+15|+9|+9|+4|-2|-2|-10|-8<br>
-	3. SparkyPlane (4:4)<br>
-	9. cocoadog (10:19)<br>
-	10. bandy (0:3)<br>
-<br>
-59. #uranus-98 (1264) 0<br>
-+68|+58|+61|+55|+47|+39|+31|+27|+24|+13<br>
-	1. ValveFury (4:1)<br>
-	2. AppleDragon (3:3)<br>
-	4. Buff-Plunts (0:4)<br>
-	5. croissant (1:0)<br>
-	8. Miniongalcon (1:1)<br>
-	9. cocoadog (0:6)<br>
-<br>
-60. #syrius (1264) +7<br>
-+37|+33|+29|+22|+9|+16|+26|+17|+6|+3<br>
-	3. SparkyPlane (0:6)<br>
-	4. Buff-Plunts (1:0)<br>
-	5. croissant (3:3)<br>
-	6. Tylermbcs16 (1:1)<br>
-	10. bandy (7:1)<br>
-<br>
-61. #BenjiKozoR (1263) -1<br>
-+7|+4|0|+8|+2|-1|-5|-6|-12|0<br>
-	1. ValveFury (0:1)<br>
-	4. Buff-Plunts (1:1)<br>
-	7. Foxylocks12 (2:6)<br>
-	8. Miniongalcon (0:3)<br>
-	9. cocoadog (6:5)<br>
-	10. bandy (8:13)<br>
-<br>
-62. #polinom (1263) 0<br>
-+16|+16|+15|+25|+26|+2|+1|+3|+8|+1<br>
-	4. Buff-Plunts (0:1)<br>
-<br>
-63. #darth_jesse (1263) 0<br>
-+14|+12|+8|0|-10|-7|+2|-5|-5|+9<br>
-	3. SparkyPlane (0:3)<br>
-	4. Buff-Plunts (0:1)<br>
-	7. Foxylocks12 (2:10)<br>
-	9. cocoadog (1:1)<br>
-	10. bandy (3:0)<br>
-<br>
-64. #nazia13 (1263) 0<br>
--6|-25|-22|-33|-26|-28|-28|-24|-9|+3<br>
-	3. SparkyPlane (0:3)<br>
-	5. croissant (0:1)<br>
-	7. Foxylocks12 (2:5)<br>
-	8. Miniongalcon (1:1)<br>
-	10. bandy (0:6)<br>
-<br>
-65. #largeowl (1263) 0<br>
--1|-4|+1|-19|-11|-13|-4|-15|+4|-10<br>
-<br>
-66. #Joergfu (1262) +2<br>
-+57|+46|+39|+47|+40|+48|+28|+26|+22|+6<br>
-	9. cocoadog (0:1)<br>
-<br>
-67. #a_caesar (1261) -3<br>
-+1|-5|-16|-15|-25|-28|-15|-17|-8|+6<br>
+58. #a_caesar (1267) -2<br>
++1|-11|-10|-19|-22|-9|-12|-3|+11|+5<br>
 	1. ValveFury (1:1)<br>
-	3. SparkyPlane (2:0)<br>
-	7. Foxylocks12 (4:1)<br>
+	4. SparkyPlane (2:0)<br>
+	8. Foxylocks12 (4:1)<br>
 	9. cocoadog (3:1)<br>
 <br>
-68. #RaggedZebra (1260) -9<br>
-+13|+12|+15|+21|+7|+4|+17|+14|+15|-1<br>
-	1. ValveFury (0:2)<br>
-	2. AppleDragon (0:1)<br>
-	4. Buff-Plunts (1:3)<br>
-	5. croissant (2:5)<br>
-	7. Foxylocks12 (0:3)<br>
-	8. Miniongalcon (1:0)<br>
-	9. cocoadog (4:11)<br>
-	10. bandy (1:5)<br>
+59. #Axitaxi (1265) 0<br>
++1|+5|+15|+9|+9|+4|-2|-2|-10|-8<br>
+	4. SparkyPlane (3:3)<br>
+	9. cocoadog (7:17)<br>
 <br>
-69. #posteriora (1254) +2<br>
-+42|+17|+20|+11|+7|+8|+13|+23|+13|-1<br>
-	3. SparkyPlane (9:27)<br>
+60. #uranus-98 (1265) 0<br>
++68|+58|+62|+55|+48|+40|+32|+28|+25|+13<br>
+	1. ValveFury (4:1)<br>
+	2. AppleDragon (3:3)<br>
+	3. Buff-Plunts (0:4)<br>
+	5. croissant (1:0)<br>
+	7. Miniongalcon (1:1)<br>
+	9. cocoadog (0:6)<br>
+<br>
+61. #Joergfu (1264) 0<br>
++59|+47|+40|+48|+41|+49|+30|+27|+23|+7<br>
+	9. cocoadog (0:1)<br>
+<br>
+62. #darth_jesse (1263) 0<br>
++13|+11|+8|0|-11|-7|+2|-5|-5|+8<br>
+	3. Buff-Plunts (0:1)<br>
+	4. SparkyPlane (0:3)<br>
+	9. cocoadog (1:1)<br>
+<br>
+63. #posteriora (1262) +7<br>
++26|+28|+19|+16|+16|+22|+32|+21|+8|+1<br>
+	4. SparkyPlane (15:34)<br>
 	5. croissant (0:1)<br>
-	7. Foxylocks12 (0:5)<br>
-	9. cocoadog (6:9)<br>
-	10. bandy (2:0)<br>
+	8. Foxylocks12 (0:5)<br>
+	9. cocoadog (7:11)<br>
 <br>
-70. #HTALAQI (1253) 0<br>
+64. #RaggedZebra (1262) +3<br>
++14|+17|+23|+9|+6|+19|+16|+16|+1|+2<br>
+	1. ValveFury (1:3)<br>
+	2. AppleDragon (0:1)<br>
+	3. Buff-Plunts (1:3)<br>
+	5. croissant (2:5)<br>
+	7. Miniongalcon (1:0)<br>
+	8. Foxylocks12 (0:4)<br>
+	9. cocoadog (5:13)<br>
+	10. Fluffywolf (2:5)<br>
+<br>
+65. #BenjiKozoR (1262) -2<br>
++6|+2|-1|+6|+1|-3|-7|-8|-14|-2<br>
+	1. ValveFury (0:1)<br>
+	3. Buff-Plunts (1:1)<br>
+	7. Miniongalcon (0:3)<br>
+	8. Foxylocks12 (1:1)<br>
+	9. cocoadog (6:5)<br>
+<br>
+66. #polinom (1261) 0<br>
++14|+14|+13|+23|+25|+1|-1|+1|+6|-1<br>
+<br>
+67. #nazia13 (1261) -1<br>
+-7|-26|-23|-34|-27|-30|-30|-26|-10|+2<br>
+	4. SparkyPlane (0:3)<br>
+	5. croissant (0:1)<br>
+	7. Miniongalcon (0:1)<br>
+	8. Foxylocks12 (2:5)<br>
+<br>
+68. #P.Bear (1261) 0<br>
++53|+34|+29|+29|+25|+19|+26|+21|+13|+11<br>
+	9. cocoadog (2:4)<br>
+<br>
+69. #syrius (1256) -3<br>
++25|+21|+14|+2|+9|+19|+10|-2|-5|-2<br>
+	3. Buff-Plunts (1:0)<br>
+	4. SparkyPlane (0:6)<br>
+	5. croissant (3:3)<br>
+	6. Tylermbcs16 (1:1)<br>
+	7. Miniongalcon (0:2)<br>
+<br>
+70. #Dallion (1256) +6<br>
++200|+153|+114|+61|+36|+12<br>
+	1. ValveFury (1:0)<br>
+	2. AppleDragon (0:2)<br>
+	3. Buff-Plunts (3:6)<br>
+	4. SparkyPlane (6:8)<br>
+	5. croissant (2:4)<br>
+	8. Foxylocks12 (6:13)<br>
+	9. cocoadog (8:12)<br>
+	10. Fluffywolf (5:3)<br>
+<br>
+71. #GERALAN (1254) +1<br>
+-4|+2|-6|+4|+8|+10|+9|+4|0|-2<br>
+	4. SparkyPlane (0:4)<br>
+	9. cocoadog (2:4)<br>
+<br>
+72. #HTALAQI (1253) -1<br>
 -20|-23|-33|-36|-41|-26|-24|-17|-19|-15<br>
 	2. AppleDragon (1:2)<br>
-	3. SparkyPlane (0:1)<br>
-	4. Buff-Plunts (9:13)<br>
-	5. croissant (0:1)<br>
-	7. Foxylocks12 (1:1)<br>
+	3. Buff-Plunts (9:12)<br>
+	4. SparkyPlane (0:1)<br>
+	7. Miniongalcon (1:0)<br>
+	8. Foxylocks12 (1:1)<br>
 <br>
-71. #marcsync (1253) +2<br>
+73. #marcsync (1253) 0<br>
 +16|+14|+20|+28|+25|+11|+8|+4|+1|+4<br>
-	9. cocoadog (2:8)<br>
+	9. cocoadog (2:5)<br>
 <br>
-72. #GERALAN (1253) +2<br>
--5|+1|-6|+3|+7|+10|+8|+3|-1|-3<br>
-	3. SparkyPlane (0:4)<br>
-	9. cocoadog (2:4)<br>
-	10. bandy (2:0)<br>
-<br>
-73. #germanat (1252) +3<br>
-+38|+44|+35|+17|+7|+12|+1|+10|+4|+6<br>
+74. #KvL (1251) +6<br>
++74|+51|+56|+60|+39|+26|+20|-2|-6|+2<br>
 	1. ValveFury (0:1)<br>
-	6. Tylermbcs16 (1:2)<br>
-	7. Foxylocks12 (1:6)<br>
-	9. cocoadog (3:11)<br>
-	10. bandy (4:5)<br>
-<br>
-74. #ThinBear~920 (1251) +3<br>
-+53|+46|+36|+28|+32|+23|+23|+25|+22|+5<br>
-	3. SparkyPlane (4:5)<br>
-	5. croissant (0:1)<br>
-	7. Foxylocks12 (0:1)<br>
-	9. cocoadog (6:7)<br>
-<br>
-75. #resistfate88 (1250) 0<br>
-+41|+31|+9|+19|+13|+1|+5|+13|+5|-2<br>
-	1. ValveFury (3:1)<br>
-	7. Foxylocks12 (2:2)<br>
-	10. bandy (1:4)<br>
-<br>
-76. #P.Bear (1249) 0<br>
-+42|+23|+18|+18|+14|+8|+15|+10|+2|-1<br>
-	9. cocoadog (2:4)<br>
-<br>
-77. #Jamesking135 (1246) -3<br>
-+85|+74|+64|+62|+55|+28|+9|-5|-8|-4<br>
-	7. Foxylocks12 (0:1)<br>
-	10. bandy (1:2)<br>
-<br>
-78. #Almarcha (1244) +1<br>
-+125|+107|+92|+79|+74|+63|+54|+42|+18|+15<br>
-	1. ValveFury (3:2)<br>
-	7. Foxylocks12 (0:1)<br>
-	9. cocoadog (1:4)<br>
-	10. bandy (0:3)<br>
-<br>
-79. #TimDebJon (1244) +4<br>
-+25|+29|+35|+31|+25|+21|+16|-2|+2|+4<br>
-	2. AppleDragon (0:2)<br>
-	4. Buff-Plunts (2:3)<br>
-	5. croissant (0:1)<br>
-	8. Miniongalcon (2:2)<br>
 	9. cocoadog (0:3)<br>
 <br>
-80. #timogen (1243) 0<br>
+75. #resistfate88 (1250) 0<br>
++40|+31|+9|+19|+13|+1|+5|+13|+5|-3<br>
+	1. ValveFury (3:1)<br>
+	7. Miniongalcon (0:1)<br>
+	8. Foxylocks12 (2:1)<br>
+<br>
+76. #ThinBear~920 (1250) 0<br>
++52|+46|+36|+28|+32|+22|+23|+25|+22|+4<br>
+	4. SparkyPlane (4:5)<br>
+	5. croissant (0:1)<br>
+	8. Foxylocks12 (0:1)<br>
+	9. cocoadog (6:7)<br>
+	10. Fluffywolf (3:1)<br>
+<br>
+77. #germanat (1248) -1<br>
++34|+40|+31|+12|+3|+7|-3|+5|0|+2<br>
+	1. ValveFury (0:1)<br>
+	6. Tylermbcs16 (1:2)<br>
+	8. Foxylocks12 (1:6)<br>
+	9. cocoadog (3:7)<br>
+<br>
+78. #TimDebJon (1247) +1<br>
++29|+32|+39|+34|+28|+25|+20|+2|+5|+8<br>
+	2. AppleDragon (0:2)<br>
+	3. Buff-Plunts (2:2)<br>
+	5. croissant (0:1)<br>
+	7. Miniongalcon (0:2)<br>
+	9. cocoadog (0:3)<br>
+<br>
+79. #ChiefBlkHawk (1247) +3<br>
++129|+90|+91|+66|+58|+61|+45|+25|+19|+10<br>
+	8. Foxylocks12 (1:2)<br>
+<br>
+80. #Jamesking135 (1245) 0<br>
++84|+73|+64|+62|+54|+28|+8|-6|-9|-5<br>
+	8. Foxylocks12 (0:1)<br>
+<br>
+81. #ritzyTurnip (1244) +5<br>
++25|+34|+20|+13|+11|+15|+13|+17|+20|+6<br>
+	5. croissant (1:1)<br>
+	9. cocoadog (7:1)<br>
+	10. Fluffywolf (1:3)<br>
+<br>
+82. #timogen (1243) 0<br>
 +35|+36|+27|+27|+11|+4|+5|-3|-8|-1<br>
 	5. croissant (2:0)<br>
 	9. cocoadog (1:2)<br>
 <br>
-81. #Starkadh (1242) +2<br>
-+66|+57|+38|+34|+32|+36|+27|+22|+12|+8<br>
-	7. Foxylocks12 (0:1)<br>
-	9. cocoadog (0:1)<br>
-	10. bandy (0:1)<br>
-<br>
-82. #coaltrain (1242) 0<br>
-+20|-1|+9|-4|-10|-6|-18|-13|-7|-2<br>
+83. #coaltrain (1243) +1<br>
++21|0|+11|-2|-9|-5|-17|-11|-6|-1<br>
 	1. ValveFury (0:3)<br>
-	3. SparkyPlane (0:5)<br>
-	8. Miniongalcon (0:2)<br>
-	9. cocoadog (3:5)<br>
-	10. bandy (0:3)<br>
+	4. SparkyPlane (0:4)<br>
+	7. Miniongalcon (0:2)<br>
+	9. cocoadog (2:3)<br>
+	10. Fluffywolf (0:1)<br>
 <br>
-83. #Dallion (1242) -1<br>
-+186|+139|+100|+47|+22<br>
-	1. ValveFury (1:0)<br>
-	2. AppleDragon (0:2)<br>
-	3. SparkyPlane (6:8)<br>
-	4. Buff-Plunts (3:6)<br>
-	5. croissant (2:3)<br>
-	7. Foxylocks12 (6:13)<br>
-	9. cocoadog (8:12)<br>
-	10. bandy (3:0)<br>
-<br>
-84. #ritzyTurnip (1241) -3<br>
-+22|+31|+17|+10|+8|+12|+10|+14|+17|+3<br>
-	5. croissant (1:1)<br>
-	9. cocoadog (3:1)<br>
-	10. bandy (5:0)<br>
-<br>
-85. #LoudSoup~240 (1241) 0<br>
-+9|+13|+23|+17|+17|+2|-1|-3|-2|-3<br>
-	3. SparkyPlane (2:3)<br>
-	7. Foxylocks12 (8:4)<br>
-	9. cocoadog (0:2)<br>
-	10. bandy (6:10)<br>
-<br>
-86. #VNS700 (1240) 0<br>
-+30|+23|+27|+25|+5|+9|+2|-2|+10|0<br>
-	2. AppleDragon (0:2)<br>
-	4. Buff-Plunts (1:9)<br>
-	5. croissant (2:1)<br>
-	8. Miniongalcon (0:5)<br>
-	9. cocoadog (1:6)<br>
-<br>
-87. #KvL (1240) -18<br>
-+62|+63|+40|+45|+48|+27|+15|+8|-14|-18<br>
-	1. ValveFury (0:1)<br>
-	9. cocoadog (0:3)<br>
-<br>
-88. #BillyDanger (1240) 0<br>
-+119|+105|+93|+68|+65|+59|+42|+6|-10|-12<br>
-	1. ValveFury (1:2)<br>
-	7. Foxylocks12 (2:1)<br>
-	10. bandy (0:1)<br>
-<br>
-89. #ChiefBlkHawk (1238) 0<br>
-+126|+119|+80|+81|+57|+49|+51|+36|+16|+9<br>
-	7. Foxylocks12 (1:2)<br>
-<br>
-90. #AngryRobin~972 (1236) +1<br>
-+6|+1|+3|+3|-13|-2|-21|-17|-4|-2<br>
-	3. SparkyPlane (0:4)<br>
-	9. cocoadog (1:1)<br>
-<br>
-91. #james--- (1235) +7<br>
-+209|+167|+137|+107|+61|+61|+40|+32|+3<br>
-	3. SparkyPlane (0:1)<br>
-	4. Buff-Plunts (0:3)<br>
-	5. croissant (1:2)<br>
-	7. Foxylocks12 (2:5)<br>
-	8. Miniongalcon (0:2)<br>
-	9. cocoadog (2:5)<br>
-	10. bandy (3:11)<br>
-<br>
-92. #holzabee86 (1235) +2<br>
-+100|+87|+70|+46|+34|+23|-3|-22|-11|-9<br>
-	5. croissant (0:1)<br>
-	7. Foxylocks12 (0:1)<br>
-	8. Miniongalcon (1:2)<br>
-	10. bandy (3:0)<br>
-<br>
-93. #WPooh.Flute (1233) 0<br>
-+188|+138|+89|+34<br>
+84. #WPooh.Flute (1243) +1<br>
++198|+148|+98|+43<br>
 	6. Tylermbcs16 (1:0)<br>
-	7. Foxylocks12 (9:4)<br>
-	8. Miniongalcon (1:5)<br>
+	7. Miniongalcon (1:5)<br>
+	8. Foxylocks12 (9:4)<br>
 	9. cocoadog (4:2)<br>
-	10. bandy (3:3)<br>
+<br>
+85. #Almarcha (1243) 0<br>
++123|+105|+91|+78|+73|+62|+53|+40|+17|+14<br>
+	1. ValveFury (3:2)<br>
+	8. Foxylocks12 (0:1)<br>
+	9. cocoadog (1:5)<br>
+<br>
+86. #Starkadh (1241) -1<br>
++66|+56|+37|+33|+32|+36|+26|+21|+11|+7<br>
+	8. Foxylocks12 (0:1)<br>
+	9. cocoadog (0:1)<br>
+<br>
+87. #LoudSoup~240 (1241) 0<br>
++9|+13|+23|+17|+17|+2|-1|-3|-2|-3<br>
+	4. SparkyPlane (2:3)<br>
+	8. Foxylocks12 (2:1)<br>
+	9. cocoadog (0:2)<br>
+	10. Fluffywolf (0:1)<br>
+<br>
+88. #COBRA123 (1240) +38<br>
++157|+148|+148|+142|+130|+118|+105|+39|+8|+10<br>
+	2. AppleDragon (0:2)<br>
+	3. Buff-Plunts (0:3)<br>
+	4. SparkyPlane (2:29)<br>
+	5. croissant (6:21)<br>
+	7. Miniongalcon (1:7)<br>
+	8. Foxylocks12 (3:12)<br>
+	9. cocoadog (5:27)<br>
+	10. Fluffywolf (1:19)<br>
+<br>
+89. #HollowHoppe~374 (1240) -3<br>
++79|+73|+68|+55|+45|+37|+29|+16|+9|+15<br>
+	1. ValveFury (1:0)<br>
+	2. AppleDragon (0:4)<br>
+	3. Buff-Plunts (3:7)<br>
+	5. croissant (3:0)<br>
+	6. Tylermbcs16 (0:1)<br>
+	9. cocoadog (1:2)<br>
+<br>
+90. #BillyDanger (1237) -3<br>
++116|+102|+90|+65|+63|+56|+39|+3|-13|-15<br>
+	1. ValveFury (1:2)<br>
+	8. Foxylocks12 (2:1)<br>
+<br>
+91. #beeman80 (1237) +1<br>
+-4|+4|+13|+28|+27|+25|+32|+41|+35|-1<br>
+	4. SparkyPlane (2:1)<br>
+	6. Tylermbcs16 (1:3)<br>
+	9. cocoadog (3:7)<br>
+<br>
+92. #holzabee86 (1236) +1<br>
++89|+71|+47|+35|+24|-2|-21|-9|-8|-1<br>
+	5. croissant (1:2)<br>
+	7. Miniongalcon (1:2)<br>
+	8. Foxylocks12 (0:1)<br>
+<br>
+93. #james--- (1233) 0<br>
++207|+165|+135|+105|+58|+59|+38|+29|0<br>
+	3. Buff-Plunts (0:3)<br>
+	7. Miniongalcon (0:2)<br>
+	8. Foxylocks12 (2:5)<br>
+	9. cocoadog (2:5)<br>
 <br>
 94. #zunar (1233) 0<br>
 -47|-30|-36|-47|-55|-43|-36|-33|-9|-6<br>
 	1. ValveFury (3:3)<br>
-	3. SparkyPlane (12:14)<br>
-	4. Buff-Plunts (3:1)<br>
+	3. Buff-Plunts (3:1)<br>
+	4. SparkyPlane (12:14)<br>
 	5. croissant (2:5)<br>
-	7. Foxylocks12 (1:9)<br>
-	8. Miniongalcon (0:1)<br>
+	7. Miniongalcon (0:1)<br>
+	8. Foxylocks12 (1:9)<br>
 	9. cocoadog (9:22)<br>
-	10. bandy (3:9)<br>
+	10. Fluffywolf (3:10)<br>
 <br>
-95. #chabdura (1231) 0<br>
+95. #VNS700 (1232) -8<br>
++22|+15|+19|+18|-2|+1|-6|-10|+2|-7<br>
+	2. AppleDragon (0:2)<br>
+	3. Buff-Plunts (1:9)<br>
+	5. croissant (2:2)<br>
+	7. Miniongalcon (2:8)<br>
+	9. cocoadog (2:5)<br>
+<br>
+96. #chabdura (1231) 0<br>
 +40|+46|+39|+42|+40|+29|+13|+11|+3|+3<br>
 	9. cocoadog (0:2)<br>
 <br>
-96. #PursuitOfPow (1231) -11<br>
+97. #AngryRobin~972 (1231) -4<br>
++1|-4|-2|-2|-18|-7|-26|-22|-8|-7<br>
+	4. SparkyPlane (1:2)<br>
+	9. cocoadog (1:1)<br>
+	10. Fluffywolf (3:0)<br>
+<br>
+98. #PursuitOfPow (1231) 0<br>
 -39|-31|-30|-39|-31|-27|-17|-10|-10|-7<br>
-	3. SparkyPlane (1:0)<br>
-	9. cocoadog (3:10)<br>
-	10. bandy (9:14)<br>
+	4. SparkyPlane (1:0)<br>
+	9. cocoadog (2:9)<br>
 <br>
-97. #SadVest~463 (1230) +2<br>
-+44|+41|+34|+29|+18|+11|+13|+4|-2|+2<br>
-	3. SparkyPlane (2:0)<br>
-	9. cocoadog (2:6)<br>
-	10. bandy (6:9)<br>
+99. #SadVest~463 (1230) 0<br>
++44|+42|+35|+29|+18|+11|+13|+4|-2|+3<br>
+	4. SparkyPlane (2:0)<br>
+	9. cocoadog (0:2)<br>
 <br>
-98. #His-Majesty (1229) -1<br>
-+63|+51|+41|+33|+14|+3|-3|-11|-10|-2<br>
-	4. Buff-Plunts (3:0)<br>
-	7. Foxylocks12 (1:0)<br>
-	9. cocoadog (0:1)<br>
+100. #TaoisticVoid (1228) +4<br>
++164|+133|+105|+93|+75|+52|+41|+21|+14|-1<br>
+	4. SparkyPlane (0:5)<br>
+	8. Foxylocks12 (1:3)<br>
+	9. cocoadog (0:4)<br>
+	10. Fluffywolf (0:1)<br>
 <br>
-99. #beeman80 (1228) -2<br>
--12|-4|+5|+19|+19|+17|+23|+33|+27|-10<br>
-	3. SparkyPlane (5:3)<br>
-	6. Tylermbcs16 (1:3)<br>
-	9. cocoadog (3:7)<br>
-	10. bandy (3:11)<br>
-<br>
-100. #Kaborage (1228) +1<br>
-+105|+73|+74|+66|+53|+32|+28|+19|+18|+7<br>
-	4. Buff-Plunts (0:1)<br>
-	7. Foxylocks12 (0:1)<br>
+101. #kaboRAGE (1226) -2<br>
++103|+71|+72|+65|+51|+30|+26|+17|+16|+5<br>
+	3. Buff-Plunts (0:1)<br>
+	8. Foxylocks12 (0:1)<br>
 	9. cocoadog (0:5)<br>
 <br>
-101. #GenBelIblis (1226) 0<br>
+102. #gmclarty (1226) +2<br>
++31|+39|+33|+30|+22|+21|+18|+15|-4|-1<br>
+	4. SparkyPlane (0:2)<br>
+	8. Foxylocks12 (3:5)<br>
+	9. cocoadog (1:3)<br>
+<br>
+103. #GenBelIblis (1226) 0<br>
 +15|+5|-4|+9|+2|-6|-1|-6|-9|-3<br>
 	2. AppleDragon (1:0)<br>
 	5. croissant (2:1)<br>
-	7. Foxylocks12 (1:0)<br>
-	8. Miniongalcon (0:2)<br>
+	7. Miniongalcon (0:2)<br>
+	8. Foxylocks12 (1:0)<br>
 <br>
-102. #gmclarty (1226) -9<br>
-+31|+39|+33|+29|+22|+21|+18|+15|-4|-1<br>
-	3. SparkyPlane (0:2)<br>
-	5. croissant (1:1)<br>
-	7. Foxylocks12 (3:5)<br>
-	9. cocoadog (2:5)<br>
-	10. bandy (4:8)<br>
-<br>
-103. #HollowHoppe~374 (1224) -2<br>
-+77|+63|+57|+52|+39|+29|+21|+14|0|-7<br>
-	1. ValveFury (1:0)<br>
-	2. AppleDragon (0:3)<br>
-	4. Buff-Plunts (4:8)<br>
-	5. croissant (4:0)<br>
-	6. Tylermbcs16 (0:1)<br>
-	8. Miniongalcon (0:2)<br>
+104. #MojoRising (1223) +16<br>
++64|+43|+38|+43|+45|+26|+32|+24|+14|-4<br>
+	5. croissant (0:1)<br>
+	7. Miniongalcon (0:1)<br>
+	8. Foxylocks12 (0:1)<br>
 	9. cocoadog (1:2)<br>
 <br>
-104. #Kitini (1223) -1<br>
+105. #Kitini (1223) 0<br>
 -12|-9|+1|+6|+12|+10|+10|-9|-8|-6<br>
-	3. SparkyPlane (0:2)<br>
 	5. croissant (3:3)<br>
 	6. Tylermbcs16 (0:2)<br>
-	7. Foxylocks12 (1:2)<br>
-	9. cocoadog (3:4)<br>
-	10. bandy (0:1)<br>
+	8. Foxylocks12 (1:2)<br>
+	9. cocoadog (0:3)<br>
+	10. Fluffywolf (0:1)<br>
 <br>
-105. #sacore (1223) +4<br>
-+13|+5|+5|+4|+7|-15|-15|-12|+3|+1<br>
+106. #sacore (1223) 0<br>
++13|+5|+5|+4|+6|-15|-16|-13|+3|+1<br>
 	1. ValveFury (2:2)<br>
-	3. SparkyPlane (1:0)<br>
+	4. SparkyPlane (1:0)<br>
 	5. croissant (0:1)<br>
 	6. Tylermbcs16 (0:1)<br>
 	9. cocoadog (0:1)<br>
-	10. bandy (0:1)<br>
-<br>
-106. #TaoisticVoid (1223) +6<br>
-+181|+159|+128|+100|+88|+70|+47|+36|+15|+9<br>
-	3. SparkyPlane (0:4)<br>
-	5. croissant (0:1)<br>
-	7. Foxylocks12 (2:3)<br>
-	9. cocoadog (0:4)<br>
-	10. bandy (4:4)<br>
 <br>
 107. #Willjax (1222) 0<br>
-+43|+53|+35|+23|+30|+30|+31|+34|+20|-1<br>
-	3. SparkyPlane (3:8)<br>
++43|+52|+34|+23|+29|+30|+31|+34|+19|-2<br>
+	4. SparkyPlane (3:8)<br>
 	5. croissant (0:1)<br>
 	9. cocoadog (2:1)<br>
-	10. bandy (1:3)<br>
+	10. Fluffywolf (0:1)<br>
 <br>
-108. #batman7000 (1217) +5<br>
-+100|+95|+60|+48|+39|+36|+26|+20|+4|+5<br>
-	4. Buff-Plunts (0:2)<br>
-	5. croissant (1:2)<br>
-	7. Foxylocks12 (3:3)<br>
-	9. cocoadog (0:6)<br>
-	10. bandy (0:1)<br>
+108. #His-Majesty (1220) -4<br>
++55|+43|+32|+25|+5|-5|-12|-20|-19|-11<br>
+	3. Buff-Plunts (3:0)<br>
+	5. croissant (0:1)<br>
+	8. Foxylocks12 (1:0)<br>
+	9. cocoadog (0:1)<br>
 <br>
-109. #TedTheoLogan (1217) 0<br>
-+181|+149|+129|+113|+74|+38|+20|+12|0<br>
+109. #batman7000 (1219) 0<br>
++102|+97|+62|+50|+41|+38|+28|+22|+6|+7<br>
+	3. Buff-Plunts (0:2)<br>
+	5. croissant (1:0)<br>
+	8. Foxylocks12 (3:3)<br>
+	9. cocoadog (0:2)<br>
+<br>
+110. #TedTheoLogan (1216) 0<br>
++181|+148|+128|+113|+74|+38|+20|+12|0<br>
 	1. ValveFury (1:3)<br>
-	3. SparkyPlane (1:0)<br>
 	5. croissant (0:1)<br>
 	6. Tylermbcs16 (1:2)<br>
 	9. cocoadog (2:3)<br>
 <br>
-110. #MaltonnA (1214) +1<br>
-+177|+169|+153|+127|+93|+77|+59|+52|+42|+18<br>
-	3. SparkyPlane (0:1)<br>
-	4. Buff-Plunts (0:1)<br>
+111. #creaky2 (1216) +3<br>
++50|+51|+50|+40|+38|+36|+17|+11|+17|+9<br>
+	4. SparkyPlane (0:2)<br>
+	9. cocoadog (2:6)<br>
+<br>
+112. #MaltonnA (1213) 0<br>
++176|+169|+153|+126|+92|+76|+58|+51|+42|+17<br>
+	3. Buff-Plunts (0:1)<br>
+	4. SparkyPlane (0:1)<br>
 	5. croissant (5:3)<br>
-	7. Foxylocks12 (0:2)<br>
-	8. Miniongalcon (0:2)<br>
+	7. Miniongalcon (0:2)<br>
+	8. Foxylocks12 (0:2)<br>
 <br>
-111. #BigPoppaNuts (1213) +2<br>
-+36|+27|+36|+37|+38|+22|+11|+10|+13|-3<br>
+113. #BigPoppaNuts (1212) +1<br>
++35|+26|+36|+37|+38|+21|+10|+9|+13|-4<br>
 <br>
-112. #PlzNo_ (1211) 0<br>
-+41|+20|+2|-9|-9|-10|-5|-5|+1|+3<br>
+114. #PlzNo_ (1212) 0<br>
++42|+21|+2|-9|-8|-10|-4|-4|+2|+4<br>
 	2. AppleDragon (1:8)<br>
-	3. SparkyPlane (1:1)<br>
-	4. Buff-Plunts (0:1)<br>
+	3. Buff-Plunts (0:1)<br>
+	4. SparkyPlane (1:1)<br>
 	5. croissant (0:2)<br>
 	9. cocoadog (0:2)<br>
-	10. bandy (1:5)<br>
 <br>
-113. #Tempo12 (1211) +5<br>
-+171|+153|+132|+111|+109|+86|+75|+58|+46|+13<br>
-	2. AppleDragon (0:2)<br>
-	4. Buff-Plunts (4:4)<br>
-	5. croissant (2:2)<br>
-	7. Foxylocks12 (1:1)<br>
-	9. cocoadog (2:0)<br>
-	10. bandy (2:0)<br>
-<br>
-114. #BDES (1211) 0<br>
+115. #BDES (1211) 0<br>
 +52|+33|+18|+18|+24|+20|+21|+28|+2|+13<br>
-	3. SparkyPlane (1:1)<br>
-	7. Foxylocks12 (4:9)<br>
+	4. SparkyPlane (1:1)<br>
+	8. Foxylocks12 (4:9)<br>
+	10. Fluffywolf (1:0)<br>
 <br>
-115. #Saggycrayon (1209) 0<br>
-+160|+124|+98|+77|+41|+21|+4<br>
+116. #Tempo12 (1209) +1<br>
++151|+131|+109|+108|+84|+73|+56|+44|+12|0<br>
+	2. AppleDragon (0:2)<br>
+	3. Buff-Plunts (4:4)<br>
+	5. croissant (2:2)<br>
+	7. Miniongalcon (0:1)<br>
+	8. Foxylocks12 (1:1)<br>
+	9. cocoadog (2:2)<br>
+<br>
+117. #Saggycrayon (1208) 0<br>
++159|+124|+98|+77|+40|+21|+3<br>
 	2. AppleDragon (0:5)<br>
-	4. Buff-Plunts (2:3)<br>
+	3. Buff-Plunts (2:3)<br>
 	5. croissant (0:1)<br>
-	7. Foxylocks12 (1:6)<br>
-	9. cocoadog (1:0)<br>
+	8. Foxylocks12 (1:6)<br>
 <br>
-116. #Snech (1206) 0<br>
-+56|+45|+29|+19|+19|+20|+10|+9|+1|0<br>
-	3. SparkyPlane (4:4)<br>
-	5. croissant (2:4)<br>
-	9. cocoadog (4:2)<br>
-<br>
-117. #HairyBeetle~278 (1204) -3<br>
-+143|+119|+108|+85|+54|+33|+20|+7|-11|-2<br>
+118. #HairyBeetle~278 (1208) 0<br>
++146|+123|+112|+89|+58|+37|+24|+11|-7|+2<br>
 	1. ValveFury (0:1)<br>
-	4. Buff-Plunts (0:1)<br>
-	7. Foxylocks12 (1:1)<br>
+	3. Buff-Plunts (0:1)<br>
+	8. Foxylocks12 (1:1)<br>
 <br>
-118. #sappysock (1201) 0<br>
-+131|+110|+105|+86|+60|+47|+35|+14|+9|-9<br>
-	3. SparkyPlane (1:3)<br>
-	6. Tylermbcs16 (1:1)<br>
-	7. Foxylocks12 (1:5)<br>
-	9. cocoadog (1:1)<br>
-	10. bandy (2:3)<br>
+119. #lelofadel111 (1208) -29<br>
+-132|-136|-149|-138|-114|-80|-74|-65|-30|-9<br>
+	2. AppleDragon (0:2)<br>
+	3. Buff-Plunts (9:21)<br>
+	4. SparkyPlane (6:6)<br>
+	5. croissant (17:11)<br>
+	7. Miniongalcon (10:8)<br>
+	8. Foxylocks12 (7:10)<br>
+	9. cocoadog (17:24)<br>
+	10. Fluffywolf (1:3)<br>
 <br>
-119. #WarmShoe~212 (1201) 0<br>
-+144|+104|+50|+8<br>
-	1. ValveFury (4:1)<br>
-	3. SparkyPlane (1:1)<br>
-	9. cocoadog (1:0)<br>
+120. #Snech (1206) 0<br>
++56|+45|+29|+19|+19|+20|+10|+9|+1|0<br>
+	4. SparkyPlane (3:1)<br>
+	5. croissant (2:2)<br>
+	9. cocoadog (4:2)<br>
+	10. Fluffywolf (1:0)<br>
 <br>
-120. #CrazyVest~284 (1194) 0<br>
-+172|+163|+165|+160|+131|+86|+75|+50|+21|-4<br>
-	9. cocoadog (1:0)<br>
-<br>
-121. #Sharifbang94 (1193) +7<br>
-+102|+77|+75|+67|+50|+35|+34|+33|+33|+23<br>
+121. #Sharifbang94 (1205) +5<br>
++88|+87|+78|+61|+47|+45|+45|+44|+35|+2<br>
 	2. AppleDragon (0:2)<br>
 	5. croissant (0:1)<br>
-	8. Miniongalcon (1:3)<br>
+	7. Miniongalcon (2:5)<br>
 	9. cocoadog (0:2)<br>
 <br>
-122. #mander (1192) 0<br>
-+165|+125|+116|+97|+68|+44|+19|+9<br>
-	3. SparkyPlane (1:9)<br>
-	8. Miniongalcon (2:1)<br>
-	9. cocoadog (2:4)<br>
-	10. bandy (1:0)<br>
+122. #sappysock (1201) 0<br>
++131|+110|+105|+86|+60|+47|+35|+14|+9|-9<br>
+	4. SparkyPlane (1:3)<br>
+	6. Tylermbcs16 (1:1)<br>
+	8. Foxylocks12 (1:3)<br>
+	9. cocoadog (1:1)<br>
 <br>
-123. #iawai (1192) -3<br>
+123. #WarmShoe~212 (1201) 0<br>
++144|+104|+50|+8<br>
+	1. ValveFury (5:2)<br>
+	4. SparkyPlane (1:1)<br>
+	9. cocoadog (1:0)<br>
+<br>
+124. #Matthew0898 (1200) -8<br>
++17|+24|+31|+21|+16|+11|+6|+10|+1|-1<br>
+	3. Buff-Plunts (4:9)<br>
+<br>
+125. #CrazyVest~284 (1196) 0<br>
++174|+164|+167|+161|+132|+88|+76|+51|+22|-2<br>
+	9. cocoadog (1:0)<br>
+<br>
+126. #mander (1193) 0<br>
++166|+126|+116|+97|+69|+45|+20|+10<br>
+	4. SparkyPlane (1:8)<br>
+	7. Miniongalcon (2:1)<br>
+	9. cocoadog (2:3)<br>
+	10. Fluffywolf (5:3)<br>
+<br>
+127. #iawai (1192) 0<br>
 +38|+26|+33|+22|+16|+31|+26|+14|0|-2<br>
 	1. ValveFury (0:1)<br>
-	4. Buff-Plunts (2:0)<br>
+	3. Buff-Plunts (2:0)<br>
 <br>
-124. #Alfranny (1191) 0<br>
-+176|+119|+41|-28|-38|-14|+13|+34|+3<br>
-	4. Buff-Plunts (0:4)<br>
-	8. Miniongalcon (2:0)<br>
-<br>
-125. #kokona (1190) +18<br>
-+70|+56|+63|+46|+48|+38|+41|+31|+20|+1<br>
-	1. ValveFury (0:3)<br>
-	3. SparkyPlane (0:1)<br>
-	5. croissant (0:6)<br>
-	6. Tylermbcs16 (1:4)<br>
-	7. Foxylocks12 (4:12)<br>
-	9. cocoadog (5:5)<br>
-	10. bandy (4:17)<br>
-<br>
-126. #evilCherry2 (1183) -4<br>
-+9|-7|-11|-3|-1|-7|0|+2|+10|+7<br>
-	1. ValveFury (2:1)<br>
-	3. SparkyPlane (2:16)<br>
-	4. Buff-Plunts (0:1)<br>
-	5. croissant (3:7)<br>
-	7. Foxylocks12 (1:11)<br>
-	8. Miniongalcon (0:2)<br>
-	9. cocoadog (9:14)<br>
-	10. bandy (8:9)<br>
-<br>
-127. #DeimosX (1183) +9<br>
-+165|+134|+118|+106|+94|+61|+51|+22|+5<br>
+128. #DeimosX (1191) 0<br>
++173|+142|+127|+115|+103|+70|+60|+31|+14<br>
 	1. ValveFury (6:3)<br>
-	3. SparkyPlane (2:3)<br>
-	7. Foxylocks12 (1:0)<br>
+	4. SparkyPlane (2:3)<br>
+	8. Foxylocks12 (1:0)<br>
 	9. cocoadog (1:2)<br>
-	10. bandy (11:12)<br>
 <br>
-128. #CheapBeef~122 (1182) 0<br>
-+99|+99|+99|+83|+74|+64|+55|+49|+44|+4<br>
-	7. Foxylocks12 (0:1)<br>
-	8. Miniongalcon (1:0)<br>
+129. #Alfranny (1191) 0<br>
++176|+119|+41|-28|-38|-14|+13|+34|+3<br>
+	3. Buff-Plunts (0:4)<br>
+	7. Miniongalcon (2:0)<br>
+	10. Fluffywolf (0:2)<br>
+<br>
+130. #Kokona (1190) +3<br>
++70|+56|+63|+46|+47|+38|+40|+31|+20|+1<br>
+	1. ValveFury (0:5)<br>
+	4. SparkyPlane (0:2)<br>
+	5. croissant (0:5)<br>
+	6. Tylermbcs16 (1:4)<br>
+	8. Foxylocks12 (4:12)<br>
+	9. cocoadog (5:3)<br>
+	10. Fluffywolf (1:6)<br>
+<br>
+131. #CheapBeef~122 (1188) 0<br>
++105|+105|+105|+89|+80|+71|+62|+55|+50|+10<br>
+	7. Miniongalcon (1:0)<br>
+	8. Foxylocks12 (0:1)<br>
 	9. cocoadog (0:5)<br>
-	10. bandy (3:0)<br>
+	10. Fluffywolf (1:0)<br>
 <br>
-129. #klebz1000 (1182) 0<br>
-+29|+36|+32|+29|+24|+16|+22|+14|+7|-6<br>
-	3. SparkyPlane (1:0)<br>
-	5. croissant (0:1)<br>
-	7. Foxylocks12 (1:1)<br>
-	9. cocoadog (2:3)<br>
-	10. bandy (1:4)<br>
-<br>
-130. #Skirmish (1181) 0<br>
-+138|+93|+59|+21<br>
-	4. Buff-Plunts (2:1)<br>
-	6. Tylermbcs16 (1:0)<br>
-	7. Foxylocks12 (0:2)<br>
-	9. cocoadog (0:1)<br>
-<br>
-131. #PreBoom (1180) 0<br>
-+46|+49|+53|+54|+41|+20|+29|+31|+16|+7<br>
+132. #PreBoom (1187) -1<br>
++57|+60|+61|+48|+27|+36|+38|+23|+14|+10<br>
 	2. AppleDragon (5:4)<br>
-	4. Buff-Plunts (2:1)<br>
+	3. Buff-Plunts (2:1)<br>
 	9. cocoadog (0:2)<br>
-	10. bandy (1:1)<br>
+	10. Fluffywolf (0:4)<br>
 <br>
-132. #Mr.NiceGuy32 (1179) -3<br>
-+77|+57|+43|+32|+23|+13|+17|+19|+16|-4<br>
+133. #evilCherry2 (1185) +2<br>
+-6|-10|-1|+1|-5|+2|+4|+11|+9|-1<br>
+	1. ValveFury (2:1)<br>
+	3. Buff-Plunts (0:1)<br>
+	4. SparkyPlane (2:16)<br>
+	5. croissant (3:7)<br>
+	7. Miniongalcon (0:2)<br>
+	8. Foxylocks12 (1:11)<br>
+	9. cocoadog (8:10)<br>
+	10. Fluffywolf (0:3)<br>
+<br>
+134. #Mr.NiceGuy32 (1184) +6<br>
++82|+62|+48|+37|+28|+19|+22|+24|+21|+1<br>
 	2. AppleDragon (0:1)<br>
-	3. SparkyPlane (1:4)<br>
-	4. Buff-Plunts (0:4)<br>
-	5. croissant (0:3)<br>
-	9. cocoadog (1:6)<br>
-	10. bandy (1:0)<br>
+	3. Buff-Plunts (0:4)<br>
+	4. SparkyPlane (1:4)<br>
+	5. croissant (0:4)<br>
+	7. Miniongalcon (0:1)<br>
+	9. cocoadog (1:3)<br>
 <br>
-133. #FARZARD (1179) 0<br>
--9|-13|-12|-6|+9|+7|+10|-11|-12|-3<br>
-	1. ValveFury (0:1)<br>
-	6. Tylermbcs16 (1:3)<br>
-	9. cocoadog (0:2)<br>
-<br>
-134. #Franciturci (1178) +1<br>
-+147|+125|+95|+85|+66|+54|+41|+28|+6<br>
-	9. cocoadog (1:1)<br>
-<br>
-135. #floriHUPF (1178) -8<br>
-+27|+25|+24|+32|+30|+31|+13|+1|-9|-6<br>
+135. #floriHUPF (1183) +2<br>
++30|+29|+37|+35|+36|+18|+6|-4|-1|-2<br>
 	1. ValveFury (1:1)<br>
-	3. SparkyPlane (4:2)<br>
-	4. Buff-Plunts (0:3)<br>
+	3. Buff-Plunts (0:1)<br>
+	4. SparkyPlane (3:2)<br>
 	5. croissant (2:3)<br>
 	6. Tylermbcs16 (1:0)<br>
 	9. cocoadog (1:4)<br>
-	10. bandy (0:3)<br>
+	10. Fluffywolf (0:3)<br>
 <br>
-136. #SnatchWeasel (1177) -11<br>
--17|-26|-23|-13|-9|-6|-12|-16|+1|0<br>
-	2. AppleDragon (0:1)<br>
-	3. SparkyPlane (1:4)<br>
-	4. Buff-Plunts (1:4)<br>
-	5. croissant (0:4)<br>
-	6. Tylermbcs16 (0:1)<br>
-	7. Foxylocks12 (0:4)<br>
-	8. Miniongalcon (0:3)<br>
-	9. cocoadog (1:8)<br>
-<br>
-137. #bupkis (1174) +11<br>
--1|+6|+9|+5|+17|+19|+19|+4|+13|+4<br>
-	9. cocoadog (1:0)<br>
-	10. bandy (3:4)<br>
-<br>
-138. #xomarhs (1172) -1<br>
-+146|+128|+102|+93|+77|+67|+54|+26|-1|-2<br>
-	3. SparkyPlane (0:1)<br>
-	7. Foxylocks12 (1:3)<br>
-	8. Miniongalcon (1:1)<br>
-	9. cocoadog (0:2)<br>
-	10. bandy (0:5)<br>
-<br>
-139. #Nimsta (1172) +1<br>
-+152|+123|+91|+76|+27|+3<br>
-	4. Buff-Plunts (0:1)<br>
-	7. Foxylocks12 (1:0)<br>
-<br>
-140. #djhunt (1170) 0<br>
-+12|+11|0|-1|-2|+5|+3|+8|+19|+4<br>
-	2. AppleDragon (1:3)<br>
-	4. Buff-Plunts (2:6)<br>
+136. #klebz1000 (1181) 0<br>
++29|+35|+32|+29|+23|+16|+21|+13|+6|-6<br>
+	4. SparkyPlane (1:0)<br>
 	5. croissant (0:1)<br>
-	7. Foxylocks12 (0:6)<br>
+	8. Foxylocks12 (1:1)<br>
+	9. cocoadog (2:3)<br>
+	10. Fluffywolf (4:4)<br>
 <br>
-141. #panadool (1170) 0<br>
--2|-1|+9|+13|+13|+4|-3|-5|+11|+15<br>
-	2. AppleDragon (0:3)<br>
+137. #Nimsta (1181) 0<br>
++161|+131|+100|+85|+36|+11<br>
+	3. Buff-Plunts (0:1)<br>
+<br>
+138. #xomarhs (1179) +5<br>
++135|+109|+99|+84|+74|+61|+33|+6|+4|0<br>
+	7. Miniongalcon (1:1)<br>
+	8. Foxylocks12 (1:3)<br>
 	9. cocoadog (0:2)<br>
 <br>
-142. #EntEmpire (1170) 0<br>
+139. #Franciturci (1178) 0<br>
++146|+124|+94|+84|+66|+54|+41|+28|+6<br>
+	9. cocoadog (1:1)<br>
+	10. Fluffywolf (2:3)<br>
+<br>
+140. #panadool (1178) +1<br>
++7|+17|+21|+21|+12|+5|+3|+19|+23|+4<br>
+	2. AppleDragon (0:3)<br>
+<br>
+141. #SnatchWeasel (1177) +5<br>
+-24|-13|-10|-7|-12|-17|0|-1|+7|+2<br>
+	2. AppleDragon (0:7)<br>
+	3. Buff-Plunts (1:4)<br>
+	4. SparkyPlane (2:9)<br>
+	5. croissant (1:7)<br>
+	6. Tylermbcs16 (0:1)<br>
+	7. Miniongalcon (2:9)<br>
+	8. Foxylocks12 (0:4)<br>
+	9. cocoadog (3:10)<br>
+	10. Fluffywolf (0:1)<br>
+<br>
+142. #fARZard (1176) 0<br>
+-16|-15|-9|+6|+4|+7|-14|-16|-6|-3<br>
+	1. ValveFury (0:2)<br>
+	6. Tylermbcs16 (1:3)<br>
+	9. cocoadog (0:2)<br>
+	10. Fluffywolf (0:3)<br>
+<br>
+143. #bupkis (1172) -2<br>
+-3|+4|+7|+3|+15|+18|+17|+2|+11|+2<br>
+	10. Fluffywolf (2:3)<br>
+<br>
+144. #djhunt (1171) +1<br>
++13|+12|+1|+1|-1|+6|+4|+9|+21|+5<br>
+	2. AppleDragon (1:3)<br>
+	3. Buff-Plunts (2:6)<br>
+	5. croissant (0:1)<br>
+	8. Foxylocks12 (0:6)<br>
+<br>
+145. #EntEmpire (1170) 0<br>
 +10|+1|+11|+11|+7|+7|+11|+3|0|+2<br>
 	1. ValveFury (1:7)<br>
-	3. SparkyPlane (1:0)<br>
+	4. SparkyPlane (1:0)<br>
 	5. croissant (4:3)<br>
-	7. Foxylocks12 (0:4)<br>
-	8. Miniongalcon (1:0)<br>
-	10. bandy (1:10)<br>
+	7. Miniongalcon (1:0)<br>
+	8. Foxylocks12 (0:4)<br>
 <br>
-143. #goodsoul (1168) +1<br>
-+108|+88|+76|+70|+66|+51|+44|+28|+13|+2<br>
-	4. Buff-Plunts (0:1)<br>
+146. #goodsoul (1169) -2<br>
++109|+89|+77|+71|+67|+52|+45|+29|+14|+3<br>
 	5. croissant (0:1)<br>
-	7. Foxylocks12 (1:0)<br>
-	8. Miniongalcon (1:1)<br>
-	9. cocoadog (3:15)<br>
+	7. Miniongalcon (1:1)<br>
+	8. Foxylocks12 (1:0)<br>
+	9. cocoadog (1:9)<br>
 <br>
-144. #TRistanbul (1168) 0<br>
-+48|+37|+42|+29|+17|+6|-4|-13|-6|-4<br>
+147. #TRistanbul (1169) -2<br>
++49|+38|+43|+30|+18|+7|-3|-12|-5|-2<br>
+	1. ValveFury (2:1)<br>
 	6. Tylermbcs16 (0:1)<br>
-	7. Foxylocks12 (0:5)<br>
+	8. Foxylocks12 (0:5)<br>
 	9. cocoadog (0:1)<br>
 <br>
-145. #john-difool (1167) 0<br>
-+37|+33|+20|+22|+25|+34|+23|+3|+2|+5<br>
+148. #john-difool (1167) -6<br>
++32|+20|+21|+24|+33|+22|+2|+2|+4|-6<br>
 	1. ValveFury (1:0)<br>
-	3. SparkyPlane (3:8)<br>
-	7. Foxylocks12 (0:1)<br>
+	4. SparkyPlane (6:10)<br>
+	8. Foxylocks12 (0:1)<br>
 	9. cocoadog (0:8)<br>
-	10. bandy (0:1)<br>
+	10. Fluffywolf (0:2)<br>
 <br>
-146. #Neehor (1167) +2<br>
-+43|+12|-2|-1|-1|0|+5|+6|-3|-5<br>
-	3. SparkyPlane (1:8)<br>
-	5. croissant (0:3)<br>
-	9. cocoadog (0:10)<br>
-	10. bandy (1:1)<br>
-<br>
-147. #Iambic (1165) 0<br>
-+110|+30<br>
-<br>
-148. #MR_JABROT_X (1164) -1<br>
-+44|+36|+31|+23|+15|+12|+7|-3|+1|0<br>
-	1. ValveFury (5:10)<br>
-	3. SparkyPlane (1:5)<br>
-	5. croissant (5:17)<br>
-	6. Tylermbcs16 (0:5)<br>
-	7. Foxylocks12 (1:7)<br>
-	9. cocoadog (6:14)<br>
-	10. bandy (8:45)<br>
-<br>
-149. #NovA-heFTiG (1163) 0<br>
-+80|+78|+75|+70|+77|+58|+42|+24|+14|+1<br>
-	2. AppleDragon (2:1)<br>
-	4. Buff-Plunts (1:0)<br>
-	5. croissant (1:2)<br>
-	7. Foxylocks12 (1:2)<br>
-	8. Miniongalcon (2:3)<br>
-<br>
-150. #ace95 (1162) 0<br>
-+124|+91|+87|+66|+51|+25|+22|+15|+1|0<br>
-	3. SparkyPlane (1:3)<br>
-	7. Foxylocks12 (0:1)<br>
-	9. cocoadog (4:6)<br>
-	10. bandy (0:2)<br>
-<br>
-151. #awecha (1161) 0<br>
-+49|+55|+47|+45|+29|+19|+10|+8|+10|+5<br>
-	3. SparkyPlane (0:1)<br>
-	4. Buff-Plunts (1:9)<br>
-	5. croissant (0:1)<br>
-	7. Foxylocks12 (4:3)<br>
-	8. Miniongalcon (0:2)<br>
-	9. cocoadog (5:17)<br>
-	10. bandy (8:6)<br>
-<br>
-152. #xaelia (1161) +5<br>
-+106|+91|+79|+72|+63|+49|+36|+35|+11|+1<br>
-	2. AppleDragon (1:0)<br>
-	3. SparkyPlane (1:7)<br>
-	4. Buff-Plunts (0:5)<br>
-	5. croissant (1:2)<br>
-	8. Miniongalcon (1:7)<br>
+149. #xaelia (1165) +3<br>
++95|+83|+76|+67|+53|+40|+39|+15|+4|+2<br>
+	3. Buff-Plunts (0:5)<br>
+	4. SparkyPlane (1:7)<br>
+	5. croissant (2:5)<br>
+	7. Miniongalcon (1:5)<br>
 	9. cocoadog (0:3)<br>
 <br>
-153. #Ammar_N (1157) 0<br>
-+48|+40|+43|+22|+21|+11|+8|+11|+3|-1<br>
-	3. SparkyPlane (4:8)<br>
-	5. croissant (0:2)<br>
-	7. Foxylocks12 (1:3)<br>
-	9. cocoadog (1:4)<br>
-	10. bandy (0:1)<br>
+150. #Iambic (1165) 0<br>
++110|+30<br>
 <br>
-154. #HAIRYTOOTH (1157) 0<br>
+151. #EternalFlame (1164) +24<br>
++146|+120|+111|+88|+79|+48|+29|+2<br>
+	5. croissant (1:9)<br>
+	9. cocoadog (7:6)<br>
+	10. Fluffywolf (4:16)<br>
+<br>
+152. #MR_JABROT_X (1163) -1<br>
++43|+35|+30|+22|+14|+11|+6|-4|+1|-1<br>
+	1. ValveFury (5:10)<br>
+	4. SparkyPlane (1:5)<br>
+	5. croissant (4:15)<br>
+	6. Tylermbcs16 (0:5)<br>
+	8. Foxylocks12 (1:7)<br>
+	9. cocoadog (6:14)<br>
+	10. Fluffywolf (3:15)<br>
+<br>
+153. #NovA-heFTiG (1163) 0<br>
++80|+78|+75|+70|+77|+58|+42|+24|+14|+1<br>
+	2. AppleDragon (2:1)<br>
+	5. croissant (1:2)<br>
+	7. Miniongalcon (1:2)<br>
+	8. Foxylocks12 (1:2)<br>
+<br>
+154. #Neehor (1163) 0<br>
++8|-6|-5|-4|-4|+2|+2|-7|-9|+2<br>
+	4. SparkyPlane (1:8)<br>
+	5. croissant (0:3)<br>
+	9. cocoadog (0:10)<br>
+	10. Fluffywolf (0:3)<br>
+<br>
+155. #ace95 (1162) +1<br>
++124|+92|+87|+66|+51|+25|+22|+15|+1|0<br>
+	4. SparkyPlane (1:3)<br>
+	8. Foxylocks12 (0:1)<br>
+	9. cocoadog (3:5)<br>
+<br>
+156. #awecha (1161) 0<br>
++49|+55|+47|+45|+29|+19|+10|+8|+10|+5<br>
+	3. Buff-Plunts (1:9)<br>
+	7. Miniongalcon (0:2)<br>
+	8. Foxylocks12 (2:3)<br>
+	9. cocoadog (1:10)<br>
+	10. Fluffywolf (3:4)<br>
+<br>
+157. #pandaface90 (1159) +1<br>
++105|+85|+77|+62|+47|+36|+27|+15|-1|+4<br>
+	1. ValveFury (0:1)<br>
+	4. SparkyPlane (1:3)<br>
+	5. croissant (0:1)<br>
+	8. Foxylocks12 (3:4)<br>
+	9. cocoadog (4:4)<br>
+	10. Fluffywolf (2:5)<br>
+<br>
+158. #Ammar_N (1158) +3<br>
++49|+41|+44|+23|+22|+12|+9|+12|+4|-1<br>
+	4. SparkyPlane (2:7)<br>
+	5. croissant (0:2)<br>
+	9. cocoadog (1:4)<br>
+<br>
+159. #HAIRYTOOTH (1157) 0<br>
 +136|+100|+51|+27|+1<br>
-	4. Buff-Plunts (0:2)<br>
+	3. Buff-Plunts (0:2)<br>
 	5. croissant (0:2)<br>
 	9. cocoadog (5:8)<br>
 <br>
-155. #LeanShoe~474 (1156) -7<br>
+160. #LeanShoe~474 (1156) 0<br>
 +23|+6|+5|+8|+6|+6|-8|-9|-15|-1<br>
-	3. SparkyPlane (0:5)<br>
+	4. SparkyPlane (0:5)<br>
 	5. croissant (0:4)<br>
-	7. Foxylocks12 (5:13)<br>
+	8. Foxylocks12 (5:13)<br>
 	9. cocoadog (1:2)<br>
-	10. bandy (5:6)<br>
+	10. Fluffywolf (0:5)<br>
 <br>
-156. #pandaface90 (1154) +2<br>
-+100|+80|+73|+57|+43|+32|+22|+10|-5|-1<br>
-	1. ValveFury (0:1)<br>
-	3. SparkyPlane (1:3)<br>
-	5. croissant (0:1)<br>
-	7. Foxylocks12 (3:4)<br>
-	9. cocoadog (4:4)<br>
-	10. bandy (3:13)<br>
-<br>
-157. #Mikflut (1152) -1<br>
-+123|+87|+90|+79|+71|+50|+37|+13<br>
+161. #Mikflut (1155) 0<br>
++126|+90|+93|+82|+74|+54|+40|+16<br>
 	1. ValveFury (1:8)<br>
+	4. SparkyPlane (0:1)<br>
+	5. croissant (2:0)<br>
 	9. cocoadog (5:2)<br>
-	10. bandy (5:10)<br>
+	10. Fluffywolf (0:2)<br>
 <br>
-158. #QueenJess18 (1152) 0<br>
+162. #Yodigity514 (1152) 0<br>
++85|+67|+55|+45|+36|+24|+15|+11|0|+3<br>
+	4. SparkyPlane (2:7)<br>
+	5. croissant (1:6)<br>
+	8. Foxylocks12 (0:6)<br>
+	9. cocoadog (1:8)<br>
+<br>
+163. #QueenJess18 (1152) 0<br>
 +78|+59|+70|+64|+64|+48|-3|-11|-5|-1<br>
-	2. AppleDragon (0:1)<br>
-	3. SparkyPlane (0:2)<br>
-	7. Foxylocks12 (2:7)<br>
-	8. Miniongalcon (26:16)<br>
-	9. cocoadog (0:3)<br>
-	10. bandy (3:5)<br>
+	4. SparkyPlane (0:2)<br>
+	7. Miniongalcon (0:5)<br>
+	9. cocoadog (0:2)<br>
 <br>
-159. #Yodigity514 (1152) +1<br>
-+84|+67|+54|+44|+35|+23|+14|+10|-1|+2<br>
-	3. SparkyPlane (1:5)<br>
-	4. Buff-Plunts (0:1)<br>
-	5. croissant (1:5)<br>
-	7. Foxylocks12 (0:6)<br>
-	9. cocoadog (0:7)<br>
-	10. bandy (2:5)<br>
-<br>
-160. #a7mad (1151) 0<br>
+164. #a7mad (1151) 0<br>
 +135|+120|+99|+70|+48|+22|+16|0<br>
 	1. ValveFury (1:1)<br>
 <br>
-161. #Bi-Polar (1151) 0<br>
-+112|+82|+65|+43|+20|-5<br>
-	3. SparkyPlane (0:4)<br>
-	4. Buff-Plunts (3:1)<br>
-	8. Miniongalcon (1:0)<br>
+165. #Bi-Polar (1150) -1<br>
++110|+81|+63|+42|+19|-7<br>
+	3. Buff-Plunts (1:1)<br>
+	4. SparkyPlane (0:4)<br>
+	7. Miniongalcon (1:0)<br>
 	9. cocoadog (1:1)<br>
 <br>
-162. #drdeadscat (1149) 0<br>
+166. #drdeadscat (1149) 0<br>
 +28|+32|+27|+23|+18|+16|+9|+12|+4|+3<br>
-	7. Foxylocks12 (1:3)<br>
-	10. bandy (5:9)<br>
+	8. Foxylocks12 (1:3)<br>
 <br>
-163. #darwinalki (1148) 0<br>
-+35|+19|+23|+17|+17|+21|+16|+18|+10|+8<br>
-	3. SparkyPlane (2:1)<br>
-	10. bandy (1:0)<br>
+167. #seanbolton (1149) +10<br>
++122|+101|+96|+91|+72|+41|+20<br>
+	4. SparkyPlane (0:1)<br>
+	5. croissant (1:1)<br>
+	8. Foxylocks12 (0:2)<br>
+	9. cocoadog (0:2)<br>
 <br>
-164. #Nekrik (1145) 0<br>
+168. #jiyao (1149) -2<br>
++32|+33|+33|+12|+7|-1|+2|-6|-6|-1<br>
+	5. croissant (1:3)<br>
+	10. Fluffywolf (0:2)<br>
+<br>
+169. #kelly46joey (1148) +11<br>
++50|+48|+58|+56|+53|+40|+27|+27|+20|0<br>
+	4. SparkyPlane (1:0)<br>
+	5. croissant (0:1)<br>
+<br>
+170. #Nekrik (1145) 0<br>
 +113|+107|+86|+73|+38|0<br>
 	1. ValveFury (4:2)<br>
+	10. Fluffywolf (2:3)<br>
 <br>
-165. #SteveO84 (1143) 0<br>
+171. #mohNabil20 (1144) +5<br>
++126|+103|+84|+63|+34|+15<br>
+	2. AppleDragon (0:1)<br>
+	3. Buff-Plunts (0:1)<br>
+	4. SparkyPlane (0:1)<br>
+	7. Miniongalcon (1:0)<br>
+	8. Foxylocks12 (3:2)<br>
+	9. cocoadog (4:3)<br>
+<br>
+172. #culodmose (1144) +2<br>
++71|+63|+65|+41|+38|+35|+35|+34|+22|+20<br>
+	3. Buff-Plunts (0:2)<br>
+	5. croissant (0:2)<br>
+<br>
+173. #SteveO84 (1143) 0<br>
 +29|+23|+36|-8|-8|-9|-3|-6|-4|0<br>
 	5. croissant (0:1)<br>
 <br>
-166. #culodmose (1143) +3<br>
-+70|+62|+65|+41|+37|+35|+35|+33|+21|+19<br>
-	4. Buff-Plunts (0:2)<br>
-	5. croissant (0:2)<br>
+174. #Power69 (1143) -5<br>
++31|+30|+24|+18|+16|+8|+9|+11|+10|+2<br>
+	4. SparkyPlane (4:4)<br>
+	8. Foxylocks12 (1:0)<br>
+	10. Fluffywolf (0:4)<br>
 <br>
-167. #Power69 (1142) 0<br>
-+30|+29|+23|+17|+15|+7|+8|+10|+9|+1<br>
-	3. SparkyPlane (1:1)<br>
-	7. Foxylocks12 (1:0)<br>
-	10. bandy (1:2)<br>
+175. #TheMafia (1138) -1<br>
++95|+74|+60|+60|+45|+45|+37|+19<br>
+	8. Foxylocks12 (1:5)<br>
 <br>
-168. #BouncyOgre~164 (1140) +1<br>
-+4|+1|-5|+6|+21|+27|+14|+2|-8|+5<br>
-	3. SparkyPlane (3:3)<br>
-	5. croissant (0:2)<br>
-	9. cocoadog (0:8)<br>
-	10. bandy (1:2)<br>
-<br>
-169. #Spaciel (1139) +1<br>
-+139|+138|+128|+103|+95|+86|+51|+49|+26|+15<br>
-	4. Buff-Plunts (0:4)<br>
-<br>
-170. #TheMafia (1139) -1<br>
-+96|+75|+61|+61|+46|+47|+38|+20<br>
-	7. Foxylocks12 (1:5)<br>
-<br>
-171. #mohNabil20 (1139) +3<br>
-+121|+97|+79|+58|+29|+9<br>
+176. #Spaciel (1138) -1<br>
++137|+136|+126|+102|+94|+84|+49|+47|+24|+13<br>
 	2. AppleDragon (0:1)<br>
-	4. Buff-Plunts (0:1)<br>
-	7. Foxylocks12 (3:2)<br>
-	8. Miniongalcon (1:0)<br>
-	9. cocoadog (4:3)<br>
-	10. bandy (3:2)<br>
+	3. Buff-Plunts (0:4)<br>
 <br>
-172. #trripyy (1137) +5<br>
-+102|+52|+16|+11<br>
-	7. Foxylocks12 (1:0)<br>
-<br>
-173. #mojojojo1937 (1136) 0<br>
-+68|+66|+47|+35|+34|+34|+16|-9|-4|+7<br>
-	3. SparkyPlane (3:4)<br>
-	8. Miniongalcon (0:2)<br>
-<br>
-174. #kelly46joey (1135) +4<br>
-+57|+37|+35|+45|+43|+40|+27|+15|+14|+7<br>
-	3. SparkyPlane (1:0)<br>
-	5. croissant (0:1)<br>
-	10. bandy (2:0)<br>
-<br>
-175. #killerbear13 (1134) 0<br>
--17|-7|-9|+5|+8|+3|+10|+3|+9|-1<br>
-	4. Buff-Plunts (1:0)<br>
-	8. Miniongalcon (0:1)<br>
-	9. cocoadog (0:2)<br>
-<br>
-176. #SSRZ_Chewy (1134) 0<br>
-+9|-9|-7|-18|-28|-12|-2|+9|+9|+2<br>
-	4. Buff-Plunts (1:2)<br>
-	8. Miniongalcon (1:5)<br>
-	9. cocoadog (3:3)<br>
-	10. bandy (1:1)<br>
-<br>
-177. #paperboy55 (1132) -2<br>
-+102|+71|+41|+12|+2<br>
+177. #paperboy55 (1137) +6<br>
++107|+76|+46|+17|+7<br>
 	9. cocoadog (0:1)<br>
 <br>
-178. #alster101 (1132) 0<br>
-+114|+77|+45|+17<br>
-	7. Foxylocks12 (1:1)<br>
-	8. Miniongalcon (0:2)<br>
-	9. cocoadog (5:4)<br>
-	10. bandy (2:6)<br>
-<br>
-179. #coldersoup (1132) +3<br>
-+52|+54|+50|+45|+47|+39|+39|+25|+10|+4<br>
-	3. SparkyPlane (1:0)<br>
-	7. Foxylocks12 (0:1)<br>
-	9. cocoadog (1:2)<br>
-	10. bandy (1:2)<br>
-<br>
-180. #mlewiz (1131) +1<br>
-+93|+91|+77|+72|+63|+63|+56|+37|+22|+6<br>
-	7. Foxylocks12 (1:0)<br>
-	8. Miniongalcon (0:1)<br>
-	9. cocoadog (1:3)<br>
-	10. bandy (1:4)<br>
-<br>
-181. #seanbolton (1129) +17<br>
-+103|+82|+76|+71|+52|+21|0<br>
-	3. SparkyPlane (0:1)<br>
-	5. croissant (1:1)<br>
-	7. Foxylocks12 (0:2)<br>
-	9. cocoadog (0:2)<br>
-	10. bandy (1:0)<br>
-<br>
-182. #Galithor (1129) 0<br>
-+67|+63|+59|+63|+63|+64|+54|+41|+21|+15<br>
-	3. SparkyPlane (0:4)<br>
-	9. cocoadog (1:1)<br>
-	10. bandy (1:1)<br>
-<br>
-183. #LiquidS (1129) +8<br>
-+1|+4|+1|+9|+15|+7|-1|+3|0|+8<br>
-	3. SparkyPlane (1:6)<br>
-	5. croissant (1:5)<br>
-	7. Foxylocks12 (2:5)<br>
+178. #BouncyOgre~164 (1137) -3<br>
+-1|-7|+4|+19|+24|+11|0|-10|+2|-2<br>
+	4. SparkyPlane (3:3)<br>
+	5. croissant (0:2)<br>
 	9. cocoadog (0:8)<br>
-	10. bandy (1:3)<br>
 <br>
-184. #ajoiner123 (1127) -1<br>
-+72|+53|+12<br>
-	4. Buff-Plunts (0:4)<br>
+179. #trripyy (1137) 0<br>
++102|+52|+16|+11<br>
+	8. Foxylocks12 (1:0)<br>
+<br>
+180. #mojojojo1937 (1136) 0<br>
++68|+66|+47|+35|+34|+34|+16|-9|-4|+7<br>
+	4. SparkyPlane (3:4)<br>
+	7. Miniongalcon (0:2)<br>
+<br>
+181. #killerbear13 (1134) 0<br>
+-17|-7|-9|+5|+8|+3|+10|+3|+9|-1<br>
+	3. Buff-Plunts (1:0)<br>
+	7. Miniongalcon (0:1)<br>
+	9. cocoadog (0:2)<br>
+<br>
+182. #SSRZ_Chewy (1134) 0<br>
++9|-9|-7|-18|-28|-12|-2|+9|+9|+2<br>
+	7. Miniongalcon (0:5)<br>
+	9. cocoadog (2:1)<br>
+<br>
+183. #coldersoup (1130) -1<br>
++51|+53|+49|+44|+46|+38|+38|+24|+9|+3<br>
+	4. SparkyPlane (1:3)<br>
+	7. Miniongalcon (1:0)<br>
+	8. Foxylocks12 (0:1)<br>
+<br>
+184. #mlewiz (1129) -2<br>
++90|+76|+71|+62|+62|+55|+36|+21|+5|-3<br>
+	1. ValveFury (1:1)<br>
+	4. SparkyPlane (0:1)<br>
+	7. Miniongalcon (0:1)<br>
+	8. Foxylocks12 (1:0)<br>
+	9. cocoadog (1:3)<br>
+	10. Fluffywolf (0:1)<br>
+<br>
+185. #Galithor (1128) -1<br>
++66|+63|+59|+63|+62|+63|+53|+40|+20|+15<br>
+	4. SparkyPlane (0:4)<br>
+	9. cocoadog (1:1)<br>
+<br>
+186. #ajoiner123 (1127) 0<br>
++72|+52|+12|0<br>
+	3. Buff-Plunts (0:4)<br>
 	5. croissant (0:3)<br>
-	8. Miniongalcon (0:3)<br>
-	9. cocoadog (0:1)<br>
+	7. Miniongalcon (0:4)<br>
 <br>
-185. #bosch (1125) +4<br>
+187. #bosch (1125) 0<br>
 +75|+40|+13<br>
 	9. cocoadog (0:1)<br>
-	10. bandy (4:11)<br>
 <br>
-186. #rawbdor (1112) +7<br>
-+93|+93|+86|+68|+70|+55|+40|+29|+29|+13<br>
+188. #LiquidS (1122) +2<br>
+-3|-6|+2|+8|0|-8|-3|-7|+1|+3<br>
+	4. SparkyPlane (1:5)<br>
+	5. croissant (1:6)<br>
+	8. Foxylocks12 (1:2)<br>
+	9. cocoadog (0:8)<br>
+<br>
+189. #MagicFox~931 (1116) +5<br>
++17|+19|+7|+14|0|+9|+11|+14|+16|+2<br>
+	4. SparkyPlane (1:1)<br>
+	5. croissant (0:5)<br>
+	7. Miniongalcon (1:2)<br>
+	9. cocoadog (0:3)<br>
+	10. Fluffywolf (0:1)<br>
+<br>
+190. #TROYBAD (1113) +16<br>
++49|+57|+48|+52|+39|+41|+36|+41|+13|+4<br>
+	1. ValveFury (0:1)<br>
+	2. AppleDragon (1:1)<br>
+	4. SparkyPlane (4:22)<br>
+	5. croissant (2:11)<br>
+	7. Miniongalcon (0:3)<br>
+	8. Foxylocks12 (0:3)<br>
+	9. cocoadog (2:20)<br>
+	10. Fluffywolf (3:14)<br>
+<br>
+191. #rawbdor (1113) 0<br>
++94|+94|+87|+69|+71|+56|+41|+29|+30|+14<br>
 	1. ValveFury (0:2)<br>
 	9. cocoadog (1:4)<br>
-	10. bandy (3:17)<br>
 <br>
-187. #MagicFox~931 (1112) 0<br>
-+12|+15|+3|+9|-4|+4|+7|+10|+11|-3<br>
-	3. SparkyPlane (0:2)<br>
+192. #ColdSkunk~120 (1112) +8<br>
++80|+34|+21|+16|+16<br>
+	1. ValveFury (0:2)<br>
+	4. SparkyPlane (3:3)<br>
 	5. croissant (0:5)<br>
-	8. Miniongalcon (0:1)<br>
-	9. cocoadog (0:3)<br>
+	8. Foxylocks12 (0:1)<br>
+	9. cocoadog (9:9)<br>
+	10. Fluffywolf (9:10)<br>
 <br>
-188. #COBRA123 (1110) +21<br>
-+33|+42|+27|+23|+26|+27|+17|+18|+11|0<br>
-	3. SparkyPlane (1:22)<br>
-	4. Buff-Plunts (0:3)<br>
-	5. croissant (3:11)<br>
-	7. Foxylocks12 (3:11)<br>
-	8. Miniongalcon (0:1)<br>
-	9. cocoadog (5:27)<br>
-	10. bandy (2:7)<br>
+193. #ganjasslol (1111) 0<br>
++82|+60|+46|+45|+7<br>
+	7. Miniongalcon (2:3)<br>
+	8. Foxylocks12 (1:2)<br>
 <br>
-189. #ganjasslol (1110) 0<br>
-+80|+58|+45|+43|+5<br>
-	7. Foxylocks12 (1:2)<br>
-	8. Miniongalcon (2:3)<br>
-<br>
-190. #supermarck (1105) 0<br>
-+96|+78|+87|+74|+52|+33|+23|+15|0|+3<br>
-	1. ValveFury (0:5)<br>
+194. #SignorJoSaf (1109) +1<br>
++103|+107|+109|+105|+67|+26|+6<br>
 	5. croissant (0:1)<br>
-	8. Miniongalcon (1:0)<br>
-	9. cocoadog (0:3)<br>
-	10. bandy (0:4)<br>
+	7. Miniongalcon (2:3)<br>
 <br>
-191. #ny220e (1104) 0<br>
-+3|+7|+17|+16|+9|+9|+21|+11|+2|+1<br>
+195. #ny220e (1106) 0<br>
++5|+9|+18|+18|+11|+10|+23|+12|+4|+3<br>
 	5. croissant (1:5)<br>
 	6. Tylermbcs16 (1:0)<br>
-	7. Foxylocks12 (1:0)<br>
+	8. Foxylocks12 (1:0)<br>
 	9. cocoadog (2:2)<br>
 <br>
-192. #FancyCar~225 (1102) 0<br>
-+78|+20<br>
-	3. SparkyPlane (1:1)<br>
+196. #gusben96 (1105) +21<br>
++84|+58|+33|0<br>
+	3. Buff-Plunts (1:0)<br>
+	4. SparkyPlane (1:6)<br>
+	8. Foxylocks12 (0:1)<br>
+	9. cocoadog (0:2)<br>
+	10. Fluffywolf (2:1)<br>
 <br>
-193. #PERDIGUEIRO0 (1099) 0<br>
-+95|+86|+74|+71|+55|+51|+34|+4|+3<br>
-	2. AppleDragon (1:2)<br>
-	4. Buff-Plunts (1:4)<br>
-	5. croissant (0:2)<br>
-	9. cocoadog (0:1)<br>
+197. #supermarck (1105) 0<br>
++96|+78|+87|+74|+52|+33|+23|+15|0|+3<br>
+	1. ValveFury (0:5)<br>
+	7. Miniongalcon (1:0)<br>
+	9. cocoadog (0:3)<br>
+	10. Fluffywolf (0:2)<br>
 <br>
-194. #Geromyty (1098) 0<br>
-+77|+70|+52|+28|+11<br>
-	3. SparkyPlane (1:3)<br>
+198. #stcziiii (1102) +1<br>
++42<br>
+	9. cocoadog (2:3)<br>
 <br>
-195. #EternalFlame (1096) +49<br>
-+79|+52|+44|+20|+11<br>
-	5. croissant (1:6)<br>
-	9. cocoadog (6:5)<br>
-	10. bandy (2:1)<br>
-<br>
-196. #TaoGuardian (1096) +4<br>
-+79|+71|+60|+40|+22|+11|+8|+10<br>
+199. #TaoGuardian (1101) +2<br>
++84|+76|+65|+46|+27|+16|+13|+15<br>
 	2. AppleDragon (0:1)<br>
-	3. SparkyPlane (0:1)<br>
+	4. SparkyPlane (0:1)<br>
+	5. croissant (1:0)<br>
 <br>
-197. #ColdSkunk~120 (1094) -3<br>
-+62|+17|+3|-1<br>
-	3. SparkyPlane (3:3)<br>
-	5. croissant (0:3)<br>
-	7. Foxylocks12 (0:1)<br>
-	9. cocoadog (9:6)<br>
-<br>
-198. #Raydar71 (1093) -1<br>
-+62|+46|+15|+6|-1|-4|-5|-7|-5|+1<br>
-	6. Tylermbcs16 (0:2)<br>
-	7. Foxylocks12 (0:1)<br>
-	9. cocoadog (0:4)<br>
-	10. bandy (1:2)<br>
-<br>
-199. #CurlyGrill~583 (1093) 0<br>
-+75|+41|+8<br>
-	3. SparkyPlane (0:1)<br>
-	7. Foxylocks12 (3:9)<br>
-	10. bandy (1:1)<br>
-<br>
-200. #Jackalope (1092) +23<br>
-+59|+1<br>
+200. #Jackalope (1096) +4<br>
++63|+5<br>
 	5. croissant (0:1)<br>
 	9. cocoadog (2:2)<br>
 <br>
 201. #xarry2 (1091) 0<br>
 +72|+59|+50|+37|+24|+14|+9|+11|+6<br>
-	3. SparkyPlane (2:11)<br>
+	4. SparkyPlane (2:11)<br>
 	6. Tylermbcs16 (0:2)<br>
-	7. Foxylocks12 (0:6)<br>
+	8. Foxylocks12 (0:6)<br>
 	9. cocoadog (0:2)<br>
-	10. bandy (0:2)<br>
 <br>
-202. #SilkySeal~218 (1090) 0<br>
+202. #bitare (1091) +10<br>
++85|+75|+74|+76|+61|+38|+43|+28|+23|-1<br>
+	4. SparkyPlane (2:13)<br>
+	5. croissant (0:9)<br>
+	7. Miniongalcon (1:1)<br>
+	9. cocoadog (1:11)<br>
+<br>
+203. #SilkySeal~218 (1090) 0<br>
 +72|+70|+60|+46|+46|+27|+21|+8|0<br>
-	3. SparkyPlane (0:3)<br>
-	4. Buff-Plunts (0:3)<br>
+	3. Buff-Plunts (0:1)<br>
+	4. SparkyPlane (0:3)<br>
 	5. croissant (0:2)<br>
-	7. Foxylocks12 (1:2)<br>
+	8. Foxylocks12 (1:2)<br>
 	9. cocoadog (1:6)<br>
+	10. Fluffywolf (0:5)<br>
 <br>
-203. #baby_ace (1086) -2<br>
--2|0|-1|0|+6|+6|+5|+3|+5|-2<br>
-	2. AppleDragon (2:5)<br>
-	3. SparkyPlane (0:2)<br>
-	4. Buff-Plunts (3:11)<br>
-	5. croissant (2:5)<br>
-	7. Foxylocks12 (0:2)<br>
-	8. Miniongalcon (1:3)<br>
-	9. cocoadog (0:5)<br>
-	10. bandy (0:1)<br>
-<br>
-204. #ZincBoat~290 (1082) -1<br>
-+60|+37|+29|+24|+12|+11|+4|+7|+10|-2<br>
-	7. Foxylocks12 (1:5)<br>
-	9. cocoadog (0:5)<br>
-	10. bandy (1:7)<br>
-<br>
-205. #Tertich (1081) -1<br>
-+73|+66|+53|+23|+22|+10|+11|+2<br>
+204. #Tertich (1086) 0<br>
++78|+71|+58|+28|+27|+15|+17|+7<br>
 	1. ValveFury (1:1)<br>
-	3. SparkyPlane (2:3)<br>
-	7. Foxylocks12 (3:4)<br>
-	10. bandy (1:1)<br>
+	8. Foxylocks12 (3:4)<br>
 <br>
-206. #deltron3030 (1081) 0<br>
-+47|+37|+38|+29|+8<br>
-	3. SparkyPlane (2:2)<br>
+205. #baby_ace (1084) 0<br>
+-4|-2|-3|-1|+4|+4|+3|+1|+4|-4<br>
+	2. AppleDragon (1:4)<br>
+	3. Buff-Plunts (3:10)<br>
+	4. SparkyPlane (0:2)<br>
+	5. croissant (2:3)<br>
+	7. Miniongalcon (1:3)<br>
+	8. Foxylocks12 (0:2)<br>
+	9. cocoadog (0:5)<br>
 <br>
-207. #edwin327 (1079) +4<br>
-+41|+35|+37|+18|+19|+20|+9|+21|+11|-4<br>
-	7. Foxylocks12 (4:5)<br>
+206. #deltron3030 (1084) -1<br>
++50|+39|+40|+32|+11<br>
+	4. SparkyPlane (2:2)<br>
 <br>
-208. #Frangta (1078) 0<br>
-+64|+50|+42|+36|+30|+30|+34|+18|+3<br>
+207. #Raydar71 (1083) -9<br>
++35|+4|-4|-12|-14|-15|-18|-16|-10|-10<br>
+	6. Tylermbcs16 (0:2)<br>
+	8. Foxylocks12 (0:1)<br>
+<br>
+208. #Frangta (1082) -1<br>
++68|+54|+46|+40|+34|+34|+38|+22|+6<br>
 	9. cocoadog (0:2)<br>
 <br>
-209. #Badlemon (1077) 0<br>
-+76|+57|+30|+11<br>
-	1. ValveFury (0:1)<br>
-	9. cocoadog (1:6)<br>
-	10. bandy (3:3)<br>
+209. #ZincBoat~290 (1079) 0<br>
++58|+35|+27|+21|+10|+9|+2|+4|+8|-5<br>
+	8. Foxylocks12 (1:5)<br>
+	9. cocoadog (0:5)<br>
 <br>
-210. #gusben96 (1077) +3<br>
-+55|+29|+5<br>
-	3. SparkyPlane (1:6)<br>
-	4. Buff-Plunts (1:0)<br>
-	9. cocoadog (0:2)<br>
-<br>
-211. #sri-bhakti (1076) 0<br>
-+36|+37|+31|+30|+16|+15|+20|+27|+22|+5<br>
-	3. SparkyPlane (0:2)<br>
-	4. Buff-Plunts (0:1)<br>
-	5. croissant (1:2)<br>
-	9. cocoadog (0:10)<br>
-<br>
-212. #murilobg (1076) +3<br>
-+53|+23<br>
+210. #murilobg (1079) +3<br>
++56|+26<br>
 	2. AppleDragon (0:1)<br>
-	3. SparkyPlane (0:2)<br>
-	4. Buff-Plunts (0:2)<br>
-	7. Foxylocks12 (4:4)<br>
+	3. Buff-Plunts (0:2)<br>
+	4. SparkyPlane (0:2)<br>
+	8. Foxylocks12 (4:4)<br>
 	9. cocoadog (0:1)<br>
-	10. bandy (6:3)<br>
+<br>
+211. #edwin327 (1079) 0<br>
++40|+35|+37|+17|+19|+19|+8|+20|+11|-5<br>
+	8. Foxylocks12 (4:5)<br>
+<br>
+212. #sri-bhakti (1076) 0<br>
++36|+37|+31|+30|+16|+15|+20|+27|+22|+5<br>
+	4. SparkyPlane (0:2)<br>
+	5. croissant (1:0)<br>
+	9. cocoadog (0:10)<br>
 <br>
 213. #liquidlegs (1076) 0<br>
 +97|+85|+83|+71|+64|+61|+41|+26|+7|-5<br>
 	5. croissant (0:3)<br>
-	7. Foxylocks12 (0:8)<br>
-	9. cocoadog (0:7)<br>
-	10. bandy (1:12)<br>
+	8. Foxylocks12 (0:8)<br>
+	9. cocoadog (0:6)<br>
+	10. Fluffywolf (0:1)<br>
 <br>
-214. #bitare (1075) +12<br>
-+71|+69|+59|+58|+60|+45|+22|+27|+12|+8<br>
-	3. SparkyPlane (2:13)<br>
-	5. croissant (0:9)<br>
-	9. cocoadog (1:9)<br>
-<br>
-215. #tristin (1073) 0<br>
-+65|+65|+60|+50|+46|+27|+12|+6|+4|+2<br>
-	1. ValveFury (0:1)<br>
-	2. AppleDragon (0:3)<br>
-	4. Buff-Plunts (1:8)<br>
-	7. Foxylocks12 (1:0)<br>
-	9. cocoadog (0:7)<br>
-	10. bandy (1:5)<br>
-<br>
-216. #TROYBAD (1073) +10<br>
-+42|+39|+30|+23|+9|+16|+8|+12|-2|+1<br>
-	1. ValveFury (0:1)<br>
-	3. SparkyPlane (3:17)<br>
-	5. croissant (2:9)<br>
-	7. Foxylocks12 (0:2)<br>
-	9. cocoadog (2:18)<br>
-	10. bandy (0:11)<br>
-<br>
-217. #wojakbtw (1072) 0<br>
+214. #wojakbtw (1072) 0<br>
 +67|+49|+41|+42|+26|+13|+7|+4<br>
 	2. AppleDragon (0:1)<br>
-	7. Foxylocks12 (5:10)<br>
+	8. Foxylocks12 (1:3)<br>
+	9. cocoadog (0:2)<br>
+<br>
+215. #tristin (1072) 0<br>
++64|+63|+58|+49|+45|+25|+10|+4|+3|+1<br>
+	1. ValveFury (0:1)<br>
+	2. AppleDragon (0:2)<br>
+	3. Buff-Plunts (1:7)<br>
+	8. Foxylocks12 (1:0)<br>
 	9. cocoadog (0:7)<br>
-	10. bandy (2:9)<br>
 <br>
-218. #aawwa (1069) +7<br>
-+22|+16|+11|+7|0|+5|+4|+8|+9|+9<br>
-	3. SparkyPlane (0:10)<br>
-	5. croissant (0:1)<br>
-	7. Foxylocks12 (1:4)<br>
-	9. cocoadog (2:14)<br>
-	10. bandy (1:5)<br>
+216. #KERATA1 (1068) -1<br>
++70|+62|+67|+57|+41|+23|+15|+9|+4<br>
+	4. SparkyPlane (0:1)<br>
+	6. Tylermbcs16 (0:1)<br>
+	8. Foxylocks12 (0:7)<br>
+	9. cocoadog (0:2)<br>
+	10. Fluffywolf (0:1)<br>
 <br>
-219. #Orelious_IX (1067) 0<br>
-+68|+58|+56|+62|+48|+20|+5|+1|-1<br>
-	7. Foxylocks12 (0:2)<br>
+217. #AcidSoup~808 (1067) +3<br>
++61|+42|+22|-1|+4<br>
+	4. SparkyPlane (0:5)<br>
+	5. croissant (0:6)<br>
+	7. Miniongalcon (2:1)<br>
+	9. cocoadog (0:5)<br>
+	10. Fluffywolf (0:7)<br>
+<br>
+218. #Orelious_IX (1066) 0<br>
++67|+58|+56|+61|+48|+19|+4|+1|-1<br>
+	8. Foxylocks12 (0:2)<br>
 	9. cocoadog (1:2)<br>
-	10. bandy (0:1)<br>
+	10. Fluffywolf (1:7)<br>
 <br>
-220. #squiggle-bot (1066) 0<br>
+219. #squiggle-bot (1066) 0<br>
 +23<br>
 	5. croissant (0:1)<br>
-	7. Foxylocks12 (0:2)<br>
+	8. Foxylocks12 (0:2)<br>
 	9. cocoadog (1:3)<br>
 <br>
-221. #AcidSoup~808 (1065) +1<br>
-+59|+39|+20|-4<br>
-	3. SparkyPlane (0:5)<br>
-	5. croissant (0:6)<br>
-	9. cocoadog (0:5)<br>
-<br>
-222. #JollyShade~519 (1065) 0<br>
+220. #JollyShade~519 (1065) 0<br>
 +40|+24|0<br>
 	1. ValveFury (0:1)<br>
-	3. SparkyPlane (1:0)<br>
+	4. SparkyPlane (1:0)<br>
 	5. croissant (0:2)<br>
 	6. Tylermbcs16 (0:1)<br>
-	7. Foxylocks12 (2:0)<br>
+	8. Foxylocks12 (2:0)<br>
 	9. cocoadog (0:3)<br>
-	10. bandy (1:5)<br>
 <br>
-223. #Lyzax (1064) +4<br>
+221. #Lyzax (1064) 0<br>
 +47|+35|+25|+15<br>
-	4. Buff-Plunts (0:5)<br>
-	7. Foxylocks12 (0:1)<br>
+	3. Buff-Plunts (0:5)<br>
+	8. Foxylocks12 (0:1)<br>
 	9. cocoadog (4:1)<br>
 <br>
-224. #KERATA1 (1063) 0<br>
-+66|+58|+62|+53|+36|+18|+10|+4|0<br>
-	3. SparkyPlane (0:1)<br>
-	6. Tylermbcs16 (0:1)<br>
-	7. Foxylocks12 (0:7)<br>
-	9. cocoadog (0:3)<br>
-	10. bandy (0:3)<br>
-<br>
-225. #Rageous (1062) 0<br>
--1<br>
-	3. SparkyPlane (0:4)<br>
-	7. Foxylocks12 (2:2)<br>
-	9. cocoadog (0:1)<br>
-<br>
-226. #MrMadeHerDay (1060) +1<br>
-+52|+49|+42|+37|+34|+28|+18<br>
-	1. ValveFury (1:3)<br>
-	4. Buff-Plunts (0:1)<br>
-	5. croissant (0:2)<br>
-	6. Tylermbcs16 (1:0)<br>
-	7. Foxylocks12 (0:2)<br>
-	9. cocoadog (1:3)<br>
-	10. bandy (1:0)<br>
-<br>
-227. #NikiNoll (1060) +31<br>
-+33<br>
-	7. Foxylocks12 (0:1)<br>
-<br>
-228. #Aeraeni (1059) +1<br>
-+33|+37|+36|+30|+26|+22|+20|+16|+17|+5<br>
-	1. ValveFury (0:2)<br>
-	3. SparkyPlane (0:4)<br>
-<br>
-229. #JackGalaxy (1054) 0<br>
-+66|+63|+54|+45|+42|+32|+24|+11|+11|+4<br>
-	4. Buff-Plunts (1:2)<br>
-	5. croissant (1:4)<br>
-	6. Tylermbcs16 (0:2)<br>
-	9. cocoadog (0:1)<br>
-	10. bandy (0:1)<br>
-<br>
-230. #iTRAX (1051) -1<br>
-+50|+48|+54|+48|+38|+30|+14|+8|+2|+1<br>
+222. #aawwa (1063) -3<br>
++11|+6|+1|-6|0|-2|+3|+4|+4|-3<br>
+	4. SparkyPlane (0:8)<br>
 	5. croissant (0:1)<br>
+	8. Foxylocks12 (0:1)<br>
+	9. cocoadog (1:9)<br>
+<br>
+223. #Rageous (1062) 0<br>
+-1<br>
+	4. SparkyPlane (0:4)<br>
+	8. Foxylocks12 (2:2)<br>
+	9. cocoadog (0:1)<br>
+<br>
+224. #Aeraeni (1060) 0<br>
++34|+38|+38|+32|+27|+24|+22|+17|+18|+7<br>
+	1. ValveFury (0:2)<br>
+	4. SparkyPlane (0:4)<br>
+<br>
+225. #NikiNoll (1060) 0<br>
++32|0<br>
+	8. Foxylocks12 (0:1)<br>
+<br>
+226. #iTRAX (1058) +5<br>
++55|+61|+55|+45|+37|+21|+15|+9|+8|+3<br>
+	4. SparkyPlane (0:1)<br>
+	5. croissant (1:5)<br>
 	6. Tylermbcs16 (0:1)<br>
-	7. Foxylocks12 (0:3)<br>
+	7. Miniongalcon (0:1)<br>
+	8. Foxylocks12 (0:3)<br>
 	9. cocoadog (0:7)<br>
 <br>
-231. #hacto42 (1050) +2<br>
-+51|+46|+48|+28|+6<br>
-	1. ValveFury (0:1)<br>
-	3. SparkyPlane (0:6)<br>
-	9. cocoadog (0:3)<br>
+227. #MrMadeHerDay (1058) -1<br>
++49|+47|+40|+35|+32|+25|+16|-2<br>
+	1. ValveFury (1:3)<br>
+	3. Buff-Plunts (0:1)<br>
+	5. croissant (0:2)<br>
+	6. Tylermbcs16 (1:0)<br>
+	8. Foxylocks12 (0:2)<br>
+	9. cocoadog (1:3)<br>
 <br>
-232. #Alaskanboy (1044) -1<br>
-+18|-1<br>
-	1. ValveFury (5:1)<br>
-	4. Buff-Plunts (0:3)<br>
-	5. croissant (0:1)<br>
-	7. Foxylocks12 (4:10)<br>
-	10. bandy (1:3)<br>
-<br>
-233. #gobindsingh (1044) +1<br>
-+28|+30|+34|+25|+25|+20|+12|+13|+12|+4<br>
-	1. ValveFury (2:2)<br>
-	2. AppleDragon (0:8)<br>
-	4. Buff-Plunts (1:9)<br>
-	5. croissant (0:4)<br>
+228. #JackGalaxy (1057) +1<br>
++69|+66|+56|+48|+45|+35|+27|+13|+14|+7<br>
+	3. Buff-Plunts (1:2)<br>
+	5. croissant (1:4)<br>
 	6. Tylermbcs16 (0:2)<br>
-	7. Foxylocks12 (1:13)<br>
-	8. Miniongalcon (0:4)<br>
+	7. Miniongalcon (1:0)<br>
+	9. cocoadog (0:1)<br>
+	10. Fluffywolf (2:3)<br>
+<br>
+229. #hacto42 (1053) +1<br>
++54|+49|+51|+32|+9<br>
+	1. ValveFury (0:1)<br>
+	4. SparkyPlane (1:9)<br>
+	9. cocoadog (0:2)<br>
+<br>
+230. #gobindsingh (1048) -3<br>
++34|+37|+29|+29|+24|+16|+17|+16|+8|-4<br>
+	1. ValveFury (2:2)<br>
+	2. AppleDragon (0:7)<br>
+	3. Buff-Plunts (1:9)<br>
+	5. croissant (1:5)<br>
+	6. Tylermbcs16 (0:2)<br>
+	7. Miniongalcon (0:6)<br>
+	8. Foxylocks12 (1:10)<br>
 	9. cocoadog (0:3)<br>
-	10. bandy (2:14)<br>
 <br>
-234. #Dars98 (1043) 0<br>
-+36|+1<br>
-	3. SparkyPlane (3:1)<br>
-	4. Buff-Plunts (4:2)<br>
-<br>
-235. #liquidslvr (1042) +3<br>
-+85|+75|+71|+73|+47|+29|+33|+36|+21|+2<br>
+231. #priceless- (1044) 0<br>
++9<br>
+	2. AppleDragon (0:1)<br>
+	3. Buff-Plunts (0:3)<br>
 	5. croissant (0:1)<br>
-	10. bandy (2:5)<br>
+	7. Miniongalcon (0:1)<br>
+	9. cocoadog (1:1)<br>
 <br>
-236. #Jamesflames6 (1041) 0<br>
+232. #Dars98 (1043) 0<br>
++36|+1<br>
+	3. Buff-Plunts (4:2)<br>
+	4. SparkyPlane (3:1)<br>
+<br>
+233. #Alaskanboy (1043) -1<br>
++17|-2<br>
+	1. ValveFury (5:1)<br>
+	3. Buff-Plunts (0:2)<br>
+	5. croissant (0:1)<br>
+	8. Foxylocks12 (4:10)<br>
+<br>
+234. #Nuttykazoo (1042) -1<br>
++32|+32|+7|-1|-2|+2|+6|+3|+2|+6<br>
+	7. Miniongalcon (0:3)<br>
+	9. cocoadog (0:7)<br>
+	10. Fluffywolf (0:5)<br>
+<br>
+235. #Jamesflames6 (1041) 0<br>
 +14<br>
 	1. ValveFury (2:1)<br>
 	2. AppleDragon (2:2)<br>
 	5. croissant (3:5)<br>
 	9. cocoadog (1:1)<br>
 <br>
-237. #Calcius (1041) 0<br>
+236. #Calcius (1041) 0<br>
 +33|+12|-1<br>
-	7. Foxylocks12 (0:2)<br>
+	8. Foxylocks12 (0:2)<br>
 	9. cocoadog (4:11)<br>
-	10. bandy (3:6)<br>
+<br>
+237. #FrostyNipple (1040) +7<br>
++22<br>
+	5. croissant (5:4)<br>
 <br>
 238. #rogueleader6 (1039) 0<br>
 +32|+26|+17|+7<br>
 	6. Tylermbcs16 (0:1)<br>
-	9. cocoadog (1:3)<br>
-	10. bandy (1:2)<br>
+	9. cocoadog (0:3)<br>
 <br>
-239. #Bcsfirst3 (1039) +3<br>
-+32|+32|+15|+3<br>
-	1. ValveFury (0:1)<br>
-	5. croissant (0:2)<br>
-	7. Foxylocks12 (0:4)<br>
-	9. cocoadog (0:1)<br>
-	10. bandy (3:7)<br>
+239. #liquidslvr (1039) -3<br>
++82|+72|+68|+70|+43|+26|+30|+33|+18|-1<br>
+	5. croissant (0:1)<br>
 <br>
-240. #GoldenGophe~500 (1037) 0<br>
--2<br>
-	3. SparkyPlane (0:2)<br>
-	9. cocoadog (2:2)<br>
-	10. bandy (2:0)<br>
-<br>
-241. #Nuttykazoo (1036) -3<br>
-+36|+27|+27|+1|-6|-7|-3|+1|-2|-3<br>
-	8. Miniongalcon (0:3)<br>
-	9. cocoadog (0:7)<br>
-	10. bandy (1:3)<br>
-<br>
-242. #homedog (1035) 0<br>
-+39|+36|+31|+39|+31|+20|+2|0|-1<br>
-	4. Buff-Plunts (0:3)<br>
+240. #homedog (1038) +3<br>
++43|+40|+34|+42|+34|+24|+6|+4|+3|+5<br>
+	3. Buff-Plunts (0:3)<br>
 	5. croissant (1:2)<br>
-	9. cocoadog (1:4)<br>
+	9. cocoadog (2:4)<br>
 <br>
-243. #DarkSoup~688 (1033) 0<br>
-+21<br>
-	3. SparkyPlane (0:1)<br>
-	7. Foxylocks12 (0:1)<br>
+241. #Bcsfirst3 (1038) 0<br>
++31|+31|+14|+3<br>
+	1. ValveFury (0:1)<br>
+	5. croissant (1:4)<br>
+	8. Foxylocks12 (0:4)<br>
+	9. cocoadog (1:2)<br>
+	10. Fluffywolf (0:3)<br>
+<br>
+242. #Lancer-69 (1035) -1<br>
++6|+5<br>
+	8. Foxylocks12 (0:1)<br>
 	9. cocoadog (0:5)<br>
-	10. bandy (0:1)<br>
 <br>
-244. #Lancer-69 (1032) +1<br>
-+3|+2<br>
-	7. Foxylocks12 (0:1)<br>
-	9. cocoadog (0:5)<br>
-	10. bandy (2:9)<br>
-<br>
-245. #ARandomWeeb (1030) -1<br>
-+35|+40|+44|+49|+31|+15|+7|-1<br>
-	3. SparkyPlane (0:4)<br>
-	4. Buff-Plunts (1:2)<br>
-	5. croissant (0:2)<br>
-	8. Miniongalcon (2:5)<br>
-	9. cocoadog (3:12)<br>
-	10. bandy (0:3)<br>
-<br>
-246. #xKookiex (1029) +1<br>
-+31|+16|+3|+1<br>
+243. #xKookiex (1033) -2<br>
++35|+20|+6|+5<br>
 	1. ValveFury (1:0)<br>
 	2. AppleDragon (1:4)<br>
-	3. SparkyPlane (0:4)<br>
-	4. Buff-Plunts (3:7)<br>
-	5. croissant (0:6)<br>
-	7. Foxylocks12 (0:1)<br>
-	10. bandy (1:1)<br>
+	3. Buff-Plunts (3:7)<br>
+	4. SparkyPlane (0:4)<br>
+	5. croissant (0:10)<br>
+	8. Foxylocks12 (0:1)<br>
 <br>
-247. #AbdullAziz (1028) -2<br>
+244. #RitzyLeaf~855 (1033) -1<br>
++24<br>
+<br>
+245. #ARandomWeeb (1028) -1<br>
++34|+39|+42|+48|+29|+14|+5|-3|0<br>
+	3. Buff-Plunts (1:2)<br>
+	4. SparkyPlane (0:4)<br>
+	5. croissant (0:4)<br>
+	7. Miniongalcon (2:5)<br>
+	9. cocoadog (3:12)<br>
+<br>
+246. #AbdullAziz (1028) 0<br>
 +22<br>
 	5. croissant (1:1)<br>
-	7. Foxylocks12 (2:2)<br>
+	8. Foxylocks12 (2:2)<br>
 	9. cocoadog (0:7)<br>
-	10. bandy (4:1)<br>
+	10. Fluffywolf (0:10)<br>
 <br>
-248. #CurlyHoax~958 (1028) 0<br>
+247. #CurlyHoax~958 (1028) 0<br>
 +8<br>
-	4. Buff-Plunts (0:1)<br>
+	3. Buff-Plunts (0:1)<br>
 <br>
-249. #Froggy13 (1028) 0<br>
-+6<br>
+248. #Froggy13 (1027) -1<br>
++5<br>
 	9. cocoadog (3:5)<br>
+	10. Fluffywolf (1:1)<br>
 <br>
-250. #distracted (1024) 0<br>
+249. #distracted (1024) 0<br>
 +23|+23|+11|+4<br>
 	5. croissant (0:1)<br>
-	7. Foxylocks12 (0:8)<br>
+	8. Foxylocks12 (0:8)<br>
 	9. cocoadog (2:14)<br>
-	10. bandy (4:6)<br>
+	10. Fluffywolf (0:3)<br>
 <br>
-251. #nil (1022) 0<br>
-+13|+7|-1<br>
-	7. Foxylocks12 (1:7)<br>
-	9. cocoadog (1:4)<br>
-	10. bandy (5:18)<br>
+250. #BrainNarf (1020) 0<br>
 <br>
-252. #tothaihao (1020) -1<br>
-+21|+13|+8|-3<br>
-	2. AppleDragon (0:3)<br>
-	5. croissant (0:4)<br>
-	9. cocoadog (1:1)<br>
-	10. bandy (0:2)<br>
-<br>
-253. #enzokpo123 (1016) 0<br>
-+12|+8<br>
-	4. Buff-Plunts (0:5)<br>
-	5. croissant (0:2)<br>
-	6. Tylermbcs16 (0:1)<br>
-	7. Foxylocks12 (0:3)<br>
+	1. ValveFury (0:1)<br>
 	9. cocoadog (0:2)<br>
 <br>
-254. #Xantor (1016) -1<br>
-+19|+12<br>
-	3. SparkyPlane (0:2)<br>
-	4. Buff-Plunts (0:1)<br>
+251. #tothaihao (1020) 0<br>
++21|+13|+8|-3<br>
+<br>
+252. #SuckTard (1019) +1<br>
+0<br>
+	5. croissant (0:2)<br>
+	9. cocoadog (1:2)<br>
+<br>
+253. #Xantor (1017) +1<br>
++19|+13<br>
+	2. AppleDragon (0:1)<br>
+	4. SparkyPlane (1:2)<br>
 	5. croissant (0:2)<br>
 	9. cocoadog (1:1)<br>
+	10. Fluffywolf (0:1)<br>
 <br>
-255. #dawson27 (1015) 0<br>
-+8<br>
-	4. Buff-Plunts (0:1)<br>
+254. #dawson27 (1014) 0<br>
++7<br>
+	3. Buff-Plunts (0:1)<br>
 	5. croissant (0:2)<br>
-	9. cocoadog (0:1)<br>
 <br>
-256. #ANHc (1014) -1<br>
--1<br>
-	7. Foxylocks12 (2:7)<br>
-	9. cocoadog (1:11)<br>
-	10. bandy (1:1)<br>
-<br>
-257. #meechydarko (1013) 0<br>
-+20|+9|+6|+5|+3|+4<br>
-	3. SparkyPlane (2:7)<br>
-	7. Foxylocks12 (0:1)<br>
-	9. cocoadog (1:0)<br>
-	10. bandy (0:1)<br>
-<br>
-258. #teamdaddy (1011) 0<br>
-+9|+1|+5|+10|+8|+5|-2|-6|-16|-10<br>
-	5. croissant (0:2)<br>
-	7. Foxylocks12 (0:13)<br>
-	9. cocoadog (0:6)<br>
-	10. bandy (0:10)<br>
-<br>
-259. #tj101560 (1011) -1<br>
-+10|+6|+5|+10|+12|+1<br>
-	1. ValveFury (0:2)<br>
-	3. SparkyPlane (0:1)<br>
-	4. Buff-Plunts (0:1)<br>
-	5. croissant (0:3)<br>
-	6. Tylermbcs16 (0:1)<br>
-	9. cocoadog (2:8)<br>
-<br>
-260. #jajahaha (1011) 0<br>
+255. #jajahaha (1014) +4<br>
 <br>
 	5. croissant (1:1)<br>
 	9. cocoadog (4:10)<br>
 <br>
-261. #ACEEEEEEEEEE (1010) -4<br>
-+12|+16|+7|+11|+6|+11|+13|+11|+5|-5<br>
+256. #ANHc (1014) 0<br>
+-1<br>
+	4. SparkyPlane (0:1)<br>
+	8. Foxylocks12 (2:7)<br>
+	9. cocoadog (1:11)<br>
+<br>
+257. #meechydarko (1014) 0<br>
++21|+10|+7|+6|+4|+5<br>
+	4. SparkyPlane (2:7)<br>
+	8. Foxylocks12 (0:1)<br>
+	9. cocoadog (1:0)<br>
+<br>
+258. #ACEEEEEEEEEE (1013) 0<br>
++19|+10|+14|+9|+14|+16|+14|+8|-2|-1<br>
 	1. ValveFury (1:0)<br>
 	2. AppleDragon (0:1)<br>
-	3. SparkyPlane (0:1)<br>
-	4. Buff-Plunts (0:1)<br>
+	3. Buff-Plunts (0:1)<br>
+	4. SparkyPlane (0:4)<br>
 	5. croissant (0:5)<br>
 	6. Tylermbcs16 (1:0)<br>
-	7. Foxylocks12 (0:2)<br>
-	9. cocoadog (1:6)<br>
-	10. bandy (1:4)<br>
+	8. Foxylocks12 (0:2)<br>
+	9. cocoadog (2:6)<br>
+	10. Fluffywolf (0:5)<br>
+<br>
+259. #InFeRNo-300 (1010) +4<br>
++7<br>
+	9. cocoadog (1:1)<br>
+	10. Fluffywolf (1:12)<br>
+<br>
+260. #tj101560 (1010) 0<br>
++9|+5|+5|+9|+12|0<br>
+	1. ValveFury (0:2)<br>
+	4. SparkyPlane (0:1)<br>
+	5. croissant (0:3)<br>
+	6. Tylermbcs16 (0:1)<br>
+	9. cocoadog (2:7)<br>
+<br>
+261. #teamdaddy (1010) -1<br>
++8|0|+4|+9|+7|+4|-3|-6|-17|-11<br>
+	5. croissant (0:2)<br>
+	8. Foxylocks12 (0:13)<br>
+	9. cocoadog (0:6)<br>
 <br>
 262. #locochon133 (1010) 0<br>
 +9|+8|+7|+6|-4|+1<br>
 	9. cocoadog (1:3)<br>
 <br>
-263. #HoLaKo (1009) 0<br>
+263. #jizzkizzkill (1009) +4<br>
++7|+4<br>
+	4. SparkyPlane (0:1)<br>
+<br>
+264. #HoLaKo (1009) 0<br>
 +1|0<br>
 <br>
-264. #Legalamb (1009) 0<br>
-+2|+7|+9|-10|+3<br>
-	3. SparkyPlane (0:1)<br>
-<br>
-265. #aceface (1008) 0<br>
--2|+8|+6|-1|-9|-17|-16|-17|-10|-3<br>
-	3. SparkyPlane (0:1)<br>
-	6. Tylermbcs16 (0:1)<br>
-	8. Miniongalcon (1:0)<br>
-	9. cocoadog (1:2)<br>
-	10. bandy (2:18)<br>
-<br>
-266. #Samoanbrat (1008) 0<br>
-+16|+10<br>
-	7. Foxylocks12 (1:0)<br>
-	8. Miniongalcon (0:1)<br>
-	9. cocoadog (1:3)<br>
-	10. bandy (2:8)<br>
-<br>
-267. #SuicideMan (1007) +1<br>
-+10|+17|+22|+29|+27|+27|+22|+19|+7|0<br>
-	3. SparkyPlane (2:8)<br>
+265. #SuicideMan (1009) +5<br>
++20|+24|+32|+30|+29|+24|+21|+9|+2|+3<br>
+	1. ValveFury (0:2)<br>
+	4. SparkyPlane (3:13)<br>
 	5. croissant (0:4)<br>
 	6. Tylermbcs16 (0:1)<br>
-	7. Foxylocks12 (0:3)<br>
+	8. Foxylocks12 (0:3)<br>
 	9. cocoadog (0:1)<br>
-	10. bandy (0:4)<br>
 <br>
-268. #Thillixer453 (1006) +6<br>
-+15|+11|+14|+17<br>
+266. #aceface (1009) 0<br>
+-1|+9|+7|0|-9|-17|-16|-16|-9|-2<br>
+	1. ValveFury (0:2)<br>
+	4. SparkyPlane (0:1)<br>
+	6. Tylermbcs16 (0:1)<br>
+	7. Miniongalcon (1:0)<br>
+	9. cocoadog (1:2)<br>
+<br>
+267. #Samoanbrat (1008) 0<br>
++16|+10<br>
+	8. Foxylocks12 (1:0)<br>
+	9. cocoadog (1:3)<br>
+<br>
+268. #Legalamb (1008) 0<br>
++1|+6|+7|-11|+2<br>
+	4. SparkyPlane (0:5)<br>
+<br>
+269. #Thillixer453 (1006) +1<br>
++14|+11|+14|+17<br>
 	5. croissant (0:2)<br>
 	9. cocoadog (1:3)<br>
 <br>
-269. #GrumpyCrush~107 (1005) 0<br>
+270. #GrumpyCrush~107 (1005) 0<br>
 0<br>
 	9. cocoadog (1:1)<br>
 <br>
-270. #jizzkizzkill (1005) +1<br>
-+2<br>
-<br>
 271. #lanadelhoe (1005) 0<br>
 +1<br>
-	3. SparkyPlane (0:1)<br>
-	10. bandy (0:5)<br>
+	4. SparkyPlane (0:1)<br>
 <br>
-272. #InFeRNo-300 (1004) +3<br>
-<br>
-<br>
-273. #WickedFlame~953 (1002) -1<br>
--1<br>
-	3. SparkyPlane (1:3)<br>
-	8. Miniongalcon (1:0)<br>
-	9. cocoadog (1:6)<br>
-<br>
-274. #tbeattie44 (1002) +2<br>
-+3|+4<br>
-	3. SparkyPlane (0:4)<br>
+272. #goldsky (1002) -1<br>
++9|0<br>
 	5. croissant (0:1)<br>
+	10. Fluffywolf (0:1)<br>
+<br>
+273. #seoirse (1002) +3<br>
++7|-4|-1|+5<br>
+	8. Foxylocks12 (0:5)<br>
+	9. cocoadog (0:1)<br>
+<br>
+274. #WickedFlame~953 (1002) 0<br>
+-1<br>
+	4. SparkyPlane (1:3)<br>
+	7. Miniongalcon (1:0)<br>
+	9. cocoadog (1:6)<br>
 <br>
 275. #ZincSheet~351 (1001) 0<br>
 -5|+4|0|0<br>
 	1. ValveFury (0:1)<br>
 	9. cocoadog (0:9)<br>
-	10. bandy (1:6)<br>
+	10. Fluffywolf (1:10)<br>
 <br>
-276. #goldsky (1001) +6<br>
-+7<br>
+276. #tbeattie44 (1001) -1<br>
++2|+3<br>
+	4. SparkyPlane (0:4)<br>
 	5. croissant (0:1)<br>
 <br>
-277. #ShinyGoose~286 (998) 0<br>
-+1|+3|+1|+1|+2|0<br>
+277. #ShinyGoose~286 (998) -1<br>
+0|+3|+1|0|+2|-1<br>
 	6. Tylermbcs16 (0:2)<br>
-	7. Foxylocks12 (1:4)<br>
-	9. cocoadog (0:9)<br>
-	10. bandy (0:9)<br>
+	8. Foxylocks12 (1:4)<br>
+	9. cocoadog (0:5)<br>
 <br>
-278. #Ragnarok49 (998) 0<br>
-+4|+8|+10|+18|+14|0<br>
+278. #Ragnarok49 (997) 0<br>
++4|+8|+10|+17|+14|0<br>
 	2. AppleDragon (0:1)<br>
-	3. SparkyPlane (1:24)<br>
+	4. SparkyPlane (1:24)<br>
 	5. croissant (0:1)<br>
 	9. cocoadog (0:8)<br>
 <br>
-279. #seoirse (997) +1<br>
-+2|-9|-6|0<br>
-	7. Foxylocks12 (0:5)<br>
-	9. cocoadog (0:4)<br>
-	10. bandy (0:2)<br>
+279. #romaine876 (994) -3<br>
+-1<br>
 <br>
-280. #AlexPlay (996) 0<br>
-+3<br>
-	3. SparkyPlane (1:5)<br>
-	4. Buff-Plunts (0:2)<br>
-	5. croissant (0:1)<br>
-	9. cocoadog (0:1)<br>
-	10. bandy (0:2)<br>
-<br>
-281. #clown95 (993) -3<br>
+280. #clown95 (993) 0<br>
 0<br>
 	1. ValveFury (0:1)<br>
 	5. croissant (0:4)<br>
 <br>
-282. #FuzzyOyster~550 (991) 0<br>
--2|-1<br>
+281. #FuzzyOyster~550 (992) +1<br>
+-1|0<br>
 	5. croissant (0:1)<br>
 	9. cocoadog (0:3)<br>
 <br>
-283. #sprexe (991) 0<br>
+282. #sprexe (991) 0<br>
 -5<br>
-	7. Foxylocks12 (1:3)<br>
 	9. cocoadog (0:4)<br>
-	10. bandy (1:1)<br>
 <br>
-284. #Caliber.7 (990) 0<br>
--8|-4<br>
-	1. ValveFury (0:1)<br>
-	7. Foxylocks12 (1:10)<br>
-	10. bandy (0:8)<br>
+283. #Duvot (984) +1<br>
+-2|+2<br>
+	5. croissant (1:5)<br>
+	9. cocoadog (1:2)<br>
+	10. Fluffywolf (0:1)<br>
 <br>
-285. #tombib (982) 0<br>
+284. #tombib (982) 0<br>
 -10|-4<br>
-	4. Buff-Plunts (0:4)<br>
-	5. croissant (0:2)<br>
-	7. Foxylocks12 (0:2)<br>
-	10. bandy (0:4)<br>
+	3. Buff-Plunts (0:4)<br>
+	5. croissant (0:5)<br>
+	8. Foxylocks12 (0:2)<br>
+	10. Fluffywolf (0:1)<br>
 <br>
-286. #jkoy3.1 (975) +1<br>
--1|+3|0|+2|-1|-9|-5|-4|-2|+4<br>
+285. #jkoy3.1 (977) +1<br>
++1|+5|+2|+4|+2|-6|-3|-2|+1|+6<br>
 	2. AppleDragon (0:1)<br>
-	4. Buff-Plunts (0:1)<br>
+	3. Buff-Plunts (0:1)<br>
 	5. croissant (0:3)<br>
-	7. Foxylocks12 (0:2)<br>
-	8. Miniongalcon (0:2)<br>
+	7. Miniongalcon (0:4)<br>
+	8. Foxylocks12 (0:2)<br>
 	9. cocoadog (0:1)<br>
+	10. Fluffywolf (0:1)<br>
 <br>
-287. #luisluis (974) 0<br>
+286. #luisluis (974) 0<br>
 -15|-9|-2|+7|+10|+10|+16|+1|-1|-1<br>
 	2. AppleDragon (0:3)<br>
-	3. SparkyPlane (0:1)<br>
-	4. Buff-Plunts (1:5)<br>
+	3. Buff-Plunts (1:4)<br>
 	5. croissant (0:5)<br>
-	8. Miniongalcon (0:1)<br>
-	9. cocoadog (1:18)<br>
+	7. Miniongalcon (0:1)<br>
+	9. cocoadog (1:13)<br>
 <br>
-288. #JamesTheMan3 (963) 0<br>
+287. #JamesTheMan3 (963) 0<br>
 -26|-16|-7|-7|-1<br>
-	2. AppleDragon (0:1)<br>
 	5. croissant (0:2)<br>
-	7. Foxylocks12 (1:7)<br>
 	9. cocoadog (0:6)<br>
-	10. bandy (1:2)<br>
