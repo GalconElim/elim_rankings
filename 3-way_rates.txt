@@ -1,898 +1,826 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #GreatApple~214 (1285) +2<br>
--9|-19|-18|-19|-13|-16|-16|-10|-3|+1<br>
-	2. Nimsta (1:0)<br>
-	3. rickss (1:1)<br>
+1. #GreatApple~214 (1281) -1<br>
+-13|-24|-23|-24|-18|-20|-20|-15|-8|-4<br>
+	4. rickss (1:2)<br>
 	5. svircs (2:2)<br>
-	6. Jarre (0:1)<br>
+	7. Jarre (0:1)<br>
 <br>
-2. #Nimsta (1267) -1<br>
-+66|+43|+33|+3|-16|+6|+15|-10|-9|+5<br>
-	1. GreatApple~214 (0:1)<br>
-	3. rickss (2:1)<br>
+2. #NuttyJeans (1276) 0<br>
++53|+41|+49|+26|+22|+32|+29|+40|+21|+17<br>
+	4. rickss (0:1)<br>
+	6. chomeur2 (1:3)<br>
+<br>
+3. #Nimsta (1273) -1<br>
++71|+49|+39|+9|-10|+12|+20|-5|-3|+11<br>
+	4. rickss (1:1)<br>
 	5. svircs (1:0)<br>
-	7. aeiou (3:1)<br>
 	8. zebruken (2:0)<br>
+	9. aeiou (3:1)<br>
 <br>
-3. #rickss (1265) -2<br>
--6|-1|-6|+2|+6|0|-3|0|+6|-3<br>
-	1. GreatApple~214 (1:1)<br>
-	2. Nimsta (1:2)<br>
-	4. NuttyJeans (1:0)<br>
+4. #rickss (1257) -1<br>
+-14|-9|-14|-6|-2|-8|-11|-8|-2|-11<br>
+	1. GreatApple~214 (2:1)<br>
+	2. NuttyJeans (1:0)<br>
+	3. Nimsta (1:1)<br>
 	5. svircs (0:1)<br>
-	6. Jarre (3:0)<br>
-	7. aeiou (7:4)<br>
-	8. zebruken (3:1)<br>
-	9. joropo808 (1:0)<br>
-	10. Tiberius88 (0:1)<br>
+	6. chomeur2 (0:1)<br>
+	7. Jarre (3:1)<br>
+	8. zebruken (3:0)<br>
+	9. aeiou (7:3)<br>
+	10. joropo808 (1:0)<br>
 <br>
-4. #NuttyJeans (1258) +1<br>
-+34|+22|+30|+7|+4|+13|+10|+21|+2|-2<br>
-	3. rickss (0:1)<br>
-<br>
-5. #svircs (1249) +1<br>
-+8|+6|+14|+12|+1|+6|+18|-7|-11|+3<br>
+5. #svircs (1247) 0<br>
++7|+5|+12|+11|0|+4|+17|-8|-12|+2<br>
 	1. GreatApple~214 (2:2)<br>
-	2. Nimsta (0:1)<br>
-	3. rickss (1:0)<br>
-	6. Jarre (1:0)<br>
-	7. aeiou (0:2)<br>
-	9. joropo808 (1:1)<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (1:0)<br>
+	7. Jarre (1:1)<br>
+	9. aeiou (0:2)<br>
+	10. joropo808 (1:1)<br>
 <br>
-6. #Jarre (1242) -1<br>
-+15|+12|+14|+22|+15|+24|+29|+23|+12|+9<br>
+6. #chomeur2 (1246) +3<br>
++11|+9|-2|+1|+1|+15|+11|+7|+20|+11<br>
+	2. NuttyJeans (3:1)<br>
+	4. rickss (1:0)<br>
+	8. zebruken (0:1)<br>
+	9. aeiou (2:2)<br>
+<br>
+7. #Jarre (1245) +2<br>
++15|+17|+25|+18|+27|+32|+26|+14|+12|-3<br>
 	1. GreatApple~214 (1:0)<br>
-	3. rickss (0:3)<br>
-	5. svircs (0:1)<br>
-	7. aeiou (1:1)<br>
+	4. rickss (1:3)<br>
+	5. svircs (1:1)<br>
 	8. zebruken (1:1)<br>
-	10. Tiberius88 (1:0)<br>
+	9. aeiou (1:1)<br>
 <br>
-7. #aeiou (1234) -1<br>
-+31|+24|+20|+7|+14|+17|+18|+9|+3|-1<br>
-	2. Nimsta (1:3)<br>
-	3. rickss (4:7)<br>
+8. #zebruken (1235) 0<br>
++35|+52|+35|+36|+27|+33|+39|+34|+23|+1<br>
+	3. Nimsta (0:2)<br>
+	4. rickss (0:3)<br>
+	6. chomeur2 (1:0)<br>
+	7. Jarre (1:1)<br>
+<br>
+9. #aeiou (1233) -1<br>
++30|+23|+18|+6|+13|+16|+17|+8|+2|-2<br>
+	3. Nimsta (1:3)<br>
+	4. rickss (3:7)<br>
 	5. svircs (2:0)<br>
-	6. Jarre (1:1)<br>
+	6. chomeur2 (2:2)<br>
+	7. Jarre (1:1)<br>
 <br>
-8. #zebruken (1232) 0<br>
-+31|+49|+32|+33|+24|+30|+36|+31|+20|-3<br>
-	2. Nimsta (0:2)<br>
-	3. rickss (1:3)<br>
-	6. Jarre (1:1)<br>
-<br>
-9. #joropo808 (1231) 0<br>
-+182|+143|+106|+103|+81|+61|+47|+36|+7<br>
-	3. rickss (0:1)<br>
+10. #joropo808 (1232) -1<br>
++182|+144|+107|+104|+82|+62|+48|+36|+8<br>
+	4. rickss (0:1)<br>
 	5. svircs (1:1)<br>
 <br>
-10. #Tiberius88 (1229) -1<br>
-+16|+23|+26|+14|+10|+20|+16|+9|+3|+4<br>
-	3. rickss (1:0)<br>
-	6. Jarre (0:1)<br>
-<br>
-11. #GroovyFlame (1229) +1<br>
--8|-12|-4|+4|+5|-10|-10|-3|-18|-11<br>
-	2. Nimsta (2:5)<br>
-	3. rickss (1:3)<br>
-	4. NuttyJeans (1:1)<br>
+11. #GroovyFlame (1228) 0<br>
+-12|-4|+4|+5|-11|-11|-4|-18|-11|-2<br>
+	2. NuttyJeans (1:1)<br>
+	3. Nimsta (2:5)<br>
 	5. svircs (0:1)<br>
-	9. joropo808 (1:0)<br>
+	10. joropo808 (1:0)<br>
 <br>
-12. #A-z-sh (1227) -7<br>
-+5|+9|+2|+2|-6|-3|+8|-11|-10|-1<br>
+12. #Tiberius88 (1225) -4<br>
++11|+19|+21|+10|+6|+15|+12|+5|-1|0<br>
+	4. rickss (1:0)<br>
+	7. Jarre (1:0)<br>
+	9. aeiou (1:0)<br>
+<br>
+13. #A-z-sh (1224) +1<br>
++2|+5|-1|-1|-9|-7|+5|-14|-13|-4<br>
 	1. GreatApple~214 (1:1)<br>
-	2. Nimsta (7:9)<br>
-	3. rickss (11:8)<br>
+	3. Nimsta (7:7)<br>
+	4. rickss (11:7)<br>
 	5. svircs (1:0)<br>
-	6. Jarre (3:2)<br>
-	7. aeiou (3:0)<br>
+	6. chomeur2 (1:1)<br>
+	7. Jarre (4:2)<br>
 	8. zebruken (4:1)<br>
-	9. joropo808 (3:6)<br>
+	9. aeiou (3:0)<br>
+	10. joropo808 (2:3)<br>
 <br>
-13. #flagstone (1224) +1<br>
--9|-13|-16|-9|0|-17|-7|-8|-9|-1<br>
-	1. GreatApple~214 (1:0)<br>
+14. #fifty6 (1218) -1<br>
++13|+11|-5|0|-20|-40|-34|-21|-16|-9<br>
+	3. Nimsta (0:1)<br>
 <br>
-14. #MUF (1208) -2<br>
-+142|+112|+92|+85|+46|+26|+17|+9|+8<br>
-	2. Nimsta (1:1)<br>
-	3. rickss (1:4)<br>
-	4. NuttyJeans (1:1)<br>
+15. #MUF (1212) +2<br>
++145|+116|+95|+89|+50|+29|+21|+12|+12|+3<br>
+	2. NuttyJeans (1:1)<br>
+	3. Nimsta (1:1)<br>
+	4. rickss (1:4)<br>
 	5. svircs (0:1)<br>
-	7. aeiou (3:0)<br>
 	8. zebruken (0:1)<br>
+	9. aeiou (3:0)<br>
 <br>
-15. #TangySoda~164 (1207) +2<br>
-+135|+96|+75|+53|+38|+11|+18|+25|+27|+10<br>
-	2. Nimsta (0:3)<br>
-	3. rickss (3:5)<br>
+16. #TangySoda~164 (1206) 0<br>
++134|+95|+74|+51|+36|+10|+17|+24|+26|+8<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (3:3)<br>
 	5. svircs (1:0)<br>
-	6. Jarre (0:3)<br>
-	7. aeiou (2:7)<br>
-	9. joropo808 (1:2)<br>
-	10. Tiberius88 (0:2)<br>
+	7. Jarre (0:2)<br>
+	9. aeiou (2:7)<br>
+	10. joropo808 (1:2)<br>
 <br>
-16. #His-Majesty (1207) -5<br>
-+3|-2|-4|-12|+6|+11|+15|+22|0|-12<br>
+17. #BillY_Patro (1202) +12<br>
++113|+96|+78|+69|+52|+46|+49|+36|+24|0<br>
 	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (9:4)<br>
-	3. rickss (6:9)<br>
+	2. NuttyJeans (0:1)<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (4:3)<br>
+	7. Jarre (2:1)<br>
+	9. aeiou (0:1)<br>
+	10. joropo808 (1:0)<br>
+<br>
+18. #KvL (1202) +3<br>
++19|+3|-2|-2|-1|-2|-3|+10|+15|+11<br>
+	1. GreatApple~214 (3:1)<br>
+	3. Nimsta (3:5)<br>
+	4. rickss (7:3)<br>
+	7. Jarre (1:0)<br>
+	8. zebruken (1:0)<br>
+	9. aeiou (2:2)<br>
+	10. joropo808 (0:1)<br>
+<br>
+19. #SmotPoker (1202) 0<br>
++78|+76|+80|+79|+74|+53|+30|+22|+17|+13<br>
+	1. GreatApple~214 (0:1)<br>
+	2. NuttyJeans (0:1)<br>
+	3. Nimsta (0:2)<br>
+	4. rickss (1:0)<br>
+	5. svircs (0:1)<br>
+	8. zebruken (1:0)<br>
+	10. joropo808 (0:1)<br>
+<br>
+20. #z.snafu (1196) +7<br>
++10|+16|+5|-2|+5|+8|+2|+19|+8|+6<br>
+	4. rickss (3:2)<br>
+	6. chomeur2 (0:2)<br>
+	10. joropo808 (0:2)<br>
+<br>
+21. #ZenSamurai (1196) 0<br>
++46|+35|+39|+45|+29|+15|+4|+1|-1|-10<br>
+	3. Nimsta (1:0)<br>
+	4. rickss (3:5)<br>
+	6. chomeur2 (0:1)<br>
+	7. Jarre (0:1)<br>
+<br>
+22. #His-Majesty (1193) -4<br>
+-15|-18|-25|-7|-2|+2|+8|-13|-25|-14<br>
+	1. GreatApple~214 (1:2)<br>
+	2. NuttyJeans (0:4)<br>
+	3. Nimsta (9:4)<br>
+	4. rickss (6:7)<br>
 	5. svircs (0:5)<br>
-	6. Jarre (1:5)<br>
-	7. aeiou (1:10)<br>
-	9. joropo808 (3:0)<br>
+	6. chomeur2 (2:5)<br>
+	7. Jarre (1:5)<br>
+	9. aeiou (1:10)<br>
+	10. joropo808 (3:0)<br>
 <br>
-17. #SmotPoker (1202) +1<br>
-+79|+77|+80|+80|+74|+53|+30|+22|+17|+13<br>
-	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (0:2)<br>
-	3. rickss (1:0)<br>
-	4. NuttyJeans (0:1)<br>
+23. #Buz (1193) +7<br>
++2|+24|+13|+3|+3|-18|-17|+2|+12|+7<br>
+	2. NuttyJeans (0:2)<br>
+	3. Nimsta (2:3)<br>
+	4. rickss (2:4)<br>
+	7. Jarre (1:1)<br>
+	8. zebruken (0:2)<br>
+	9. aeiou (1:1)<br>
+<br>
+24. #UNAGUY05 (1191) -1<br>
++1|+14|+21|+4|-2|+3|+7|+2|0|-1<br>
+	3. Nimsta (1:3)<br>
+	4. rickss (0:1)<br>
 	5. svircs (0:1)<br>
-	8. zebruken (1:0)<br>
-	9. joropo808 (0:1)<br>
+	7. Jarre (0:1)<br>
+	8. zebruken (0:2)<br>
+	10. joropo808 (0:2)<br>
 <br>
-18. #KvL (1196) +1<br>
-+13|-3|-8|-8|-8|-9|-10|+4|+8|+4<br>
-	1. GreatApple~214 (3:1)<br>
-	2. Nimsta (2:11)<br>
-	3. rickss (4:2)<br>
-	6. Jarre (1:0)<br>
-	7. aeiou (2:2)<br>
-	8. zebruken (1:0)<br>
-	9. joropo808 (1:2)<br>
-<br>
-19. #FeelThaMode (1194) -1<br>
-+26|+29|+18|+3|+5|-4|-4|-10|-11|-7<br>
-	1. GreatApple~214 (0:1)<br>
-	3. rickss (1:2)<br>
-	5. svircs (0:1)<br>
-	6. Jarre (1:1)<br>
-	10. Tiberius88 (1:1)<br>
-<br>
-20. #ZenSamurai (1194) 0<br>
-+44|+33|+37|+43|+28|+13|+2|-1|-3|-12<br>
-	2. Nimsta (1:0)<br>
-	3. rickss (0:3)<br>
-	6. Jarre (0:1)<br>
-<br>
-21. #theAceofGame (1190) +2<br>
-+163|+149|+134|+97|+81|+60|+48|+29|+24|+8<br>
-	1. GreatApple~214 (2:0)<br>
-	3. rickss (3:2)<br>
-	4. NuttyJeans (1:2)<br>
-	5. svircs (0:1)<br>
-	7. aeiou (0:1)<br>
-	9. joropo808 (0:2)<br>
-<br>
-22. #BigPoppaNuts (1190) -1<br>
-+161|+125|+99|+74|+61|+42|+39|+22|+15|+1<br>
-	9. joropo808 (2:3)<br>
-<br>
-23. #goldfinger (1190) 0<br>
+25. #goldfinger (1190) 0<br>
 +2|-13|-15|-24|-20|+4|+3|+8|+7|-4<br>
-	2. Nimsta (2:2)<br>
-	3. rickss (0:2)<br>
-	4. NuttyJeans (0:2)<br>
+	2. NuttyJeans (0:2)<br>
+	3. Nimsta (2:2)<br>
+	4. rickss (0:2)<br>
 	5. svircs (3:1)<br>
 <br>
-24. #UNAGUY05 (1190) 0<br>
-0|+13|+20|+3|-3|+2|+6|+1|-1|-2<br>
-	2. Nimsta (1:3)<br>
-	3. rickss (0:1)<br>
+26. #BigPoppaNuts (1190) 0<br>
++125|+99|+74|+60|+42|+39|+21|+14|+1|-1<br>
+	10. joropo808 (2:3)<br>
+<br>
+27. #hamidrez (1189) 0<br>
++46|+36|+27|+7|+11|+12|+23|+14|+12|-2<br>
+	2. NuttyJeans (1:1)<br>
 	5. svircs (1:1)<br>
-	6. Jarre (0:1)<br>
+	9. aeiou (1:0)<br>
+<br>
+28. #olo (1186) +4<br>
++15|+4|+5|-1|+5|+9|+21|+22|+17|+17<br>
+	1. GreatApple~214 (1:1)<br>
+	2. NuttyJeans (1:1)<br>
+	9. aeiou (2:1)<br>
+<br>
+29. #theAceofGame (1184) -2<br>
++143|+128|+91|+75|+54|+42|+23|+18|+2|-3<br>
+	1. GreatApple~214 (2:0)<br>
+	2. NuttyJeans (1:2)<br>
+	4. rickss (4:2)<br>
+	5. svircs (0:1)<br>
+	9. aeiou (0:1)<br>
+	10. joropo808 (0:2)<br>
+<br>
+30. #stront01 (1181) -1<br>
++17|+16|+14|+13|+6|+9|+18|+18|+21|+3<br>
+	1. GreatApple~214 (1:2)<br>
+	3. Nimsta (3:3)<br>
+	4. rickss (1:2)<br>
+	5. svircs (1:0)<br>
+	6. chomeur2 (1:2)<br>
 	8. zebruken (0:2)<br>
-	9. joropo808 (0:2)<br>
-	10. Tiberius88 (0:3)<br>
+	9. aeiou (3:3)<br>
 <br>
-25. #hamidrez (1190) +3<br>
-+46|+37|+28|+8|+11|+13|+23|+14|+13|-1<br>
-	4. NuttyJeans (1:1)<br>
-	5. svircs (1:1)<br>
-	7. aeiou (1:0)<br>
-<br>
-26. #Buz (1184) +10<br>
--24|-6|+15|+5|-6|-5|-27|-26|-6|+4<br>
-	2. Nimsta (2:3)<br>
-	3. rickss (4:7)<br>
-	4. NuttyJeans (0:2)<br>
-	8. zebruken (0:1)<br>
-	10. Tiberius88 (2:0)<br>
-<br>
-27. #BillY_Patro (1181) +5<br>
-+106|+92|+76|+57|+49|+31|+25|+29|+15|+4<br>
+31. #gusgus100096 (1181) +2<br>
++128|+90|+58|+41|+29|+27|+20|+2|+4<br>
 	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (0:1)<br>
-	3. rickss (3:2)<br>
-	4. NuttyJeans (0:1)<br>
-	7. aeiou (0:1)<br>
-	9. joropo808 (1:0)<br>
-<br>
-28. #gusgus100096 (1180) +1<br>
-+127|+88|+57|+40|+27|+25|+19|+1|+3<br>
-	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (2:2)<br>
-	3. rickss (2:1)<br>
-	4. NuttyJeans (0:1)<br>
-	7. aeiou (1:1)<br>
+	2. NuttyJeans (0:1)<br>
+	3. Nimsta (2:2)<br>
+	4. rickss (2:1)<br>
 	8. zebruken (3:1)<br>
+	9. aeiou (0:1)<br>
 <br>
-29. #olo (1179) +1<br>
-+8|-3|-2|-8|-2|+2|+15|+15|+10|+10<br>
-	1. GreatApple~214 (1:1)<br>
-	4. NuttyJeans (1:1)<br>
-<br>
-30. #tiger_style (1179) 0<br>
-+14|-6|+4|+7|+15|+11|+19|+17|+18|+8<br>
-	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (0:2)<br>
-	7. aeiou (2:0)<br>
-	9. joropo808 (0:1)<br>
-<br>
-31. #moonrocks (1177) 0<br>
+32. #moonrocks (1177) 0<br>
 +18|+20|+26|+14|+14|+19|+8|+12|-1|+7<br>
-	1. GreatApple~214 (1:3)<br>
-	3. rickss (0:2)<br>
-	6. Jarre (1:3)<br>
-	9. joropo808 (0:1)<br>
-	10. Tiberius88 (0:1)<br>
+	1. GreatApple~214 (1:1)<br>
+	4. rickss (0:1)<br>
+	7. Jarre (0:3)<br>
+	10. joropo808 (0:1)<br>
 <br>
-32. #SpaceX (1175) +6<br>
-+131|+100|+73|+42|+18|0<br>
-	1. GreatApple~214 (1:2)<br>
-	3. rickss (2:1)<br>
-	4. NuttyJeans (0:2)<br>
-	5. svircs (0:1)<br>
-	7. aeiou (1:0)<br>
-	10. Tiberius88 (0:1)<br>
-<br>
-33. #Celica (1172) +6<br>
--13|-5|-21|-28|-18|-27|-29|-22|-21|-4<br>
+33. #tiger_style (1176) 0<br>
++11|-9|+2|+5|+12|+9|+17|+15|+15|+6<br>
 	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (4:8)<br>
-	3. rickss (2:4)<br>
-	5. svircs (0:2)<br>
-	6. Jarre (0:1)<br>
-	7. aeiou (4:1)<br>
-	10. Tiberius88 (1:1)<br>
+	3. Nimsta (0:2)<br>
+	9. aeiou (2:0)<br>
+	10. joropo808 (0:1)<br>
 <br>
-34. #stront01 (1172) +1<br>
-+12|+7|+6|+5|+3|-3|-1|+8|+8|+12<br>
+34. #SpaceX (1176) 0<br>
++133|+102|+75|+44|+20|+1|-1<br>
 	1. GreatApple~214 (1:2)<br>
-	2. Nimsta (3:2)<br>
-	3. rickss (3:4)<br>
-	5. svircs (3:0)<br>
-	7. aeiou (1:2)<br>
-	8. zebruken (0:2)<br>
-	10. Tiberius88 (0:1)<br>
+	2. NuttyJeans (0:2)<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (2:1)<br>
+	5. svircs (0:1)<br>
+	7. Jarre (0:1)<br>
+	9. aeiou (1:0)<br>
 <br>
-35. #tux111 (1171) -4<br>
-+72|+66|+47|+39|+40|+30|+23|+13|+3|-2<br>
+35. #tux111 (1171) 0<br>
++73|+66|+47|+39|+40|+30|+24|+13|+3|-1<br>
 	1. GreatApple~214 (3:1)<br>
-	2. Nimsta (1:0)<br>
-	3. rickss (2:2)<br>
+	2. NuttyJeans (0:1)<br>
+	3. Nimsta (1:0)<br>
+	4. rickss (1:2)<br>
 	5. svircs (0:1)<br>
-	6. Jarre (0:1)<br>
-	7. aeiou (1:4)<br>
+	7. Jarre (0:1)<br>
 	8. zebruken (2:1)<br>
-	10. Tiberius88 (0:1)<br>
+	9. aeiou (1:5)<br>
 <br>
-36. #DeimosX (1167) 0<br>
-+153|+121|+79|+43|+24|+2<br>
-	2. Nimsta (1:3)<br>
-	3. rickss (2:1)<br>
-	6. Jarre (1:1)<br>
-	9. joropo808 (0:3)<br>
-<br>
-37. #dfyyxy (1165) +2<br>
--26|-17|-12|-14|-11|-24|-31|-21|+3|+3<br>
-	1. GreatApple~214 (1:1)<br>
-	2. Nimsta (0:5)<br>
-	3. rickss (0:2)<br>
-	4. NuttyJeans (1:0)<br>
-	8. zebruken (1:1)<br>
-	9. joropo808 (2:0)<br>
-	10. Tiberius88 (0:4)<br>
-<br>
-38. #enomeno (1164) -3<br>
-+94|+85|+68|+61|+54|+46|+41|+18|+21|+3<br>
-	2. Nimsta (0:1)<br>
-	3. rickss (3:2)<br>
-	6. Jarre (0:1)<br>
-	10. Tiberius88 (0:1)<br>
-<br>
-39. #GreenDeer~922 (1158) -1<br>
-+39|+29|+28|+31|+16|+9|+12|+1|+6|-4<br>
-	2. Nimsta (0:1)<br>
-	3. rickss (0:1)<br>
-	4. NuttyJeans (0:1)<br>
-	5. svircs (1:0)<br>
-<br>
-40. #pesterd (1156) -1<br>
-+133|+122|+101|+92|+86|+68|+45|+24|+3<br>
-	2. Nimsta (1:4)<br>
-	3. rickss (0:3)<br>
-	5. svircs (1:0)<br>
-	6. Jarre (1:1)<br>
-	9. joropo808 (1:4)<br>
-<br>
-41. #shadybiz (1148) +1<br>
-+51|+32|+25|+27|+24|+16|+2|+1|+6|-3<br>
-	1. GreatApple~214 (1:1)<br>
-	2. Nimsta (0:2)<br>
-	3. rickss (3:9)<br>
-	4. NuttyJeans (1:0)<br>
-	5. svircs (1:3)<br>
-	6. Jarre (0:3)<br>
-	7. aeiou (0:2)<br>
-	8. zebruken (0:1)<br>
-	9. joropo808 (0:1)<br>
-	10. Tiberius88 (1:0)<br>
-<br>
-42. #BDAT10 (1146) -2<br>
--39|-30|-28|-36|-16|-15|-17|-21|-15|-2<br>
-	1. GreatApple~214 (0:2)<br>
-	2. Nimsta (0:7)<br>
-	3. rickss (0:1)<br>
-	4. NuttyJeans (0:2)<br>
-	5. svircs (0:2)<br>
-	10. Tiberius88 (1:0)<br>
-<br>
-43. #the-jk (1146) 0<br>
-+103|+71|+54|+32|+20|+12|+26|+10|+5|-2<br>
-	1. GreatApple~214 (0:2)<br>
-	3. rickss (0:4)<br>
-	4. NuttyJeans (1:0)<br>
-	5. svircs (3:1)<br>
-	7. aeiou (2:1)<br>
-	8. zebruken (0:2)<br>
-<br>
-44. #farzip (1145) +4<br>
-+5|-7|-21|-21|-9|-7|-7|-7|-10|+2<br>
+36. #Celica (1171) -2<br>
+-6|-22|-29|-19|-28|-30|-23|-22|-5|-3<br>
 	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (1:2)<br>
-	6. Jarre (0:1)<br>
-	10. Tiberius88 (0:1)<br>
+	3. Nimsta (3:8)<br>
+	4. rickss (1:2)<br>
+	5. svircs (0:2)<br>
+	7. Jarre (0:1)<br>
+	9. aeiou (4:1)<br>
 <br>
-45. #LavishFauce~178 (1145) +2<br>
-+101|+87|+59|+40|+34|+14|+12|+6<br>
-	1. GreatApple~214 (3:2)<br>
-	3. rickss (3:8)<br>
-	6. Jarre (4:0)<br>
-	7. aeiou (2:0)<br>
+37. #DeimosX (1167) 0<br>
++153|+121|+78|+43|+24|+2<br>
+	3. Nimsta (1:3)<br>
+	4. rickss (2:0)<br>
+	7. Jarre (1:1)<br>
+	10. joropo808 (0:3)<br>
+<br>
+38. #dfyyxy (1166) +3<br>
+-25|-16|-12|-13|-10|-23|-30|-20|+4|+4<br>
+	1. GreatApple~214 (1:1)<br>
+	2. NuttyJeans (1:0)<br>
+	3. Nimsta (0:3)<br>
+	4. rickss (0:2)<br>
 	8. zebruken (1:1)<br>
-	10. Tiberius88 (0:1)<br>
+	10. joropo808 (2:0)<br>
 <br>
-46. #karim3397 (1143) +4<br>
+39. #enomeno (1165) +1<br>
++86|+69|+62|+55|+47|+42|+18|+21|+3|+2<br>
+	2. NuttyJeans (0:1)<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (3:2)<br>
+	6. chomeur2 (0:1)<br>
+	7. Jarre (0:1)<br>
+<br>
+40. #pesterd (1156) 0<br>
++133|+122|+101|+92|+86|+68|+45|+24|+3<br>
+	3. Nimsta (1:3)<br>
+	4. rickss (0:3)<br>
+	5. svircs (1:0)<br>
+	7. Jarre (1:1)<br>
+	10. joropo808 (1:4)<br>
+<br>
+41. #farzip (1145) -2<br>
++5|-7|-21|-21|-9|-8|-7|-7|-10|+2<br>
+	1. GreatApple~214 (0:1)<br>
+	3. Nimsta (1:1)<br>
+	7. Jarre (0:1)<br>
+<br>
+42. #BDAT10 (1145) +1<br>
+-41|-32|-30|-38|-17|-16|-18|-22|-16|-3<br>
+	2. NuttyJeans (0:2)<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (0:1)<br>
+	5. svircs (0:2)<br>
+<br>
+43. #the-jk (1145) -1<br>
++102|+70|+53|+31|+19|+11|+25|+9|+4|-3<br>
+	1. GreatApple~214 (0:2)<br>
+	2. NuttyJeans (1:0)<br>
+	4. rickss (0:3)<br>
+	5. svircs (3:1)<br>
+	6. chomeur2 (0:1)<br>
+	8. zebruken (0:2)<br>
+	9. aeiou (2:1)<br>
+<br>
+44. #hydra0602 (1144) -3<br>
+-1|+6|-8|-12|-25|-3|-2|-12|-8|-2<br>
+	1. GreatApple~214 (0:1)<br>
+	3. Nimsta (0:4)<br>
+	4. rickss (2:1)<br>
+	6. chomeur2 (0:1)<br>
+	7. Jarre (1:8)<br>
+	8. zebruken (0:2)<br>
+	10. joropo808 (1:2)<br>
+<br>
+45. #shadybiz (1144) -1<br>
++27|+21|+22|+19|+12|-3|-3|+2|-8|-2<br>
+	1. GreatApple~214 (1:1)<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (3:7)<br>
+	5. svircs (1:2)<br>
+	7. Jarre (0:2)<br>
+	8. zebruken (0:1)<br>
+	9. aeiou (0:3)<br>
+	10. joropo808 (0:1)<br>
+<br>
+46. #karim3397 (1143) 0<br>
 +56|+45|+31|+10|+10|+4|+4|+7|+8|+1<br>
 	1. GreatApple~214 (0:4)<br>
-	2. Nimsta (2:6)<br>
-	3. rickss (3:5)<br>
-	4. NuttyJeans (0:1)<br>
-	6. Jarre (1:0)<br>
+	2. NuttyJeans (0:1)<br>
+	3. Nimsta (2:6)<br>
+	4. rickss (2:1)<br>
+	6. chomeur2 (2:0)<br>
+	7. Jarre (1:0)<br>
 	8. zebruken (0:4)<br>
-	9. joropo808 (0:1)<br>
-	10. Tiberius88 (1:3)<br>
+	10. joropo808 (0:1)<br>
 <br>
 47. #TidyFox~415 (1142) 0<br>
 +128|+117|+111|+79|+67|+50|+30|+17<br>
-	3. rickss (1:4)<br>
-	4. NuttyJeans (0:2)<br>
-	6. Jarre (0:1)<br>
+	2. NuttyJeans (0:2)<br>
+	4. rickss (1:4)<br>
+	7. Jarre (0:1)<br>
 	8. zebruken (0:1)<br>
-	10. Tiberius88 (3:2)<br>
 <br>
 48. #HairyBeetle~278 (1142) 0<br>
 +124|+97|+87|+64|+40|+13|+11|-4<br>
-	1. GreatApple~214 (1:1)<br>
-	2. Nimsta (0:1)<br>
-	3. rickss (1:4)<br>
-	4. NuttyJeans (0:2)<br>
-	6. Jarre (1:2)<br>
+	1. GreatApple~214 (0:1)<br>
+	2. NuttyJeans (0:2)<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (1:0)<br>
+	7. Jarre (1:2)<br>
 	8. zebruken (1:1)<br>
 <br>
-49. #BadButter~266 (1137) -3<br>
-+44|+41|+28|+12|+14|+6|+12|+16|+4|-4<br>
-	4. NuttyJeans (3:0)<br>
-	6. Jarre (0:3)<br>
-	8. zebruken (0:1)<br>
-	9. joropo808 (1:4)<br>
-<br>
-50. #aceofspa1234 (1136) +1<br>
-+92|+47|+22<br>
-	1. GreatApple~214 (0:2)<br>
-	3. rickss (1:5)<br>
-	6. Jarre (1:0)<br>
-	7. aeiou (1:0)<br>
-	10. Tiberius88 (0:2)<br>
-<br>
-51. #Novacore (1134) +1<br>
-+128|+105|+84|+76|+60|+50|+40|+31|+19|+9<br>
-	1. GreatApple~214 (2:2)<br>
-	2. Nimsta (1:2)<br>
+49. #Novacore (1140) +3<br>
++134|+112|+91|+82|+66|+57|+47|+38|+26|+15<br>
+	1. GreatApple~214 (2:0)<br>
+	3. Nimsta (1:2)<br>
 	5. svircs (3:1)<br>
 <br>
+50. #aceofspa1234 (1140) -1<br>
++96|+51|+26|+5<br>
+	1. GreatApple~214 (0:2)<br>
+	4. rickss (1:1)<br>
+	9. aeiou (1:0)<br>
+<br>
+51. #LavishFauce~178 (1139) -5<br>
++95|+81|+53|+34|+28|+8|+6|0<br>
+	1. GreatApple~214 (3:2)<br>
+	2. NuttyJeans (0:2)<br>
+	4. rickss (2:4)<br>
+	6. chomeur2 (1:1)<br>
+	7. Jarre (4:0)<br>
+	8. zebruken (1:1)<br>
+	9. aeiou (2:0)<br>
+<br>
 52. #jimboba (1123) 0<br>
-+93|+69|+30|+4<br>
++92|+68|+30|+4<br>
 	1. GreatApple~214 (1:3)<br>
-	2. Nimsta (0:1)<br>
-	3. rickss (1:0)<br>
-	4. NuttyJeans (1:0)<br>
+	2. NuttyJeans (1:0)<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (1:0)<br>
 	5. svircs (1:0)<br>
-	9. joropo808 (1:0)<br>
-	10. Tiberius88 (0:6)<br>
+	10. joropo808 (1:0)<br>
 <br>
-53. #Suitor1 (1118) +4<br>
-+64|+33|+5<br>
-	1. GreatApple~214 (1:0)<br>
-	3. rickss (2:4)<br>
-	5. svircs (4:1)<br>
-	6. Jarre (3:1)<br>
-	8. zebruken (1:0)<br>
-	9. joropo808 (0:1)<br>
-	10. Tiberius88 (0:1)<br>
+53. #FilthyGlide~918 (1123) +4<br>
++60|+12<br>
+	1. GreatApple~214 (0:1)<br>
+	4. rickss (0:1)<br>
 <br>
-54. #TinyOwl~323 (1116) +1<br>
--13|-13|+2|-3|+5|+1|-3|-2|+7|0<br>
-	2. Nimsta (1:4)<br>
-	3. rickss (1:5)<br>
-	4. NuttyJeans (0:2)<br>
-	5. svircs (1:0)<br>
-	6. Jarre (1:5)<br>
-	7. aeiou (0:3)<br>
-	8. zebruken (1:2)<br>
-	9. joropo808 (1:2)<br>
-	10. Tiberius88 (3:6)<br>
-<br>
-55. #wacho789 (1115) -1<br>
-+81|+63|+37|+3<br>
-	2. Nimsta (0:3)<br>
-<br>
-56. #ShaggyWasp~457 (1112) +1<br>
-+102|+86|+55|+23|+6<br>
-	1. GreatApple~214 (1:4)<br>
-	2. Nimsta (1:4)<br>
-	3. rickss (2:4)<br>
+54. #ShaggyWasp~457 (1117) +5<br>
++107|+91|+60|+28|+11|+4<br>
+	1. GreatApple~214 (1:6)<br>
+	2. NuttyJeans (1:2)<br>
+	3. Nimsta (0:2)<br>
+	4. rickss (2:3)<br>
 	5. svircs (2:0)<br>
 	8. zebruken (0:1)<br>
-	10. Tiberius88 (1:4)<br>
 <br>
-57. #FilthyGlide~918 (1111) 0<br>
-+48|0<br>
-	1. GreatApple~214 (0:1)<br>
-	3. rickss (2:4)<br>
-	4. NuttyJeans (1:0)<br>
+55. #TinyOwl~323 (1112) 0<br>
+-17|-17|-2|-7|+1|-3|-6|-6|+3|-3<br>
+	2. NuttyJeans (0:2)<br>
+	3. Nimsta (1:2)<br>
+	4. rickss (1:2)<br>
+	5. svircs (1:0)<br>
+	7. Jarre (1:4)<br>
+	8. zebruken (1:2)<br>
+	9. aeiou (0:3)<br>
+	10. joropo808 (1:2)<br>
 <br>
-58. #ShinyTemper~434 (1110) -1<br>
-+76|+59|+42|+8|+4|-2|+8|+5|+9|+6<br>
-	1. GreatApple~214 (0:1)<br>
-	3. rickss (1:2)<br>
-	4. NuttyJeans (1:0)<br>
-	6. Jarre (0:2)<br>
-	8. zebruken (1:1)<br>
-	10. Tiberius88 (2:3)<br>
+56. #meltedcheese (1110) +4<br>
++5|+11|+15|+30|+30|+23|+17|+14|+6|0<br>
+	1. GreatApple~214 (1:1)<br>
+	2. NuttyJeans (1:4)<br>
+	3. Nimsta (3:4)<br>
+	4. rickss (3:4)<br>
+	7. Jarre (1:0)<br>
+	10. joropo808 (0:8)<br>
 <br>
-59. #col_angus (1108) +6<br>
+57. #Suitor1 (1109) -4<br>
++55|+24|-4|-9<br>
+	1. GreatApple~214 (1:0)<br>
+	4. rickss (2:4)<br>
+	5. svircs (4:1)<br>
+	7. Jarre (1:9)<br>
+	8. zebruken (1:3)<br>
+	10. joropo808 (0:1)<br>
+<br>
+58. #col_angus (1108) 0<br>
 +59|+32|+5<br>
 	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (1:1)<br>
-	4. NuttyJeans (1:1)<br>
+	2. NuttyJeans (1:1)<br>
+	3. Nimsta (1:0)<br>
 	5. svircs (1:1)<br>
 	8. zebruken (1:2)<br>
-	10. Tiberius88 (1:1)<br>
 <br>
-60. #Gungala (1105) -2<br>
-+5|+5|+5|+14|+10|-1|+1|-10|-8|+3<br>
-	2. Nimsta (3:6)<br>
-	3. rickss (0:3)<br>
-	4. NuttyJeans (0:1)<br>
-	6. Jarre (1:3)<br>
-	10. Tiberius88 (0:4)<br>
+59. #Gungala (1105) +1<br>
++5|+6|+15|+10|-1|+2|-10|-7|+4|+1<br>
+	2. NuttyJeans (0:1)<br>
+	3. Nimsta (3:7)<br>
+	4. rickss (0:3)<br>
+	7. Jarre (1:3)<br>
 <br>
-61. #Mika69 (1104) 0<br>
-+80|+46|+39|+21|+16<br>
-	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (2:5)<br>
-	3. rickss (2:2)<br>
-	6. Jarre (2:0)<br>
-	9. joropo808 (1:1)<br>
-	10. Tiberius88 (1:1)<br>
-<br>
-62. #ShortDust~832 (1104) 0<br>
-+68|+36|+15|+4|0<br>
-	3. rickss (5:1)<br>
-	4. NuttyJeans (0:2)<br>
+60. #ShortDust~832 (1103) -1<br>
++67|+35|+15|+3|-1<br>
+	2. NuttyJeans (0:2)<br>
+	4. rickss (4:1)<br>
 	8. zebruken (0:1)<br>
-	10. Tiberius88 (3:4)<br>
 <br>
-63. #P90X (1103) 0<br>
+61. #P90X (1103) 0<br>
 +82|+58|+37|+25<br>
-	2. Nimsta (0:2)<br>
 	8. zebruken (0:1)<br>
-	10. Tiberius88 (0:1)<br>
 <br>
-64. #Astinax (1100) +2<br>
-+85|+64|+52|+30|+17<br>
-	2. Nimsta (1:0)<br>
-	3. rickss (0:1)<br>
-	7. aeiou (1:2)<br>
-	9. joropo808 (0:1)<br>
-	10. Tiberius88 (0:1)<br>
+62. #Mika69 (1102) 0<br>
++78|+44|+37|+20|+14|-2<br>
+	3. Nimsta (2:5)<br>
+	7. Jarre (2:0)<br>
+	10. joropo808 (1:3)<br>
 <br>
-65. #gusben96 (1099) +11<br>
-+39|0<br>
-	2. Nimsta (2:6)<br>
-	3. rickss (2:4)<br>
-	4. NuttyJeans (0:1)<br>
-	5. svircs (1:0)<br>
-	6. Jarre (2:0)<br>
-	7. aeiou (0:1)<br>
+63. #rotzo (1102) -1<br>
++77|+64|+56|+32|+13|-1<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (0:3)<br>
+	8. zebruken (0:2)<br>
+	9. aeiou (0:1)<br>
+	10. joropo808 (0:1)<br>
 <br>
-66. #samsa88 (1099) 0<br>
-+84|+58|+17<br>
-	3. rickss (2:2)<br>
-	4. NuttyJeans (1:1)<br>
-	8. zebruken (0:1)<br>
-	10. Tiberius88 (2:0)<br>
-<br>
-67. #BraveShovel~508 (1098) 0<br>
-+74|+60|+44|+38|+34|+29|+24|+23|+14|-5<br>
-	2. Nimsta (1:1)<br>
-	3. rickss (1:3)<br>
-	4. NuttyJeans (0:2)<br>
+64. #BraveShovel~508 (1101) +4<br>
++77|+63|+48|+41|+37|+32|+27|+26|+17|-2<br>
+	2. NuttyJeans (0:2)<br>
+	3. Nimsta (1:1)<br>
+	4. rickss (1:3)<br>
 	5. svircs (2:1)<br>
-	6. Jarre (0:1)<br>
+	7. Jarre (0:1)<br>
 <br>
-68. #white_andrei (1096) -2<br>
-+58|+13<br>
-	1. GreatApple~214 (2:1)<br>
-	2. Nimsta (2:0)<br>
-	3. rickss (2:4)<br>
-	5. svircs (0:2)<br>
-	6. Jarre (1:1)<br>
-	7. aeiou (0:1)<br>
-	8. zebruken (0:2)<br>
-	10. Tiberius88 (0:3)<br>
+65. #samsa88 (1100) 0<br>
++84|+59|+18<br>
+	2. NuttyJeans (1:1)<br>
+	4. rickss (0:1)<br>
+	8. zebruken (0:1)<br>
 <br>
-69. #meltedcheese (1096) -1<br>
--10|-18|-9|-4|0|+16|+15|+8|+3|0<br>
-	1. GreatApple~214 (1:1)<br>
-	2. Nimsta (3:2)<br>
-	3. rickss (0:2)<br>
-	5. svircs (0:2)<br>
-	9. joropo808 (1:8)<br>
-	10. Tiberius88 (1:2)<br>
-<br>
-70. #Irish47 (1089) +6<br>
-+67|+24<br>
-	2. Nimsta (0:1)<br>
-	5. svircs (3:0)<br>
-	6. Jarre (1:4)<br>
-	7. aeiou (1:0)<br>
-<br>
-71. #AbsurdTiger~542 (1086) +1<br>
-+61|+31|+10<br>
-	1. GreatApple~214 (0:2)<br>
+66. #gusben96 (1099) 0<br>
++38|-1<br>
+	2. NuttyJeans (0:1)<br>
+	3. Nimsta (2:6)<br>
+	4. rickss (2:4)<br>
 	5. svircs (1:0)<br>
-	6. Jarre (0:1)<br>
-	8. zebruken (1:2)<br>
-	10. Tiberius88 (1:0)<br>
+	6. chomeur2 (1:0)<br>
+	7. Jarre (2:0)<br>
+	9. aeiou (0:1)<br>
 <br>
-72. #LordZerkee (1085) 0<br>
-+56|+38<br>
-	2. Nimsta (0:1)<br>
-	3. rickss (1:3)<br>
-	4. NuttyJeans (1:0)<br>
+67. #TidyFox-415 (1097) +7<br>
++61|+4<br>
+	3. Nimsta (1:1)<br>
+	4. rickss (2:1)<br>
+	7. Jarre (1:2)<br>
+<br>
+68. #Irish47 (1096) -1<br>
++75|+32<br>
+	3. Nimsta (0:1)<br>
+	5. svircs (3:0)<br>
+	6. chomeur2 (3:1)<br>
+	7. Jarre (1:3)<br>
+	9. aeiou (1:0)<br>
+<br>
+69. #white_andrei (1095) 0<br>
++57|+12<br>
+	1. GreatApple~214 (2:1)<br>
+	3. Nimsta (2:0)<br>
+	4. rickss (2:4)<br>
+	5. svircs (0:2)<br>
+	7. Jarre (1:1)<br>
 	8. zebruken (0:2)<br>
-	10. Tiberius88 (0:1)<br>
+	9. aeiou (0:1)<br>
+<br>
+70. #stcziiii (1092) +14<br>
++44|+14<br>
+	1. GreatApple~214 (0:1)<br>
+	3. Nimsta (0:5)<br>
+	4. rickss (1:1)<br>
+	5. svircs (1:0)<br>
+	7. Jarre (1:0)<br>
+	8. zebruken (1:0)<br>
+<br>
+71. #bupkis (1091) +10<br>
++51|+19<br>
+	2. NuttyJeans (2:4)<br>
+	4. rickss (1:0)<br>
+	6. chomeur2 (2:3)<br>
+	7. Jarre (0:1)<br>
+<br>
+72. #LordZerkee (1086) 0<br>
++57|+39<br>
+	2. NuttyJeans (1:0)<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (1:3)<br>
+	8. zebruken (0:2)<br>
 <br>
 73. #CrazyAce~775 (1082) 0<br>
 +33<br>
-	2. Nimsta (8:2)<br>
+	3. Nimsta (8:2)<br>
 	5. svircs (2:0)<br>
-	6. Jarre (0:1)<br>
-	7. aeiou (2:0)<br>
+	7. Jarre (0:1)<br>
 	8. zebruken (1:0)<br>
+	9. aeiou (2:0)<br>
 <br>
-74. #slava86 (1081) -1<br>
-+53|+47|+29|+22|-1<br>
-	1. GreatApple~214 (2:1)<br>
-	2. Nimsta (0:3)<br>
-	3. rickss (0:1)<br>
-	5. svircs (0:1)<br>
-	6. Jarre (0:1)<br>
-<br>
-75. #Khael- (1080) +3<br>
-+36|0<br>
-	2. Nimsta (2:4)<br>
-	3. rickss (1:1)<br>
-	6. Jarre (1:1)<br>
-	7. aeiou (1:1)<br>
-<br>
-76. #dawson27 (1080) 0<br>
-+59|+18<br>
-	2. Nimsta (0:2)<br>
-	5. svircs (2:0)<br>
-<br>
-77. #scabz (1078) -2<br>
-+69|+42|+37|+26|+25|+26|+17|+18|-4|-7<br>
+74. #Benman3000 (1082) 0<br>
++56|+31|+18|+21|+13|+7|+10|+13|+11<br>
 	1. GreatApple~214 (1:1)<br>
-	2. Nimsta (0:1)<br>
-	3. rickss (0:1)<br>
-	6. Jarre (1:0)<br>
-	10. Tiberius88 (1:2)<br>
+	2. NuttyJeans (0:1)<br>
+	3. Nimsta (1:0)<br>
+	6. chomeur2 (0:1)<br>
 <br>
-78. #Drotc (1078) +1<br>
-+76|+46|+33|+8<br>
-	3. rickss (1:0)<br>
-	7. aeiou (0:2)<br>
+75. #Khael- (1082) 0<br>
++38|+2<br>
+	3. Nimsta (1:2)<br>
+	4. rickss (1:1)<br>
+	7. Jarre (1:1)<br>
+	9. aeiou (1:1)<br>
+<br>
+76. #Drotc (1081) 0<br>
++78|+48|+35|+11<br>
+	4. rickss (1:0)<br>
 	8. zebruken (2:5)<br>
-	9. joropo808 (0:1)<br>
+	9. aeiou (0:2)<br>
+	10. joropo808 (0:1)<br>
 <br>
-79. #Goober04 (1077) 0<br>
-+36|-1<br>
-	3. rickss (0:2)<br>
-	4. NuttyJeans (0:2)<br>
-	6. Jarre (0:3)<br>
-	8. zebruken (0:1)<br>
+77. #MindTwister (1079) 0<br>
++29<br>
+	3. Nimsta (0:3)<br>
+	4. rickss (3:3)<br>
+	7. Jarre (1:0)<br>
+	9. aeiou (2:1)<br>
 <br>
-80. #FelixNavidad (1076) +3<br>
-+69|+43|+16<br>
+78. #FelixNavidad (1079) 0<br>
++72|+46|+19<br>
 	1. GreatApple~214 (1:1)<br>
+	2. NuttyJeans (0:4)<br>
 	5. svircs (1:1)<br>
-	7. aeiou (1:0)<br>
 	8. zebruken (1:0)<br>
-	10. Tiberius88 (0:2)<br>
+	9. aeiou (1:0)<br>
 <br>
-81. #Benman3000 (1074) +2<br>
-+48|+22|+10|+12|+4|-1|+2|+5|+3<br>
+79. #scabz (1079) +1<br>
++70|+43|+38|+26|+26|+26|+17|+19|-3|-6<br>
 	1. GreatApple~214 (1:1)<br>
-	2. Nimsta (1:0)<br>
-	4. NuttyJeans (0:1)<br>
-	10. Tiberius88 (0:2)<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (0:1)<br>
+	7. Jarre (1:0)<br>
 <br>
-82. #MindTwister (1073) +6<br>
-+23<br>
-	2. Nimsta (0:2)<br>
-	3. rickss (3:3)<br>
-	6. Jarre (1:0)<br>
-	7. aeiou (2:1)<br>
-	10. Tiberius88 (2:0)<br>
+80. #slava86 (1078) -1<br>
++50|+43|+25|+18|-4<br>
+	1. GreatApple~214 (2:1)<br>
+	3. Nimsta (0:3)<br>
+	4. rickss (0:1)<br>
+	5. svircs (0:1)<br>
+	7. Jarre (0:1)<br>
+<br>
+81. #Jackalope (1077) 0<br>
++32|+11<br>
+	4. rickss (1:1)<br>
+	9. aeiou (5:3)<br>
+<br>
+82. #ChubbyPizza~629 (1075) -2<br>
++45|+18<br>
+	3. Nimsta (3:0)<br>
+	4. rickss (1:1)<br>
+	8. zebruken (1:0)<br>
 <br>
 83. #WigglySpark~209 (1073) 0<br>
 +16<br>
 	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (0:1)<br>
-	3. rickss (0:1)<br>
-	6. Jarre (1:0)<br>
-	7. aeiou (0:1)<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (0:1)<br>
+	7. Jarre (1:0)<br>
+	9. aeiou (0:1)<br>
 <br>
-84. #stcziiii (1072) +5<br>
-+24<br>
-	2. Nimsta (0:5)<br>
-	3. rickss (1:0)<br>
-	5. svircs (1:0)<br>
-	6. Jarre (1:0)<br>
-	8. zebruken (1:0)<br>
-<br>
-85. #Jackalope (1070) +5<br>
-+26|+5<br>
-	3. rickss (1:1)<br>
-	5. svircs (0:2)<br>
-	7. aeiou (5:4)<br>
-<br>
-86. #ChubbyPizza~629 (1070) +1<br>
-+39|+12<br>
-	2. Nimsta (3:0)<br>
-	3. rickss (1:1)<br>
-	8. zebruken (1:0)<br>
-	10. Tiberius88 (2:0)<br>
-<br>
-87. #f719 (1067) 0<br>
-+38|+28|+14|+22|+19|-15|-39|-23|-13|0<br>
-	2. Nimsta (0:5)<br>
-	4. NuttyJeans (2:2)<br>
-	5. svircs (0:2)<br>
-	9. joropo808 (0:1)<br>
-<br>
-88. #LiquidShoe~680 (1067) 0<br>
-+35|+31|+3|+6<br>
-	3. rickss (1:1)<br>
-	6. Jarre (0:1)<br>
-	7. aeiou (0:4)<br>
-	8. zebruken (0:1)<br>
-<br>
-89. #TidyFox-415 (1066) +13<br>
-+31<br>
-	2. Nimsta (1:0)<br>
-	3. rickss (1:1)<br>
-	6. Jarre (1:2)<br>
-<br>
-90. #SlickErmine~247 (1063) 0<br>
-+62|+36|+31|+28|+4|-1|-1<br>
+84. #f719 (1071) 0<br>
++42|+32|+18|+26|+23|-11|-35|-19|-9|+4<br>
 	1. GreatApple~214 (1:0)<br>
-	2. Nimsta (1:0)<br>
-	3. rickss (0:1)<br>
-	5. svircs (0:1)<br>
-	9. joropo808 (1:0)<br>
-	10. Tiberius88 (0:1)<br>
+	2. NuttyJeans (2:2)<br>
+	3. Nimsta (0:5)<br>
+	5. svircs (0:2)<br>
+	6. chomeur2 (1:4)<br>
+	10. joropo808 (0:1)<br>
 <br>
-91. #CurlyGrill~583 (1061) -2<br>
-+28<br>
+85. #CurlyGrill~583 (1070) 0<br>
++37<br>
 	1. GreatApple~214 (1:2)<br>
-	2. Nimsta (0:4)<br>
-	3. rickss (0:5)<br>
-	6. Jarre (1:0)<br>
-	7. aeiou (0:1)<br>
+	3. Nimsta (0:4)<br>
+	4. rickss (0:5)<br>
+	6. chomeur2 (0:1)<br>
+	7. Jarre (1:0)<br>
 	8. zebruken (2:3)<br>
-	10. Tiberius88 (0:3)<br>
+	9. aeiou (0:1)<br>
 <br>
-92. #Asbo (1051) +3<br>
-+37|+1<br>
+86. #SlickErmine~247 (1064) -1<br>
++64|+38|+32|+30|+6|0|+1<br>
 	1. GreatApple~214 (1:0)<br>
-	2. Nimsta (0:1)<br>
-	3. rickss (1:3)<br>
-	5. svircs (1:0)<br>
-	7. aeiou (0:5)<br>
-	9. joropo808 (0:1)<br>
-	10. Tiberius88 (1:0)<br>
+	3. Nimsta (1:0)<br>
+	4. rickss (0:1)<br>
+	5. svircs (0:1)<br>
+	10. joropo808 (1:0)<br>
 <br>
-93. #Sourire (1050) -1<br>
-+8|+1<br>
-	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (1:4)<br>
-	3. rickss (3:3)<br>
+87. #Asbo (1056) 0<br>
++42|+6<br>
+	1. GreatApple~214 (1:0)<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (1:3)<br>
+	6. chomeur2 (0:2)<br>
+	9. aeiou (0:5)<br>
+	10. joropo808 (0:1)<br>
 <br>
-94. #SmallBeast~356 (1048) 0<br>
+88. #SmallBeast~356 (1048) 0<br>
 +9<br>
 	1. GreatApple~214 (1:3)<br>
-	3. rickss (0:2)<br>
+	4. rickss (0:2)<br>
 	8. zebruken (1:0)<br>
 <br>
-95. #edwin327 (1046) -1<br>
-+39|+35|+12<br>
+89. #edwin327 (1044) -2<br>
++37|+32|+9<br>
 	1. GreatApple~214 (0:1)<br>
-	3. rickss (0:1)<br>
-	6. Jarre (2:1)<br>
-	10. Tiberius88 (2:3)<br>
+	4. rickss (0:1)<br>
+	7. Jarre (2:1)<br>
 <br>
-96. #SkyEvil (1044) 0<br>
-+39|+26|+15|+1<br>
-	3. rickss (0:1)<br>
-	4. NuttyJeans (0:6)<br>
-	5. svircs (1:2)<br>
-	7. aeiou (1:1)<br>
+90. #rayman99 (1041) +3<br>
++19|+12<br>
+	1. GreatApple~214 (1:4)<br>
+	8. zebruken (0:3)<br>
+	9. aeiou (3:2)<br>
 <br>
-97. #PuffyTramp~487 (1036) 0<br>
+91. #EliteSofa~940 (1039) -1<br>
++12|-4<br>
+	2. NuttyJeans (0:3)<br>
+	5. svircs (0:1)<br>
+	7. Jarre (0:1)<br>
+	8. zebruken (0:1)<br>
+<br>
+92. #PuffyTramp~487 (1036) 0<br>
 +14|+3<br>
 	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (2:2)<br>
-	3. rickss (1:1)<br>
-	4. NuttyJeans (1:0)<br>
-	6. Jarre (1:0)<br>
-	7. aeiou (0:1)<br>
-	10. Tiberius88 (1:2)<br>
+	2. NuttyJeans (1:0)<br>
+	3. Nimsta (2:2)<br>
+	4. rickss (1:1)<br>
+	7. Jarre (1:0)<br>
+	9. aeiou (0:1)<br>
 <br>
-98. #MushyRam~673 (1033) 0<br>
+93. #MushyRam~673 (1033) 0<br>
 +4<br>
 	1. GreatApple~214 (0:1)<br>
-	3. rickss (0:1)<br>
+	4. rickss (0:1)<br>
 	5. svircs (1:0)<br>
-	6. Jarre (2:1)<br>
-	7. aeiou (0:3)<br>
+	6. chomeur2 (0:1)<br>
+	7. Jarre (2:1)<br>
+	9. aeiou (0:3)<br>
 <br>
-99. #rayman99 (1032) +3<br>
-+10|+3<br>
-	1. GreatApple~214 (1:5)<br>
-	7. aeiou (1:0)<br>
-	8. zebruken (0:3)<br>
-	10. Tiberius88 (0:4)<br>
-<br>
-100. #EliteSofa~940 (1031) -3<br>
-+4<br>
-	4. NuttyJeans (0:3)<br>
-	5. svircs (0:1)<br>
-	6. Jarre (0:1)<br>
-	8. zebruken (0:1)<br>
-<br>
-101. #goldsky (1029) 0<br>
-+16|-1<br>
-	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (1:2)<br>
-	6. Jarre (0:1)<br>
-	10. Tiberius88 (0:3)<br>
-<br>
-102. #BrawnyEagle~494 (1029) +10<br>
-+11<br>
+94. #BrawnyEagle~494 (1027) 0<br>
++9<br>
 	1. GreatApple~214 (1:0)<br>
-	3. rickss (0:1)<br>
+	4. rickss (0:1)<br>
 <br>
-103. #AbsurdBeef~399 (1023) +4<br>
-+30|+14|+9<br>
+95. #AbsurdBeef~399 (1025) 0<br>
++32|+16|+11<br>
 	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (1:0)<br>
-	3. rickss (0:2)<br>
+	3. Nimsta (1:0)<br>
+	4. rickss (0:2)<br>
 	8. zebruken (0:3)<br>
-	9. joropo808 (0:1)<br>
-	10. Tiberius88 (1:5)<br>
+	10. joropo808 (0:1)<br>
 <br>
-104. #FadedJelly~183 (1021) 0<br>
+96. #FadedJelly~183 (1021) 0<br>
 +9<br>
 	1. GreatApple~214 (1:3)<br>
-	2. Nimsta (1:4)<br>
-	4. NuttyJeans (0:3)<br>
+	2. NuttyJeans (0:3)<br>
+	3. Nimsta (1:4)<br>
 	5. svircs (0:1)<br>
-	7. aeiou (0:1)<br>
 	8. zebruken (1:2)<br>
+	9. aeiou (0:1)<br>
 <br>
-105. #ieaturmumout (1020) +2<br>
+97. #ieaturmumout (1021) 0<br>
 +7<br>
-	2. Nimsta (0:1)<br>
+	3. Nimsta (0:1)<br>
 <br>
-106. #DiverSaint84 (1018) +2<br>
-+8<br>
-	2. Nimsta (0:1)<br>
-	3. rickss (0:4)<br>
-	6. Jarre (0:4)<br>
-	7. aeiou (0:1)<br>
-	8. zebruken (1:1)<br>
-<br>
-107. #Blackdwarf (1016) +1<br>
-+16|-3<br>
+98. #Blackdwarf (1019) +1<br>
++19|0<br>
 	1. GreatApple~214 (1:2)<br>
-	3. rickss (1:1)<br>
-	4. NuttyJeans (1:0)<br>
-	6. Jarre (0:1)<br>
+	2. NuttyJeans (1:0)<br>
+	4. rickss (1:1)<br>
+	7. Jarre (0:1)<br>
 	8. zebruken (0:2)<br>
-	9. joropo808 (0:1)<br>
-	10. Tiberius88 (1:2)<br>
+	10. joropo808 (0:1)<br>
 <br>
-108. #orenong (1013) +2<br>
-+35|+32|+32|+31|+37|+26|+14|+8|+7|0<br>
-	1. GreatApple~214 (3:0)<br>
-	2. Nimsta (0:1)<br>
-	6. Jarre (1:1)<br>
-	8. zebruken (3:0)<br>
+99. #DiverSaint84 (1016) -2<br>
++7<br>
+	2. NuttyJeans (0:2)<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (0:4)<br>
+	7. Jarre (0:4)<br>
+	8. zebruken (1:1)<br>
+	9. aeiou (0:1)<br>
 <br>
-109. #tombib (1012) +3<br>
-+15<br>
-	3. rickss (1:2)<br>
+100. #tombib (1013) 0<br>
++17<br>
+	2. NuttyJeans (0:1)<br>
+	4. rickss (0:1)<br>
 	5. svircs (1:0)<br>
-	6. Jarre (0:2)<br>
-	7. aeiou (0:1)<br>
+	7. Jarre (0:2)<br>
 	8. zebruken (0:1)<br>
+	9. aeiou (0:1)<br>
 <br>
-110. #FuzzyOyster~550 (1007) 0<br>
+101. #FuzzyOyster~550 (1007) 0<br>
 -6|-5<br>
 	1. GreatApple~214 (0:2)<br>
-	2. Nimsta (2:0)<br>
-	3. rickss (0:1)<br>
+	3. Nimsta (2:0)<br>
+	4. rickss (0:1)<br>
 	5. svircs (0:1)<br>
-	7. aeiou (0:1)<br>
 	8. zebruken (0:12)<br>
-	10. Tiberius88 (0:3)<br>
+	9. aeiou (0:1)<br>
 <br>
-111. #Maximus4444 (1006) -1<br>
-+1|0|0|-5|-7<br>
-	2. Nimsta (1:0)<br>
-	3. rickss (1:1)<br>
-	6. Jarre (2:2)<br>
+102. #Maximus4444 (1005) +2<br>
+-1|-1|-2|-7|-8|0<br>
+	2. NuttyJeans (0:1)<br>
+	3. Nimsta (1:0)<br>
+	4. rickss (1:1)<br>
+	7. Jarre (2:2)<br>
 	8. zebruken (0:4)<br>
-	10. Tiberius88 (0:1)<br>
 <br>
-112. #wohgnid (1005) +2<br>
+103. #wohgnid (1005) 0<br>
 -3<br>
 	1. GreatApple~214 (0:1)<br>
-	2. Nimsta (0:2)<br>
+	3. Nimsta (0:2)<br>
 	5. svircs (0:1)<br>
 <br>
-113. #WildWapiti (990) +1<br>
-+3|+5|+1<br>
-	2. Nimsta (0:1)<br>
-	3. rickss (0:1)<br>
-	4. NuttyJeans (0:1)<br>
-	6. Jarre (0:1)<br>
-	9. joropo808 (0:2)<br>
+104. #orenong (1003) -4<br>
++22|+22|+21|+27|+17|+5|-2|-3|-10|-7<br>
+	1. GreatApple~214 (3:0)<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (0:1)<br>
+	7. Jarre (1:1)<br>
+	8. zebruken (3:0)<br>
+<br>
+105. #WildWapiti (991) +2<br>
++4|+6|+2<br>
+	2. NuttyJeans (0:1)<br>
+	3. Nimsta (0:1)<br>
+	4. rickss (0:1)<br>
+	7. Jarre (0:1)<br>
+	10. joropo808 (0:2)<br>
