@@ -1,549 +1,541 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #Nimsta (1276) -4<br>
-+53|+43|+13|-6|+15|+24|-1|+1|+15|-4<br>
+1. #Nimsta (1278) +1<br>
++54|+44|+14|-5|+17|+25|0|+2|+16|-3<br>
 	2. GreatApple~214 (1:0)<br>
-	3. rickss (1:0)<br>
-	5. aeiou (1:2)<br>
-	6. MUF (1:1)<br>
-	7. BillY_Patro (1:0)<br>
-	8. A-z-sh (1:4)<br>
-	9. TangySoda~164 (2:0)<br>
-	10. Buz (5:2)<br>
-<br>
-2. #GreatApple~214 (1265) -2<br>
--40|-38|-40|-33|-36|-36|-31|-23|-19|-17<br>
-	1. Nimsta (0:1)<br>
 	3. rickss (1:1)<br>
-	4. Jarre (2:0)<br>
-	7. BillY_Patro (1:2)<br>
-	8. A-z-sh (2:2)<br>
+	4. aeiou (1:2)<br>
+	6. BillY_Patro (1:0)<br>
+	7. A-z-sh (1:4)<br>
+	8. MUF (1:1)<br>
+	9. z.snafu (2:0)<br>
+	10. TangySoda~164 (2:0)<br>
 <br>
-3. #rickss (1253) +1<br>
--13|-18|-10|-7|-12|-15|-12|-6|-15|-4<br>
+2. #GreatApple~214 (1266) +1<br>
+-38|-39|-33|-35|-35|-30|-23|-18|-16|0<br>
 	1. Nimsta (0:1)<br>
-	2. GreatApple~214 (1:1)<br>
-	4. Jarre (0:1)<br>
-	5. aeiou (5:4)<br>
-	6. MUF (4:2)<br>
-	7. BillY_Patro (3:4)<br>
-	8. A-z-sh (2:7)<br>
-	9. TangySoda~164 (3:2)<br>
-	10. Buz (1:1)<br>
+	3. rickss (0:1)<br>
+	5. Jarre (2:0)<br>
+	6. BillY_Patro (1:2)<br>
+	7. A-z-sh (2:2)<br>
+	9. z.snafu (1:0)<br>
 <br>
-4. #Jarre (1237) 0<br>
-+9|+17|+10|+19|+24|+18|+7|+4|-11|+9<br>
-	2. GreatApple~214 (0:2)<br>
-	3. rickss (1:0)<br>
-	5. aeiou (1:0)<br>
-	6. MUF (1:0)<br>
-	7. BillY_Patro (3:5)<br>
-	8. A-z-sh (0:2)<br>
-	9. TangySoda~164 (2:0)<br>
-	10. Buz (1:1)<br>
+3. #rickss (1257) +4<br>
+-9|-14|-6|-2|-8|-11|-8|-2|-11|0<br>
+	1. Nimsta (1:1)<br>
+	2. GreatApple~214 (1:0)<br>
+	4. aeiou (5:4)<br>
+	5. Jarre (0:1)<br>
+	6. BillY_Patro (4:4)<br>
+	7. A-z-sh (2:7)<br>
+	8. MUF (4:2)<br>
+	9. z.snafu (1:3)<br>
+	10. TangySoda~164 (3:2)<br>
 <br>
-5. #aeiou (1235) +1<br>
+4. #aeiou (1235) 0<br>
 +32|+25|+20|+8|+15|+18|+19|+10|+4|0<br>
 	1. Nimsta (2:1)<br>
 	3. rickss (4:5)<br>
-	4. Jarre (0:1)<br>
-	6. MUF (0:3)<br>
-	7. BillY_Patro (3:0)<br>
-	8. A-z-sh (2:3)<br>
-	9. TangySoda~164 (7:5)<br>
-	10. Buz (3:1)<br>
+	5. Jarre (0:1)<br>
+	6. BillY_Patro (3:0)<br>
+	7. A-z-sh (2:3)<br>
+	8. MUF (0:3)<br>
+	10. TangySoda~164 (7:5)<br>
 <br>
-6. #MUF (1219) +3<br>
-+123|+102|+96|+57|+36|+27|+19|+19|+10|+3<br>
-	1. Nimsta (1:1)<br>
-	3. rickss (2:4)<br>
-	4. Jarre (0:1)<br>
-	5. aeiou (3:0)<br>
-	7. BillY_Patro (0:1)<br>
-	8. A-z-sh (0:1)<br>
-	9. TangySoda~164 (2:3)<br>
+5. #Jarre (1235) -2<br>
++7|+15|+9|+17|+22|+17|+5|+3|-13|+7<br>
+	2. GreatApple~214 (0:2)<br>
+	3. rickss (1:0)<br>
+	4. aeiou (1:0)<br>
+	6. BillY_Patro (3:5)<br>
+	7. A-z-sh (0:2)<br>
+	8. MUF (1:0)<br>
+	10. TangySoda~164 (2:0)<br>
 <br>
-7. #BillY_Patro (1218) +1<br>
-+94|+85|+68|+62|+66|+52|+40|+16|+10|+1<br>
+6. #BillY_Patro (1220) +2<br>
++96|+88|+70|+64|+68|+54|+43|+18|+12|+3<br>
 	1. Nimsta (0:1)<br>
 	2. GreatApple~214 (2:1)<br>
-	3. rickss (4:3)<br>
-	4. Jarre (5:3)<br>
-	5. aeiou (0:3)<br>
-	6. MUF (1:0)<br>
-	8. A-z-sh (6:6)<br>
-	9. TangySoda~164 (2:3)<br>
-	10. Buz (0:2)<br>
+	3. rickss (4:4)<br>
+	4. aeiou (0:3)<br>
+	5. Jarre (5:3)<br>
+	7. A-z-sh (5:5)<br>
+	8. MUF (1:0)<br>
+	10. TangySoda~164 (2:3)<br>
 <br>
-8. #A-z-sh (1215) -3<br>
--10|-18|-15|-4|-23|-22|-13|-15|-15|-6<br>
+7. #A-z-sh (1217) +2<br>
+-16|-13|-2|-21|-20|-11|-13|-13|-4|+3<br>
 	1. Nimsta (4:1)<br>
 	2. GreatApple~214 (2:2)<br>
 	3. rickss (7:2)<br>
-	4. Jarre (2:0)<br>
-	5. aeiou (3:2)<br>
-	6. MUF (1:0)<br>
-	7. BillY_Patro (6:6)<br>
-	9. TangySoda~164 (2:2)<br>
-	10. Buz (0:6)<br>
+	4. aeiou (3:2)<br>
+	5. Jarre (2:0)<br>
+	6. BillY_Patro (5:5)<br>
+	8. MUF (1:0)<br>
+	9. z.snafu (1:0)<br>
+	10. TangySoda~164 (2:2)<br>
 <br>
-9. #TangySoda~164 (1199) -1<br>
-+88|+66|+44|+29|+2|+10|+16|+19|+1|-2<br>
+8. #MUF (1216) -2<br>
++120|+99|+93|+54|+33|+25|+17|+16|+8|+1<br>
+	1. Nimsta (1:1)<br>
+	3. rickss (2:4)<br>
+	4. aeiou (3:0)<br>
+	5. Jarre (0:1)<br>
+	6. BillY_Patro (0:1)<br>
+	7. A-z-sh (0:1)<br>
+	10. TangySoda~164 (2:3)<br>
+<br>
+9. #z.snafu (1204) -4<br>
++24|+13|+6|+13|+16|+10|+27|+16|+14|-4<br>
+	1. Nimsta (0:2)<br>
+	2. GreatApple~214 (0:1)<br>
+	3. rickss (3:1)<br>
+	7. A-z-sh (0:1)<br>
+<br>
+10. #TangySoda~164 (1199) 0<br>
++88|+67|+44|+29|+3|+10|+17|+19|+1|-2<br>
 	1. Nimsta (0:2)<br>
 	3. rickss (2:3)<br>
-	4. Jarre (0:2)<br>
-	5. aeiou (5:7)<br>
-	6. MUF (3:2)<br>
-	7. BillY_Patro (3:2)<br>
-	8. A-z-sh (2:2)<br>
-	10. Buz (6:0)<br>
+	4. aeiou (5:7)<br>
+	5. Jarre (0:2)<br>
+	6. BillY_Patro (3:2)<br>
+	7. A-z-sh (2:2)<br>
+	8. MUF (3:2)<br>
 <br>
-10. #Buz (1193) +7<br>
-+14|+3|+3|-18|-17|+2|+12|+7|+6|+9<br>
-	1. Nimsta (2:5)<br>
+11. #Buz (1193) 0<br>
++13|+3|+3|-18|-18|+2|+12|+7|+6|+9<br>
+	1. Nimsta (2:4)<br>
 	3. rickss (1:1)<br>
-	4. Jarre (1:1)<br>
-	5. aeiou (1:3)<br>
-	7. BillY_Patro (2:0)<br>
-	8. A-z-sh (6:0)<br>
-	9. TangySoda~164 (0:6)<br>
+	4. aeiou (1:3)<br>
+	5. Jarre (1:1)<br>
+	6. BillY_Patro (2:0)<br>
+	7. A-z-sh (6:0)<br>
+	9. z.snafu (5:5)<br>
+	10. TangySoda~164 (0:6)<br>
 <br>
-11. #gusgus100096 (1192) 0<br>
+12. #gusgus100096 (1192) 0<br>
 +139|+101|+69|+52|+39|+38|+31|+13|+15|0<br>
 	1. Nimsta (3:3)<br>
 	2. GreatApple~214 (0:4)<br>
 	3. rickss (0:1)<br>
-	5. aeiou (0:1)<br>
-	7. BillY_Patro (0:1)<br>
-	8. A-z-sh (6:8)<br>
-	9. TangySoda~164 (2:1)<br>
-	10. Buz (6:2)<br>
+	4. aeiou (0:1)<br>
+	6. BillY_Patro (0:1)<br>
+	7. A-z-sh (6:8)<br>
+	9. z.snafu (3:1)<br>
+	10. TangySoda~164 (2:1)<br>
 <br>
-12. #stront01 (1185) 0<br>
-+21|+19|+18|+17|+10|+12|+22|+21|+25|+7<br>
+13. #stront01 (1185) 0<br>
++20|+19|+18|+16|+10|+12|+22|+21|+25|+7<br>
 	1. Nimsta (0:1)<br>
 	3. rickss (1:1)<br>
-	5. aeiou (2:2)<br>
-	6. MUF (1:2)<br>
-	7. BillY_Patro (1:1)<br>
-	8. A-z-sh (11:3)<br>
-	10. Buz (0:1)<br>
+	4. aeiou (2:2)<br>
+	6. BillY_Patro (1:1)<br>
+	7. A-z-sh (11:3)<br>
+	8. MUF (1:2)<br>
+	9. z.snafu (0:1)<br>
 <br>
-13. #Matthew0898 (1184) +1<br>
-+140|+96|+84|+48|+29|+13<br>
+14. #Matthew0898 (1184) 0<br>
++140|+96|+85|+48|+29|+13<br>
 	1. Nimsta (0:2)<br>
 	3. rickss (1:3)<br>
-	7. BillY_Patro (1:0)<br>
-	8. A-z-sh (10:10)<br>
-	9. TangySoda~164 (1:0)<br>
-	10. Buz (2:1)<br>
+	6. BillY_Patro (1:0)<br>
+	7. A-z-sh (10:10)<br>
+	9. z.snafu (0:1)<br>
+	10. TangySoda~164 (1:0)<br>
 <br>
-14. #SpaceX (1177) +2<br>
-+134|+103|+76|+45|+21|+2|0|-4<br>
+15. #SpaceX (1178) 0<br>
++134|+103|+76|+45|+21|+3|+1|-4<br>
 	1. Nimsta (2:1)<br>
 	2. GreatApple~214 (2:2)<br>
 	3. rickss (2:0)<br>
-	4. Jarre (0:1)<br>
-	5. aeiou (2:1)<br>
-	6. MUF (0:2)<br>
-	7. BillY_Patro (3:1)<br>
-	8. A-z-sh (1:4)<br>
-	9. TangySoda~164 (2:2)<br>
-	10. Buz (1:2)<br>
-<br>
-15. #His-Majesty (1174) 0<br>
--27|-22|-18|-12|-33|-45|-34|-21|-5|+8<br>
-	1. Nimsta (7:4)<br>
-	2. GreatApple~214 (1:2)<br>
-	3. rickss (3:4)<br>
-	4. Jarre (1:6)<br>
-	5. aeiou (3:12)<br>
-	6. MUF (4:6)<br>
-	7. BillY_Patro (5:4)<br>
-	8. A-z-sh (4:15)<br>
-	9. TangySoda~164 (3:1)<br>
-	10. Buz (6:4)<br>
+	4. aeiou (2:1)<br>
+	5. Jarre (0:1)<br>
+	6. BillY_Patro (4:1)<br>
+	7. A-z-sh (1:4)<br>
+	8. MUF (0:2)<br>
+	9. z.snafu (1:0)<br>
+	10. TangySoda~164 (2:2)<br>
 <br>
 16. #olo (1173) 0<br>
 -8|-8|-14|-7|-4|+9|+10|+5|+4|-7<br>
 	1. Nimsta (0:1)<br>
-	5. aeiou (2:1)<br>
-	6. MUF (0:1)<br>
-	7. BillY_Patro (0:4)<br>
-	8. A-z-sh (1:2)<br>
-	10. Buz (3:0)<br>
+	4. aeiou (2:1)<br>
+	6. BillY_Patro (0:4)<br>
+	7. A-z-sh (1:2)<br>
+	8. MUF (0:1)<br>
 <br>
-17. #dfyyxy (1173) 0<br>
--9|-5|-6|-3|-16|-23|-13|+10|+11|+5<br>
+17. #His-Majesty (1173) -1<br>
+-23|-18|-12|-34|-46|-34|-21|-6|+8|-1<br>
+	1. Nimsta (7:4)<br>
+	2. GreatApple~214 (1:2)<br>
+	3. rickss (3:4)<br>
+	4. aeiou (3:11)<br>
+	5. Jarre (1:6)<br>
+	6. BillY_Patro (5:4)<br>
+	7. A-z-sh (4:16)<br>
+	8. MUF (4:6)<br>
+	9. z.snafu (2:1)<br>
+	10. TangySoda~164 (3:1)<br>
+<br>
+18. #dfyyxy (1172) -1<br>
+-9|-5|-6|-4|-17|-24|-14|+10|+10|+5<br>
 	1. Nimsta (0:1)<br>
 	2. GreatApple~214 (0:1)<br>
 	3. rickss (0:2)<br>
-	6. MUF (1:0)<br>
-	7. BillY_Patro (0:3)<br>
-	8. A-z-sh (0:2)<br>
-	9. TangySoda~164 (0:1)<br>
+	6. BillY_Patro (0:3)<br>
+	7. A-z-sh (0:2)<br>
+	8. MUF (1:0)<br>
+	10. TangySoda~164 (0:1)<br>
 <br>
-18. #Celica (1166) +1<br>
--11|-28|-34|-25|-33|-35|-28|-27|-10|-8<br>
+19. #Celica (1166) 0<br>
+-11|-27|-34|-24|-33|-35|-28|-27|-10|-8<br>
 	1. Nimsta (3:6)<br>
 	2. GreatApple~214 (0:1)<br>
 	3. rickss (1:2)<br>
-	4. Jarre (1:1)<br>
-	5. aeiou (3:1)<br>
-	8. A-z-sh (2:2)<br>
-	9. TangySoda~164 (0:1)<br>
-	10. Buz (0:1)<br>
+	4. aeiou (3:1)<br>
+	5. Jarre (1:1)<br>
+	7. A-z-sh (2:2)<br>
+	9. z.snafu (0:1)<br>
+	10. TangySoda~164 (0:1)<br>
 <br>
-19. #hydra0602 (1146) 0<br>
-+8|-7|-10|-23|-1|-1|-11|-6|-1|+2<br>
-	1. Nimsta (0:4)<br>
-	2. GreatApple~214 (0:1)<br>
-	3. rickss (1:1)<br>
-	4. Jarre (2:8)<br>
-	5. aeiou (1:2)<br>
-	7. BillY_Patro (1:0)<br>
-	8. A-z-sh (2:3)<br>
-	10. Buz (3:3)<br>
-<br>
-20. #LavishFauce~178 (1143) 0<br>
-+99|+84|+57|+37|+32|+12|+10|+4|-1<br>
-	1. Nimsta (0:1)<br>
-	2. GreatApple~214 (3:4)<br>
-	3. rickss (2:3)<br>
-	4. Jarre (2:0)<br>
-	5. aeiou (1:0)<br>
-	7. BillY_Patro (5:2)<br>
-	8. A-z-sh (2:3)<br>
-	9. TangySoda~164 (1:3)<br>
-	10. Buz (0:1)<br>
-<br>
-21. #shadybiz (1142) -3<br>
-+19|+21|+17|+10|-4|-5|0|-9|-3|-6<br>
+20. #shadybiz (1146) +3<br>
++22|+24|+21|+14|-1|-2|+4|-6|0|-2<br>
 	1. Nimsta (1:1)<br>
 	2. GreatApple~214 (2:2)<br>
 	3. rickss (2:5)<br>
-	4. Jarre (0:2)<br>
-	5. aeiou (0:3)<br>
-	6. MUF (1:2)<br>
-	7. BillY_Patro (0:1)<br>
-	9. TangySoda~164 (2:1)<br>
-	10. Buz (1:3)<br>
+	4. aeiou (0:3)<br>
+	5. Jarre (0:2)<br>
+	6. BillY_Patro (0:1)<br>
+	8. MUF (1:2)<br>
+	9. z.snafu (3:5)<br>
+	10. TangySoda~164 (2:1)<br>
 <br>
-22. #farzip (1136) -5<br>
--16|-30|-30|-18|-17|-17|-17|-19|-7|-9<br>
-	2. GreatApple~214 (1:3)<br>
-	4. Jarre (0:1)<br>
-	6. MUF (1:0)<br>
-	7. BillY_Patro (0:3)<br>
-	8. A-z-sh (0:6)<br>
-	10. Buz (2:3)<br>
+21. #hydra0602 (1145) 0<br>
++7|-7|-11|-24|-2|-1|-11|-7|-1|+1<br>
+	1. Nimsta (0:4)<br>
+	2. GreatApple~214 (0:1)<br>
+	3. rickss (1:1)<br>
+	4. aeiou (1:2)<br>
+	5. Jarre (2:8)<br>
+	6. BillY_Patro (1:0)<br>
+	7. A-z-sh (2:2)<br>
+	9. z.snafu (1:1)<br>
 <br>
-23. #bupkis (1134) +1<br>
-+93|+62|+33|+11<br>
-	1. Nimsta (0:2)<br>
+22. #LavishFauce~178 (1145) +2<br>
++101|+87|+59|+40|+34|+14|+12|+6|+1<br>
+	1. Nimsta (0:1)<br>
+	2. GreatApple~214 (3:4)<br>
+	3. rickss (2:3)<br>
+	4. aeiou (1:0)<br>
+	5. Jarre (2:0)<br>
+	6. BillY_Patro (5:2)<br>
+	7. A-z-sh (2:3)<br>
+	10. TangySoda~164 (1:3)<br>
+<br>
+23. #bupkis (1145) +11<br>
++104|+73|+44|+22<br>
+	1. Nimsta (0:5)<br>
 	3. rickss (2:6)<br>
-	4. Jarre (0:2)<br>
-	5. aeiou (0:1)<br>
-	6. MUF (2:1)<br>
-	7. BillY_Patro (3:1)<br>
-	8. A-z-sh (9:7)<br>
-	10. Buz (1:4)<br>
+	4. aeiou (0:1)<br>
+	5. Jarre (0:2)<br>
+	6. BillY_Patro (3:1)<br>
+	7. A-z-sh (8:7)<br>
+	8. MUF (2:1)<br>
 <br>
-24. #rotzo (1127) -4<br>
-+102|+89|+81|+58|+39|+24|-3<br>
+24. #farzip (1137) +1<br>
+-15|-29|-30|-17|-16|-16|-16|-18|-7|-8<br>
+	2. GreatApple~214 (1:3)<br>
+	5. Jarre (0:1)<br>
+	6. BillY_Patro (0:3)<br>
+	7. A-z-sh (0:6)<br>
+	8. MUF (1:0)<br>
+	9. z.snafu (2:1)<br>
+<br>
+25. #rotzo (1127) 0<br>
++102|+89|+81|+57|+38|+24|-4<br>
 	1. Nimsta (0:1)<br>
 	3. rickss (0:2)<br>
-	5. aeiou (0:1)<br>
-	6. MUF (2:3)<br>
-	7. BillY_Patro (0:3)<br>
-	9. TangySoda~164 (2:0)<br>
-	10. Buz (2:2)<br>
+	4. aeiou (0:1)<br>
+	6. BillY_Patro (0:3)<br>
+	8. MUF (2:3)<br>
+	9. z.snafu (0:3)<br>
+	10. TangySoda~164 (2:0)<br>
 <br>
-25. #TidyFox-415 (1123) -5<br>
-+88|+31|-3<br>
+26. #Suitor1 (1127) +6<br>
++72|+42|+13|+8|+5<br>
+	2. GreatApple~214 (1:0)<br>
+	3. rickss (1:3)<br>
+	5. Jarre (1:8)<br>
+	7. A-z-sh (4:7)<br>
+	10. TangySoda~164 (4:0)<br>
+<br>
+27. #TidyFox-415 (1125) +2<br>
++89|+33|-1<br>
 	1. Nimsta (1:3)<br>
 	2. GreatApple~214 (3:1)<br>
 	3. rickss (2:1)<br>
-	4. Jarre (1:2)<br>
-	6. MUF (1:2)<br>
-	7. BillY_Patro (0:3)<br>
-	8. A-z-sh (11:18)<br>
-	9. TangySoda~164 (6:2)<br>
-	10. Buz (3:1)<br>
+	5. Jarre (1:2)<br>
+	6. BillY_Patro (0:3)<br>
+	7. A-z-sh (12:19)<br>
+	8. MUF (1:2)<br>
+	9. z.snafu (2:1)<br>
+	10. TangySoda~164 (6:2)<br>
 <br>
-26. #Suitor1 (1120) 0<br>
-+66|+35|+7|+2|-1<br>
-	2. GreatApple~214 (1:0)<br>
-	3. rickss (1:3)<br>
-	4. Jarre (1:8)<br>
-	8. A-z-sh (4:7)<br>
-	9. TangySoda~164 (4:0)<br>
-	10. Buz (1:0)<br>
-<br>
-27. #gusben96 (1120) +1<br>
-+60|+21<br>
-	1. Nimsta (1:2)<br>
+28. #gusben96 (1122) +1<br>
++61|+22<br>
 	2. GreatApple~214 (0:2)<br>
 	3. rickss (0:1)<br>
-	4. Jarre (2:0)<br>
-	7. BillY_Patro (1:1)<br>
-	8. A-z-sh (1:0)<br>
-	9. TangySoda~164 (1:0)<br>
-	10. Buz (0:1)<br>
+	5. Jarre (2:0)<br>
+	6. BillY_Patro (1:1)<br>
+	7. A-z-sh (1:0)<br>
+	9. z.snafu (1:1)<br>
+	10. TangySoda~164 (1:0)<br>
 <br>
-28. #Irish47 (1118) -3<br>
-+96|+53|+14<br>
-	4. Jarre (1:6)<br>
-	5. aeiou (1:0)<br>
-	7. BillY_Patro (0:2)<br>
-	8. A-z-sh (2:2)<br>
-	9. TangySoda~164 (5:2)<br>
+29. #Irish47 (1120) +3<br>
++98|+55|+17<br>
+	4. aeiou (1:0)<br>
+	5. Jarre (1:6)<br>
+	6. BillY_Patro (0:2)<br>
+	7. A-z-sh (2:2)<br>
+	10. TangySoda~164 (5:2)<br>
 <br>
-29. #Mika69 (1116) 0<br>
+30. #TinyOwl~323 (1118) +6<br>
++7|+3|0|+1|+9|+3|+8|+5|+13|+10<br>
+	1. Nimsta (1:3)<br>
+	2. GreatApple~214 (2:1)<br>
+	3. rickss (0:3)<br>
+	4. aeiou (0:4)<br>
+	5. Jarre (1:5)<br>
+	7. A-z-sh (0:1)<br>
+	9. z.snafu (3:0)<br>
+	10. TangySoda~164 (0:3)<br>
+<br>
+31. #Mika69 (1116) 0<br>
 +92|+58|+50|+33|+27|+12<br>
 	1. Nimsta (3:3)<br>
-	4. Jarre (4:3)<br>
-	6. MUF (1:1)<br>
-	7. BillY_Patro (1:2)<br>
-	9. TangySoda~164 (3:2)<br>
-	10. Buz (3:2)<br>
+	5. Jarre (4:3)<br>
+	6. BillY_Patro (1:2)<br>
+	8. MUF (1:1)<br>
+	10. TangySoda~164 (3:2)<br>
 <br>
-30. #TinyOwl~323 (1113) +2<br>
-+2|-2|-6|-5|+4|-3|+2|-1|+8|+4<br>
-	1. Nimsta (1:3)<br>
-	2. GreatApple~214 (1:0)<br>
-	3. rickss (0:3)<br>
-	4. Jarre (1:5)<br>
-	5. aeiou (0:5)<br>
-	8. A-z-sh (0:1)<br>
-	9. TangySoda~164 (0:3)<br>
-	10. Buz (2:3)<br>
+32. #meltedcheese (1114) +5<br>
++15|+19|+34|+34|+27|+22|+19|+10|+5|+7<br>
+	1. Nimsta (3:3)<br>
+	2. GreatApple~214 (1:3)<br>
+	3. rickss (3:4)<br>
+	5. Jarre (1:0)<br>
+	6. BillY_Patro (1:1)<br>
+	7. A-z-sh (5:4)<br>
+	8. MUF (0:2)<br>
+	9. z.snafu (3:2)<br>
+	10. TangySoda~164 (0:3)<br>
 <br>
-31. #Gungala (1112) 0<br>
+33. #DerOllePete (1113) +2<br>
++59|-1<br>
+	2. GreatApple~214 (0:1)<br>
+	3. rickss (3:3)<br>
+	4. aeiou (0:1)<br>
+	6. BillY_Patro (2:0)<br>
+	7. A-z-sh (4:2)<br>
+	10. TangySoda~164 (0:2)<br>
+<br>
+34. #Gungala (1112) 0<br>
 +13|+21|+17|+6|+9|-3|-1|+11|+8|+10<br>
 	1. Nimsta (3:6)<br>
 	3. rickss (0:2)<br>
-	6. MUF (1:0)<br>
-	8. A-z-sh (1:5)<br>
-	9. TangySoda~164 (1:0)<br>
-	10. Buz (3:5)<br>
+	7. A-z-sh (1:5)<br>
+	8. MUF (1:0)<br>
+	9. z.snafu (1:1)<br>
+	10. TangySoda~164 (1:0)<br>
 <br>
-32. #DerOllePete (1111) -1<br>
-+57<br>
-	2. GreatApple~214 (0:1)<br>
-	3. rickss (3:3)<br>
-	5. aeiou (0:1)<br>
-	7. BillY_Patro (2:0)<br>
-	8. A-z-sh (4:2)<br>
-	9. TangySoda~164 (0:2)<br>
-	10. Buz (3:0)<br>
+35. #ShaggyWasp~457 (1110) +1<br>
++101|+85|+54|+21|+5|-3|-5<br>
+	2. GreatApple~214 (1:7)<br>
+	3. rickss (1:1)<br>
+	6. BillY_Patro (1:2)<br>
+	7. A-z-sh (6:4)<br>
+	8. MUF (0:2)<br>
 <br>
-33. #stcziiii (1110) +2<br>
+36. #stcziiii (1110) 0<br>
 +62|+32<br>
 	2. GreatApple~214 (0:1)<br>
 	3. rickss (1:1)<br>
-	4. Jarre (1:0)<br>
-	7. BillY_Patro (1:0)<br>
-	8. A-z-sh (3:0)<br>
-	9. TangySoda~164 (0:3)<br>
-	10. Buz (0:1)<br>
+	5. Jarre (1:0)<br>
+	6. BillY_Patro (1:0)<br>
+	7. A-z-sh (3:0)<br>
+	10. TangySoda~164 (0:3)<br>
 <br>
-34. #meltedcheese (1110) +1<br>
-+10|+14|+30|+29|+22|+17|+14|+5|0|+2<br>
-	1. Nimsta (3:3)<br>
-	2. GreatApple~214 (1:1)<br>
-	3. rickss (3:4)<br>
-	4. Jarre (1:0)<br>
-	6. MUF (0:2)<br>
-	7. BillY_Patro (1:1)<br>
-	8. A-z-sh (4:3)<br>
-	9. TangySoda~164 (0:3)<br>
-	10. Buz (3:3)<br>
+37. #SlickGrill~492 (1106) +13<br>
++54|+16<br>
+	1. Nimsta (2:2)<br>
+	2. GreatApple~214 (0:1)<br>
+	3. rickss (0:1)<br>
+	4. aeiou (2:1)<br>
+	5. Jarre (4:1)<br>
+	6. BillY_Patro (5:1)<br>
+	7. A-z-sh (3:10)<br>
+	8. MUF (3:1)<br>
+	9. z.snafu (1:0)<br>
+	10. TangySoda~164 (1:0)<br>
 <br>
-35. #ShaggyWasp~457 (1109) -4<br>
-+99|+83|+52|+20|+4|-4|-7<br>
-	2. GreatApple~214 (1:7)<br>
-	3. rickss (1:1)<br>
-	6. MUF (0:2)<br>
-	7. BillY_Patro (1:1)<br>
-	8. A-z-sh (6:5)<br>
-<br>
-36. #ShortDust~832 (1104) 0<br>
+38. #ShortDust~832 (1104) 0<br>
 +68|+35|+15|+4|0|-4|+2<br>
 	2. GreatApple~214 (0:1)<br>
 	3. rickss (2:1)<br>
-	4. Jarre (1:0)<br>
-	6. MUF (1:1)<br>
-	7. BillY_Patro (0:2)<br>
-	8. A-z-sh (3:2)<br>
-	10. Buz (1:0)<br>
+	5. Jarre (1:0)<br>
+	6. BillY_Patro (0:2)<br>
+	7. A-z-sh (3:2)<br>
+	8. MUF (1:1)<br>
+	9. z.snafu (1:0)<br>
 <br>
-37. #SlickGrill~492 (1093) +4<br>
-+41|+4<br>
-	1. Nimsta (2:2)<br>
-	2. GreatApple~214 (0:1)<br>
-	4. Jarre (4:1)<br>
-	5. aeiou (2:1)<br>
-	6. MUF (3:1)<br>
-	7. BillY_Patro (4:1)<br>
-	8. A-z-sh (3:10)<br>
-	9. TangySoda~164 (1:0)<br>
-	10. Buz (2:1)<br>
+39. #firejones (1089) +7<br>
++52|+21<br>
+	5. Jarre (2:1)<br>
+	6. BillY_Patro (1:2)<br>
+	7. A-z-sh (4:2)<br>
+	10. TangySoda~164 (2:0)<br>
 <br>
-38. #CurlyGrill~583 (1087) +1<br>
-+54|+16<br>
-	1. Nimsta (0:4)<br>
-	2. GreatApple~214 (1:2)<br>
-	3. rickss (0:4)<br>
-	5. aeiou (0:1)<br>
-	6. MUF (1:0)<br>
-	7. BillY_Patro (0:1)<br>
-	8. A-z-sh (2:2)<br>
-	9. TangySoda~164 (1:1)<br>
-	10. Buz (2:1)<br>
-<br>
-39. #slava86 (1085) 0<br>
-+57|+50|+32|+25|+3|+6<br>
+40. #slava86 (1088) +3<br>
++59|+53|+35|+28|+6|+9<br>
 	3. rickss (0:1)<br>
-	7. BillY_Patro (0:2)<br>
-	9. TangySoda~164 (2:2)<br>
+	6. BillY_Patro (0:2)<br>
+	10. TangySoda~164 (2:2)<br>
 <br>
-40. #CrazyAce~775 (1082) 0<br>
+41. #CurlyGrill~583 (1088) 0<br>
++55|+16|0<br>
+	1. Nimsta (0:4)<br>
+	3. rickss (0:4)<br>
+	4. aeiou (0:1)<br>
+	6. BillY_Patro (0:1)<br>
+	7. A-z-sh (2:2)<br>
+	8. MUF (1:0)<br>
+	10. TangySoda~164 (1:1)<br>
+<br>
+42. #CrazyAce~775 (1082) 0<br>
 +33<br>
 	1. Nimsta (8:2)<br>
-	4. Jarre (0:1)<br>
-	5. aeiou (2:0)<br>
-	7. BillY_Patro (1:3)<br>
-	8. A-z-sh (8:9)<br>
-	9. TangySoda~164 (4:3)<br>
-	10. Buz (1:0)<br>
+	4. aeiou (2:0)<br>
+	5. Jarre (0:1)<br>
+	6. BillY_Patro (1:3)<br>
+	7. A-z-sh (8:9)<br>
+	10. TangySoda~164 (4:3)<br>
 <br>
-41. #firejones (1081) +7<br>
-+45|+13<br>
-	4. Jarre (2:1)<br>
-	7. BillY_Patro (1:2)<br>
-	8. A-z-sh (4:2)<br>
-	9. TangySoda~164 (2:0)<br>
-	10. Buz (4:1)<br>
-<br>
-42. #Benman3000 (1081) -1<br>
-+55|+30|+17|+20|+12|+6|+9|+12|+10|-5<br>
+43. #Benman3000 (1081) 0<br>
++55|+30|+17|+19|+12|+6|+9|+12|+10|-5<br>
 	1. Nimsta (0:1)<br>
 	2. GreatApple~214 (1:1)<br>
-	8. A-z-sh (3:17)<br>
-	9. TangySoda~164 (1:4)<br>
-	10. Buz (3:1)<br>
+	7. A-z-sh (3:17)<br>
+	9. z.snafu (1:3)<br>
+	10. TangySoda~164 (1:4)<br>
 <br>
-43. #romainlacomb (1079) 0<br>
-+47|+12<br>
+44. #romainlacomb (1081) +1<br>
++48|+13<br>
 	2. GreatApple~214 (1:1)<br>
 	3. rickss (0:1)<br>
-	4. Jarre (1:1)<br>
-	7. BillY_Patro (1:3)<br>
-	9. TangySoda~164 (2:6)<br>
+	5. Jarre (1:1)<br>
+	6. BillY_Patro (1:5)<br>
+	9. z.snafu (2:1)<br>
+	10. TangySoda~164 (2:6)<br>
 <br>
-44. #GreyGuy (1066) +2<br>
-+30<br>
+45. #hehe2 (1068) +3<br>
++21<br>
+	2. GreatApple~214 (1:2)<br>
+	4. aeiou (1:0)<br>
+	10. TangySoda~164 (2:0)<br>
+<br>
+46. #GreyGuy (1067) +1<br>
++31<br>
 	1. Nimsta (1:1)<br>
 	2. GreatApple~214 (2:0)<br>
 	3. rickss (0:1)<br>
-	4. Jarre (2:1)<br>
-	5. aeiou (0:1)<br>
-	6. MUF (0:1)<br>
-	7. BillY_Patro (1:0)<br>
-	8. A-z-sh (1:4)<br>
+	4. aeiou (0:1)<br>
+	5. Jarre (2:1)<br>
+	6. BillY_Patro (1:0)<br>
+	7. A-z-sh (1:4)<br>
+	8. MUF (0:1)<br>
+	10. TangySoda~164 (0:1)<br>
 <br>
-45. #hehe2 (1065) -2<br>
-+17<br>
-	2. GreatApple~214 (1:2)<br>
-	5. aeiou (1:0)<br>
-	9. TangySoda~164 (2:0)<br>
-	10. Buz (2:2)<br>
-<br>
-46. #EliteSofa~940 (1065) -1<br>
+47. #EliteSofa~940 (1065) 0<br>
 +37|+22|+17|+6<br>
 	1. Nimsta (1:3)<br>
 	2. GreatApple~214 (1:3)<br>
-	4. Jarre (0:3)<br>
-	7. BillY_Patro (4:3)<br>
-	8. A-z-sh (1:5)<br>
-	9. TangySoda~164 (3:3)<br>
-	10. Buz (3:2)<br>
+	5. Jarre (0:3)<br>
+	6. BillY_Patro (4:3)<br>
+	7. A-z-sh (1:5)<br>
+	10. TangySoda~164 (3:3)<br>
 <br>
-47. #ding2866199 (1060) 0<br>
+48. #ding2866199 (1060) 0<br>
 +34|+12<br>
 	3. rickss (0:2)<br>
-	6. MUF (3:4)<br>
-	7. BillY_Patro (0:1)<br>
-	8. A-z-sh (5:1)<br>
-	9. TangySoda~164 (1:4)<br>
-	10. Buz (3:3)<br>
+	6. BillY_Patro (0:1)<br>
+	7. A-z-sh (5:1)<br>
+	8. MUF (3:4)<br>
+	9. z.snafu (1:1)<br>
+	10. TangySoda~164 (1:4)<br>
 <br>
-48. #HollowPocke~930 (1057) 0<br>
+49. #HollowPocke~930 (1057) 0<br>
 +31<br>
 	2. GreatApple~214 (2:1)<br>
 	3. rickss (1:4)<br>
-	4. Jarre (0:1)<br>
-	6. MUF (0:2)<br>
-	7. BillY_Patro (1:1)<br>
-	8. A-z-sh (1:6)<br>
-	9. TangySoda~164 (1:1)<br>
-	10. Buz (0:1)<br>
+	5. Jarre (0:1)<br>
+	6. BillY_Patro (1:1)<br>
+	7. A-z-sh (1:6)<br>
+	8. MUF (0:2)<br>
+	10. TangySoda~164 (1:1)<br>
 <br>
-49. #not_a_bot (1053) +3<br>
-+20<br>
+50. #not_a_bot (1052) -1<br>
++19<br>
 	2. GreatApple~214 (0:1)<br>
 	3. rickss (2:1)<br>
-	4. Jarre (1:1)<br>
-	5. aeiou (2:1)<br>
-	7. BillY_Patro (1:1)<br>
-	8. A-z-sh (0:2)<br>
-	9. TangySoda~164 (2:0)<br>
+	4. aeiou (2:1)<br>
+	5. Jarre (1:1)<br>
+	6. BillY_Patro (1:1)<br>
+	7. A-z-sh (0:2)<br>
+	10. TangySoda~164 (2:0)<br>
 <br>
-50. #AbsurdBeef~399 (1050) -1<br>
+51. #AbsurdBeef~399 (1050) 0<br>
 +57|+40|+35|+9<br>
 	1. Nimsta (2:0)<br>
 	2. GreatApple~214 (5:2)<br>
 	3. rickss (0:2)<br>
-	7. BillY_Patro (1:1)<br>
-	8. A-z-sh (0:3)<br>
-	9. TangySoda~164 (1:4)<br>
+	6. BillY_Patro (1:1)<br>
+	7. A-z-sh (0:3)<br>
+	10. TangySoda~164 (1:4)<br>
 <br>
-51. #SableBean~262 (1043) 0<br>
+52. #SableBean~262 (1043) 0<br>
 +21<br>
 	1. Nimsta (0:1)<br>
 	2. GreatApple~214 (1:1)<br>
 	3. rickss (1:1)<br>
-	4. Jarre (1:0)<br>
-	5. aeiou (1:0)<br>
-	7. BillY_Patro (1:0)<br>
-	10. Buz (0:2)<br>
+	4. aeiou (1:0)<br>
+	5. Jarre (1:0)<br>
+	6. BillY_Patro (1:0)<br>
+	9. z.snafu (1:1)<br>
 <br>
-52. #DiverSaint84 (1021) 0<br>
+53. #DiverSaint84 (1021) 0<br>
 +11<br>
 	1. Nimsta (0:1)<br>
 	3. rickss (0:4)<br>
-	4. Jarre (0:4)<br>
-	5. aeiou (0:1)<br>
-	6. MUF (0:4)<br>
-	9. TangySoda~164 (0:3)<br>
-	10. Buz (0:2)<br>
+	4. aeiou (0:1)<br>
+	5. Jarre (0:4)<br>
+	8. MUF (0:4)<br>
+	10. TangySoda~164 (0:3)<br>
 <br>
-53. #thund3rfrakk (1015) +2<br>
-+21|+16|+10|-5<br>
+54. #thund3rfrakk (1016) 0<br>
++22|+16|+10|-5|0<br>
 	1. Nimsta (0:5)<br>
 	2. GreatApple~214 (0:2)<br>
 	3. rickss (1:1)<br>
-	4. Jarre (1:3)<br>
-	5. aeiou (0:2)<br>
-	6. MUF (1:0)<br>
-	7. BillY_Patro (0:7)<br>
-	9. TangySoda~164 (0:3)<br>
-	10. Buz (0:5)<br>
+	4. aeiou (0:2)<br>
+	5. Jarre (1:3)<br>
+	6. BillY_Patro (1:8)<br>
+	8. MUF (1:0)<br>
+	9. z.snafu (0:2)<br>
+	10. TangySoda~164 (0:3)<br>
 <br>
-54. #orenong (995) -3<br>
-+13|+19|+9|-3|-10|-11|-18|-15|-4|+3<br>
+55. #orenong (997) +2<br>
++15|+21|+11|-1|-8|-9|-15|-13|-2|+6<br>
 	1. Nimsta (0:1)<br>
 	3. rickss (0:1)<br>
-	8. A-z-sh (2:1)<br>
-	10. Buz (0:1)<br>
+	7. A-z-sh (2:1)<br>
+	9. z.snafu (1:2)<br>
