@@ -1,7 +1,7 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #Nimsta (1278) +1<br>
-+54|+44|+14|-5|+17|+25|0|+2|+16|-3<br>
+1. #Nimsta (1281) +3<br>
++57|+47|+17|-2|+20|+29|+3|+5|+19|+1<br>
 	2. GreatApple~214 (1:0)<br>
 	3. rickss (1:1)<br>
 	4. aeiou (1:2)<br>
@@ -11,16 +11,16 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. z.snafu (2:0)<br>
 	10. TangySoda~164 (2:0)<br>
 <br>
-2. #GreatApple~214 (1266) +1<br>
--38|-39|-33|-35|-35|-30|-23|-18|-16|0<br>
+2. #GreatApple~214 (1269) +3<br>
+-35|-36|-30|-32|-32|-27|-20|-16|-13|+3<br>
 	1. Nimsta (0:1)<br>
 	3. rickss (0:1)<br>
 	5. Jarre (2:0)<br>
-	6. BillY_Patro (1:2)<br>
+	6. BillY_Patro (2:3)<br>
 	7. A-z-sh (2:2)<br>
 	9. z.snafu (1:0)<br>
 <br>
-3. #rickss (1257) +4<br>
+3. #rickss (1257) 0<br>
 -9|-14|-6|-2|-8|-11|-8|-2|-11|0<br>
 	1. Nimsta (1:1)<br>
 	2. GreatApple~214 (1:0)<br>
@@ -28,7 +28,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Jarre (0:1)<br>
 	6. BillY_Patro (4:4)<br>
 	7. A-z-sh (2:7)<br>
-	8. MUF (4:2)<br>
+	8. MUF (4:1)<br>
 	9. z.snafu (1:3)<br>
 	10. TangySoda~164 (3:2)<br>
 <br>
@@ -42,8 +42,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MUF (0:3)<br>
 	10. TangySoda~164 (7:5)<br>
 <br>
-5. #Jarre (1235) -2<br>
-+7|+15|+9|+17|+22|+17|+5|+3|-13|+7<br>
+5. #Jarre (1234) -1<br>
++6|+14|+7|+16|+21|+15|+3|+1|-14|+6<br>
 	2. GreatApple~214 (0:2)<br>
 	3. rickss (1:0)<br>
 	4. aeiou (1:0)<br>
@@ -52,10 +52,10 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MUF (1:0)<br>
 	10. TangySoda~164 (2:0)<br>
 <br>
-6. #BillY_Patro (1220) +2<br>
-+96|+88|+70|+64|+68|+54|+43|+18|+12|+3<br>
+6. #BillY_Patro (1227) +6<br>
++102|+94|+77|+71|+74|+60|+49|+25|+18|+9<br>
 	1. Nimsta (0:1)<br>
-	2. GreatApple~214 (2:1)<br>
+	2. GreatApple~214 (3:2)<br>
 	3. rickss (4:4)<br>
 	4. aeiou (0:3)<br>
 	5. Jarre (5:3)<br>
@@ -63,8 +63,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MUF (1:0)<br>
 	10. TangySoda~164 (2:3)<br>
 <br>
-7. #A-z-sh (1217) +2<br>
--16|-13|-2|-21|-20|-11|-13|-13|-4|+3<br>
+7. #A-z-sh (1219) +2<br>
+-14|-11|0|-19|-18|-9|-11|-11|-2|+5<br>
 	1. Nimsta (4:1)<br>
 	2. GreatApple~214 (2:2)<br>
 	3. rickss (7:2)<br>
@@ -75,25 +75,25 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. z.snafu (1:0)<br>
 	10. TangySoda~164 (2:2)<br>
 <br>
-8. #MUF (1216) -2<br>
+8. #MUF (1216) 0<br>
 +120|+99|+93|+54|+33|+25|+17|+16|+8|+1<br>
 	1. Nimsta (1:1)<br>
-	3. rickss (2:4)<br>
+	3. rickss (1:4)<br>
 	4. aeiou (3:0)<br>
 	5. Jarre (0:1)<br>
 	6. BillY_Patro (0:1)<br>
 	7. A-z-sh (0:1)<br>
 	10. TangySoda~164 (2:3)<br>
 <br>
-9. #z.snafu (1204) -4<br>
-+24|+13|+6|+13|+16|+10|+27|+16|+14|-4<br>
+9. #z.snafu (1202) -2<br>
++22|+11|+4|+11|+14|+7|+24|+14|+12|-6<br>
 	1. Nimsta (0:2)<br>
 	2. GreatApple~214 (0:1)<br>
 	3. rickss (3:1)<br>
 	7. A-z-sh (0:1)<br>
 <br>
-10. #TangySoda~164 (1199) 0<br>
-+88|+67|+44|+29|+3|+10|+17|+19|+1|-2<br>
+10. #TangySoda~164 (1200) +1<br>
++89|+68|+45|+30|+4|+11|+18|+20|+2|-1<br>
 	1. Nimsta (0:2)<br>
 	3. rickss (2:3)<br>
 	4. aeiou (5:7)<br>
@@ -102,14 +102,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. A-z-sh (2:2)<br>
 	8. MUF (3:2)<br>
 <br>
-11. #Buz (1193) 0<br>
-+13|+3|+3|-18|-18|+2|+12|+7|+6|+9<br>
+11. #Buz (1197) +4<br>
++7|+7|-14|-13|+6|+16|+11|+10|+13|0<br>
 	1. Nimsta (2:4)<br>
 	3. rickss (1:1)<br>
 	4. aeiou (1:3)<br>
 	5. Jarre (1:1)<br>
 	6. BillY_Patro (2:0)<br>
-	7. A-z-sh (6:0)<br>
+	7. A-z-sh (6:1)<br>
 	9. z.snafu (5:5)<br>
 	10. TangySoda~164 (0:6)<br>
 <br>
@@ -124,18 +124,29 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. z.snafu (3:1)<br>
 	10. TangySoda~164 (2:1)<br>
 <br>
-13. #stront01 (1185) 0<br>
-+20|+19|+18|+16|+10|+12|+22|+21|+25|+7<br>
+13. #Milky007 (1192) +1<br>
++166|+126|+82|+63|+45|+35|+17|+19|+6<br>
+	1. Nimsta (1:0)<br>
+	2. GreatApple~214 (3:2)<br>
+	3. rickss (1:1)<br>
+	4. aeiou (1:0)<br>
+	6. BillY_Patro (2:1)<br>
+	7. A-z-sh (1:1)<br>
+	8. MUF (2:1)<br>
+	10. TangySoda~164 (1:0)<br>
+<br>
+14. #stront01 (1185) +1<br>
++20|+18|+17|+10|+13|+22|+22|+25|+7|0<br>
 	1. Nimsta (0:1)<br>
 	3. rickss (1:1)<br>
 	4. aeiou (2:2)<br>
 	6. BillY_Patro (1:1)<br>
-	7. A-z-sh (11:3)<br>
-	8. MUF (1:2)<br>
+	7. A-z-sh (10:3)<br>
+	8. MUF (0:1)<br>
 	9. z.snafu (0:1)<br>
 <br>
-14. #Matthew0898 (1184) 0<br>
-+140|+96|+85|+48|+29|+13<br>
+15. #Matthew0898 (1185) 0<br>
++140|+97|+85|+49|+30|+14<br>
 	1. Nimsta (0:2)<br>
 	3. rickss (1:3)<br>
 	6. BillY_Patro (1:0)<br>
@@ -143,8 +154,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. z.snafu (0:1)<br>
 	10. TangySoda~164 (1:0)<br>
 <br>
-15. #SpaceX (1178) 0<br>
-+134|+103|+76|+45|+21|+3|+1|-4<br>
+16. #SpaceX (1176) -2<br>
++132|+101|+74|+43|+19|+1|-1|-6<br>
 	1. Nimsta (2:1)<br>
 	2. GreatApple~214 (2:2)<br>
 	3. rickss (2:0)<br>
@@ -156,7 +167,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. z.snafu (1:0)<br>
 	10. TangySoda~164 (2:2)<br>
 <br>
-16. #olo (1173) 0<br>
+17. #olo (1173) 0<br>
 -8|-8|-14|-7|-4|+9|+10|+5|+4|-7<br>
 	1. Nimsta (0:1)<br>
 	4. aeiou (2:1)<br>
@@ -164,53 +175,72 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. A-z-sh (1:2)<br>
 	8. MUF (0:1)<br>
 <br>
-17. #His-Majesty (1173) -1<br>
--23|-18|-12|-34|-46|-34|-21|-6|+8|-1<br>
+18. #His-Majesty (1172) -1<br>
+-24|-20|-13|-35|-47|-35|-23|-7|+6|-2<br>
 	1. Nimsta (7:4)<br>
 	2. GreatApple~214 (1:2)<br>
-	3. rickss (3:4)<br>
-	4. aeiou (3:11)<br>
+	3. rickss (3:3)<br>
+	4. aeiou (3:9)<br>
 	5. Jarre (1:6)<br>
 	6. BillY_Patro (5:4)<br>
-	7. A-z-sh (4:16)<br>
+	7. A-z-sh (3:14)<br>
 	8. MUF (4:6)<br>
 	9. z.snafu (2:1)<br>
 	10. TangySoda~164 (3:1)<br>
 <br>
-18. #dfyyxy (1172) -1<br>
--9|-5|-6|-4|-17|-24|-14|+10|+10|+5<br>
+19. #dfyyxy (1171) -1<br>
+-10|-6|-7|-5|-17|-25|-15|+9|+10|+4<br>
 	1. Nimsta (0:1)<br>
 	2. GreatApple~214 (0:1)<br>
 	3. rickss (0:2)<br>
-	6. BillY_Patro (0:3)<br>
+	6. BillY_Patro (1:6)<br>
 	7. A-z-sh (0:2)<br>
 	8. MUF (1:0)<br>
 	10. TangySoda~164 (0:1)<br>
 <br>
-19. #Celica (1166) 0<br>
--11|-27|-34|-24|-33|-35|-28|-27|-10|-8<br>
+20. #Celica (1171) +5<br>
+-6|-23|-29|-19|-28|-30|-23|-22|-5|-3<br>
 	1. Nimsta (3:6)<br>
 	2. GreatApple~214 (0:1)<br>
-	3. rickss (1:2)<br>
+	3. rickss (1:1)<br>
 	4. aeiou (3:1)<br>
 	5. Jarre (1:1)<br>
-	7. A-z-sh (2:2)<br>
+	7. A-z-sh (1:2)<br>
 	9. z.snafu (0:1)<br>
 	10. TangySoda~164 (0:1)<br>
 <br>
-20. #shadybiz (1146) +3<br>
-+22|+24|+21|+14|-1|-2|+4|-6|0|-2<br>
+21. #shadybiz (1153) +7<br>
++30|+32|+28|+21|+7|+6|+11|+2|+7|+5<br>
 	1. Nimsta (1:1)<br>
 	2. GreatApple~214 (2:2)<br>
 	3. rickss (2:5)<br>
 	4. aeiou (0:3)<br>
 	5. Jarre (0:2)<br>
-	6. BillY_Patro (0:1)<br>
+	6. BillY_Patro (1:1)<br>
 	8. MUF (1:2)<br>
 	9. z.snafu (3:5)<br>
 	10. TangySoda~164 (2:1)<br>
 <br>
-21. #hydra0602 (1145) 0<br>
+22. #bupkis (1151) +6<br>
++110|+79|+50|+27|+7<br>
+	1. Nimsta (0:5)<br>
+	3. rickss (2:6)<br>
+	4. aeiou (0:1)<br>
+	5. Jarre (0:2)<br>
+	6. BillY_Patro (3:3)<br>
+	7. A-z-sh (5:7)<br>
+	8. MUF (2:1)<br>
+<br>
+23. #farzip (1146) +9<br>
+-6|-21|-21|-8|-7|-7|-7|-10|+2|+1<br>
+	2. GreatApple~214 (1:3)<br>
+	5. Jarre (0:1)<br>
+	6. BillY_Patro (0:3)<br>
+	7. A-z-sh (0:6)<br>
+	8. MUF (1:0)<br>
+	9. z.snafu (2:1)<br>
+<br>
+24. #hydra0602 (1145) 0<br>
 +7|-7|-11|-24|-2|-1|-11|-7|-1|+1<br>
 	1. Nimsta (0:4)<br>
 	2. GreatApple~214 (0:1)<br>
@@ -221,38 +251,27 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. A-z-sh (2:2)<br>
 	9. z.snafu (1:1)<br>
 <br>
-22. #LavishFauce~178 (1145) +2<br>
-+101|+87|+59|+40|+34|+14|+12|+6|+1<br>
+25. #LavishFauce~178 (1145) 0<br>
++101|+87|+59|+40|+34|+14|+12|+6|+2<br>
 	1. Nimsta (0:1)<br>
 	2. GreatApple~214 (3:4)<br>
 	3. rickss (2:3)<br>
 	4. aeiou (1:0)<br>
 	5. Jarre (2:0)<br>
 	6. BillY_Patro (5:2)<br>
-	7. A-z-sh (2:3)<br>
+	7. A-z-sh (1:3)<br>
 	10. TangySoda~164 (1:3)<br>
 <br>
-23. #bupkis (1145) +11<br>
-+104|+73|+44|+22<br>
-	1. Nimsta (0:5)<br>
-	3. rickss (2:6)<br>
-	4. aeiou (0:1)<br>
-	5. Jarre (0:2)<br>
-	6. BillY_Patro (3:1)<br>
-	7. A-z-sh (8:7)<br>
-	8. MUF (2:1)<br>
+26. #Suitor1 (1128) +1<br>
++73|+43|+14|+9|+6<br>
+	2. GreatApple~214 (1:0)<br>
+	3. rickss (1:3)<br>
+	5. Jarre (1:8)<br>
+	7. A-z-sh (3:7)<br>
+	10. TangySoda~164 (4:0)<br>
 <br>
-24. #farzip (1137) +1<br>
--15|-29|-30|-17|-16|-16|-16|-18|-7|-8<br>
-	2. GreatApple~214 (1:3)<br>
-	5. Jarre (0:1)<br>
-	6. BillY_Patro (0:3)<br>
-	7. A-z-sh (0:6)<br>
-	8. MUF (1:0)<br>
-	9. z.snafu (2:1)<br>
-<br>
-25. #rotzo (1127) 0<br>
-+102|+89|+81|+57|+38|+24|-4<br>
+27. #rotzo (1126) 0<br>
++102|+89|+81|+57|+38|+23|-4<br>
 	1. Nimsta (0:1)<br>
 	3. rickss (0:2)<br>
 	4. aeiou (0:1)<br>
@@ -261,16 +280,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. z.snafu (0:3)<br>
 	10. TangySoda~164 (2:0)<br>
 <br>
-26. #Suitor1 (1127) +6<br>
-+72|+42|+13|+8|+5<br>
-	2. GreatApple~214 (1:0)<br>
-	3. rickss (1:3)<br>
-	5. Jarre (1:8)<br>
-	7. A-z-sh (4:7)<br>
-	10. TangySoda~164 (4:0)<br>
-<br>
-27. #TidyFox-415 (1125) +2<br>
-+89|+33|-1<br>
+28. #TidyFox-415 (1126) +1<br>
++90|+34|0<br>
 	1. Nimsta (1:3)<br>
 	2. GreatApple~214 (3:1)<br>
 	3. rickss (2:1)<br>
@@ -281,7 +292,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. z.snafu (2:1)<br>
 	10. TangySoda~164 (6:2)<br>
 <br>
-28. #gusben96 (1122) +1<br>
+29. #gusben96 (1122) 0<br>
 +61|+22<br>
 	2. GreatApple~214 (0:2)<br>
 	3. rickss (0:1)<br>
@@ -291,7 +302,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. z.snafu (1:1)<br>
 	10. TangySoda~164 (1:0)<br>
 <br>
-29. #Irish47 (1120) +3<br>
+30. #Irish47 (1120) 0<br>
 +98|+55|+17<br>
 	4. aeiou (1:0)<br>
 	5. Jarre (1:6)<br>
@@ -299,8 +310,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. A-z-sh (2:2)<br>
 	10. TangySoda~164 (5:2)<br>
 <br>
-30. #TinyOwl~323 (1118) +6<br>
-+7|+3|0|+1|+9|+3|+8|+5|+13|+10<br>
+31. #meltedcheese (1119) +5<br>
++20|+24|+39|+39|+32|+26|+23|+14|+9|+11<br>
+	1. Nimsta (3:3)<br>
+	2. GreatApple~214 (0:2)<br>
+	3. rickss (3:4)<br>
+	5. Jarre (1:0)<br>
+	6. BillY_Patro (1:1)<br>
+	7. A-z-sh (5:3)<br>
+	8. MUF (0:2)<br>
+	9. z.snafu (3:2)<br>
+	10. TangySoda~164 (0:3)<br>
+<br>
+32. #TinyOwl~323 (1119) 0<br>
++8|+4|0|+1|+10|+3|+8|+5|+14|+10<br>
 	1. Nimsta (1:3)<br>
 	2. GreatApple~214 (2:1)<br>
 	3. rickss (0:3)<br>
@@ -310,63 +333,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. z.snafu (3:0)<br>
 	10. TangySoda~164 (0:3)<br>
 <br>
-31. #Mika69 (1116) 0<br>
-+92|+58|+50|+33|+27|+12<br>
-	1. Nimsta (3:3)<br>
-	5. Jarre (4:3)<br>
-	6. BillY_Patro (1:2)<br>
-	8. MUF (1:1)<br>
-	10. TangySoda~164 (3:2)<br>
-<br>
-32. #meltedcheese (1114) +5<br>
-+15|+19|+34|+34|+27|+22|+19|+10|+5|+7<br>
-	1. Nimsta (3:3)<br>
-	2. GreatApple~214 (1:3)<br>
-	3. rickss (3:4)<br>
-	5. Jarre (1:0)<br>
-	6. BillY_Patro (1:1)<br>
-	7. A-z-sh (5:4)<br>
-	8. MUF (0:2)<br>
-	9. z.snafu (3:2)<br>
-	10. TangySoda~164 (0:3)<br>
-<br>
-33. #DerOllePete (1113) +2<br>
-+59|-1<br>
-	2. GreatApple~214 (0:1)<br>
-	3. rickss (3:3)<br>
-	4. aeiou (0:1)<br>
-	6. BillY_Patro (2:0)<br>
-	7. A-z-sh (4:2)<br>
-	10. TangySoda~164 (0:2)<br>
-<br>
-34. #Gungala (1112) 0<br>
-+13|+21|+17|+6|+9|-3|-1|+11|+8|+10<br>
-	1. Nimsta (3:6)<br>
-	3. rickss (0:2)<br>
-	7. A-z-sh (1:5)<br>
-	8. MUF (1:0)<br>
-	9. z.snafu (1:1)<br>
-	10. TangySoda~164 (1:0)<br>
-<br>
-35. #ShaggyWasp~457 (1110) +1<br>
-+101|+85|+54|+21|+5|-3|-5<br>
-	2. GreatApple~214 (1:7)<br>
-	3. rickss (1:1)<br>
-	6. BillY_Patro (1:2)<br>
-	7. A-z-sh (6:4)<br>
-	8. MUF (0:2)<br>
-<br>
-36. #stcziiii (1110) 0<br>
-+62|+32<br>
-	2. GreatApple~214 (0:1)<br>
-	3. rickss (1:1)<br>
-	5. Jarre (1:0)<br>
-	6. BillY_Patro (1:0)<br>
-	7. A-z-sh (3:0)<br>
-	10. TangySoda~164 (0:3)<br>
-<br>
-37. #SlickGrill~492 (1106) +13<br>
-+54|+16<br>
+33. #SlickGrill~492 (1116) +10<br>
++64|+27<br>
 	1. Nimsta (2:2)<br>
 	2. GreatApple~214 (0:1)<br>
 	3. rickss (0:1)<br>
@@ -378,8 +346,51 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. z.snafu (1:0)<br>
 	10. TangySoda~164 (1:0)<br>
 <br>
-38. #ShortDust~832 (1104) 0<br>
-+68|+35|+15|+4|0|-4|+2<br>
+34. #Mika69 (1115) -1<br>
++90|+56|+49|+32|+26|+11|-3<br>
+	1. Nimsta (3:3)<br>
+	5. Jarre (4:3)<br>
+	6. BillY_Patro (1:2)<br>
+	8. MUF (1:1)<br>
+	10. TangySoda~164 (3:2)<br>
+<br>
+35. #DerOllePete (1113) 0<br>
++59|-1<br>
+	2. GreatApple~214 (0:1)<br>
+	3. rickss (3:3)<br>
+	4. aeiou (0:1)<br>
+	6. BillY_Patro (2:0)<br>
+	7. A-z-sh (4:2)<br>
+	10. TangySoda~164 (0:2)<br>
+<br>
+36. #Gungala (1113) +1<br>
++13|+22|+18|+7|+9|-2|0|+11|+9|+11<br>
+	1. Nimsta (3:6)<br>
+	3. rickss (0:2)<br>
+	7. A-z-sh (1:5)<br>
+	8. MUF (1:0)<br>
+	9. z.snafu (1:1)<br>
+	10. TangySoda~164 (1:0)<br>
+<br>
+37. #ShaggyWasp~457 (1110) 0<br>
++101|+85|+54|+21|+5|-3|-5<br>
+	2. GreatApple~214 (1:7)<br>
+	3. rickss (1:1)<br>
+	6. BillY_Patro (1:2)<br>
+	7. A-z-sh (6:4)<br>
+	8. MUF (0:2)<br>
+<br>
+38. #stcziiii (1109) -1<br>
++61|+31<br>
+	2. GreatApple~214 (0:1)<br>
+	3. rickss (1:1)<br>
+	5. Jarre (1:0)<br>
+	6. BillY_Patro (1:0)<br>
+	7. A-z-sh (3:0)<br>
+	10. TangySoda~164 (0:3)<br>
+<br>
+39. #ShortDust~832 (1104) 0<br>
++68|+36|+15|+4|0|-4|+2<br>
 	2. GreatApple~214 (0:1)<br>
 	3. rickss (2:1)<br>
 	5. Jarre (1:0)<br>
@@ -388,18 +399,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MUF (1:1)<br>
 	9. z.snafu (1:0)<br>
 <br>
-39. #firejones (1089) +7<br>
-+52|+21<br>
+40. #firejones (1093) +4<br>
++56|+25<br>
 	5. Jarre (2:1)<br>
 	6. BillY_Patro (1:2)<br>
 	7. A-z-sh (4:2)<br>
 	10. TangySoda~164 (2:0)<br>
-<br>
-40. #slava86 (1088) +3<br>
-+59|+53|+35|+28|+6|+9<br>
-	3. rickss (0:1)<br>
-	6. BillY_Patro (0:2)<br>
-	10. TangySoda~164 (2:2)<br>
 <br>
 41. #CurlyGrill~583 (1088) 0<br>
 +55|+16|0<br>
@@ -411,7 +416,15 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MUF (1:0)<br>
 	10. TangySoda~164 (1:1)<br>
 <br>
-42. #CrazyAce~775 (1082) 0<br>
+42. #Benman3000 (1083) +2<br>
++57|+32|+19|+21|+14|+8|+11|+14|+12|-3<br>
+	1. Nimsta (0:1)<br>
+	2. GreatApple~214 (1:1)<br>
+	7. A-z-sh (3:17)<br>
+	9. z.snafu (1:3)<br>
+	10. TangySoda~164 (1:4)<br>
+<br>
+43. #CrazyAce~775 (1082) 0<br>
 +33<br>
 	1. Nimsta (8:2)<br>
 	4. aeiou (2:0)<br>
@@ -420,30 +433,43 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. A-z-sh (8:9)<br>
 	10. TangySoda~164 (4:3)<br>
 <br>
-43. #Benman3000 (1081) 0<br>
-+55|+30|+17|+19|+12|+6|+9|+12|+10|-5<br>
-	1. Nimsta (0:1)<br>
-	2. GreatApple~214 (1:1)<br>
-	7. A-z-sh (3:17)<br>
-	9. z.snafu (1:3)<br>
-	10. TangySoda~164 (1:4)<br>
+44. #AngryDrum~574 (1082) +9<br>
++70|+26|+5<br>
+	1. Nimsta (1:0)<br>
+	5. Jarre (1:0)<br>
+	6. BillY_Patro (0:1)<br>
+	7. A-z-sh (3:0)<br>
+	8. MUF (1:0)<br>
+	10. TangySoda~164 (1:2)<br>
 <br>
-44. #romainlacomb (1081) +1<br>
-+48|+13<br>
+45. #romainlacomb (1080) -1<br>
++47|+12<br>
 	2. GreatApple~214 (1:1)<br>
 	3. rickss (0:1)<br>
 	5. Jarre (1:1)<br>
-	6. BillY_Patro (1:5)<br>
+	6. BillY_Patro (1:6)<br>
 	9. z.snafu (2:1)<br>
 	10. TangySoda~164 (2:6)<br>
 <br>
-45. #hehe2 (1068) +3<br>
-+21<br>
+46. #hehe2 (1079) +10<br>
++31|+10<br>
 	2. GreatApple~214 (1:2)<br>
 	4. aeiou (1:0)<br>
+	9. z.snafu (1:0)<br>
 	10. TangySoda~164 (2:0)<br>
 <br>
-46. #GreyGuy (1067) +1<br>
+47. #MushyRam~673 (1077) +13<br>
++48|+42|+11<br>
+	1. Nimsta (0:1)<br>
+	2. GreatApple~214 (0:1)<br>
+	3. rickss (0:1)<br>
+	4. aeiou (1:0)<br>
+	5. Jarre (0:1)<br>
+	6. BillY_Patro (1:2)<br>
+	7. A-z-sh (2:0)<br>
+	8. MUF (2:1)<br>
+<br>
+48. #GreyGuy (1067) 0<br>
 +31<br>
 	1. Nimsta (1:1)<br>
 	2. GreatApple~214 (2:0)<br>
@@ -455,7 +481,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MUF (0:1)<br>
 	10. TangySoda~164 (0:1)<br>
 <br>
-47. #EliteSofa~940 (1065) 0<br>
+49. #EliteSofa~940 (1065) 0<br>
 +37|+22|+17|+6<br>
 	1. Nimsta (1:3)<br>
 	2. GreatApple~214 (1:3)<br>
@@ -464,7 +490,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. A-z-sh (1:5)<br>
 	10. TangySoda~164 (3:3)<br>
 <br>
-48. #ding2866199 (1060) 0<br>
+50. #ding2866199 (1060) 0<br>
 +34|+12<br>
 	3. rickss (0:2)<br>
 	6. BillY_Patro (0:1)<br>
@@ -473,36 +499,26 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. z.snafu (1:1)<br>
 	10. TangySoda~164 (1:4)<br>
 <br>
-49. #HollowPocke~930 (1057) 0<br>
-+31<br>
-	2. GreatApple~214 (2:1)<br>
-	3. rickss (1:4)<br>
-	5. Jarre (0:1)<br>
-	6. BillY_Patro (1:1)<br>
-	7. A-z-sh (1:6)<br>
-	8. MUF (0:2)<br>
-	10. TangySoda~164 (1:1)<br>
-<br>
-50. #not_a_bot (1052) -1<br>
-+19<br>
+51. #not_a_bot (1054) +2<br>
++21<br>
 	2. GreatApple~214 (0:1)<br>
 	3. rickss (2:1)<br>
 	4. aeiou (2:1)<br>
 	5. Jarre (1:1)<br>
-	6. BillY_Patro (1:1)<br>
+	6. BillY_Patro (1:2)<br>
 	7. A-z-sh (0:2)<br>
 	10. TangySoda~164 (2:0)<br>
 <br>
-51. #AbsurdBeef~399 (1050) 0<br>
-+57|+40|+35|+9<br>
+52. #AbsurdBeef~399 (1053) +3<br>
++60|+44|+39|+13<br>
 	1. Nimsta (2:0)<br>
-	2. GreatApple~214 (5:2)<br>
+	2. GreatApple~214 (5:3)<br>
 	3. rickss (0:2)<br>
 	6. BillY_Patro (1:1)<br>
 	7. A-z-sh (0:3)<br>
 	10. TangySoda~164 (1:4)<br>
 <br>
-52. #SableBean~262 (1043) 0<br>
+53. #SableBean~262 (1043) 0<br>
 +21<br>
 	1. Nimsta (0:1)<br>
 	2. GreatApple~214 (1:1)<br>
@@ -512,17 +528,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. BillY_Patro (1:0)<br>
 	9. z.snafu (1:1)<br>
 <br>
-53. #DiverSaint84 (1021) 0<br>
-+11<br>
-	1. Nimsta (0:1)<br>
-	3. rickss (0:4)<br>
-	4. aeiou (0:1)<br>
-	5. Jarre (0:4)<br>
-	8. MUF (0:4)<br>
-	10. TangySoda~164 (0:3)<br>
-<br>
-54. #thund3rfrakk (1016) 0<br>
-+22|+16|+10|-5|0<br>
+54. #thund3rfrakk (1021) +6<br>
++28|+22|+16|+1|+6<br>
 	1. Nimsta (0:5)<br>
 	2. GreatApple~214 (0:2)<br>
 	3. rickss (1:1)<br>
@@ -533,9 +540,9 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. z.snafu (0:2)<br>
 	10. TangySoda~164 (0:3)<br>
 <br>
-55. #orenong (997) +2<br>
+55. #orenong (997) 0<br>
 +15|+21|+11|-1|-8|-9|-15|-13|-2|+6<br>
 	1. Nimsta (0:1)<br>
 	3. rickss (0:1)<br>
-	7. A-z-sh (2:1)<br>
+	7. A-z-sh (0:1)<br>
 	9. z.snafu (1:2)<br>
