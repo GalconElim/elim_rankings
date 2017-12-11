@@ -35,8 +35,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. OrBiTeR (24:37)<br>
 	10. waffle3z (5:3)<br>
 <br>
-5. #Kretschy198 (1135) 0<br>
-+120|+106|+88|+69|+57|+36|+15|-3<br>
+5. #Kretschy198 (1131) -3<br>
++116|+102|+84|+66|+53|+33|+12|-6<br>
 	3. Reclamation- (5:11)<br>
 	6. ss0317 (4:5)<br>
 	7. Hoberdo (6:5)<br>
@@ -89,7 +89,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 11. #vip_genius (1102) 0<br>
 +13|+17|+10|+3|-4|-13|0|-2|+2|-2<br>
 	1. MusCu (1:4)<br>
-	2. Vadim1707 (6:27)<br>
+	2. Vadim1707 (6:26)<br>
 	3. Reclamation- (0:4)<br>
 	4. bejut (59:76)<br>
 	6. ss0317 (56:43)<br>
@@ -97,7 +97,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. pablo55 (0:2)<br>
 	10. waffle3z (3:4)<br>
 <br>
-12. #Joe_Shome123 (1101) 0<br>
+12. #matty (1102) +2<br>
++84|+65|+50|+31|+14|+10|+5|-1|+2<br>
+	3. Reclamation- (0:1)<br>
+	6. ss0317 (9:8)<br>
+<br>
+13. #Joe_Shome123 (1101) 0<br>
 +87|+59|+44|+19|0<br>
 	1. MusCu (2:0)<br>
 	2. Vadim1707 (7:9)<br>
@@ -105,11 +110,6 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. ss0317 (39:21)<br>
 	8. pablo55 (1:0)<br>
 	10. waffle3z (3:0)<br>
-<br>
-13. #matty (1100) 0<br>
-+82|+63|+48|+28|+11|+8|+3|-3|0<br>
-	3. Reclamation- (0:1)<br>
-	6. ss0317 (9:8)<br>
 <br>
 14. #Disciplina (1090) 0<br>
 +73|+59|+33|+20|+5<br>
@@ -198,8 +198,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 24. #SadGalaxy360 (1047) 0<br>
 +9|+13|+11|+6|+1|+7|-4|0|0|+1<br>
-	1. MusCu (3:13)<br>
-	2. Vadim1707 (4:13)<br>
+	1. MusCu (1:7)<br>
+	2. Vadim1707 (3:7)<br>
 	4. bejut (0:2)<br>
 	5. Kretschy198 (1:5)<br>
 	6. ss0317 (7:17)<br>
@@ -294,18 +294,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. ss0317 (3:4)<br>
 	7. Hoberdo (0:1)<br>
 <br>
-38. #uranus-98 (989) 0<br>
--22|-16|-15|-18|-15|-8|+3|+9|+10|+4<br>
-	1. MusCu (1:9)<br>
-	2. Vadim1707 (3:9)<br>
-	3. Reclamation- (5:37)<br>
-	4. bejut (13:21)<br>
-	6. ss0317 (51:124)<br>
-	7. Hoberdo (0:2)<br>
-	8. pablo55 (1:2)<br>
-	10. waffle3z (3:10)<br>
-<br>
-39. #icomeinpeece (989) 0<br>
+38. #icomeinpeece (989) 0<br>
 +3|+13|+7|+7|-8|-1|-8|0|+1|+7<br>
 	1. MusCu (9:35)<br>
 	2. Vadim1707 (0:6)<br>
@@ -314,16 +303,28 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. pablo55 (4:11)<br>
 	10. waffle3z (0:3)<br>
 <br>
+39. #uranus-98 (989) -1<br>
+-22|-17|-16|-18|-16|-8|+3|+9|+10|+3<br>
+	1. MusCu (1:9)<br>
+	2. Vadim1707 (3:9)<br>
+	3. Reclamation- (5:37)<br>
+	4. bejut (13:21)<br>
+	5. Kretschy198 (0:1)<br>
+	6. ss0317 (51:124)<br>
+	7. Hoberdo (0:2)<br>
+	8. pablo55 (1:2)<br>
+	10. waffle3z (3:10)<br>
+<br>
 40. #Langoulant (987) 0<br>
-+21|+27|+38|+38|+35|+36|+34|+22|+8|-1<br>
++20|+27|+37|+37|+35|+36|+34|+22|+7|-2<br>
 	3. Reclamation- (7:70)<br>
 	6. ss0317 (14:63)<br>
 	7. Hoberdo (0:3)<br>
 	8. pablo55 (1:1)<br>
 	10. waffle3z (0:3)<br>
 <br>
-41. #milkyway (985) 0<br>
--9|-9|-10|-14|-13|-11|-5|-1|+8|+1<br>
+41. #milkyway (984) -1<br>
+-10|-10|-11|-15|-14|-12|-6|-2|+7|0<br>
 	3. Reclamation- (2:30)<br>
 	6. ss0317 (19:63)<br>
 	7. Hoberdo (0:1)<br>
@@ -343,8 +344,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. pablo55 (0:8)<br>
 	10. waffle3z (3:11)<br>
 <br>
-44. #Sondair (962) +2<br>
--18|-6|-2|+3|+11|+20|+12|+4|+7|+1<br>
+44. #Sondair (961) -1<br>
+-20|-7|-3|+2|+10|+19|+11|+3|+6|-1<br>
 	2. Vadim1707 (1:10)<br>
 	3. Reclamation- (1:9)<br>
 	4. bejut (30:126)<br>
@@ -408,8 +409,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. OrBiTeR (0:1)<br>
 	10. waffle3z (3:34)<br>
 <br>
-51. #quickmill (873) -6<br>
--27|-18|-21|-17|-20|-10|-8|-12|-8|-3<br>
+51. #quickmill (873) 0<br>
+-27|-19|-21|-17|-20|-11|-8|-12|-9|-3<br>
 	1. MusCu (0:2)<br>
 	2. Vadim1707 (0:1)<br>
 	3. Reclamation- (0:2)<br>
@@ -418,7 +419,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. waffle3z (0:2)<br>
 <br>
 52. #AlGalcone (821) 0<br>
--64|-48|-40|-38|-34|-24|-14|-3|-10|-11<br>
+-65|-48|-40|-39|-35|-25|-15|-4|-11|-12<br>
 	1. MusCu (0:2)<br>
 	2. Vadim1707 (0:2)<br>
 	3. Reclamation- (4:24)<br>
