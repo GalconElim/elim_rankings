@@ -1,6464 +1,746 @@
-Recent win rates against top 10 over the past 21 days<br>
-<br>
-1. #SparkyPlane (1270) +9<br>
-+49|+24|+25|+45|+33|+29|+14|+17|+13|+4<br>
-	2. james--- (3:2)<br>
-	5. cocoadog (13:13)<br>
-	6. bandy (13:7)<br>
-	7. lelofadel111 (4:5)<br>
-	8. phantomplan (1:3)<br>
-	9. Seradun (0:9)<br>
-	10. croissant (2:3)<br>
-<br>
-2. #james--- (1269) -7<br>
-+130|+107|+91|+67|+46|+43|+28|0|-6|-1<br>
-	1. SparkyPlane (2:3)<br>
-	3. holzabee86 (0:2)<br>
-	4. ValveFury (0:1)<br>
-	5. cocoadog (29:18)<br>
-	6. bandy (34:39)<br>
-	7. lelofadel111 (9:7)<br>
-	8. phantomplan (5:2)<br>
-	9. Seradun (0:3)<br>
-	10. croissant (4:5)<br>
-<br>
-3. #holzabee86 (1255) +12<br>
-+169|+152|+132|+123|+90|+55|+42|+12|-1|+14<br>
-	2. james--- (2:0)<br>
-	5. cocoadog (1:0)<br>
-	7. lelofadel111 (3:2)<br>
-	8. phantomplan (4:4)<br>
-	9. Seradun (3:0)<br>
-	10. croissant (2:3)<br>
-<br>
-4. #ValveFury (1249) -2<br>
-+215|+153|+132|+82|+43|+56|+15|-5<br>
-	2. james--- (1:0)<br>
-	6. bandy (0:1)<br>
-	10. croissant (0:2)<br>
-<br>
-5. #cocoadog (1247) +5<br>
-+24|+31|+30|+24|+16|+26|+44|+34|+27|+7<br>
-	1. SparkyPlane (13:13)<br>
-	2. james--- (18:29)<br>
-	3. holzabee86 (0:1)<br>
-	6. bandy (21:41)<br>
-	7. lelofadel111 (13:9)<br>
-	8. phantomplan (5:1)<br>
-	9. Seradun (2:0)<br>
-	10. croissant (8:5)<br>
-<br>
-6. #bandy (1239) +1<br>
-+31|+42|+22|+11|+8|-6|-1|+7|0|+3<br>
-	1. SparkyPlane (7:13)<br>
-	2. james--- (39:34)<br>
-	4. ValveFury (1:0)<br>
-	5. cocoadog (41:21)<br>
-	7. lelofadel111 (1:10)<br>
-	8. phantomplan (1:1)<br>
-	10. croissant (3:0)<br>
-<br>
-7. #lelofadel111 (1239) +4<br>
-+60|+26|+59|+104|+115|+110|+73|+42|+5|-1<br>
-	1. SparkyPlane (5:4)<br>
-	2. james--- (7:9)<br>
-	3. holzabee86 (2:3)<br>
-	5. cocoadog (9:13)<br>
-	6. bandy (10:1)<br>
-	8. phantomplan (1:10)<br>
-	10. croissant (5:9)<br>
-<br>
-8. #phantomplan (1235) 0<br>
-+164|+153|+134|+115|+82|+65|+55|+40|+31|+14<br>
-	1. SparkyPlane (3:1)<br>
-	2. james--- (2:5)<br>
-	3. holzabee86 (4:4)<br>
-	5. cocoadog (1:5)<br>
-	6. bandy (1:1)<br>
-	7. lelofadel111 (10:1)<br>
-	10. croissant (2:0)<br>
-<br>
-9. #Seradun (1233) +2<br>
-+137|+71|+23<br>
-	1. SparkyPlane (9:0)<br>
-	2. james--- (3:0)<br>
-	3. holzabee86 (0:3)<br>
-	5. cocoadog (0:2)<br>
-	10. croissant (3:4)<br>
-<br>
-10. #croissant (1232) +8<br>
-+209|+176|+153|+116|+98|+63|+37|+20|+17<br>
-	1. SparkyPlane (3:2)<br>
-	2. james--- (5:4)<br>
-	3. holzabee86 (3:2)<br>
-	4. ValveFury (2:0)<br>
-	5. cocoadog (5:8)<br>
-	6. bandy (0:3)<br>
-	7. lelofadel111 (9:5)<br>
-	8. phantomplan (0:2)<br>
-	9. Seradun (4:3)<br>
-<br>
-11. #AnkleBreaker (1229) 0<br>
-+135|+121|+98|+82|+76|+74|+46|+17|+11|+4<br>
-	1. SparkyPlane (2:2)<br>
-	2. james--- (2:2)<br>
-	3. holzabee86 (12:9)<br>
-	4. ValveFury (1:0)<br>
-	5. cocoadog (5:4)<br>
-	6. bandy (4:6)<br>
-	7. lelofadel111 (6:11)<br>
-	9. Seradun (2:3)<br>
-	10. croissant (1:1)<br>
-<br>
-12. #MAKki (1223) +9<br>
-+184|+159|+115|+88|+76|+58|+34|+23|+10<br>
-	2. james--- (2:1)<br>
-	3. holzabee86 (0:4)<br>
-	6. bandy (2:4)<br>
-	7. lelofadel111 (2:0)<br>
-<br>
-13. #Vato96 (1222) -5<br>
-+193|+168|+155|+137|+106|+81|+52|+32|-7<br>
-<br>
-14. #deezpeanutz (1219) +4<br>
-+145|+110|+71|+38|+25|+12|+9|+9|+17|+5<br>
-	2. james--- (3:3)<br>
-	5. cocoadog (1:1)<br>
-	6. bandy (3:8)<br>
-	7. lelofadel111 (2:2)<br>
-	8. phantomplan (2:1)<br>
-	9. Seradun (4:5)<br>
-<br>
-15. #Dallion (1218) 0<br>
-+175|+139|+112|+70|+57|+34|+9<br>
-	1. SparkyPlane (1:3)<br>
-	3. holzabee86 (1:1)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (2:2)<br>
-	8. phantomplan (1:2)<br>
-	10. croissant (2:2)<br>
-<br>
-16. #JOW44 (1216) +5<br>
-+133|+116|+101|+87|+59|+49|+32|+20|+23|+14<br>
-	1. SparkyPlane (9:6)<br>
-	2. james--- (5:2)<br>
-	5. cocoadog (6:5)<br>
-	6. bandy (7:10)<br>
-	7. lelofadel111 (2:8)<br>
-	8. phantomplan (0:1)<br>
-	9. Seradun (1:3)<br>
-<br>
-17. #spookydoor (1212) -1<br>
-+8|-8|+9|+11|+30|+19|+11|+8|0|-7<br>
-	1. SparkyPlane (13:11)<br>
-	2. james--- (2:2)<br>
-	5. cocoadog (7:10)<br>
-	6. bandy (7:8)<br>
-	7. lelofadel111 (7:10)<br>
-	10. croissant (1:0)<br>
-<br>
-18. #ATN (1210) +1<br>
-+152|+127|+97|+80|+70|+66|+51|+37|+18|+2<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (5:3)<br>
-	6. bandy (5:2)<br>
-<br>
-19. #Fluffywolf (1209) 0<br>
-+187|+161|+126|+103|+86|+65|+38|+28|+14|+1<br>
-	1. SparkyPlane (4:1)<br>
-	2. james--- (2:2)<br>
-	6. bandy (0:3)<br>
-	7. lelofadel111 (4:4)<br>
-	10. croissant (1:0)<br>
-<br>
-20. #Miniongalcon (1209) 0<br>
-+168|+116|+95|+70|+60|+28|+46|+36|+25<br>
-	1. SparkyPlane (0:1)<br>
-	3. holzabee86 (0:1)<br>
-	5. cocoadog (2:3)<br>
-	6. bandy (3:1)<br>
-	7. lelofadel111 (5:2)<br>
-	9. Seradun (1:0)<br>
-	10. croissant (2:1)<br>
-<br>
-21. #Buff-Plunts (1205) 0<br>
-+158|+137|+97|+64|+47|+34|+13|+4<br>
-<br>
-22. #ki1laz0 (1205) -5<br>
-+107|+79|+76|+55|+41|+15|+10|+5|+1|-4<br>
-	1. SparkyPlane (3:1)<br>
-	2. james--- (4:4)<br>
-	5. cocoadog (4:5)<br>
-	6. bandy (2:7)<br>
-	7. lelofadel111 (2:6)<br>
-	8. phantomplan (2:1)<br>
-	10. croissant (1:1)<br>
-<br>
-23. #GroovyHam (1205) -1<br>
-+60|+51|+51|+46|+25|+15|+18|+8|+10|+5<br>
-	1. SparkyPlane (6:14)<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (0:4)<br>
-	6. bandy (5:7)<br>
-	7. lelofadel111 (2:1)<br>
-	8. phantomplan (1:0)<br>
-	10. croissant (2:1)<br>
-<br>
-24. #steve333 (1204) 0<br>
-+22|0|+5|+6|-8|-8|-1|+5|+2|0<br>
-	1. SparkyPlane (11:29)<br>
-	2. james--- (4:14)<br>
-	5. cocoadog (1:9)<br>
-	6. bandy (15:8)<br>
-	7. lelofadel111 (8:11)<br>
-	8. phantomplan (4:0)<br>
-	9. Seradun (5:15)<br>
-	10. croissant (2:3)<br>
-<br>
-25. #GO4chips (1204) 0<br>
-+76|+86|+74|+77|+66|+49|+38|+25|+13|+1<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (0:3)<br>
-	5. cocoadog (3:5)<br>
-	6. bandy (1:1)<br>
-	7. lelofadel111 (10:5)<br>
-	8. phantomplan (1:0)<br>
-	10. croissant (3:7)<br>
-<br>
-26. #a_caesar (1203) -1<br>
-+47|+45|+34|+36|+22|+13|+4|+8|+13|+8<br>
-	1. SparkyPlane (12:21)<br>
-	2. james--- (10:10)<br>
-	4. ValveFury (2:0)<br>
-	5. cocoadog (1:3)<br>
-	6. bandy (6:6)<br>
-	7. lelofadel111 (1:1)<br>
-	8. phantomplan (3:1)<br>
-	10. croissant (1:1)<br>
-<br>
-27. #Xogun (1201) 0<br>
-+154|+123|+61|+29|+9<br>
-	1. SparkyPlane (7:4)<br>
-	2. james--- (0:6)<br>
-	4. ValveFury (1:0)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (1:3)<br>
-	8. phantomplan (1:0)<br>
-	10. croissant (1:2)<br>
-<br>
-28. #Foxylocks12 (1199) 0<br>
-+166|+138|+112|+88|+64|+41|+23|+17|+13<br>
-<br>
-29. #Artimal_PL (1198) -7<br>
-+46|+32|+29|+24|+13|+2|-3|-1|-12|-2<br>
-	1. SparkyPlane (2:3)<br>
-	2. james--- (5:13)<br>
-	5. cocoadog (9:24)<br>
-	6. bandy (6:11)<br>
-	7. lelofadel111 (2:10)<br>
-	10. croissant (2:1)<br>
-<br>
-30. #Vergilious (1198) +3<br>
-+16|+28|+31|+23|+26|+16|+13|+9|+15|+9<br>
-	1. SparkyPlane (10:11)<br>
-	2. james--- (12:18)<br>
-	3. holzabee86 (0:5)<br>
-	5. cocoadog (11:17)<br>
-	6. bandy (25:30)<br>
-	7. lelofadel111 (5:18)<br>
-	9. Seradun (3:6)<br>
-	10. croissant (1:4)<br>
-<br>
-31. #PursuitOfPow (1198) +4<br>
-+110|+99|+94|+92|+95|+81|+51|+38|+19|-3<br>
-	1. SparkyPlane (5:8)<br>
-	2. james--- (18:19)<br>
-	3. holzabee86 (1:0)<br>
-	5. cocoadog (17:18)<br>
-	6. bandy (40:40)<br>
-	7. lelofadel111 (17:17)<br>
-	8. phantomplan (2:1)<br>
-	9. Seradun (1:2)<br>
-	10. croissant (0:2)<br>
-<br>
-32. #theAceofGame (1198) -1<br>
-+128|+123|+95|+75|+51|+32|+20|+19|-1|+2<br>
-	2. james--- (5:2)<br>
-	3. holzabee86 (0:2)<br>
-	5. cocoadog (5:0)<br>
-	7. lelofadel111 (5:5)<br>
-	8. phantomplan (3:2)<br>
-	10. croissant (3:6)<br>
-<br>
-33. #mathknight (1194) 0<br>
-+122|+59|+24<br>
-	1. SparkyPlane (0:1)<br>
-	3. holzabee86 (1:3)<br>
-	5. cocoadog (4:1)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (2:3)<br>
-	8. phantomplan (0:1)<br>
-	10. croissant (1:1)<br>
-<br>
-34. #NaCly (1190) 0<br>
-+169|+132|+116|+97|+84|+82|+58|+55|+24|+8<br>
-	1. SparkyPlane (17:16)<br>
-	2. james--- (3:5)<br>
-	5. cocoadog (2:1)<br>
-	9. Seradun (1:1)<br>
-	10. croissant (1:1)<br>
-<br>
-35. #fatbucket (1187) -2<br>
-+45|+47|+28|+30|+18|+13|0|+5|0|+8<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (4:4)<br>
-	5. cocoadog (2:3)<br>
-	6. bandy (2:6)<br>
-	7. lelofadel111 (3:3)<br>
-	8. phantomplan (2:1)<br>
-	9. Seradun (1:1)<br>
-<br>
-36. #SOfa_kingDOM (1186) 0<br>
-+151|+145|+135|+115|+91|+86|+77|+27<br>
-	1. SparkyPlane (1:0)<br>
-	2. james--- (2:0)<br>
-	6. bandy (7:3)<br>
-	7. lelofadel111 (2:1)<br>
-	9. Seradun (2:2)<br>
-<br>
-37. #MagnusWH40K (1185) +6<br>
-+146|+112|+91|+62|+53|+34|+25|+15|+13|+8<br>
-	1. SparkyPlane (3:12)<br>
-	2. james--- (4:9)<br>
-	5. cocoadog (1:1)<br>
-	6. bandy (3:7)<br>
-	7. lelofadel111 (0:1)<br>
-	10. croissant (1:0)<br>
-<br>
-38. #monguesto (1185) -9<br>
-+116|+97|+76|+37|+30|+30|+27|+7|-7|-3<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (6:7)<br>
-	5. cocoadog (5:6)<br>
-	6. bandy (3:4)<br>
-	7. lelofadel111 (3:2)<br>
-	8. phantomplan (1:1)<br>
-	9. Seradun (0:1)<br>
-	10. croissant (1:1)<br>
-<br>
-39. #BenjiKozoR (1178) +3<br>
-+142|+116|+101|+88|+72|+63|+62|+55|+31|+16<br>
-	2. james--- (2:1)<br>
-	5. cocoadog (8:18)<br>
-	6. bandy (5:1)<br>
-	7. lelofadel111 (3:7)<br>
-	8. phantomplan (1:0)<br>
-	9. Seradun (0:1)<br>
-<br>
-40. #largeowl (1175) +4<br>
-+115|+81|+69|+51|+49|+35|+30|+38|+27|+5<br>
-	4. ValveFury (1:0)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-41. #JCC (1175) 0<br>
-+129|+102|+82|+74|+45|+22|+10<br>
-	1. SparkyPlane (6:7)<br>
-	5. cocoadog (0:2)<br>
-	6. bandy (2:2)<br>
-	7. lelofadel111 (2:1)<br>
-	8. phantomplan (1:0)<br>
-<br>
-42. #RaggedZebra (1175) +7<br>
-+43|+18|+24|+17|+14|+11|+15|+20|+10|+17<br>
-	1. SparkyPlane (0:2)<br>
-	2. james--- (5:13)<br>
-	3. holzabee86 (1:0)<br>
-	4. ValveFury (1:1)<br>
-	5. cocoadog (3:14)<br>
-	6. bandy (15:14)<br>
-	7. lelofadel111 (6:4)<br>
-	8. phantomplan (1:2)<br>
-	9. Seradun (0:3)<br>
-	10. croissant (1:1)<br>
-<br>
-43. #PaMMiii (1174) +8<br>
-+153|+132|+123|+98|+98|+81|+50|+36|+19<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (7:6)<br>
-	3. holzabee86 (2:1)<br>
-	4. ValveFury (1:0)<br>
-	5. cocoadog (0:2)<br>
-	6. bandy (3:3)<br>
-	7. lelofadel111 (1:3)<br>
-	10. croissant (1:1)<br>
-<br>
-44. #mae_1 (1173) -1<br>
-+8|+4|+11|+25|+29|+33|+20|-22|-25|-2<br>
-	1. SparkyPlane (2:7)<br>
-	2. james--- (2:2)<br>
-	3. holzabee86 (10:9)<br>
-	5. cocoadog (45:11)<br>
-	6. bandy (1:2)<br>
-	7. lelofadel111 (5:6)<br>
-	8. phantomplan (4:8)<br>
-	9. Seradun (1:4)<br>
-	10. croissant (1:2)<br>
-<br>
-45. #bigdave82 (1169) 0<br>
-+126|+103|+75|+47|+40|+30|+5<br>
-	1. SparkyPlane (3:1)<br>
-	2. james--- (1:4)<br>
-	5. cocoadog (2:1)<br>
-	6. bandy (3:2)<br>
-	9. Seradun (1:2)<br>
-<br>
-46. #mander (1168) +6<br>
-+81|+59|+41|+36|+25|+24|+21|+3|0|+2<br>
-	1. SparkyPlane (4:15)<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (9:12)<br>
-	6. bandy (1:2)<br>
-	7. lelofadel111 (4:18)<br>
-	8. phantomplan (2:7)<br>
-	10. croissant (2:5)<br>
-<br>
-47. #PEPrasetya (1168) 0<br>
-+129|+104|+94|+77|+46|+36|+17|+7|-12<br>
-	2. james--- (3:4)<br>
-	5. cocoadog (1:0)<br>
-	6. bandy (1:1)<br>
-	8. phantomplan (3:0)<br>
-	10. croissant (1:0)<br>
-<br>
-48. #posteriora (1166) +1<br>
-+88|+79|+54|+35|+26|+5|+1|-5|+1|+1<br>
-	1. SparkyPlane (10:29)<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (1:2)<br>
-	6. bandy (4:5)<br>
-	7. lelofadel111 (5:9)<br>
-	8. phantomplan (1:0)<br>
-	9. Seradun (3:6)<br>
-	10. croissant (1:2)<br>
-<br>
-49. #malarkey (1163) -1<br>
-+124|+95|+74|+48|+18|+15<br>
-	3. holzabee86 (3:2)<br>
-	7. lelofadel111 (2:2)<br>
-<br>
-50. #wibbs (1157) 0<br>
-+136|+104|+85|+74|+48|+38|+18|+15<br>
-	2. james--- (1:0)<br>
-	5. cocoadog (3:3)<br>
-	6. bandy (3:2)<br>
-<br>
-51. #WarmShoe~212 (1157) +3<br>
-+107|+66|+33|+5<br>
-	1. SparkyPlane (3:2)<br>
-	2. james--- (1:1)<br>
-	4. ValveFury (1:0)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (1:4)<br>
-	10. croissant (1:0)<br>
-<br>
-52. #DeimosX (1157) 0<br>
-+83|+81|+56|+42|+22|+22|+14|+21|+13|+9<br>
-	1. SparkyPlane (2:6)<br>
-	2. james--- (10:12)<br>
-	5. cocoadog (3:13)<br>
-	6. bandy (7:4)<br>
-	7. lelofadel111 (1:1)<br>
-	10. croissant (5:3)<br>
-<br>
-53. #BrownPaint~258 (1156) 0<br>
-+94|+64|+38|+31<br>
-<br>
-54. #Disguise (1154) -2<br>
-+125|+111|+93|+71|+46|+17|+1<br>
-	2. james--- (3:1)<br>
-	3. holzabee86 (0:1)<br>
-	7. lelofadel111 (23:14)<br>
-	10. croissant (0:4)<br>
-<br>
-55. #gmclarty (1152) 0<br>
-+115|+115|+104|+89|+70|+64|+43|+36|+10|0<br>
-	1. SparkyPlane (2:2)<br>
-	2. james--- (4:4)<br>
-	5. cocoadog (1:4)<br>
-	6. bandy (4:3)<br>
-	7. lelofadel111 (2:7)<br>
-	9. Seradun (2:0)<br>
-<br>
-56. #jacks0nh0le (1152) 0<br>
-+118|+82|+60|+16<br>
-	2. james--- (1:1)<br>
-	3. holzabee86 (0:2)<br>
-<br>
-57. #playin4keeps (1151) 0<br>
-+122|+116|+112|+79|+70|+58|+24|+1<br>
-	3. holzabee86 (1:0)<br>
-	5. cocoadog (1:0)<br>
-	10. croissant (1:1)<br>
-<br>
-58. #stevenator10 (1150) +13<br>
-+112|+91|+70|+56|+40|+20|+14<br>
-	1. SparkyPlane (1:8)<br>
-	2. james--- (3:5)<br>
-	3. holzabee86 (1:1)<br>
-	5. cocoadog (2:1)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (6:2)<br>
-	8. phantomplan (0:3)<br>
-	9. Seradun (1:1)<br>
-	10. croissant (5:13)<br>
-<br>
-59. #Axitaxi (1150) 0<br>
-+102|+91|+73|+52|+42|+38|+35|+29|+19|+8<br>
-	1. SparkyPlane (9:8)<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (7:7)<br>
-	6. bandy (5:6)<br>
-	7. lelofadel111 (5:18)<br>
-<br>
-60. #arviiid (1149) +5<br>
-+131|+112|+77|+70|+61|+44|+34|+20|+16|+7<br>
-	1. SparkyPlane (11:11)<br>
-	2. james--- (1:0)<br>
-	5. cocoadog (3:5)<br>
-	6. bandy (2:13)<br>
-	7. lelofadel111 (3:4)<br>
-	8. phantomplan (1:6)<br>
-	10. croissant (3:2)<br>
-<br>
-61. #blankedout (1148) 0<br>
-+109|+91|+59|+29|+7<br>
-<br>
-62. #Matthew0898 (1147) +2<br>
-+45|+18|+33|+36|+29|+33|+33|+15|+1|-4<br>
-	2. james--- (4:10)<br>
-	3. holzabee86 (44:96)<br>
-	4. ValveFury (1:5)<br>
-	5. cocoadog (1:0)<br>
-	6. bandy (3:2)<br>
-	7. lelofadel111 (3:3)<br>
-	8. phantomplan (1:8)<br>
-	9. Seradun (1:3)<br>
-	10. croissant (5:22)<br>
-<br>
-63. #shaidar (1145) 0<br>
-+125|+111|+86|+50|+34|+17|+3<br>
-	1. SparkyPlane (5:0)<br>
-	2. james--- (1:1)<br>
-	3. holzabee86 (3:0)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (1:1)<br>
-	7. lelofadel111 (0:2)<br>
-	8. phantomplan (6:6)<br>
-<br>
-64. #Joergfu (1144) 0<br>
-+111|+95|+71|+52|+26|+7<br>
-	1. SparkyPlane (0:1)<br>
-	5. cocoadog (0:1)<br>
-	7. lelofadel111 (1:5)<br>
-<br>
-65. #SadVest~463 (1143) 0<br>
-+114|+96|+73|+70|+54|+40|+36|+9|+3|0<br>
-	2. james--- (8:12)<br>
-	5. cocoadog (5:8)<br>
-	6. bandy (6:17)<br>
-	7. lelofadel111 (4:7)<br>
-<br>
-66. #AppleDragon (1143) 0<br>
-+121|+89|+53|+3<br>
-	2. james--- (1:1)<br>
-	7. lelofadel111 (0:1)<br>
-	10. croissant (3:4)<br>
-<br>
-67. #BillyDanger (1142) 0<br>
-+106|+93|+66|+56|+25<br>
-	1. SparkyPlane (2:1)<br>
-	2. james--- (6:10)<br>
-	3. holzabee86 (1:2)<br>
-	5. cocoadog (3:4)<br>
-	6. bandy (1:1)<br>
-	7. lelofadel111 (1:0)<br>
-	8. phantomplan (3:2)<br>
-	9. Seradun (0:1)<br>
-<br>
-68. #7paths (1142) 0<br>
-+119|+110|+91|+68|+58|+44|+40|+16|+17<br>
-	1. SparkyPlane (1:0)<br>
-	2. james--- (1:0)<br>
-	6. bandy (0:5)<br>
-<br>
-69. #resistfate88 (1141) +3<br>
-+86|+75|+67|+55|+47|+47|+40|+26|+20|+3<br>
-	2. james--- (3:7)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (4:10)<br>
-<br>
-70. #TedTheoLogan (1140) -6<br>
-+131|+99|+66|+54|+48|+38|+30|+2|-3<br>
-	1. SparkyPlane (2:0)<br>
-	2. james--- (3:9)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (6:3)<br>
-	7. lelofadel111 (1:0)<br>
-	8. phantomplan (3:2)<br>
-<br>
-71. #Aicha2103 (1140) 0<br>
-+79|+39<br>
-	3. holzabee86 (5:9)<br>
-<br>
-72. #sacore (1136) -2<br>
-+65|+67|+68|+53|+46|+39|+31|+3|-1|-4<br>
-	1. SparkyPlane (3:4)<br>
-	2. james--- (2:6)<br>
-	5. cocoadog (2:0)<br>
-	6. bandy (1:8)<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-73. #WindyMit~547 (1136) 0<br>
-+113|+95|+79|+71|+57|+34|+23|+16|+11|+6<br>
-	8. phantomplan (2:2)<br>
-<br>
-74. #Sharifbang94 (1136) +12<br>
-+125|+119|+114|+114|+113|+110|+74|+60|+43|+23<br>
-	2. james--- (2:1)<br>
-	3. holzabee86 (5:4)<br>
-	6. bandy (2:1)<br>
-	7. lelofadel111 (2:7)<br>
-	8. phantomplan (0:3)<br>
-	10. croissant (3:3)<br>
-<br>
-75. #EternalFlame (1135) +1<br>
-+59|+41|+28|-1|+2|-4|-12|-3|0|+8<br>
-	1. SparkyPlane (5:7)<br>
-	2. james--- (0:1)<br>
-	3. holzabee86 (0:1)<br>
-	5. cocoadog (4:3)<br>
-	6. bandy (4:3)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (1:2)<br>
-	10. croissant (0:1)<br>
-<br>
-76. #darth_jesse (1135) +9<br>
-+128|+104|+93|+88|+67|+55|+52|+32|+6<br>
-	1. SparkyPlane (0:1)<br>
-	5. cocoadog (6:3)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (0:1)<br>
-	9. Seradun (1:1)<br>
-	10. croissant (4:2)<br>
-<br>
-77. #VNS700 (1134) -8<br>
-+71|+70|+54|+39|+39|+30|+21|+18|-5|-7<br>
-	2. james--- (0:1)<br>
-	3. holzabee86 (1:2)<br>
-	5. cocoadog (4:3)<br>
-	7. lelofadel111 (4:5)<br>
-	8. phantomplan (1:3)<br>
-	10. croissant (0:2)<br>
-<br>
-78. #TPSproducer (1133) 0<br>
-+102|+78|+58|+48|+28|+4|+3<br>
-	1. SparkyPlane (7:12)<br>
-	2. james--- (1:8)<br>
-	3. holzabee86 (1:2)<br>
-	5. cocoadog (6:8)<br>
-	6. bandy (3:1)<br>
-	7. lelofadel111 (3:4)<br>
-	10. croissant (4:5)<br>
-<br>
-79. #mygalaxy (1133) -1<br>
-+115|+83|+47|+27|+11<br>
-	1. SparkyPlane (1:2)<br>
-	2. james--- (1:2)<br>
-	3. holzabee86 (1:3)<br>
-	5. cocoadog (0:2)<br>
-	6. bandy (5:2)<br>
-	7. lelofadel111 (2:0)<br>
-	8. phantomplan (1:2)<br>
-	10. croissant (0:2)<br>
-<br>
-80. #GaudyWeasel (1133) 0<br>
-+108|+92|+53|+34|-3<br>
-	1. SparkyPlane (0:3)<br>
-	5. cocoadog (2:9)<br>
-<br>
-81. #hyoshy (1132) -2<br>
-+124|+95|+70|+40|+26|0<br>
-	1. SparkyPlane (3:6)<br>
-	2. james--- (1:1)<br>
-	5. cocoadog (9:8)<br>
-	6. bandy (6:3)<br>
-	7. lelofadel111 (2:0)<br>
-	8. phantomplan (1:4)<br>
-	10. croissant (0:1)<br>
-<br>
-82. #TimDebJon (1131) +7<br>
-+125|+119|+115|+92|+70|+64|+45|+29|+34|+7<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (0:1)<br>
-	3. holzabee86 (4:1)<br>
-	4. ValveFury (1:2)<br>
-	5. cocoadog (1:1)<br>
-	6. bandy (1:0)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (0:2)<br>
-	10. croissant (1:4)<br>
-<br>
-83. #LJpain (1130) 0<br>
-+101|+52|+14|+10<br>
-	1. SparkyPlane (1:0)<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (1:6)<br>
-	6. bandy (1:2)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-84. #chicken- (1130) 0<br>
-+119|+110|+81|+51|+28|+16|+2|-6<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (1:0)<br>
-	10. croissant (0:2)<br>
-<br>
-85. #M-711 (1130) 0<br>
-+111|+98|+96|+77|+55|+54|+16|+5<br>
-	7. lelofadel111 (1:3)<br>
-<br>
-86. #ajoiner123 (1129) +2<br>
-+83|+77|+47|+35|+39|0<br>
-	2. james--- (0:2)<br>
-	3. holzabee86 (0:4)<br>
-	7. lelofadel111 (19:0)<br>
-	10. croissant (0:3)<br>
-<br>
-87. #SpookyIslan~329 (1129) +2<br>
-+92|+74|+24<br>
-	1. SparkyPlane (1:1)<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (3:1)<br>
-	6. bandy (1:1)<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-88. #uranus-98 (1129) +1<br>
-+122|+117|+114|+87|+76|+75|+61|+29|+3<br>
-	2. james--- (0:4)<br>
-	3. holzabee86 (0:3)<br>
-<br>
-89. #COBRA123 (1128) +2<br>
-0|-21|-11|+1|-28|-13|-19|-12|-2|+2<br>
-	1. SparkyPlane (9:9)<br>
-	2. james--- (10:26)<br>
-	3. holzabee86 (0:1)<br>
-	5. cocoadog (15:34)<br>
-	6. bandy (3:12)<br>
-	7. lelofadel111 (116:132)<br>
-	8. phantomplan (0:9)<br>
-	9. Seradun (1:3)<br>
-	10. croissant (3:10)<br>
-<br>
-90. #Neehor (1128) 0<br>
-+121|+48|+57|+49|+40|+47|+52|+49|0<br>
-	1. SparkyPlane (2:7)<br>
-	5. cocoadog (0:4)<br>
-	6. bandy (3:6)<br>
-	7. lelofadel111 (1:0)<br>
-	8. phantomplan (2:3)<br>
-	10. croissant (0:1)<br>
-<br>
-91. #paperboy55 (1127) +11<br>
-+109|+96|+63|+30|+12<br>
-	1. SparkyPlane (0:2)<br>
-	5. cocoadog (3:1)<br>
-	6. bandy (2:5)<br>
-	9. Seradun (0:2)<br>
-	10. croissant (0:1)<br>
-<br>
-92. #ghostnixon (1127) +8<br>
-+121|+99|+64|+52|+32|+16|+11<br>
-	1. SparkyPlane (1:2)<br>
-	5. cocoadog (2:3)<br>
-	6. bandy (2:2)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (1:0)<br>
-	10. croissant (0:2)<br>
-<br>
-93. #JDHA218 (1127) +1<br>
-+105|+48|+13<br>
-	2. james--- (3:3)<br>
-	6. bandy (4:4)<br>
-	8. phantomplan (1:0)<br>
-<br>
-94. #flippant55 (1127) 0<br>
-+4|-15|-22|-14|-16|-10|-8|-9|-5|-6<br>
-	1. SparkyPlane (3:8)<br>
-	2. james--- (5:9)<br>
-	5. cocoadog (3:5)<br>
-	6. bandy (6:32)<br>
-	7. lelofadel111 (10:7)<br>
-	10. croissant (3:4)<br>
-<br>
-95. #stcziiii (1126) +1<br>
-+82|+44|+17<br>
-	7. lelofadel111 (0:2)<br>
-	8. phantomplan (1:1)<br>
-<br>
-96. #ChiefBlkHawk (1126) 0<br>
-+82|+59|+29|+9<br>
-<br>
-97. #Nimsta (1125) 0<br>
-+114|+100|+91|+78|+35|+16|+2<br>
-	3. holzabee86 (3:5)<br>
-<br>
-98. #GERALAN (1124) 0<br>
-+91|+63|+47|+32|+11<br>
-	1. SparkyPlane (1:0)<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (1:0)<br>
-	6. bandy (1:0)<br>
-	7. lelofadel111 (3:3)<br>
-<br>
-99. #Dragonscife (1123) 0<br>
-+96|+57|+28|+4<br>
-	1. SparkyPlane (1:1)<br>
-	2. james--- (1:0)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (0:1)<br>
-	10. croissant (0:1)<br>
-<br>
-100. #MaltonnA (1122) +3<br>
-+100|+73|+71|+67|+60|+49|+25|+10|+6<br>
-	3. holzabee86 (5:5)<br>
-	5. cocoadog (0:2)<br>
-	6. bandy (1:1)<br>
-	7. lelofadel111 (3:3)<br>
-	9. Seradun (0:2)<br>
-<br>
-101. #coaltrain (1122) +3<br>
-+102|+87|+83|+52|+42|+32|+11|+13|+15|+15<br>
-	2. james--- (1:0)<br>
-	7. lelofadel111 (2:1)<br>
-<br>
-102. #HollowHoppe~374 (1121) 0<br>
-+60|+43|+36|+27|+19|+23|+7|+6|+5|-1<br>
-	2. james--- (1:1)<br>
-	3. holzabee86 (1:8)<br>
-	4. ValveFury (0:3)<br>
-	5. cocoadog (3:0)<br>
-	7. lelofadel111 (19:69)<br>
-	8. phantomplan (0:1)<br>
-	9. Seradun (1:5)<br>
-	10. croissant (0:6)<br>
-<br>
-103. #KvL (1121) 0<br>
-+88|+40|+15|+13|-2<br>
-	9. Seradun (0:2)<br>
-<br>
-104. #FLOrihupf (1121) +6<br>
-+48|+28|+27|+35|+29|+18|+16|+16|+12|-1<br>
-	1. SparkyPlane (1:4)<br>
-	2. james--- (3:3)<br>
-	5. cocoadog (1:0)<br>
-	6. bandy (1:4)<br>
-	9. Seradun (0:2)<br>
-	10. croissant (1:2)<br>
-<br>
-105. #lowki (1120) +2<br>
-+84|+50|+13|+4<br>
-	1. SparkyPlane (1:2)<br>
-	2. james--- (4:6)<br>
-	3. holzabee86 (5:3)<br>
-	5. cocoadog (0:3)<br>
-	6. bandy (4:7)<br>
-	8. phantomplan (1:1)<br>
-	9. Seradun (0:2)<br>
-	10. croissant (0:4)<br>
-<br>
-106. #CrazyVest~284 (1120) 0<br>
-+91|+73|+56|+36|+6|+5<br>
-	2. james--- (1:0)<br>
-<br>
-107. #batman7000 (1119) 0<br>
-+113|+93|+79|+67|+58|+31|+25|+12|+9|-5<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (1:1)<br>
-	7. lelofadel111 (3:3)<br>
-	8. phantomplan (2:3)<br>
-	9. Seradun (1:0)<br>
-	10. croissant (3:5)<br>
-<br>
-108. #CheapBeef~122 (1119) +5<br>
-+108|+106|+103|+102|+87|+50|+36|+28|+28|+12<br>
-	1. SparkyPlane (3:5)<br>
-	2. james--- (3:4)<br>
-	5. cocoadog (5:11)<br>
-	6. bandy (0:2)<br>
-	7. lelofadel111 (4:28)<br>
-	10. croissant (0:1)<br>
-<br>
-109. #gusben96 (1118) 0<br>
-+111|+92|+82|+62|+39|+18<br>
-	1. SparkyPlane (0:3)<br>
-	5. cocoadog (1:2)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-110. #xomarhs (1116) +2<br>
-+110|+109|+85|+62|+50|+52|+28|+7|+9<br>
-	1. SparkyPlane (0:3)<br>
-	2. james--- (1:0)<br>
-	6. bandy (1:3)<br>
-	7. lelofadel111 (0:3)<br>
-	10. croissant (0:1)<br>
-<br>
-111. #pickynew (1115) +1<br>
-+80|+50|+7<br>
-	2. james--- (1:1)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-112. #TaoisticVoid (1115) 0<br>
-+91|+72|+61|+28|+8<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (6:2)<br>
-	3. holzabee86 (6:3)<br>
-	6. bandy (1:4)<br>
-	7. lelofadel111 (1:1)<br>
-	8. phantomplan (0:1)<br>
-<br>
-113. #Snech (1115) +20<br>
-+106|+103|+89|+73|+66|+63|+53|+11<br>
-	1. SparkyPlane (2:0)<br>
-	2. james--- (2:2)<br>
-	3. holzabee86 (1:0)<br>
-	5. cocoadog (2:0)<br>
-	7. lelofadel111 (5:1)<br>
-<br>
-114. #Symsymmy (1114) 0<br>
-+111|+99|+78|+63|+40|+20|+3<br>
-	2. james--- (2:1)<br>
-	3. holzabee86 (9:0)<br>
-	4. ValveFury (2:3)<br>
-	5. cocoadog (0:1)<br>
-	7. lelofadel111 (9:10)<br>
-	8. phantomplan (1:2)<br>
-	9. Seradun (1:0)<br>
-	10. croissant (3:3)<br>
-<br>
-115. #mafl (1114) +1<br>
-+97|+59|+51|+25<br>
-	3. holzabee86 (0:1)<br>
-<br>
-116. #AngryRobin~972 (1112) +6<br>
-+97|+92|+74|+59|+37|+2<br>
-	1. SparkyPlane (10:18)<br>
-	5. cocoadog (4:4)<br>
-	6. bandy (5:5)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (2:1)<br>
-	10. croissant (0:1)<br>
-<br>
-117. #Almarcha (1112) 0<br>
-+103|+86|+70|+52|+42|+7<br>
-<br>
-118. #HairyBeetle~278 (1112) 0<br>
-+80|+50|+45|+17|+5|-1<br>
-	1. SparkyPlane (2:3)<br>
-	4. ValveFury (0:1)<br>
-	5. cocoadog (1:0)<br>
-	6. bandy (0:1)<br>
-<br>
-119. #kittengod22 (1111) 0<br>
-+74|+44|+4<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (1:3)<br>
-	7. lelofadel111 (1:1)<br>
-	10. croissant (2:0)<br>
-<br>
-120. #Willjax (1111) 0<br>
-+111|+111|+106|+83|+51|+37|+22<br>
-	1. SparkyPlane (0:2)<br>
-	5. cocoadog (2:4)<br>
-	6. bandy (3:3)<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-121. #evilCherry2 (1111) -4<br>
-+26|+23|+25|+28|+27|+22|+16|+11|+2|-5<br>
-	1. SparkyPlane (3:1)<br>
-	2. james--- (5:12)<br>
-	5. cocoadog (8:24)<br>
-	6. bandy (6:12)<br>
-	7. lelofadel111 (4:28)<br>
-	9. Seradun (2:1)<br>
-<br>
-122. #Jamesking135 (1111) 0<br>
-+102|+77|+48|+26|+17|+16|+11<br>
-	1. SparkyPlane (0:2)<br>
-	4. ValveFury (1:1)<br>
-	5. cocoadog (0:2)<br>
-	6. bandy (0:1)<br>
-<br>
-123. #zamrai (1110) 0<br>
-+71|+40<br>
-<br>
-124. #brohomie (1109) +18<br>
-+100|+81|+65|+64|+39|+38|+20|-4<br>
-	4. ValveFury (3:1)<br>
-	8. phantomplan (0:1)<br>
-<br>
-125. #BigPoppaNuts (1109) +4<br>
-+88|+84|+45|+39|+23<br>
-	1. SparkyPlane (1:0)<br>
-	6. bandy (2:1)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (0:2)<br>
-<br>
-126. #iawai (1108) +12<br>
-+93|+84|+60|+57|+37|+10|-1<br>
-	1. SparkyPlane (0:3)<br>
-	2. james--- (1:6)<br>
-	3. holzabee86 (3:1)<br>
-	5. cocoadog (1:1)<br>
-	7. lelofadel111 (1:5)<br>
-	8. phantomplan (0:2)<br>
-	9. Seradun (0:3)<br>
-<br>
-127. #bittertater (1107) 0<br>
-+80|+56|+25|+13<br>
-	5. cocoadog (2:0)<br>
-	6. bandy (6:6)<br>
-<br>
-128. #im_GORY (1107) 0<br>
-+92|+62|+40|+17|+7<br>
-	7. lelofadel111 (3:2)<br>
-	8. phantomplan (1:1)<br>
-	10. croissant (3:3)<br>
-<br>
-129. #ScaryJam-406 (1106) 0<br>
-+74|+51|+37|+15|0<br>
-	1. SparkyPlane (2:5)<br>
-	2. james--- (0:2)<br>
-	7. lelofadel111 (0:5)<br>
-	8. phantomplan (2:0)<br>
-	10. croissant (1:0)<br>
-<br>
-130. #xaelia (1106) -1<br>
-+74|+67|+66|+43|+34|+32|+33|+26|+14|+7<br>
-	2. james--- (0:3)<br>
-	3. holzabee86 (3:26)<br>
-	5. cocoadog (4:1)<br>
-	7. lelofadel111 (10:21)<br>
-	8. phantomplan (2:2)<br>
-	9. Seradun (1:2)<br>
-	10. croissant (3:3)<br>
-<br>
-131. #beeman80 (1105) 0<br>
-+93|+88|+86|+77|+31|+14<br>
-	2. james--- (2:2)<br>
-	5. cocoadog (1:0)<br>
-	6. bandy (3:4)<br>
-<br>
-132. #NuttyJeans (1104) 0<br>
-+59|+25|+5|+3<br>
-	1. SparkyPlane (1:4)<br>
-	2. james--- (3:5)<br>
-	6. bandy (2:9)<br>
-	7. lelofadel111 (5:1)<br>
-	8. phantomplan (1:0)<br>
-<br>
-133. #creaky2 (1103) +22<br>
-+87|+81|+56|+30|+1<br>
-	1. SparkyPlane (0:4)<br>
-	2. james--- (1:0)<br>
-	3. holzabee86 (2:6)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (3:2)<br>
-	7. lelofadel111 (2:0)<br>
-	10. croissant (2:1)<br>
-<br>
-134. #Bi-Polar (1103) 0<br>
-+93|+63|+58|+27|+6<br>
-	1. SparkyPlane (1:0)<br>
-	2. james--- (2:2)<br>
-	3. holzabee86 (0:1)<br>
-	5. cocoadog (7:5)<br>
-	7. lelofadel111 (4:5)<br>
-<br>
-135. #ritzyTurnip (1103) +1<br>
-+84|+81|+54|+20|+4<br>
-	1. SparkyPlane (1:2)<br>
-	2. james--- (4:4)<br>
-	5. cocoadog (1:0)<br>
-	6. bandy (7:12)<br>
-	8. phantomplan (1:0)<br>
-	9. Seradun (1:1)<br>
-<br>
-136. #germanat (1103) +1<br>
-+90|+78|+64|+51|+22|+2<br>
-	1. SparkyPlane (1:1)<br>
-	2. james--- (1:1)<br>
-	7. lelofadel111 (2:4)<br>
-	8. phantomplan (2:0)<br>
-<br>
-137. #FinalFantasy (1103) +2<br>
-+72|+72|+58|+32|+14<br>
-	3. holzabee86 (0:2)<br>
-	6. bandy (2:1)<br>
-	9. Seradun (1:0)<br>
-	10. croissant (2:2)<br>
-<br>
-138. #zunar (1103) -12<br>
-+8|+2|+2|+8|-2|0|-10|-20|-4|-2<br>
-	1. SparkyPlane (11:19)<br>
-	2. james--- (3:44)<br>
-	5. cocoadog (7:24)<br>
-	6. bandy (8:24)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (1:4)<br>
-	9. Seradun (0:2)<br>
-	10. croissant (1:3)<br>
-<br>
-139. #timogen (1102) 0<br>
-+101|+82|+70|+55|+43|+26|+19|+15|+1<br>
-	7. lelofadel111 (1:2)<br>
-<br>
-140. #P.Bear (1101) 0<br>
-+92|+78|+55|+29|+1|+4<br>
-	1. SparkyPlane (3:3)<br>
-	2. james--- (0:1)<br>
-	6. bandy (1:1)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-141. #HAIRYTOOTH (1101) -1<br>
-+94|+70|+35|+14|+1<br>
-	10. croissant (0:1)<br>
-<br>
-142. #pandaface90 (1100) +1<br>
-+67|+55|+50|+46|+38|+33|+26|+24|+10|-5<br>
-	1. SparkyPlane (1:1)<br>
-	2. james--- (2:6)<br>
-	5. cocoadog (3:9)<br>
-	6. bandy (1:4)<br>
-<br>
-143. #Swim. (1099) +1<br>
-+76|+58|+42|+9<br>
-	3. holzabee86 (1:0)<br>
-	5. cocoadog (1:0)<br>
-	7. lelofadel111 (3:2)<br>
-	8. phantomplan (0:5)<br>
-	9. Seradun (0:1)<br>
-	10. croissant (1:0)<br>
-<br>
-144. #Tyleta (1098) 0<br>
-+31<br>
-<br>
-145. #Gyrfa1con (1098) 0<br>
-+50|+2<br>
-<br>
-146. #bmvj (1097) +7<br>
-+80|+80|+58|+49|+54|+23|+22|+26|+4|+18<br>
-	2. james--- (1:0)<br>
-	5. cocoadog (0:2)<br>
-	6. bandy (1:2)<br>
-	7. lelofadel111 (1:3)<br>
-	9. Seradun (4:21)<br>
-<br>
-147. #saggyCRAYon (1097) 0<br>
-+97|+57|+40|+26|+14|+3<br>
-	1. SparkyPlane (2:0)<br>
-	3. holzabee86 (1:1)<br>
-	5. cocoadog (1:0)<br>
-	6. bandy (0:1)<br>
-	8. phantomplan (2:3)<br>
-	10. croissant (1:1)<br>
-<br>
-148. #bandits22 (1094) +6<br>
-+69|+55|+50|+32|+27|+8|+5<br>
-	1. SparkyPlane (1:1)<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (3:5)<br>
-	6. bandy (2:4)<br>
-	7. lelofadel111 (1:2)<br>
-	8. phantomplan (2:0)<br>
-	9. Seradun (1:3)<br>
-	10. croissant (0:3)<br>
-<br>
-149. #Tylermbcs16 (1094) 0<br>
-+75|+38|+25|+3<br>
-	2. james--- (1:0)<br>
-<br>
-150. #FluffyBunny4 (1094) 0<br>
-+107|+110|+95|+15|+3<br>
-	2. james--- (2:12)<br>
-	3. holzabee86 (1:1)<br>
-	5. cocoadog (0:8)<br>
-	6. bandy (1:1)<br>
-	7. lelofadel111 (53:18)<br>
-	8. phantomplan (0:1)<br>
-	9. Seradun (3:9)<br>
-	10. croissant (1:2)<br>
-<br>
-151. #His-Majesty (1094) 0<br>
-+78|+39|+26|+16|+10<br>
-	10. croissant (0:1)<br>
-<br>
-152. #seanbolton (1094) 0<br>
-+79|+80|+83|+75|+68|+44|+15|+13|+4|+6<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (2:3)<br>
-	6. bandy (2:0)<br>
-	7. lelofadel111 (0:4)<br>
-	8. phantomplan (4:3)<br>
-	10. croissant (2:4)<br>
-<br>
-153. #LoudSoup~240 (1092) 0<br>
-+84|+71|+54|+22|+20|+12|+5|-2<br>
-	1. SparkyPlane (1:2)<br>
-	5. cocoadog (0:5)<br>
-	6. bandy (0:3)<br>
-	7. lelofadel111 (2:0)<br>
-<br>
-154. #BUMPy-CARRot (1092) 0<br>
-+46|+11<br>
-	2. james--- (0:2)<br>
-	3. holzabee86 (2:0)<br>
-	5. cocoadog (3:6)<br>
-	6. bandy (6:14)<br>
-	8. phantomplan (2:2)<br>
-	10. croissant (0:1)<br>
-<br>
-155. #kokona (1092) -3<br>
-+14|+12|+12|+3|-4|-12|-5|+3|-3|-1<br>
-	1. SparkyPlane (0:17)<br>
-	2. james--- (2:16)<br>
-	5. cocoadog (4:8)<br>
-	6. bandy (9:13)<br>
-	7. lelofadel111 (1:5)<br>
-	8. phantomplan (1:2)<br>
-<br>
-156. #MR_JABROT_X (1091) 0<br>
-+6|+3|-1|+10|+18|+16|+2|+10|-1|+1<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (9:35)<br>
-	3. holzabee86 (0:1)<br>
-	5. cocoadog (12:24)<br>
-	6. bandy (6:31)<br>
-	7. lelofadel111 (9:39)<br>
-	8. phantomplan (1:5)<br>
-	9. Seradun (1:7)<br>
-	10. croissant (2:10)<br>
-<br>
-157. #number1daddy (1091) 0<br>
-+88|+80|+67|+50|+35|+30|+6<br>
-	2. james--- (2:1)<br>
-	3. holzabee86 (0:1)<br>
-	7. lelofadel111 (1:3)<br>
-	10. croissant (0:3)<br>
-<br>
-158. #scampadour (1088) 0<br>
-+76|+35<br>
-<br>
-159. #Buz (1088) +3<br>
-+65|+36|+15<br>
-<br>
-160. #flabjack (1088) +1<br>
-+78|+62|+53|+36|+15|+1<br>
-	3. holzabee86 (0:1)<br>
-	5. cocoadog (1:0)<br>
-	10. croissant (2:5)<br>
-<br>
-161. #Lyzax (1087) +27<br>
-+96|+91|+84|+62|+59|+59|+42|+32|+21|+25<br>
-	3. holzabee86 (14:56)<br>
-	5. cocoadog (3:5)<br>
-	6. bandy (2:2)<br>
-	7. lelofadel111 (3:8)<br>
-	8. phantomplan (0:2)<br>
-	9. Seradun (1:3)<br>
-	10. croissant (0:4)<br>
-<br>
-162. #SlickGrill~492 (1084) 0<br>
-+23|0<br>
-	3. holzabee86 (5:12)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (0:4)<br>
-<br>
-163. #nazia13 (1084) 0<br>
-+63|+60|+47|+27|+12|+1|+5|0|+3<br>
-	3. holzabee86 (0:1)<br>
-	7. lelofadel111 (0:1)<br>
-	10. croissant (0:1)<br>
-<br>
-164. #ThinBear~920 (1084) 0<br>
-+80|+62|+53|+47|+35|+11|+4<br>
-	1. SparkyPlane (3:7)<br>
-	6. bandy (1:0)<br>
-	7. lelofadel111 (0:2)<br>
-	10. croissant (0:2)<br>
-<br>
-165. #rickss (1083) 0<br>
-+43|+10<br>
-<br>
-166. #JMan8080 (1083) 0<br>
-+58|+30<br>
-	1. SparkyPlane (1:1)<br>
-<br>
-167. #Jackalope (1082) 0<br>
-+66|+16<br>
-<br>
-168. #MyriadLight (1081) 0<br>
-+26<br>
-	2. james--- (0:1)<br>
-	3. holzabee86 (6:2)<br>
-	5. cocoadog (3:0)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (0:1)<br>
-	10. croissant (1:1)<br>
-<br>
-169. #mohNabil20 (1081) 0<br>
-+75|+63|+53|+41|+29|+12<br>
-<br>
-170. #likeag66 (1080) +7<br>
-+66|+22<br>
-	5. cocoadog (1:1)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-171. #private.pyle (1079) +2<br>
-+46|+17|+3|+2<br>
-	3. holzabee86 (1:0)<br>
-<br>
-172. #mojojojo1937 (1079) -3<br>
-+52|+49|+34|+11|+18|+18|+12|-1|-1|-9<br>
-	1. SparkyPlane (0:2)<br>
-	2. james--- (0:3)<br>
-	3. holzabee86 (1:9)<br>
-	5. cocoadog (3:6)<br>
-	6. bandy (1:2)<br>
-	7. lelofadel111 (1:13)<br>
-	8. phantomplan (0:20)<br>
-	10. croissant (0:2)<br>
-<br>
-173. #mr.oujia (1078) 0<br>
-+34<br>
-	1. SparkyPlane (0:1)<br>
-	5. cocoadog (1:2)<br>
-	7. lelofadel111 (1:0)<br>
-	9. Seradun (0:1)<br>
-	10. croissant (0:1)<br>
-<br>
-174. #SignorJoSaf (1078) 0<br>
-+31|+15|+2|+5|-3<br>
-	6. bandy (0:3)<br>
-<br>
-175. #GenBelIblis (1078) 0<br>
-+56|+39|+29|+11|0<br>
-	2. james--- (1:1)<br>
-	3. holzabee86 (0:2)<br>
-	7. lelofadel111 (1:0)<br>
-	8. phantomplan (2:9)<br>
-<br>
-176. #MagicBoat~315 (1078) +2<br>
-+44|+2<br>
-<br>
-177. #Mr.NiceGuy32 (1077) 0<br>
-+70|+62|+56|+61|+60|+45|+35|+22|+11<br>
-	1. SparkyPlane (0:4)<br>
-	2. james--- (1:3)<br>
-	5. cocoadog (0:3)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (4:6)<br>
-	8. phantomplan (0:1)<br>
-	9. Seradun (0:3)<br>
-	10. croissant (1:2)<br>
-<br>
-178. #LeanShoe~474 (1077) 0<br>
-+65|+57|+47|+39|+45|+45|+29|+25|+8|+1<br>
-	1. SparkyPlane (4:18)<br>
-	2. james--- (1:6)<br>
-	5. cocoadog (1:6)<br>
-	6. bandy (1:6)<br>
-	7. lelofadel111 (3:9)<br>
-	8. phantomplan (1:3)<br>
-	10. croissant (0:2)<br>
-<br>
-179. #EntEmpire (1077) +6<br>
-+63|+61|+68|+56|+62|+45|+35|+21|+8|+3<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (1:1)<br>
-	3. holzabee86 (8:1)<br>
-	4. ValveFury (0:2)<br>
-	5. cocoadog (3:2)<br>
-	7. lelofadel111 (10:12)<br>
-	8. phantomplan (1:1)<br>
-	10. croissant (5:8)<br>
-<br>
-180. #WateryApple~232 (1077) 0<br>
-+82|+74|+61|+59|+53|+49|+38<br>
-<br>
-181. #Kotori (1075) 0<br>
-+68|+47|+35|+29|+24|+1<br>
-	8. phantomplan (1:1)<br>
-	10. croissant (1:2)<br>
-<br>
-182. #HTALAQI (1075) +1<br>
-+60|+50|+35|+15|+12|-8|-4|+2<br>
-	2. james--- (0:2)<br>
-	7. lelofadel111 (1:4)<br>
-	9. Seradun (1:3)<br>
-<br>
-183. #Kitini (1075) 0<br>
-+70|+66|+58|+47|+41|+35|+11|+11|+1|+2<br>
-	5. cocoadog (0:4)<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-184. #TheMafia (1074) 0<br>
-+57|+36|+12<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (0:2)<br>
-<br>
-185. #SlickGrill- (1072) +13<br>
-<br>
-	3. holzabee86 (2:0)<br>
-<br>
-186. #mlewiz (1072) +2<br>
-+59|+50|+37|+25|+22|+15|+5|+3<br>
-	2. james--- (1:2)<br>
-	5. cocoadog (2:6)<br>
-	6. bandy (2:10)<br>
-	7. lelofadel111 (1:3)<br>
-	8. phantomplan (0:3)<br>
-	9. Seradun (1:4)<br>
-<br>
-187. #thedude (1071) 0<br>
-+47|+32|+11<br>
-	7. lelofadel111 (1:4)<br>
-<br>
-188. #LevelWalrus~485 (1071) 0<br>
-+48|+47|+38|+26|+17|+3|-2<br>
-	2. james--- (0:1)<br>
-	6. bandy (3:3)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-189. #djr987 (1070) 0<br>
-+45|+13<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (3:0)<br>
-	6. bandy (0:1)<br>
-<br>
-190. #kaboRAGE (1070) 0<br>
-+53|+20|+10<br>
-	2. james--- (1:1)<br>
-	3. holzabee86 (1:0)<br>
-	6. bandy (2:5)<br>
-	8. phantomplan (2:3)<br>
-<br>
-191. #Tempo12 (1069) +1<br>
-+48|+20|+4|+1<br>
-	1. SparkyPlane (1:1)<br>
-	5. cocoadog (2:1)<br>
-	8. phantomplan (1:1)<br>
-<br>
-192. #oPs_0ps (1069) 0<br>
-+48|+42|+24|+3<br>
-	2. james--- (1:0)<br>
-	3. holzabee86 (2:2)<br>
-	5. cocoadog (4:0)<br>
-	6. bandy (1:3)<br>
-	7. lelofadel111 (8:9)<br>
-	8. phantomplan (3:9)<br>
-	9. Seradun (1:2)<br>
-	10. croissant (3:1)<br>
-<br>
-193. #Tscharee (1069) 0<br>
-+65|+54|+35|+8|-1<br>
-	3. holzabee86 (0:1)<br>
-	7. lelofadel111 (0:5)<br>
-	10. croissant (0:1)<br>
-<br>
-194. #murilobg (1069) 0<br>
-+64|+45|+25|+4<br>
-	2. james--- (1:0)<br>
-	3. holzabee86 (1:4)<br>
-	5. cocoadog (0:1)<br>
-	7. lelofadel111 (7:5)<br>
-	10. croissant (3:4)<br>
-<br>
-195. #eggleung1995 (1068) +6<br>
-+24<br>
-<br>
-196. #polinom (1068) 0<br>
-+60|+45|+15<br>
-	3. holzabee86 (0:1)<br>
-	7. lelofadel111 (1:0)<br>
-	8. phantomplan (2:3)<br>
-<br>
-197. #bitare (1068) +4<br>
-+36|+25|+21|+27|+22|+10|+15|+18|+3|+3<br>
-	1. SparkyPlane (1:4)<br>
-	2. james--- (0:4)<br>
-	5. cocoadog (2:12)<br>
-	6. bandy (1:0)<br>
-	7. lelofadel111 (8:26)<br>
-	8. phantomplan (1:5)<br>
-<br>
-198. #Starkadh (1067) 0<br>
-+57|+37|+13<br>
-	5. cocoadog (1:2)<br>
-	6. bandy (3:3)<br>
-<br>
-199. #john-difool (1066) 0<br>
-+48|+49|+54|+23|+25|+17|+16|+6|+2|+5<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (2:7)<br>
-	7. lelofadel111 (0:1)<br>
-	10. croissant (0:2)<br>
-<br>
-200. #vip_genius (1066) 0<br>
-+43|+19|+1<br>
-	1. SparkyPlane (1:0)<br>
-<br>
-201. #Mikflut (1066) 0<br>
-+53|+42|+26|+4<br>
-	1. SparkyPlane (1:3)<br>
-	5. cocoadog (1:0)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-202. #trripyy (1065) 0<br>
-+32|+29|+1<br>
-	1. SparkyPlane (1:1)<br>
-	5. cocoadog (0:1)<br>
-	8. phantomplan (1:0)<br>
-	10. croissant (0:2)<br>
-<br>
-203. #SnatchWeasel (1065) -18<br>
--14|-23|-15|-15|-16|-16|-3|-14|-19|-3<br>
-	1. SparkyPlane (0:5)<br>
-	2. james--- (2:8)<br>
-	3. holzabee86 (1:0)<br>
-	5. cocoadog (4:10)<br>
-	6. bandy (5:18)<br>
-	7. lelofadel111 (7:17)<br>
-	8. phantomplan (2:6)<br>
-	9. Seradun (2:3)<br>
-	10. croissant (5:7)<br>
-<br>
-204. #PlzNo_ (1065) +2<br>
-+55|+45|+42|+21<br>
-	2. james--- (1:4)<br>
-	3. holzabee86 (3:4)<br>
-	7. lelofadel111 (0:1)<br>
-	9. Seradun (1:0)<br>
-	10. croissant (2:5)<br>
-<br>
-205. #hornblower (1065) 0<br>
-+36|+13<br>
-	2. james--- (1:0)<br>
-<br>
-206. #GenghisCon (1065) 0<br>
-+24|+8<br>
-	2. james--- (1:3)<br>
-	3. holzabee86 (3:4)<br>
-	5. cocoadog (0:1)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (0:2)<br>
-<br>
-207. #klebz1000 (1065) -3<br>
-+56|+52|+41|+29|+31|+9|+4|+4|0<br>
-	2. james--- (1:1)<br>
-	6. bandy (4:16)<br>
-	7. lelofadel111 (0:2)<br>
-	9. Seradun (1:2)<br>
-<br>
-208. #chabdura (1064) 0<br>
-+50|+23|+13<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (3:1)<br>
-	6. bandy (1:5)<br>
-<br>
-209. #Seradon (1063) 0<br>
-+12<br>
-	1. SparkyPlane (3:3)<br>
-	5. cocoadog (2:0)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (1:2)<br>
-<br>
-210. #AverageBilly (1063) +8<br>
-+12<br>
-	7. lelofadel111 (2:0)<br>
-<br>
-211. #Omnibus (1063) 0<br>
-+41|+12<br>
-<br>
-212. #Spaciel (1062) 0<br>
-+50|+22<br>
-	2. james--- (0:1)<br>
-	3. holzabee86 (6:6)<br>
-	6. bandy (1:1)<br>
-	10. croissant (1:0)<br>
-<br>
-213. #Nekrik (1062) 0<br>
-+23<br>
-<br>
-214. #coldersoup (1062) +7<br>
-+45|+43|+27|+16|+12<br>
-	1. SparkyPlane (0:3)<br>
-	2. james--- (3:1)<br>
-	3. holzabee86 (0:3)<br>
-	5. cocoadog (4:0)<br>
-	6. bandy (0:2)<br>
-	7. lelofadel111 (0:3)<br>
-	8. phantomplan (0:1)<br>
-	10. croissant (0:8)<br>
-<br>
-215. #MojoRising (1062) 0<br>
-+53|+30|+4<br>
-	10. croissant (0:1)<br>
-<br>
-216. #S.T.Arship (1061) 0<br>
-+46|+26<br>
-<br>
-217. #Yodigity514 (1061) 0<br>
-+64|+51|+36|+30|+27|+19|+13|+13|+4|+7<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (0:3)<br>
-	10. croissant (2:8)<br>
-<br>
-218. #panadool (1060) +17<br>
-+60|+31|+16<br>
-	1. SparkyPlane (1:0)<br>
-	2. james--- (2:2)<br>
-	5. cocoadog (0:6)<br>
-	6. bandy (1:2)<br>
-	7. lelofadel111 (4:4)<br>
-	8. phantomplan (1:0)<br>
-	10. croissant (2:5)<br>
-<br>
-219. #Reclamation- (1060) 0<br>
+Recent win rates against top 10 over the past 20k matches<br>
+<br>
+1. #JazzyDeer (1319) 0<br>
++243|+149|+83|+30|-7|-33|-38|-17|-4<br>
+	1. JazzyDeer (3:3)<br>
+	2. SloppyTea~932 (9:14)<br>
+	3. MadDookie (35:18)<br>
+	4. Matthew0898 (43:17)<br>
+	6. Foxylocks12 (4:2)<br>
+	7. cocainedog (6:5)<br>
+	8. uranus-98 (13:3)<br>
+	9. WateryApple~232 (2:0)<br>
+<br>
+2. #SloppyTea~932 (1158) 0<br>
++130|+107|+75|+58|+36|+30|+14|-5<br>
+	1. JazzyDeer (14:9)<br>
+	3. MadDookie (57:40)<br>
+	4. Matthew0898 (54:39)<br>
+	6. Foxylocks12 (13:10)<br>
+	7. cocainedog (17:20)<br>
+	8. uranus-98 (24:18)<br>
+	10. _Marik_ (29:21)<br>
+<br>
+3. #MadDookie (1134) 0<br>
++110|+94|+79|+74|+70|+53|+38|+26|+17<br>
+	1. JazzyDeer (18:35)<br>
+	2. SloppyTea~932 (40:57)<br>
+	4. Matthew0898 (35:25)<br>
+	5. PRZEPRASZAM (16:4)<br>
+	6. Foxylocks12 (14:14)<br>
+	7. cocainedog (30:24)<br>
+	8. uranus-98 (24:22)<br>
+	9. WateryApple~232 (1:1)<br>
+	10. _Marik_ (7:13)<br>
+<br>
+4. #Matthew0898 (1119) 0<br>
++97|+81|+78|+74|+71|+67|+42|+30|+13<br>
+	1. JazzyDeer (17:43)<br>
+	2. SloppyTea~932 (39:54)<br>
+	3. MadDookie (25:35)<br>
+	6. Foxylocks12 (17:15)<br>
+	7. cocainedog (13:13)<br>
+	8. uranus-98 (17:18)<br>
+	9. WateryApple~232 (12:7)<br>
+	10. _Marik_ (25:30)<br>
+<br>
+5. #PRZEPRASZAM (1071) 0<br>
++52<br>
+	3. MadDookie (4:16)<br>
+	7. cocainedog (15:9)<br>
+	8. uranus-98 (10:6)<br>
+	10. _Marik_ (2:2)<br>
+<br>
+6. #Foxylocks12 (1068) 0<br>
 +44|+13<br>
-	2. james--- (1:1)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (0:1)<br>
+	1. JazzyDeer (2:4)<br>
+	2. SloppyTea~932 (10:13)<br>
+	3. MadDookie (14:14)<br>
+	4. Matthew0898 (15:17)<br>
+	7. cocainedog (8:8)<br>
+	8. uranus-98 (1:2)<br>
+	9. WateryApple~232 (2:0)<br>
+	10. _Marik_ (1:5)<br>
 <br>
-220. #Duke-a-Heart (1060) -2<br>
-+43|+16<br>
-	2. james--- (2:1)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (1:2)<br>
+7. #cocainedog (1061) 0<br>
++50|+37|+30|+20|+3<br>
+	1. JazzyDeer (5:6)<br>
+	2. SloppyTea~932 (20:17)<br>
+	3. MadDookie (24:30)<br>
+	4. Matthew0898 (13:13)<br>
+	5. PRZEPRASZAM (9:15)<br>
+	6. Foxylocks12 (8:8)<br>
+	8. uranus-98 (9:3)<br>
+	9. WateryApple~232 (6:9)<br>
+	10. _Marik_ (7:5)<br>
 <br>
-221. #mercutio20 (1059) 0<br>
-+45|+24|+16|+10|+13|0<br>
-	1. SparkyPlane (4:15)<br>
-	2. james--- (1:7)<br>
-	5. cocoadog (5:10)<br>
-	6. bandy (9:30)<br>
-	7. lelofadel111 (5:9)<br>
-	8. phantomplan (1:1)<br>
+8. #uranus-98 (1056) 0<br>
++50|+51|+35|+27<br>
+	1. JazzyDeer (3:13)<br>
+	2. SloppyTea~932 (18:24)<br>
+	3. MadDookie (22:24)<br>
+	4. Matthew0898 (18:17)<br>
+	5. PRZEPRASZAM (6:10)<br>
+	6. Foxylocks12 (2:1)<br>
+	7. cocainedog (3:9)<br>
+	9. WateryApple~232 (1:2)<br>
+	10. _Marik_ (7:11)<br>
 <br>
-222. #BouncyOgre~164 (1058) +6<br>
-+66|+49|+37|+24|+21|+23|+15|+17|+12<br>
-	1. SparkyPlane (1:5)<br>
-	2. james--- (0:9)<br>
-	5. cocoadog (0:2)<br>
-	6. bandy (2:2)<br>
-	8. phantomplan (0:4)<br>
-	9. Seradun (0:4)<br>
+9. #WateryApple~232 (1055) +4<br>
++60|+41|+35|+5<br>
+	1. JazzyDeer (0:2)<br>
+	3. MadDookie (1:1)<br>
+	4. Matthew0898 (7:12)<br>
+	6. Foxylocks12 (0:2)<br>
+	7. cocainedog (9:6)<br>
+	8. uranus-98 (2:1)<br>
+	10. _Marik_ (1:1)<br>
 <br>
-223. #PreBoom (1058) -1<br>
-+56|+39|+24|+16|+8|0<br>
-	1. SparkyPlane (1:6)<br>
-	2. james--- (1:1)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (0:2)<br>
-	7. lelofadel111 (0:2)<br>
+10. #_Marik_ (1047) 0<br>
++23|+8<br>
+	2. SloppyTea~932 (21:29)<br>
+	3. MadDookie (13:7)<br>
+	4. Matthew0898 (30:25)<br>
+	5. PRZEPRASZAM (2:2)<br>
+	6. Foxylocks12 (5:1)<br>
+	7. cocainedog (5:7)<br>
+	8. uranus-98 (11:7)<br>
+	9. WateryApple~232 (1:1)<br>
 <br>
-224. #Alexzander (1058) -1<br>
-+40<br>
-	1. SparkyPlane (1:2)<br>
-<br>
-225. #LiquidS (1058) +12<br>
-+55|+48|+43|+43|+33|+24|+23|+16|+13|+8<br>
-	1. SparkyPlane (2:7)<br>
-	2. james--- (1:2)<br>
-	5. cocoadog (1:15)<br>
-	6. bandy (6:18)<br>
-	7. lelofadel111 (0:6)<br>
-	8. phantomplan (1:4)<br>
-	10. croissant (2:2)<br>
-<br>
-226. #hugepope2137 (1057) 0<br>
-+56|+34|+13|+20|+30|+12<br>
-	5. cocoadog (0:1)<br>
-<br>
-227. #BouncyToast~533 (1057) 0<br>
-+37|+2<br>
-	2. james--- (1:5)<br>
-	6. bandy (0:1)<br>
-	8. phantomplan (0:1)<br>
-<br>
-228. #LukeDecanus (1056) 0<br>
-+52|+39|+26<br>
-	8. phantomplan (2:1)<br>
-	10. croissant (0:1)<br>
-<br>
-229. #ERider (1055) 0<br>
-+38|+29|+19<br>
-	1. SparkyPlane (0:6)<br>
-	2. james--- (0:2)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-230. #ss0317 (1055) 0<br>
-+35|+20|+1<br>
-	2. james--- (0:1)<br>
-	6. bandy (0:1)<br>
-	8. phantomplan (2:4)<br>
-	10. croissant (0:2)<br>
-<br>
-231. #NA9RALSHRIF (1055) +1<br>
-+40|+26|+11<br>
-	3. holzabee86 (0:1)<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-232. #ace95 (1054) 0<br>
-+37|+15|+15|+9|+4|+6<br>
-	6. bandy (1:0)<br>
-<br>
-233. #liquidslvr (1054) +12<br>
-+46|+35|+34|+20|+15|+15|+10<br>
-	1. SparkyPlane (1:0)<br>
-	2. james--- (6:23)<br>
-	5. cocoadog (4:9)<br>
-	6. bandy (3:15)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (1:0)<br>
-	10. croissant (2:5)<br>
-<br>
-234. #_Marik_ (1054) 0<br>
-+21|+9<br>
-<br>
-235. #tothaihao (1054) 0<br>
-+64|+64|+53|+30|+36|+33|+14<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (0:3)<br>
-	5. cocoadog (0:5)<br>
-	6. bandy (1:5)<br>
-	7. lelofadel111 (1:4)<br>
-	8. phantomplan (1:4)<br>
-<br>
-236. #daavid80 (1054) 0<br>
-+45|+4|-19|-15|-7<br>
-	2. james--- (1:11)<br>
-	5. cocoadog (0:3)<br>
-	6. bandy (3:5)<br>
-	7. lelofadel111 (0:10)<br>
-	9. Seradun (0:18)<br>
-<br>
-237. #miljaneze3 (1053) 0<br>
-+33|+1|0<br>
-	1. SparkyPlane (4:3)<br>
-	2. james--- (4:7)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (2:4)<br>
-	7. lelofadel111 (1:4)<br>
-	8. phantomplan (1:0)<br>
-	10. croissant (0:3)<br>
-<br>
-238. #kelly46joey (1052) 0<br>
-+44|+32|+32|+26|+5<br>
-	8. phantomplan (1:0)<br>
-<br>
-239. #SauceSamurai (1052) 0<br>
-+38|-1<br>
-	5. cocoadog (0:3)<br>
-<br>
-240. #Mutation- (1052) 0<br>
-+38|+6<br>
-<br>
-241. #hasan.187 (1052) 0<br>
-+37|+16<br>
-	2. james--- (3:5)<br>
-	3. holzabee86 (0:1)<br>
-	4. ValveFury (0:2)<br>
-	5. cocoadog (1:1)<br>
-	7. lelofadel111 (5:4)<br>
-	8. phantomplan (0:1)<br>
-	9. Seradun (0:1)<br>
-	10. croissant (1:3)<br>
-<br>
-242. #Worthless (1052) 0<br>
-+38|+25|+5<br>
-	1. SparkyPlane (1:0)<br>
-	8. phantomplan (2:0)<br>
-<br>
-243. #chadbrochill (1051) 0<br>
-+9<br>
-<br>
-244. #NikiNoll (1051) -1<br>
-+45|+7|+5|+1|-1<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (0:2)<br>
-	3. holzabee86 (0:2)<br>
-	5. cocoadog (1:4)<br>
-	6. bandy (1:3)<br>
-	7. lelofadel111 (2:14)<br>
-	10. croissant (0:2)<br>
-<br>
-245. #ganjasslol (1051) 0<br>
-+45|+48|+50|+51|+22|+8<br>
-	7. lelofadel111 (1:0)<br>
-	10. croissant (0:1)<br>
-<br>
-246. #OriginalCin (1051) 0<br>
-+37|+19<br>
-	1. SparkyPlane (0:1)<br>
-	5. cocoadog (0:1)<br>
-	7. lelofadel111 (2:2)<br>
-<br>
-247. #SSRZ_Chewy (1050) -1<br>
-+9|+16|+28|+41|+50|+47|+36|+19|+13|+4<br>
-	2. james--- (2:1)<br>
-	5. cocoadog (3:3)<br>
-	6. bandy (5:10)<br>
-	7. lelofadel111 (3:1)<br>
-	8. phantomplan (1:2)<br>
-	10. croissant (3:11)<br>
-<br>
-248. #BottyMcBot (1050) 0<br>
-+39|+26|+12|+5<br>
-	1. SparkyPlane (1:4)<br>
-	2. james--- (1:10)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (0:4)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (0:1)<br>
-	10. croissant (0:2)<br>
-<br>
-249. #CurlyGrill~583 (1050) 0<br>
-+48|+26|+3<br>
-<br>
-250. #HotJam~898 (1049) 0<br>
-+7<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (2:3)<br>
-<br>
-251. #Mastermind3 (1049) 0<br>
-+24<br>
-	3. holzabee86 (0:1)<br>
-	6. bandy (0:3)<br>
-	7. lelofadel111 (2:0)<br>
-<br>
-252. #FadedBoot~392 (1049) +3<br>
-+19|+1<br>
-	1. SparkyPlane (1:2)<br>
-	5. cocoadog (1:0)<br>
-	6. bandy (1:0)<br>
-	7. lelofadel111 (0:4)<br>
-<br>
-253. #FadedTiger~944 (1048) 0<br>
-+27|+17<br>
-	2. james--- (4:7)<br>
-	5. cocoadog (3:6)<br>
-	6. bandy (2:5)<br>
-	7. lelofadel111 (1:2)<br>
-<br>
-254. #GreenDeer~922 (1048) 0<br>
-+39|-1<br>
-<br>
-255. #Raydar71 (1048) 0<br>
-+45|+55|+52|+39|+31|+28|+19|+21|+13|+1<br>
-	1. SparkyPlane (1:3)<br>
-	2. james--- (3:8)<br>
-	5. cocoadog (5:9)<br>
-	6. bandy (11:33)<br>
-	7. lelofadel111 (0:5)<br>
-	8. phantomplan (0:1)<br>
-	9. Seradun (0:3)<br>
-<br>
-256. #YouGetDubbed (1048) +1<br>
-+33<br>
-	3. holzabee86 (22:31)<br>
-	8. phantomplan (1:2)<br>
-	9. Seradun (5:10)<br>
-	10. croissant (2:1)<br>
-<br>
-257. #GroggyWave~603 (1047) -2<br>
-+23|+7<br>
-	4. ValveFury (0:1)<br>
-<br>
-258. #Rawz (1047) 0<br>
-+34|+17<br>
-<br>
-259. #Ammar_N (1047) 0<br>
-+36|+39|+34|+28|+17|+3<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (0:9)<br>
-	6. bandy (1:11)<br>
-<br>
-260. #olaf2 (1047) +4<br>
-+15<br>
-	8. phantomplan (1:3)<br>
-	10. croissant (0:1)<br>
-<br>
-261. #matty (1047) 0<br>
-+4<br>
-	3. holzabee86 (0:1)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (5:6)<br>
-	9. Seradun (0:2)<br>
-	10. croissant (0:1)<br>
-<br>
-262. #drhillikilil (1046) +2<br>
-+32|+10<br>
-	1. SparkyPlane (3:3)<br>
-<br>
-263. #ColdSkunk~120 (1046) 0<br>
-+25|-7|-19|-17|-13|-15|-8<br>
-	2. james--- (0:2)<br>
-	6. bandy (1:7)<br>
-	7. lelofadel111 (1:2)<br>
-	10. croissant (0:3)<br>
-<br>
-264. #BDES (1046) 0<br>
-+32|+8<br>
-	1. SparkyPlane (2:3)<br>
-	6. bandy (2:1)<br>
-<br>
-265. #John117UNSC (1045) -2<br>
-+21|+3<br>
-	2. james--- (1:4)<br>
-	3. holzabee86 (1:9)<br>
-	5. cocoadog (1:0)<br>
-	7. lelofadel111 (1:4)<br>
-	8. phantomplan (0:3)<br>
-	9. Seradun (2:2)<br>
-	10. croissant (0:1)<br>
-<br>
-266. #TrickyFang~103 (1045) +11<br>
-+19<br>
-	2. james--- (1:6)<br>
-	5. cocoadog (0:3)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (3:7)<br>
-<br>
-267. #mystic28 (1044) 0<br>
-+13<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-268. #fifty6 (1044) 0<br>
-+5<br>
-<br>
-269. #raptorian (1044) 0<br>
-<br>
-<br>
-270. #FARZARD (1044) -4<br>
-+38|+13|+6|0|+12|+6|+13|-4|-4<br>
-	2. james--- (7:29)<br>
-	5. cocoadog (3:4)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-271. #scareform (1043) 0<br>
--28|-35|-1<br>
-	9. Seradun (1:151)<br>
-	10. croissant (1:0)<br>
-<br>
-272. #littlestick (1043) 0<br>
-+21<br>
-	2. james--- (0:1)<br>
-	3. holzabee86 (1:0)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-273. #QueenJess18 (1042) +2<br>
--17|-12|-8|-5|+5|+14|+25|+12|0|0<br>
-	2. james--- (2:26)<br>
-	3. holzabee86 (2:8)<br>
-	5. cocoadog (3:9)<br>
-	6. bandy (6:11)<br>
-	7. lelofadel111 (0:1)<br>
-	10. croissant (0:1)<br>
-<br>
-274. #q-_-p (1042) +8<br>
-<br>
-	2. james--- (5:1)<br>
-	3. holzabee86 (1:0)<br>
-	5. cocoadog (3:3)<br>
-	7. lelofadel111 (1:2)<br>
-	9. Seradun (1:2)<br>
-	10. croissant (1:1)<br>
-<br>
-275. #TimTim (1042) 0<br>
-<br>
-	5. cocoadog (2:0)<br>
-	6. bandy (9:4)<br>
-<br>
-276. #zh1271 (1041) +2<br>
-+18|+7<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (1:0)<br>
-	5. cocoadog (0:5)<br>
-	7. lelofadel111 (2:0)<br>
-<br>
-277. #Deplorable (1041) +16<br>
+11. #SauceSamurai (1043) 0<br>
 +25<br>
-	5. cocoadog (1:2)<br>
-	6. bandy (3:2)<br>
-	7. lelofadel111 (1:4)<br>
-	8. phantomplan (0:2)<br>
+	1. JazzyDeer (0:1)<br>
+	2. SloppyTea~932 (0:6)<br>
+	3. MadDookie (15:21)<br>
+	4. Matthew0898 (5:3)<br>
+	5. PRZEPRASZAM (0:1)<br>
+	9. WateryApple~232 (2:2)<br>
 <br>
-278. #SPARTANxRK (1040) 0<br>
-+30|+5<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (1:4)<br>
-	3. holzabee86 (5:2)<br>
-	5. cocoadog (0:3)<br>
-<br>
-279. #cxgslegend (1040) 0<br>
-+1<br>
-<br>
-280. #Franciturci (1039) 0<br>
-+35|+1<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (1:1)<br>
-	8. phantomplan (1:0)<br>
-<br>
-281. #bluesteez (1039) 0<br>
-+4<br>
-<br>
-282. #valeriocarre (1039) 0<br>
-+24|+5<br>
-	1. SparkyPlane (3:3)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (1:3)<br>
-	9. Seradun (0:2)<br>
-<br>
-283. #TazzaNZ (1039) 0<br>
-+3<br>
-<br>
-284. #WinstonWolfe (1038) 0<br>
-+14<br>
-<br>
-285. #jiyao (1038) 0<br>
-+39|+40|+20|+9<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (0:4)<br>
-	6. bandy (4:5)<br>
-	7. lelofadel111 (4:3)<br>
-	10. croissant (0:1)<br>
-<br>
-286. #AbsurdTiger~542 (1038) -5<br>
-+13<br>
-<br>
-287. #Galithor (1038) 0<br>
-+45|+56|+65|+71|+66|+57|+51|+31|+28|+7<br>
-<br>
-288. #AcidSoup~808 (1038) 0<br>
-+40|+28|+16|+1|+12|+6|-6|+2<br>
-	1. SparkyPlane (0:2)<br>
-	2. james--- (1:3)<br>
-	3. holzabee86 (0:1)<br>
-	5. cocoadog (0:2)<br>
-	6. bandy (0:2)<br>
-	7. lelofadel111 (2:1)<br>
-	8. phantomplan (0:4)<br>
-<br>
-289. #mcboatface (1038) 0<br>
-+19|+7<br>
-	2. james--- (0:9)<br>
-	6. bandy (0:2)<br>
-<br>
-290. #Dic_kTator (1038) 0<br>
-+25|+9<br>
-	1. SparkyPlane (0:2)<br>
-	2. james--- (1:0)<br>
-	3. holzabee86 (1:0)<br>
-	5. cocoadog (3:7)<br>
-	6. bandy (0:3)<br>
-	7. lelofadel111 (6:8)<br>
-	8. phantomplan (2:1)<br>
-	9. Seradun (0:2)<br>
-<br>
-291. #aKatsuki808 (1038) 0<br>
-+19<br>
-	7. lelofadel111 (4:5)<br>
-	10. croissant (1:1)<br>
-<br>
-292. #BUTCHER-47 (1038) 0<br>
-+19|-1<br>
-	7. lelofadel111 (0:4)<br>
-<br>
-293. #MGPE_Phoenix (1037) 0<br>
-+6<br>
-	3. holzabee86 (3:2)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-294. #kmachtak (1037) 0<br>
-+37|+6|+8|-3<br>
-	1. SparkyPlane (1:7)<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (3:1)<br>
-	6. bandy (3:13)<br>
-	7. lelofadel111 (3:18)<br>
-	10. croissant (0:1)<br>
-<br>
-295. #bosch (1037) 0<br>
-+13<br>
-<br>
-296. #slowzx (1036) +7<br>
-+3<br>
-	2. james--- (0:1)<br>
-	3. holzabee86 (0:1)<br>
-<br>
-297. #modemlockbox (1036) 0<br>
--1<br>
-	6. bandy (0:4)<br>
-<br>
-298. #TRistanbul (1036) -1<br>
-+29|+21|+18|+10<br>
-	1. SparkyPlane (0:1)<br>
-	5. cocoadog (0:1)<br>
-	7. lelofadel111 (3:3)<br>
-<br>
-299. #SnappyStar~244 (1035) +5<br>
-+5|+2<br>
-	1. SparkyPlane (1:3)<br>
-	2. james--- (1:0)<br>
-	5. cocoadog (0:6)<br>
-	6. bandy (2:1)<br>
-	8. phantomplan (1:3)<br>
-	10. croissant (1:0)<br>
-<br>
-300. #BYUfan (1035) +2<br>
-+29|+11|+7|-1|+1<br>
-	2. james--- (0:4)<br>
-	3. holzabee86 (3:6)<br>
-	4. ValveFury (3:5)<br>
-	5. cocoadog (2:1)<br>
-	7. lelofadel111 (7:6)<br>
-	8. phantomplan (0:1)<br>
-	9. Seradun (3:21)<br>
-	10. croissant (0:9)<br>
-<br>
-301. #ZincSound~337 (1035) 0<br>
-<br>
-<br>
-302. #Jacob1998 (1034) 0<br>
-+21|+13|+10<br>
-	2. james--- (0:1)<br>
-<br>
-303. #stront01 (1034) +1<br>
-+12|0<br>
-<br>
-304. #gabyabm (1034) +1<br>
-+16|+4|-1<br>
-	1. SparkyPlane (2:0)<br>
-	2. james--- (2:8)<br>
-	3. holzabee86 (1:4)<br>
-	5. cocoadog (1:1)<br>
-	7. lelofadel111 (5:13)<br>
-	8. phantomplan (0:1)<br>
-	9. Seradun (0:5)<br>
-	10. croissant (1:0)<br>
-<br>
-305. #Jamesflames6 (1034) 0<br>
-+23|+2<br>
-	8. phantomplan (0:2)<br>
-<br>
-306. #piggomumps (1033) 0<br>
-<br>
-<br>
-307. #QtMagnatar (1033) -1<br>
-+18<br>
-<br>
-308. #Saehyu (1033) 0<br>
-+10<br>
-<br>
-309. #LonelyJuice~520 (1033) +3<br>
-+7<br>
-	9. Seradun (1:3)<br>
-<br>
-310. #KERATA1 (1033) -2<br>
-+43|+40|+39|+35|+39|+39|+24|+16|+3|-2<br>
-	1. SparkyPlane (5:10)<br>
-	2. james--- (1:4)<br>
-	5. cocoadog (0:3)<br>
-	6. bandy (1:7)<br>
-	7. lelofadel111 (2:9)<br>
-	8. phantomplan (1:6)<br>
-<br>
-311. #SmotPoker (1033) 0<br>
-+30|+20<br>
-<br>
-312. #ChubbyPizza~629 (1033) 0<br>
-<br>
-	6. bandy (0:1)<br>
-<br>
-313. #GuacNinja (1032) 0<br>
-<br>
-	3. holzabee86 (1:2)<br>
-	5. cocoadog (1:0)<br>
-	7. lelofadel111 (4:2)<br>
-	10. croissant (1:0)<br>
-<br>
-314. #MagicTooth~593 (1032) 0<br>
-+5<br>
-<br>
-315. #novuz (1032) +2<br>
-<br>
-<br>
-316. #milkyway (1032) 0<br>
-+12<br>
-<br>
-317. #supermarck (1032) 0<br>
-+25|+20|+10|+3|+11|0<br>
-	2. james--- (0:1)<br>
-<br>
-318. #ttheman (1032) +1<br>
-+3<br>
-	1. SparkyPlane (2:2)<br>
-	5. cocoadog (5:2)<br>
-	6. bandy (1:2)<br>
-	7. lelofadel111 (1:4)<br>
-	10. croissant (2:2)<br>
-<br>
-319. #Captainreese (1031) +11<br>
-<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-320. #hehe2 (1031) +6<br>
-+16|0<br>
-	2. james--- (1:1)<br>
-	5. cocoadog (0:2)<br>
-<br>
-321. #foundation- (1031) 0<br>
-+26|+13<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (14:17)<br>
-<br>
-322. #bupkis (1031) -1<br>
-+29|+25|+13|+17|0<br>
-	2. james--- (0:2)<br>
-	6. bandy (1:0)<br>
-	7. lelofadel111 (1:0)<br>
-	10. croissant (1:3)<br>
-<br>
-323. #Flash640k (1031) 0<br>
-+10<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (2:7)<br>
-<br>
-324. #jetlagged (1031) 0<br>
-+14<br>
-	2. james--- (2:5)<br>
-	6. bandy (0:2)<br>
-<br>
-325. #culodmose (1031) 0<br>
-+39|+50|+45|+30|+20|+5<br>
-	2. james--- (1:0)<br>
-	5. cocoadog (0:1)<br>
-	7. lelofadel111 (0:2)<br>
-	10. croissant (0:1)<br>
-<br>
-326. #mope (1031) +7<br>
-<br>
-<br>
-327. #herc333 (1031) +12<br>
+12. #Tscharee (1042) 0<br>
 +25<br>
-	2. james--- (0:2)<br>
-	7. lelofadel111 (1:4)<br>
-	10. croissant (0:1)<br>
+	1. JazzyDeer (0:1)<br>
+	2. SloppyTea~932 (2:3)<br>
+	3. MadDookie (0:5)<br>
+	4. Matthew0898 (0:2)<br>
+	6. Foxylocks12 (0:1)<br>
+	8. uranus-98 (1:0)<br>
+	9. WateryApple~232 (6:1)<br>
 <br>
-328. #gazik05 (1031) 0<br>
-+6<br>
-	7. lelofadel111 (1:1)<br>
+13. #likeag66 (1039) 0<br>
++23<br>
+	1. JazzyDeer (1:1)<br>
+	2. SloppyTea~932 (8:8)<br>
+	3. MadDookie (10:13)<br>
+	4. Matthew0898 (19:11)<br>
+	6. Foxylocks12 (4:3)<br>
+	7. cocainedog (5:1)<br>
+	8. uranus-98 (4:7)<br>
+	10. _Marik_ (1:2)<br>
 <br>
-329. #darwinalki (1030) 0<br>
-+28|+29|+17|+13<br>
-	2. james--- (1:2)<br>
-	7. lelofadel111 (2:0)<br>
+14. #Parko (1037) 0<br>
++19<br>
+	1. JazzyDeer (9:15)<br>
+	2. SloppyTea~932 (12:8)<br>
+	3. MadDookie (18:4)<br>
+	7. cocainedog (5:0)<br>
 <br>
-330. #midKnight. (1030) +5<br>
-+9<br>
-	3. holzabee86 (1:3)<br>
-	7. lelofadel111 (1:0)<br>
+15. #Vergilious (1035) 0<br>
++17|-2<br>
+	1. JazzyDeer (2:0)<br>
+	2. SloppyTea~932 (9:18)<br>
+	3. MadDookie (4:5)<br>
+	4. Matthew0898 (6:11)<br>
+	6. Foxylocks12 (1:2)<br>
+	7. cocainedog (1:4)<br>
+	9. WateryApple~232 (3:0)<br>
 <br>
-331. #warmant-116 (1030) 0<br>
-+12<br>
-	6. bandy (1:4)<br>
+16. #edache22 (1035) 0<br>
++26|+1<br>
+	1. JazzyDeer (0:1)<br>
+	2. SloppyTea~932 (5:9)<br>
+	3. MadDookie (20:27)<br>
+	4. Matthew0898 (3:1)<br>
+	5. PRZEPRASZAM (2:0)<br>
+	8. uranus-98 (0:1)<br>
+	9. WateryApple~232 (1:1)<br>
+	10. _Marik_ (2:5)<br>
 <br>
-332. #rawbdor (1029) 0<br>
-+41|+27|+22|+19|+26|+5|-4<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (1:0)<br>
-	6. bandy (0:5)<br>
-	7. lelofadel111 (2:0)<br>
-	10. croissant (2:3)<br>
-<br>
-333. #a7mad (1029) 0<br>
-+22|+23|+3<br>
-	5. cocoadog (0:1)<br>
-<br>
-334. #manett (1029) 0<br>
-0<br>
-<br>
-335. #Frangta (1029) +2<br>
-+33|+45|+44|+31|+24|+11|+11|+3<br>
-	1. SparkyPlane (1:2)<br>
-	2. james--- (0:16)<br>
-	5. cocoadog (0:5)<br>
-	6. bandy (1:11)<br>
-	7. lelofadel111 (0:3)<br>
-	8. phantomplan (0:2)<br>
-<br>
-336. #A_Skiller (1029) 0<br>
-+13<br>
-	1. SparkyPlane (1:2)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-337. #Astinax (1029) 0<br>
-+13<br>
-	3. holzabee86 (1:0)<br>
-<br>
-338. #newguy11 (1029) 0<br>
-+2<br>
-<br>
-339. #RitzyDust~836 (1029) 0<br>
-<br>
-	1. SparkyPlane (1:1)<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (1:0)<br>
-	8. phantomplan (1:1)<br>
-<br>
-340. #ChunkySpruc~445 (1029) 0<br>
-<br>
-	1. SparkyPlane (0:1)<br>
-	7. lelofadel111 (0:3)<br>
-<br>
-341. #ShortDust~832 (1029) 0<br>
-+31|+15|-3<br>
-<br>
-342. #LavishFauce~178 (1028) 0<br>
-+16|+7<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (0:1)<br>
-<br>
-343. #LoL78818181 (1028) 0<br>
-+31|+35|+38|+33|+32|+21|+4|-2|-4<br>
-	2. james--- (1:9)<br>
-	3. holzabee86 (0:1)<br>
-	5. cocoadog (2:3)<br>
-	6. bandy (1:6)<br>
-	7. lelofadel111 (6:10)<br>
-	8. phantomplan (7:6)<br>
-	10. croissant (1:5)<br>
-<br>
-344. #JuulPod (1028) 0<br>
-<br>
-	5. cocoadog (3:0)<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-345. #SteveO84 (1028) 0<br>
-+29|+18|+22|+7|+2<br>
-	6. bandy (1:2)<br>
-	7. lelofadel111 (1:1)<br>
-<br>
-346. #miomonster (1028) 0<br>
-+3<br>
-	3. holzabee86 (3:4)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (0:3)<br>
-	9. Seradun (0:1)<br>
-	10. croissant (2:0)<br>
-<br>
-347. #svircs (1028) 0<br>
-+3<br>
-	6. bandy (0:1)<br>
-	9. Seradun (0:3)<br>
-<br>
-348. #sedativebeef (1028) 0<br>
--1<br>
-	6. bandy (1:0)<br>
-<br>
-349. #deltron3030 (1027) +1<br>
-+29|+33|+40|+28|+8|0<br>
-	1. SparkyPlane (0:2)<br>
-	2. james--- (0:5)<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-350. #Dangit (1027) +1<br>
-+13<br>
-<br>
-351. #quickmill (1027) 0<br>
-<br>
-	1. SparkyPlane (1:1)<br>
-	2. james--- (3:3)<br>
-	6. bandy (1:2)<br>
-<br>
-352. #Clemdu74580 (1027) +5<br>
-+6<br>
-	5. cocoadog (0:1)<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-353. #opezdol (1027) +1<br>
-+14|+13<br>
-	1. SparkyPlane (1:3)<br>
-	5. cocoadog (1:1)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-354. #brock (1027) 0<br>
-+14<br>
-<br>
-355. #phaedrus (1027) 0<br>
-<br>
-<br>
-356. #hacto42 (1027) 0<br>
-+28|+43|+47|+19|+17|+1<br>
-	5. cocoadog (2:0)<br>
-	9. Seradun (0:2)<br>
-<br>
-357. #Power69 (1027) +1<br>
-+30|+29|+22|+13|+4|+6|+5<br>
-	1. SparkyPlane (0:5)<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (1:2)<br>
-	6. bandy (1:2)<br>
-	7. lelofadel111 (0:18)<br>
-	8. phantomplan (1:1)<br>
-<br>
-358. #GlobalTempe~153 (1026) 0<br>
-<br>
-	3. holzabee86 (6:2)<br>
-<br>
-359. #BlackH00le (1026) 0<br>
-+3<br>
-	3. holzabee86 (0:1)<br>
-<br>
-360. #liquidlegs (1026) 0<br>
-+20|+14|+2|-2|0<br>
-<br>
-361. #davide231098 (1026) -1<br>
-+2<br>
-	7. lelofadel111 (2:2)<br>
-<br>
-362. #Khael- (1026) 0<br>
-+7|-6<br>
-	3. holzabee86 (0:1)<br>
-<br>
-363. #thehurricane (1026) 0<br>
-+1<br>
-<br>
-364. #papasfritas (1025) +6<br>
-+22<br>
-	3. holzabee86 (1:0)<br>
-	5. cocoadog (0:1)<br>
-	9. Seradun (2:1)<br>
-	10. croissant (0:1)<br>
-<br>
-365. #Gnilus (1025) 0<br>
-<br>
-<br>
-366. #Kevlove (1025) +8<br>
-+14|+4<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (3:7)<br>
-	8. phantomplan (0:2)<br>
-<br>
-367. #sjehsan (1025) 0<br>
-+11|+3|+1<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-368. #Reptck (1025) 0<br>
-+3<br>
-<br>
-369. #sarchasmo (1025) -1<br>
-+4<br>
-	1. SparkyPlane (1:1)<br>
-	2. james--- (1:0)<br>
-	5. cocoadog (0:2)<br>
-	7. lelofadel111 (0:3)<br>
-<br>
-370. #mohammed-b52 (1025) -4<br>
-+30|+26|+27|+29|+16|+8<br>
-	1. SparkyPlane (1:1)<br>
-	2. james--- (1:3)<br>
-	5. cocoadog (0:4)<br>
-	6. bandy (3:8)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (0:1)<br>
-<br>
-371. #GaudyHammer~349 (1025) +3<br>
-+10|0<br>
-	2. james--- (0:3)<br>
-	5. cocoadog (1:4)<br>
-	6. bandy (0:2)<br>
-	7. lelofadel111 (0:3)<br>
-<br>
-372. #Alburdy (1025) 0<br>
-<br>
-<br>
-373. #kratos82 (1025) 0<br>
-+12<br>
-<br>
-374. #TaoGuardian (1025) 0<br>
-+10|+14|+16|+8|+3|-2<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (2:2)<br>
-	3. holzabee86 (0:2)<br>
-	5. cocoadog (1:0)<br>
-	6. bandy (0:1)<br>
-	8. phantomplan (0:1)<br>
-	10. croissant (0:5)<br>
-<br>
-375. #VOSTOK (1025) 0<br>
-+22|+1<br>
-	3. holzabee86 (1:0)<br>
-	6. bandy (1:5)<br>
-<br>
-376. #paul11 (1024) +1<br>
-+41|+33|+34|+44|+50|+45|+30|+19|+14|+3<br>
-	1. SparkyPlane (0:3)<br>
-	2. james--- (2:5)<br>
-	5. cocoadog (6:14)<br>
-	6. bandy (5:12)<br>
-	7. lelofadel111 (4:16)<br>
-	8. phantomplan (0:1)<br>
-	9. Seradun (0:2)<br>
-<br>
-377. #shadowarior (1024) 0<br>
-<br>
-	5. cocoadog (0:4)<br>
-	7. lelofadel111 (0:3)<br>
-<br>
-378. #monsterV (1024) 0<br>
-<br>
-<br>
-379. #Zacc_ (1024) +6<br>
-+17|+27|+17|+6<br>
-	1. SparkyPlane (1:0)<br>
-	2. james--- (0:1)<br>
-	3. holzabee86 (1:0)<br>
-	5. cocoadog (1:3)<br>
-	7. lelofadel111 (0:7)<br>
-<br>
-380. #ExoticFlowe~759 (1024) 0<br>
+17. #Vato96 (1034) 0<br>
 +17<br>
-	8. phantomplan (0:1)<br>
+	2. SloppyTea~932 (6:8)<br>
+	3. MadDookie (3:5)<br>
+	4. Matthew0898 (1:5)<br>
+	6. Foxylocks12 (1:1)<br>
+	7. cocainedog (7:5)<br>
 <br>
-381. #Heavyd (1024) 0<br>
-<br>
-	2. james--- (1:1)<br>
-	6. bandy (0:1)<br>
-<br>
-382. #ClassyCoffe~775 (1024) 0<br>
-+1<br>
-	2. james--- (1:1)<br>
-	6. bandy (1:0)<br>
-<br>
-383. #POLOFICAN (1024) 0<br>
-+18|+33|+32|+33|0<br>
-	2. james--- (0:4)<br>
-	3. holzabee86 (14:73)<br>
-	10. croissant (1:4)<br>
-<br>
-384. #VividerAphid (1023) 0<br>
-+18|+2<br>
-<br>
-385. #drdeadscat (1023) +2<br>
-+21|+11|+8<br>
-	2. james--- (1:4)<br>
-	5. cocoadog (0:7)<br>
-	6. bandy (0:3)<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-386. #ganeshs_will (1023) 0<br>
-+1<br>
-<br>
-387. #Peace1 (1022) +5<br>
-+25|+25|+10<br>
-	1. SparkyPlane (0:1)<br>
-	3. holzabee86 (0:1)<br>
-	5. cocoadog (1:0)<br>
-	6. bandy (1:2)<br>
-	7. lelofadel111 (0:1)<br>
-	9. Seradun (2:2)<br>
-	10. croissant (2:3)<br>
-<br>
-388. #InFlames37 (1022) 0<br>
-<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-389. #Froggy13 (1022) 0<br>
-+18|+10<br>
-	1. SparkyPlane (2:8)<br>
-	5. cocoadog (0:2)<br>
-<br>
-390. #SloppyToast~176 (1022) 0<br>
-+23|+13|0<br>
-	5. cocoadog (1:2)<br>
-	6. bandy (1:4)<br>
-	7. lelofadel111 (1:0)<br>
-	8. phantomplan (0:1)<br>
-<br>
-391. #Tertich (1022) -2<br>
-+13|+19|+13|+16|+15|+3<br>
-	2. james--- (1:1)<br>
-<br>
-392. #jeetu (1022) 0<br>
--4|-2<br>
-<br>
-393. #TwistedJorge (1022) +4<br>
-<br>
-	3. holzabee86 (5:5)<br>
-	10. croissant (0:2)<br>
-<br>
-394. #ShyPants~334 (1022) +1<br>
-+1<br>
-	5. cocoadog (1:0)<br>
-<br>
-395. #ThinWave~585 (1022) 0<br>
-<br>
-<br>
-396. #killerbear13 (1022) 0<br>
-+23|+8|+3<br>
-	2. james--- (0:3)<br>
-	5. cocoadog (1:6)<br>
-	10. croissant (1:5)<br>
-<br>
-397. #WarPigFan (1022) 0<br>
-<br>
-	3. holzabee86 (3:14)<br>
-	10. croissant (0:1)<br>
-<br>
-398. #Alaskanboy (1022) +1<br>
-+10|-3<br>
-	6. bandy (1:0)<br>
-<br>
-399. #CIVIC93 (1022) 0<br>
-+15<br>
-<br>
-400. #slydog (1021) 0<br>
-<br>
-	6. bandy (1:0)<br>
-<br>
-401. #ratlabory (1021) -2<br>
-0<br>
-	2. james--- (1:0)<br>
-	5. cocoadog (1:1)<br>
-	6. bandy (4:3)<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-402. #Goody3shoes (1021) 0<br>
-<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (2:2)<br>
-	9. Seradun (1:0)<br>
-	10. croissant (1:1)<br>
-<br>
-403. #Calebest7 (1021) 0<br>
-+5<br>
-	1. SparkyPlane (4:4)<br>
-	2. james--- (1:3)<br>
-	7. lelofadel111 (2:5)<br>
-	10. croissant (2:2)<br>
-<br>
-404. #burner66 (1021) 0<br>
-<br>
-<br>
-405. #barbatroc (1021) 0<br>
-+3<br>
-	6. bandy (2:2)<br>
-<br>
-406. #Thillixer453 (1021) -1<br>
-+13|+21|+11|+2|-1<br>
-	2. james--- (1:5)<br>
-	5. cocoadog (0:3)<br>
-	6. bandy (8:17)<br>
-	9. Seradun (0:1)<br>
-	10. croissant (0:1)<br>
-<br>
-407. #ru-51 (1021) 0<br>
+18. #deezpeanutz (1032) 0<br>
 +8<br>
-	2. james--- (0:2)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-408. #SlickPine~286 (1021) +1<br>
-+14|+6<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (0:8)<br>
-	6. bandy (3:19)<br>
-	7. lelofadel111 (1:0)<br>
-	9. Seradun (0:1)<br>
-	10. croissant (0:1)<br>
-<br>
-409. #iTRAX (1020) +8<br>
-+38|+33|+35|+35|+35|+33|+29|+28|+16|+17<br>
-	1. SparkyPlane (0:3)<br>
-	2. james--- (3:10)<br>
-	3. holzabee86 (1:1)<br>
-	5. cocoadog (0:4)<br>
-	6. bandy (1:2)<br>
-	7. lelofadel111 (7:20)<br>
-	9. Seradun (0:2)<br>
-	10. croissant (1:2)<br>
-<br>
-410. #Im_G0RY (1020) 0<br>
-0<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (2:0)<br>
-	8. phantomplan (3:1)<br>
-<br>
-411. #phobia (1020) 0<br>
-+3|+6|+3|-16|-2<br>
-	1. SparkyPlane (2:0)<br>
-	2. james--- (1:2)<br>
-	5. cocoadog (1:1)<br>
-	7. lelofadel111 (4:41)<br>
-	9. Seradun (0:2)<br>
-	10. croissant (1:2)<br>
-<br>
-412. #oculterito (1019) 0<br>
-<br>
-	1. SparkyPlane (0:1)<br>
-<br>
-413. #hobbes313 (1019) 0<br>
-<br>
-	6. bandy (0:2)<br>
-<br>
-414. #djhunt (1019) 0<br>
-+27|+33|+8<br>
-	6. bandy (0:1)<br>
-<br>
-415. #ausdiemaus67 (1019) 0<br>
-0<br>
-	1. SparkyPlane (0:1)<br>
-	5. cocoadog (0:1)<br>
-	7. lelofadel111 (0:1)<br>
-	10. croissant (0:1)<br>
-<br>
-416. #Setin12 (1019) 0<br>
-+4<br>
-	2. james--- (2:1)<br>
-<br>
-417. #T-_-TT-_-T (1019) -2<br>
-+17|+1<br>
-	2. james--- (0:2)<br>
-	10. croissant (0:2)<br>
-<br>
-418. #Mattooo (1018) +6<br>
-0|+1|+2<br>
-	2. james--- (1:1)<br>
-	5. cocoadog (2:4)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (0:1)<br>
-<br>
-419. #sporker (1018) 0<br>
-+12|+5<br>
-<br>
-420. #LonelyTruck~453 (1018) 0<br>
-+9<br>
-<br>
-421. #MagicDoor~639 (1018) 0<br>
-<br>
-<br>
-422. #xxjoshzxx (1018) 0<br>
-+12<br>
-<br>
-423. #Ambrossy (1018) +4<br>
--3|+9|+7<br>
-	2. james--- (1:8)<br>
-	5. cocoadog (4:4)<br>
-	6. bandy (0:1)<br>
-	8. phantomplan (0:1)<br>
-<br>
-424. #Dhillon (1018) 0<br>
-+7<br>
-	1. SparkyPlane (0:1)<br>
-<br>
-425. #Galconian- (1018) 0<br>
-<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-426. #LastTimeLord (1018) 0<br>
-+20|0<br>
-	2. james--- (1:0)<br>
-	6. bandy (1:2)<br>
-	7. lelofadel111 (0:3)<br>
-<br>
-427. #toxyc (1018) 0<br>
-<br>
-<br>
-428. #K1LL3rW33D (1018) 0<br>
-<br>
-<br>
-429. #HeavyTiger~143 (1018) 0<br>
-<br>
-<br>
-430. #Juggernaut (1018) 0<br>
-<br>
-<br>
-431. #Calcius (1018) 0<br>
-+20|+9|+2<br>
-<br>
-432. #rogueleader6 (1018) 0<br>
-+26|+29|+21|+16<br>
-	1. SparkyPlane (1:0)<br>
-	2. james--- (0:2)<br>
-	6. bandy (0:3)<br>
-<br>
-433. #ulli007 (1017) 0<br>
-+24<br>
-	7. lelofadel111 (0:3)<br>
-	8. phantomplan (1:1)<br>
-<br>
-434. #WiseMit~500 (1017) 0<br>
-+10|+10|-1<br>
-	10. croissant (0:2)<br>
-<br>
-435. #DELTA_HEAVY (1017) +6<br>
-<br>
-<br>
-436. #PurpleSheet~930 (1017) +4<br>
-<br>
-	1. SparkyPlane (2:2)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (1:0)<br>
-	9. Seradun (0:2)<br>
-<br>
-437. #ElMeiser (1017) 0<br>
-<br>
-<br>
-438. #StormyYam~602 (1017) 0<br>
-+11|-1<br>
-	1. SparkyPlane (0:1)<br>
-<br>
-439. #PaperGoose~533 (1016) 0<br>
-<br>
-<br>
-440. #phaneron (1016) 0<br>
-+13|+24|+5<br>
-<br>
-441. #V1T0R (1016) 0<br>
--1<br>
-<br>
-442. #DeXie420 (1016) 0<br>
-+12<br>
-<br>
-443. #Snake1976 (1016) 0<br>
-+18|+24|+8<br>
-	1. SparkyPlane (1:6)<br>
-<br>
-444. #TJHENRY (1016) +11<br>
-+14|+28|+19<br>
-	2. james--- (2:12)<br>
-	5. cocoadog (0:1)<br>
-	7. lelofadel111 (1:2)<br>
-<br>
-445. #MightyPear~112 (1016) -4<br>
--1|-1<br>
-	2. james--- (0:1)<br>
-	3. holzabee86 (0:5)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (1:3)<br>
-	9. Seradun (0:2)<br>
-	10. croissant (1:0)<br>
-<br>
-446. #cheetahJP (1016) 0<br>
--9|-9|-6|-1<br>
-	6. bandy (0:1)<br>
-<br>
-447. #SmallSnail~710 (1015) 0<br>
-<br>
-<br>
-448. #GrayFlute~909 (1015) 0<br>
-<br>
-<br>
-449. #Scrooge (1015) 0<br>
-+7<br>
-	2. james--- (0:1)<br>
-	3. holzabee86 (0:1)<br>
-	5. cocoadog (0:1)<br>
-	7. lelofadel111 (1:1)<br>
-<br>
-450. #boredaf (1015) 0<br>
-<br>
-<br>
-451. #John_Wayne98 (1015) 0<br>
-<br>
-<br>
-452. #isidor (1015) 0<br>
-<br>
-	1. SparkyPlane (0:1)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-453. #sKAYOBs (1015) -4<br>
--3<br>
-	3. holzabee86 (0:9)<br>
-<br>
-454. #AgentMrQ (1014) -1<br>
-<br>
-<br>
-455. #siempelibre (1014) 0<br>
-+8<br>
-	2. james--- (0:3)<br>
-<br>
-456. #Twoskilled (1014) +11<br>
-<br>
-<br>
-457. #CUNCTATOR55 (1014) 0<br>
-<br>
-<br>
-458. #ny220e (1014) 0<br>
-+19|+18|+25|+40|+27|+14|+14|+3<br>
-	1. SparkyPlane (0:3)<br>
-	2. james--- (1:5)<br>
-	6. bandy (0:2)<br>
-	10. croissant (0:1)<br>
-<br>
-459. #quantum (1014) 0<br>
-0|+5<br>
-<br>
-460. #paradroid (1013) 0<br>
-+4|-1<br>
-	1. SparkyPlane (1:13)<br>
-	5. cocoadog (0:13)<br>
-	6. bandy (1:1)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (0:4)<br>
-	9. Seradun (0:2)<br>
-	10. croissant (0:5)<br>
-<br>
-461. #NoNeedToFear (1013) 0<br>
-<br>
-	7. lelofadel111 (1:1)<br>
-	10. croissant (0:1)<br>
-<br>
-462. #Mine~Turtle (1013) 0<br>
-<br>
-<br>
-463. #tux111 (1013) +1<br>
-0<br>
-<br>
-464. #FastGoblin~692 (1013) 0<br>
-+25|+23|+19|+3<br>
-	1. SparkyPlane (1:14)<br>
-<br>
-465. #dawson27 (1013) +3<br>
-+16|+9|+8<br>
-	2. james--- (1:0)<br>
-	3. holzabee86 (0:7)<br>
-	4. ValveFury (0:2)<br>
-	8. phantomplan (1:3)<br>
-	9. Seradun (1:0)<br>
-	10. croissant (0:1)<br>
-<br>
-466. #Galreth (1013) 0<br>
-<br>
-<br>
-467. #Supastan (1013) +5<br>
-<br>
-<br>
-468. #frostnoise (1013) +8<br>
-<br>
-<br>
-469. #Baboonej (1013) 0<br>
-<br>
-	6. bandy (0:4)<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-470. #shavuha (1013) 0<br>
-<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (0:7)<br>
-	5. cocoadog (0:1)<br>
-<br>
-471. #Louis1975 (1012) +2<br>
-+22|+12|+11|+3<br>
-<br>
-472. #A-z-sh (1012) 0<br>
-<br>
-<br>
-473. #WackyMitten~939 (1012) 0<br>
-<br>
-	10. croissant (4:2)<br>
-<br>
-474. #FilthyGlide~918 (1012) 0<br>
-<br>
-	3. holzabee86 (1:0)<br>
-<br>
-475. #Tortois3 (1012) -2<br>
-+10|0<br>
-	2. james--- (1:7)<br>
-	5. cocoadog (0:2)<br>
-	7. lelofadel111 (2:1)<br>
-	8. phantomplan (0:1)<br>
-<br>
-476. #lordymatsuo (1012) 0<br>
-<br>
-	1. SparkyPlane (2:10)<br>
-	5. cocoadog (3:0)<br>
-	7. lelofadel111 (2:0)<br>
-<br>
-477. #daneanater13 (1012) 0<br>
--1<br>
-	6. bandy (0:2)<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-478. #dylanburch (1012) 0<br>
-<br>
-	9. Seradun (2:0)<br>
-<br>
-479. #Cap.Kirk (1012) 0<br>
-<br>
-<br>
-480. #noa-B (1012) 0<br>
-0<br>
-<br>
-481. #theodor38 (1012) +12<br>
-<br>
-	2. james--- (1:2)<br>
-	5. cocoadog (0:6)<br>
-<br>
-482. #divz3r0 (1012) 0<br>
-<br>
-	2. james--- (3:5)<br>
-<br>
-483. #WickedPizza~656 (1012) 0<br>
--2<br>
-	6. bandy (1:0)<br>
-<br>
-484. #XxArKaNGeLxX (1012) 0<br>
-+21<br>
-<br>
-485. #SourIsland~843 (1012) 0<br>
-<br>
-	3. holzabee86 (5:1)<br>
-<br>
-486. #evilCherry (1012) 0<br>
-<br>
-	5. cocoadog (0:1)<br>
-<br>
-487. #RitzyLeaf~855 (1012) 0<br>
-<br>
-	5. cocoadog (0:1)<br>
-<br>
-488. #cara (1012) 0<br>
-<br>
-<br>
-489. #orenong (1012) 0<br>
--2<br>
-<br>
-490. #Artomius (1012) 0<br>
-<br>
-<br>
-491. #hey6 (1012) 0<br>
-<br>
-<br>
-492. #LuckyMetal~779 (1012) 0<br>
-<br>
-	8. phantomplan (1:0)<br>
-<br>
-493. #sri-bhakti (1011) 0<br>
-+13|+18|+10|+16|+25|+36|+36|+28|+17|+7<br>
-	1. SparkyPlane (2:5)<br>
-	6. bandy (1:2)<br>
-<br>
-494. #BepoHuka (1011) 0<br>
-<br>
-<br>
-495. #stalephish (1011) 0<br>
-<br>
-<br>
-496. #z.snafu (1011) 0<br>
-<br>
-<br>
-497. #chILLYpotat (1011) +2<br>
-+2<br>
-	3. holzabee86 (1:0)<br>
-	7. lelofadel111 (1:0)<br>
-	8. phantomplan (1:6)<br>
-	10. croissant (1:0)<br>
-<br>
-498. #FreeStone~289 (1011) 0<br>
-<br>
-<br>
-499. #TuFF-GoNG (1011) +3<br>
-<br>
-	2. james--- (1:2)<br>
-	5. cocoadog (1:2)<br>
-	6. bandy (2:3)<br>
-	10. croissant (0:2)<br>
-<br>
-500. #pesterd (1011) 0<br>
+	1. JazzyDeer (11:12)<br>
+	2. SloppyTea~932 (5:5)<br>
+	3. MadDookie (18:23)<br>
+	4. Matthew0898 (4:10)<br>
+	6. Foxylocks12 (1:1)<br>
+	7. cocainedog (3:1)<br>
+	8. uranus-98 (6:4)<br>
+<br>
+19. #doeish (1031) 0<br>
++19<br>
+	2. SloppyTea~932 (7:12)<br>
+	3. MadDookie (18:14)<br>
+	4. Matthew0898 (15:14)<br>
+	6. Foxylocks12 (0:1)<br>
+	8. uranus-98 (1:1)<br>
+	10. _Marik_ (6:7)<br>
+<br>
+20. #playin4keeps (1029) 0<br>
++31<br>
+	1. JazzyDeer (3:3)<br>
+	2. SloppyTea~932 (0:4)<br>
+	3. MadDookie (5:9)<br>
+	6. Foxylocks12 (1:1)<br>
+	7. cocainedog (0:1)<br>
+	8. uranus-98 (7:6)<br>
+	9. WateryApple~232 (7:1)<br>
+<br>
+21. #SSRZ_Chewy (1029) 0<br>
++25|+19|+14|+14|+11|+11<br>
+	1. JazzyDeer (10:57)<br>
+	2. SloppyTea~932 (10:22)<br>
+	3. MadDookie (15:29)<br>
+	4. Matthew0898 (6:8)<br>
+	5. PRZEPRASZAM (2:5)<br>
+	6. Foxylocks12 (3:8)<br>
+	7. cocainedog (7:14)<br>
+	8. uranus-98 (1:2)<br>
+	9. WateryApple~232 (1:5)<br>
+	10. _Marik_ (0:2)<br>
+<br>
+22. #sAmA (1029) 0<br>
 +1<br>
-<br>
-501. #jammyboy9 (1011) 0<br>
-+4|+1<br>
-	3. holzabee86 (1:1)<br>
-	7. lelofadel111 (0:3)<br>
-<br>
-502. #lifeshine (1011) 0<br>
-<br>
-	1. SparkyPlane (0:2)<br>
-	5. cocoadog (0:1)<br>
-	7. lelofadel111 (1:2)<br>
-	10. croissant (0:1)<br>
-<br>
-503. #ilan365 (1011) 0<br>
-<br>
-<br>
-504. #jpendl10 (1011) 0<br>
-<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (0:1)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-505. #A-711 (1011) 0<br>
-0<br>
-	7. lelofadel111 (1:0)<br>
-	10. croissant (0:1)<br>
-<br>
-506. #karenmnz (1011) 0<br>
-<br>
-	2. james--- (1:0)<br>
-	6. bandy (0:3)<br>
-<br>
-507. #Fire.n.Ice. (1011) 0<br>
-<br>
-	2. james--- (0:3)<br>
-	3. holzabee86 (2:0)<br>
-	7. lelofadel111 (1:0)<br>
-	8. phantomplan (0:2)<br>
-	10. croissant (2:3)<br>
-<br>
-508. #HairyGoblin~682 (1011) 0<br>
-<br>
-	4. ValveFury (3:2)<br>
-	10. croissant (1:2)<br>
-<br>
-509. #hollander (1011) 0<br>
-<br>
-<br>
-510. #SneakazZ (1010) 0<br>
-<br>
-<br>
-511. #BumpyGopher~273 (1010) 0<br>
-+2<br>
-	10. croissant (1:2)<br>
-<br>
-512. #SnappyWease~738 (1010) 0<br>
-<br>
-<br>
-513. #SneakyRam~754 (1010) 0<br>
--1|-6|-1<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-514. #Monsterz (1010) 0<br>
-<br>
-<br>
-515. #SpicyStar~579 (1010) 0<br>
-<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-516. #spamo (1010) 0<br>
-<br>
-<br>
-517. #Zfenix (1010) 0<br>
-0<br>
-	6. bandy (0:2)<br>
-	7. lelofadel111 (0:3)<br>
-<br>
-518. #edgarWS (1010) 0<br>
-+2<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (0:1)<br>
-	10. croissant (0:1)<br>
-<br>
-519. #trospin (1010) 0<br>
-<br>
-	10. croissant (0:1)<br>
-<br>
-520. #InFeRNo-300 (1010) 0<br>
-+13|+2<br>
-	2. james--- (0:4)<br>
-	5. cocoadog (1:1)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (0:1)<br>
-	10. croissant (0:5)<br>
-<br>
-521. #BabyPunter (1010) 0<br>
-<br>
-	5. cocoadog (1:2)<br>
-<br>
-522. #Infectinator (1010) +5<br>
-<br>
-	2. james--- (0:2)<br>
-	3. holzabee86 (1:2)<br>
-	9. Seradun (0:1)<br>
-<br>
-523. #MeltedMetal~801 (1010) 0<br>
-<br>
-<br>
-524. #thund3rfrakk (1010) -2<br>
-+24|+19|+16|+5|-5<br>
-	1. SparkyPlane (0:6)<br>
-	2. james--- (2:7)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (1:4)<br>
-	7. lelofadel111 (1:1)<br>
-	8. phantomplan (0:1)<br>
-	9. Seradun (0:1)<br>
-	10. croissant (1:1)<br>
-<br>
-525. #IcasperI (1010) 0<br>
-<br>
-	3. holzabee86 (2:0)<br>
-	7. lelofadel111 (2:0)<br>
-<br>
-526. #kleptoc12 (1010) -1<br>
-<br>
-	10. croissant (0:3)<br>
-<br>
-527. #ieaturmumout (1010) 0<br>
-+9|+8|+5<br>
-	3. holzabee86 (0:1)<br>
-	6. bandy (0:1)<br>
-	10. croissant (0:1)<br>
-<br>
-528. #PokieChipS (1010) 0<br>
-<br>
-	2. james--- (1:0)<br>
-	3. holzabee86 (2:0)<br>
-	8. phantomplan (0:1)<br>
-<br>
-529. #jmac1 (1009) 0<br>
-<br>
-	10. croissant (0:1)<br>
-<br>
-530. #ZEROBASKAN (1009) 0<br>
-<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (0:1)<br>
-<br>
-531. #akihabara (1009) 0<br>
--6<br>
-	10. croissant (0:1)<br>
-<br>
-532. #daRt (1009) 0<br>
-<br>
-<br>
-533. #mk5rabbit (1009) 0<br>
-<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-534. #edwin327 (1009) 0<br>
-+17|+19|+30|+11|-2|-5<br>
-	3. holzabee86 (1:2)<br>
-	5. cocoadog (0:2)<br>
-<br>
-535. #b3t1 (1009) 0<br>
-<br>
-<br>
-536. #Scorpionrule (1009) 0<br>
-<br>
-	3. holzabee86 (0:1)<br>
-<br>
-537. #ToxicSand~730 (1009) 0<br>
-<br>
-	10. croissant (0:1)<br>
-<br>
-538. #jbperez808 (1009) 0<br>
-<br>
-<br>
-539. #Roundfox (1009) 0<br>
-<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-540. #essisheik (1009) 0<br>
-+5|+3<br>
-	3. holzabee86 (1:3)<br>
-	6. bandy (0:1)<br>
-<br>
-541. #TROYBAD (1009) +2<br>
--12|-10|-14|-9|0|+6|+9|+5|+2|-6<br>
-	1. SparkyPlane (5:14)<br>
-	2. james--- (10:53)<br>
-	5. cocoadog (17:75)<br>
-	6. bandy (1:26)<br>
-	7. lelofadel111 (47:118)<br>
-	8. phantomplan (0:5)<br>
-	9. Seradun (0:4)<br>
-	10. croissant (0:11)<br>
-<br>
-542. #zoomzip (1009) 0<br>
-<br>
-<br>
-543. #Zvistor (1009) 0<br>
-<br>
-	3. holzabee86 (0:4)<br>
-	7. lelofadel111 (1:1)<br>
-	9. Seradun (0:1)<br>
-	10. croissant (0:2)<br>
-<br>
-544. #alsayri (1009) 0<br>
-<br>
-<br>
-545. #factor12 (1009) 0<br>
+	2. SloppyTea~932 (1:1)<br>
+	3. MadDookie (0:1)<br>
+	4. Matthew0898 (6:3)<br>
+	6. Foxylocks12 (2:0)<br>
+	7. cocainedog (3:3)<br>
+	8. uranus-98 (7:6)<br>
+	9. WateryApple~232 (7:1)<br>
+	10. _Marik_ (0:1)<br>
+<br>
+23. #sjehsan (1027) 0<br>
++13|-3<br>
+	1. JazzyDeer (2:5)<br>
+	2. SloppyTea~932 (7:14)<br>
+	3. MadDookie (4:12)<br>
+	4. Matthew0898 (2:5)<br>
+	6. Foxylocks12 (0:2)<br>
+	7. cocainedog (6:8)<br>
+	8. uranus-98 (0:5)<br>
+<br>
+24. #BillyDanger (1027) 0<br>
 -4<br>
-	5. cocoadog (1:0)<br>
-	10. croissant (0:1)<br>
+	2. SloppyTea~932 (1:4)<br>
+	3. MadDookie (2:3)<br>
+	4. Matthew0898 (6:7)<br>
+	8. uranus-98 (2:2)<br>
+	9. WateryApple~232 (12:2)<br>
+	10. _Marik_ (2:1)<br>
 <br>
-546. #LEGETA (1008) 0<br>
+25. #WindyMit~547 (1025) 0<br>
++7|+2<br>
+	1. JazzyDeer (0:3)<br>
+	2. SloppyTea~932 (4:11)<br>
+	3. MadDookie (1:5)<br>
+	4. Matthew0898 (4:3)<br>
+	6. Foxylocks12 (1:0)<br>
+	7. cocainedog (1:4)<br>
+	8. uranus-98 (1:4)<br>
+	9. WateryApple~232 (3:1)<br>
+	10. _Marik_ (0:3)<br>
 <br>
+26. #A-n-u-b-i-s (1024) 0<br>
++14|+2<br>
+	2. SloppyTea~932 (18:28)<br>
+	3. MadDookie (5:7)<br>
+	4. Matthew0898 (27:26)<br>
+	7. cocainedog (3:6)<br>
+	8. uranus-98 (3:5)<br>
+	9. WateryApple~232 (5:2)<br>
+	10. _Marik_ (17:14)<br>
 <br>
-547. #halcy0n3 (1008) +1<br>
-+11<br>
-	1. SparkyPlane (0:3)<br>
-	2. james--- (1:0)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (0:4)<br>
-<br>
-548. #ModernTramp~403 (1008) 0<br>
-<br>
-<br>
-549. #BigTemper~185 (1008) 0<br>
-0<br>
-<br>
-550. #jacob041 (1008) 0<br>
-<br>
-	2. james--- (3:2)<br>
-	6. bandy (2:1)<br>
-<br>
-551. #Aeraeni (1008) 0<br>
-+15|+9|+1<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (1:5)<br>
-<br>
-552. #aadawg39 (1008) 0<br>
-<br>
-<br>
-553. #BorderPatro1 (1008) 0<br>
-0<br>
-	2. james--- (0:1)<br>
-	7. lelofadel111 (1:1)<br>
-<br>
-554. #dont.mess (1008) 0<br>
-<br>
-<br>
-555. #Dpurple (1008) 0<br>
-<br>
-	3. holzabee86 (0:1)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (0:2)<br>
-	7. lelofadel111 (2:3)<br>
-<br>
-556. #Korso1 (1008) 0<br>
-<br>
-<br>
-557. #RaggedTrain~583 (1008) 0<br>
-<br>
-	2. james--- (3:3)<br>
-	6. bandy (0:1)<br>
-<br>
-558. #Death-Bot (1008) 0<br>
-+9<br>
-	1. SparkyPlane (1:0)<br>
-<br>
-559. #GroggGrill (1008) 0<br>
-<br>
-<br>
-560. #MagicFox~931 (1008) 0<br>
-+22|+22|+4<br>
-	1. SparkyPlane (0:2)<br>
-<br>
-561. #Chomicekoo (1008) 0<br>
-<br>
-	2. james--- (0:1)<br>
-<br>
-562. #morelos1900 (1008) 0<br>
-<br>
-	6. bandy (1:1)<br>
-<br>
-563. #pennywise555 (1007) +7<br>
-+3<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (1:5)<br>
-<br>
-564. #Microsoft10S (1007) 0<br>
-<br>
-	2. james--- (0:1)<br>
-	6. bandy (1:0)<br>
-<br>
-565. #lanky074 (1007) 0<br>
-+8<br>
-	10. croissant (0:1)<br>
-<br>
-566. #proxywar (1007) 0<br>
-<br>
-<br>
-567. #Slashor (1007) 0<br>
-<br>
-<br>
-568. #hZaF (1007) 0<br>
-<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-569. #GentleSquas~623 (1007) -1<br>
+27. #Rawz (1022) 0<br>
 +10<br>
-	1. SparkyPlane (0:7)<br>
-	2. james--- (2:7)<br>
-	3. holzabee86 (0:1)<br>
-	8. phantomplan (0:1)<br>
-<br>
-570. #TLKS (1007) 0<br>
-<br>
-<br>
-571. #TidyFox-415 (1007) 0<br>
-<br>
-	3. holzabee86 (0:1)<br>
-<br>
-572. #JORGELORA (1007) 0<br>
-<br>
-<br>
-573. #JackGalaxy (1007) 0<br>
-+10|+4|+13|+13|+6<br>
-	9. Seradun (0:2)<br>
-	10. croissant (0:1)<br>
-<br>
-574. #diamondRing (1007) 0<br>
-<br>
-<br>
-575. #vlad_t10 (1007) +7<br>
-<br>
-<br>
-576. #xKookiex (1007) 0<br>
-+20|+17|+1|+7|+13|+14|+4|+3<br>
-	2. james--- (1:3)<br>
-	3. holzabee86 (0:1)<br>
-	4. ValveFury (0:1)<br>
-	6. bandy (0:2)<br>
-	7. lelofadel111 (2:7)<br>
-	8. phantomplan (0:2)<br>
-	10. croissant (1:1)<br>
-<br>
-577. #Mystiq (1007) +1<br>
-+6<br>
-	7. lelofadel111 (3:4)<br>
-<br>
-578. #SappyThief~380 (1007) 0<br>
-<br>
-	2. james--- (0:3)<br>
-	6. bandy (2:0)<br>
-<br>
-579. #gabucho (1007) 0<br>
-+14|+1|+7|+2<br>
-<br>
-580. #SkyEvil (1007) +1<br>
-<br>
-<br>
-581. #ranobeanski (1007) 0<br>
-<br>
-<br>
-582. #red_ripper (1006) 0<br>
-<br>
-	10. croissant (0:2)<br>
-<br>
-583. #Xoi (1006) 0<br>
-<br>
-	2. james--- (1:5)<br>
-	5. cocoadog (1:0)<br>
-	6. bandy (0:1)<br>
-<br>
-584. #MarsOne (1006) 0<br>
-<br>
-	8. phantomplan (0:1)<br>
-<br>
-585. #cyBerman2020 (1006) +1<br>
-<br>
-<br>
-586. #SouthSide (1006) +1<br>
-<br>
-<br>
-587. #oldgranny (1006) 0<br>
-<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (0:1)<br>
-	10. croissant (0:1)<br>
-<br>
-588. #eventhorzn65 (1006) 0<br>
--1<br>
-	2. james--- (2:3)<br>
-	6. bandy (2:6)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-589. #DelTaco (1006) 0<br>
-<br>
-<br>
-590. #CozyRaven~555 (1006) 0<br>
-<br>
-	2. james--- (1:0)<br>
-	6. bandy (1:2)<br>
-<br>
-591. #Grand~Admiral (1006) 0<br>
-<br>
-<br>
-592. #littleboom (1006) 0<br>
-<br>
-	6. bandy (4:1)<br>
-<br>
-593. #ScaryToast~157 (1006) 0<br>
-<br>
-	10. croissant (1:0)<br>
-<br>
-594. #Vieu (1006) 0<br>
-<br>
-<br>
-595. #SmAsH123 (1006) 0<br>
-<br>
-	2. james--- (1:3)<br>
-	5. cocoadog (0:1)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (1:3)<br>
-<br>
-596. #rerson26 (1006) 0<br>
-<br>
-<br>
-597. #shunrai (1006) 0<br>
-<br>
-<br>
-598. #Celica (1006) 0<br>
-<br>
-<br>
-599. #FierceBelug~603 (1006) 0<br>
-<br>
-<br>
-600. #FrOMinD (1006) 0<br>
-<br>
-<br>
-601. #badmonguesto (1006) -2<br>
-<br>
-<br>
-602. #UFGAndres (1006) 0<br>
-<br>
-<br>
-603. #LonelyMetal~358 (1006) 0<br>
-<br>
-	7. lelofadel111 (3:1)<br>
-<br>
-604. #gokuuu (1006) 0<br>
-0<br>
-	3. holzabee86 (0:2)<br>
-	7. lelofadel111 (0:3)<br>
-<br>
-605. #SilverDrago~884 (1006) 0<br>
-<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (0:1)<br>
-<br>
-606. #strawberry23 (1006) 0<br>
-<br>
-<br>
-607. #GhostPH (1006) 0<br>
-<br>
-<br>
-608. #Test~Bot (1005) 0<br>
-+3<br>
-<br>
-609. #WackyHopper~776 (1005) 0<br>
-<br>
-	6. bandy (1:1)<br>
-<br>
-610. #Hulk814 (1005) 0<br>
-<br>
-<br>
-611. #bgo37 (1005) 0<br>
-<br>
-	2. james--- (1:0)<br>
-<br>
-612. #floorwiper (1005) 0<br>
-<br>
-<br>
-613. #ron77 (1005) 0<br>
-<br>
-	6. bandy (1:1)<br>
-<br>
-614. #Thor. (1005) 0<br>
-<br>
-	3. holzabee86 (0:2)<br>
-	6. bandy (1:0)<br>
-<br>
-615. #paaldanzen (1005) 0<br>
-0<br>
-	3. holzabee86 (0:3)<br>
-<br>
-616. #moses81 (1005) 0<br>
-<br>
-<br>
-617. #Prexi (1005) 0<br>
-<br>
-<br>
-618. #waffle3z (1005) 0<br>
-<br>
-<br>
-619. #Poppop908070 (1005) 0<br>
-<br>
-	7. lelofadel111 (0:1)<br>
-	9. Seradun (2:7)<br>
-<br>
-620. #jajahaha (1005) 0<br>
--1<br>
-	6. bandy (0:2)<br>
-<br>
-621. #AmusedSheet~789 (1005) 0<br>
-<br>
-<br>
-622. #Spoon_ (1005) 0<br>
-<br>
-	6. bandy (2:2)<br>
-<br>
-623. #CalmFire~364 (1005) 0<br>
-<br>
-<br>
-624. #Invisible5 (1005) 0<br>
--2<br>
-	3. holzabee86 (1:2)<br>
-<br>
-625. #wisesauce (1005) 0<br>
-+5<br>
-	3. holzabee86 (1:0)<br>
-	6. bandy (0:1)<br>
-	10. croissant (1:0)<br>
-<br>
-626. #Killer~Waffle (1005) 0<br>
-<br>
-<br>
-627. #hydra0602 (1005) 0<br>
-+9<br>
-	6. bandy (1:1)<br>
-<br>
-628. #CoolFaucet~518 (1005) 0<br>
-<br>
-<br>
-629. #Scribblz (1005) -2<br>
-<br>
-	2. james--- (1:0)<br>
-	6. bandy (0:2)<br>
-<br>
-630. #P.O.T.O (1005) 0<br>
-<br>
-<br>
-631. #joropo808 (1005) 0<br>
-<br>
-<br>
-632. #ShySpade~409 (1005) 0<br>
-<br>
-<br>
-633. #WindyWind~465 (1005) 0<br>
-<br>
-	2. james--- (0:1)<br>
-	7. lelofadel111 (0:2)<br>
-	8. phantomplan (0:2)<br>
-<br>
-634. #MusicHunter (1005) 0<br>
-<br>
-<br>
-635. #JoeDumps (1005) 0<br>
-<br>
-	10. croissant (0:1)<br>
-<br>
-636. #SNAPPY7 (1005) 0<br>
-<br>
-	7. lelofadel111 (2:0)<br>
-<br>
-637. #NeonCactus (1005) 0<br>
-<br>
-<br>
-638. #MarbleFlute~229 (1005) 0<br>
-+12|+2<br>
-<br>
-639. #Mean~Machine (1005) 0<br>
-<br>
-<br>
-640. #sacyrex (1005) 0<br>
-<br>
-<br>
-641. #MushyRam~673 (1004) 0<br>
-<br>
-<br>
-642. #RoniBadoni (1004) 0<br>
-<br>
-<br>
-643. #triplagoccia (1004) 0<br>
-<br>
-<br>
-644. #malquee (1004) 0<br>
-<br>
-	2. james--- (0:1)<br>
-	6. bandy (1:0)<br>
-<br>
-645. #Gervi (1004) 0<br>
-<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-646. #Azzi (1004) 0<br>
-<br>
-<br>
-647. #Baj (1004) 0<br>
-<br>
-	2. james--- (1:6)<br>
-	5. cocoadog (2:3)<br>
-	6. bandy (0:1)<br>
-<br>
-648. #Philipro (1004) 0<br>
-<br>
-<br>
-649. #Veraflay (1004) 0<br>
-<br>
-<br>
-650. #OpTart31 (1004) +4<br>
-<br>
-<br>
-651. #Artimis (1004) 0<br>
-<br>
-<br>
-652. #logic1 (1004) 0<br>
-<br>
-<br>
-653. #LavishCar~488 (1004) 0<br>
-<br>
-<br>
-654. #AcidSand~254 (1004) 0<br>
-<br>
-<br>
-655. #Tunnel~Bot (1004) 0<br>
-<br>
-<br>
-656. #despiteryan (1004) 0<br>
-<br>
-	6. bandy (1:0)<br>
-<br>
-657. #Liomon11 (1004) 0<br>
-<br>
-<br>
-658. #TylerDurden (1004) 0<br>
-<br>
-<br>
-659. #jolleyroger (1004) 0<br>
-<br>
-<br>
-660. #SIR-SHREDZ (1004) 0<br>
-0<br>
-	6. bandy (2:2)<br>
-<br>
-661. #AngelicGirl (1004) 0<br>
-<br>
-<br>
-662. #DustySong~261 (1004) 0<br>
-<br>
-<br>
-663. #JumpcatKick1 (1004) 0<br>
-<br>
-	10. croissant (0:1)<br>
-<br>
-664. #Reacon11 (1004) 0<br>
-<br>
-	2. james--- (0:1)<br>
-	6. bandy (2:0)<br>
-<br>
-665. #lilbear (1004) -1<br>
-0<br>
-	2. james--- (0:1)<br>
-	3. holzabee86 (0:7)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (0:1)<br>
-	8. phantomplan (0:7)<br>
-	10. croissant (0:2)<br>
-<br>
-666. #AcidTurkey~417 (1004) 0<br>
-<br>
-<br>
-667. #Usurpian (1004) 0<br>
-<br>
-<br>
-668. #varux (1004) -2<br>
-<br>
-	3. holzabee86 (0:1)<br>
-	7. lelofadel111 (0:1)<br>
-	9. Seradun (1:2)<br>
-<br>
-669. #DuckHunt (1004) 0<br>
-<br>
-	1. SparkyPlane (1:1)<br>
-<br>
-670. #oii (1004) 0<br>
-<br>
-<br>
-671. #RuBo (1004) 0<br>
-<br>
-	7. lelofadel111 (0:1)<br>
-	10. croissant (0:2)<br>
-<br>
-672. #Winschiaaad (1004) 0<br>
-<br>
-<br>
-673. #K.D. (1004) 0<br>
-<br>
-<br>
-674. #ToxicOyster~686 (1004) 0<br>
-<br>
-<br>
-675. #CHROMA99 (1004) +16<br>
-<br>
-<br>
-676. #necare1000 (1004) 0<br>
-<br>
-	2. james--- (0:1)<br>
-	6. bandy (0:1)<br>
-<br>
-677. #VIPHEAVYRAIN (1004) 0<br>
-<br>
-	3. holzabee86 (2:0)<br>
-<br>
-678. #winiterenova (1004) +2<br>
-<br>
-	5. cocoadog (1:6)<br>
-	6. bandy (0:5)<br>
-<br>
-679. #ajoiner124 (1004) 0<br>
-<br>
-	2. james--- (0:3)<br>
-	3. holzabee86 (0:1)<br>
-	5. cocoadog (0:2)<br>
-	8. phantomplan (0:2)<br>
-<br>
-680. #jpwilliams32 (1004) 0<br>
-<br>
-<br>
-681. #ToxicJoke~122 (1004) 0<br>
-<br>
-	7. lelofadel111 (1:3)<br>
-<br>
-682. #Crymnatic (1004) 0<br>
-<br>
-<br>
-683. #CJMB1023 (1004) 0<br>
-<br>
-<br>
-684. #GreatSheet~327 (1004) 0<br>
-<br>
-	10. croissant (0:1)<br>
-<br>
-685. #dimbeni (1004) 0<br>
-<br>
-	1. SparkyPlane (0:1)<br>
-<br>
-686. #gaa (1004) 0<br>
-<br>
-<br>
-687. #jkoy3.2 (1004) 0<br>
-<br>
-<br>
-688. #HollowBeast~511 (1004) 0<br>
-<br>
-<br>
-689. #Iceatonic (1004) 0<br>
-<br>
-	6. bandy (2:1)<br>
-<br>
-690. #SweetHammer~892 (1003) 0<br>
-<br>
-	5. cocoadog (2:8)<br>
-<br>
-691. #twiztidsgt99 (1003) 0<br>
-<br>
-<br>
-692. #nil (1003) 0<br>
-+8|+12|+12<br>
-	2. james--- (1:4)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (6:2)<br>
-<br>
-693. #horrorX (1003) 0<br>
--1<br>
-	1. SparkyPlane (1:0)<br>
-<br>
-694. #bryanbb (1003) +1<br>
-<br>
-	6. bandy (1:0)<br>
-<br>
-695. #WickedFlame~953 (1003) 0<br>
-+8|+8<br>
-	1. SparkyPlane (0:3)<br>
-	5. cocoadog (1:0)<br>
-	6. bandy (1:1)<br>
-	7. lelofadel111 (0:3)<br>
-<br>
-696. #GreasyStar~421 (1003) 0<br>
-<br>
-<br>
-697. #LtaleEZ (1003) +1<br>
-0<br>
-	5. cocoadog (1:0)<br>
-<br>
-698. #thorack (1003) 0<br>
-<br>
-<br>
-699. #MarbleIslan~914 (1003) 0<br>
-<br>
-<br>
-700. #talos16 (1003) 0<br>
-<br>
-<br>
-701. #ErwinSmith (1003) 0<br>
-<br>
-<br>
-702. #TrickyWater~855 (1003) 0<br>
-<br>
-	5. cocoadog (2:1)<br>
-<br>
-703. #Ninjaws21 (1003) +3<br>
-<br>
-	10. croissant (1:5)<br>
-<br>
-704. #sentinelthym (1003) 0<br>
-<br>
-<br>
-705. #mitaka16 (1003) 0<br>
-<br>
-<br>
-706. #nezo333 (1003) 0<br>
-<br>
-	5. cocoadog (0:2)<br>
-	8. phantomplan (0:1)<br>
-<br>
-707. #koolgamer8 (1003) 0<br>
-<br>
-	5. cocoadog (0:1)<br>
-<br>
-708. #fac0315 (1003) 0<br>
-<br>
-<br>
-709. #RAGnChicken (1003) 0<br>
-<br>
-<br>
-710. #Kantik (1003) 0<br>
-<br>
-<br>
-711. #sltan1995 (1003) +3<br>
-<br>
-	2. james--- (1:0)<br>
-	9. Seradun (1:1)<br>
-<br>
-712. #bernieandert (1003) 0<br>
-<br>
-	6. bandy (3:5)<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-713. #FadedCrayon~928 (1003) 0<br>
-<br>
-	1. SparkyPlane (1:0)<br>
-<br>
-714. #ProAssaulter (1003) 0<br>
-+5|+2|+10<br>
-	3. holzabee86 (3:15)<br>
-	7. lelofadel111 (1:0)<br>
-	8. phantomplan (1:0)<br>
-	9. Seradun (1:1)<br>
-	10. croissant (1:4)<br>
-<br>
-715. #QuirkyToad~911 (1003) 0<br>
-<br>
-	6. bandy (1:1)<br>
-<br>
-716. #Alduin1600 (1003) 0<br>
-<br>
-<br>
-717. #Joe_Shome123 (1003) 0<br>
-<br>
-<br>
-718. #Little_Deve (1003) 0<br>
-<br>
-<br>
-719. #Tiger_Kingz (1003) 0<br>
-<br>
-	6. bandy (2:1)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-720. #zeezeee (1003) 0<br>
-<br>
-<br>
-721. #AdiV413 (1003) 0<br>
-<br>
-<br>
-722. #WiseElbow~417 (1003) 0<br>
-<br>
-	1. SparkyPlane (0:1)<br>
-<br>
-723. #crazy-711 (1003) 0<br>
-+2<br>
-	3. holzabee86 (1:2)<br>
-	5. cocoadog (0:1)<br>
-	10. croissant (1:1)<br>
-<br>
-724. #Brotstangen (1003) 0<br>
-<br>
-<br>
-725. #HotTable~398 (1003) 0<br>
-<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-726. #jq259 (1003) 0<br>
-<br>
-	5. cocoadog (1:0)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-727. #alizzze (1003) 0<br>
-+5<br>
-<br>
-728. #smallpine02 (1003) 0<br>
-<br>
-<br>
-729. #dcf981 (1002) 0<br>
-<br>
-<br>
-730. #WeeWillies (1002) 0<br>
-<br>
-	1. SparkyPlane (1:1)<br>
-<br>
-731. #Human~Being (1002) 0<br>
-<br>
-<br>
-732. #no.yes (1002) 0<br>
-<br>
-<br>
-733. #copito (1002) +1<br>
-<br>
-<br>
-734. #TallWater~574 (1002) 0<br>
-<br>
-<br>
-735. #the-jk (1002) 0<br>
-<br>
-<br>
-736. #Bcsfirst3 (1002) 0<br>
-+7|+15|+9|+1|+3|+3<br>
-	2. james--- (0:2)<br>
-	6. bandy (0:1)<br>
-	10. croissant (0:1)<br>
-<br>
-737. #TinyMask~890 (1002) 0<br>
-<br>
-<br>
-738. #turkeytower (1002) 0<br>
-<br>
-<br>
-739. #ballbags79 (1002) +2<br>
-<br>
-<br>
-740. #emoji.Com (1002) 0<br>
-<br>
-<br>
-741. #Rogal200 (1002) 0<br>
-<br>
-	2. james--- (0:1)<br>
-<br>
-742. #GrandCookie~488 (1002) 0<br>
-<br>
-<br>
-743. #CheapTail~719 (1002) 0<br>
-<br>
-<br>
-744. #FadedAurora~592 (1002) 0<br>
-<br>
-<br>
-745. #Victim13 (1002) 0<br>
-<br>
-<br>
-746. #EagerElbow~894 (1002) 0<br>
-<br>
-	5. cocoadog (0:1)<br>
-<br>
-747. #Bi~Polar (1002) 0<br>
-<br>
-<br>
-748. #Optopska (1002) 0<br>
-<br>
-<br>
-749. #CrustySleet~310 (1002) 0<br>
-<br>
-<br>
-750. #FlyingJoke~546 (1002) 0<br>
-<br>
-<br>
-751. #Gallanda (1002) 0<br>
-<br>
-<br>
-752. #Leotomcosta (1002) 0<br>
-<br>
-<br>
-753. #Standanek (1002) 0<br>
-<br>
-<br>
-754. #SriiB (1002) -1<br>
-<br>
-<br>
-755. #GabbyRibbon~898 (1002) 0<br>
-<br>
-<br>
-756. #VioletMoon~986 (1002) 0<br>
-<br>
-<br>
-757. #Squiggly~Line (1002) 0<br>
-<br>
-<br>
-758. #TheChief1137 (1002) 0<br>
-<br>
-<br>
-759. #miniii (1002) 0<br>
-<br>
-	5. cocoadog (1:1)<br>
-	7. lelofadel111 (0:7)<br>
-<br>
-760. #anes (1002) 0<br>
-<br>
-	9. Seradun (1:0)<br>
-<br>
-761. #demonica0962 (1002) +3<br>
-+5<br>
-<br>
-762. #Majed205 (1002) 0<br>
-+6|-8|-1<br>
-	2. james--- (0:2)<br>
-<br>
-763. #klumpy (1002) -1<br>
-<br>
-	3. holzabee86 (0:3)<br>
-	10. croissant (0:1)<br>
-<br>
-764. #Dreadnaughty (1002) 0<br>
-0<br>
-<br>
-765. #LeanAurora~422 (1002) 0<br>
-<br>
-	9. Seradun (0:5)<br>
-<br>
-766. #StormyRibbo~396 (1002) +1<br>
-<br>
-<br>
-767. #lovestern (1002) 0<br>
-<br>
-<br>
-768. #KeenOwl~296 (1002) 0<br>
-<br>
-	8. phantomplan (0:2)<br>
-	10. croissant (0:1)<br>
-<br>
-769. #artpleating (1002) 0<br>
-<br>
-<br>
-770. #ChubbyBox~283 (1002) 0<br>
-<br>
-	7. lelofadel111 (1:1)<br>
-<br>
-771. #ding2866199 (1002) 0<br>
-<br>
-<br>
-772. #LuckNL (1002) 0<br>
-<br>
-<br>
-773. #IWinways (1002) 0<br>
-<br>
-<br>
-774. #rafa1 (1002) 0<br>
-<br>
-<br>
-775. #terrorer2000 (1002) 0<br>
-<br>
-<br>
-776. #josuma (1002) 0<br>
-<br>
-<br>
-777. #white_andrei (1002) 0<br>
-<br>
-<br>
-778. #VioletFork~134 (1002) 0<br>
-<br>
-<br>
-779. #dmwestsida (1002) 0<br>
-<br>
-<br>
-780. #turboflapper (1002) 0<br>
-<br>
-<br>
-781. #tt.rr.tt (1002) 0<br>
-<br>
-<br>
-782. #HeroTV100 (1002) 0<br>
-<br>
-<br>
-783. #GlobalSoda~999 (1002) +1<br>
-<br>
-<br>
-784. #ChunkyTurke~825 (1002) 0<br>
-<br>
-<br>
-785. #reddeer (1001) 0<br>
-<br>
-	2. james--- (1:1)<br>
-	5. cocoadog (1:1)<br>
-	8. phantomplan (1:0)<br>
-<br>
-786. #LonelyFork~911 (1001) 0<br>
-<br>
-	6. bandy (0:1)<br>
-<br>
-787. #Galcon27 (1001) 0<br>
-<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-788. #FingerKing (1001) 0<br>
-<br>
-	2. james--- (0:12)<br>
-	3. holzabee86 (1:11)<br>
-	6. bandy (0:1)<br>
-<br>
-789. #FreeMaple~258 (1001) 0<br>
-<br>
-<br>
-790. #bejut (1001) 0<br>
-<br>
-<br>
-791. #MarbleMango~469 (1001) 0<br>
--1<br>
-	1. SparkyPlane (1:0)<br>
-	6. bandy (1:1)<br>
-	8. phantomplan (0:1)<br>
-<br>
-792. #F-USA (1001) 0<br>
-<br>
-<br>
-793. #Vader501st (1001) 0<br>
-<br>
-	6. bandy (0:2)<br>
-<br>
-794. #TrickyVest~520 (1001) 0<br>
-<br>
-<br>
-795. #danbaum (1001) 0<br>
--2<br>
-	5. cocoadog (0:1)<br>
-	10. croissant (1:1)<br>
-<br>
-796. #OvalFlame~451 (1001) 0<br>
-<br>
-<br>
-797. #ZippyWater~766 (1001) 0<br>
-<br>
-<br>
-798. #obeyedlegend (1001) 0<br>
-<br>
-	9. Seradun (0:1)<br>
-	10. croissant (0:1)<br>
-<br>
-799. #TinyRick (1001) +1<br>
-<br>
-<br>
-800. #kekeroo (1001) +6<br>
-<br>
-<br>
-801. #AcidYak~876 (1001) 0<br>
-<br>
-<br>
-802. #phichi (1001) 0<br>
-<br>
-	1. SparkyPlane (0:2)<br>
-<br>
-803. #ZincMango~500 (1001) 0<br>
-<br>
-<br>
-804. #CerberosHunt (1001) 0<br>
-<br>
-<br>
-805. #Redman5911 (1001) 0<br>
-<br>
-	3. holzabee86 (2:5)<br>
-<br>
-806. #Chassadom (1001) 0<br>
-<br>
-<br>
-807. #ABM7 (1001) 0<br>
-<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-808. #InfamousPig (1001) 0<br>
-<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-809. #BadHawk (1001) 0<br>
-<br>
-<br>
-810. #bolbol770 (1001) +1<br>
-<br>
-	7. lelofadel111 (1:2)<br>
-<br>
-811. #Nova_1 (1001) 0<br>
-<br>
-<br>
-812. #Python12 (1001) 0<br>
-<br>
-<br>
-813. #SoggyPony~909 (1001) 0<br>
-<br>
-<br>
-814. #Clayworks (1001) 0<br>
-<br>
-<br>
-815. #MeltedDrain~140 (1001) 0<br>
-<br>
-<br>
-816. #Zachpickle (1001) 0<br>
-<br>
-<br>
-817. #Riwan (1001) 0<br>
-<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-818. #Bazror (1001) 0<br>
-<br>
-<br>
-819. #PurplePossu~850 (1001) 0<br>
-<br>
-<br>
-820. #TinyRam_777 (1001) 0<br>
-<br>
-	5. cocoadog (1:1)<br>
-<br>
-821. #Inflikted (1001) 0<br>
-<br>
-<br>
-822. #ABOAL7OS (1001) 0<br>
-<br>
-<br>
-823. #DaCAP (1001) 0<br>
-<br>
-<br>
-824. #Fire_LoL (1001) -4<br>
-<br>
-<br>
-825. #TheGoodBoy (1001) 0<br>
-<br>
-	5. cocoadog (0:3)<br>
-	7. lelofadel111 (0:3)<br>
-	9. Seradun (1:4)<br>
-<br>
-826. #ToKura (1001) 0<br>
-<br>
-	5. cocoadog (1:0)<br>
-	6. bandy (1:1)<br>
-	10. croissant (1:0)<br>
-<br>
-827. #GreedyBaske~997 (1001) 0<br>
-<br>
-<br>
-828. #MiguelName (1001) 0<br>
-<br>
-<br>
-829. #Dravor (1001) 0<br>
-<br>
-<br>
-830. #TOXICMONKEY (1001) 0<br>
-<br>
-<br>
-831. #JackCube (1001) 0<br>
-<br>
-<br>
-832. #Arkeius (1001) 0<br>
-<br>
-	6. bandy (1:1)<br>
-<br>
-833. #ELMOMO (1001) 0<br>
-<br>
-	1. SparkyPlane (1:7)<br>
-<br>
-834. #GambleBr (1001) 0<br>
-<br>
-	10. croissant (0:1)<br>
-<br>
-835. #darkest (1001) 0<br>
-<br>
-<br>
-836. #Tempest7 (1001) 0<br>
-<br>
-<br>
-837. #ElitePear~457 (1001) 0<br>
-<br>
-	7. lelofadel111 (1:3)<br>
-<br>
-838. #GroggyEagle~585 (1001) 0<br>
-<br>
-<br>
-839. #im_a_goat (1001) 0<br>
-<br>
-<br>
-840. #ExoticTiger~562 (1001) 0<br>
-<br>
-<br>
-841. #Tipic (1001) 0<br>
-<br>
-<br>
-842. #Schalke04 (1001) 0<br>
-<br>
-<br>
-843. #WickedEdge~364 (1001) 0<br>
-<br>
-<br>
-844. #Number1Noob (1001) 0<br>
-+1<br>
-	6. bandy (1:3)<br>
-	7. lelofadel111 (1:1)<br>
-	10. croissant (1:1)<br>
-<br>
-845. #Space-1296 (1001) 0<br>
-0<br>
-	2. james--- (1:0)<br>
-	5. cocoadog (0:2)<br>
-	6. bandy (1:1)<br>
-	7. lelofadel111 (0:3)<br>
-<br>
-846. #RapidSoda~593 (1001) 0<br>
-<br>
-<br>
-847. #Firedragon05 (1001) 0<br>
-<br>
-<br>
-848. #NiftyBean~912 (1001) 0<br>
-<br>
-<br>
-849. #GroovyWasp~463 (1001) 0<br>
-<br>
-<br>
-850. #tir-fixe (1001) 0<br>
-<br>
-<br>
-851. #nibbles. (1001) 0<br>
-<br>
-	7. lelofadel111 (1:2)<br>
-<br>
-852. #Tommygunns87 (1000) 0<br>
-<br>
-<br>
-853. #EagerApple~304 (1000) 0<br>
-<br>
-<br>
-854. #Edu_Teixeira (1000) 0<br>
+	1. JazzyDeer (0:1)<br>
+	2. SloppyTea~932 (4:3)<br>
+	3. MadDookie (4:0)<br>
+	4. Matthew0898 (13:3)<br>
+	7. cocainedog (0:1)<br>
+	8. uranus-98 (1:2)<br>
+	9. WateryApple~232 (5:4)<br>
+	10. _Marik_ (5:2)<br>
+<br>
+28. #AnkleBreaker (1021) 0<br>
++7<br>
+	1. JazzyDeer (2:3)<br>
+	2. SloppyTea~932 (3:8)<br>
+	3. MadDookie (4:6)<br>
+	4. Matthew0898 (2:2)<br>
+	5. PRZEPRASZAM (0:1)<br>
+	6. Foxylocks12 (0:3)<br>
+	7. cocainedog (1:0)<br>
+	8. uranus-98 (0:2)<br>
+	9. WateryApple~232 (5:3)<br>
+<br>
+29. #PaMMiii (1020) 0<br>
 -3<br>
-	3. holzabee86 (0:2)<br>
-	6. bandy (0:1)<br>
-	8. phantomplan (1:2)<br>
-<br>
-855. #supersonik53 (1000) 0<br>
-<br>
-	5. cocoadog (0:4)<br>
-	10. croissant (0:1)<br>
-<br>
-856. #mamma83 (1000) 0<br>
-<br>
-<br>
-857. #JuicyCar~197 (1000) 0<br>
-<br>
-	9. Seradun (0:1)<br>
-<br>
-858. #ZincBoat~290 (1000) +1<br>
-+9|+12|+13|+10|+10|+5|-1<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (1:8)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-859. #SaucyBeast~352 (1000) 0<br>
-<br>
-<br>
-860. #fouadddddddd (1000) -2<br>
-<br>
-<br>
-861. #baby_ace (1000) 0<br>
-+11|+21|+27|+20|+26|+28|+18|+16|+8|-2<br>
-	1. SparkyPlane (0:2)<br>
-	2. james--- (0:1)<br>
-	3. holzabee86 (1:9)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (0:6)<br>
-	8. phantomplan (0:1)<br>
-	10. croissant (0:3)<br>
-<br>
-862. #SadTapir~361 (1000) 0<br>
-<br>
-<br>
-863. #Gungala (1000) 0<br>
-<br>
-	2. james--- (0:1)<br>
-<br>
-864. #HungrySoup~879 (1000) 0<br>
-<br>
-<br>
-865. #flavio_1999 (1000) 0<br>
-<br>
-<br>
-866. #Panic~Attack (1000) 0<br>
-0<br>
-<br>
-867. #darkscopes (1000) 0<br>
-<br>
-<br>
-868. #Jester26 (1000) 0<br>
-<br>
-	10. croissant (0:1)<br>
-<br>
-869. #jayyna (1000) 0<br>
-<br>
-	10. croissant (0:3)<br>
-<br>
-870. #KrystalKing (1000) -1<br>
-<br>
-	3. holzabee86 (0:1)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-871. #SCOOBYDOOBY (1000) -1<br>
-<br>
-<br>
-872. #Fruitfox (1000) 0<br>
--57|-62|-24<br>
-<br>
-873. #Rizwan26 (1000) 0<br>
-<br>
-	1. SparkyPlane (0:2)<br>
-<br>
-874. #thunder35 (1000) 0<br>
-<br>
-	2. james--- (0:1)<br>
-<br>
-875. #I.. (1000) 0<br>
-<br>
-	10. croissant (0:1)<br>
-<br>
-876. #jweavs11 (1000) 0<br>
-<br>
-	6. bandy (0:1)<br>
-<br>
-877. #HardySpot~636 (1000) 0<br>
-<br>
-<br>
-878. #SaltyGlider~544 (1000) 0<br>
-<br>
-<br>
-879. #TallChurn~799 (1000) 0<br>
-<br>
-<br>
-880. #kinezumisan (1000) 0<br>
-<br>
-<br>
-881. #WateryPossu~813 (1000) -3<br>
-<br>
-<br>
-882. #ShyIsland~270 (1000) 0<br>
-<br>
-<br>
-883. #jessica44026 (1000) 0<br>
-<br>
-<br>
-884. #GlobalSound~736 (1000) 0<br>
-<br>
-<br>
-885. #Nopp (1000) 0<br>
-<br>
-<br>
-886. #Kirvis (1000) 0<br>
-<br>
-<br>
-887. #BadButter~266 (1000) 0<br>
-<br>
-<br>
-888. #ashmatash18 (1000) 0<br>
-<br>
-<br>
-889. #PuffyBread~392 (1000) 0<br>
-<br>
-<br>
-890. #MusicFreak (1000) 0<br>
-<br>
-<br>
-891. #KaaKi17 (1000) 0<br>
-<br>
-	10. croissant (0:1)<br>
-<br>
-892. #iamOken (1000) 0<br>
-<br>
-<br>
-893. #BrownSponge~517 (1000) 0<br>
-<br>
-<br>
-894. #donmon1324 (1000) 0<br>
-<br>
-<br>
-895. #ripefang299 (1000) 0<br>
-<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-896. #SlimChimp~925 (1000) 0<br>
-<br>
-<br>
-897. #IDontCarry (1000) 0<br>
-<br>
-<br>
-898. #p3ng1 (1000) 0<br>
-<br>
-	1. SparkyPlane (0:3)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (0:1)<br>
-<br>
-899. #milohajj (1000) 0<br>
-<br>
-	7. lelofadel111 (0:2)<br>
-	9. Seradun (0:2)<br>
-	10. croissant (0:1)<br>
-<br>
-900. #Anti~Neutral (1000) 0<br>
-<br>
-<br>
-901. #RoyalCheese~568 (1000) 0<br>
-<br>
-<br>
-902. #gordo3002 (1000) 0<br>
-<br>
-	4. ValveFury (0:1)<br>
-<br>
-903. #maxgym0 (1000) 0<br>
-<br>
-<br>
-904. #SaucyBlur~328 (1000) 0<br>
-<br>
-	1. SparkyPlane (1:1)<br>
-<br>
-905. #GrayMonkey~960 (1000) 0<br>
-<br>
-<br>
-906. #hsynbrd (1000) 0<br>
-<br>
-	5. cocoadog (0:4)<br>
-	6. bandy (0:1)<br>
-<br>
-907. #hulan (1000) 0<br>
--1<br>
-<br>
-908. #ice-cold11 (1000) +2<br>
-<br>
-<br>
-909. #BlueKazoo~567 (1000) 0<br>
-<br>
-<br>
-910. #HeavyMonkey~767 (1000) 0<br>
-<br>
-<br>
-911. #Legax (1000) 0<br>
-<br>
-	1. SparkyPlane (0:2)<br>
-<br>
-912. #OvalFlame (1000) 0<br>
-<br>
-	2. james--- (0:1)<br>
-	3. holzabee86 (0:2)<br>
-	5. cocoadog (3:16)<br>
-	9. Seradun (0:3)<br>
-	10. croissant (0:1)<br>
-<br>
-913. #ShaggyLeaf~637 (1000) 0<br>
-<br>
-<br>
-914. #ChillyYam~835 (1000) 0<br>
-<br>
-<br>
-915. #SaucyOrbit~689 (1000) 0<br>
-<br>
-	2. james--- (1:5)<br>
-<br>
-916. #ruhla55 (1000) 0<br>
-<br>
-<br>
-917. #GladiatorX (1000) 0<br>
-<br>
-	1. SparkyPlane (1:8)<br>
-	5. cocoadog (1:0)<br>
-<br>
-918. #holaqueasexd (1000) 0<br>
-<br>
-	9. Seradun (0:1)<br>
-	10. croissant (0:2)<br>
-<br>
-919. #vaes85 (1000) 0<br>
-<br>
-	5. cocoadog (1:2)<br>
-<br>
-920. #GlitchMaster (1000) 0<br>
-<br>
-<br>
-921. #lodgie (1000) 0<br>
-<br>
-	5. cocoadog (0:1)<br>
-<br>
-922. #penslicker6 (1000) 0<br>
-<br>
-	5. cocoadog (0:1)<br>
-<br>
-923. #len70 (999) 0<br>
-<br>
-	4. ValveFury (0:1)<br>
-<br>
-924. #Wumbolino (999) +1<br>
-<br>
-<br>
-925. #Benjamin_03 (999) 0<br>
-<br>
-<br>
-926. #marky112 (999) 0<br>
-<br>
-<br>
-927. #IsaacCHS (999) 0<br>
-<br>
-<br>
-928. #UmberAnt~445 (999) 0<br>
-<br>
-<br>
-929. #FurryToad~219 (999) 0<br>
-<br>
-<br>
-930. #J_Dawg99 (999) +1<br>
-<br>
-	6. bandy (0:1)<br>
-<br>
-931. #tommy-ililov (999) 0<br>
-<br>
-	6. bandy (0:2)<br>
-<br>
-932. #CurlyFlower~515 (999) 0<br>
-<br>
-<br>
-933. #Nightfall517 (999) 0<br>
-<br>
-<br>
-934. #ahmad1266 (999) 0<br>
-<br>
-	3. holzabee86 (0:3)<br>
-<br>
-935. #SpookyHand~407 (999) 0<br>
-<br>
-<br>
-936. #BurlyWater~478 (999) 0<br>
-<br>
-	2. james--- (0:1)<br>
-<br>
-937. #HazyStrike~280 (999) -1<br>
-<br>
-<br>
-938. #feigwarze (999) 0<br>
-<br>
-<br>
-939. #vidi (999) 0<br>
-<br>
-<br>
-940. #MvDDoG (999) 0<br>
-<br>
-	6. bandy (1:1)<br>
-<br>
-941. #killerdude69 (999) 0<br>
-<br>
-<br>
-942. #SolidCat (999) 0<br>
-<br>
-	1. SparkyPlane (0:1)<br>
-<br>
-943. #ericashkills (999) 0<br>
-<br>
-	2. james--- (0:1)<br>
-<br>
-944. #GabbyCelery~575 (999) 0<br>
-<br>
-<br>
-945. #alainboyka (999) 0<br>
-<br>
-	8. phantomplan (0:2)<br>
-<br>
-946. #WackyMaple~675 (999) 0<br>
-<br>
-<br>
-947. #digdog22 (999) 0<br>
-<br>
-	1. SparkyPlane (1:2)<br>
-<br>
-948. #Gasp69 (999) 0<br>
-<br>
-<br>
-949. #Bell_VIP (999) 0<br>
-<br>
-	3. holzabee86 (0:4)<br>
-<br>
-950. #Meteorit (999) 0<br>
-<br>
-<br>
-951. #kyle_eth98 (999) 0<br>
-<br>
-<br>
-952. #glack (999) 0<br>
-<br>
-	1. SparkyPlane (1:3)<br>
-<br>
-953. #MushyRice~555 (999) -1<br>
-<br>
-	9. Seradun (0:1)<br>
-<br>
-954. #EmperorBenja (999) 0<br>
-<br>
-<br>
-955. #DarkDoor~408 (999) 0<br>
-<br>
-<br>
-956. #Cpt_Archer (999) 0<br>
-<br>
-<br>
-957. #turubagu (999) 0<br>
-<br>
-<br>
-958. #szymunek (999) 0<br>
-<br>
-	1. SparkyPlane (0:3)<br>
-<br>
-959. #garfield2003 (999) 0<br>
-<br>
-<br>
-960. #IIZoBrosII (999) 0<br>
-<br>
-<br>
-961. #Jammin218 (999) 0<br>
-<br>
-<br>
-962. #ululabsor (999) 0<br>
-<br>
-<br>
-963. #pietka (999) 0<br>
-<br>
-<br>
-964. #Shotdown007 (999) 0<br>
-<br>
-<br>
-965. #jake8440 (999) 0<br>
-<br>
-	5. cocoadog (0:3)<br>
-	6. bandy (0:3)<br>
-<br>
-966. #darkerz777 (999) 0<br>
-<br>
-<br>
-967. #Jerry27 (999) 0<br>
-<br>
-<br>
-968. #inco (999) +1<br>
--14|-2<br>
-	3. holzabee86 (1:0)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-969. #SparkyClove~544 (999) 0<br>
-<br>
-<br>
-970. #GrandCarrot~927 (999) 0<br>
-<br>
-<br>
-971. #Dessertfox64 (999) 0<br>
-<br>
-<br>
-972. #SubSc0rpion (999) 0<br>
-<br>
-	2. james--- (0:1)<br>
-<br>
-973. #DustyFlame~712 (999) 0<br>
-<br>
-<br>
-974. #FunnyRibbon~353 (999) 0<br>
-<br>
-	6. bandy (0:1)<br>
-<br>
-975. #bigmojo2003 (999) 0<br>
-<br>
-<br>
-976. #LEORS (999) 0<br>
-<br>
-	7. lelofadel111 (1:6)<br>
-	10. croissant (0:1)<br>
-<br>
-977. #UnknownGuy (999) 0<br>
-<br>
-<br>
-978. #VioletRake~644 (999) 0<br>
-<br>
-	9. Seradun (0:3)<br>
-	10. croissant (0:1)<br>
-<br>
-979. #FancyRaptor4 (999) 0<br>
-<br>
-<br>
-980. #SpicySoda~179 (999) 0<br>
-<br>
-<br>
-981. #McCasper (999) 0<br>
-<br>
-	10. croissant (0:1)<br>
-<br>
-982. #QuickHat~598 (999) -1<br>
-<br>
-	6. bandy (0:2)<br>
-<br>
-983. #Ryu (999) 0<br>
-<br>
-<br>
-984. #CheapGopher~180 (999) 0<br>
-<br>
-<br>
-985. #Draconus. (999) 0<br>
-<br>
-<br>
-986. #EEK (999) 0<br>
-<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-987. #Jsmooth2122 (999) 0<br>
-<br>
-	3. holzabee86 (0:14)<br>
-<br>
-988. #BouncyDrago~274 (999) 0<br>
-<br>
-<br>
-989. #WittyRebel~139 (999) 0<br>
-<br>
-<br>
-990. #angelfire85 (999) 0<br>
-<br>
-<br>
-991. #GlossyRiddl~284 (999) 0<br>
-<br>
-<br>
-992. #vortexan (999) 0<br>
-<br>
-	2. james--- (0:1)<br>
-<br>
-993. #JaggedWalru~459 (999) 0<br>
-<br>
-<br>
-994. #TehGoldring (999) 0<br>
-<br>
-<br>
-995. #lenon (999) -1<br>
-<br>
-<br>
-996. #Jacky47 (999) 0<br>
-<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-997. #beastmaste64 (999) -1<br>
-<br>
-<br>
-998. #terren (999) 0<br>
-<br>
-<br>
-999. #FierceErmin~768 (999) 0<br>
-+11|0<br>
-<br>
-1000. #Echo~Bot (999) 0<br>
-<br>
-<br>
-1001. #zoe.williams (999) 0<br>
-<br>
-<br>
-1002. #NosyGoose~338 (999) -1<br>
-<br>
-<br>
-1003. #justendit (999) 0<br>
-<br>
-<br>
-1004. #APMAH88 (999) 0<br>
-<br>
-<br>
-1005. #HardyFire~621 (999) 0<br>
-<br>
-<br>
-1006. #charge5 (999) 0<br>
-0<br>
-<br>
-1007. #GhostDraggon (999) 0<br>
-<br>
-<br>
-1008. #madkookie (999) 0<br>
-<br>
-<br>
-1009. #Andromedandr (999) 0<br>
-<br>
-	1. SparkyPlane (0:3)<br>
-	5. cocoadog (0:1)<br>
-<br>
-1010. #TrickyClove~417 (999) 0<br>
-<br>
-<br>
-1011. #Zmasta (999) 0<br>
-<br>
-<br>
-1012. #RaggedJeans~225 (999) 0<br>
-<br>
-<br>
-1013. #galconffa (999) 0<br>
-<br>
-<br>
-1014. #BigUU (999) 0<br>
-<br>
-<br>
-1015. #Numberdragon (999) 0<br>
-<br>
-<br>
-1016. #dear_master (999) 0<br>
-<br>
-<br>
-1017. #Porkerlou (999) 0<br>
-<br>
-	5. cocoadog (0:2)<br>
-	6. bandy (0:4)<br>
-<br>
-1018. #Death_last_3 (999) 0<br>
-<br>
-<br>
-1019. #jflash2 (999) -1<br>
-<br>
-<br>
-1020. #DizzyElbow~408 (999) 0<br>
-<br>
-<br>
-1021. #LateClove~794 (999) 0<br>
-<br>
-<br>
-1022. #mahone007 (999) -1<br>
+	1. JazzyDeer (0:16)<br>
+	2. SloppyTea~932 (6:7)<br>
+	3. MadDookie (5:4)<br>
+	4. Matthew0898 (8:13)<br>
+	5. PRZEPRASZAM (0:2)<br>
+	6. Foxylocks12 (2:1)<br>
+	7. cocainedog (1:2)<br>
+	8. uranus-98 (9:8)<br>
+	10. _Marik_ (1:3)<br>
+<br>
+30. #AppleDragon (1019) 0<br>
 +2<br>
-	1. SparkyPlane (0:2)<br>
-	2. james--- (0:1)<br>
-	8. phantomplan (0:2)<br>
-<br>
-1023. #Opacity (999) 0<br>
-<br>
-<br>
-1024. #FoamyRain~810 (999) 0<br>
-<br>
-<br>
-1025. #MissMayhem (999) 0<br>
-<br>
-<br>
-1026. #galgirl80 (999) 0<br>
-<br>
-<br>
-1027. #BAGUIRA (998) 0<br>
-<br>
-<br>
-1028. #XinfogamerXx (998) 0<br>
-<br>
-	3. holzabee86 (1:2)<br>
-	10. croissant (0:1)<br>
-<br>
-1029. #CurlyRam~157 (998) 0<br>
-<br>
-	2. james--- (0:2)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-1030. #Pantythief (998) 0<br>
-<br>
-	9. Seradun (0:2)<br>
-<br>
-1031. #mbogaz (998) 0<br>
-<br>
-<br>
-1032. #kaildjjj (998) 0<br>
-<br>
-<br>
-1033. #MindTwister (998) 0<br>
-<br>
-<br>
-1034. #BorchoBG (998) 0<br>
-<br>
-<br>
-1035. #FunnyFaucet~797 (998) 0<br>
-<br>
-<br>
-1036. #penetration (998) 0<br>
-<br>
-<br>
-1037. #KingDave12 (998) 0<br>
-<br>
-<br>
-1038. #TnSingle (998) 0<br>
-<br>
-<br>
-1039. #haha45 (998) 0<br>
-<br>
-<br>
-1040. #BAD-KILLER (998) 0<br>
-<br>
-	6. bandy (1:3)<br>
-	8. phantomplan (0:1)<br>
-<br>
-1041. #smart_boy24 (998) 0<br>
-<br>
-<br>
-1042. #SmallTruck~763 (998) 0<br>
--4<br>
-	2. james--- (0:1)<br>
-<br>
-1043. #B.lack (998) 0<br>
-<br>
-	3. holzabee86 (0:1)<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-1044. #nima-ch (998) 0<br>
-<br>
-<br>
-1045. #Kodzisan (998) 0<br>
-<br>
-<br>
-1046. #M6l8-711 (998) +1<br>
-<br>
-	2. james--- (0:1)<br>
-	3. holzabee86 (0:3)<br>
-	5. cocoadog (0:2)<br>
-<br>
-1047. #Turki00 (998) 0<br>
-<br>
-<br>
-1048. #AKG2014 (998) 0<br>
-<br>
-<br>
-1049. #SnappyBucke~752 (998) 0<br>
-<br>
-	5. cocoadog (0:1)<br>
-<br>
-1050. #JollyCrayon~354 (998) 0<br>
-<br>
-	2. james--- (0:4)<br>
-	5. cocoadog (1:3)<br>
-	10. croissant (0:2)<br>
-<br>
-1051. #julesang74 (998) 0<br>
-<br>
-<br>
-1052. #MemeMachine (998) 0<br>
-<br>
-<br>
-1053. #Psy-Fi (998) 0<br>
-<br>
-<br>
-1054. #Tigerpaw (998) 0<br>
-<br>
-<br>
-1055. #operator. (998) 0<br>
-<br>
-	10. croissant (1:2)<br>
-<br>
-1056. #Darmits (998) 0<br>
-<br>
-	10. croissant (0:2)<br>
-<br>
-1057. #jamhunter (998) 0<br>
-<br>
-<br>
-1058. #Lasman (998) 0<br>
-<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-1059. #WittyBeet~371 (998) 0<br>
-<br>
-<br>
-1060. #Jagor (998) 0<br>
-<br>
-	1. SparkyPlane (0:1)<br>
-<br>
-1061. #Galgirl1980 (998) 0<br>
-<br>
-<br>
-1062. #saltan500 (998) 0<br>
-<br>
-<br>
-1063. #Ice-Man (998) 0<br>
-<br>
-	5. cocoadog (0:1)<br>
-<br>
-1064. #pandorasweet (998) 0<br>
-<br>
-<br>
-1065. #Blaigen (998) 0<br>
--1<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-1066. #LonelyOgre~574 (998) 0<br>
-<br>
-<br>
-1067. #Assasopa (998) 0<br>
-<br>
-<br>
-1068. #majed88 (998) 0<br>
-<br>
-<br>
-1069. #phattyjak (998) 0<br>
-<br>
-	1. SparkyPlane (0:4)<br>
-<br>
-1070. #dictyosteliu (998) 0<br>
-<br>
-	5. cocoadog (1:1)<br>
-	8. phantomplan (0:2)<br>
-<br>
-1071. #BurlyToast~808 (998) 0<br>
-<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-1072. #BlackSquid~351 (998) 0<br>
-<br>
-<br>
-1073. #YellowMoon~627 (998) 0<br>
-<br>
-<br>
-1074. #BillY_Patro (998) -1<br>
-<br>
-<br>
-1075. #XPixelKingX (998) 0<br>
-<br>
-	2. james--- (0:2)<br>
-	3. holzabee86 (0:1)<br>
-<br>
-1076. #malgreyd (998) 0<br>
-<br>
-<br>
-1077. #KingCorros (998) +1<br>
-<br>
-<br>
-1078. #jakedabomb (998) -2<br>
-<br>
-	3. holzabee86 (0:1)<br>
-<br>
-1079. #Asbo (998) 0<br>
-<br>
-	10. croissant (0:1)<br>
-<br>
-1080. #JumpySock~508 (998) 0<br>
-<br>
-<br>
-1081. #Tarahyumaro (998) +9<br>
-+3|+8<br>
-	1. SparkyPlane (0:2)<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (1:7)<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-1082. #Nerf~Bot (998) 0<br>
-<br>
-<br>
-1083. #yeetmaster (998) 0<br>
-<br>
-	5. cocoadog (0:4)<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-1084. #Gekon2002 (998) 0<br>
-<br>
-	1. SparkyPlane (1:0)<br>
-<br>
-1085. #QuickViolin~829 (998) 0<br>
-<br>
-<br>
-1086. #krevetkin (998) 0<br>
-<br>
-	6. bandy (0:3)<br>
-<br>
-1087. #KeenEngine~182 (998) 0<br>
-<br>
-<br>
-1088. #ibramble (998) 0<br>
-<br>
-	7. lelofadel111 (0:3)<br>
-<br>
-1089. #HollowBingo~958 (998) 0<br>
-<br>
-<br>
-1090. #RigidAce~125 (998) 0<br>
-<br>
-<br>
-1091. #k7d5 (998) 0<br>
-<br>
-<br>
-1092. #PRE-SLIST (998) 0<br>
-<br>
-	2. james--- (0:1)<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-1093. #MeltedMetal~572 (998) 0<br>
-<br>
-<br>
-1094. #SimbaHamud (998) 0<br>
-<br>
-<br>
-1095. #al3nzi0074 (997) 0<br>
-<br>
-<br>
-1096. #KennysMom29 (997) 0<br>
-<br>
-<br>
-1097. #doosre_502 (997) 0<br>
-<br>
-	2. james--- (0:1)<br>
-<br>
-1098. #pumagirl (997) 0<br>
-<br>
-<br>
-1099. #gillang (997) 0<br>
-<br>
-<br>
-1100. #Gurksylt (997) 0<br>
-<br>
-<br>
-1101. #genagold (997) 0<br>
-<br>
-<br>
-1102. #eusu (997) 0<br>
-<br>
-	1. SparkyPlane (0:2)<br>
-<br>
-1103. #ScarySoup~251 (997) 0<br>
-<br>
-<br>
-1104. #AbsurdBeef~399 (997) 0<br>
-<br>
-<br>
-1105. #MrPtitDiable (997) 0<br>
-<br>
-<br>
-1106. #ALOS6ORA (997) 0<br>
-<br>
-<br>
-1107. #EternalNight (997) 0<br>
-<br>
-<br>
-1108. #Johnson50 (997) 0<br>
-<br>
-	10. croissant (0:4)<br>
-<br>
-1109. #RigidBasket~243 (997) 0<br>
-<br>
-<br>
-1110. #yargox (997) 0<br>
-<br>
-<br>
-1111. #zerjed (997) 0<br>
-<br>
-	2. james--- (0:3)<br>
-<br>
-1112. #Patty04 (997) 0<br>
-<br>
-	2. james--- (0:1)<br>
-	8. phantomplan (0:1)<br>
-<br>
-1113. #unbridled (997) 0<br>
-<br>
-	7. lelofadel111 (0:3)<br>
-<br>
-1114. #woody51 (997) 0<br>
-<br>
-<br>
-1115. #darthbetus (997) +1<br>
-+2<br>
-<br>
-1116. #WildBird (997) 0<br>
-<br>
-<br>
-1117. #Woldomon (997) -1<br>
-<br>
-<br>
-1118. #Titansmaxx (997) 0<br>
-<br>
-	1. SparkyPlane (0:2)<br>
-<br>
-1119. #sunpall (997) 0<br>
-<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-1120. #lotfiaab (997) 0<br>
-+11|0<br>
-<br>
-1121. #WittyPlane~700 (997) 0<br>
-<br>
-	10. croissant (0:1)<br>
-<br>
-1122. #LargeClove~996 (997) 0<br>
-<br>
-<br>
-1123. #tigger3716 (997) 0<br>
-<br>
-<br>
-1124. #AhriKitsune (997) 0<br>
-<br>
-<br>
-1125. #ColdSound~170 (997) -2<br>
-<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-1126. #Doodllpop (997) 0<br>
-<br>
-<br>
-1127. #bobchismcron (997) 0<br>
-<br>
-<br>
-1128. #AstroBram (997) 0<br>
-<br>
-<br>
-1129. #N-O-V-A (997) 0<br>
--4|-7<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-1130. #SirUltimate (997) 0<br>
-+5|+4<br>
-	2. james--- (0:1)<br>
-	6. bandy (2:2)<br>
-	7. lelofadel111 (1:0)<br>
-<br>
-1131. #farman904 (997) 0<br>
-<br>
-<br>
-1132. #C_DaBoys (997) +5<br>
-+5|+6<br>
-	1. SparkyPlane (0:1)<br>
-	3. holzabee86 (1:6)<br>
-	5. cocoadog (0:1)<br>
-	7. lelofadel111 (0:1)<br>
-	9. Seradun (2:10)<br>
-	10. croissant (0:5)<br>
-<br>
-1133. #FoamyGrape~853 (997) -3<br>
-<br>
-	5. cocoadog (0:1)<br>
-<br>
-1134. #varsha_a (997) 0<br>
-<br>
-<br>
-1135. #Noob2002 (997) 0<br>
-<br>
-<br>
-1136. #SneakyDrum~746 (997) 0<br>
-<br>
-	2. james--- (0:8)<br>
-	5. cocoadog (0:1)<br>
-	9. Seradun (0:3)<br>
-<br>
-1137. #ModernSauce~150 (997) 0<br>
-<br>
-<br>
-1138. #sobol (997) 0<br>
-<br>
-<br>
-1139. #Phuc2001 (997) 0<br>
-<br>
-<br>
-1140. #billy79bob (997) 0<br>
-<br>
-<br>
-1141. #Expand~Bot (997) 0<br>
-<br>
-<br>
-1142. #Sourire (997) 0<br>
-<br>
-<br>
-1143. #klooad (997) 0<br>
-<br>
-<br>
-1144. #poothis (997) 0<br>
-<br>
-	8. phantomplan (0:4)<br>
-<br>
-1145. #tristin (997) +2<br>
--5|-7|0<br>
-	3. holzabee86 (1:0)<br>
-<br>
-1146. #ThinAce~461 (997) 0<br>
-+5|+1<br>
-	6. bandy (1:1)<br>
-	7. lelofadel111 (0:2)<br>
-	9. Seradun (0:2)<br>
-<br>
-1147. #SaltyFiredog (997) 0<br>
-<br>
-<br>
-1148. #BraveShovel~508 (997) 0<br>
-<br>
-<br>
-1149. #Suicide~Bot (997) 0<br>
-<br>
-<br>
-1150. #PuffyButton~535 (997) 0<br>
-<br>
-<br>
-1151. #Avarus (997) 0<br>
--2<br>
-	1. SparkyPlane (0:1)<br>
-	6. bandy (1:3)<br>
-	7. lelofadel111 (0:2)<br>
-	8. phantomplan (0:1)<br>
-	9. Seradun (0:2)<br>
-<br>
-1152. #bluefalxon (996) -1<br>
-<br>
-<br>
-1153. #andy228 (996) 0<br>
-<br>
-<br>
-1154. #neo_vinny (996) 0<br>
-<br>
-<br>
-1155. #Balance~Bot (996) 0<br>
-<br>
-<br>
-1156. #SirGudKnight (996) 0<br>
-<br>
-<br>
-1157. #BreezyMetal~849 (996) 0<br>
-<br>
-<br>
-1158. #jacobi30 (996) 0<br>
-<br>
-<br>
-1159. #darkrrrr (996) +1<br>
-<br>
-	5. cocoadog (0:1)<br>
-<br>
-1160. #SoggyButter~584 (996) 0<br>
-<br>
-	10. croissant (0:1)<br>
-<br>
-1161. #lenardo (996) 0<br>
-+2<br>
-	3. holzabee86 (0:1)<br>
-<br>
-1162. #FrenkO95 (996) 0<br>
-<br>
-	8. phantomplan (2:1)<br>
-<br>
-1163. #KittenLord42 (996) 0<br>
-<br>
-	10. croissant (0:2)<br>
-<br>
-1164. #HeavyBell22 (996) 0<br>
-<br>
-	8. phantomplan (0:1)<br>
-<br>
-1165. #SilverFlight (996) 0<br>
-<br>
-<br>
-1166. #Major~Tom (996) 0<br>
-<br>
-<br>
-1167. #bozzie10 (996) 0<br>
-<br>
-	2. james--- (0:5)<br>
-<br>
-1168. #doudou72 (996) 0<br>
-<br>
-<br>
-1169. #Tempest77 (996) 0<br>
-<br>
-<br>
-1170. #WigglyTater~864 (996) 0<br>
--4<br>
-<br>
-1171. #elioch (996) -2<br>
-<br>
-	9. Seradun (0:1)<br>
-	10. croissant (0:2)<br>
-<br>
-1172. #dred001 (996) 0<br>
-<br>
-	5. cocoadog (0:1)<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-1173. #BadTea~667 (996) 0<br>
-<br>
-<br>
-1174. #bridageX1439 (996) 0<br>
-<br>
-	2. james--- (1:2)<br>
-<br>
-1175. #Radius~Attack (996) 0<br>
-<br>
-<br>
-1176. #Arnfire (996) 0<br>
-<br>
-<br>
-1177. #lanadelhoe (996) 0<br>
--1<br>
-<br>
-1178. #codred (996) 0<br>
-<br>
-<br>
-1179. #Firescales (996) 0<br>
-<br>
-<br>
-1180. #BraxtonC (996) 0<br>
-<br>
-	3. holzabee86 (0:1)<br>
-	9. Seradun (0:1)<br>
-	10. croissant (0:1)<br>
-<br>
-1181. #BigApple~264 (995) 0<br>
-<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-1182. #sunurlu (995) 0<br>
-<br>
-	5. cocoadog (0:7)<br>
-	6. bandy (0:5)<br>
-<br>
-1183. #Abdel~Baset (995) 0<br>
-<br>
-<br>
-1184. #Ramster117 (995) -1<br>
-<br>
-	1. SparkyPlane (0:3)<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (1:6)<br>
-	6. bandy (0:2)<br>
-	7. lelofadel111 (0:7)<br>
-	9. Seradun (0:1)<br>
-<br>
-1185. #THOR1 (995) 0<br>
-<br>
-	2. james--- (0:4)<br>
-	5. cocoadog (0:1)<br>
-	8. phantomplan (0:2)<br>
-<br>
-1186. #julian48 (995) 0<br>
-<br>
-<br>
-1187. #SmoothRain~286 (995) 0<br>
-<br>
-<br>
-1188. #ColdCobweb~960 (995) 0<br>
--7|0<br>
-	6. bandy (0:2)<br>
-<br>
-1189. #winstrol (995) 0<br>
-<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-1190. #BrightSpruc~816 (995) +25<br>
-+7|+27|+35|+24|+24|+22<br>
-	1. SparkyPlane (0:3)<br>
-	3. holzabee86 (0:2)<br>
-	4. ValveFury (0:1)<br>
-	5. cocoadog (1:3)<br>
-	6. bandy (0:1)<br>
-	9. Seradun (0:2)<br>
-<br>
-1191. #WarmBread (995) 0<br>
-<br>
-<br>
-1192. #BaggyMoney~488 (995) 0<br>
-<br>
-	1. SparkyPlane (0:2)<br>
-<br>
-1193. #Zeraxator (995) 0<br>
-<br>
-	1. SparkyPlane (0:2)<br>
-<br>
-1194. #RockyRafty (995) 0<br>
-<br>
-<br>
-1195. #kittygod22 (995) 0<br>
-<br>
-<br>
-1196. #Massimo123 (995) 0<br>
-<br>
-<br>
-1197. #Blackdwarf (995) 0<br>
-<br>
-	2. james--- (0:1)<br>
-	10. croissant (0:1)<br>
-<br>
-1198. #katy.cat (995) 0<br>
--11|-2|-16|-14|-20|-15|-6|-3<br>
-	2. james--- (0:1)<br>
-	3. holzabee86 (1:4)<br>
-	6. bandy (1:1)<br>
-	10. croissant (0:1)<br>
-<br>
-1199. #poner560 (995) 0<br>
-<br>
-<br>
-1200. #ndawgg (995) 0<br>
-<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (0:2)<br>
-	10. croissant (0:3)<br>
-<br>
-1201. #Sleeping~Waffle (994) 0<br>
-<br>
-<br>
-1202. #CoolGrass~325 (994) -4<br>
--8|-12<br>
-	3. holzabee86 (0:9)<br>
-	10. croissant (0:3)<br>
-<br>
-1203. #Pyroraptor (994) 0<br>
-<br>
-<br>
-1204. #tost (994) 0<br>
-<br>
-<br>
-1205. #SithEmpire13 (994) 0<br>
-<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-1206. #Jugh (994) 0<br>
-<br>
-<br>
-1207. #anonymous22 (994) 0<br>
-<br>
-<br>
-1208. #XinfoGamerX (994) 0<br>
-<br>
-<br>
-1209. #jts0524 (994) 0<br>
-<br>
-<br>
-1210. #betganHB (994) 0<br>
-<br>
-<br>
-1211. #Francoxx (994) 0<br>
-<br>
-	10. croissant (0:1)<br>
-<br>
-1212. #Brofasa (994) 0<br>
-<br>
-<br>
-1213. #SlimyClown~161 (994) 0<br>
-<br>
-<br>
-1214. #iceborg (994) 0<br>
--8<br>
-	1. SparkyPlane (0:9)<br>
-	5. cocoadog (0:2)<br>
-	7. lelofadel111 (0:4)<br>
-<br>
-1215. #RedRegret~313 (994) 0<br>
--9|-5<br>
-	9. Seradun (0:3)<br>
-<br>
-1216. #Furyan (994) 0<br>
-<br>
-	9. Seradun (0:2)<br>
-<br>
-1217. #moogelix (994) -2<br>
-<br>
-<br>
-1218. #edgard (994) 0<br>
+	2. SloppyTea~932 (9:12)<br>
+	3. MadDookie (4:2)<br>
+	6. Foxylocks12 (2:0)<br>
+	8. uranus-98 (8:11)<br>
+	10. _Marik_ (0:2)<br>
+<br>
+31. #ATN (1019) 0<br>
++8<br>
+	2. SloppyTea~932 (2:5)<br>
+	3. MadDookie (3:4)<br>
+	4. Matthew0898 (2:2)<br>
+	6. Foxylocks12 (7:6)<br>
+	8. uranus-98 (0:2)<br>
+	9. WateryApple~232 (3:3)<br>
+<br>
+32. #resistfate88 (1018) 0<br>
++16|+4|0<br>
+	2. SloppyTea~932 (9:19)<br>
+	3. MadDookie (7:16)<br>
+	4. Matthew0898 (11:8)<br>
+	5. PRZEPRASZAM (0:3)<br>
+	6. Foxylocks12 (5:8)<br>
+	7. cocainedog (5:3)<br>
+	8. uranus-98 (0:5)<br>
+	9. WateryApple~232 (8:5)<br>
+	10. _Marik_ (1:2)<br>
+<br>
+33. #Meep (1017) 0<br>
++4<br>
+	2. SloppyTea~932 (3:15)<br>
+	3. MadDookie (7:14)<br>
+	4. Matthew0898 (0:1)<br>
+	6. Foxylocks12 (9:11)<br>
+	8. uranus-98 (2:1)<br>
+<br>
+34. #Kid.Op (1017) 0<br>
++12|+5<br>
+	1. JazzyDeer (1:7)<br>
+	2. SloppyTea~932 (0:4)<br>
+	3. MadDookie (6:9)<br>
+	4. Matthew0898 (14:19)<br>
+	6. Foxylocks12 (4:13)<br>
+	7. cocainedog (12:16)<br>
+	8. uranus-98 (4:1)<br>
+	9. WateryApple~232 (5:2)<br>
+<br>
+35. #lelofadel111 (1016) 0<br>
+-2|0<br>
+	2. SloppyTea~932 (6:10)<br>
+	3. MadDookie (7:5)<br>
+	4. Matthew0898 (3:6)<br>
+	6. Foxylocks12 (2:3)<br>
+	7. cocainedog (1:1)<br>
+	8. uranus-98 (1:0)<br>
+	9. WateryApple~232 (2:0)<br>
+<br>
+36. #ProudPlane~337 (1015) 0<br>
++8<br>
+	1. JazzyDeer (1:5)<br>
+	2. SloppyTea~932 (2:2)<br>
+	3. MadDookie (4:14)<br>
+	4. Matthew0898 (2:3)<br>
+	5. PRZEPRASZAM (0:5)<br>
+	6. Foxylocks12 (0:4)<br>
+	7. cocainedog (1:7)<br>
+	8. uranus-98 (2:1)<br>
+	9. WateryApple~232 (5:3)<br>
+<br>
+37. #TimDebJon (1014) 0<br>
++10|+9<br>
+	1. JazzyDeer (0:4)<br>
+	2. SloppyTea~932 (3:7)<br>
+	3. MadDookie (3:9)<br>
+	4. Matthew0898 (7:10)<br>
+	6. Foxylocks12 (0:1)<br>
+	7. cocainedog (2:1)<br>
+	8. uranus-98 (2:8)<br>
+	9. WateryApple~232 (1:4)<br>
+	10. _Marik_ (1:3)<br>
+<br>
+38. #Lyzax (1014) 0<br>
++18<br>
+	1. JazzyDeer (0:1)<br>
+	2. SloppyTea~932 (1:11)<br>
+	3. MadDookie (4:8)<br>
+	4. Matthew0898 (6:10)<br>
+	6. Foxylocks12 (3:1)<br>
+	8. uranus-98 (4:7)<br>
+<br>
+39. #marijuana10 (1014) 0<br>
 +1<br>
-	1. SparkyPlane (0:2)<br>
-	7. lelofadel111 (0:1)<br>
+	2. SloppyTea~932 (0:5)<br>
+	3. MadDookie (6:6)<br>
+	4. Matthew0898 (10:8)<br>
+	7. cocainedog (2:2)<br>
+	8. uranus-98 (0:1)<br>
+	10. _Marik_ (0:1)<br>
 <br>
-1219. #gu_gatao (994) 0<br>
-<br>
-<br>
-1220. #Born~2Snipe (994) 0<br>
-<br>
-<br>
-1221. #meltedcheese (994) 0<br>
-<br>
-<br>
-1222. #waffle~3z (994) 0<br>
+40. #Khael- (1013) 0<br>
 -1<br>
-	3. holzabee86 (0:2)<br>
-<br>
-1223. #Nearest~Attack (994) 0<br>
-<br>
-<br>
-1224. #QuietSleet~581 (994) 0<br>
-+3<br>
-	3. holzabee86 (0:2)<br>
-<br>
-1225. #HugeBeluga~416 (994) 0<br>
-+2<br>
-	2. james--- (0:3)<br>
-	5. cocoadog (0:2)<br>
-	6. bandy (0:4)<br>
-<br>
-1226. #hak-attack (993) 0<br>
-<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (0:1)<br>
-<br>
-1227. #GrumpyCrush~107 (993) 0<br>
--3|0<br>
-<br>
-1228. #RandomNick (993) 0<br>
-<br>
-	3. holzabee86 (0:1)<br>
-	5. cocoadog (0:1)<br>
-	10. croissant (0:1)<br>
-<br>
-1229. #GabbySquash~458 (993) 0<br>
-<br>
-	2. james--- (0:1)<br>
-	4. ValveFury (0:2)<br>
-	10. croissant (0:2)<br>
-<br>
-1230. #homedog (993) 0<br>
--6|-4|-17|-13|-5|-2|+1<br>
-	1. SparkyPlane (0:1)<br>
-	3. holzabee86 (0:1)<br>
-	7. lelofadel111 (2:2)<br>
-	8. phantomplan (2:2)<br>
-	10. croissant (1:4)<br>
-<br>
-1231. #ADMIN201 (993) -2<br>
-<br>
-	1. SparkyPlane (0:2)<br>
-<br>
-1232. #Magnetic~Field (993) 0<br>
-<br>
-<br>
-1233. #FlashyCar~996 (993) 0<br>
-<br>
-<br>
-1234. #ejjehehhe (993) 0<br>
--2<br>
-	4. ValveFury (0:1)<br>
-<br>
-1235. #EliteTater~486 (993) 0<br>
-0<br>
-<br>
-1236. #Jungle_Bunny (993) -1<br>
-<br>
-	3. holzabee86 (0:2)<br>
-	5. cocoadog (0:2)<br>
-	7. lelofadel111 (0:3)<br>
-<br>
-1237. #MashedChain~793 (993) 0<br>
-<br>
-<br>
-1238. #thickmeat (993) 0<br>
-<br>
-<br>
-1239. #Wildhat-972 (993) 0<br>
--1<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-1240. #NuttySquash~817 (993) 0<br>
-<br>
-<br>
-1241. #Tunnel~King (993) 0<br>
-<br>
-<br>
-1242. #CrankySnail~910 (992) 0<br>
-<br>
-<br>
-1243. #zeltor99 (992) 0<br>
-<br>
-	2. james--- (0:1)<br>
-<br>
-1244. #BlackMitten~263 (992) 0<br>
-<br>
-<br>
-1245. #sugakookie (992) 0<br>
-<br>
-<br>
-1246. #shiftystop (992) 0<br>
-<br>
-<br>
-1247. #ChaJosh (992) 0<br>
-<br>
-	1. SparkyPlane (0:5)<br>
-	6. bandy (1:1)<br>
-<br>
-1248. #Cosimia (992) +5<br>
--1|+2|+6<br>
-	1. SparkyPlane (1:1)<br>
-	2. james--- (0:4)<br>
-	3. holzabee86 (1:5)<br>
-	5. cocoadog (0:4)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (0:5)<br>
-	10. croissant (0:10)<br>
-<br>
-1249. #babyMacci (992) 0<br>
-+2|+11|+12|0<br>
-<br>
-1250. #BigStrike~445 (992) 0<br>
-<br>
-<br>
-1251. #Kobe_Fan24 (992) +2<br>
--13|-4|+1<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (1:2)<br>
-	3. holzabee86 (0:2)<br>
-	4. ValveFury (0:1)<br>
-	5. cocoadog (0:2)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (3:4)<br>
-	8. phantomplan (0:1)<br>
-	10. croissant (2:1)<br>
-<br>
-1252. #DapperPine~629 (992) 0<br>
-<br>
-	2. james--- (0:4)<br>
-	6. bandy (0:2)<br>
-<br>
-1253. #gobindsingh (991) +9<br>
-+23|+15|+16|+14|+18|+31|+26|+22|+18|+7<br>
-	2. james--- (4:16)<br>
-	3. holzabee86 (5:15)<br>
-	5. cocoadog (2:9)<br>
-	6. bandy (5:22)<br>
-	7. lelofadel111 (1:13)<br>
-	8. phantomplan (1:5)<br>
-	9. Seradun (0:3)<br>
-	10. croissant (0:7)<br>
-<br>
-1254. #Attack~Bot (991) 0<br>
-<br>
-<br>
-1255. #purduepete (991) 0<br>
-<br>
-	5. cocoadog (0:2)<br>
-<br>
-1256. #lordjacob100 (991) 0<br>
-<br>
-<br>
-1257. #kpd (991) 0<br>
-<br>
-<br>
-1258. #Territorial~Bot (990) 0<br>
-<br>
-<br>
-1259. #Antwan-01 (990) +6<br>
--1|-1|0<br>
-	3. holzabee86 (2:9)<br>
-	10. croissant (2:3)<br>
-<br>
-1260. #windyflute (990) 0<br>
-<br>
-	6. bandy (0:2)<br>
-<br>
-1261. #TidyFang~912 (990) -8<br>
+	2. SloppyTea~932 (1:1)<br>
+	3. MadDookie (13:16)<br>
+	4. Matthew0898 (3:1)<br>
+	6. Foxylocks12 (2:2)<br>
+	7. cocainedog (2:1)<br>
+	8. uranus-98 (6:16)<br>
+	9. WateryApple~232 (1:0)<br>
+<br>
+41. #Willjax (1013) 0<br>
++16|+4<br>
+	1. JazzyDeer (0:3)<br>
+	2. SloppyTea~932 (4:11)<br>
+	3. MadDookie (0:4)<br>
+	4. Matthew0898 (0:2)<br>
+	7. cocainedog (5:12)<br>
+	9. WateryApple~232 (1:5)<br>
+<br>
+42. #creaky2 (1013) 0<br>
+-4<br>
+	1. JazzyDeer (0:4)<br>
+	2. SloppyTea~932 (2:8)<br>
+	3. MadDookie (4:7)<br>
+	4. Matthew0898 (2:2)<br>
+	7. cocainedog (3:4)<br>
+	8. uranus-98 (6:6)<br>
+	9. WateryApple~232 (1:3)<br>
+	10. _Marik_ (1:1)<br>
+<br>
+43. #Setin12 (1011) 0<br>
 -3<br>
-	1. SparkyPlane (0:2)<br>
-	6. bandy (0:2)<br>
-	9. Seradun (0:1)<br>
+	3. MadDookie (2:5)<br>
+	4. Matthew0898 (2:3)<br>
+	5. PRZEPRASZAM (1:0)<br>
+	7. cocainedog (3:2)<br>
+	8. uranus-98 (0:4)<br>
+	9. WateryApple~232 (12:7)<br>
 <br>
-1262. #SourTiger~280 (990) 0<br>
+44. #flabjack (1011) 0<br>
+-1<br>
+	1. JazzyDeer (0:4)<br>
+	2. SloppyTea~932 (1:7)<br>
+	3. MadDookie (2:2)<br>
+	4. Matthew0898 (8:8)<br>
+	7. cocainedog (1:4)<br>
+	8. uranus-98 (2:6)<br>
 <br>
-	7. lelofadel111 (0:1)<br>
+45. #FastCrayon~361 (1010) 0<br>
+-1|-3<br>
+	2. SloppyTea~932 (6:14)<br>
+	3. MadDookie (5:6)<br>
+	4. Matthew0898 (14:31)<br>
+	6. Foxylocks12 (1:0)<br>
+	7. cocainedog (1:0)<br>
+	8. uranus-98 (2:4)<br>
+	10. _Marik_ (0:2)<br>
 <br>
-1263. #platypus752 (990) 0<br>
-0<br>
+46. #Saggycrayon (1010) 0<br>
++2<br>
+	2. SloppyTea~932 (4:4)<br>
+	3. MadDookie (3:5)<br>
+	4. Matthew0898 (9:9)<br>
+	5. PRZEPRASZAM (4:15)<br>
+	6. Foxylocks12 (0:1)<br>
+	7. cocainedog (2:1)<br>
+	8. uranus-98 (3:2)<br>
+	9. WateryApple~232 (1:0)<br>
+	10. _Marik_ (4:2)<br>
 <br>
-1264. #alexD (989) 0<br>
+47. #nazia13 (1010) 0<br>
++4<br>
+	1. JazzyDeer (3:2)<br>
+	2. SloppyTea~932 (4:12)<br>
+	3. MadDookie (1:5)<br>
+	4. Matthew0898 (7:13)<br>
+	7. cocainedog (2:2)<br>
+	8. uranus-98 (2:1)<br>
 <br>
+48. #theAceofGame (1010) 0<br>
++5<br>
+	1. JazzyDeer (3:6)<br>
+	2. SloppyTea~932 (6:1)<br>
+	3. MadDookie (1:6)<br>
+	4. Matthew0898 (5:11)<br>
+	6. Foxylocks12 (1:4)<br>
+	7. cocainedog (0:1)<br>
+	8. uranus-98 (1:2)<br>
 <br>
-1265. #EQUALISER (989) -1<br>
--1|-7|-1<br>
-	1. SparkyPlane (1:3)<br>
-	5. cocoadog (0:6)<br>
-	7. lelofadel111 (0:18)<br>
-	10. croissant (0:1)<br>
+49. #quantum (1009) 0<br>
+-4|+1<br>
+	2. SloppyTea~932 (3:16)<br>
+	3. MadDookie (12:19)<br>
+	4. Matthew0898 (7:14)<br>
+	6. Foxylocks12 (1:5)<br>
+	7. cocainedog (1:2)<br>
+	8. uranus-98 (0:1)<br>
+	9. WateryApple~232 (1:4)<br>
+	10. _Marik_ (2:7)<br>
 <br>
-1266. #SpeedyPilot~352 (989) -2<br>
--6|-3<br>
-	2. james--- (2:5)<br>
-	5. cocoadog (0:3)<br>
-	7. lelofadel111 (0:3)<br>
+50. #SHYXR (1008) 0<br>
++12<br>
+	2. SloppyTea~932 (5:6)<br>
+	3. MadDookie (0:6)<br>
+	6. Foxylocks12 (3:7)<br>
+	7. cocainedog (5:9)<br>
+	8. uranus-98 (4:5)<br>
+	10. _Marik_ (1:1)<br>
 <br>
-1267. #JosephD1570 (989) 0<br>
+51. #pandaface90 (1008) 0<br>
++10|0|-3<br>
+	2. SloppyTea~932 (5:15)<br>
+	3. MadDookie (6:17)<br>
+	4. Matthew0898 (7:15)<br>
+	5. PRZEPRASZAM (0:3)<br>
+	6. Foxylocks12 (4:9)<br>
+	7. cocainedog (7:13)<br>
+	8. uranus-98 (3:1)<br>
+	9. WateryApple~232 (5:4)<br>
+	10. _Marik_ (1:2)<br>
 <br>
-<br>
-1268. #RacingFork~218 (989) 0<br>
-<br>
-<br>
-1269. #ShinyTemper~434 (989) 0<br>
-<br>
-<br>
-1270. #Impatient~Bot (989) 0<br>
-<br>
-<br>
-1271. #walker17 (988) 0<br>
-<br>
-	2. james--- (1:3)<br>
-	3. holzabee86 (0:2)<br>
-<br>
-1272. #Five~Percent (988) 0<br>
-<br>
-<br>
-1273. #AcePegasus (988) 0<br>
-<br>
-	6. bandy (0:1)<br>
-<br>
-1274. #Bolainas (988) -5<br>
--6<br>
-	1. SparkyPlane (1:2)<br>
-	5. cocoadog (0:2)<br>
-	7. lelofadel111 (0:1)<br>
-	9. Seradun (0:2)<br>
-<br>
-1275. #Sandeetoes (988) 0<br>
-<br>
-<br>
-1276. #Snapping~Turtle (988) 0<br>
+52. #a7mad (1007) 0<br>
 +1<br>
+	2. SloppyTea~932 (0:4)<br>
+	3. MadDookie (2:4)<br>
+	4. Matthew0898 (6:7)<br>
+	7. cocainedog (1:2)<br>
+	8. uranus-98 (1:0)<br>
+	9. WateryApple~232 (1:1)<br>
 <br>
-1277. #Rys (988) -1<br>
--11<br>
-	1. SparkyPlane (1:7)<br>
-	5. cocoadog (1:3)<br>
-	7. lelofadel111 (2:32)<br>
-	8. phantomplan (0:2)<br>
+53. #evilCherry2 (1005) 0<br>
++1<br>
+	1. JazzyDeer (0:3)<br>
+	2. SloppyTea~932 (3:17)<br>
+	3. MadDookie (3:8)<br>
+	4. Matthew0898 (1:0)<br>
+	6. Foxylocks12 (1:3)<br>
+	7. cocainedog (0:1)<br>
+	8. uranus-98 (5:7)<br>
+	10. _Marik_ (0:1)<br>
 <br>
-1278. #jjoossepph (988) 0<br>
+54. #VOSTOK (1005) 0<br>
++5<br>
+	1. JazzyDeer (0:11)<br>
+	2. SloppyTea~932 (1:2)<br>
+	3. MadDookie (4:15)<br>
+	4. Matthew0898 (0:5)<br>
+	6. Foxylocks12 (0:5)<br>
+	8. uranus-98 (0:2)<br>
+<br>
+55. #Gideon (1005) 0<br>
 -1<br>
-	2. james--- (0:3)<br>
-	5. cocoadog (0:1)<br>
+	1. JazzyDeer (1:12)<br>
+	2. SloppyTea~932 (3:7)<br>
+	3. MadDookie (9:12)<br>
+	4. Matthew0898 (6:11)<br>
+	6. Foxylocks12 (0:1)<br>
+	8. uranus-98 (6:4)<br>
 <br>
-1279. #ActionJ1234 (988) 0<br>
--10|+3<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (1:3)<br>
-	6. bandy (0:1)<br>
-	9. Seradun (0:2)<br>
-	10. croissant (0:2)<br>
+56. #Snake1976 (1004) 0<br>
++9|+16|-1<br>
+	2. SloppyTea~932 (0:9)<br>
+	3. MadDookie (9:22)<br>
+	4. Matthew0898 (1:2)<br>
+	6. Foxylocks12 (1:3)<br>
+	7. cocainedog (4:9)<br>
+	8. uranus-98 (3:7)<br>
+	9. WateryApple~232 (3:0)<br>
+	10. _Marik_ (0:4)<br>
 <br>
-1280. #NoWayHaze (988) 0<br>
--8|-4<br>
-<br>
-1281. #Over~Expand (988) 0<br>
-<br>
-<br>
-1282. #FadedCobweb~786 (988) 0<br>
-<br>
-	7. lelofadel111 (0:5)<br>
-<br>
-1283. #Noolesd (987) 0<br>
--2|-1<br>
-	1. SparkyPlane (0:1)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (0:1)<br>
-	8. phantomplan (0:3)<br>
-<br>
-1284. #AlGalcone (987) 0<br>
--4<br>
-<br>
-1285. #SecretStar2 (986) 0<br>
--2<br>
-<br>
-1286. #byujeep123 (986) 0<br>
-<br>
-	9. Seradun (0:1)<br>
-<br>
-1287. #itchybutter (986) 0<br>
-<br>
-<br>
-1288. #renegade.3 (985) 0<br>
--1<br>
-	5. cocoadog (1:5)<br>
-	6. bandy (0:8)<br>
-	7. lelofadel111 (0:3)<br>
-	8. phantomplan (2:8)<br>
-<br>
-1289. #Xantor (985) 0<br>
--2|+6|-2|-5|+2<br>
-	1. SparkyPlane (1:0)<br>
-	2. james--- (1:3)<br>
-	5. cocoadog (1:1)<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (1:5)<br>
-	8. phantomplan (0:2)<br>
-	10. croissant (0:1)<br>
-<br>
-1290. #ElGranGuapo (985) 0<br>
-<br>
-<br>
-1291. #topalot (985) 0<br>
--8<br>
-	5. cocoadog (0:1)<br>
-<br>
-1292. #MushySand~375 (984) 0<br>
+57. #LukeDecanus (1004) 0<br>
 -3<br>
+	3. MadDookie (0:3)<br>
+	4. Matthew0898 (1:4)<br>
+	6. Foxylocks12 (5:6)<br>
+	7. cocainedog (4:9)<br>
+	10. _Marik_ (2:1)<br>
 <br>
-1293. #distracted (984) 0<br>
--8|0|-5|-7|-3<br>
+58. #GO4chips (1004) 0<br>
++10|+3|+3<br>
+	1. JazzyDeer (7:28)<br>
+	2. SloppyTea~932 (4:22)<br>
+	3. MadDookie (11:21)<br>
+	4. Matthew0898 (1:18)<br>
+	6. Foxylocks12 (2:7)<br>
+	7. cocainedog (4:7)<br>
 <br>
-1294. #Drattni (984) 0<br>
+59. #FLOrihupf (1001) 0<br>
 -1<br>
+	1. JazzyDeer (0:3)<br>
+	2. SloppyTea~932 (4:18)<br>
+	3. MadDookie (1:1)<br>
+	4. Matthew0898 (1:5)<br>
+	7. cocainedog (2:1)<br>
+	8. uranus-98 (6:4)<br>
+	9. WateryApple~232 (1:2)<br>
+	10. _Marik_ (0:3)<br>
 <br>
-1295. #seoirse (984) -1<br>
--1|+9|-3<br>
-	1. SparkyPlane (1:6)<br>
-	2. james--- (0:3)<br>
-	5. cocoadog (0:3)<br>
-	6. bandy (1:5)<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-1296. #mitchtater (984) -6<br>
-0<br>
-	3. holzabee86 (1:6)<br>
-<br>
-1297. #Tortoise~Waffle (983) 0<br>
-<br>
-<br>
-1298. #cmensperm (983) -1<br>
--10<br>
-	1. SparkyPlane (0:2)<br>
-	5. cocoadog (0:6)<br>
-<br>
-1299. #ARandomWeeb (983) 0<br>
--3|+11|+23|+37|+24|+10|+4|+3|+4|+6<br>
-	2. james--- (1:4)<br>
-	5. cocoadog (1:2)<br>
-	7. lelofadel111 (0:7)<br>
-	8. phantomplan (1:5)<br>
-	10. croissant (0:5)<br>
-<br>
-1300. #Ragnarok49 (983) 0<br>
--1|+11|+21|+33|+37|+30|+27|+15|0|-2<br>
-	1. SparkyPlane (1:6)<br>
-	3. holzabee86 (0:5)<br>
-	5. cocoadog (2:7)<br>
-	6. bandy (1:6)<br>
-	7. lelofadel111 (1:4)<br>
-	8. phantomplan (1:3)<br>
-	9. Seradun (0:2)<br>
-	10. croissant (0:4)<br>
-<br>
-1301. #W117 (982) 0<br>
--3|-1|0<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (1:2)<br>
-	9. Seradun (1:2)<br>
-<br>
-1302. #iFranky (982) 0<br>
+60. #goodsoul (999) 0<br>
 +1<br>
+	2. SloppyTea~932 (3:12)<br>
+	3. MadDookie (2:8)<br>
+	6. Foxylocks12 (0:2)<br>
+	8. uranus-98 (3:7)<br>
+	9. WateryApple~232 (4:2)<br>
 <br>
-1303. #SpaceCommy (982) -5<br>
--2|+2|+1<br>
-	1. SparkyPlane (0:2)<br>
-	3. holzabee86 (0:5)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (1:0)<br>
-	10. croissant (0:2)<br>
+61. #phaneron (999) 0<br>
+-3<br>
+	2. SloppyTea~932 (2:9)<br>
+	3. MadDookie (7:21)<br>
+	4. Matthew0898 (0:5)<br>
+	5. PRZEPRASZAM (6:7)<br>
+	6. Foxylocks12 (0:2)<br>
+	7. cocainedog (4:2)<br>
+	8. uranus-98 (1:9)<br>
+	10. _Marik_ (0:12)<br>
 <br>
-1304. #goldsky (982) 0<br>
--7|-8|0<br>
-	5. cocoadog (0:4)<br>
+62. #LastTimeLord (998) 0<br>
++1<br>
+	1. JazzyDeer (2:11)<br>
+	2. SloppyTea~932 (1:4)<br>
+	3. MadDookie (4:12)<br>
+	4. Matthew0898 (0:6)<br>
+	6. Foxylocks12 (0:1)<br>
+	7. cocainedog (1:2)<br>
+	8. uranus-98 (3:4)<br>
+	10. _Marik_ (0:3)<br>
 <br>
-1305. #FilthyBelug~571 (981) -5<br>
--13<br>
-	2. james--- (0:3)<br>
-	5. cocoadog (0:4)<br>
-	6. bandy (0:1)<br>
+63. #darth_jesse (997) 0<br>
+-2<br>
+	1. JazzyDeer (2:7)<br>
+	2. SloppyTea~932 (0:3)<br>
+	3. MadDookie (4:16)<br>
+	4. Matthew0898 (5:6)<br>
+	5. PRZEPRASZAM (1:3)<br>
+	6. Foxylocks12 (0:1)<br>
+	7. cocainedog (0:3)<br>
+	8. uranus-98 (1:5)<br>
+	10. _Marik_ (3:1)<br>
 <br>
-1306. #SlickKazoo~569 (980) 0<br>
--4<br>
-<br>
-1307. #Slow~Poke (980) 0<br>
--8<br>
-<br>
-1308. #Do~Nothing (980) 0<br>
--17|0<br>
-<br>
-1309. #duvot (980) -1<br>
--14|-11<br>
-	1. SparkyPlane (0:2)<br>
-	8. phantomplan (0:1)<br>
-<br>
-1310. #FuzzyOyster~550 (980) 0<br>
--7|0|+4<br>
-	1. SparkyPlane (0:2)<br>
-	6. bandy (1:0)<br>
-<br>
-1311. #Sitting~Duck (979) 0<br>
--7<br>
-<br>
-1312. #roveringbas (978) -1<br>
--14|-7<br>
-	3. holzabee86 (0:10)<br>
-	5. cocoadog (0:4)<br>
-	7. lelofadel111 (0:8)<br>
-	9. Seradun (1:1)<br>
-	10. croissant (0:3)<br>
-<br>
-1313. #sprexe (978) 0<br>
--9<br>
-	5. cocoadog (0:2)<br>
-	6. bandy (1:4)<br>
-<br>
-1314. #SoggyIcicle~968 (978) 0<br>
--11<br>
-	7. lelofadel111 (0:1)<br>
-<br>
-1315. #WhiteMoney~875 (978) 0<br>
-0<br>
-<br>
-1316. #jantheman (977) 0<br>
+64. #Crims0n (997) 0<br>
 -9|+1<br>
+	1. JazzyDeer (0:5)<br>
+	2. SloppyTea~932 (0:13)<br>
+	3. MadDookie (1:11)<br>
+	4. Matthew0898 (2:5)<br>
+	6. Foxylocks12 (2:10)<br>
+	7. cocainedog (0:1)<br>
+	8. uranus-98 (0:2)<br>
+	9. WateryApple~232 (1:7)<br>
+	10. _Marik_ (0:8)<br>
 <br>
-1317. #Cr4zyBeats (977) 0<br>
--4|-2<br>
-	5. cocoadog (1:1)<br>
+65. #mae_1 (996) 0<br>
+-4|-4<br>
+	2. SloppyTea~932 (4:10)<br>
+	3. MadDookie (2:9)<br>
+	4. Matthew0898 (1:3)<br>
+	6. Foxylocks12 (2:4)<br>
+	7. cocainedog (5:12)<br>
+	8. uranus-98 (1:4)<br>
+	9. WateryApple~232 (2:6)<br>
 <br>
-1318. #bise (976) 0<br>
--17|-9|-2|+2<br>
-	2. james--- (1:5)<br>
-	3. holzabee86 (0:1)<br>
-	5. cocoadog (0:2)<br>
-	7. lelofadel111 (2:3)<br>
-	8. phantomplan (0:2)<br>
-	10. croissant (0:1)<br>
+66. #HazyTrain~509 (994) 0<br>
++2|+5|+14|+4<br>
+	1. JazzyDeer (2:18)<br>
+	2. SloppyTea~932 (6:31)<br>
+	3. MadDookie (2:16)<br>
+	4. Matthew0898 (4:21)<br>
+	5. PRZEPRASZAM (0:1)<br>
+	6. Foxylocks12 (1:10)<br>
+	7. cocainedog (8:13)<br>
+	8. uranus-98 (4:7)<br>
+	9. WateryApple~232 (4:10)<br>
+	10. _Marik_ (3:14)<br>
 <br>
-1319. #aawwa (976) 0<br>
-0|+7|+7|+12|+12|+15|+6|+4|+10|+3<br>
-	1. SparkyPlane (1:0)<br>
-	5. cocoadog (0:3)<br>
-	6. bandy (0:4)<br>
-	7. lelofadel111 (0:2)<br>
-	8. phantomplan (0:1)<br>
+67. #dIehAppY (993) 0<br>
+-1<br>
+	3. MadDookie (1:16)<br>
+	4. Matthew0898 (1:5)<br>
+	6. Foxylocks12 (0:3)<br>
+	9. WateryApple~232 (1:0)<br>
 <br>
-1320. #Genghis~Khan (976) 0<br>
+68. #M-711 (992) 0<br>
+-1<br>
+	1. JazzyDeer (0:1)<br>
+	2. SloppyTea~932 (3:8)<br>
+	3. MadDookie (1:8)<br>
+	4. Matthew0898 (0:3)<br>
+	6. Foxylocks12 (1:2)<br>
+	7. cocainedog (3:11)<br>
+	10. _Marik_ (0:3)<br>
 <br>
+69. #arviiid (992) 0<br>
+-1<br>
+	2. SloppyTea~932 (0:6)<br>
+	3. MadDookie (1:9)<br>
+	4. Matthew0898 (1:6)<br>
+	6. Foxylocks12 (2:2)<br>
+	7. cocainedog (2:4)<br>
+	8. uranus-98 (0:1)<br>
+	10. _Marik_ (0:1)<br>
 <br>
-1321. #tbeattie44 (976) -7<br>
--11|-5|0|-11|+2|-5<br>
-	2. james--- (0:2)<br>
-	3. holzabee86 (1:8)<br>
-	4. ValveFury (0:4)<br>
-	5. cocoadog (0:6)<br>
-	6. bandy (2:3)<br>
-	7. lelofadel111 (0:3)<br>
-	10. croissant (0:6)<br>
+70. #mattymate (989) 0<br>
+-4<br>
+	1. JazzyDeer (0:1)<br>
+	2. SloppyTea~932 (2:2)<br>
+	3. MadDookie (1:2)<br>
+	4. Matthew0898 (1:3)<br>
+	5. PRZEPRASZAM (0:3)<br>
+	6. Foxylocks12 (2:6)<br>
+	7. cocainedog (0:7)<br>
+	8. uranus-98 (1:4)<br>
 <br>
-1322. #Queerio (975) 0<br>
--9<br>
+71. #Nuttykazoo (987) 0<br>
+-1<br>
+	1. JazzyDeer (0:5)<br>
+	2. SloppyTea~932 (0:6)<br>
+	4. Matthew0898 (0:6)<br>
+	5. PRZEPRASZAM (2:4)<br>
+	6. Foxylocks12 (0:3)<br>
+	7. cocainedog (3:4)<br>
+	9. WateryApple~232 (0:3)<br>
+	10. _Marik_ (2:2)<br>
 <br>
-1323. #MoldyWeasel~317 (975) 0<br>
--11|-2<br>
-	1. SparkyPlane (0:1)<br>
-	5. cocoadog (0:2)<br>
-<br>
-1324. #tj101560 (974) +1<br>
--19|-7|+2|+1|+1<br>
-	2. james--- (0:3)<br>
-	8. phantomplan (0:3)<br>
-<br>
-1325. #meechydarko (974) 0<br>
--21|-14|-6|+2|+1<br>
-	2. james--- (0:4)<br>
-	6. bandy (1:3)<br>
-<br>
-1326. #NiftyTank~485 (974) 0<br>
--3|+1<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (0:2)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (0:2)<br>
-	9. Seradun (1:2)<br>
-<br>
-1327. #Sea~Slug (973) 0<br>
+72. #Italobr (986) 0<br>
 -8<br>
+	1. JazzyDeer (2:11)<br>
+	2. SloppyTea~932 (1:11)<br>
+	3. MadDookie (0:9)<br>
+	4. Matthew0898 (1:13)<br>
+	6. Foxylocks12 (1:4)<br>
+	8. uranus-98 (2:1)<br>
+	9. WateryApple~232 (0:1)<br>
 <br>
-1328. #onehunglow (972) 0<br>
--17|-2|-5|-2<br>
-	2. james--- (0:4)<br>
-	7. lelofadel111 (0:4)<br>
-	9. Seradun (1:2)<br>
-<br>
-1329. #SuicideMan (972) +5<br>
-+51|+49|+49|+41|+37|+39|+39|+32|+28|+17<br>
-	1. SparkyPlane (0:7)<br>
-	2. james--- (1:1)<br>
-	5. cocoadog (1:3)<br>
-	6. bandy (2:2)<br>
-	7. lelofadel111 (0:2)<br>
-	10. croissant (1:3)<br>
-<br>
-1330. #MeltedRiddl~523 (972) 0<br>
--15|0<br>
-	1. SparkyPlane (0:8)<br>
-	6. bandy (0:3)<br>
-	7. lelofadel111 (0:4)<br>
-<br>
-1331. #HandySnake~587 (971) +3<br>
--24|-21|-12|-1<br>
-	2. james--- (0:3)<br>
-	5. cocoadog (1:2)<br>
-	6. bandy (1:4)<br>
-	7. lelofadel111 (1:17)<br>
-	10. croissant (0:3)<br>
-<br>
-1332. #clown95 (971) 0<br>
--14|-6|-6|0<br>
-	2. james--- (1:8)<br>
-	6. bandy (3:3)<br>
-	7. lelofadel111 (0:2)<br>
-	10. croissant (0:2)<br>
-<br>
-1333. #habeebc6a2 (970) 0<br>
--12|-3<br>
-	6. bandy (0:3)<br>
-<br>
-1334. #Home~Boy (970) 0<br>
--13<br>
-<br>
-1335. #Nuttykazoo (967) 0<br>
--17|-13|-1|+2|+7|+3|-8|-10|-17|-6<br>
-	1. SparkyPlane (0:1)<br>
-	2. james--- (0:6)<br>
-	3. holzabee86 (1:2)<br>
-	5. cocoadog (1:9)<br>
-	6. bandy (0:2)<br>
-	7. lelofadel111 (6:16)<br>
-	10. croissant (0:5)<br>
-<br>
-1336. #ShinyGoose~286 (966) 0<br>
--19|-7|-2|+3|+2|+9|+5|0<br>
-	2. james--- (0:3)<br>
-	3. holzabee86 (1:0)<br>
-	5. cocoadog (2:4)<br>
-	6. bandy (2:10)<br>
-	7. lelofadel111 (1:7)<br>
-	10. croissant (0:2)<br>
-<br>
-1337. #romaine876 (965) 0<br>
--19|-11|-13|-11|-4|-5<br>
-	2. james--- (0:27)<br>
-	3. holzabee86 (0:1)<br>
-	4. ValveFury (1:2)<br>
-	5. cocoadog (0:3)<br>
-	6. bandy (2:10)<br>
-	7. lelofadel111 (3:23)<br>
-	8. phantomplan (0:1)<br>
-<br>
-1338. #amra9 (965) 0<br>
--17|-10|-2<br>
-	2. james--- (0:1)<br>
-	5. cocoadog (1:1)<br>
-	6. bandy (0:1)<br>
-	8. phantomplan (0:2)<br>
-<br>
-1339. #jizzkizzkill (965) 0<br>
--32|-29|-24|-22|-20|-8|-7<br>
-	1. SparkyPlane (1:7)<br>
-	2. james--- (1:12)<br>
-	3. holzabee86 (0:2)<br>
-	5. cocoadog (1:8)<br>
-	6. bandy (0:13)<br>
-	7. lelofadel111 (2:1)<br>
-	8. phantomplan (0:3)<br>
-	9. Seradun (1:6)<br>
-<br>
-1340. #Caliber.7 (964) 0<br>
--21|-7<br>
-<br>
-1341. #teamdaddy (963) 0<br>
--32|-27|-28|-16|0<br>
-	2. james--- (0:1)<br>
-<br>
-1342. #Legalamb (962) 0<br>
--20|-23|-7|0<br>
-	1. SparkyPlane (0:4)<br>
-	4. ValveFury (0:1)<br>
-<br>
-1343. #DiosHorus (959) 0<br>
--17|-7<br>
-	5. cocoadog (0:1)<br>
-	9. Seradun (0:1)<br>
-<br>
-1344. #JamesTheMan (958) 0<br>
--20|-1|+2|0|+2<br>
-	2. james--- (0:6)<br>
-	5. cocoadog (0:2)<br>
-	7. lelofadel111 (1:4)<br>
-<br>
-1345. #SmartFox~702 (957) 0<br>
--32|-26|-9|-1|+1<br>
-	2. james--- (0:1)<br>
-<br>
-1346. #smaug- (956) 0<br>
--30|-24|+2|+9<br>
-	3. holzabee86 (0:2)<br>
-	5. cocoadog (0:1)<br>
-	6. bandy (1:5)<br>
-	8. phantomplan (0:21)<br>
-	10. croissant (0:1)<br>
-<br>
-1347. #MasterHorus (955) 0<br>
--20|-4<br>
-	2. james--- (0:3)<br>
-	7. lelofadel111 (0:2)<br>
-<br>
-1348. #tombib (954) 0<br>
--27|-13|-1<br>
-	7. lelofadel111 (0:2)<br>
-	10. croissant (0:1)<br>
-<br>
-1349. #SmartBeast~394 (952) -1<br>
--27|-14|-3<br>
-	2. james--- (1:4)<br>
-	6. bandy (1:0)<br>
-	8. phantomplan (0:2)<br>
-	9. Seradun (0:1)<br>
-	10. croissant (0:1)<br>
-<br>
-1350. #ACEEEEEEEEEE (945) 0<br>
--25|-16|-14|-4|-3|-1|-3|-8|-4|-1<br>
-	1. SparkyPlane (0:2)<br>
-	10. croissant (0:1)<br>
-<br>
-1351. #PMacktaby (943) -1<br>
--35|-29|-30|-26|-15|-17|-15|-7|-5|+1<br>
-	1. SparkyPlane (1:4)<br>
-	2. james--- (2:11)<br>
-	5. cocoadog (1:7)<br>
-	7. lelofadel111 (9:38)<br>
-	8. phantomplan (1:8)<br>
-	9. Seradun (0:2)<br>
-<br>
-1352. #aceface (942) 0<br>
--50|-49|-40|-34|-25|-15|-8|-5<br>
-	6. bandy (0:5)<br>
-	7. lelofadel111 (1:4)<br>
-<br>
-1353. #spicymanmeat (931) -1<br>
--53|-48|-43|-36|-29|-13|-8|-1|0<br>
-	6. bandy (0:1)<br>
-	7. lelofadel111 (0:5)<br>
-	9. Seradun (0:1)<br>
-<br>
-1354. #jkoy3.1 (925) 0<br>
--12|-10|-11|-6|+1|+6|+12|+8|+6|+6<br>
-	5. cocoadog (0:5)<br>
-	7. lelofadel111 (1:9)<br>
-	9. Seradun (0:2)<br>
-	10. croissant (0:5)<br>
-<br>
-1355. #JamesTheMan3 (919) 0<br>
--57|-39|-24|-16|-7|0<br>
-	6. bandy (0:1)<br>
+73. #RichePotat (925) 0<br>
+-64|-48|-40|-25|-21|-19|-19|-8|-4|-1<br>
+	1. JazzyDeer (0:556)<br>
+	3. MadDookie (2:0)<br>
+	4. Matthew0898 (2:0)<br>
+	8. uranus-98 (1:0)<br>
+	9. WateryApple~232 (6:2)<br>
+	10. _Marik_ (2:1)<br>
