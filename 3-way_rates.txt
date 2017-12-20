@@ -1,7 +1,7 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
 1. #GreatApple~214 (1271) 0<br>
--16|-21|-17|-20|-22|-20|-17|-11|-9|+2<br>
+-16|-21|-17|-20|-22|-20|-17|-11|-8|+2<br>
 	2. Nimsta (0:1)<br>
 	3. rickss (0:2)<br>
 	4. BillY_Patro (2:3)<br>
@@ -85,7 +85,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Buz (3:1)<br>
 <br>
 10. #Buz (1182) 0<br>
-0|-16|-16|0|+8|+6|+4|+7|-3|+1<br>
++1|-15|-16|0|+8|+6|+4|+7|-4|+1<br>
 	2. Nimsta (1:4)<br>
 	3. rickss (1:1)<br>
 	4. BillY_Patro (1:0)<br>
@@ -164,7 +164,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. TangySoda~164 (1:0)<br>
 <br>
 18. #SpaceX (1150) 0<br>
-+118|+94|+73|+45|+23|+5|0|-7|-3<br>
++118|+94|+74|+45|+23|+5|0|-7|-2<br>
 	1. GreatApple~214 (1:1)<br>
 	2. Nimsta (2:1)<br>
 	4. BillY_Patro (5:4)<br>
@@ -195,7 +195,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Buz (2:4)<br>
 <br>
 21. #shadybiz (1130) 0<br>
-+27|+23|+16|+3|+1|+4|-5|-2|-4|-8<br>
++27|+24|+17|+4|+2|+4|-5|-1|-4|-8<br>
 	1. GreatApple~214 (1:1)<br>
 	2. Nimsta (1:1)<br>
 	3. rickss (2:0)<br>
@@ -236,15 +236,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. TangySoda~164 (0:2)<br>
 	10. Buz (3:5)<br>
 <br>
-25. #Irish47 (1107) 0<br>
-+92|+57|+25|+9<br>
-	4. BillY_Patro (0:2)<br>
-	5. Jarre (1:6)<br>
-	6. A-z-sh (3:3)<br>
-	9. TangySoda~164 (4:2)<br>
-<br>
-26. #meltedcheese (1107) +5<br>
-+42|+41|+35|+29|+26|+20|+16|+16|+5|+2<br>
+25. #meltedcheese (1108) +5<br>
++43|+42|+35|+30|+27|+20|+17|+17|+6|+2<br>
 	1. GreatApple~214 (0:2)<br>
 	2. Nimsta (0:2)<br>
 	3. rickss (3:2)<br>
@@ -256,8 +249,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. TangySoda~164 (0:3)<br>
 	10. Buz (4:4)<br>
 <br>
-27. #TinyOwl~323 (1107) +2<br>
-+1|+9|+4|+8|+5|+13|+10|-2|-4|+1<br>
+26. #TinyOwl~323 (1108) +2<br>
++2|+10|+5|+9|+7|+14|+11|-1|-5|+1<br>
 	1. GreatApple~214 (2:5)<br>
 	2. Nimsta (0:5)<br>
 	3. rickss (0:4)<br>
@@ -267,6 +260,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. z.snafu (4:3)<br>
 	9. TangySoda~164 (0:1)<br>
 	10. Buz (2:0)<br>
+<br>
+27. #Irish47 (1107) 0<br>
++92|+57|+25|+9<br>
+	4. BillY_Patro (0:2)<br>
+	5. Jarre (1:6)<br>
+	6. A-z-sh (3:3)<br>
+	9. TangySoda~164 (4:2)<br>
 <br>
 28. #TidyFox-415 (1104) -1<br>
 +78|+33|+4|+6<br>
@@ -309,8 +309,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. TangySoda~164 (1:0)<br>
 	10. Buz (3:5)<br>
 <br>
-32. #firejones (1092) -3<br>
-+62|+37|+3|-5<br>
+32. #firejones (1093) -3<br>
++63|+38|+4|-5<br>
 	3. rickss (0:1)<br>
 	4. BillY_Patro (1:4)<br>
 	5. Jarre (4:1)<br>
@@ -487,14 +487,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Buz (0:9)<br>
 <br>
 51. #Maximus4444 (1008) 0<br>
-+5|+5|+7|+5|+3|+13|+6<br>
++5|+5|+7|+6|+3|+13|+6<br>
 	3. rickss (5:1)<br>
 	4. BillY_Patro (0:2)<br>
 	5. Jarre (2:2)<br>
 	10. Buz (0:1)<br>
 <br>
 52. #orenong (977) 0<br>
-0|-10|-16|-20|-24|-22|-11|-6|-10|-4<br>
+0|-10|-16|-20|-24|-21|-12|-6|-10|-4<br>
 	3. rickss (0:1)<br>
 	5. Jarre (0:1)<br>
 	10. Buz (0:1)<br>
