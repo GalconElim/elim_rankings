@@ -24,8 +24,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. OrBiTeR (4:2)<br>
 	10. waffle3z (8:19)<br>
 <br>
-4. #bejut (1153) 0<br>
-+63|+57|+46|+40|+30|+15|+11|-1|+2|+2<br>
+4. #bejut (1149) -4<br>
++58|+53|+42|+36|+26|+10|+6|-6|-2|-2<br>
 	1. MusCu (0:4)<br>
 	2. Vadim1707 (12:24)<br>
 	3. Reclamation- (0:1)<br>
@@ -42,8 +42,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Hoberdo (6:5)<br>
 	9. OrBiTeR (11:3)<br>
 <br>
-6. #ss0317 (1128) 0<br>
-+32|+28|+18|+11|+17|+7|-4|-4|-2|-3<br>
+6. #ss0317 (1130) +1<br>
++33|+29|+19|+12|+18|+8|-2|-3|-1|-2<br>
 	1. MusCu (2:9)<br>
 	2. Vadim1707 (7:7)<br>
 	3. Reclamation- (21:58)<br>
@@ -115,7 +115,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 +77|+70|+56|+42|+20|+17|+15|+11|-1<br>
 	1. MusCu (1:2)<br>
 	2. Vadim1707 (1:9)<br>
-	4. bejut (15:5)<br>
+	4. bejut (9:2)<br>
 	6. ss0317 (38:28)<br>
 	8. pablo55 (1:0)<br>
 	10. waffle3z (4:8)<br>
@@ -249,7 +249,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 32. #proxywar (1010) 0<br>
 +3|-5|-1|-6|-7<br>
 	1. MusCu (2:4)<br>
-	4. bejut (9:19)<br>
+	4. bejut (2:9)<br>
 	6. ss0317 (3:8)<br>
 <br>
 33. #touch.me (1005) 0<br>
@@ -269,7 +269,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. pablo55 (1:2)<br>
 	10. waffle3z (3:10)<br>
 <br>
-35. #Ardi09. (993) -1<br>
+35. #Ardi09. (993) 0<br>
 -15|-15|-13|-20|-16|-14|-10|-6|-5|-6<br>
 	4. bejut (18:45)<br>
 	6. ss0317 (13:36)<br>
@@ -299,19 +299,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 +3|+13|+7|+7|-8|-1|-8|0|+1|+7<br>
 	1. MusCu (9:35)<br>
 	2. Vadim1707 (0:6)<br>
-	4. bejut (27:66)<br>
+	4. bejut (27:65)<br>
 	6. ss0317 (54:106)<br>
 	8. pablo55 (4:11)<br>
 	10. waffle3z (0:3)<br>
 <br>
-39. #milkyway (988) +2<br>
--5|-6|-11|-9|-7|-2|+3|+12|+5|+2<br>
+39. #milkyway (986) -2<br>
+-7|-9|-13|-11|-9|-4|+1|+10|+3|0<br>
 	3. Reclamation- (2:30)<br>
 	6. ss0317 (19:62)<br>
 	7. Hoberdo (0:1)<br>
 	8. pablo55 (0:3)<br>
 <br>
-40. #Langoulant (983) +1<br>
+40. #Langoulant (983) 0<br>
 +16|+23|+33|+33|+31|+32|+30|+18|+3|-6<br>
 	3. Reclamation- (7:70)<br>
 	4. bejut (1:6)<br>
@@ -326,7 +326,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. ss0317 (0:5)<br>
 	9. OrBiTeR (0:2)<br>
 <br>
-42. #GenghisCon (967) 0<br>
+42. #Sondair (967) +5<br>
+-1|+3|+8|+16|+25|+17|+9|+12|+6|+5<br>
+	2. Vadim1707 (1:10)<br>
+	3. Reclamation- (1:9)<br>
+	4. bejut (38:138)<br>
+	5. Kretschy198 (3:28)<br>
+	6. ss0317 (41:129)<br>
+	7. Hoberdo (6:36)<br>
+	8. pablo55 (5:14)<br>
+	9. OrBiTeR (6:41)<br>
+	10. waffle3z (0:8)<br>
+<br>
+43. #GenghisCon (967) 0<br>
 -24|-23|-15|-9|-1<br>
 	3. Reclamation- (0:1)<br>
 	4. bejut (0:3)<br>
@@ -334,7 +346,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. pablo55 (0:8)<br>
 	10. waffle3z (3:11)<br>
 <br>
-43. #CoolFaucet~518 (963) 0<br>
+44. #CoolFaucet~518 (963) 0<br>
 +12|+19|+19|+26|+25|+31|+25|+17|+12|+7<br>
 	1. MusCu (0:1)<br>
 	2. Vadim1707 (0:2)<br>
@@ -346,18 +358,6 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. pablo55 (2:4)<br>
 	9. OrBiTeR (0:3)<br>
 	10. waffle3z (1:3)<br>
-<br>
-44. #Sondair (962) 0<br>
--6|-2|+3|+11|+20|+12|+4|+7|+1|0<br>
-	2. Vadim1707 (1:10)<br>
-	3. Reclamation- (1:9)<br>
-	4. bejut (30:132)<br>
-	5. Kretschy198 (3:28)<br>
-	6. ss0317 (41:129)<br>
-	7. Hoberdo (6:36)<br>
-	8. pablo55 (5:14)<br>
-	9. OrBiTeR (6:41)<br>
-	10. waffle3z (0:8)<br>
 <br>
 45. #Chris280tian (954) 0<br>
 +10|+7|+2|-1|-9|+1|+2|-9|-11|0<br>
@@ -391,7 +391,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	1. MusCu (0:11)<br>
 	2. Vadim1707 (0:4)<br>
 	3. Reclamation- (3:46)<br>
-	4. bejut (3:37)<br>
+	4. bejut (3:36)<br>
 	5. Kretschy198 (2:0)<br>
 	6. ss0317 (18:119)<br>
 	7. Hoberdo (0:1)<br>
@@ -399,7 +399,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. OrBiTeR (0:1)<br>
 	10. waffle3z (3:34)<br>
 <br>
-50. #quickmill (875) -1<br>
+50. #quickmill (875) 0<br>
 -17|-20|-15|-18|-9|-7|-10|-7|-2|-2<br>
 	1. MusCu (0:2)<br>
 	2. Vadim1707 (0:1)<br>
@@ -413,7 +413,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	1. MusCu (0:2)<br>
 	2. Vadim1707 (0:2)<br>
 	3. Reclamation- (4:24)<br>
-	4. bejut (5:23)<br>
+	4. bejut (5:22)<br>
 	5. Kretschy198 (0:2)<br>
 	6. ss0317 (9:68)<br>
 	8. pablo55 (0:12)<br>
