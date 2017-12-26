@@ -1,150 +1,147 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #rickss (1264) -2<br>
-+5|+9|+13|+8|+4|+6|+10|+7|+15|+7<br>
+1. #rickss (1265) +1<br>
++6|+10|+14|+9|+5|+7|+11|+7|+15|+8<br>
 	2. BillY_Patro (6:4)<br>
 	3. Jarre (0:2)<br>
 	4. A-z-sh (2:1)<br>
-	6. Milky007 (1:3)<br>
-	8. z.snafu (1:0)<br>
-	9. stront01 (2:0)<br>
-	10. His-Majesty (4:2)<br>
+	6. stront01 (2:0)<br>
+	7. Milky007 (1:3)<br>
+	9. z.snafu (1:0)<br>
+	10. His-Majesty (5:1)<br>
 <br>
-2. #BillY_Patro (1236) -1<br>
-+102|+104|+91|+81|+63|+57|+47|+25|+13|+2<br>
+2. #BillY_Patro (1239) +2<br>
++105|+106|+93|+83|+65|+59|+49|+27|+15|+5<br>
 	1. rickss (4:6)<br>
-	3. Jarre (5:3)<br>
+	3. Jarre (3:2)<br>
 	4. A-z-sh (4:3)<br>
-	6. Milky007 (1:5)<br>
-	8. z.snafu (1:0)<br>
-	9. stront01 (2:2)<br>
-	10. His-Majesty (1:6)<br>
+	6. stront01 (2:2)<br>
+	7. Milky007 (1:5)<br>
+	9. z.snafu (1:0)<br>
+	10. His-Majesty (1:7)<br>
 <br>
-3. #Jarre (1220) +3<br>
+3. #Jarre (1220) 0<br>
 +1|+9|+13|+9|+1|-1|-14|-1|-7|+1<br>
 	1. rickss (2:0)<br>
-	2. BillY_Patro (3:5)<br>
+	2. BillY_Patro (2:3)<br>
 	4. A-z-sh (0:3)<br>
 	5. Tiberius88 (0:1)<br>
-	6. Milky007 (2:1)<br>
-	7. Buz (1:1)<br>
+	7. Milky007 (2:1)<br>
 	10. His-Majesty (3:1)<br>
 <br>
-4. #A-z-sh (1212) 0<br>
--9|-1|-13|-14|-8|-9|-8|0|+5|-4<br>
+4. #A-z-sh (1216) +4<br>
+-5|+2|-9|-10|-4|-6|-4|+4|+9|0<br>
 	1. rickss (1:2)<br>
 	2. BillY_Patro (3:4)<br>
 	3. Jarre (3:0)<br>
-	6. Milky007 (0:1)<br>
-	7. Buz (1:5)<br>
-	9. stront01 (9:6)<br>
+	6. stront01 (9:6)<br>
+	7. Milky007 (0:1)<br>
+	8. Buz (1:5)<br>
 	10. His-Majesty (9:1)<br>
 <br>
-5. #Tiberius88 (1206) +4<br>
-+9|-1|-3|+3|0|-4|-9|-8|-7|-3<br>
+5. #Tiberius88 (1208) +2<br>
++10|+1|-1|+4|+2|-2|-7|-7|-5|-2<br>
 	3. Jarre (1:0)<br>
-	7. Buz (1:0)<br>
-	8. z.snafu (1:3)<br>
-	9. stront01 (1:1)<br>
+	6. stront01 (1:1)<br>
+	8. Buz (1:0)<br>
+	9. z.snafu (1:3)<br>
 <br>
-6. #Milky007 (1186) +2<br>
-+134|+95|+78|+61|+51|+33|+32|+21|+15|+7<br>
-	1. rickss (3:1)<br>
-	2. BillY_Patro (5:1)<br>
-	3. Jarre (1:2)<br>
-	4. A-z-sh (1:0)<br>
-	8. z.snafu (0:1)<br>
-	9. stront01 (1:1)<br>
-	10. His-Majesty (3:0)<br>
-<br>
-7. #Buz (1184) 0<br>
-+3|-13|-14|+2|+10|+8|+6|+9|-1|+3<br>
-	3. Jarre (1:1)<br>
-	4. A-z-sh (5:1)<br>
-	5. Tiberius88 (0:1)<br>
-	8. z.snafu (6:5)<br>
-	10. His-Majesty (2:6)<br>
-<br>
-8. #z.snafu (1181) -2<br>
-+2|-2|+2|+4|-1|+12|+3|+1|-12|-2<br>
-	1. rickss (0:1)<br>
-	2. BillY_Patro (0:1)<br>
-	5. Tiberius88 (3:1)<br>
-	6. Milky007 (1:0)<br>
-	7. Buz (5:6)<br>
-	9. stront01 (0:2)<br>
-	10. His-Majesty (1:1)<br>
-<br>
-9. #stront01 (1180) 0<br>
-+29|+26|+21|+21|+28|+28|+31|+17|+11|+3<br>
+6. #stront01 (1186) +7<br>
++35|+33|+27|+28|+34|+34|+38|+24|+18|+10<br>
 	1. rickss (0:2)<br>
 	2. BillY_Patro (2:2)<br>
 	4. A-z-sh (6:9)<br>
 	5. Tiberius88 (1:1)<br>
-	6. Milky007 (1:1)<br>
-	8. z.snafu (2:0)<br>
+	7. Milky007 (1:1)<br>
+	9. z.snafu (2:0)<br>
 <br>
-10. #His-Majesty (1175) -1<br>
--7|-2|-19|-29|-20|-10|+1|+13|+7|+1<br>
-	1. rickss (2:4)<br>
-	2. BillY_Patro (6:1)<br>
+7. #Milky007 (1184) -1<br>
++94|+77|+60|+49|+31|+31|+20|+13|+6|+3<br>
+	1. rickss (3:1)<br>
+	2. BillY_Patro (5:1)<br>
+	3. Jarre (1:2)<br>
+	4. A-z-sh (1:0)<br>
+	6. stront01 (1:1)<br>
+	9. z.snafu (0:1)<br>
+	10. His-Majesty (3:0)<br>
+<br>
+8. #Buz (1181) -3<br>
+0|-16|-16|-1|+7|+5|+3|+6|-4|0<br>
+	4. A-z-sh (5:1)<br>
+	5. Tiberius88 (0:1)<br>
+	9. z.snafu (4:4)<br>
+	10. His-Majesty (2:6)<br>
+<br>
+9. #z.snafu (1181) -1<br>
++1|-3|+1|+4|-2|+11|+2|0|-13|-3<br>
+	1. rickss (0:1)<br>
+	2. BillY_Patro (0:1)<br>
+	5. Tiberius88 (3:1)<br>
+	6. stront01 (0:2)<br>
+	7. Milky007 (1:0)<br>
+	8. Buz (4:4)<br>
+	10. His-Majesty (1:1)<br>
+<br>
+10. #His-Majesty (1176) 0<br>
+-7|-2|-18|-28|-19|-10|+2|+13|+7|+1<br>
+	1. rickss (1:5)<br>
+	2. BillY_Patro (7:1)<br>
 	3. Jarre (1:3)<br>
 	4. A-z-sh (1:9)<br>
-	6. Milky007 (0:3)<br>
-	7. Buz (6:2)<br>
-	8. z.snafu (1:1)<br>
+	7. Milky007 (0:3)<br>
+	8. Buz (6:2)<br>
+	9. z.snafu (1:1)<br>
 <br>
 11. #dfyyxy (1160) 0<br>
 -5|-7|-5|-15|-22|-14|+5|+6|+3|0<br>
 	2. BillY_Patro (1:3)<br>
 	4. A-z-sh (0:3)<br>
 	5. Tiberius88 (1:0)<br>
-	6. Milky007 (3:1)<br>
-	9. stront01 (1:1)<br>
+	6. stront01 (1:1)<br>
+	7. Milky007 (3:1)<br>
 	10. His-Majesty (3:1)<br>
 <br>
-12. #SpaceX (1150) 0<br>
-+118|+94|+74|+45|+23|+5|0|-7|-2<br>
-	2. BillY_Patro (5:4)<br>
-	3. Jarre (0:1)<br>
-	4. A-z-sh (1:3)<br>
-	6. Milky007 (1:0)<br>
-	7. Buz (2:0)<br>
-	8. z.snafu (0:1)<br>
-	9. stront01 (1:0)<br>
-<br>
-13. #bupkis (1148) +4<br>
-+119|+96|+73|+51|+31|+10|+5|+6<br>
+12. #bupkis (1154) +5<br>
++124|+102|+78|+57|+37|+15|+10|+11<br>
 	1. rickss (1:6)<br>
 	2. BillY_Patro (6:5)<br>
 	3. Jarre (0:2)<br>
 	4. A-z-sh (3:5)<br>
 	5. Tiberius88 (1:0)<br>
-	6. Milky007 (1:1)<br>
-	7. Buz (3:7)<br>
-	9. stront01 (0:1)<br>
+	6. stront01 (0:1)<br>
+	8. Buz (3:7)<br>
 	10. His-Majesty (0:2)<br>
 <br>
-14. #farzip (1141) 0<br>
--8|-9|+1|+1|0|-1|-2|+7|+7|+6<br>
+13. #SpaceX (1150) 0<br>
++118|+94|+74|+45|+23|+5|0|-7|-2<br>
+	2. BillY_Patro (5:4)<br>
+	3. Jarre (0:1)<br>
+	4. A-z-sh (1:3)<br>
+	6. stront01 (1:0)<br>
+	7. Milky007 (1:0)<br>
+	8. Buz (2:0)<br>
+	9. z.snafu (0:1)<br>
+<br>
+14. #farzip (1136) -5<br>
+-14|-5|-4|-5|-6|-7|+2|+2|+1|-1<br>
 	2. BillY_Patro (2:4)<br>
 	4. A-z-sh (0:4)<br>
-	5. Tiberius88 (3:1)<br>
-	6. Milky007 (5:2)<br>
-	7. Buz (2:4)<br>
-	8. z.snafu (1:0)<br>
-	9. stront01 (0:1)<br>
+	5. Tiberius88 (3:2)<br>
+	6. stront01 (0:1)<br>
+	7. Milky007 (5:2)<br>
+	8. Buz (1:4)<br>
+	9. z.snafu (1:0)<br>
 	10. His-Majesty (0:1)<br>
 <br>
-15. #shadybiz (1132) +1<br>
-+25|+19|+6|+3|+6|-3|+1|-2|-6|-1<br>
+15. #shadybiz (1136) +4<br>
++30|+23|+10|+8|+10|+1|+5|+2|-2|+3<br>
 	2. BillY_Patro (1:2)<br>
 	3. Jarre (2:3)<br>
 	5. Tiberius88 (4:1)<br>
-	6. Milky007 (0:2)<br>
-	7. Buz (1:1)<br>
-	8. z.snafu (3:4)<br>
-	10. His-Majesty (0:1)<br>
+	7. Milky007 (0:2)<br>
+	8. Buz (1:1)<br>
+	9. z.snafu (3:4)<br>
+	10. His-Majesty (1:1)<br>
 <br>
 16. #BDAT10 (1128) 0<br>
 -42|-27|-26|-27|-31|-24|-12|-6|+7|-1<br>
@@ -152,38 +149,38 @@ Recent win rates against top 10 over the past 20k matches<br>
 	2. BillY_Patro (0:3)<br>
 	4. A-z-sh (1:0)<br>
 	5. Tiberius88 (0:1)<br>
-	6. Milky007 (1:1)<br>
-	7. Buz (1:1)<br>
-	9. stront01 (2:1)<br>
+	6. stront01 (2:1)<br>
+	7. Milky007 (1:1)<br>
+	8. Buz (1:1)<br>
 	10. His-Majesty (1:1)<br>
 <br>
 17. #stcziiii (1121) 0<br>
 +81|+56|+27<br>
 	3. Jarre (0:2)<br>
 	4. A-z-sh (1:0)<br>
-	7. Buz (3:4)<br>
-	8. z.snafu (3:0)<br>
+	8. Buz (3:4)<br>
+	9. z.snafu (3:0)<br>
 	10. His-Majesty (4:1)<br>
 <br>
-18. #TidyFox-415 (1116) -1<br>
-+90|+45|+16|+17|0<br>
-	4. A-z-sh (3:12)<br>
-	5. Tiberius88 (2:1)<br>
-	7. Buz (0:1)<br>
-	8. z.snafu (1:0)<br>
-	9. stront01 (0:2)<br>
-	10. His-Majesty (2:0)<br>
-<br>
-19. #firejones (1111) -2<br>
-+80|+56|+21|+13|+2<br>
+18. #firejones (1113) +3<br>
++83|+58|+24|+15|+5<br>
 	1. rickss (0:1)<br>
 	2. BillY_Patro (1:6)<br>
 	3. Jarre (4:1)<br>
 	4. A-z-sh (5:2)<br>
-	5. Tiberius88 (1:3)<br>
-	6. Milky007 (2:0)<br>
-	7. Buz (4:2)<br>
-	9. stront01 (1:0)<br>
+	5. Tiberius88 (2:3)<br>
+	6. stront01 (1:2)<br>
+	7. Milky007 (2:0)<br>
+	8. Buz (4:2)<br>
+	10. His-Majesty (2:0)<br>
+<br>
+19. #TidyFox-415 (1112) -3<br>
++86|+42|+13|+14|-4<br>
+	4. A-z-sh (3:16)<br>
+	5. Tiberius88 (2:1)<br>
+	6. stront01 (0:2)<br>
+	8. Buz (0:1)<br>
+	9. z.snafu (1:0)<br>
 	10. His-Majesty (2:0)<br>
 <br>
 20. #ShaggyWasp~457 (1106) 0<br>
@@ -191,34 +188,33 @@ Recent win rates against top 10 over the past 20k matches<br>
 	2. BillY_Patro (0:1)<br>
 	4. A-z-sh (3:4)<br>
 	5. Tiberius88 (1:0)<br>
-	6. Milky007 (0:2)<br>
-	7. Buz (0:2)<br>
-	9. stront01 (1:0)<br>
+	6. stront01 (1:0)<br>
+	7. Milky007 (0:2)<br>
+	8. Buz (0:2)<br>
 <br>
-21. #meltedcheese (1105) +1<br>
-+38|+32|+26|+24|+17|+13|+14|+3|-2|0<br>
-	1. rickss (0:1)<br>
-	2. BillY_Patro (0:4)<br>
-	3. Jarre (1:0)<br>
-	4. A-z-sh (2:3)<br>
-	5. Tiberius88 (7:7)<br>
-	6. Milky007 (0:1)<br>
-	7. Buz (2:2)<br>
-	8. z.snafu (3:3)<br>
-	9. stront01 (3:4)<br>
-	10. His-Majesty (1:2)<br>
-<br>
-22. #TinyOwl~323 (1104) -3<br>
+21. #TinyOwl~323 (1104) 0<br>
 +6|+1|+5|+3|+10|+7|-5|-9|-3|-4<br>
 	1. rickss (1:4)<br>
 	2. BillY_Patro (0:4)<br>
 	3. Jarre (0:1)<br>
 	4. A-z-sh (2:2)<br>
 	5. Tiberius88 (2:1)<br>
-	6. Milky007 (6:10)<br>
-	7. Buz (2:0)<br>
-	8. z.snafu (4:3)<br>
-	10. His-Majesty (3:9)<br>
+	7. Milky007 (6:10)<br>
+	8. Buz (2:0)<br>
+	9. z.snafu (4:3)<br>
+	10. His-Majesty (3:8)<br>
+<br>
+22. #meltedcheese (1101) -4<br>
++34|+28|+23|+20|+13|+9|+10|-1|-5|-4<br>
+	1. rickss (0:1)<br>
+	2. BillY_Patro (0:3)<br>
+	4. A-z-sh (2:3)<br>
+	5. Tiberius88 (7:7)<br>
+	6. stront01 (2:4)<br>
+	7. Milky007 (0:1)<br>
+	8. Buz (2:2)<br>
+	9. z.snafu (3:3)<br>
+	10. His-Majesty (1:2)<br>
 <br>
 23. #SlickGrill~492 (1100) 0<br>
 +64|+32<br>
@@ -226,50 +222,50 @@ Recent win rates against top 10 over the past 20k matches<br>
 	2. BillY_Patro (5:1)<br>
 	3. Jarre (4:1)<br>
 	4. A-z-sh (3:10)<br>
-	6. Milky007 (4:3)<br>
-	7. Buz (3:1)<br>
-	8. z.snafu (1:0)<br>
-	9. stront01 (0:4)<br>
+	6. stront01 (0:4)<br>
+	7. Milky007 (4:3)<br>
+	8. Buz (3:1)<br>
+	9. z.snafu (1:0)<br>
 	10. His-Majesty (9:3)<br>
 <br>
-24. #MushyRam~673 (1094) +11<br>
-+73|+69|+44|+35|+22|0<br>
+24. #MushyRam~673 (1095) +1<br>
++75|+70|+45|+36|+23|+1<br>
 	1. rickss (0:1)<br>
 	2. BillY_Patro (1:2)<br>
 	3. Jarre (0:1)<br>
 	4. A-z-sh (2:0)<br>
 	5. Tiberius88 (2:4)<br>
-	6. Milky007 (3:10)<br>
-	7. Buz (1:0)<br>
-	8. z.snafu (2:2)<br>
-	9. stront01 (2:5)<br>
+	6. stront01 (2:5)<br>
+	7. Milky007 (3:12)<br>
+	8. Buz (1:0)<br>
+	9. z.snafu (2:2)<br>
 	10. His-Majesty (0:3)<br>
 <br>
-25. #ShortDust~832 (1092) -1<br>
-+63|+38|+19|+9|+8|+4|+8|+8<br>
+25. #ShortDust~832 (1094) +2<br>
++65|+40|+21|+12|+10|+6|+10|+11<br>
 	3. Jarre (1:0)<br>
 	4. A-z-sh (1:2)<br>
 	5. Tiberius88 (3:4)<br>
-	7. Buz (3:2)<br>
+	8. Buz (3:2)<br>
+	9. z.snafu (0:1)<br>
 	10. His-Majesty (1:2)<br>
 <br>
-26. #BraveShovel~508 (1091) -3<br>
-+46|+43|+39|+34|+30|+28|+21|+5|0|+3<br>
-	2. BillY_Patro (2:2)<br>
-	5. Tiberius88 (1:2)<br>
-	6. Milky007 (1:3)<br>
-	7. Buz (0:2)<br>
-	8. z.snafu (0:1)<br>
-<br>
-27. #hehe2 (1089) 0<br>
-+52|+34|+10<br>
+26. #hehe2 (1090) +1<br>
++53|+35|+12<br>
 	2. BillY_Patro (1:2)<br>
 	3. Jarre (1:1)<br>
-	6. Milky007 (2:2)<br>
-	7. Buz (1:3)<br>
-	8. z.snafu (1:0)<br>
-	9. stront01 (0:2)<br>
+	6. stront01 (0:2)<br>
+	7. Milky007 (2:2)<br>
+	8. Buz (0:2)<br>
+	9. z.snafu (1:0)<br>
 	10. His-Majesty (2:1)<br>
+<br>
+27. #SlickPine~286 (1088) -1<br>
++87|+74|+60|+47|+30|+20|+2<br>
+	2. BillY_Patro (1:1)<br>
+	6. stront01 (0:3)<br>
+	7. Milky007 (2:3)<br>
+	10. His-Majesty (6:5)<br>
 <br>
 28. #jacobpadova7 (1088) 0<br>
 +82|+68|+54|+41|+15|+2<br>
@@ -277,28 +273,28 @@ Recent win rates against top 10 over the past 20k matches<br>
 	3. Jarre (1:0)<br>
 	4. A-z-sh (2:1)<br>
 	5. Tiberius88 (0:1)<br>
-	6. Milky007 (1:1)<br>
-	8. z.snafu (0:1)<br>
+	7. Milky007 (1:1)<br>
+	9. z.snafu (0:1)<br>
 <br>
 29. #romainlacomb (1077) 0<br>
 +51|+21<br>
 	1. rickss (0:1)<br>
 	2. BillY_Patro (1:6)<br>
-	3. Jarre (2:1)<br>
-	6. Milky007 (4:1)<br>
-	8. z.snafu (1:1)<br>
-	9. stront01 (1:0)<br>
+	3. Jarre (1:1)<br>
+	6. stront01 (1:0)<br>
+	7. Milky007 (4:1)<br>
+	9. z.snafu (1:1)<br>
 	10. His-Majesty (1:2)<br>
 <br>
-30. #AngryDrum~574 (1072) +1<br>
-+63|+30|+13<br>
+30. #AngryDrum~574 (1074) +2<br>
++64|+32|+15<br>
 	2. BillY_Patro (0:1)<br>
 	3. Jarre (2:2)<br>
 	4. A-z-sh (1:0)<br>
 	5. Tiberius88 (0:3)<br>
-	6. Milky007 (0:1)<br>
-	7. Buz (1:0)<br>
-	9. stront01 (0:1)<br>
+	6. stront01 (0:1)<br>
+	7. Milky007 (0:1)<br>
+	8. Buz (1:0)<br>
 	10. His-Majesty (4:3)<br>
 <br>
 31. #slowzx (1063) 0<br>
@@ -308,9 +304,9 @@ Recent win rates against top 10 over the past 20k matches<br>
 	3. Jarre (3:2)<br>
 	4. A-z-sh (1:0)<br>
 	5. Tiberius88 (1:0)<br>
-	6. Milky007 (1:0)<br>
-	7. Buz (1:1)<br>
-	8. z.snafu (1:1)<br>
+	7. Milky007 (1:0)<br>
+	8. Buz (1:1)<br>
+	9. z.snafu (1:1)<br>
 <br>
 32. #not_a_bot (1059) 0<br>
 +34|+14<br>
@@ -319,8 +315,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	3. Jarre (2:1)<br>
 	4. A-z-sh (0:2)<br>
 	5. Tiberius88 (0:1)<br>
-	6. Milky007 (0:1)<br>
-	9. stront01 (3:4)<br>
+	6. stront01 (3:4)<br>
+	7. Milky007 (0:1)<br>
 	10. His-Majesty (1:1)<br>
 <br>
 33. #EliteSofa~940 (1051) 0<br>
@@ -328,7 +324,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	2. BillY_Patro (2:0)<br>
 	3. Jarre (0:2)<br>
 	4. A-z-sh (1:5)<br>
-	7. Buz (3:2)<br>
+	8. Buz (3:2)<br>
 	10. His-Majesty (3:1)<br>
 <br>
 34. #TangyCrush~244 (1047) 0<br>
@@ -337,43 +333,43 @@ Recent win rates against top 10 over the past 20k matches<br>
 	2. BillY_Patro (0:3)<br>
 	3. Jarre (3:4)<br>
 	5. Tiberius88 (0:1)<br>
-	6. Milky007 (2:5)<br>
-	7. Buz (1:0)<br>
+	7. Milky007 (2:5)<br>
+	8. Buz (1:0)<br>
 <br>
-35. #SlickErmine~247 (1044) +3<br>
-+45|+22|+18|+18|-2|-8|-6|-2|-13<br>
+35. #SlickErmine~247 (1046) +2<br>
++47|+24|+21|+20|0|-6|-4|0|-10|+2<br>
 	2. BillY_Patro (1:0)<br>
 	3. Jarre (1:1)<br>
 	5. Tiberius88 (1:3)<br>
-	6. Milky007 (0:1)<br>
-	7. Buz (1:1)<br>
+	7. Milky007 (0:1)<br>
+	8. Buz (1:1)<br>
 	10. His-Majesty (0:5)<br>
 <br>
 36. #MoOoOdy (1042) 0<br>
 +27<br>
 	2. BillY_Patro (0:2)<br>
 	3. Jarre (0:1)<br>
-	6. Milky007 (0:1)<br>
-	7. Buz (0:2)<br>
+	7. Milky007 (0:1)<br>
+	8. Buz (0:2)<br>
 	10. His-Majesty (0:2)<br>
 <br>
-37. #AbsurdBeef~399 (1039) -2<br>
-+47|+37|+34|+12|+5<br>
+37. #AbsurdBeef~399 (1039) 0<br>
++47|+37|+33|+12|+5<br>
 	2. BillY_Patro (1:2)<br>
 	3. Jarre (0:1)<br>
 	4. A-z-sh (0:2)<br>
-	6. Milky007 (3:2)<br>
+	7. Milky007 (3:2)<br>
 	10. His-Majesty (0:2)<br>
 <br>
-38. #Lasman (1026) -2<br>
-+6<br>
+38. #Lasman (1029) +3<br>
++8|-1<br>
 	1. rickss (0:1)<br>
 	3. Jarre (1:0)<br>
 	4. A-z-sh (4:2)<br>
 	5. Tiberius88 (0:1)<br>
-	6. Milky007 (1:0)<br>
-	8. z.snafu (1:0)<br>
-	9. stront01 (1:1)<br>
+	6. stront01 (1:1)<br>
+	7. Milky007 (1:0)<br>
+	9. z.snafu (1:0)<br>
 <br>
 39. #thund3rfrakk (1022) 0<br>
 +28|+24|+20|+8|+13|+10<br>
@@ -381,26 +377,26 @@ Recent win rates against top 10 over the past 20k matches<br>
 	2. BillY_Patro (3:4)<br>
 	3. Jarre (3:2)<br>
 	5. Tiberius88 (0:1)<br>
-	7. Buz (0:6)<br>
-	8. z.snafu (0:1)<br>
-	9. stront01 (0:3)<br>
+	6. stront01 (0:3)<br>
+	8. Buz (0:5)<br>
+	9. z.snafu (0:1)<br>
 	10. His-Majesty (0:4)<br>
 <br>
-40. #BrightSpruc~816 (999) -6<br>
--7|+2<br>
+40. #BrightSpruc~816 (997) -3<br>
+-10|-1|-2<br>
 	1. rickss (1:1)<br>
 	2. BillY_Patro (1:0)<br>
 	3. Jarre (0:1)<br>
 	4. A-z-sh (0:3)<br>
 	5. Tiberius88 (1:6)<br>
-	6. Milky007 (1:2)<br>
-	7. Buz (0:3)<br>
-	9. stront01 (0:1)<br>
+	6. stront01 (0:1)<br>
+	7. Milky007 (1:2)<br>
+	8. Buz (0:3)<br>
 	10. His-Majesty (1:0)<br>
 <br>
-41. #orenong (974) -1<br>
--4|-14|-19|-23|-27|-25|-15|-10|-13|-7<br>
+41. #orenong (975) +1<br>
+-3|-13|-18|-22|-26|-24|-14|-8|-12|-6<br>
 	3. Jarre (0:1)<br>
-	6. Milky007 (1:0)<br>
-	7. Buz (0:1)<br>
-	9. stront01 (0:3)<br>
+	6. stront01 (0:3)<br>
+	7. Milky007 (1:0)<br>
+	8. Buz (0:1)<br>
