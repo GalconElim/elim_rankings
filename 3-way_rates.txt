@@ -1,424 +1,406 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #rickss (1267) +1<br>
-+8|+12|+16|+11|+7|+9|+13|+9|+17|+10<br>
+1. #rickss (1264) -2<br>
++5|+9|+13|+8|+4|+6|+10|+7|+15|+7<br>
 	2. BillY_Patro (6:4)<br>
 	3. Jarre (0:2)<br>
 	4. A-z-sh (2:1)<br>
-	6. MUF (0:1)<br>
-	7. Buz (1:1)<br>
-	8. Milky007 (1:3)<br>
-	10. ZenSamurai (3:3)<br>
+	6. Milky007 (1:3)<br>
+	8. z.snafu (1:0)<br>
+	9. stront01 (2:0)<br>
+	10. His-Majesty (4:2)<br>
 <br>
-2. #BillY_Patro (1234) +2<br>
-+101|+102|+89|+79|+61|+55|+45|+23|+11|+1<br>
+2. #BillY_Patro (1236) -1<br>
++102|+104|+91|+81|+63|+57|+47|+25|+13|+2<br>
 	1. rickss (4:6)<br>
 	3. Jarre (5:3)<br>
 	4. A-z-sh (4:3)<br>
-	6. MUF (1:0)<br>
-	7. Buz (0:1)<br>
-	8. Milky007 (1:5)<br>
-	10. ZenSamurai (1:1)<br>
+	6. Milky007 (1:5)<br>
+	8. z.snafu (1:0)<br>
+	9. stront01 (2:2)<br>
+	10. His-Majesty (1:6)<br>
 <br>
-3. #Jarre (1217) 0<br>
-+5|-1|+6|+10|+7|-1|-4|-16|-4|-10<br>
+3. #Jarre (1220) +3<br>
++1|+9|+13|+9|+1|-1|-14|-1|-7|+1<br>
 	1. rickss (2:0)<br>
 	2. BillY_Patro (3:5)<br>
-	4. A-z-sh (0:4)<br>
-	5. Tiberius88 (0:2)<br>
-	6. MUF (1:0)<br>
+	4. A-z-sh (0:3)<br>
+	5. Tiberius88 (0:1)<br>
+	6. Milky007 (2:1)<br>
 	7. Buz (1:1)<br>
-	8. Milky007 (1:1)<br>
+	10. His-Majesty (3:1)<br>
 <br>
-4. #A-z-sh (1214) 0<br>
--7|+1|-11|-12|-6|-7|-6|+2|+7|-2<br>
+4. #A-z-sh (1212) 0<br>
+-9|-1|-13|-14|-8|-9|-8|0|+5|-4<br>
 	1. rickss (1:2)<br>
 	2. BillY_Patro (3:4)<br>
-	3. Jarre (4:0)<br>
+	3. Jarre (3:0)<br>
+	6. Milky007 (0:1)<br>
 	7. Buz (1:5)<br>
-	8. Milky007 (0:1)<br>
-	10. ZenSamurai (0:1)<br>
+	9. stront01 (9:6)<br>
+	10. His-Majesty (9:1)<br>
 <br>
-5. #Tiberius88 (1207) -1<br>
-+10|+1|-2|+4|+2|-3|-7|-7|-5|-2<br>
-	3. Jarre (2:0)<br>
+5. #Tiberius88 (1206) +4<br>
++9|-1|-3|+3|0|-4|-9|-8|-7|-3<br>
+	3. Jarre (1:0)<br>
 	7. Buz (1:0)<br>
-	9. z.snafu (1:3)<br>
+	8. z.snafu (1:3)<br>
+	9. stront01 (1:1)<br>
 <br>
-6. #MUF (1198) +1<br>
-+117|+99|+92|+60|+40|+30|+22|+20|+10|+1<br>
-	1. rickss (1:0)<br>
-	2. BillY_Patro (0:1)<br>
-	3. Jarre (0:1)<br>
-	8. Milky007 (1:6)<br>
-	10. ZenSamurai (1:0)<br>
+6. #Milky007 (1186) +2<br>
++134|+95|+78|+61|+51|+33|+32|+21|+15|+7<br>
+	1. rickss (3:1)<br>
+	2. BillY_Patro (5:1)<br>
+	3. Jarre (1:2)<br>
+	4. A-z-sh (1:0)<br>
+	8. z.snafu (0:1)<br>
+	9. stront01 (1:1)<br>
+	10. His-Majesty (3:0)<br>
 <br>
-7. #Buz (1184) +1<br>
-+3|-13|-13|+2|+10|+8|+6|+9|-1|+3<br>
-	1. rickss (1:1)<br>
-	2. BillY_Patro (1:0)<br>
+7. #Buz (1184) 0<br>
++3|-13|-14|+2|+10|+8|+6|+9|-1|+3<br>
 	3. Jarre (1:1)<br>
 	4. A-z-sh (5:1)<br>
 	5. Tiberius88 (0:1)<br>
-	9. z.snafu (7:6)<br>
-	10. ZenSamurai (0:1)<br>
+	8. z.snafu (6:5)<br>
+	10. His-Majesty (2:6)<br>
 <br>
-8. #Milky007 (1184) +2<br>
-+132|+93|+77|+59|+49|+31|+30|+19|+13|+5<br>
-	1. rickss (3:1)<br>
-	2. BillY_Patro (5:1)<br>
-	3. Jarre (1:1)<br>
-	4. A-z-sh (1:0)<br>
-	6. MUF (6:1)<br>
-	9. z.snafu (0:1)<br>
-	10. ZenSamurai (4:2)<br>
-<br>
-9. #z.snafu (1182) +1<br>
-+3|-1|+3|+6|0|+13|+4|+2|-11|-1<br>
+8. #z.snafu (1181) -2<br>
++2|-2|+2|+4|-1|+12|+3|+1|-12|-2<br>
+	1. rickss (0:1)<br>
+	2. BillY_Patro (0:1)<br>
 	5. Tiberius88 (3:1)<br>
-	7. Buz (6:7)<br>
-	8. Milky007 (1:0)<br>
-	10. ZenSamurai (3:3)<br>
+	6. Milky007 (1:0)<br>
+	7. Buz (5:6)<br>
+	9. stront01 (0:2)<br>
+	10. His-Majesty (1:1)<br>
 <br>
-10. #ZenSamurai (1180) 0<br>
-+38|+41|+28|+17|+7|+4|+2|-6|-2|-5<br>
-	1. rickss (3:3)<br>
-	2. BillY_Patro (1:1)<br>
-	4. A-z-sh (1:0)<br>
-	6. MUF (0:1)<br>
-	7. Buz (1:0)<br>
-	8. Milky007 (2:4)<br>
-	9. z.snafu (3:3)<br>
-<br>
-11. #stront01 (1177) +2<br>
-+26|+24|+18|+18|+25|+25|+29|+15|+9|+1<br>
+9. #stront01 (1180) 0<br>
++29|+26|+21|+21|+28|+28|+31|+17|+11|+3<br>
 	1. rickss (0:2)<br>
 	2. BillY_Patro (2:2)<br>
-	4. A-z-sh (8:6)<br>
-	6. MUF (0:1)<br>
-	8. Milky007 (1:1)<br>
-	9. z.snafu (2:1)<br>
+	4. A-z-sh (6:9)<br>
+	5. Tiberius88 (1:1)<br>
+	6. Milky007 (1:1)<br>
+	8. z.snafu (2:0)<br>
 <br>
-12. #His-Majesty (1177) +3<br>
--6|-1|-17|-27|-18|-8|+3|+15|+8|+2<br>
+10. #His-Majesty (1175) -1<br>
+-7|-2|-19|-29|-20|-10|+1|+13|+7|+1<br>
 	1. rickss (2:4)<br>
 	2. BillY_Patro (6:1)<br>
 	3. Jarre (1:3)<br>
 	4. A-z-sh (1:9)<br>
-	6. MUF (4:7)<br>
+	6. Milky007 (0:3)<br>
 	7. Buz (6:2)<br>
-	8. Milky007 (0:1)<br>
-	9. z.snafu (1:1)<br>
+	8. z.snafu (1:1)<br>
 <br>
-13. #dfyyxy (1160) 0<br>
+11. #dfyyxy (1160) 0<br>
 -5|-7|-5|-15|-22|-14|+5|+6|+3|0<br>
 	2. BillY_Patro (1:3)<br>
 	4. A-z-sh (0:3)<br>
 	5. Tiberius88 (1:0)<br>
-	8. Milky007 (3:1)<br>
+	6. Milky007 (3:1)<br>
+	9. stront01 (1:1)<br>
+	10. His-Majesty (3:1)<br>
 <br>
-14. #SpaceX (1150) 0<br>
+12. #SpaceX (1150) 0<br>
 +118|+94|+74|+45|+23|+5|0|-7|-2<br>
 	2. BillY_Patro (5:4)<br>
-	3. Jarre (0:2)<br>
+	3. Jarre (0:1)<br>
 	4. A-z-sh (1:3)<br>
-	6. MUF (0:1)<br>
+	6. Milky007 (1:0)<br>
 	7. Buz (2:0)<br>
-	8. Milky007 (1:0)<br>
-	9. z.snafu (0:1)<br>
+	8. z.snafu (0:1)<br>
+	9. stront01 (1:0)<br>
 <br>
-15. #bupkis (1142) 0<br>
-+112|+90|+66|+45|+25|+3|-2<br>
-	1. rickss (2:6)<br>
+13. #bupkis (1148) +4<br>
++119|+96|+73|+51|+31|+10|+5|+6<br>
+	1. rickss (1:6)<br>
 	2. BillY_Patro (6:5)<br>
 	3. Jarre (0:2)<br>
 	4. A-z-sh (3:5)<br>
 	5. Tiberius88 (1:0)<br>
-	6. MUF (2:1)<br>
-	7. Buz (4:7)<br>
-	8. Milky007 (1:1)<br>
-	10. ZenSamurai (1:0)<br>
+	6. Milky007 (1:1)<br>
+	7. Buz (3:7)<br>
+	9. stront01 (0:1)<br>
+	10. His-Majesty (0:2)<br>
 <br>
-16. #farzip (1135) -2<br>
--14|-16|-6|-5|-7|-7|-8|+1|+1|0<br>
+14. #farzip (1141) 0<br>
+-8|-9|+1|+1|0|-1|-2|+7|+7|+6<br>
 	2. BillY_Patro (2:4)<br>
 	4. A-z-sh (0:4)<br>
 	5. Tiberius88 (3:1)<br>
-	6. MUF (1:0)<br>
+	6. Milky007 (5:2)<br>
 	7. Buz (2:4)<br>
-	8. Milky007 (1:0)<br>
-	9. z.snafu (2:1)<br>
+	8. z.snafu (1:0)<br>
+	9. stront01 (0:1)<br>
+	10. His-Majesty (0:1)<br>
 <br>
-17. #shadybiz (1132) -2<br>
-+26|+19|+6|+4|+7|-3|+1|-2|-6|0<br>
+15. #shadybiz (1132) +1<br>
++25|+19|+6|+3|+6|-3|+1|-2|-6|-1<br>
 	2. BillY_Patro (1:2)<br>
-	3. Jarre (2:2)<br>
-	5. Tiberius88 (3:0)<br>
-	6. MUF (1:2)<br>
-	7. Buz (1:2)<br>
-	8. Milky007 (0:2)<br>
-	9. z.snafu (3:4)<br>
-	10. ZenSamurai (1:1)<br>
+	3. Jarre (2:3)<br>
+	5. Tiberius88 (4:1)<br>
+	6. Milky007 (0:2)<br>
+	7. Buz (1:1)<br>
+	8. z.snafu (3:4)<br>
+	10. His-Majesty (0:1)<br>
 <br>
-18. #BDAT10 (1131) 0<br>
--39|-24|-23|-24|-27|-21|-9|-2|+10|+2<br>
+16. #BDAT10 (1128) 0<br>
+-42|-27|-26|-27|-31|-24|-12|-6|+7|-1<br>
 	1. rickss (1:7)<br>
 	2. BillY_Patro (0:3)<br>
 	4. A-z-sh (1:0)<br>
 	5. Tiberius88 (0:1)<br>
-	6. MUF (1:1)<br>
+	6. Milky007 (1:1)<br>
 	7. Buz (1:1)<br>
-	8. Milky007 (1:1)<br>
-	10. ZenSamurai (0:1)<br>
+	9. stront01 (2:1)<br>
+	10. His-Majesty (1:1)<br>
 <br>
-19. #stcziiii (1120) +2<br>
-+80|+55|+26<br>
-	1. rickss (0:1)<br>
+17. #stcziiii (1121) 0<br>
++81|+56|+27<br>
 	3. Jarre (0:2)<br>
-	4. A-z-sh (3:0)<br>
-	5. Tiberius88 (1:0)<br>
+	4. A-z-sh (1:0)<br>
 	7. Buz (3:4)<br>
-	9. z.snafu (3:0)<br>
-	10. ZenSamurai (1:2)<br>
+	8. z.snafu (3:0)<br>
+	10. His-Majesty (4:1)<br>
 <br>
-20. #TidyFox-415 (1117) +5<br>
-+91|+46|+17|+18|+1<br>
-	1. rickss (1:0)<br>
-	4. A-z-sh (3:10)<br>
+18. #TidyFox-415 (1116) -1<br>
++90|+45|+16|+17|0<br>
+	4. A-z-sh (3:12)<br>
 	5. Tiberius88 (2:1)<br>
-	6. MUF (1:4)<br>
-	7. Buz (1:1)<br>
-	9. z.snafu (1:0)<br>
-	10. ZenSamurai (0:2)<br>
+	7. Buz (0:1)<br>
+	8. z.snafu (1:0)<br>
+	9. stront01 (0:2)<br>
+	10. His-Majesty (2:0)<br>
 <br>
-21. #TinyOwl~323 (1112) 0<br>
-+7|+14|+9|+14|+11|+18|+15|+4|0|+5<br>
+19. #firejones (1111) -2<br>
++80|+56|+21|+13|+2<br>
+	1. rickss (0:1)<br>
+	2. BillY_Patro (1:6)<br>
+	3. Jarre (4:1)<br>
+	4. A-z-sh (5:2)<br>
+	5. Tiberius88 (1:3)<br>
+	6. Milky007 (2:0)<br>
+	7. Buz (4:2)<br>
+	9. stront01 (1:0)<br>
+	10. His-Majesty (2:0)<br>
+<br>
+20. #ShaggyWasp~457 (1106) 0<br>
++101|+89|+64|+36|+21|+14|+10|+4<br>
+	2. BillY_Patro (0:1)<br>
+	4. A-z-sh (3:4)<br>
+	5. Tiberius88 (1:0)<br>
+	6. Milky007 (0:2)<br>
+	7. Buz (0:2)<br>
+	9. stront01 (1:0)<br>
+<br>
+21. #meltedcheese (1105) +1<br>
++38|+32|+26|+24|+17|+13|+14|+3|-2|0<br>
+	1. rickss (0:1)<br>
+	2. BillY_Patro (0:4)<br>
+	3. Jarre (1:0)<br>
+	4. A-z-sh (2:3)<br>
+	5. Tiberius88 (7:7)<br>
+	6. Milky007 (0:1)<br>
+	7. Buz (2:2)<br>
+	8. z.snafu (3:3)<br>
+	9. stront01 (3:4)<br>
+	10. His-Majesty (1:2)<br>
+<br>
+22. #TinyOwl~323 (1104) -3<br>
++6|+1|+5|+3|+10|+7|-5|-9|-3|-4<br>
 	1. rickss (1:4)<br>
 	2. BillY_Patro (0:4)<br>
 	3. Jarre (0:1)<br>
 	4. A-z-sh (2:2)<br>
 	5. Tiberius88 (2:1)<br>
+	6. Milky007 (6:10)<br>
 	7. Buz (2:0)<br>
-	8. Milky007 (6:9)<br>
-	9. z.snafu (4:3)<br>
+	8. z.snafu (4:3)<br>
+	10. His-Majesty (3:9)<br>
 <br>
-22. #firejones (1110) +5<br>
-+80|+55|+20|+12|+2<br>
-	1. rickss (0:1)<br>
-	2. BillY_Patro (1:4)<br>
-	3. Jarre (4:1)<br>
-	4. A-z-sh (5:2)<br>
-	5. Tiberius88 (1:2)<br>
-	7. Buz (4:2)<br>
-	8. Milky007 (1:0)<br>
-	10. ZenSamurai (1:0)<br>
-<br>
-23. #Irish47 (1110) 0<br>
-+94|+59|+27|+12<br>
-	2. BillY_Patro (1:1)<br>
-	3. Jarre (0:3)<br>
-	4. A-z-sh (3:3)<br>
-	8. Milky007 (0:2)<br>
-<br>
-24. #meltedcheese (1107) 0<br>
-+41|+40|+34|+29|+26|+19|+15|+16|+5|+1<br>
-	1. rickss (1:1)<br>
-	2. BillY_Patro (0:4)<br>
-	3. Jarre (1:0)<br>
-	4. A-z-sh (3:2)<br>
-	5. Tiberius88 (7:5)<br>
-	6. MUF (1:0)<br>
-	7. Buz (2:2)<br>
-	8. Milky007 (0:1)<br>
-	9. z.snafu (3:2)<br>
-	10. ZenSamurai (2:3)<br>
-<br>
-25. #ShaggyWasp~457 (1106) +1<br>
-+101|+89|+64|+36|+21|+14|+10|+4<br>
-	2. BillY_Patro (1:2)<br>
-	4. A-z-sh (3:4)<br>
-	5. Tiberius88 (1:0)<br>
-	6. MUF (0:2)<br>
-	7. Buz (0:2)<br>
-	8. Milky007 (0:2)<br>
-<br>
-26. #SlickGrill~492 (1100) 0<br>
+23. #SlickGrill~492 (1100) 0<br>
 +64|+32<br>
 	1. rickss (0:1)<br>
 	2. BillY_Patro (5:1)<br>
 	3. Jarre (4:1)<br>
 	4. A-z-sh (3:10)<br>
-	6. MUF (3:1)<br>
+	6. Milky007 (4:3)<br>
 	7. Buz (3:1)<br>
-	8. Milky007 (4:3)<br>
-	9. z.snafu (1:0)<br>
-	10. ZenSamurai (1:0)<br>
+	8. z.snafu (1:0)<br>
+	9. stront01 (0:4)<br>
+	10. His-Majesty (9:3)<br>
 <br>
-27. #Gungala (1097) 0<br>
-+14|+21|+17|+7|+10|-1|0|+10|+7|+9<br>
-	4. A-z-sh (1:4)<br>
-	7. Buz (3:3)<br>
-	9. z.snafu (1:1)<br>
-	10. ZenSamurai (0:1)<br>
-<br>
-28. #BraveShovel~508 (1093) +2<br>
-+49|+46|+42|+37|+33|+31|+24|+8|+3|+6<br>
-	2. BillY_Patro (2:0)<br>
-	5. Tiberius88 (0:2)<br>
-	7. Buz (0:2)<br>
-	8. Milky007 (1:2)<br>
-<br>
-29. #ShortDust~832 (1093) -1<br>
-+64|+38|+20|+10|+9|+5|+9|+9<br>
-	3. Jarre (1:0)<br>
-	4. A-z-sh (1:2)<br>
-	5. Tiberius88 (3:4)<br>
-	7. Buz (3:2)<br>
-	10. ZenSamurai (0:1)<br>
-<br>
-30. #hehe2 (1089) 0<br>
-+51|+33|+10<br>
-	2. BillY_Patro (1:2)<br>
-	3. Jarre (1:1)<br>
-	7. Buz (1:3)<br>
-	8. Milky007 (2:2)<br>
-	9. z.snafu (1:0)<br>
-	10. ZenSamurai (1:0)<br>
-<br>
-31. #dear_master (1089) +9<br>
-+47|+19<br>
-	2. BillY_Patro (1:0)<br>
-	4. A-z-sh (0:2)<br>
-	7. Buz (1:3)<br>
-	8. Milky007 (0:1)<br>
-	10. ZenSamurai (0:1)<br>
-<br>
-32. #jacobpadova7 (1085) +2<br>
-+79|+65|+51|+38|+12<br>
-	1. rickss (1:0)<br>
-	3. Jarre (1:0)<br>
-	4. A-z-sh (2:1)<br>
-	5. Tiberius88 (0:1)<br>
-	6. MUF (0:1)<br>
-	8. Milky007 (1:1)<br>
-	9. z.snafu (0:2)<br>
-<br>
-33. #MushyRam~673 (1083) -1<br>
-+62|+57|+32|+23|+10<br>
+24. #MushyRam~673 (1094) +11<br>
++73|+69|+44|+35|+22|0<br>
 	1. rickss (0:1)<br>
 	2. BillY_Patro (1:2)<br>
 	3. Jarre (0:1)<br>
 	4. A-z-sh (2:0)<br>
-	5. Tiberius88 (1:0)<br>
-	6. MUF (2:1)<br>
+	5. Tiberius88 (2:4)<br>
+	6. Milky007 (3:10)<br>
 	7. Buz (1:0)<br>
-	8. Milky007 (2:5)<br>
-	9. z.snafu (2:2)<br>
+	8. z.snafu (2:2)<br>
+	9. stront01 (2:5)<br>
+	10. His-Majesty (0:3)<br>
 <br>
-34. #romainlacomb (1077) +5<br>
+25. #ShortDust~832 (1092) -1<br>
++63|+38|+19|+9|+8|+4|+8|+8<br>
+	3. Jarre (1:0)<br>
+	4. A-z-sh (1:2)<br>
+	5. Tiberius88 (3:4)<br>
+	7. Buz (3:2)<br>
+	10. His-Majesty (1:2)<br>
+<br>
+26. #BraveShovel~508 (1091) -3<br>
++46|+43|+39|+34|+30|+28|+21|+5|0|+3<br>
+	2. BillY_Patro (2:2)<br>
+	5. Tiberius88 (1:2)<br>
+	6. Milky007 (1:3)<br>
+	7. Buz (0:2)<br>
+	8. z.snafu (0:1)<br>
+<br>
+27. #hehe2 (1089) 0<br>
++52|+34|+10<br>
+	2. BillY_Patro (1:2)<br>
+	3. Jarre (1:1)<br>
+	6. Milky007 (2:2)<br>
+	7. Buz (1:3)<br>
+	8. z.snafu (1:0)<br>
+	9. stront01 (0:2)<br>
+	10. His-Majesty (2:1)<br>
+<br>
+28. #jacobpadova7 (1088) 0<br>
++82|+68|+54|+41|+15|+2<br>
+	1. rickss (1:2)<br>
+	3. Jarre (1:0)<br>
+	4. A-z-sh (2:1)<br>
+	5. Tiberius88 (0:1)<br>
+	6. Milky007 (1:1)<br>
+	8. z.snafu (0:1)<br>
+<br>
+29. #romainlacomb (1077) 0<br>
 +51|+21<br>
 	1. rickss (0:1)<br>
 	2. BillY_Patro (1:6)<br>
 	3. Jarre (2:1)<br>
-	5. Tiberius88 (1:2)<br>
-	6. MUF (0:1)<br>
-	8. Milky007 (4:1)<br>
-	9. z.snafu (2:1)<br>
+	6. Milky007 (4:1)<br>
+	8. z.snafu (1:1)<br>
+	9. stront01 (1:0)<br>
+	10. His-Majesty (1:2)<br>
 <br>
-35. #AngryDrum~574 (1069) 0<br>
-+60|+28|+10<br>
+30. #AngryDrum~574 (1072) +1<br>
++63|+30|+13<br>
 	2. BillY_Patro (0:1)<br>
-	3. Jarre (1:0)<br>
+	3. Jarre (2:2)<br>
 	4. A-z-sh (1:0)<br>
-	5. Tiberius88 (1:4)<br>
-	6. MUF (2:2)<br>
+	5. Tiberius88 (0:3)<br>
+	6. Milky007 (0:1)<br>
 	7. Buz (1:0)<br>
-	8. Milky007 (0:1)<br>
-	10. ZenSamurai (1:0)<br>
+	9. stront01 (0:1)<br>
+	10. His-Majesty (4:3)<br>
 <br>
-36. #not_a_bot (1059) +1<br>
+31. #slowzx (1063) 0<br>
++45|+25<br>
+	1. rickss (0:1)<br>
+	2. BillY_Patro (1:0)<br>
+	3. Jarre (3:2)<br>
+	4. A-z-sh (1:0)<br>
+	5. Tiberius88 (1:0)<br>
+	6. Milky007 (1:0)<br>
+	7. Buz (1:1)<br>
+	8. z.snafu (1:1)<br>
+<br>
+32. #not_a_bot (1059) 0<br>
 +34|+14<br>
-	1. rickss (2:1)<br>
+	1. rickss (2:2)<br>
 	2. BillY_Patro (1:2)<br>
 	3. Jarre (2:1)<br>
 	4. A-z-sh (0:2)<br>
 	5. Tiberius88 (0:1)<br>
-	8. Milky007 (0:1)<br>
-	10. ZenSamurai (2:1)<br>
+	6. Milky007 (0:1)<br>
+	9. stront01 (3:4)<br>
+	10. His-Majesty (1:1)<br>
 <br>
-37. #DenimDude (1052) 0<br>
-+15<br>
-	1. rickss (0:1)<br>
-	2. BillY_Patro (0:1)<br>
-	3. Jarre (1:0)<br>
-	5. Tiberius88 (1:0)<br>
-	6. MUF (0:1)<br>
-	7. Buz (1:0)<br>
-	9. z.snafu (1:1)<br>
-	10. ZenSamurai (1:0)<br>
-<br>
-38. #EliteSofa~940 (1051) 0<br>
+33. #EliteSofa~940 (1051) 0<br>
 +31|+18|+15|+6<br>
 	2. BillY_Patro (2:0)<br>
 	3. Jarre (0:2)<br>
 	4. A-z-sh (1:5)<br>
 	7. Buz (3:2)<br>
+	10. His-Majesty (3:1)<br>
 <br>
-39. #TangyCrush~244 (1047) 0<br>
+34. #TangyCrush~244 (1047) 0<br>
 +28|+11|-1<br>
 	1. rickss (0:1)<br>
 	2. BillY_Patro (0:3)<br>
 	3. Jarre (3:4)<br>
 	5. Tiberius88 (0:1)<br>
+	6. Milky007 (2:5)<br>
 	7. Buz (1:0)<br>
-	8. Milky007 (2:5)<br>
-	10. ZenSamurai (2:0)<br>
 <br>
-40. #SlickErmine~247 (1043) -3<br>
-+43|+21|+17|+16|-3|-9|-8|-3|-14<br>
+35. #SlickErmine~247 (1044) +3<br>
++45|+22|+18|+18|-2|-8|-6|-2|-13<br>
 	2. BillY_Patro (1:0)<br>
 	3. Jarre (1:1)<br>
-	5. Tiberius88 (0:3)<br>
-	6. MUF (2:1)<br>
+	5. Tiberius88 (1:3)<br>
+	6. Milky007 (0:1)<br>
 	7. Buz (1:1)<br>
-	8. Milky007 (0:1)<br>
-	10. ZenSamurai (1:0)<br>
+	10. His-Majesty (0:5)<br>
 <br>
-41. #AbsurdBeef~399 (1040) 0<br>
-+48|+38|+35|+13|+6<br>
+36. #MoOoOdy (1042) 0<br>
++27<br>
+	2. BillY_Patro (0:2)<br>
+	3. Jarre (0:1)<br>
+	6. Milky007 (0:1)<br>
+	7. Buz (0:2)<br>
+	10. His-Majesty (0:2)<br>
+<br>
+37. #AbsurdBeef~399 (1039) -2<br>
++47|+37|+34|+12|+5<br>
 	2. BillY_Patro (1:2)<br>
 	3. Jarre (0:1)<br>
 	4. A-z-sh (0:2)<br>
-	8. Milky007 (3:2)<br>
-	10. ZenSamurai (1:0)<br>
+	6. Milky007 (3:2)<br>
+	10. His-Majesty (0:2)<br>
 <br>
-42. #MoOoOdy (1040) +2<br>
-+25<br>
-	2. BillY_Patro (0:2)<br>
-	3. Jarre (0:1)<br>
-	7. Buz (0:2)<br>
-	8. Milky007 (0:1)<br>
+38. #Lasman (1026) -2<br>
++6<br>
+	1. rickss (0:1)<br>
+	3. Jarre (1:0)<br>
+	4. A-z-sh (4:2)<br>
+	5. Tiberius88 (0:1)<br>
+	6. Milky007 (1:0)<br>
+	8. z.snafu (1:0)<br>
+	9. stront01 (1:1)<br>
 <br>
-43. #thund3rfrakk (1022) +3<br>
-+28|+24|+20|+7|+13|+10<br>
+39. #thund3rfrakk (1022) 0<br>
++28|+24|+20|+8|+13|+10<br>
 	1. rickss (1:2)<br>
 	2. BillY_Patro (3:4)<br>
 	3. Jarre (3:2)<br>
 	5. Tiberius88 (0:1)<br>
-	6. MUF (1:0)<br>
 	7. Buz (0:6)<br>
-	9. z.snafu (0:1)<br>
+	8. z.snafu (0:1)<br>
+	9. stront01 (0:3)<br>
+	10. His-Majesty (0:4)<br>
 <br>
-44. #Maximus4444 (1005) -2<br>
-+2|+3|+5|+3|+1|+10|+3<br>
-	1. rickss (4:0)<br>
-	2. BillY_Patro (0:2)<br>
-	5. Tiberius88 (0:2)<br>
-<br>
-45. #orenong (976) 0<br>
--1|-11|-17|-21|-25|-22|-13|-7|-11|-5<br>
-	1. rickss (0:1)<br>
+40. #BrightSpruc~816 (999) -6<br>
+-7|+2<br>
+	1. rickss (1:1)<br>
+	2. BillY_Patro (1:0)<br>
 	3. Jarre (0:1)<br>
+	4. A-z-sh (0:3)<br>
+	5. Tiberius88 (1:6)<br>
+	6. Milky007 (1:2)<br>
+	7. Buz (0:3)<br>
+	9. stront01 (0:1)<br>
+	10. His-Majesty (1:0)<br>
+<br>
+41. #orenong (974) -1<br>
+-4|-14|-19|-23|-27|-25|-15|-10|-13|-7<br>
+	3. Jarre (0:1)<br>
+	6. Milky007 (1:0)<br>
 	7. Buz (0:1)<br>
-	8. Milky007 (1:0)<br>
-	10. ZenSamurai (0:5)<br>
+	9. stront01 (0:3)<br>
