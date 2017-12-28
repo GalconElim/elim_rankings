@@ -1,93 +1,87 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #GoOody (1381) 0<br>
-+47|+30|+33|+21|+32|+26|+23|+29|+25|+9<br>
+1. #GoOody (1386) +2<br>
++52|+35|+38|+26|+37|+31|+27|+34|+30|+13<br>
 	4. Killer~Waffle (2:2)<br>
 	5. svircs (2:0)<br>
-	7. bandy (1:0)<br>
-	8. Human~Being (0:1)<br>
-	10. Attack~Bot (0:1)<br>
+	8. Attack~Bot (0:1)<br>
+	9. wagaf (2:1)<br>
 <br>
-2. #ianna (1348) +1<br>
-+3|+6|+26|+18|+23|+17|+12|+8|+8|+4<br>
+2. #ianna (1357) +2<br>
++15|+35|+27|+32|+26|+20|+16|+16|+12|+4<br>
 	7. bandy (0:1)<br>
-	8. Human~Being (111:67)<br>
 <br>
 3. #Impatient~Bot (1346) 0<br>
 +210|+179|+158|+131|+104|+89|+76|+48|+27|+9<br>
-	6. Nerf~Bot (93:46)<br>
-	8. Human~Being (10:10)<br>
+	6. Nerf~Bot (74:36)<br>
 <br>
-4. #Killer~Waffle (1342) 0<br>
-+41|+36|+36|+24|+20|+18|+10|+17|+7|+8<br>
+4. #Killer~Waffle (1343) 0<br>
++42|+36|+37|+25|+20|+19|+11|+17|+8|+9<br>
 	1. GoOody (2:2)<br>
-	6. Nerf~Bot (2:0)<br>
-	10. Attack~Bot (4:1)<br>
+	6. Nerf~Bot (3:0)<br>
+	8. Attack~Bot (4:1)<br>
 <br>
-5. #svircs (1315) 0<br>
-+84|+68|+53|+36|+19|+18|+16|+6|+4|-2<br>
+5. #svircs (1314) 0<br>
++83|+68|+53|+35|+19|+18|+15|+5|+3|-2<br>
 	1. GoOody (0:2)<br>
 	7. bandy (0:1)<br>
+	9. wagaf (1:0)<br>
 <br>
-6. #Nerf~Bot (1302) +7<br>
-+14|+5|+3|+11|+24|+32|+35|+19|+24|+23<br>
-	3. Impatient~Bot (46:93)<br>
-	4. Killer~Waffle (0:2)<br>
-	8. Human~Being (21:19)<br>
-	10. Attack~Bot (2:5)<br>
+6. #Nerf~Bot (1302) +1<br>
++14|+5|+3|+10|+23|+32|+34|+18|+24|+22<br>
+	3. Impatient~Bot (36:74)<br>
+	4. Killer~Waffle (0:3)<br>
+	8. Attack~Bot (2:5)<br>
 <br>
 7. #bandy (1294) 0<br>
 +16|+13|+20|+20|+27|+24|+28|+17|+10|-1<br>
-	1. GoOody (0:1)<br>
 	2. ianna (1:0)<br>
 	5. svircs (1:0)<br>
+	9. wagaf (5:3)<br>
 <br>
-8. #Human~Being (1289) +4<br>
-+82|+68|+60|+46|+40|+30|+16|+10|+6|0<br>
-	1. GoOody (1:0)<br>
-	2. ianna (67:111)<br>
-	3. Impatient~Bot (10:10)<br>
-	6. Nerf~Bot (19:21)<br>
-	10. Attack~Bot (2:5)<br>
-<br>
-9. #jbd (1287) +1<br>
-+50|+55|+50|+37|+36|+14|-2|-7|-10|-2<br>
-<br>
-10. #Attack~Bot (1285) +2<br>
-+144|+131|+115|+103|+82|+76|+55|+39|+22|+3<br>
+8. #Attack~Bot (1287) 0<br>
++145|+133|+116|+104|+84|+77|+57|+40|+24|+5<br>
 	1. GoOody (1:0)<br>
 	4. Killer~Waffle (1:4)<br>
 	6. Nerf~Bot (5:2)<br>
-	8. Human~Being (5:2)<br>
 <br>
-11. #wagaf (1284) 0<br>
+9. #wagaf (1284) 0<br>
 +12|+10|+10|-1|-12|-4|-5|-11|-5|-2<br>
 	1. GoOody (1:2)<br>
 	5. svircs (0:1)<br>
-	7. bandy (3:7)<br>
+	7. bandy (3:5)<br>
 <br>
-12. #Panic~Attack (1272) 0<br>
-+211|+172|+143|+115|+90|+76|+29|+9<br>
+10. #jbd (1284) +2<br>
++47|+52|+47|+34|+33|+11|-5|-10|-13|-5<br>
+<br>
+11. #Human~Being (1281) -2<br>
++74|+60|+52|+38|+32|+22|+8|+2|-2|-8<br>
+	1. GoOody (1:0)<br>
+	2. ianna (69:125)<br>
+	3. Impatient~Bot (10:10)<br>
+	4. Killer~Waffle (1:1)<br>
+	6. Nerf~Bot (20:27)<br>
+	8. Attack~Bot (2:6)<br>
+<br>
+12. #Panic~Attack (1273) 0<br>
++212|+173|+144|+116|+91|+77|+30|+11|0<br>
 	1. GoOody (1:1)<br>
 	4. Killer~Waffle (2:4)<br>
-	6. Nerf~Bot (8:2)<br>
-	8. Human~Being (0:4)<br>
-	10. Attack~Bot (3:4)<br>
+	6. Nerf~Bot (9:2)<br>
+	8. Attack~Bot (3:5)<br>
 <br>
 13. #Territorial~Bot (1269) 0<br>
 +20|+19|+33|+39|+38|+36|+25|+22|+22|+2<br>
 	3. Impatient~Bot (2:6)<br>
 	4. Killer~Waffle (0:3)<br>
 	6. Nerf~Bot (23:18)<br>
-	8. Human~Being (9:10)<br>
-	10. Attack~Bot (2:2)<br>
+	8. Attack~Bot (2:2)<br>
 <br>
-14. #Tunnel~Bot (1268) -2<br>
-+20|+22|+29|+22|+9|+20|+3|+4|+7|-2<br>
-	3. Impatient~Bot (13:62)<br>
+14. #Tunnel~Bot (1269) -1<br>
++21|+23|+30|+22|+10|+20|+4|+5|+8|-1<br>
+	3. Impatient~Bot (11:61)<br>
 	4. Killer~Waffle (1:3)<br>
 	6. Nerf~Bot (8:44)<br>
-	8. Human~Being (3:8)<br>
 <br>
 15. #Bi~Polar (1261) 0<br>
 +17|+21|+9|-7|-8|-2|+2|+1|+10|+5<br>
@@ -101,8 +95,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	3. Impatient~Bot (1:1)<br>
 	4. Killer~Waffle (2:2)<br>
 	6. Nerf~Bot (11:5)<br>
-	8. Human~Being (4:2)<br>
-	10. Attack~Bot (4:3)<br>
+	8. Attack~Bot (4:3)<br>
 <br>
 17. #Axitaxi (1259) 0<br>
 +65|+56|+56|+48|+48|+35|+24|+18|+6|-5<br>
@@ -110,27 +103,24 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. svircs (1:1)<br>
 	7. bandy (1:3)<br>
 <br>
-18. #Squiggly~Line (1257) 0<br>
-+139|+104|+80|+61|+34|+22|+19|+11|+13|+6<br>
-	3. Impatient~Bot (5:17)<br>
-	6. Nerf~Bot (8:11)<br>
-	8. Human~Being (3:2)<br>
-<br>
-19. #NuttyJeans (1256) -1<br>
--27|-16|-24|-25|-18|-3|0|+3|+1|+3<br>
-	1. GoOody (1:3)<br>
-	2. ianna (0:1)<br>
-	5. svircs (0:1)<br>
-	7. bandy (6:13)<br>
-	8. Human~Being (0:1)<br>
-	9. jbd (1:0)<br>
-<br>
-20. #Astro~Chicken (1256) +1<br>
-+1|+6|+13|+9|+23|+29|+35|+34|+16|+1<br>
+18. #Astro~Chicken (1258) +1<br>
++3|+8|+15|+11|+25|+31|+37|+36|+18|+3<br>
 	3. Impatient~Bot (5:9)<br>
 	4. Killer~Waffle (1:3)<br>
 	6. Nerf~Bot (5:6)<br>
-	8. Human~Being (1:4)<br>
+<br>
+19. #Squiggly~Line (1257) 0<br>
++139|+104|+80|+61|+34|+22|+19|+11|+13|+6<br>
+	3. Impatient~Bot (4:13)<br>
+	6. Nerf~Bot (5:8)<br>
+<br>
+20. #NuttyJeans (1257) +1<br>
+-15|-23|-25|-18|-2|0|+3|+1|+3|-1<br>
+	1. GoOody (1:3)<br>
+	2. ianna (0:1)<br>
+	5. svircs (0:1)<br>
+	7. bandy (4:13)<br>
+	10. jbd (2:1)<br>
 <br>
 21. #jetlagged (1254) 0<br>
 -17|-20|-12|-14|-20|-17|-8|-5|+3|+1<br>
@@ -142,120 +132,133 @@ Recent win rates against top 10 over the past 20k matches<br>
 +3|-10|-19|-29|-20|-15|-16|-14|-9|-2<br>
 	1. GoOody (3:8)<br>
 	2. ianna (1:1)<br>
-	7. bandy (7:5)<br>
+	7. bandy (5:4)<br>
+	9. wagaf (0:3)<br>
 <br>
-23. #planetterror (1248) 0<br>
-+28|+22|+20|+12|+10|+7|+25|+23|+12|+6<br>
-	7. bandy (10:7)<br>
+23. #Major~Tom (1250) 0<br>
++34|+44|+33|+44|+34|+39|+22|+14|+14|+8<br>
+	2. ianna (66:156)<br>
+	3. Impatient~Bot (22:64)<br>
+	6. Nerf~Bot (18:41)<br>
 <br>
 24. #mucker2.0 (1247) 0<br>
 +25|+20|+20|+21|+21|+13|+2|+3|-3|-3<br>
 	1. GoOody (0:3)<br>
 	3. Impatient~Bot (0:1)<br>
 <br>
-25. #Major~Tom (1247) +3<br>
-+30|+40|+29|+40|+30|+35|+18|+10|+10|+5<br>
-	2. ianna (62:142)<br>
-	3. Impatient~Bot (23:66)<br>
-	6. Nerf~Bot (19:40)<br>
-	8. Human~Being (56:93)<br>
+25. #modemlockbox (1247) 0<br>
+-1|0|-8|-7|-2|-5|+3|-4|-8|-6<br>
+	7. bandy (5:3)<br>
 <br>
 26. #Suicide~Bot (1246) 0<br>
 +13|+16|+4|+8|+4|+4|-12|-9|-8|-5<br>
 	3. Impatient~Bot (0:9)<br>
 	6. Nerf~Bot (0:6)<br>
 <br>
-27. #olaf2 (1243) 0<br>
--10|-9|-6|-8|-11|-9|-6|-11|-2|-1<br>
-	1. GoOody (12:30)<br>
-	2. ianna (3:0)<br>
-	4. Killer~Waffle (0:1)<br>
-	5. svircs (2:0)<br>
-	6. Nerf~Bot (1:0)<br>
-	7. bandy (9:5)<br>
-	8. Human~Being (0:3)<br>
-	10. Attack~Bot (1:3)<br>
+27. #planetterror (1246) 0<br>
++26|+20|+17|+10|+8|+5|+23|+21|+9|+4<br>
+	7. bandy (7:4)<br>
 <br>
 28. #proxywar (1242) 0<br>
 -8|-12|-15|-13|-13|-16|-4|-7|-7|0<br>
-	1. GoOody (8:15)<br>
+	1. GoOody (8:12)<br>
 	2. ianna (2:1)<br>
 	5. svircs (0:4)<br>
-	7. bandy (13:28)<br>
+	7. bandy (12:28)<br>
+	9. wagaf (8:9)<br>
 <br>
-29. #canehunter (1241) 0<br>
-+23|+22|+34|+38|+38|+26|+7|-8|+2|-9<br>
-	6. Nerf~Bot (1:1)<br>
-	7. bandy (1:1)<br>
-<br>
-30. #osa (1240) -4<br>
--14|-29|-19|-17|-20|-23|-32|-27|-14|-6<br>
+29. #osa (1241) 0<br>
+-27|-18|-15|-18|-21|-31|-25|-13|-5|0<br>
 	2. ianna (1:0)<br>
 	5. svircs (0:3)<br>
 	7. bandy (2:1)<br>
 <br>
-31. #Snapping~Turtle (1235) -2<br>
-+26|+16|+15|+17|+10|+11|+10|-2|+5|-3<br>
+30. #canehunter (1241) 0<br>
++23|+22|+34|+38|+38|+26|+7|-8|+2|-9<br>
+	6. Nerf~Bot (1:1)<br>
+	7. bandy (1:1)<br>
+	9. wagaf (2:0)<br>
+<br>
+31. #olaf2 (1237) -5<br>
+-15|-14|-11|-14|-17|-14|-11|-16|-8|-6<br>
+	1. GoOody (12:30)<br>
+	2. ianna (3:1)<br>
+	4. Killer~Waffle (0:2)<br>
+	5. svircs (2:0)<br>
+	6. Nerf~Bot (1:0)<br>
+	7. bandy (9:5)<br>
+	8. Attack~Bot (1:1)<br>
+	9. wagaf (3:0)<br>
+<br>
+32. #Snapping~Turtle (1236) +1<br>
++17|+17|+18|+12|+13|+12|0|+6|-1|0<br>
 	3. Impatient~Bot (31:66)<br>
 	4. Killer~Waffle (0:3)<br>
-	6. Nerf~Bot (23:44)<br>
-	8. Human~Being (11:22)<br>
-	10. Attack~Bot (0:1)<br>
+	6. Nerf~Bot (25:46)<br>
+	8. Attack~Bot (0:1)<br>
 <br>
-32. #remember-me (1231) 0<br>
-+178|+144|+112|+78|+66|+49|+25|+7|-2<br>
-	1. GoOody (0:1)<br>
+33. #remember-me (1233) 0<br>
++179|+145|+114|+80|+67|+50|+26|+9|-1|-1<br>
+	5. svircs (1:0)<br>
 <br>
-33. #morelos1900 (1222) 0<br>
+34. #morelos1900 (1222) 0<br>
 +75|+67|+66|+55|+55|+33|+23|+18|+18|+6<br>
 	1. GoOody (6:13)<br>
 	7. bandy (1:2)<br>
 <br>
-34. #Amiro (1214) 0<br>
-+157|+130|+109|+83|+70|+65|+45|+33|+13|-4<br>
-	7. bandy (2:1)<br>
+35. #Echo~Bot (1214) +3<br>
++162|+131|+106|+80|+46|+12<br>
+	1. GoOody (2:4)<br>
+	2. ianna (3:0)<br>
+	3. Impatient~Bot (0:1)<br>
+	4. Killer~Waffle (4:10)<br>
+	8. Attack~Bot (4:5)<br>
 <br>
-35. #JCC (1214) 0<br>
-+186|+152|+115|+86|+59|+47|+5<br>
-	7. bandy (0:1)<br>
-<br>
-36. #sedativebeef (1213) +2<br>
-+39|+30|+26|+24|+7|-6|-7|-4|+3|-1<br>
+36. #sedativebeef (1214) +1<br>
++40|+31|+27|+25|+8|-5|-6|-3|+4|0<br>
 	1. GoOody (0:2)<br>
 	6. Nerf~Bot (0:2)<br>
 	7. bandy (3:3)<br>
-	9. jbd (1:0)<br>
+	10. jbd (1:0)<br>
 <br>
-37. #jraz (1212) 0<br>
+37. #Amiro (1214) 0<br>
++157|+130|+109|+83|+70|+65|+45|+33|+13|-4<br>
+	7. bandy (2:1)<br>
+<br>
+38. #jraz (1212) 0<br>
 -27|-26|-30|-33|-27|-26|-19|-15|-8|-6<br>
 	1. GoOody (0:1)<br>
 	5. svircs (0:2)<br>
 	6. Nerf~Bot (0:3)<br>
 	7. bandy (1:4)<br>
-	9. jbd (1:0)<br>
-<br>
-38. #Echo~Bot (1211) 0<br>
-+159|+127|+103|+77|+43|+9<br>
-	1. GoOody (2:4)<br>
-	2. ianna (3:0)<br>
-	3. Impatient~Bot (0:1)<br>
-	4. Killer~Waffle (4:11)<br>
-	8. Human~Being (6:6)<br>
-	10. Attack~Bot (5:6)<br>
+	10. jbd (1:0)<br>
 <br>
 39. #barbatroc (1211) 0<br>
 +1|-4|+2|+2|-3|0|+4|0|0|-1<br>
 	6. Nerf~Bot (1:2)<br>
 	7. bandy (1:7)<br>
-	8. Human~Being (1:2)<br>
+	9. wagaf (0:2)<br>
 <br>
 40. #theAceofGame (1207) 0<br>
 +41|+34|+23|+14|+7|+10|+7|+9|+3|+3<br>
 	1. GoOody (0:4)<br>
-	3. Impatient~Bot (1:2)<br>
-	7. bandy (4:2)<br>
+	3. Impatient~Bot (0:2)<br>
+	7. bandy (3:2)<br>
 <br>
-41. #chomeur2 (1206) 0<br>
+41. #milkyway (1206) 0<br>
++7|+13|+8|+6|+2|-8|-2|-7|-14|-4<br>
+	1. GoOody (1:0)<br>
+	2. ianna (1:1)<br>
+	5. svircs (4:5)<br>
+	7. bandy (1:5)<br>
+	9. wagaf (2:4)<br>
+<br>
+42. #Turtle~Waffle (1206) 0<br>
++29|+27|+32|+36|+29|+27|+30|+26|+16|+11<br>
+	3. Impatient~Bot (1:2)<br>
+	10. jbd (3:2)<br>
+<br>
+43. #chomeur2 (1206) 0<br>
 -19|-24|-27|-26|-29|-23|-13|-12|-9|+1<br>
 	1. GoOody (5:16)<br>
 	2. ianna (0:3)<br>
@@ -263,340 +266,349 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. svircs (1:3)<br>
 	6. Nerf~Bot (3:1)<br>
 	7. bandy (5:11)<br>
-	8. Human~Being (0:3)<br>
+	9. wagaf (6:3)<br>
 <br>
-42. #milkyway (1204) -1<br>
-+5|+11|+6|+4|0|-10|-4|-9|-16|-6<br>
-	1. GoOody (1:0)<br>
-	2. ianna (1:1)<br>
-	5. svircs (4:5)<br>
-	7. bandy (1:5)<br>
+44. #Franciturci (1204) +5<br>
++118|+101|+85|+59|+44|+35|+22|+19|+9|+6<br>
+	7. bandy (0:3)<br>
 <br>
-43. #Expand~Bot (1203) 0<br>
+45. #Expand~Bot (1203) 0<br>
 +43|+30|+33|+47|+41|+30|+29|+15|+10|-1<br>
-	9. jbd (17:19)<br>
+	10. jbd (17:19)<br>
 <br>
-44. #Turtle~Waffle (1200) +3<br>
-+23|+20|+26|+30|+23|+21|+24|+19|+10|+5<br>
-	3. Impatient~Bot (1:2)<br>
-	9. jbd (3:2)<br>
+46. #redhawk3301 (1194) 0<br>
++172|+144|+111|+82|+57|+32|+18|+4|+5<br>
 <br>
-45. #ludonco (1196) 0<br>
--62|-43|-30|-17|-9|-1|0|+4|-7|+3<br>
-	1. GoOody (0:5)<br>
-	2. ianna (1:0)<br>
-	3. Impatient~Bot (2:3)<br>
-	5. svircs (1:0)<br>
-	6. Nerf~Bot (3:3)<br>
-	7. bandy (4:9)<br>
-<br>
-46. #Jsaun12377 (1193) -3<br>
-+3|+3|+1|+5|+6|0|-7|-18|-5|-1<br>
-	1. GoOody (3:9)<br>
+47. #Jsaun12377 (1194) 0<br>
++4|+3|+2|+6|+7|+1|-6|-17|-4|0<br>
+	1. GoOody (3:10)<br>
 	2. ianna (3:0)<br>
-	3. Impatient~Bot (2:4)<br>
+	3. Impatient~Bot (2:3)<br>
 	7. bandy (14:6)<br>
-	8. Human~Being (2:6)<br>
+	9. wagaf (2:1)<br>
 <br>
-47. #Magnetic~Field (1193) +3<br>
-+117|+99|+73|+67|+57|+44|+41|+31|+26|+14<br>
+48. #Magnetic~Field (1194) +1<br>
++119|+100|+75|+68|+59|+46|+42|+32|+27|+16<br>
 	1. GoOody (2:1)<br>
 	2. ianna (48:117)<br>
 	3. Impatient~Bot (4:20)<br>
 	4. Killer~Waffle (0:4)<br>
-	6. Nerf~Bot (12:15)<br>
-	8. Human~Being (44:72)<br>
-	10. Attack~Bot (2:2)<br>
+	6. Nerf~Bot (13:15)<br>
+	8. Attack~Bot (2:0)<br>
 <br>
-48. #MUF (1189) 0<br>
-+137|+105|+93|+76|+61|+41|+28|+20|+12|-1<br>
-	1. GoOody (8:18)<br>
-	2. ianna (2:0)<br>
-	5. svircs (0:3)<br>
-	7. bandy (1:11)<br>
-	9. jbd (1:0)<br>
-<br>
-49. #BigTemper~185 (1189) 0<br>
-+161|+143|+118|+88|+58|+37|+35|+16<br>
-	1. GoOody (7:85)<br>
+49. #BigTemper~185 (1193) +3<br>
++165|+148|+123|+92|+62|+42|+39|+21|-1<br>
+	1. GoOody (6:95)<br>
 	2. ianna (4:0)<br>
 	4. Killer~Waffle (1:0)<br>
 	5. svircs (3:0)<br>
 	7. bandy (1:0)<br>
-	10. Attack~Bot (1:0)<br>
+	8. Attack~Bot (1:0)<br>
+	9. wagaf (2:0)<br>
 <br>
-50. #mystic28 (1188) 0<br>
+50. #MUF (1193) +5<br>
++108|+97|+79|+65|+44|+31|+23|+16|+2|+4<br>
+	1. GoOody (8:19)<br>
+	2. ianna (2:0)<br>
+	5. svircs (0:3)<br>
+	7. bandy (1:8)<br>
+	9. wagaf (4:5)<br>
+	10. jbd (1:0)<br>
+<br>
+51. #ludonco (1190) -1<br>
+-48|-35|-23|-14|-6|-6|-2|-12|-3|0<br>
+	1. GoOody (0:6)<br>
+	2. ianna (2:0)<br>
+	3. Impatient~Bot (2:3)<br>
+	5. svircs (1:0)<br>
+	6. Nerf~Bot (3:3)<br>
+	7. bandy (4:9)<br>
+	9. wagaf (2:0)<br>
+<br>
+52. #mystic28 (1188) 0<br>
 +161|+137|+114|+78|+47|+36|+17|+12|-1<br>
 	5. svircs (0:2)<br>
+	7. bandy (3:7)<br>
+	9. wagaf (0:1)<br>
+<br>
+53. #Ork (1185) 0<br>
++116|+105|+93|+73|+68|+37|+11|+5|+2|+2<br>
 	7. bandy (4:7)<br>
 <br>
-51. #Ork (1185) 0<br>
-+116|+105|+93|+72|+67|+37|+11|+5|+2|+2<br>
-	7. bandy (4:7)<br>
-<br>
-52. #qqeye (1184) 0<br>
--20|-13|-4|+10|-3|-7|-8|-5|-5|+1<br>
-	1. GoOody (1:1)<br>
-	3. Impatient~Bot (1:2)<br>
-	8. Human~Being (8:4)<br>
-<br>
-53. #Ozryel (1183) 0<br>
-+157|+138|+108|+68|+60|+44|+34|+21|+16|-1<br>
-<br>
-54. #thehurricane (1183) +4<br>
-+118|+102|+74|+49|+32|+18|+12|+11|+14|+3<br>
+54. #thehurricane (1185) +3<br>
++120|+104|+76|+51|+33|+20|+14|+12|+16|+5<br>
 	1. GoOody (3:81)<br>
 	4. Killer~Waffle (1:2)<br>
 	5. svircs (1:0)<br>
 	7. bandy (3:1)<br>
-	8. Human~Being (1:2)<br>
-	10. Attack~Bot (1:2)<br>
+	8. Attack~Bot (1:2)<br>
 <br>
-55. #Mean~Machine (1180) +3<br>
-+136|+99|+67|+23<br>
+55. #qqeye (1184) 0<br>
+-20|-13|-4|+10|-3|-7|-8|-5|-5|+1<br>
+	1. GoOody (1:1)<br>
+	3. Impatient~Bot (1:2)<br>
+<br>
+56. #Ozryel (1183) 0<br>
++157|+138|+108|+68|+60|+44|+34|+21|+16|-1<br>
+	9. wagaf (0:2)<br>
+<br>
+57. #Mean~Machine (1181) 0<br>
++137|+100|+68|+25<br>
 	1. GoOody (1:1)<br>
 	4. Killer~Waffle (2:3)<br>
 	6. Nerf~Bot (3:1)<br>
-	8. Human~Being (2:2)<br>
-	10. Attack~Bot (3:4)<br>
+	8. Attack~Bot (3:5)<br>
 <br>
-56. #Tortoise~Waffle (1176) +1<br>
-+7|-5|-10|-23|-28|-16|-14|-18|-16|+2<br>
+58. #Tortoise~Waffle (1178) +5<br>
+-3|-8|-22|-27|-14|-12|-16|-14|+3|+3<br>
 	3. Impatient~Bot (0:3)<br>
 	6. Nerf~Bot (0:3)<br>
-	9. jbd (8:5)<br>
+	10. jbd (14:9)<br>
 <br>
-57. #Nearest~Attack (1174) 0<br>
+59. #Nearest~Attack (1174) 0<br>
 +10|+6|+4|-1|+16|+17|+13|+12|+5|-1<br>
 	3. Impatient~Bot (0:1)<br>
-	8. Human~Being (1:0)<br>
-	9. jbd (8:11)<br>
+	10. jbd (8:11)<br>
 <br>
-58. #eventhorzn65 (1173) +3<br>
+60. #eventhorzn65 (1173) 0<br>
 +55|+42|+34|+33|+22|+20|+8|+1|+2|+2<br>
 	7. bandy (3:17)<br>
-	9. jbd (2:0)<br>
+	9. wagaf (0:2)<br>
+	10. jbd (2:0)<br>
 <br>
-59. #Tunnel~King (1167) -1<br>
-0|-2|-2|+7|+13|+10|+12|+10|+2|-1<br>
+61. #kittengod22 (1169) +1<br>
++124|+94|+72|+55|+39|+21|+14|+9|+3|+1<br>
+	1. GoOody (1:1)<br>
+	7. bandy (2:2)<br>
+<br>
+62. #Tunnel~King (1168) +1<br>
+0|-2|-1|+8|+14|+11|+13|+11|+3|0<br>
 	3. Impatient~Bot (1:3)<br>
 	6. Nerf~Bot (0:1)<br>
-	8. Human~Being (0:2)<br>
-	9. jbd (0:8)<br>
+	10. jbd (0:8)<br>
 <br>
-60. #mahone007 (1167) 0<br>
+63. #mahone007 (1167) 0<br>
 -19|-21|-26|-21|-10|0|+6|+3|+2|+4<br>
-	1. GoOody (2:12)<br>
+	1. GoOody (2:11)<br>
 	2. ianna (3:4)<br>
 	5. svircs (1:3)<br>
 	7. bandy (1:7)<br>
+	9. wagaf (0:3)<br>
 <br>
-61. #quickmill (1160) 0<br>
--16|-16|-5|-5|-13|-14|-14|-19|-13|-8<br>
-	1. GoOody (3:5)<br>
-	5. svircs (0:2)<br>
-	7. bandy (1:3)<br>
+64. #hobbes313 (1167) -1<br>
++144|+126|+107|+85|+47|+29|+26|+12|-3|-1<br>
+	1. GoOody (0:1)<br>
+	7. bandy (1:0)<br>
+	9. wagaf (0:1)<br>
 <br>
-62. #thecro (1160) 0<br>
+65. #thecro (1160) 0<br>
 -12|-9|-6|-6|-2|+5|+12|+15|+6|0<br>
 	2. ianna (1:2)<br>
 	7. bandy (1:1)<br>
 <br>
-63. #Balance~Bot (1157) -4<br>
-+8|+7|+15|+9|-2|-7|-4|-7|-6|-4<br>
-	3. Impatient~Bot (1:4)<br>
-	9. jbd (6:11)<br>
+66. #quickmill (1159) 0<br>
+-18|-17|-7|-6|-14|-15|-16|-21|-14|-10<br>
+	1. GoOody (3:5)<br>
+	2. ianna (0:1)<br>
+	5. svircs (0:2)<br>
+	7. bandy (1:3)<br>
 <br>
-64. #TRistanbul (1153) +5<br>
-+128|+102|+73|+61|+49|+25|+26|+23|+15|+1<br>
-	1. GoOody (2:7)<br>
+67. #Balance~Bot (1159) +2<br>
++10|+9|+17|+11|0|-6|-2|-6|-4|-2<br>
+	3. Impatient~Bot (1:4)<br>
+	10. jbd (10:13)<br>
+<br>
+68. #TRistanbul (1154) 0<br>
++129|+103|+74|+62|+49|+26|+27|+24|+15|+2<br>
+	1. GoOody (2:4)<br>
 	5. svircs (4:3)<br>
 	7. bandy (0:4)<br>
 <br>
-65. #bopko (1153) 0<br>
-+85|+71|+66|+60|+44|+35|+23|+12|+8|+4<br>
-	1. GoOody (1:1)<br>
-	2. ianna (2:1)<br>
-	5. svircs (0:1)<br>
-<br>
-66. #Grand~Admiral (1151) 0<br>
-+87|+39|+10<br>
-	1. GoOody (6:3)<br>
-	2. ianna (4:9)<br>
-	3. Impatient~Bot (1:4)<br>
-	4. Killer~Waffle (3:9)<br>
-	8. Human~Being (5:2)<br>
-	10. Attack~Bot (6:9)<br>
-<br>
-67. #SableStrike~998 (1146) 0<br>
-+112|+79|+60|+33|+17<br>
-	1. GoOody (0:1)<br>
-	7. bandy (1:1)<br>
-<br>
-68. #JaggedChimp~990 (1145) 0<br>
-+127|+85|+53|+35|+13|0<br>
-<br>
-69. #DuckHunt (1144) +1<br>
-+132|+109|+83|+52|+34|+14<br>
+69. #DuckHunt (1154) +4<br>
++142|+119|+93|+61|+44|+24<br>
 	1. GoOody (0:3)<br>
 	5. svircs (3:3)<br>
 	7. bandy (3:13)<br>
+	9. wagaf (3:7)<br>
 <br>
-70. #FadedBoot~392 (1144) 0<br>
+70. #Grand~Admiral (1152) 0<br>
++88|+40|+11<br>
+	1. GoOody (6:3)<br>
+	2. ianna (4:9)<br>
+	3. Impatient~Bot (1:4)<br>
+	4. Killer~Waffle (2:8)<br>
+	8. Attack~Bot (6:10)<br>
+<br>
+71. #Anti~Neutral (1149) +2<br>
+-6|-7|-11|-6|-21|-10|0|-2|-9|+3<br>
+	3. Impatient~Bot (0:3)<br>
+	10. jbd (8:12)<br>
+<br>
+72. #SableStrike~998 (1145) 0<br>
++112|+78|+60|+32|+17<br>
+	1. GoOody (0:1)<br>
+	7. bandy (1:1)<br>
+	9. wagaf (1:1)<br>
+<br>
+73. #JaggedChimp~990 (1145) 0<br>
++127|+85|+53|+35|+13|0<br>
+	9. wagaf (0:2)<br>
+<br>
+74. #MagicBoat~315 (1145) +1<br>
++112|+79|+33|+2<br>
+	3. Impatient~Bot (2:1)<br>
+<br>
+75. #FadedBoot~392 (1144) 0<br>
 +104|+80|+33|+7<br>
 	1. GoOody (2:3)<br>
 	2. ianna (8:1)<br>
 	5. svircs (0:2)<br>
 	7. bandy (6:14)<br>
-	9. jbd (1:0)<br>
+	9. wagaf (0:1)<br>
+	10. jbd (1:0)<br>
 <br>
-71. #MagicBoat~315 (1144) -2<br>
-+111|+78|+32|+1<br>
-	3. Impatient~Bot (2:1)<br>
+76. #Over~Expand (1141) +4<br>
++15|+15|+16|+9|+15|+15|+25|+20|+14|+9<br>
+	3. Impatient~Bot (0:1)<br>
+	6. Nerf~Bot (0:1)<br>
+	10. jbd (11:22)<br>
 <br>
-72. #Anti~Neutral (1142) -7<br>
--12|-13|-17|-12|-27|-16|-7|-8|-15|-3<br>
-	3. Impatient~Bot (0:3)<br>
-	9. jbd (6:12)<br>
+77. #EmptyLeaf~510 (1140) 0<br>
++115|+83|+59|+29|+12|+13|-3<br>
 <br>
-73. #EmptyLeaf~510 (1140) +1<br>
-+115|+83|+59|+28|+11|+13<br>
+78. #valeriocarre (1137) +3<br>
++5|+19|+6|+1|+1|-1|-3|+5|+7|+12<br>
+	1. GoOody (0:1)<br>
+	5. svircs (0:1)<br>
 <br>
-74. #qwertyuiop00 (1133) 0<br>
-+116|+83|+51|+38|+22<br>
+79. #GlossyRiddl~284 (1136) +7<br>
++105|+64|+12<br>
+<br>
+80. #qwertyuiop00 (1136) +3<br>
++118|+86|+54|+40|+24<br>
 	1. GoOody (0:2)<br>
 	2. ianna (1:0)<br>
 	5. svircs (1:0)<br>
 	6. Nerf~Bot (0:1)<br>
 	7. bandy (4:5)<br>
+	9. wagaf (1:4)<br>
 <br>
-75. #bupkis (1132) +8<br>
-+117|+96|+89|+78|+62|+48|+38|+25<br>
+81. #bupkis (1134) 0<br>
++119|+99|+91|+81|+64|+51|+41|+27|+1<br>
 	1. GoOody (1:5)<br>
 	2. ianna (3:3)<br>
 	7. bandy (17:34)<br>
-	9. jbd (1:0)<br>
+	10. jbd (1:0)<br>
 <br>
-76. #Over~Expand (1132) -2<br>
-+6|+6|+7|0|+6|+6|+16|+11|+4|0<br>
-	3. Impatient~Bot (0:1)<br>
-	6. Nerf~Bot (0:1)<br>
-	9. jbd (11:21)<br>
-<br>
-77. #GlossyRiddl~284 (1129) 0<br>
-+98|+57|+5<br>
-<br>
-78. #valeriocarre (1129) 0<br>
--3|+11|-2|-7|-7|-9|-11|-3|-1|+4<br>
-	5. svircs (0:1)<br>
-<br>
-79. #sarchasmo (1128) 0<br>
-+110|+88|+66|+44|+45|+40|+14<br>
+82. #sarchasmo (1130) +2<br>
++112|+91|+68|+46|+47|+42|+16<br>
 	1. GoOody (1:9)<br>
 	7. bandy (3:6)<br>
-	9. jbd (2:0)<br>
+	9. wagaf (0:1)<br>
+	10. jbd (2:0)<br>
 <br>
-80. #CleverFruit~483 (1127) 0<br>
-+126|+122|+94|+61|+30<br>
+83. #edgard (1129) +5<br>
++79|+33<br>
+	7. bandy (0:1)<br>
+<br>
+84. #CleverFruit~483 (1128) 0<br>
++126|+123|+95|+61|+30<br>
+	1. GoOody (1:1)<br>
 	5. svircs (0:2)<br>
 <br>
-81. #Abdel~Baset (1127) -1<br>
-+3|0|-2|-3|-4|-8|-1|+2|-2|-10<br>
+85. #Abdel~Baset (1124) -2<br>
+-2|-5|-6|-6|-10|-3|0|-4|-12|-1<br>
 	2. ianna (0:14)<br>
 	3. Impatient~Bot (1:1)<br>
-	6. Nerf~Bot (3:3)<br>
-	8. Human~Being (0:2)<br>
+	6. Nerf~Bot (3:2)<br>
 <br>
-82. #ashboe (1124) 0<br>
+86. #ashboe (1124) 0<br>
 -7|-15|-19|-19|-10|-9|-4|-4|+1|+1<br>
 	1. GoOody (1:3)<br>
 	7. bandy (0:3)<br>
 <br>
-83. #edgard (1123) 0<br>
-+74|+28<br>
-	7. bandy (0:1)<br>
-<br>
-84. #Wiggin (1122) 0<br>
+87. #Wiggin (1122) 0<br>
 +111|+88|+79|+62|+40|+36|+19<br>
-	1. GoOody (0:1)<br>
-	3. Impatient~Bot (31:63)<br>
-	6. Nerf~Bot (25:53)<br>
+	3. Impatient~Bot (20:51)<br>
+	6. Nerf~Bot (15:41)<br>
 	7. bandy (1:1)<br>
-	8. Human~Being (3:1)<br>
+	9. wagaf (0:2)<br>
 <br>
-85. #Mine~Turtle (1119) -1<br>
-+18|+24|+29|+23|+20|+13|+10|+9|+13|0<br>
-	3. Impatient~Bot (11:48)<br>
-	6. Nerf~Bot (8:30)<br>
-	8. Human~Being (0:1)<br>
+88. #Mine~Turtle (1120) +1<br>
++19|+25|+29|+23|+20|+13|+10|+10|+13|0<br>
+	3. Impatient~Bot (6:35)<br>
+	6. Nerf~Bot (3:19)<br>
 <br>
-86. #samsung172x (1117) 0<br>
-+113|+93|+83|+74|+70|+61|+61|+53|+18|+3<br>
+89. #davide231098 (1119) +1<br>
++86|+55|+22|+9<br>
+	5. svircs (0:1)<br>
+	7. bandy (0:1)<br>
+	9. wagaf (0:2)<br>
+<br>
+90. #samsung172x (1119) 0<br>
++114|+95|+84|+76|+72|+62|+62|+55|+20|+5<br>
 	1. GoOody (0:3)<br>
+	2. ianna (1:0)<br>
 	3. Impatient~Bot (2:6)<br>
 	5. svircs (0:1)<br>
 	6. Nerf~Bot (1:1)<br>
 	7. bandy (0:2)<br>
+	10. jbd (0:1)<br>
 <br>
-87. #davide231098 (1117) 0<br>
-+84|+53|+20|+7<br>
-	5. svircs (0:1)<br>
-	7. bandy (0:1)<br>
-<br>
-88. #Radius~Attack (1115) +3<br>
--17|-9|-12|-25|-23|-14|-15|-1|+1|+2<br>
+91. #Radius~Attack (1111) -3<br>
+-21|-13|-16|-29|-27|-18|-19|-5|-3|-2<br>
 	3. Impatient~Bot (0:1)<br>
-	6. Nerf~Bot (0:2)<br>
-	9. jbd (4:14)<br>
+	6. Nerf~Bot (0:1)<br>
+	10. jbd (4:21)<br>
 <br>
-89. #GreenDeer~922 (1109) 0<br>
+92. #GreenDeer~922 (1109) 0<br>
 +64|+54|+55|+45|+38|+26|+23|+13|+5|+4<br>
 <br>
-90. #theodor38 (1107) 0<br>
+93. #theodor38 (1107) 0<br>
 +84|+79|+62|+54|+43|+24|+15<br>
 	5. svircs (1:1)<br>
 	7. bandy (2:8)<br>
+	9. wagaf (0:1)<br>
 <br>
-91. #Saehyu (1106) 0<br>
+94. #Saehyu (1106) 0<br>
 +106|+96|+67|+42|+1<br>
 	3. Impatient~Bot (2:6)<br>
 	5. svircs (0:1)<br>
 	6. Nerf~Bot (3:2)<br>
 	7. bandy (3:2)<br>
-	8. Human~Being (3:4)<br>
-	9. jbd (1:0)<br>
+	9. wagaf (0:1)<br>
+	10. jbd (1:0)<br>
 <br>
-92. #murilobg (1105) 0<br>
-+67|+59|+50|+44|+36|+35|+28|+27|+24|+7<br>
-	1. GoOody (3:7)<br>
+95. #murilobg (1105) 0<br>
++67|+59|+50|+44|+36|+34|+28|+27|+24|+7<br>
+	1. GoOody (3:4)<br>
 	2. ianna (1:0)<br>
 	5. svircs (0:1)<br>
 	7. bandy (5:8)<br>
 <br>
-93. #sri-bhakti (1105) 0<br>
-+86|+49|+20|+5<br>
-<br>
-94. #LuckySnail~211 (1102) -1<br>
-+23|+16|+9|-6|-8|-13|-13|-10|-11|-9<br>
+96. #LuckySnail~211 (1100) 0<br>
++21|+13|+6|-8|-10|-16|-16|-13|-14|-11<br>
 	1. GoOody (0:1)<br>
 <br>
-95. #lilminimi (1099) 0<br>
+97. #lilminimi (1099) 0<br>
 +81|+76|+54|+28|+18|+14|+7<br>
 	5. svircs (1:1)<br>
 	7. bandy (1:0)<br>
+	9. wagaf (0:1)<br>
 <br>
-96. #TaoisticVoid (1099) +1<br>
+98. #TaoisticVoid (1099) 0<br>
 +65|+35<br>
 	1. GoOody (1:2)<br>
 	4. Killer~Waffle (0:1)<br>
-	7. bandy (7:9)<br>
+	7. bandy (5:6)<br>
+	9. wagaf (3:1)<br>
 <br>
-97. #Space_Bear (1096) +1<br>
+99. #Space_Bear (1096) 0<br>
 +54|+31<br>
 	1. GoOody (0:1)<br>
 <br>
-98. #SlickPine~286 (1094) -1<br>
-+67|+52|+41|+34|+28|+16|+6<br>
+100. #SlickPine~286 (1093) 0<br>
++66|+52|+41|+33|+28|+16|+6<br>
 	1. GoOody (9:18)<br>
 	2. ianna (0:1)<br>
 	3. Impatient~Bot (6:11)<br>
@@ -604,520 +616,521 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. svircs (1:3)<br>
 	6. Nerf~Bot (5:8)<br>
 	7. bandy (12:26)<br>
-	8. Human~Being (0:2)<br>
+	9. wagaf (2:3)<br>
 <br>
-99. #poopybottom (1092) 0<br>
+101. #poopybottom (1092) 0<br>
 +67|+41|+30|+16|+1<br>
 	2. ianna (1:1)<br>
 	3. Impatient~Bot (0:2)<br>
 	5. svircs (1:1)<br>
 	7. bandy (0:3)<br>
 <br>
-100. #MarbleMango~469 (1088) 0<br>
-+32|+27|+22|+14|+6|+10|+5|-6|-3|-2<br>
+102. #MarbleMango~469 (1089) 0<br>
++33|+29|+23|+15|+7|+11|+6|-5|-2|-1<br>
 	1. GoOody (0:2)<br>
 	5. svircs (0:3)<br>
 	7. bandy (0:1)<br>
+	9. wagaf (2:0)<br>
 <br>
-101. #f719 (1088) 0<br>
+103. #f719 (1088) 0<br>
 -8|-18|-18|-6|-1|0|+2|-7|-3|-1<br>
 	1. GoOody (1:14)<br>
 	5. svircs (0:3)<br>
-	7. bandy (11:26)<br>
+	7. bandy (11:21)<br>
+	9. wagaf (3:9)<br>
 <br>
-102. #TLKS (1087) +3<br>
+104. #stauffenberg (1088) 0<br>
++36|+9<br>
+	1. GoOody (1:0)<br>
+	3. Impatient~Bot (11:18)<br>
+	6. Nerf~Bot (13:15)<br>
+<br>
+105. #TLKS (1087) 0<br>
 +90|+82|+71|+58|+45|+39|+23|+8|+7|+3<br>
 	1. GoOody (0:3)<br>
-	7. bandy (0:1)<br>
 <br>
-103. #phytos (1086) 0<br>
+106. #phytos (1086) 0<br>
 +58|+39|+15|0<br>
 	2. ianna (0:1)<br>
 	3. Impatient~Bot (0:1)<br>
 	7. bandy (0:2)<br>
 <br>
-104. #yusuke (1086) 0<br>
+107. #yusuke (1086) 0<br>
 +33<br>
 	5. svircs (3:0)<br>
 	7. bandy (8:3)<br>
 <br>
-105. #stauffenberg (1085) 0<br>
-+33|+6<br>
-	1. GoOody (1:0)<br>
-	3. Impatient~Bot (11:18)<br>
-	6. Nerf~Bot (12:14)<br>
-	7. bandy (1:0)<br>
-	8. Human~Being (9:8)<br>
-<br>
-106. #justendit (1084) 0<br>
+108. #justendit (1084) 0<br>
 +14|+7|+7|+9|+8|+2|0|-8|-1|-6<br>
 	1. GoOody (0:2)<br>
 	7. bandy (0:3)<br>
-	9. jbd (1:0)<br>
+	10. jbd (1:0)<br>
 <br>
-107. #FooMonkey (1081) 0<br>
-+57|+27|0<br>
+109. #Sleeping~Waffle (1078) 0<br>
++6|+9|+13|+13|+18|+19|+14|+9|+4|-1<br>
+	1. GoOody (1:1)<br>
+	2. ianna (3:27)<br>
 	3. Impatient~Bot (0:1)<br>
-	6. Nerf~Bot (0:2)<br>
-	8. Human~Being (0:2)<br>
+	4. Killer~Waffle (2:3)<br>
+	6. Nerf~Bot (2:8)<br>
+	8. Attack~Bot (3:4)<br>
 <br>
-108. #Genghis~Khan (1079) -4<br>
--11|-20|-21|-18|-12|-19|-18|-14|-10|0<br>
-	9. jbd (9:22)<br>
+110. #SlimyDuck~253 (1078) 0<br>
++62|+36|+14<br>
+	5. svircs (0:1)<br>
 <br>
-109. #croissant (1078) 0<br>
-+71|+60|+18|0<br>
-	1. GoOody (1:3)<br>
-	7. bandy (0:1)<br>
+111. #Genghis~Khan (1078) -2<br>
+-22|-23|-19|-14|-20|-20|-15|-11|-1|-3<br>
+	10. jbd (13:26)<br>
 <br>
-110. #hyoshy (1077) 0<br>
-+74|+46|+30|+27|+10<br>
+112. #hyoshy (1076) 0<br>
++73|+45|+29|+26|+8<br>
 	1. GoOody (1:1)<br>
 	5. svircs (0:1)<br>
 	7. bandy (3:7)<br>
 <br>
-111. #Sleeping~Waffle (1077) -2<br>
-+11|+5|+8|+12|+12|+17|+18|+13|+8|+3<br>
-	1. GoOody (1:1)<br>
-	2. ianna (2:13)<br>
-	3. Impatient~Bot (0:2)<br>
-	4. Killer~Waffle (2:3)<br>
-	6. Nerf~Bot (0:2)<br>
-	8. Human~Being (4:7)<br>
-	10. Attack~Bot (3:4)<br>
+113. #james--- (1074) 0<br>
++38|+19|+3<br>
+	1. GoOody (1:2)<br>
+	7. bandy (4:21)<br>
+	9. wagaf (1:4)<br>
 <br>
-112. #woody51 (1074) 0<br>
-+71|+69|+39|+24|+16|+15|+6|0<br>
+114. #woody51 (1074) 0<br>
++71|+69|+39|+24|+16|+15|+6|-1<br>
 	1. GoOody (0:1)<br>
 	7. bandy (1:2)<br>
+	9. wagaf (0:2)<br>
 <br>
-113. #james--- (1074) 0<br>
-+37|+18|+2<br>
-	1. GoOody (1:3)<br>
-	7. bandy (6:25)<br>
-<br>
-114. #SlimyDuck~253 (1073) 0<br>
-+57|+31|+9<br>
-	5. svircs (0:1)<br>
-<br>
-115. #hugepope2137 (1072) 0<br>
-+50|+23<br>
-	1. GoOody (12:2)<br>
-<br>
-116. #WhiteFork~562 (1072) 0<br>
+115. #WhiteFork~562 (1072) 0<br>
 +61|+16<br>
 <br>
-117. #DeXie420 (1072) 0<br>
+116. #DeXie420 (1072) 0<br>
 +55|+33|+13|+1<br>
 	1. GoOody (0:1)<br>
 	2. ianna (0:1)<br>
 	5. svircs (0:1)<br>
 	7. bandy (0:2)<br>
+	9. wagaf (2:1)<br>
 <br>
-118. #SilverFlight (1071) 0<br>
+117. #SilverFlight (1071) 0<br>
 +75|+58|+49|+45|+24|+27|+19<br>
 	1. GoOody (1:1)<br>
 	7. bandy (1:4)<br>
 <br>
-119. #ubi_pedera (1071) 0<br>
-+56|+49|+38|+33|+24|+3|+3|0|0|-2<br>
+118. #ubi_pedera (1070) 0<br>
++55|+48|+37|+32|+23|+2|+2|0|-1|-3<br>
 	1. GoOody (0:2)<br>
 	7. bandy (3:4)<br>
 <br>
-120. #7paths (1070) 0<br>
+119. #7paths (1070) 0<br>
 +47|+24<br>
 	1. GoOody (3:5)<br>
 	7. bandy (4:4)<br>
 <br>
-121. #Five~Percent (1069) 0<br>
+120. #Five~Percent (1069) 0<br>
 +12|+16|+13|+1|+1|-3|+4|+7|+6|+6<br>
 	3. Impatient~Bot (0:1)<br>
-	9. jbd (5:26)<br>
+	10. jbd (5:26)<br>
 <br>
-122. #VioletTurni~914 (1065) 0<br>
+121. #Miniongalcon (1067) 0<br>
++66|+45|+15<br>
+	1. GoOody (0:1)<br>
+	5. svircs (0:1)<br>
+	7. bandy (1:2)<br>
+<br>
+122. #salmanisland (1066) +5<br>
++36|+20|+2<br>
+	1. GoOody (0:6)<br>
+<br>
+123. #VioletTurni~914 (1065) 0<br>
 +44|+33|+4<br>
-	7. bandy (0:3)<br>
+	9. wagaf (0:1)<br>
 <br>
-123. #ding2866199 (1065) +12<br>
-+52|+38|+1<br>
+124. #ding2866199 (1064) 0<br>
++51|+37|0<br>
 	6. Nerf~Bot (1:6)<br>
 	7. bandy (0:6)<br>
 <br>
-124. #steve333 (1062) 0<br>
+125. #steve333 (1061) 0<br>
 +33|+6<br>
 	1. GoOody (1:6)<br>
 	2. ianna (1:2)<br>
 	5. svircs (1:3)<br>
 	6. Nerf~Bot (2:2)<br>
 	7. bandy (1:3)<br>
-	8. Human~Being (2:4)<br>
-	10. Attack~Bot (2:1)<br>
+	8. Attack~Bot (2:1)<br>
 <br>
-125. #AnkleBreaker (1061) 0<br>
+126. #AnkleBreaker (1061) 0<br>
 +36|+30|+8<br>
 	7. bandy (0:5)<br>
-	10. Attack~Bot (0:1)<br>
+	8. Attack~Bot (0:1)<br>
 <br>
-126. #salmanisland (1059) +11<br>
-+29|+13<br>
-<br>
-127. #AcePegasus (1059) 0<br>
-+45|+36|+13|+11|+4|0<br>
-<br>
-128. #MagicDoor~639 (1057) 0<br>
+127. #MagicDoor~639 (1056) 0<br>
 +24|+10<br>
 	1. GoOody (0:2)<br>
 <br>
-129. #Porkerlou (1054) 0<br>
+128. #Porkerlou (1054) 0<br>
 <br>
+<br>
+129. #Milky007 (1053) +2<br>
++19|+2<br>
+	1. GoOody (0:1)<br>
+	7. bandy (0:4)<br>
 <br>
 130. #QuietPilot~761 (1052) 0<br>
 <br>
 <br>
-131. #Milky007 (1051) 0<br>
-+17|0<br>
-	1. GoOody (0:1)<br>
-	7. bandy (0:4)<br>
-<br>
-132. #tinkywinky (1049) +7<br>
+131. #tinkywinky (1049) 0<br>
 +12<br>
-	8. Human~Being (2:2)<br>
 <br>
-133. #drdeadscat (1048) 0<br>
+132. #drdeadscat (1048) 0<br>
 +41|+40|+37|+33|+35|+22|+11|+8|+5|+2<br>
 	7. bandy (0:6)<br>
 <br>
-134. #tarqs (1048) 0<br>
+133. #tarqs (1048) 0<br>
 +22<br>
 	1. GoOody (2:0)<br>
 	7. bandy (5:5)<br>
 <br>
-135. #FancyCar~225 (1048) 0<br>
-<br>
-	7. bandy (1:0)<br>
-<br>
-136. #sashov (1046) 0<br>
+134. #sashov (1046) 0<br>
 +25<br>
 	1. GoOody (0:3)<br>
-	3. Impatient~Bot (2:1)<br>
-	6. Nerf~Bot (2:0)<br>
 	7. bandy (3:0)<br>
 <br>
-137. #jool (1045) +2<br>
+135. #jool (1045) 0<br>
 +1<br>
 	1. GoOody (0:5)<br>
 	5. svircs (1:0)<br>
 	7. bandy (1:1)<br>
-	8. Human~Being (1:0)<br>
 <br>
-138. #CozyRaven~555 (1042) 0<br>
-+9<br>
+136. #Slow~Poke (1045) +2<br>
++43|+53|+65|+51|+35|+28|+22|+14|+2|0<br>
+	3. Impatient~Bot (0:1)<br>
+	6. Nerf~Bot (0:2)<br>
+	10. jbd (4:2)<br>
+<br>
+137. #CozyRaven~555 (1043) 0<br>
++10<br>
 	1. GoOody (0:1)<br>
 	2. ianna (1:0)<br>
 	7. bandy (0:3)<br>
 <br>
-139. #aawwa (1041) 0<br>
+138. #aawwa (1041) 0<br>
 +24|+27|+5|-3|-17|-15|-6|-1<br>
 	7. bandy (1:5)<br>
 <br>
-140. #Slow~Poke (1040) -2<br>
-+35|+38|+48|+61|+47|+30|+23|+17|+10|-3<br>
-	3. Impatient~Bot (0:1)<br>
-	6. Nerf~Bot (0:1)<br>
-	8. Human~Being (0:2)<br>
-	9. jbd (3:2)<br>
-<br>
-141. #BlondKazoo~904 (1040) +4<br>
+139. #BlondKazoo~904 (1040) 0<br>
 +3<br>
 <br>
-142. #BlackTiger (1039) 0<br>
+140. #BlackTiger (1039) 0<br>
 +22|+6<br>
 	1. GoOody (0:9)<br>
 	2. ianna (3:2)<br>
 	3. Impatient~Bot (0:3)<br>
 	6. Nerf~Bot (0:1)<br>
 <br>
-143. #nil (1039) 0<br>
+141. #nil (1039) 0<br>
 +21|+10|+5|+2<br>
 	1. GoOody (1:1)<br>
 	2. ianna (0:1)<br>
-	7. bandy (3:13)<br>
+	7. bandy (2:9)<br>
 <br>
-144. #SAPIEN (1038) 0<br>
+142. #Hannibal~Smith (1039) +1<br>
++18|+11|0|+7|-5|-7|-2|-24|-10|+1<br>
+	3. Impatient~Bot (0:2)<br>
+	10. jbd (5:38)<br>
+<br>
+143. #SAPIEN (1038) 0<br>
 <br>
 	2. ianna (1:0)<br>
 	5. svircs (0:1)<br>
 	7. bandy (0:1)<br>
 <br>
-145. #Hannibal~Smith (1038) -6<br>
-+23|+18|+11|-1|+6|-5|-8|-2|-25|-11<br>
-	3. Impatient~Bot (0:2)<br>
-	9. jbd (5:33)<br>
-<br>
-146. #BitterFlute~628 (1037) 0<br>
-+30|+15|+7|+1|-2<br>
+144. #BitterFlute~628 (1036) 0<br>
++29|+15|+6|0|-2<br>
 	2. ianna (0:1)<br>
 	7. bandy (0:2)<br>
+	9. wagaf (0:1)<br>
 <br>
-147. #Sea~Slug (1036) +4<br>
--28|-30|-28|-25|-15|-13|-14|0|+2|+2<br>
-	6. Nerf~Bot (1:1)<br>
-	9. jbd (8:26)<br>
-<br>
-148. #ScorpheX (1036) 0<br>
-<br>
-	1. GoOody (0:1)<br>
-	6. Nerf~Bot (0:1)<br>
-	7. bandy (3:0)<br>
-<br>
-149. #StormyYam~602 (1035) +4<br>
+145. #StormyYam~602 (1035) 0<br>
 +15<br>
 	1. GoOody (0:1)<br>
 	7. bandy (0:1)<br>
 <br>
-150. #LEE.K88NY (1034) 0<br>
-<br>
-<br>
-151. #FunnyFaucet~797 (1033) 0<br>
-<br>
-<br>
-152. #Benman3000 (1033) 0<br>
-+31|+30|+26|+20|+14|+6<br>
+146. #Benman3000 (1033) 0<br>
++32|+31|+27|+20|+14|+7<br>
 	1. GoOody (1:13)<br>
 	2. ianna (0:1)<br>
 	7. bandy (4:9)<br>
 <br>
-153. #callisto103 (1032) -1<br>
-+11|0<br>
-	5. svircs (0:1)<br>
+147. #LEE.K88NY (1033) 0<br>
 <br>
-154. #terren (1031) 0<br>
-+13|-1<br>
-	7. bandy (2:0)<br>
 <br>
-155. #wakim (1030) 0<br>
+148. #FunnyFaucet~797 (1033) 0<br>
 <br>
-	3. Impatient~Bot (5:2)<br>
-	7. bandy (0:1)<br>
 <br>
-156. #MushySand~375 (1030) 0<br>
-+21|+10|+11|0<br>
-	1. GoOody (0:7)<br>
-	7. bandy (0:1)<br>
+149. #necare1000 (1033) +5<br>
 <br>
-157. #ChillyDrago~607 (1029) 0<br>
+<br>
+150. #ChillyDrago~607 (1033) 0<br>
 <br>
 	7. bandy (1:1)<br>
 <br>
-158. #luisluis (1029) 0<br>
-+11|+5<br>
+151. #callisto103 (1031) 0<br>
++10|-1<br>
+	5. svircs (0:1)<br>
+	9. wagaf (0:1)<br>
+<br>
+152. #terren (1031) 0<br>
++13|-1<br>
+	7. bandy (2:0)<br>
+	9. wagaf (0:1)<br>
+<br>
+153. #wakim (1030) 0<br>
+<br>
+	3. Impatient~Bot (5:2)<br>
+	7. bandy (0:1)<br>
+	9. wagaf (0:1)<br>
+<br>
+154. #MushySand~375 (1030) 0<br>
++21|+10|+11|0<br>
+	1. GoOody (0:5)<br>
+	7. bandy (0:1)<br>
+<br>
+155. #shatnerspant (1030) +2<br>
++17|+9|+1<br>
+<br>
+156. #groovyham (1029) 0<br>
++11<br>
+	4. Killer~Waffle (1:1)<br>
+	5. svircs (1:0)<br>
+	6. Nerf~Bot (0:1)<br>
+	7. bandy (0:3)<br>
+	8. Attack~Bot (0:2)<br>
+	9. wagaf (1:0)<br>
+	10. jbd (1:0)<br>
+<br>
+157. #RacingSkunk~990 (1028) 0<br>
+<br>
+	7. bandy (0:1)<br>
+<br>
+158. #luisluis (1028) -1<br>
++10|+5<br>
 	1. GoOody (0:2)<br>
 	5. svircs (0:1)<br>
-	7. bandy (0:3)<br>
-<br>
-159. #RacingSkunk~990 (1028) 0<br>
-<br>
 	7. bandy (0:1)<br>
 <br>
-160. #shatnerspant (1028) 0<br>
-+16|+7|0<br>
-	7. bandy (0:1)<br>
-<br>
-161. #AbsurdSand~527 (1027) 0<br>
+159. #AbsurdSand~527 (1027) 0<br>
 +18|+8<br>
 	1. GoOody (1:1)<br>
 	2. ianna (0:1)<br>
 	3. Impatient~Bot (0:4)<br>
 	7. bandy (0:3)<br>
 <br>
-162. #Thillixer453 (1027) 0<br>
+160. #Thillixer453 (1027) 0<br>
 +27|+18|+9|+5<br>
 	1. GoOody (0:5)<br>
 	7. bandy (3:4)<br>
+	9. wagaf (2:3)<br>
 <br>
-163. #GroovyHam (1026) 0<br>
-+8<br>
-	4. Killer~Waffle (1:1)<br>
-	5. svircs (1:0)<br>
-	7. bandy (0:3)<br>
-	9. jbd (1:0)<br>
-	10. Attack~Bot (0:2)<br>
+161. #Sea~Slug (1026) -2<br>
+-35|-25|-23|-24|-10|-8|-8|-2|+1|+1<br>
+	6. Nerf~Bot (0:1)<br>
+	10. jbd (8:26)<br>
 <br>
-164. #PokeyMoney~306 (1026) +25<br>
+162. #heathbn (1025) 0<br>
++20|+6<br>
 <br>
+163. #PokeyMoney~306 (1025) 0<br>
++1<br>
+	1. GoOody (2:11)<br>
 <br>
-165. #heathbn (1023) 0<br>
-+18|+4<br>
-<br>
-166. #RitzyCheese~576 (1022) 0<br>
-+4<br>
-	1. GoOody (0:7)<br>
-	7. bandy (1:2)<br>
-<br>
-167. #ilyxagospodi (1021) 0<br>
-+21|+19|+5|+2<br>
-	1. GoOody (0:5)<br>
-	7. bandy (0:3)<br>
-<br>
-168. #lowki (1020) +1<br>
+164. #lowki (1023) 0<br>
 <br>
 	2. ianna (0:1)<br>
 <br>
-169. #necare1000 (1019) 0<br>
+165. #RitzyCheese~576 (1022) 0<br>
++4<br>
+	1. GoOody (0:7)<br>
+	7. bandy (1:2)<br>
+	9. wagaf (0:1)<br>
 <br>
+166. #ilyxagospodi (1021) 0<br>
++21|+19|+5|+2<br>
+	1. GoOody (0:5)<br>
+	7. bandy (0:3)<br>
+	9. wagaf (1:2)<br>
 <br>
-170. #MaltonnA (1019) 0<br>
-+14|+7<br>
+167. #MaltonnA (1020) +1<br>
++15|+9<br>
 	2. ianna (1:0)<br>
-	6. Nerf~Bot (0:2)<br>
-	10. Attack~Bot (0:1)<br>
+	6. Nerf~Bot (0:3)<br>
+	8. Attack~Bot (0:1)<br>
+	9. wagaf (0:3)<br>
 <br>
-171. #MvpFlapper (1017) +12<br>
-<br>
-<br>
-172. #varsha_a (1017) 0<br>
-<br>
+168. #varsha_a (1018) 0<br>
++1<br>
 	5. svircs (1:1)<br>
 <br>
-173. #MR_JABROT_X (1016) 0<br>
-+5<br>
-	7. bandy (1:5)<br>
+169. #MvpFlapper (1017) 0<br>
 <br>
-174. #AcidSoup~808 (1015) 0<br>
+<br>
+170. #MR_JABROT_X (1016) 0<br>
++5<br>
+	7. bandy (0:2)<br>
+<br>
+171. #SoggyIcicle~968 (1015) 0<br>
+<br>
+	7. bandy (0:1)<br>
+<br>
+172. #adamfirst (1015) 0<br>
++11|-1|+2<br>
+	1. GoOody (1:7)<br>
+<br>
+173. #AcidSoup~808 (1015) 0<br>
 <br>
 	7. bandy (1:0)<br>
 <br>
-175. #adamfirst (1014) 0<br>
-+10|-2|+1<br>
-	1. GoOody (1:7)<br>
-<br>
-176. #factor12 (1014) 0<br>
+174. #factor12 (1014) 0<br>
 +12<br>
 	1. GoOody (0:1)<br>
 	2. ianna (0:1)<br>
 	3. Impatient~Bot (0:1)<br>
+	9. wagaf (0:1)<br>
 <br>
-177. #timboton (1013) 0<br>
+175. #timboton (1013) 0<br>
 <br>
 <br>
-178. #cmensperm (1013) 0<br>
+176. #cmensperm (1013) 0<br>
 +2<br>
 	1. GoOody (0:4)<br>
 <br>
-179. #BottyMcBot (1013) 0<br>
+177. #BottyMcBot (1013) 0<br>
 <br>
 <br>
-180. #Andromedandr (1012) 0<br>
+178. #Andromedandr (1012) 0<br>
 <br>
 	2. ianna (1:0)<br>
 	7. bandy (1:0)<br>
 <br>
-181. #BlondCactus~186 (1012) 0<br>
+179. #BlondCactus~186 (1012) 0<br>
 <br>
 <br>
-182. #Mhal007 (1011) 0<br>
+180. #Mhal007 (1011) 0<br>
 <br>
 <br>
-183. #MasterHorus (1011) 0<br>
+181. #HungryBrush~264 (1011) +3<br>
+<br>
+	1. GoOody (0:2)<br>
+	4. Killer~Waffle (0:1)<br>
+	7. bandy (2:1)<br>
+<br>
+182. #MasterHorus (1011) 0<br>
 +5|-4<br>
 	7. bandy (1:0)<br>
 <br>
-184. #spookydoor (1011) 0<br>
+183. #spookydoor (1011) 0<br>
 <br>
 	5. svircs (0:1)<br>
 	6. Nerf~Bot (0:2)<br>
-	7. bandy (1:1)<br>
-	10. Attack~Bot (0:1)<br>
+	7. bandy (1:0)<br>
+	8. Attack~Bot (0:1)<br>
+<br>
+184. #GrumpyCrush~107 (1011) 0<br>
+<br>
+	1. GoOody (0:1)<br>
+	7. bandy (0:4)<br>
+	10. jbd (1:0)<br>
 <br>
 185. #ItchyBasket~852 (1010) 0<br>
 <br>
 	7. bandy (0:1)<br>
+	9. wagaf (0:1)<br>
 <br>
-186. #GrumpyCrush~107 (1010) 0<br>
-<br>
-	1. GoOody (0:1)<br>
-	7. bandy (0:4)<br>
-	9. jbd (1:0)<br>
+186. #gobindsingh (1009) +3<br>
++6|+4|-1<br>
+	1. GoOody (0:2)<br>
+	5. svircs (1:0)<br>
+	7. bandy (1:5)<br>
 <br>
 187. #thunder35 (1009) 0<br>
 +1<br>
 	6. Nerf~Bot (0:5)<br>
 	7. bandy (0:2)<br>
 <br>
-188. #Born~2Snipe (1008) +2<br>
-+15|+7|+9|+11|+17|+10|+7|+17|+12|+1<br>
-	9. jbd (2:50)<br>
+188. #GentleSquas~623 (1008) -1<br>
 <br>
-189. #HungryBrush~264 (1008) 0<br>
 <br>
-	1. GoOody (0:2)<br>
-	4. Killer~Waffle (0:1)<br>
-	7. bandy (2:1)<br>
-<br>
-190. #ryanlogic (1008) 0<br>
+189. #ryanlogic (1008) 0<br>
 +9<br>
 <br>
-191. #AhriKitsune (1007) 0<br>
+190. #AhriKitsune (1007) 0<br>
 +1<br>
 	2. ianna (0:1)<br>
 	7. bandy (1:2)<br>
+	9. wagaf (0:1)<br>
 <br>
-192. #LeanShoe~474 (1007) +1<br>
+191. #LeanShoe~474 (1007) 0<br>
 +1<br>
 	5. svircs (2:0)<br>
 	7. bandy (1:0)<br>
 <br>
-193. #gobindsingh (1006) 0<br>
-+3|+1|-4<br>
-	1. GoOody (0:2)<br>
-	5. svircs (1:0)<br>
-	7. bandy (1:5)<br>
+192. #Born~2Snipe (1006) -3<br>
++13|+5|+6|+9|+14|+8|+5|+14|+9|-2<br>
+	10. jbd (2:56)<br>
 <br>
-194. #seoirse (1006) 0<br>
-+5|+4|-2|-1|+4|+2|+4|-2|-2<br>
-	7. bandy (0:1)<br>
-<br>
-195. #Deplorable (1006) 0<br>
+193. #Deplorable (1006) 0<br>
 <br>
 	1. GoOody (0:2)<br>
 	2. ianna (0:2)<br>
 	6. Nerf~Bot (0:1)<br>
 	7. bandy (0:1)<br>
 <br>
-196. #AlGalcone (1006) 0<br>
+194. #AlGalcone (1006) 0<br>
 +7|+4|0<br>
 	1. GoOody (0:4)<br>
 	2. ianna (1:4)<br>
 <br>
-197. #tombib (1005) 0<br>
+195. #ttechr4life (1005) 0<br>
++2<br>
+	1. GoOody (0:1)<br>
 <br>
+196. #sharonchen (1005) 0<br>
+<br>
+<br>
+197. #seoirse (1005) -1<br>
++4|+3|-3|-2|+3|+1|+2|-4|-4<br>
 	7. bandy (0:1)<br>
 <br>
-198. #sharonchen (1005) 0<br>
+198. #Rush~Bot (1004) 0<br>
+0<br>
+	2. ianna (3:9)<br>
+	3. Impatient~Bot (0:3)<br>
+	4. Killer~Waffle (0:2)<br>
+	6. Nerf~Bot (3:4)<br>
 <br>
+199. #HugeBeluga~416 (1004) 0<br>
 <br>
-199. #thund3rfrakk (1004) 0<br>
+	1. GoOody (0:2)<br>
+<br>
+200. #thund3rfrakk (1004) 0<br>
 <br>
 	1. GoOody (0:2)<br>
 	7. bandy (0:1)<br>
 <br>
-200. #ttechr4life (1004) +1<br>
-0<br>
-	1. GoOody (0:1)<br>
-<br>
-201. #TightFire~338 (1003) 0<br>
-<br>
-	5. svircs (0:1)<br>
-<br>
-202. #sprexe (1003) 0<br>
-+2<br>
-	7. bandy (3:11)<br>
-<br>
-203. #DragonRyder (1003) +2<br>
+201. #DragonRyder (1004) 0<br>
 <br>
 	7. bandy (0:3)<br>
 <br>
-204. #FunnyRibbon~353 (1003) 0<br>
+202. #TightFire~338 (1003) 0<br>
+<br>
+	5. svircs (0:1)<br>
+<br>
+203. #sprexe (1003) 0<br>
++2<br>
+	7. bandy (3:11)<br>
+<br>
+204. #Kalhagen (1003) -1<br>
 <br>
 	1. GoOody (0:1)<br>
 <br>
@@ -1126,17 +1139,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. svircs (0:1)<br>
 	7. bandy (0:1)<br>
 <br>
-206. #coldhell13 (1002) -1<br>
+206. #coldhell13 (1002) 0<br>
 0<br>
 	7. bandy (0:3)<br>
+	9. wagaf (1:0)<br>
 <br>
-207. #Rush~Bot (1002) 0<br>
--2<br>
-	2. ianna (3:9)<br>
-	3. Impatient~Bot (0:3)<br>
-	4. Killer~Waffle (0:2)<br>
-	6. Nerf~Bot (1:4)<br>
-	8. Human~Being (6:8)<br>
+207. #FunnyRibbon~353 (1002) -1<br>
+<br>
+	1. GoOody (0:1)<br>
 <br>
 208. #JamesTheMan (1001) 0<br>
 <br>
@@ -1145,59 +1155,55 @@ Recent win rates against top 10 over the past 20k matches<br>
 209. #RoundSand~461 (1000) 0<br>
 <br>
 <br>
-210. #Ragnarok49 (1000) 0<br>
-<br>
-	1. GoOody (0:3)<br>
-	5. svircs (0:1)<br>
-<br>
-211. #Tarahyumaro (1000) 0<br>
+210. #Tarahyumaro (1000) 0<br>
 <br>
 	1. GoOody (0:2)<br>
 	7. bandy (0:4)<br>
 <br>
-212. #QuickHat~598 (999) 0<br>
+211. #QuickHat~598 (999) 0<br>
 <br>
 	1. GoOody (0:7)<br>
 	5. svircs (0:1)<br>
 <br>
-213. #malgreyd (998) 0<br>
+212. #malgreyd (998) 0<br>
 <br>
 	1. GoOody (1:6)<br>
 	7. bandy (0:1)<br>
 <br>
-214. #pennywise555 (998) 0<br>
+213. #pennywise555 (998) 0<br>
 <br>
 	7. bandy (1:8)<br>
+	9. wagaf (0:1)<br>
 <br>
-215. #CheapTail~719 (997) 0<br>
-<br>
-<br>
-216. #RedHand~146 (996) +1<br>
+214. #CheapTail~719 (997) 0<br>
 <br>
 <br>
-217. #ZippyClover~890 (995) 0<br>
+215. #RedHand~146 (996) 0<br>
+<br>
+<br>
+216. #ZippyClover~890 (995) 0<br>
 <br>
 	2. ianna (0:3)<br>
 <br>
-218. #SquareSofa~508 (993) 0<br>
+217. #SquareSofa~508 (993) 0<br>
 <br>
 <br>
-219. #hak-attack (983) 0<br>
+218. #hak-attack (983) 0<br>
 -8|-7<br>
 	7. bandy (0:4)<br>
-	10. Attack~Bot (0:2)<br>
+	8. Attack~Bot (0:2)<br>
 <br>
-220. #Home~Boy (849) -3<br>
--25|-21|-17|-10|-3|-2|-1|-3|-1|-2<br>
+219. #Home~Boy (856) +4<br>
+-2|+5|+6|+6|+4|+6|+6|+6|+7|+5<br>
 	3. Impatient~Bot (0:1)<br>
 <br>
-221. #Sitting~Duck (838) +3<br>
-+6|+10|+9|+5|+7|+8|+13|+15|+11|+4<br>
+220. #Sitting~Duck (842) +3<br>
++11|+14|+14|+9|+12|+13|+18|+20|+15|+8<br>
 	4. Killer~Waffle (0:3)<br>
 	6. Nerf~Bot (0:1)<br>
-	9. jbd (0:2)<br>
-	10. Attack~Bot (0:2)<br>
+	8. Attack~Bot (0:2)<br>
+	10. jbd (2:3)<br>
 <br>
-222. #Do~Nothing (655) 0<br>
--15|-12|-9|-6|-2|0|-1|+1|-1|0<br>
+221. #Do~Nothing (649) -2<br>
+-15|-12|-8|-6|-7|-6|-7|-6|-4|-1<br>
 	3. Impatient~Bot (0:1)<br>
