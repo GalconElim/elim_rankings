@@ -1,2346 +1,2228 @@
 Recent win rates against top 10 over the past 21 days<br>
 <br>
-1. #SparkyPlane (1369) -1<br>
-+27|+26|+26|+28|+20|+14|+2|+5|+6|-2<br>
+1. #SparkyPlane (1368) -2<br>
++24|+24|+27|+19|+13|0|+4|+4|-3|+3<br>
 	2. croissant (1:3)<br>
-	5. Fluffywolf (3:5)<br>
-	6. COBRA123 (6:13)<br>
-	7. shaidar (2:1)<br>
-	8. MAKki (2:4)<br>
-	9. bandy (4:5)<br>
-	10. NaCly (23:13)<br>
+	5. COBRA123 (6:13)<br>
+	6. Fluffywolf (3:5)<br>
+	7. MAKki (2:4)<br>
+	8. bandy (4:9)<br>
+	9. shaidar (2:1)<br>
 <br>
 2. #croissant (1352) 0<br>
 +17|+14|+16|+12|+14|+8|-4|-7|0|-8<br>
 	1. SparkyPlane (3:1)<br>
-	3. Buff-Plunts (9:2)<br>
-	4. holzabee86 (1:4)<br>
-	7. shaidar (6:1)<br>
-	10. NaCly (3:3)<br>
+	3. holzabee86 (1:4)<br>
+	4. Buff-Plunts (9:2)<br>
+	9. shaidar (6:1)<br>
+	10. GaudyWeasel (2:1)<br>
 <br>
-3. #Buff-Plunts (1340) +2<br>
--16|-20|-23|-18|-17|-17|-9|+5|+3|0<br>
-	2. croissant (2:9)<br>
-	4. holzabee86 (1:0)<br>
-	6. COBRA123 (7:5)<br>
-	7. shaidar (1:0)<br>
-	9. bandy (2:0)<br>
-<br>
-4. #holzabee86 (1340) 0<br>
-+21|+19|+7|-8|-10|-9|-4|-5|-9|+1<br>
+3. #holzabee86 (1349) +9<br>
++29|+17|+2|0|+1|+5|+5|0|+11|+6<br>
 	2. croissant (4:1)<br>
-	3. Buff-Plunts (0:1)<br>
-	6. COBRA123 (0:1)<br>
-	7. shaidar (2:2)<br>
-	9. bandy (1:0)<br>
-	10. NaCly (3:1)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (0:1)<br>
+	8. bandy (1:0)<br>
+	9. shaidar (2:2)<br>
 <br>
-5. #Fluffywolf (1337) -2<br>
-+41|+41|+30|+32|+27|+18|+13|+13|+6|0<br>
-	1. SparkyPlane (5:3)<br>
-	6. COBRA123 (10:9)<br>
-	7. shaidar (2:1)<br>
-	9. bandy (7:1)<br>
-	10. NaCly (1:0)<br>
+4. #Buff-Plunts (1339) -2<br>
+-18|-22|-25|-19|-18|-19|-11|+4|+2|-2<br>
+	2. croissant (2:9)<br>
+	3. holzabee86 (1:0)<br>
+	5. COBRA123 (7:5)<br>
+	8. bandy (2:0)<br>
+	9. shaidar (1:0)<br>
 <br>
-6. #COBRA123 (1326) -4<br>
--2|-8|-9|-2|+5|+21|+11|+4|-5|-7<br>
+5. #COBRA123 (1332) +7<br>
+-1|-3|+5|+11|+27|+17|+11|+2|-1|+5<br>
 	1. SparkyPlane (13:6)<br>
-	3. Buff-Plunts (5:7)<br>
-	4. holzabee86 (1:0)<br>
-	5. Fluffywolf (9:10)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (7:4)<br>
+	3. holzabee86 (1:0)<br>
+	4. Buff-Plunts (5:7)<br>
+	6. Fluffywolf (18:14)<br>
+	8. bandy (7:4)<br>
 <br>
-7. #shaidar (1320) 0<br>
+6. #Fluffywolf (1328) -9<br>
++32|+32|+21|+23|+18|+9|+5|+4|-3|-9<br>
+	1. SparkyPlane (5:3)<br>
+	5. COBRA123 (14:18)<br>
+	8. bandy (7:0)<br>
+	9. shaidar (2:1)<br>
+<br>
+7. #MAKki (1323) +3<br>
++11|+8|+8|+5|+6|+13|+3|+9|+4|+8<br>
+	1. SparkyPlane (4:2)<br>
+<br>
+8. #bandy (1320) +1<br>
++13|+22|+10|+9|+3|+12|+15|+18|+13|-5<br>
+	1. SparkyPlane (9:4)<br>
+	3. holzabee86 (0:1)<br>
+	4. Buff-Plunts (0:2)<br>
+	5. COBRA123 (4:7)<br>
+	6. Fluffywolf (0:7)<br>
+<br>
+9. #shaidar (1320) 0<br>
 +33|+23|+14|+16|+3|-2|-15|-14|-10|-4<br>
 	1. SparkyPlane (1:2)<br>
 	2. croissant (1:6)<br>
-	3. Buff-Plunts (0:1)<br>
-	4. holzabee86 (2:2)<br>
-	5. Fluffywolf (1:2)<br>
-	6. COBRA123 (1:0)<br>
+	3. holzabee86 (2:2)<br>
+	4. Buff-Plunts (0:1)<br>
+	6. Fluffywolf (1:2)<br>
 <br>
-8. #MAKki (1320) +2<br>
-+8|+5|+5|+3|+3|+10|0|+6|+1|+5<br>
-	1. SparkyPlane (4:2)<br>
-	9. bandy (0:2)<br>
-	10. NaCly (2:1)<br>
-<br>
-9. #bandy (1320) +9<br>
-+15|+12|+22|+9|+8|+2|+11|+15|+17|+13<br>
-	1. SparkyPlane (5:4)<br>
-	3. Buff-Plunts (0:2)<br>
-	4. holzabee86 (0:1)<br>
-	5. Fluffywolf (1:7)<br>
-	6. COBRA123 (4:7)<br>
-	8. MAKki (2:0)<br>
-	10. NaCly (1:0)<br>
-<br>
-10. #NaCly (1312) 0<br>
-+52|+42|+45|+30|+30|+29|+17|+8|+11|0<br>
-	1. SparkyPlane (13:23)<br>
-	2. croissant (3:3)<br>
-	4. holzabee86 (1:3)<br>
-	5. Fluffywolf (0:1)<br>
-	8. MAKki (1:2)<br>
-	9. bandy (0:1)<br>
-<br>
-11. #GaudyWeasel (1312) 0<br>
+10. #GaudyWeasel (1312) 0<br>
 +27|+28|+32|+40|+29|+31|+25|+20|+18|+2<br>
 	2. croissant (1:2)<br>
 <br>
-12. #lelofadel111 (1311) 0<br>
-+30|+18|0|-5|-16|-18|-18|-17|-8|-1<br>
-	1. SparkyPlane (0:1)<br>
-	2. croissant (1:2)<br>
-	5. Fluffywolf (3:0)<br>
-	6. COBRA123 (20:28)<br>
-	7. shaidar (0:1)<br>
-	8. MAKki (1:1)<br>
-	9. bandy (4:6)<br>
+11. #NaCly (1311) -2<br>
++50|+40|+43|+29|+29|+27|+15|+6|+10|-2<br>
+	1. SparkyPlane (14:25)<br>
+	2. croissant (3:3)<br>
+	3. holzabee86 (1:5)<br>
+	6. Fluffywolf (0:1)<br>
+	7. MAKki (1:2)<br>
+	8. bandy (0:1)<br>
 <br>
-13. #Artimal_PL (1308) -2<br>
-+38|+23|+17|+18|+13|+6|-2|-4|-6|-1<br>
-	1. SparkyPlane (4:4)<br>
-	5. Fluffywolf (11:8)<br>
-	6. COBRA123 (1:2)<br>
-	8. MAKki (2:2)<br>
-	9. bandy (2:3)<br>
-	10. NaCly (0:1)<br>
-<br>
-14. #maThKniGht (1306) 0<br>
+12. #maThKniGht (1306) 0<br>
 +235|+159|+119|+88|+72|+44|+25|+13|+8|-5<br>
 	1. SparkyPlane (1:3)<br>
 	2. croissant (1:0)<br>
-	4. holzabee86 (0:1)<br>
-	5. Fluffywolf (1:2)<br>
-	6. COBRA123 (0:1)<br>
-	8. MAKki (0:2)<br>
-	10. NaCly (5:1)<br>
+	3. holzabee86 (0:1)<br>
+	5. COBRA123 (0:1)<br>
+	6. Fluffywolf (0:2)<br>
+	7. MAKki (0:1)<br>
 <br>
-15. #BenjIKoZoR (1300) +1<br>
-+31|+31|+27|+32|+26|+29|+29|+37|+16|+16<br>
-	2. croissant (0:3)<br>
-	3. Buff-Plunts (2:0)<br>
-	5. Fluffywolf (2:2)<br>
-	8. MAKki (1:0)<br>
-	9. bandy (11:3)<br>
+13. #lelofadel111 (1306) -5<br>
++25|+13|-5|-10|-21|-24|-23|-22|-13|-6<br>
+	1. SparkyPlane (0:1)<br>
+	2. croissant (1:2)<br>
+	5. COBRA123 (20:29)<br>
+	6. Fluffywolf (1:0)<br>
+	7. MAKki (1:1)<br>
+	8. bandy (1:3)<br>
 <br>
-16. #james--- (1299) +3<br>
-+42|+36|+21|-2|-18|-15|-25|-20|-13|-9<br>
+14. #Artimal_PL (1306) -2<br>
++36|+21|+15|+16|+11|+4|-4|-6|-8|-3<br>
+	1. SparkyPlane (5:5)<br>
+	5. COBRA123 (1:2)<br>
+	6. Fluffywolf (11:8)<br>
+	7. MAKki (2:2)<br>
+	8. bandy (2:3)<br>
+<br>
+15. #james--- (1303) +3<br>
++45|+40|+25|+1|-15|-11|-22|-16|-9|-6<br>
 	1. SparkyPlane (1:0)<br>
 	2. croissant (0:2)<br>
-	4. holzabee86 (1:0)<br>
-	7. shaidar (0:3)<br>
-	9. bandy (0:1)<br>
+	3. holzabee86 (1:0)<br>
+	9. shaidar (0:3)<br>
 <br>
-17. #bigdave82 (1297) -1<br>
+16. #BenjIKoZoR (1298) -2<br>
++29|+29|+25|+30|+25|+28|+27|+35|+15|+15<br>
+	2. croissant (0:3)<br>
+	4. Buff-Plunts (2:0)<br>
+	5. COBRA123 (2:2)<br>
+	6. Fluffywolf (2:2)<br>
+	7. MAKki (1:0)<br>
+	8. bandy (11:3)<br>
+<br>
+17. #Dragonscife (1298) +5<br>
++7|+12|+28|+24|+21|+20|+20|+12|+18|+7<br>
+	1. SparkyPlane (8:8)<br>
+	2. croissant (1:0)<br>
+	3. holzabee86 (0:1)<br>
+	5. COBRA123 (2:3)<br>
+	6. Fluffywolf (2:3)<br>
+	8. bandy (1:5)<br>
+	9. shaidar (6:8)<br>
+<br>
+18. #Vato96 (1298) 0<br>
++41|+40|+26|+27|+14|+14|+10|+6|+8|+6<br>
+	1. SparkyPlane (3:7)<br>
+	5. COBRA123 (5:3)<br>
+	6. Fluffywolf (1:3)<br>
+	8. bandy (0:4)<br>
+<br>
+19. #bigdave82 (1297) 0<br>
 +13|+16|+12|+5|+11|0|+1|-8|-9|-1<br>
 	1. SparkyPlane (1:8)<br>
-	5. Fluffywolf (3:3)<br>
-	6. COBRA123 (1:0)<br>
-	9. bandy (3:4)<br>
-	10. NaCly (2:2)<br>
+	5. COBRA123 (1:0)<br>
+	6. Fluffywolf (3:3)<br>
+	8. bandy (3:4)<br>
 <br>
-18. #Vato96 (1297) -2<br>
-+41|+40|+26|+26|+14|+13|+9|+6|+7|+5<br>
-	1. SparkyPlane (3:7)<br>
-	5. Fluffywolf (1:3)<br>
-	6. COBRA123 (5:3)<br>
-	9. bandy (0:4)<br>
-	10. NaCly (1:0)<br>
-<br>
-19. #hyoshy (1296) 0<br>
-+37|+34|+23|+28|+28|+19|+23|+21|+18|+5<br>
+20. #hyoshy (1295) -1<br>
++36|+34|+22|+27|+28|+18|+22|+20|+17|+5<br>
 	1. SparkyPlane (1:0)<br>
-	5. Fluffywolf (2:2)<br>
-	6. COBRA123 (1:0)<br>
-	8. MAKki (0:1)<br>
-	10. NaCly (1:2)<br>
+	5. COBRA123 (2:0)<br>
+	6. Fluffywolf (1:2)<br>
+	7. MAKki (0:1)<br>
 <br>
-20. #DeimosX (1294) 0<br>
+21. #DeimosX (1294) 0<br>
 +59|+49|+39|+29|+24|+32|+27|+18|+18|+4<br>
 	1. SparkyPlane (4:10)<br>
 	2. croissant (3:4)<br>
-	5. Fluffywolf (7:13)<br>
-	6. COBRA123 (24:15)<br>
-	9. bandy (1:3)<br>
-	10. NaCly (2:2)<br>
+	5. COBRA123 (24:15)<br>
+	6. Fluffywolf (7:11)<br>
+	8. bandy (1:3)<br>
+	10. GaudyWeasel (3:4)<br>
 <br>
-21. #Dragonscife (1293) +10<br>
-+2|+7|+23|+19|+17|+15|+15|+7|+14|+2<br>
-	1. SparkyPlane (1:1)<br>
-	2. croissant (1:0)<br>
-	4. holzabee86 (0:1)<br>
-	5. Fluffywolf (2:3)<br>
-	6. COBRA123 (2:3)<br>
-	7. shaidar (6:8)<br>
-	9. bandy (1:4)<br>
-	10. NaCly (3:0)<br>
+22. #theAceofGame (1291) -2<br>
++55|+41|+39|+32|+23|+19|+27|+28|+19|+2<br>
+	3. holzabee86 (1:4)<br>
+	4. Buff-Plunts (6:7)<br>
+	5. COBRA123 (8:4)<br>
+	8. bandy (1:0)<br>
+	9. shaidar (2:3)<br>
 <br>
-22. #theAceofGame (1293) +3<br>
-+57|+43|+41|+34|+25|+22|+29|+30|+21|+4<br>
-	3. Buff-Plunts (6:7)<br>
-	4. holzabee86 (1:2)<br>
-	6. COBRA123 (8:4)<br>
-	7. shaidar (2:3)<br>
-	9. bandy (1:0)<br>
-<br>
-23. #wibbs (1291) -1<br>
--12|-3|0|0|+7|+6|+13|-21|-11|-8<br>
-	5. Fluffywolf (1:0)<br>
-	6. COBRA123 (1:0)<br>
-	9. bandy (1:2)<br>
-	10. NaCly (1:2)<br>
-<br>
-24. #resistfate88 (1290) -1<br>
-+28|+35|+36|+29|+13|+22|+19|+24|+8|+3<br>
+23. #resistfate88 (1290) 0<br>
++28|+35|+36|+29|+13|+21|+19|+24|+7|+2<br>
 	1. SparkyPlane (3:2)<br>
-	5. Fluffywolf (1:0)<br>
-	6. COBRA123 (3:2)<br>
-	8. MAKki (1:1)<br>
-	9. bandy (12:11)<br>
+	5. COBRA123 (3:2)<br>
+	6. Fluffywolf (2:0)<br>
+	7. MAKki (1:1)<br>
+	8. bandy (9:7)<br>
+	10. GaudyWeasel (0:5)<br>
 <br>
-25. #ki1laz0 (1289) +2<br>
-+2|-1|+3|+4|0|0|-7|+4|-3|+2<br>
+24. #BillyDanger (1288) 0<br>
++138|+122|+94|+79|+73|+68|+47|+48|+37|+15<br>
+	4. Buff-Plunts (0:1)<br>
+	8. bandy (2:0)<br>
+<br>
+25. #ki1laz0 (1288) -1<br>
++1|-2|+2|+3|-1|-1|-8|+3|-4|+1<br>
 	1. SparkyPlane (3:5)<br>
 	2. croissant (1:2)<br>
-	6. COBRA123 (3:4)<br>
-	7. shaidar (0:1)<br>
-	8. MAKki (2:3)<br>
-	10. NaCly (1:4)<br>
+	5. COBRA123 (3:4)<br>
+	7. MAKki (2:3)<br>
+	8. bandy (2:0)<br>
 <br>
-26. #BillyDanger (1288) -1<br>
-+138|+122|+94|+79|+73|+68|+47|+48|+37|+15<br>
-	3. Buff-Plunts (0:1)<br>
-	9. bandy (2:0)<br>
-	10. NaCly (0:1)<br>
+26. #Steve333 (1286) -1<br>
++22|+10|+9|+14|+14|+17|+6|+6|+9|+1<br>
+	6. Fluffywolf (0:1)<br>
+	7. MAKki (3:3)<br>
 <br>
-27. #Steve333 (1287) +2<br>
-+23|+11|+10|+15|+15|+18|+7|+7|+10|+2<br>
-	5. Fluffywolf (0:1)<br>
-	8. MAKki (3:3)<br>
-	10. NaCly (1:1)<br>
-<br>
-28. #darth_jesse (1286) 0<br>
-+39|+38|+29|+42|+32|+11|+6|+1|+4|-2<br>
-	1. SparkyPlane (6:7)<br>
-	4. holzabee86 (5:6)<br>
-	5. Fluffywolf (2:3)<br>
-	6. COBRA123 (10:3)<br>
-	7. shaidar (0:1)<br>
-	8. MAKki (7:3)<br>
-	9. bandy (4:15)<br>
-	10. NaCly (5:4)<br>
-<br>
-29. #WarmShoe~212 (1284) 0<br>
+27. #WarmShoe~212 (1284) 0<br>
 +167|+135|+114|+86|+64|+48|+29|+13|+7|0<br>
 	1. SparkyPlane (2:5)<br>
-	5. Fluffywolf (1:1)<br>
-	6. COBRA123 (2:5)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (5:2)<br>
-	10. NaCly (0:1)<br>
+	5. COBRA123 (2:5)<br>
+	6. Fluffywolf (1:1)<br>
+	8. bandy (5:2)<br>
+	9. shaidar (0:1)<br>
 <br>
-30. #bittertater (1283) 0<br>
-+26|+10|+7|+14|+3|0|+5|-2|+4|-3<br>
-	6. COBRA123 (4:3)<br>
-	9. bandy (3:3)<br>
+28. #AngryRobin~972 (1284) +1<br>
++63|+47|+44|+44|+41|+25|+20|+21|+9|+1<br>
+	1. SparkyPlane (2:4)<br>
+	5. COBRA123 (1:0)<br>
+	6. Fluffywolf (0:1)<br>
+	8. bandy (4:4)<br>
 <br>
-31. #fatbucket (1283) +4<br>
-+20|+5|+11|+9|+2|-10|-11|-10|-8|+7<br>
-	1. SparkyPlane (6:18)<br>
-	5. Fluffywolf (0:1)<br>
-	6. COBRA123 (3:2)<br>
-	8. MAKki (5:7)<br>
-	9. bandy (4:2)<br>
-	10. NaCly (2:3)<br>
+29. #fatbucket (1283) 0<br>
++20|+5|+12|+9|+2|-9|-11|-9|-7|+7<br>
+	1. SparkyPlane (7:18)<br>
+	5. COBRA123 (3:2)<br>
+	6. Fluffywolf (0:1)<br>
+	7. MAKki (5:7)<br>
+	8. bandy (4:2)<br>
+	10. GaudyWeasel (1:0)<br>
 <br>
-32. #AngryRobin~972 (1282) 0<br>
-+62|+46|+43|+43|+40|+24|+18|+20|+8|-1<br>
-	1. SparkyPlane (2:3)<br>
-	5. Fluffywolf (0:1)<br>
-	6. COBRA123 (1:0)<br>
-	9. bandy (4:4)<br>
-	10. NaCly (1:0)<br>
+30. #bittertater (1283) -1<br>
++25|+9|+6|+13|+2|-1|+4|-3|+3|-4<br>
+	5. COBRA123 (4:3)<br>
+	8. bandy (3:3)<br>
 <br>
-33. #a_caesar (1281) +7<br>
-+11|+7|+6|-2|+4|+9|+1|+5|+14|+1<br>
+31. #darth_jesse (1282) -3<br>
++35|+26|+39|+28|+8|+3|-2|+1|-5|-1<br>
+	1. SparkyPlane (6:7)<br>
+	3. holzabee86 (5:6)<br>
+	5. COBRA123 (10:4)<br>
+	6. Fluffywolf (2:3)<br>
+	7. MAKki (7:3)<br>
+	8. bandy (4:15)<br>
+	9. shaidar (0:1)<br>
+	10. GaudyWeasel (8:16)<br>
+<br>
+32. #a_caesar (1279) -2<br>
++9|+5|+4|-4|+2|+7|0|+3|+12|0<br>
 	1. SparkyPlane (0:8)<br>
-	9. bandy (1:1)<br>
-	10. NaCly (1:2)<br>
+	8. bandy (1:1)<br>
 <br>
-34. #cocoadog (1279) -1<br>
+33. #cocoadog (1279) 0<br>
 -25|-30|-29|-24|-14|-20|-12|-10|+1|-4<br>
 	1. SparkyPlane (8:7)<br>
 	2. croissant (0:4)<br>
-	5. Fluffywolf (2:3)<br>
-	6. COBRA123 (3:2)<br>
-	9. bandy (1:0)<br>
-	10. NaCly (0:1)<br>
+	5. COBRA123 (2:1)<br>
+	6. Fluffywolf (1:2)<br>
+	8. bandy (1:0)<br>
 <br>
-35. #spookydoor (1279) +3<br>
-+2|+3|+6|+2|+9|+2|+4|-5|0|+6<br>
-	1. SparkyPlane (18:16)<br>
-	2. croissant (1:2)<br>
-	4. holzabee86 (3:0)<br>
-	5. Fluffywolf (3:7)<br>
-	6. COBRA123 (7:7)<br>
-	7. shaidar (0:3)<br>
-	9. bandy (8:16)<br>
-	10. NaCly (3:7)<br>
+34. #TPSproducer (1279) +1<br>
++11|+18|+15|+17|+20|+13|+2|+5|+2|+1<br>
+	1. SparkyPlane (4:7)<br>
+	2. croissant (2:1)<br>
+	3. holzabee86 (4:5)<br>
+	4. Buff-Plunts (13:10)<br>
+	5. COBRA123 (17:13)<br>
+	8. bandy (1:2)<br>
+	9. shaidar (3:3)<br>
 <br>
-36. #TPSproducer (1278) +1<br>
-+10|+17|+14|+16|+19|+12|+1|+4|+1|0<br>
-	2. croissant (3:1)<br>
-	3. Buff-Plunts (13:10)<br>
-	4. holzabee86 (4:5)<br>
-	5. Fluffywolf (2:0)<br>
-	6. COBRA123 (17:13)<br>
-	7. shaidar (5:4)<br>
-	9. bandy (1:0)<br>
-	10. NaCly (2:0)<br>
-<br>
-37. #monguesto (1277) +1<br>
+35. #monguesto (1277) 0<br>
 +7|+8|+15|+8|+11|+12|+15|+18|+13|+1<br>
 	1. SparkyPlane (1:2)<br>
-	6. COBRA123 (1:0)<br>
-	8. MAKki (6:12)<br>
-	9. bandy (3:12)<br>
-	10. NaCly (0:1)<br>
+	5. COBRA123 (1:0)<br>
+	7. MAKki (6:12)<br>
+	8. bandy (1:4)<br>
 <br>
-38. #JCC (1276) 0<br>
+36. #JCC (1276) 0<br>
 -11|-14|-8|-15|-21|-17|-15|-14|-7|+1<br>
 	1. SparkyPlane (0:5)<br>
 	2. croissant (1:0)<br>
-	4. holzabee86 (1:8)<br>
-	6. COBRA123 (1:5)<br>
-	7. shaidar (0:1)<br>
-	10. NaCly (2:2)<br>
+	3. holzabee86 (1:8)<br>
+	5. COBRA123 (1:4)<br>
+	9. shaidar (0:1)<br>
 <br>
-39. #mygalaxy (1276) 0<br>
+37. #mygalaxy (1276) 0<br>
 +36|+29|+15|+19|+18|+10|+1|-4|-5|-1<br>
 	1. SparkyPlane (4:5)<br>
-	4. holzabee86 (0:1)<br>
-	5. Fluffywolf (3:1)<br>
-	6. COBRA123 (2:4)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (1:1)<br>
+	3. holzabee86 (0:1)<br>
+	5. COBRA123 (2:4)<br>
+	6. Fluffywolf (3:1)<br>
+	8. bandy (1:1)<br>
+	9. shaidar (0:1)<br>
 <br>
-40. #germanat (1273) -2<br>
+38. #slovski (1275) +2<br>
++41|+49|+52|+49|+41|+45|+46|+47|+22|+11<br>
+	1. SparkyPlane (1:1)<br>
+	2. croissant (3:1)<br>
+	4. Buff-Plunts (6:7)<br>
+	5. COBRA123 (3:2)<br>
+	9. shaidar (2:0)<br>
+<br>
+39. #spookydoor (1274) -4<br>
+-1|+2|-2|+5|-2|0|-9|-4|+1|-2<br>
+	1. SparkyPlane (18:16)<br>
+	2. croissant (1:2)<br>
+	3. holzabee86 (3:0)<br>
+	5. COBRA123 (9:9)<br>
+	6. Fluffywolf (5:8)<br>
+	7. MAKki (0:1)<br>
+	8. bandy (8:16)<br>
+	9. shaidar (0:3)<br>
+	10. GaudyWeasel (4:3)<br>
+<br>
+40. #germanat (1273) 0<br>
 +58|+58|+47|+37|+38|+34|+17|+11|+9|0<br>
 	1. SparkyPlane (4:7)<br>
 	2. croissant (0:1)<br>
-	5. Fluffywolf (3:4)<br>
-	6. COBRA123 (3:4)<br>
-	7. shaidar (1:0)<br>
-	9. bandy (1:2)<br>
-	10. NaCly (0:4)<br>
+	5. COBRA123 (3:4)<br>
+	8. bandy (1:2)<br>
+	9. shaidar (1:0)<br>
 <br>
-41. #slovski (1273) +9<br>
-+39|+47|+49|+46|+39|+43|+43|+45|+20|+9<br>
-	1. SparkyPlane (1:1)<br>
-	2. croissant (3:1)<br>
-	3. Buff-Plunts (6:7)<br>
-	6. COBRA123 (3:2)<br>
-	7. shaidar (2:0)<br>
-	10. NaCly (1:2)<br>
-<br>
-42. #mae_1 (1270) -1<br>
-+10|+14|+5|+5|-4|-16|-1|+6|+6|-8<br>
+41. #mae_1 (1271) +1<br>
++11|+15|+6|+7|-3|-15|0|+7|+7|-7<br>
 	1. SparkyPlane (4:7)<br>
 	2. croissant (0:2)<br>
-	3. Buff-Plunts (1:1)<br>
-	4. holzabee86 (1:0)<br>
-	5. Fluffywolf (1:2)<br>
-	6. COBRA123 (5:2)<br>
-	7. shaidar (2:2)<br>
-	9. bandy (1:0)<br>
-	10. NaCly (2:2)<br>
+	3. holzabee86 (1:0)<br>
+	4. Buff-Plunts (1:1)<br>
+	5. COBRA123 (5:2)<br>
+	6. Fluffywolf (1:2)<br>
+	7. MAKki (0:2)<br>
+	8. bandy (1:0)<br>
+	9. shaidar (1:1)<br>
+	10. GaudyWeasel (0:1)<br>
 <br>
-43. #LJpain (1270) 0<br>
-+101|+66|+49|+39|+31|+22|+5|-4|+2|0<br>
-	1. SparkyPlane (2:3)<br>
-	2. croissant (1:1)<br>
-	3. Buff-Plunts (1:4)<br>
-	5. Fluffywolf (1:2)<br>
-	6. COBRA123 (1:1)<br>
-	7. shaidar (2:2)<br>
-	9. bandy (3:2)<br>
-	10. NaCly (0:1)<br>
-<br>
-44. #ScaryJam-406 (1269) 0<br>
+42. #ScaryJam-406 (1269) 0<br>
 +35|+30|+24|+16|+21|+13|+15|+2|-3|-4<br>
 	1. SparkyPlane (7:7)<br>
 	2. croissant (1:2)<br>
-	5. Fluffywolf (4:11)<br>
-	6. COBRA123 (2:0)<br>
-	8. MAKki (5:10)<br>
-	9. bandy (4:2)<br>
-	10. NaCly (1:4)<br>
+	5. COBRA123 (2:0)<br>
+	6. Fluffywolf (4:11)<br>
+	7. MAKki (5:10)<br>
+	8. bandy (4:2)<br>
 <br>
-45. #Vergilious (1267) 0<br>
--1|+1|+4|+12|+20|+23|+26|+13|+3|0<br>
+43. #LJpain (1269) -1<br>
++100|+65|+48|+38|+30|+21|+4|-5|+1|-1<br>
+	1. SparkyPlane (2:3)<br>
+	2. croissant (1:1)<br>
+	4. Buff-Plunts (1:4)<br>
+	5. COBRA123 (1:3)<br>
+	6. Fluffywolf (1:2)<br>
+	8. bandy (3:2)<br>
+	9. shaidar (2:2)<br>
+<br>
+44. #Vergilious (1267) -1<br>
++1|+3|+12|+20|+23|+25|+12|+2|0|0<br>
 	1. SparkyPlane (3:1)<br>
 	2. croissant (0:4)<br>
-	3. Buff-Plunts (5:6)<br>
-	4. holzabee86 (1:8)<br>
-	5. Fluffywolf (3:2)<br>
-	6. COBRA123 (2:2)<br>
-	7. shaidar (8:9)<br>
-	9. bandy (8:3)<br>
-	10. NaCly (1:0)<br>
+	3. holzabee86 (1:8)<br>
+	4. Buff-Plunts (5:6)<br>
+	5. COBRA123 (1:1)<br>
+	6. Fluffywolf (3:2)<br>
+	8. bandy (8:3)<br>
+	9. shaidar (7:8)<br>
 <br>
-46. #Axitaxi (1266) 0<br>
-+28|+30|+31|+15|+12|+24|+25|+27|+16|+12<br>
-	1. SparkyPlane (6:7)<br>
-	2. croissant (1:0)<br>
-	5. Fluffywolf (1:1)<br>
-	6. COBRA123 (6:6)<br>
-	7. shaidar (1:0)<br>
-	9. bandy (6:5)<br>
-	10. NaCly (1:2)<br>
-<br>
-47. #7paths (1262) +4<br>
+45. #7paths (1262) 0<br>
 +7|+7|+12|+14|+21|+21|+22|+20|+13|+9<br>
 	1. SparkyPlane (1:0)<br>
-	5. Fluffywolf (0:4)<br>
-	6. COBRA123 (1:8)<br>
-	8. MAKki (1:1)<br>
-	9. bandy (0:1)<br>
+	5. COBRA123 (1:8)<br>
+	6. Fluffywolf (0:4)<br>
+	7. MAKki (1:1)<br>
+	8. bandy (0:1)<br>
 <br>
-48. #mander (1261) +3<br>
-+35|+36|+28|+19|+11|+6|+8|+10|+7|+6<br>
+46. #Axitaxi (1261) -5<br>
++25|+26|+10|+7|+19|+20|+22|+11|+7|-4<br>
+	1. SparkyPlane (8:8)<br>
+	2. croissant (1:0)<br>
+	5. COBRA123 (7:6)<br>
+	6. Fluffywolf (1:1)<br>
+	7. MAKki (3:5)<br>
+	8. bandy (9:7)<br>
+	9. shaidar (1:0)<br>
+<br>
+47. #mander (1261) 0<br>
++35|+27|+18|+11|+6|+8|+10|+6|+5|+1<br>
 	1. SparkyPlane (6:7)<br>
-	5. Fluffywolf (4:11)<br>
-	6. COBRA123 (10:5)<br>
-	8. MAKki (2:0)<br>
-	9. bandy (0:7)<br>
-	10. NaCly (4:3)<br>
+	5. COBRA123 (10:5)<br>
+	6. Fluffywolf (2:8)<br>
+	7. MAKki (2:0)<br>
+	8. bandy (0:4)<br>
 <br>
-49. #largeowl (1260) 0<br>
+48. #largeowl (1260) 0<br>
 +11|+17|+7|+7|+7|+8|+5|0|+15|-2<br>
 <br>
-50. #mafl (1259) 0<br>
+49. #mafl (1259) 0<br>
 +68|+44|+38|+39|+32|+23|+28|+10|+13|0<br>
-	6. COBRA123 (1:2)<br>
-	7. shaidar (4:4)<br>
-	8. MAKki (0:1)<br>
-	9. bandy (2:0)<br>
-	10. NaCly (3:3)<br>
+	5. COBRA123 (1:2)<br>
+	7. MAKki (0:1)<br>
+	8. bandy (2:0)<br>
+	9. shaidar (4:4)<br>
 <br>
-51. #MidKnight. (1257) 0<br>
-+83|+70|+52|+49|+55|+47|+42|+23|+22|+9<br>
+50. #MidKnight. (1257) 0<br>
++84|+71|+52|+50|+56|+48|+43|+23|+22|+10<br>
 	2. croissant (3:5)<br>
-	3. Buff-Plunts (1:3)<br>
-	4. holzabee86 (3:1)<br>
-	6. COBRA123 (0:1)<br>
-	7. shaidar (5:0)<br>
-	10. NaCly (1:0)<br>
+	3. holzabee86 (3:1)<br>
+	4. Buff-Plunts (1:3)<br>
+	5. COBRA123 (0:1)<br>
+	9. shaidar (5:0)<br>
+<br>
+51. #TedTheoLogan (1256) +6<br>
++65|+64|+58|+53|+35|+23|+13|+14|+7|+6<br>
+	1. SparkyPlane (4:4)<br>
+	3. holzabee86 (1:3)<br>
+	5. COBRA123 (1:2)<br>
+	6. Fluffywolf (0:2)<br>
+	8. bandy (2:5)<br>
+	10. GaudyWeasel (1:2)<br>
 <br>
 52. #Mondsche1n (1255) 0<br>
 +131|+102|+74|+62|+45|+37|+24|+20|+10|0<br>
 	1. SparkyPlane (2:5)<br>
 	2. croissant (1:1)<br>
-	4. holzabee86 (0:3)<br>
-	5. Fluffywolf (1:2)<br>
-	6. COBRA123 (1:2)<br>
-	8. MAKki (2:1)<br>
-	9. bandy (0:4)<br>
-	10. NaCly (1:2)<br>
+	3. holzabee86 (0:3)<br>
+	5. COBRA123 (1:2)<br>
+	6. Fluffywolf (1:2)<br>
+	7. MAKki (2:1)<br>
+	8. bandy (0:4)<br>
+	10. GaudyWeasel (1:0)<br>
 <br>
-53. #Disguise (1254) -1<br>
--25|-26|-27|-27|-16|-11|-10|-15|-18|-12<br>
+53. #Disguise (1253) -1<br>
+-26|-28|-27|-17|-12|-11|-16|-19|-13|-1<br>
 	2. croissant (2:4)<br>
-	3. Buff-Plunts (3:4)<br>
-	4. holzabee86 (3:1)<br>
-	6. COBRA123 (7:1)<br>
+	3. holzabee86 (3:1)<br>
+	4. Buff-Plunts (3:4)<br>
+	5. COBRA123 (7:1)<br>
 <br>
-54. #RaggedZebra (1254) +5<br>
--26|-15|-19|-3|-11|-12|-6|-3|-3|-1<br>
-	1. SparkyPlane (6:12)<br>
+54. #RaggedZebra (1253) -1<br>
+-17|-21|-4|-12|-13|-7|-4|-4|-2|-3<br>
+	1. SparkyPlane (6:13)<br>
 	2. croissant (6:3)<br>
-	3. Buff-Plunts (1:1)<br>
-	4. holzabee86 (1:1)<br>
-	5. Fluffywolf (6:6)<br>
-	6. COBRA123 (10:17)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (19:7)<br>
-	10. NaCly (2:2)<br>
+	3. holzabee86 (1:1)<br>
+	4. Buff-Plunts (1:1)<br>
+	5. COBRA123 (10:17)<br>
+	6. Fluffywolf (4:4)<br>
+	8. bandy (11:7)<br>
 <br>
-55. #miljaneze3 (1253) -3<br>
-+77|+63|+55|+51|+41|+29|+17|-1|-13|-12<br>
-	1. SparkyPlane (10:10)<br>
-	5. Fluffywolf (3:5)<br>
-	6. COBRA123 (8:17)<br>
-	7. shaidar (2:1)<br>
-	9. bandy (5:12)<br>
-	10. NaCly (2:8)<br>
+55. #arviiid (1252) +3<br>
++9|+14|+3|+13|+18|+20|+19|+14|+12|+7<br>
+	1. SparkyPlane (11:20)<br>
+	2. croissant (2:3)<br>
+	3. holzabee86 (2:1)<br>
+	4. Buff-Plunts (1:0)<br>
+	5. COBRA123 (0:1)<br>
+	6. Fluffywolf (3:8)<br>
+	7. MAKki (1:1)<br>
+	8. bandy (4:6)<br>
+	9. shaidar (0:4)<br>
 <br>
-56. #kotori (1253) +11<br>
-+59|+47|+42|+27|+22|+24|+18|+18|+13|-3<br>
+56. #ghostnixon (1251) +1<br>
++20|+14|+14|+13|+7|+6|+3|-4|-5|-2<br>
+	1. SparkyPlane (1:1)<br>
+	3. holzabee86 (0:1)<br>
+	5. COBRA123 (1:0)<br>
+	6. Fluffywolf (1:4)<br>
+	8. bandy (1:5)<br>
+	9. shaidar (0:1)<br>
+<br>
+57. #kotori (1251) -2<br>
++46|+40|+25|+20|+22|+16|+16|+11|-5|+2<br>
+	1. SparkyPlane (1:2)<br>
 	2. croissant (6:16)<br>
-	3. Buff-Plunts (36:49)<br>
-	4. holzabee86 (9:13)<br>
-	5. Fluffywolf (0:1)<br>
-	6. COBRA123 (25:32)<br>
-	7. shaidar (5:5)<br>
-	9. bandy (0:3)<br>
+	3. holzabee86 (9:13)<br>
+	4. Buff-Plunts (36:49)<br>
+	5. COBRA123 (25:32)<br>
+	6. Fluffywolf (0:1)<br>
+	8. bandy (0:3)<br>
+	9. shaidar (5:5)<br>
+	10. GaudyWeasel (1:2)<br>
 <br>
-57. #Starkadh (1252) 0<br>
-+72|+64|+60|+52|+48|+43|+34|+20|+14|-4<br>
-	6. COBRA123 (5:2)<br>
-	9. bandy (0:4)<br>
-<br>
-58. #chicken- (1251) +1<br>
-+19|+9|0|-9|+1|+5|+17|+8|+17|+9<br>
-	1. SparkyPlane (1:0)<br>
-	2. croissant (5:8)<br>
-	3. Buff-Plunts (3:1)<br>
-	5. Fluffywolf (1:2)<br>
-	6. COBRA123 (10:8)<br>
-	7. shaidar (2:4)<br>
+58. #Starkadh (1251) -2<br>
++71|+63|+59|+50|+47|+41|+32|+18|+13|-6<br>
+	5. COBRA123 (5:2)<br>
+	8. bandy (0:4)<br>
+	10. GaudyWeasel (1:0)<br>
 <br>
 59. #ScaryDragon (1250) 0<br>
 +162|+81|+37|+9<br>
 	1. SparkyPlane (3:1)<br>
-	3. Buff-Plunts (0:1)<br>
-	5. Fluffywolf (0:1)<br>
-	6. COBRA123 (2:0)<br>
-	8. MAKki (2:1)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (2:0)<br>
+	6. Fluffywolf (0:1)<br>
+	7. MAKki (2:1)<br>
 <br>
-60. #ghostnixon (1250) 0<br>
-+19|+13|+13|+12|+6|+5|+2|-5|-6|-3<br>
-	1. SparkyPlane (1:1)<br>
-	4. holzabee86 (0:1)<br>
-	5. Fluffywolf (1:4)<br>
-	7. shaidar (0:1)<br>
-	10. NaCly (1:0)<br>
+60. #miljaneze3 (1250) -3<br>
++60|+52|+48|+38|+25|+14|-4|-16|-15|-2<br>
+	1. SparkyPlane (10:10)<br>
+	5. COBRA123 (8:19)<br>
+	6. Fluffywolf (4:4)<br>
+	8. bandy (4:10)<br>
+	9. shaidar (2:1)<br>
+	10. GaudyWeasel (0:1)<br>
 <br>
 61. #pablo55 (1250) 0<br>
 +135|+102|+81|+66|+56|+50|+31|+20|+15|+6<br>
 	1. SparkyPlane (4:5)<br>
-	5. Fluffywolf (2:3)<br>
-	6. COBRA123 (0:5)<br>
-	9. bandy (1:4)<br>
-	10. NaCly (0:4)<br>
+	5. COBRA123 (0:5)<br>
+	6. Fluffywolf (2:3)<br>
+	8. bandy (1:4)<br>
 <br>
-62. #TedTheoLogan (1250) +4<br>
-+78|+58|+57|+52|+46|+29|+17|+6|+8|0<br>
-	1. SparkyPlane (4:4)<br>
-	4. holzabee86 (1:3)<br>
-	5. Fluffywolf (0:2)<br>
-	6. COBRA123 (1:2)<br>
-	9. bandy (2:5)<br>
-	10. NaCly (1:2)<br>
+62. #chicken- (1249) -3<br>
++16|+7|-2|-12|-2|+3|+14|+5|+14|+6<br>
+	1. SparkyPlane (1:2)<br>
+	2. croissant (5:8)<br>
+	4. Buff-Plunts (3:1)<br>
+	5. COBRA123 (10:8)<br>
+	6. Fluffywolf (1:2)<br>
+	9. shaidar (2:4)<br>
 <br>
-63. #arviiid (1248) +2<br>
-+6|+11|0|+9|+14|+17|+15|+11|+9|+4<br>
-	1. SparkyPlane (11:20)<br>
-	2. croissant (2:3)<br>
-	4. holzabee86 (2:1)<br>
-	5. Fluffywolf (3:8)<br>
-	6. COBRA123 (0:1)<br>
-	7. shaidar (0:4)<br>
-	8. MAKki (1:1)<br>
-	9. bandy (4:5)<br>
-	10. NaCly (2:5)<br>
-<br>
-64. #Brazzers (1247) +2<br>
-+149|+138|+126|+121|+100|+72|+52|+28|+22|+7<br>
+63. #Brazzers (1247) -1<br>
++138|+125|+121|+99|+71|+51|+27|+21|+7|0<br>
 	1. SparkyPlane (0:1)<br>
 	2. croissant (5:8)<br>
-	3. Buff-Plunts (4:5)<br>
-	4. holzabee86 (11:25)<br>
-	5. Fluffywolf (0:1)<br>
-	6. COBRA123 (7:12)<br>
-	7. shaidar (0:4)<br>
-	10. NaCly (0:1)<br>
+	3. holzabee86 (11:30)<br>
+	4. Buff-Plunts (4:5)<br>
+	5. COBRA123 (6:11)<br>
+	6. Fluffywolf (0:1)<br>
+	9. shaidar (0:4)<br>
+	10. GaudyWeasel (2:5)<br>
 <br>
-65. #beeman80 (1244) -1<br>
-+59|+67|+63|+35|+29|+17|+7|+6|+4|-2<br>
+64. #beeman80 (1245) +1<br>
++60|+67|+64|+36|+30|+17|+8|+7|+5|-1<br>
 	1. SparkyPlane (2:4)<br>
-	5. Fluffywolf (1:3)<br>
-	6. COBRA123 (0:6)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (4:3)<br>
-	10. NaCly (1:1)<br>
+	5. COBRA123 (0:6)<br>
+	6. Fluffywolf (1:3)<br>
+	8. bandy (4:3)<br>
+	9. shaidar (0:1)<br>
 <br>
-66. #zunar (1242) -29<br>
--24|-29|-28|-31|-26|-23|-40|-32|-28|-4<br>
-	1. SparkyPlane (13:14)<br>
-	5. Fluffywolf (5:4)<br>
-	6. COBRA123 (1:6)<br>
-	7. shaidar (1:2)<br>
-	8. MAKki (4:8)<br>
-	9. bandy (4:7)<br>
-	10. NaCly (16:14)<br>
-<br>
-67. #Mr.NiceGuy32 (1241) 0<br>
-+66|+57|+48|+44|+29|+28|+19|+14|+8|+5<br>
+65. #Mr.NiceGuy32 (1241) 0<br>
++66|+57|+49|+44|+30|+29|+19|+15|+9|+5<br>
 	2. croissant (4:5)<br>
-	3. Buff-Plunts (3:1)<br>
-	4. holzabee86 (2:1)<br>
-	6. COBRA123 (4:7)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (1:0)<br>
+	3. holzabee86 (2:1)<br>
+	4. Buff-Plunts (3:1)<br>
+	5. COBRA123 (4:7)<br>
+	8. bandy (1:0)<br>
+	9. shaidar (0:1)<br>
 <br>
-68. #coaltrain (1236) +3<br>
-+6|+9|+13|+16|+10|+9|0|+7|+3|+2<br>
-	1. SparkyPlane (0:1)<br>
-	4. holzabee86 (1:4)<br>
-	5. Fluffywolf (0:1)<br>
-	6. COBRA123 (3:2)<br>
-	9. bandy (3:1)<br>
-	10. NaCly (1:1)<br>
+66. #Blitz. (1241) +27<br>
++204|+167|+135|+99|+74|+35|+4<br>
+	2. croissant (5:2)<br>
+	3. holzabee86 (6:1)<br>
+	4. Buff-Plunts (4:1)<br>
+	5. COBRA123 (1:1)<br>
+	6. Fluffywolf (1:0)<br>
+	8. bandy (3:2)<br>
+	9. shaidar (2:0)<br>
+	10. GaudyWeasel (0:2)<br>
 <br>
-69. #lowki (1236) +3<br>
-+44|+48|+37|+24|+22|+19|+22|+10|+14|+8<br>
+67. #lowki (1236) +1<br>
++45|+48|+38|+24|+23|+20|+23|+11|+14|+9<br>
 	1. SparkyPlane (1:5)<br>
-	6. COBRA123 (2:2)<br>
-	8. MAKki (1:0)<br>
-	9. bandy (6:5)<br>
-	10. NaCly (1:1)<br>
+	5. COBRA123 (2:2)<br>
+	7. MAKki (1:0)<br>
+	8. bandy (6:5)<br>
 <br>
-70. #TimDebJon (1233) 0<br>
-+22|+23|+25|+19|+28|+12|+9|+10|+7|+2<br>
-	1. SparkyPlane (0:3)<br>
-	2. croissant (1:0)<br>
-	4. holzabee86 (0:1)<br>
-	5. Fluffywolf (1:0)<br>
-<br>
-71. #posteriora (1231) -6<br>
--12|-15|-7|-3|-2|+4|+7|+4|-5|-7<br>
-	1. SparkyPlane (8:29)<br>
-	10. NaCly (0:1)<br>
-<br>
-72. #P.Bear (1230) -2<br>
-+21|+13|+11|+7|+12|+12|+9|-7|-4|+3<br>
+68. #TimDebJon (1234) +2<br>
++24|+25|+26|+21|+30|+14|+10|+12|+9|+4<br>
 	1. SparkyPlane (1:3)<br>
-	9. bandy (2:1)<br>
-	10. NaCly (0:2)<br>
+	2. croissant (1:0)<br>
+	3. holzabee86 (0:1)<br>
+	6. Fluffywolf (1:0)<br>
 <br>
-73. #Henusode (1230) -2<br>
-+19|+14|+24|+23|+23|+9|+15|+20|+18|-3<br>
+69. #coaltrain (1234) -2<br>
++4|+7|+11|+14|+8|+7|-2|+5|+1|0<br>
+	1. SparkyPlane (0:1)<br>
+	3. holzabee86 (1:4)<br>
+	5. COBRA123 (3:2)<br>
+	6. Fluffywolf (0:1)<br>
+	8. bandy (3:1)<br>
+<br>
+70. #BigPoppaNuts (1233) +6<br>
++45|+37|+35|+26|+13|+7|+12|+19|+13|+6<br>
+	1. SparkyPlane (1:5)<br>
+	5. COBRA123 (1:2)<br>
+	6. Fluffywolf (1:4)<br>
+	9. shaidar (0:1)<br>
+<br>
+71. #posteriora (1230) 0<br>
+-13|-15|-8|-4|-2|+4|+7|+4|-6|-7<br>
+	1. SparkyPlane (8:29)<br>
+	3. holzabee86 (1:2)<br>
+<br>
+72. #Henusode (1230) 0<br>
++14|+24|+23|+23|+9|+15|+20|+18|-3|-2<br>
 	1. SparkyPlane (2:4)<br>
-	5. Fluffywolf (1:1)<br>
-	6. COBRA123 (2:1)<br>
-	8. MAKki (0:7)<br>
-	9. bandy (6:7)<br>
-	10. NaCly (0:5)<br>
+	5. COBRA123 (2:1)<br>
+	7. MAKki (0:7)<br>
+	8. bandy (3:6)<br>
 <br>
-74. #polinom (1230) 0<br>
+73. #polinom (1230) 0<br>
 +1|-1|0|+4|-1|-4|-2|+3|+2|+5<br>
 	1. SparkyPlane (1:1)<br>
 	2. croissant (3:4)<br>
-	3. Buff-Plunts (2:8)<br>
-	4. holzabee86 (1:2)<br>
-	6. COBRA123 (4:2)<br>
+	3. holzabee86 (1:2)<br>
+	4. Buff-Plunts (2:8)<br>
+	5. COBRA123 (4:2)<br>
 <br>
-75. #ritzyTurnip (1228) 0<br>
-+22|+25|+14|+1|-5|-2|+3|+8|-2|-5<br>
-	1. SparkyPlane (1:1)<br>
-	5. Fluffywolf (0:3)<br>
-	6. COBRA123 (1:3)<br>
-	8. MAKki (1:4)<br>
-	9. bandy (1:11)<br>
+74. #QueenJess18 (1227) +8<br>
++51|+54|+58|+48|+45|+22|+21|+11|+13|+5<br>
+	1. SparkyPlane (2:5)<br>
+	3. holzabee86 (14:27)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (8:20)<br>
+	6. Fluffywolf (0:1)<br>
+	7. MAKki (0:2)<br>
+	8. bandy (9:4)<br>
+	9. shaidar (0:1)<br>
+	10. GaudyWeasel (1:0)<br>
 <br>
-76. #BigPoppaNuts (1227) +4<br>
-+39|+31|+30|+20|+7|+2|+6|+13|+7|0<br>
-	1. SparkyPlane (1:5)<br>
-	5. Fluffywolf (1:4)<br>
-	6. COBRA123 (1:2)<br>
-	7. shaidar (0:1)<br>
-	10. NaCly (4:1)<br>
+75. #P.Bear (1226) -4<br>
++17|+9|+7|+4|+8|+8|+5|-11|-8|0<br>
+	1. SparkyPlane (1:3)<br>
+	6. Fluffywolf (0:4)<br>
+	8. bandy (2:1)<br>
 <br>
-77. #MojoRising (1225) -2<br>
+76. #gmclarty (1226) +1<br>
++32|+28|+18|+2|+3|-2|-1|+4|+4|+8<br>
+	2. croissant (2:0)<br>
+	3. holzabee86 (1:1)<br>
+	7. MAKki (0:1)<br>
+	8. bandy (1:1)<br>
+	10. GaudyWeasel (1:2)<br>
+<br>
+77. #MojoRising (1225) 0<br>
 +53|+44|+31|+31|+34|+25|+11|+3|+6|+7<br>
 	1. SparkyPlane (1:0)<br>
-	3. Buff-Plunts (3:14)<br>
-	4. holzabee86 (2:0)<br>
-	6. COBRA123 (2:5)<br>
-	9. bandy (1:2)<br>
+	3. holzabee86 (2:0)<br>
+	4. Buff-Plunts (3:14)<br>
+	5. COBRA123 (2:5)<br>
+	8. bandy (1:2)<br>
 <br>
 78. #KvL (1225) 0<br>
 +22|+19|+3|-2|+1|+6|+27|+14|+8|-3<br>
 	1. SparkyPlane (0:1)<br>
-	4. holzabee86 (0:1)<br>
+	3. holzabee86 (0:1)<br>
 <br>
-79. #gmclarty (1224) 0<br>
-+30|+27|+16|0|+1|-3|-2|+3|+3|+6<br>
-	2. croissant (2:0)<br>
-	4. holzabee86 (1:1)<br>
-	8. MAKki (0:1)<br>
-	9. bandy (1:1)<br>
-	10. NaCly (0:1)<br>
-<br>
-80. #SadVest~463 (1224) 0<br>
+79. #SadVest~463 (1224) 0<br>
 +10|0|+4|+5|+2|+9|-1|-2|-5|0<br>
 	1. SparkyPlane (0:1)<br>
-	3. Buff-Plunts (1:0)<br>
-	4. holzabee86 (0:4)<br>
+	3. holzabee86 (0:4)<br>
+	4. Buff-Plunts (1:0)<br>
 <br>
-81. #King-Hill-- (1224) 0<br>
+80. #King-Hill-- (1224) 0<br>
 +168|+125|+78|+31|+9<br>
 	1. SparkyPlane (2:0)<br>
-	6. COBRA123 (1:0)<br>
-	7. shaidar (0:1)<br>
-	10. NaCly (1:0)<br>
+	5. COBRA123 (1:0)<br>
+	9. shaidar (0:1)<br>
+<br>
+81. #ritzyTurnip (1223) -4<br>
++21|+9|-3|-9|-6|-1|+3|-6|-9|-3<br>
+	1. SparkyPlane (1:1)<br>
+	5. COBRA123 (1:3)<br>
+	6. Fluffywolf (0:3)<br>
+	7. MAKki (2:5)<br>
+	8. bandy (3:13)<br>
 <br>
 82. #ThinBear~920 (1222) 0<br>
 +26|+26|+26|+24|+11|+16|+19|+8|+7|+1<br>
 	1. SparkyPlane (1:3)<br>
 	2. croissant (2:0)<br>
-	5. Fluffywolf (1:3)<br>
-	6. COBRA123 (1:2)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (2:0)<br>
-	10. NaCly (0:1)<br>
+	5. COBRA123 (1:2)<br>
+	6. Fluffywolf (1:3)<br>
+	8. bandy (2:0)<br>
+	9. shaidar (0:1)<br>
+	10. GaudyWeasel (3:2)<br>
 <br>
-83. #Kitini (1222) +2<br>
+83. #Kitini (1222) 0<br>
 +34|+34|+21|+21|+22|+27|+21|+16|+18|+2<br>
 	1. SparkyPlane (3:4)<br>
 	2. croissant (2:2)<br>
-	3. Buff-Plunts (0:1)<br>
-	5. Fluffywolf (1:4)<br>
-	6. COBRA123 (4:0)<br>
-	9. bandy (1:4)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (4:2)<br>
+	6. Fluffywolf (1:4)<br>
+	8. bandy (1:5)<br>
 <br>
-84. #QueenJess18 (1219) -1<br>
-+57|+43|+46|+50|+40|+37|+14|+13|+3|+5<br>
-	1. SparkyPlane (2:5)<br>
-	3. Buff-Plunts (0:1)<br>
-	4. holzabee86 (13:20)<br>
-	5. Fluffywolf (0:1)<br>
-	6. COBRA123 (8:19)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (10:5)<br>
-	10. NaCly (1:3)<br>
-<br>
-85. #ausdiemaus67 (1219) 0<br>
+84. #ausdiemaus67 (1219) 0<br>
 +40|+46|+53|+47|+41|+25|+22|+17|+13|-1<br>
 	1. SparkyPlane (5:6)<br>
 	2. croissant (4:1)<br>
-	6. COBRA123 (1:5)<br>
+	5. COBRA123 (1:5)<br>
 <br>
-86. #nazia13 (1217) -1<br>
--46|-42|-43|-44|-42|-30|-22|-11|-10|-6<br>
-	1. SparkyPlane (0:2)<br>
-	3. Buff-Plunts (0:2)<br>
-	6. COBRA123 (2:2)<br>
-	9. bandy (1:5)<br>
-<br>
-87. #TuFF-GoNG (1217) 0<br>
-+156|+143|+113|+96|+83|+69|+44|+34|+16|0<br>
-	2. croissant (0:1)<br>
-	5. Fluffywolf (1:0)<br>
-	9. bandy (1:5)<br>
-	10. NaCly (1:0)<br>
-<br>
-88. #creaky2 (1217) 0<br>
-+31|+20|+7|+3|-5|-13|-2|-4|+2|-2<br>
-	5. Fluffywolf (3:3)<br>
-	6. COBRA123 (1:0)<br>
-	9. bandy (1:1)<br>
-<br>
-89. #HairyBeetle~278 (1217) -5<br>
-+13|+2|+2|-1|+3|+4|+5|+7|+6|-8<br>
-	1. SparkyPlane (8:25)<br>
-	4. holzabee86 (1:3)<br>
-	5. Fluffywolf (6:12)<br>
-	6. COBRA123 (7:12)<br>
-	7. shaidar (2:1)<br>
-	8. MAKki (1:0)<br>
-	9. bandy (5:8)<br>
-	10. NaCly (3:4)<br>
-<br>
-90. #mcboatface (1217) +3<br>
-+12|+2|+3|+15|+17|+13|+6|+13|+3|+3<br>
+85. #mcboatface (1217) +1<br>
++3|+3|+16|+17|+14|+6|+13|+3|+4|-2<br>
 	1. SparkyPlane (6:16)<br>
-	4. holzabee86 (9:6)<br>
-	5. Fluffywolf (4:4)<br>
-	6. COBRA123 (8:11)<br>
-	7. shaidar (2:3)<br>
-	8. MAKki (0:2)<br>
-	9. bandy (27:26)<br>
-	10. NaCly (2:5)<br>
+	3. holzabee86 (9:6)<br>
+	5. COBRA123 (11:19)<br>
+	6. Fluffywolf (7:5)<br>
+	7. MAKki (0:2)<br>
+	8. bandy (25:22)<br>
+	9. shaidar (2:3)<br>
 <br>
-91. #batman7000 (1216) 0<br>
-+36|+34|+24|+24|+19|+6|-8|-14|-5|+2<br>
+86. #creaky2 (1217) 0<br>
++31|+20|+7|+3|-5|-13|-2|-4|+2|-2<br>
+	6. Fluffywolf (3:3)<br>
+	8. bandy (1:1)<br>
+<br>
+87. #DubZz_23 (1216) +12<br>
++36|+35|+36|+43|+39|+35|+30|+34|+13|+11<br>
+	1. SparkyPlane (3:2)<br>
+	2. croissant (3:7)<br>
+	3. holzabee86 (5:10)<br>
+	4. Buff-Plunts (1:6)<br>
+	5. COBRA123 (8:14)<br>
+	7. MAKki (3:1)<br>
+	8. bandy (3:4)<br>
+	9. shaidar (3:8)<br>
+<br>
+88. #zunar (1215) -26<br>
+-55|-54|-57|-53|-49|-67|-58|-54|-30|-2<br>
+	1. SparkyPlane (13:14)<br>
+	5. COBRA123 (1:7)<br>
+	6. Fluffywolf (5:4)<br>
+	7. MAKki (4:9)<br>
+	8. bandy (4:7)<br>
+	9. shaidar (1:2)<br>
+<br>
+89. #nazia13 (1215) -2<br>
+-48|-44|-45|-46|-44|-32|-24|-13|-12|-8<br>
+	1. SparkyPlane (0:2)<br>
+	4. Buff-Plunts (0:2)<br>
+	5. COBRA123 (2:2)<br>
+	8. bandy (1:5)<br>
+<br>
+90. #HTALAQI (1214) 0<br>
+-50|-39|-40|-34|-34|-32|-16|-10|-6|+3<br>
+	2. croissant (2:2)<br>
+	3. holzabee86 (1:3)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (0:1)<br>
+<br>
+91. #batman7000 (1214) -2<br>
++34|+32|+22|+22|+17|+4|-9|-15|-7|0<br>
 	1. SparkyPlane (1:1)<br>
 	2. croissant (1:0)<br>
-	4. holzabee86 (0:3)<br>
-	6. COBRA123 (0:5)<br>
-	7. shaidar (1:1)<br>
+	3. holzabee86 (0:3)<br>
+	5. COBRA123 (0:5)<br>
+	9. shaidar (1:1)<br>
 <br>
-92. #VNS700 (1214) -7<br>
-0|+12|+4|-9|-17|-9|-12|-8|-2|-3<br>
-	2. croissant (0:1)<br>
-	3. Buff-Plunts (0:1)<br>
-	6. COBRA123 (2:3)<br>
-	9. bandy (0:1)<br>
-<br>
-93. #HTALAQI (1214) 0<br>
--50|-39|-40|-34|-34|-32|-15|-10|-6|+4<br>
-	2. croissant (2:2)<br>
-	3. Buff-Plunts (0:1)<br>
-	4. holzabee86 (1:3)<br>
-	6. COBRA123 (0:1)<br>
-<br>
-94. #Blitz. (1214) +42<br>
-+177|+140|+108|+72|+47|+8<br>
-	2. croissant (5:2)<br>
-	3. Buff-Plunts (4:1)<br>
-	4. holzabee86 (5:1)<br>
-	5. Fluffywolf (1:0)<br>
-	6. COBRA123 (1:1)<br>
-	7. shaidar (2:0)<br>
-	9. bandy (3:2)<br>
-	10. NaCly (4:1)<br>
-<br>
-95. #kinglag (1213) 0<br>
+92. #kinglag (1213) 0<br>
 +187|+158|+121|+87|+62|+20|+14|0<br>
 	1. SparkyPlane (0:1)<br>
 	2. croissant (1:4)<br>
-	3. Buff-Plunts (1:3)<br>
-	4. holzabee86 (5:7)<br>
-	6. COBRA123 (6:4)<br>
-	7. shaidar (0:3)<br>
-	8. MAKki (4:4)<br>
-	10. NaCly (1:0)<br>
+	3. holzabee86 (5:7)<br>
+	4. Buff-Plunts (1:3)<br>
+	5. COBRA123 (6:4)<br>
+	7. MAKki (4:4)<br>
+	9. shaidar (0:3)<br>
+	10. GaudyWeasel (10:24)<br>
 <br>
-96. #coldersoup (1209) -1<br>
-+93|+78|+68|+60|+60|+43|+35|+26|+10|-2<br>
-	2. croissant (0:2)<br>
-	3. Buff-Plunts (1:0)<br>
-	5. Fluffywolf (0:1)<br>
-	6. COBRA123 (11:4)<br>
-	9. bandy (1:2)<br>
+93. #VNS700 (1212) -2<br>
++10|+2|-11|-19|-11|-14|-10|-4|-5|+1<br>
+	2. croissant (0:1)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (2:3)<br>
+	8. bandy (0:1)<br>
 <br>
-97. #CheapBeef~122 (1208) 0<br>
-+51|+51|+44|+33|+35|+19|+14|+3|+1|+2<br>
+94. #CheapBeef~122 (1210) +3<br>
++53|+53|+47|+35|+37|+22|+17|+6|+4|+4<br>
 	1. SparkyPlane (2:8)<br>
-	4. holzabee86 (5:7)<br>
-	5. Fluffywolf (4:7)<br>
-	6. COBRA123 (14:21)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (6:2)<br>
+	3. holzabee86 (5:7)<br>
+	5. COBRA123 (11:22)<br>
+	6. Fluffywolf (4:7)<br>
+	8. bandy (7:6)<br>
+	9. shaidar (0:1)<br>
 <br>
-98. #pandaface90 (1205) 0<br>
-+47|+31|+23|+16|+11|+14|+17|+14|+2|-3<br>
+95. #HairyBeetle~278 (1209) -8<br>
+-5|-6|-8|-4|-4|-3|0|-2|-16|-7<br>
+	1. SparkyPlane (8:25)<br>
+	3. holzabee86 (1:3)<br>
+	5. COBRA123 (7:12)<br>
+	6. Fluffywolf (6:12)<br>
+	7. MAKki (1:0)<br>
+	8. bandy (5:10)<br>
+	9. shaidar (2:1)<br>
+	10. GaudyWeasel (3:4)<br>
+<br>
+96. #pandaface90 (1209) +3<br>
++50|+34|+26|+19|+14|+18|+20|+17|+5|0<br>
 	1. SparkyPlane (0:2)<br>
 	2. croissant (1:0)<br>
-	4. holzabee86 (0:1)<br>
-	5. Fluffywolf (0:2)<br>
-	6. COBRA123 (2:4)<br>
-	8. MAKki (2:0)<br>
-	9. bandy (2:7)<br>
-	10. NaCly (1:1)<br>
+	3. holzabee86 (0:1)<br>
+	5. COBRA123 (2:5)<br>
+	6. Fluffywolf (0:2)<br>
+	7. MAKki (2:0)<br>
+	8. bandy (1:4)<br>
+	10. GaudyWeasel (1:5)<br>
 <br>
-99. #DubZz_23 (1204) +1<br>
-+26|+24|+24|+24|+31|+27|+23|+18|+22|+1<br>
-	1. SparkyPlane (3:2)<br>
-	2. croissant (3:7)<br>
-	3. Buff-Plunts (0:6)<br>
-	4. holzabee86 (4:10)<br>
-	6. COBRA123 (4:10)<br>
-	7. shaidar (3:8)<br>
-	8. MAKki (3:1)<br>
-	9. bandy (3:4)<br>
-	10. NaCly (1:1)<br>
+97. #coldersoup (1206) -3<br>
++89|+74|+65|+57|+57|+40|+32|+22|+7|-5<br>
+	2. croissant (0:2)<br>
+	4. Buff-Plunts (1:0)<br>
+	5. COBRA123 (11:4)<br>
+	6. Fluffywolf (0:1)<br>
+	8. bandy (1:2)<br>
 <br>
-100. #chabdura (1201) 0<br>
-+39|+30|+15|+13|+6|+5|+2|0|-3|+1<br>
-	1. SparkyPlane (1:1)<br>
-	6. COBRA123 (0:3)<br>
-	7. shaidar (1:0)<br>
-	9. bandy (0:3)<br>
+98. #NuttyJeans (1203) +8<br>
++160|+131|+104|+98|+76|+42|+12<br>
+	1. SparkyPlane (0:2)<br>
+	3. holzabee86 (0:1)<br>
+	7. MAKki (2:2)<br>
 <br>
-101. #LoudSoup~240 (1201) +6<br>
-+5|+12|+14|+25|+27|+31|+28|+21|+9|0<br>
+99. #LoudSoup~240 (1201) 0<br>
++6|+13|+14|+25|+28|+32|+29|+21|+9|+1<br>
 	1. SparkyPlane (8:11)<br>
 	2. croissant (1:0)<br>
-	5. Fluffywolf (7:13)<br>
-	6. COBRA123 (3:11)<br>
-	7. shaidar (1:2)<br>
-	8. MAKki (0:5)<br>
-	9. bandy (10:12)<br>
-	10. NaCly (2:3)<br>
+	5. COBRA123 (7:24)<br>
+	6. Fluffywolf (7:11)<br>
+	7. MAKki (0:5)<br>
+	8. bandy (10:12)<br>
+	9. shaidar (1:2)<br>
 <br>
-102. #Matthew0898 (1199) 0<br>
+100. #chabdura (1200) -1<br>
++38|+29|+14|+12|+4|+3|+1|-1|-5|0<br>
+	1. SparkyPlane (1:1)<br>
+	5. COBRA123 (0:3)<br>
+	8. bandy (0:3)<br>
+	9. shaidar (1:0)<br>
+<br>
+101. #Matthew0898 (1199) 0<br>
 +4|+2|+5|+3|-4|+4|+9|+8|+17|+1<br>
 	2. croissant (2:4)<br>
-	3. Buff-Plunts (0:1)<br>
-	4. holzabee86 (1:0)<br>
-	6. COBRA123 (1:2)<br>
-	7. shaidar (1:1)<br>
+	3. holzabee86 (1:0)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (1:2)<br>
+	9. shaidar (1:1)<br>
 <br>
-103. #ttheman (1198) 0<br>
-+172|+149|+131|+78|+37|+19|+10|+2|+3|+5<br>
-	5. Fluffywolf (1:0)<br>
-	6. COBRA123 (6:17)<br>
-	9. bandy (0:3)<br>
-<br>
-104. #NuttyJeans (1195) +5<br>
-+152|+123|+97|+91|+69|+34|+4<br>
-	1. SparkyPlane (0:2)<br>
-	4. holzabee86 (0:1)<br>
-	8. MAKki (2:2)<br>
-<br>
-105. #sacore (1191) 0<br>
+102. #sacore (1191) 0<br>
 -21|-24|-13|-7|0|+4|+11|+14|+6|+5<br>
 	1. SparkyPlane (0:1)<br>
-	5. Fluffywolf (3:0)<br>
-	6. COBRA123 (15:20)<br>
-	10. NaCly (1:0)<br>
+	5. COBRA123 (15:20)<br>
+	6. Fluffywolf (3:0)<br>
 <br>
-106. #jelly1932 (1191) 0<br>
--56|-42|-44|-37|-36|-22|-11|-22|-15|-12<br>
-	8. MAKki (2:0)<br>
-<br>
-107. #SnatchWeasel (1190) 0<br>
-+6|-7|-16|-17|-15|-16|-18|-17|-3|-3<br>
-	2. croissant (5:2)<br>
-	3. Buff-Plunts (6:13)<br>
-	4. holzabee86 (2:5)<br>
-	6. COBRA123 (25:39)<br>
-	7. shaidar (5:10)<br>
-	10. NaCly (0:2)<br>
-<br>
-108. #Raffey (1189) -1<br>
-+62|+52|+52|+45|+40|+29|+10|+8|+3|+2<br>
-	3. Buff-Plunts (1:2)<br>
-	4. holzabee86 (0:2)<br>
-	9. bandy (0:2)<br>
-	10. NaCly (5:4)<br>
-<br>
-109. #EntEmpire (1188) +3<br>
-+33|+25|+26|+26|+14|+16|+10|0|+2|+1<br>
+103. #EntEmpire (1190) +2<br>
++26|+28|+28|+16|+18|+12|+2|+4|+3|+2<br>
 	1. SparkyPlane (0:2)<br>
 	2. croissant (0:1)<br>
-	3. Buff-Plunts (0:1)<br>
-	6. COBRA123 (4:3)<br>
-	7. shaidar (0:1)<br>
+	3. holzabee86 (1:0)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (4:3)<br>
+	9. shaidar (0:1)<br>
+	10. GaudyWeasel (0:3)<br>
 <br>
-110. #Huragok (1187) -2<br>
-+130|+112|+66|+1|-12|-10|-23|-31|-24|-10<br>
-	1. SparkyPlane (0:1)<br>
-	3. Buff-Plunts (1:6)<br>
-	6. COBRA123 (0:3)<br>
-	10. NaCly (0:3)<br>
-<br>
-111. #Neehor (1185) -3<br>
-+35|+35|+31|+18|+8|+1|-1|-12|-7|-4<br>
+104. #Neehor (1190) +5<br>
++40|+40|+36|+23|+13|+6|+4|-7|-2|+1<br>
 	1. SparkyPlane (6:15)<br>
-	5. Fluffywolf (1:1)<br>
-	7. shaidar (2:0)<br>
-	9. bandy (0:1)<br>
-	10. NaCly (1:2)<br>
+	6. Fluffywolf (1:1)<br>
+	8. bandy (0:1)<br>
+	9. shaidar (2:0)<br>
 <br>
-112. #GuacNinja (1185) 0<br>
-+92|+80|+73|+63|+55|+47|+26|+14|+4|+6<br>
+105. #jelly1932 (1189) -1<br>
+-57|-44|-46|-38|-37|-24|-13|-23|-16|-13<br>
+	7. MAKki (2:0)<br>
+<br>
+106. #Raffey (1189) 0<br>
++62|+52|+52|+45|+40|+29|+10|+8|+3|+2<br>
+	3. holzabee86 (0:2)<br>
+	4. Buff-Plunts (1:2)<br>
+	8. bandy (0:2)<br>
+<br>
+107. #SnatchWeasel (1188) -2<br>
+-9|-18|-19|-17|-18|-20|-19|-5|-5|+1<br>
+	2. croissant (5:2)<br>
+	3. holzabee86 (2:5)<br>
+	4. Buff-Plunts (6:13)<br>
+	5. COBRA123 (25:39)<br>
+	9. shaidar (4:10)<br>
+<br>
+108. #GuacNinja (1186) +1<br>
++93|+81|+75|+64|+56|+48|+28|+15|+5|+7<br>
 	1. SparkyPlane (0:1)<br>
-	3. Buff-Plunts (1:2)<br>
-	6. COBRA123 (0:3)<br>
-	7. shaidar (0:2)<br>
-	9. bandy (3:0)<br>
+	4. Buff-Plunts (1:2)<br>
+	5. COBRA123 (0:3)<br>
+	8. bandy (3:0)<br>
+	9. shaidar (0:2)<br>
+	10. GaudyWeasel (0:1)<br>
 <br>
-113. #valeriocarre (1183) 0<br>
-+33|+24|+30|+20|+21|+20|+19|+16|+5|0<br>
+109. #valeriocarre (1186) +3<br>
++36|+27|+33|+23|+24|+23|+22|+19|+8|+3<br>
 	1. SparkyPlane (1:6)<br>
-	4. holzabee86 (2:1)<br>
-	6. COBRA123 (3:11)<br>
-	7. shaidar (1:1)<br>
+	3. holzabee86 (2:1)<br>
+	5. COBRA123 (3:9)<br>
+	9. shaidar (1:1)<br>
 <br>
-114. #novuz (1180) -2<br>
+110. #Huragok (1185) -2<br>
++110|+64|-1|-14|-12|-25|-32|-26|-12|+1<br>
+	1. SparkyPlane (0:1)<br>
+	4. Buff-Plunts (1:6)<br>
+	5. COBRA123 (0:3)<br>
+<br>
+111. #bandits22 (1182) +9<br>
++92|+89|+72|+63|+60|+35|+26|+14|+17|+12<br>
+	2. croissant (0:3)<br>
+	5. COBRA123 (2:0)<br>
+	8. bandy (2:1)<br>
+<br>
+112. #novuz (1180) 0<br>
 +137|+98|+66|+36|+8<br>
 	1. SparkyPlane (4:0)<br>
-	5. Fluffywolf (3:1)<br>
-	9. bandy (0:1)<br>
+	6. Fluffywolf (3:1)<br>
+	8. bandy (0:1)<br>
 <br>
-115. #MR_JABROT_X (1179) 0<br>
-+2|+5|+5|+16|+8|+9|+6|0|0|-3<br>
-	1. SparkyPlane (0:2)<br>
-	2. croissant (2:8)<br>
-	3. Buff-Plunts (1:9)<br>
-	5. Fluffywolf (4:5)<br>
-	6. COBRA123 (5:11)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (1:9)<br>
-<br>
-116. #fARZard (1177) -3<br>
-+28|+18|+28|+29|+26|+10|+13|-7|-9|-6<br>
-	1. SparkyPlane (0:1)<br>
-	2. croissant (0:2)<br>
-	4. holzabee86 (0:1)<br>
-	6. COBRA123 (0:1)<br>
-	9. bandy (0:1)<br>
-	10. NaCly (0:1)<br>
-<br>
-117. #PreBoom (1177) -1<br>
-+29|+23|+17|+6|+1|+6|+2|0|0|+3<br>
-	1. SparkyPlane (0:5)<br>
-	2. croissant (0:2)<br>
-	4. holzabee86 (0:1)<br>
-	5. Fluffywolf (3:6)<br>
-	6. COBRA123 (1:2)<br>
-	7. shaidar (2:1)<br>
-	8. MAKki (0:1)<br>
-<br>
-118. #phobia (1177) 0<br>
--11|-7|-3|-10|+20|+30|+9|-3|-4|+1<br>
-	1. SparkyPlane (0:1)<br>
-	2. croissant (2:3)<br>
-	3. Buff-Plunts (6:8)<br>
-	6. COBRA123 (6:6)<br>
-	9. bandy (1:2)<br>
-<br>
-119. #phaedrus (1176) +2<br>
-+140|+104|+73|+48|+6<br>
+113. #phaedrus (1180) +5<br>
++144|+109|+78|+53|+10<br>
 	1. SparkyPlane (0:7)<br>
 	2. croissant (1:3)<br>
-	5. Fluffywolf (3:4)<br>
-	6. COBRA123 (1:2)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (10:14)<br>
-	10. NaCly (0:2)<br>
+	5. COBRA123 (2:3)<br>
+	6. Fluffywolf (2:4)<br>
+	8. bandy (10:14)<br>
+	9. shaidar (0:1)<br>
 <br>
-120. #slowzx (1174) +4<br>
-+126|+117|+109|+89|+71|+62|+50|+18|+20|+6<br>
-	2. croissant (1:2)<br>
-	3. Buff-Plunts (3:1)<br>
-	4. holzabee86 (3:6)<br>
-	6. COBRA123 (2:2)<br>
+114. #phobia (1179) +2<br>
+-9|-5|-1|-8|+22|+31|+11|-1|-3|+3<br>
+	1. SparkyPlane (0:1)<br>
+	2. croissant (2:3)<br>
+	3. holzabee86 (1:0)<br>
+	4. Buff-Plunts (6:8)<br>
+	5. COBRA123 (6:6)<br>
+	8. bandy (1:2)<br>
 <br>
-121. #bandits22 (1173) +1<br>
-+83|+80|+63|+54|+51|+26|+17|+5|+8|+3<br>
-	2. croissant (0:3)<br>
-	6. COBRA123 (2:0)<br>
+115. #fARZard (1178) +1<br>
++29|+19|+29|+30|+27|+11|+14|-6|-8|-5<br>
+	1. SparkyPlane (0:1)<br>
+	2. croissant (0:2)<br>
+	3. holzabee86 (0:1)<br>
+	5. COBRA123 (0:1)<br>
+	6. Fluffywolf (1:0)<br>
 <br>
-122. #MaltonnA (1173) +1<br>
-+46|+25|+7|+3|+4|+6|+9|+8|+10|+1<br>
-	2. croissant (2:2)<br>
-	5. Fluffywolf (1:1)<br>
-	6. COBRA123 (2:7)<br>
-<br>
-123. #TROYBAD (1172) +2<br>
--26|-24|-23|-19|-9|+2|0|+1|+4|-1<br>
-	1. SparkyPlane (6:36)<br>
-	3. Buff-Plunts (2:2)<br>
-	4. holzabee86 (1:0)<br>
-	5. Fluffywolf (4:12)<br>
-	6. COBRA123 (58:117)<br>
-	7. shaidar (1:2)<br>
-	9. bandy (11:12)<br>
-<br>
-124. #J_Dawg99 (1170) +1<br>
-+55|+37|+29|+31|+32|+23|+24|+15|+14|0<br>
-	3. Buff-Plunts (0:1)<br>
-	4. holzabee86 (1:1)<br>
-	5. Fluffywolf (0:1)<br>
-	6. COBRA123 (1:3)<br>
-<br>
-125. #necrosis_24 (1168) 0<br>
-+21|+29|+13|+15|+17|+12|+15|+12|+5|-1<br>
+116. #necrosis_24 (1177) +9<br>
++22|+23|+25|+21|+24|+21|+13|+8|+2|-2<br>
 	2. croissant (3:4)<br>
-	3. Buff-Plunts (2:10)<br>
-	4. holzabee86 (1:4)<br>
-	5. Fluffywolf (5:10)<br>
-	6. COBRA123 (8:21)<br>
-	7. shaidar (0:5)<br>
-	8. MAKki (0:1)<br>
-	9. bandy (2:6)<br>
-	10. NaCly (0:2)<br>
+	3. holzabee86 (1:4)<br>
+	4. Buff-Plunts (2:10)<br>
+	5. COBRA123 (8:20)<br>
+	6. Fluffywolf (2:3)<br>
+	7. MAKki (0:1)<br>
+	8. bandy (5:7)<br>
+	9. shaidar (0:4)<br>
+	10. GaudyWeasel (0:4)<br>
 <br>
-126. #OriginalCin (1168) 0<br>
-+39|+26|+18|+20|+13|+12|-10|-5|-5|+2<br>
-	8. MAKki (1:3)<br>
-	9. bandy (0:5)<br>
-	10. NaCly (0:1)<br>
+117. #slowzx (1174) +1<br>
++127|+117|+110|+90|+71|+62|+50|+19|+21|+7<br>
+	2. croissant (1:2)<br>
+	3. holzabee86 (3:6)<br>
+	4. Buff-Plunts (3:1)<br>
+	5. COBRA123 (2:2)<br>
+	10. GaudyWeasel (0:8)<br>
 <br>
-127. #BouncyOgre~164 (1167) -4<br>
-+48|+46|+41|+36|+37|+27|+31|+26|+5|-7<br>
-	1. SparkyPlane (3:5)<br>
-	5. Fluffywolf (1:4)<br>
-	8. MAKki (0:1)<br>
-	10. NaCly (1:1)<br>
+118. #J_Dawg99 (1174) +4<br>
++42|+33|+35|+36|+27|+28|+19|+19|+4|+1<br>
+	3. holzabee86 (1:1)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (1:3)<br>
+	6. Fluffywolf (0:1)<br>
 <br>
-128. #xaelia (1167) -4<br>
+119. #PreBoom (1174) -4<br>
++25|+19|+14|+3|-3|+3|-2|-3|-3|-1<br>
+	1. SparkyPlane (0:5)<br>
+	2. croissant (0:2)<br>
+	3. holzabee86 (0:1)<br>
+	5. COBRA123 (1:2)<br>
+	6. Fluffywolf (1:3)<br>
+	7. MAKki (0:1)<br>
+	9. shaidar (2:1)<br>
+<br>
+120. #MR_JABROT_X (1173) -6<br>
+0|-1|+10|+3|+4|+1|-6|-6|-8|0<br>
+	1. SparkyPlane (0:2)<br>
+	2. croissant (2:8)<br>
+	4. Buff-Plunts (1:9)<br>
+	5. COBRA123 (5:11)<br>
+	6. Fluffywolf (3:5)<br>
+	8. bandy (0:1)<br>
+<br>
+121. #MaltonnA (1172) -1<br>
++46|+25|+6|+2|+4|+5|+9|+7|+10|0<br>
+	2. croissant (2:2)<br>
+	5. COBRA123 (2:7)<br>
+	6. Fluffywolf (1:1)<br>
+<br>
+122. #TROYBAD (1171) -1<br>
+-27|-24|-24|-20|-10|+1|-1|0|+3|-2<br>
+	1. SparkyPlane (6:36)<br>
+	3. holzabee86 (1:0)<br>
+	4. Buff-Plunts (2:2)<br>
+	5. COBRA123 (58:119)<br>
+	6. Fluffywolf (4:10)<br>
+	8. bandy (11:12)<br>
+	9. shaidar (1:2)<br>
+<br>
+123. #OriginalCin (1168) 0<br>
++39|+26|+18|+20|+13|+11|-11|-5|-6|+1<br>
+	7. MAKki (1:3)<br>
+	8. bandy (0:2)<br>
+<br>
+124. #A-Z-SH (1167) +7<br>
++122|+100|+84|+67|+57|+42|+30|+12|+6|+1<br>
+	2. croissant (0:7)<br>
+	3. holzabee86 (6:4)<br>
+	4. Buff-Plunts (1:3)<br>
+	5. COBRA123 (1:12)<br>
+	9. shaidar (1:4)<br>
+<br>
+125. #xaelia (1167) 0<br>
 +44|+45|+42|+33|+22|+17|+12|+3|-8|-4<br>
 	2. croissant (1:1)<br>
-	4. holzabee86 (0:4)<br>
-	6. COBRA123 (0:1)<br>
-	7. shaidar (0:3)<br>
-	8. MAKki (2:2)<br>
-	9. bandy (0:1)<br>
-	10. NaCly (0:2)<br>
+	3. holzabee86 (0:4)<br>
+	5. COBRA123 (0:1)<br>
+	7. MAKki (2:2)<br>
+	8. bandy (0:1)<br>
+	9. shaidar (0:3)<br>
 <br>
-129. #Lyzax (1165) +1<br>
+126. #Lyzax (1165) 0<br>
 +38|+30|+31|+34|+19|+11|+9|+4|-11|-7<br>
 	2. croissant (2:3)<br>
-	3. Buff-Plunts (1:2)<br>
-	4. holzabee86 (0:3)<br>
-	5. Fluffywolf (0:3)<br>
-	6. COBRA123 (2:1)<br>
-	7. shaidar (2:2)<br>
+	3. holzabee86 (0:3)<br>
+	4. Buff-Plunts (1:2)<br>
+	5. COBRA123 (2:1)<br>
+	6. Fluffywolf (0:3)<br>
+	9. shaidar (2:2)<br>
 <br>
-130. #panadool (1164) -2<br>
-+13|+4|-2|+6|-1|-8|-8|-5|-8|-2<br>
-	1. SparkyPlane (0:1)<br>
-	3. Buff-Plunts (2:4)<br>
-	4. holzabee86 (1:0)<br>
-	6. COBRA123 (3:5)<br>
-	9. bandy (0:1)<br>
-	10. NaCly (0:1)<br>
+127. #liquidlegs (1165) +9<br>
++95|+89|+80|+75|+52|+47|+34|+24|+16|+5<br>
+	2. croissant (2:3)<br>
+	4. Buff-Plunts (1:1)<br>
+	6. Fluffywolf (2:0)<br>
+	7. MAKki (1:0)<br>
+	8. bandy (3:2)<br>
 <br>
-131. #Nekrik (1163) 0<br>
+128. #BouncyOgre~164 (1163) -4<br>
++42|+37|+31|+33|+23|+27|+22|+1|-11|-3<br>
+	1. SparkyPlane (6:6)<br>
+	6. Fluffywolf (1:4)<br>
+	7. MAKki (0:1)<br>
+<br>
+129. #Nekrik (1163) 0<br>
 +134|+129|+110|+101|+73|+46|+25|+17|+9|0<br>
 	1. SparkyPlane (0:1)<br>
-	6. COBRA123 (1:5)<br>
-	9. bandy (0:1)<br>
+	5. COBRA123 (1:5)<br>
+	8. bandy (0:1)<br>
 <br>
-132. #A-Z-SH (1160) +3<br>
-+142|+115|+92|+76|+60|+50|+35|+23|+5|-2<br>
-	2. croissant (0:7)<br>
-	3. Buff-Plunts (1:3)<br>
-	4. holzabee86 (6:4)<br>
-	6. COBRA123 (1:12)<br>
-	7. shaidar (1:4)<br>
-	10. NaCly (2:4)<br>
+130. #panadool (1163) -1<br>
++11|+2|-4|+5|-2|-9|-9|-6|-9|-3<br>
+	1. SparkyPlane (0:1)<br>
+	3. holzabee86 (1:0)<br>
+	4. Buff-Plunts (2:4)<br>
+	5. COBRA123 (3:5)<br>
+	8. bandy (0:1)<br>
 <br>
-133. #ProAssaulter (1159) 0<br>
--4|0|0|+2|+5|+8|+4|+4|+2|+3<br>
+131. #ProAssaulter (1160) +1<br>
+-3|0|+1|+3|+6|+9|+5|+5|+3|+4<br>
 	2. croissant (1:6)<br>
-	6. COBRA123 (0:7)<br>
-	7. shaidar (7:8)<br>
+	5. COBRA123 (0:7)<br>
+	9. shaidar (6:7)<br>
 <br>
-134. #liquidlegs (1156) 0<br>
-+101|+86|+79|+71|+66|+43|+38|+24|+15|+7<br>
-	2. croissant (2:3)<br>
-	3. Buff-Plunts (1:1)<br>
-	8. MAKki (1:0)<br>
-	9. bandy (1:2)<br>
+132. #jiyao (1156) +5<br>
++35|+29|+28|+33|+23|+19|+17|+14|+8|+13<br>
+	1. SparkyPlane (0:1)<br>
+	8. bandy (0:1)<br>
 <br>
-135. #klebz1000 (1155) +1<br>
+133. #klebz1000 (1155) 0<br>
 -2|0|+1|+7|-2|-7|-9|-2|-11|-6<br>
 	1. SparkyPlane (0:1)<br>
-	6. COBRA123 (1:9)<br>
-	9. bandy (3:4)<br>
+	5. COBRA123 (1:9)<br>
+	8. bandy (2:3)<br>
 <br>
-136. #NikiNoll (1154) -2<br>
-+88|+79|+68|+45|+42|+30|+18|+14|+11|+3<br>
+134. #NikiNoll (1155) +1<br>
++80|+68|+46|+43|+30|+18|+14|+11|+3|+1<br>
 	1. SparkyPlane (0:3)<br>
 	2. croissant (2:4)<br>
-	3. Buff-Plunts (2:7)<br>
-	5. Fluffywolf (2:3)<br>
-	6. COBRA123 (4:3)<br>
-	7. shaidar (1:0)<br>
-	9. bandy (1:2)<br>
-	10. NaCly (0:3)<br>
+	4. Buff-Plunts (2:7)<br>
+	5. COBRA123 (4:3)<br>
+	6. Fluffywolf (2:3)<br>
+	8. bandy (1:2)<br>
+	9. shaidar (1:0)<br>
+<br>
+135. #john-difool (1154) +13<br>
++22|+13|+14|+20|+19|+14|+26|+19|+16|+3<br>
+	3. holzabee86 (0:1)<br>
+	5. COBRA123 (2:7)<br>
+	7. MAKki (5:7)<br>
+	8. bandy (0:1)<br>
+<br>
+136. #mlewiz (1154) +6<br>
++36|+31|+23|+19|+13|+11|+4|+4|+4|+6<br>
+	1. SparkyPlane (0:1)<br>
+	5. COBRA123 (1:2)<br>
+	6. Fluffywolf (3:7)<br>
+	7. MAKki (2:3)<br>
+	8. bandy (3:7)<br>
 <br>
 137. #florihupf (1152) 0<br>
--26|-30|-23|-20|-15|-15|-12|-6|-1|-2<br>
+-27|-31|-23|-21|-15|-15|-12|-6|-1|-2<br>
 	1. SparkyPlane (3:9)<br>
-	4. holzabee86 (0:1)<br>
-	5. Fluffywolf (2:0)<br>
-	6. COBRA123 (0:3)<br>
-	7. shaidar (2:0)<br>
-	9. bandy (1:5)<br>
-	10. NaCly (1:1)<br>
+	3. holzabee86 (0:2)<br>
+	5. COBRA123 (0:3)<br>
+	6. Fluffywolf (2:0)<br>
+	8. bandy (1:5)<br>
+	9. shaidar (2:0)<br>
 <br>
-138. #evilCherry2 (1152) +3<br>
-+22|+20|+22|+23|+18|+18|+23|+25|+4|+4<br>
+138. #LoL78818181 (1151) 0<br>
++27|+27|+25|+30|+28|+18|+17|+8|+7|-6<br>
+	3. holzabee86 (0:1)<br>
+	6. Fluffywolf (0:1)<br>
+	9. shaidar (1:1)<br>
+<br>
+139. #brohomie (1148) 0<br>
++72|+51|+30|+27|+24|+16|+9|+2|+9|-5<br>
+	4. Buff-Plunts (4:6)<br>
+	7. MAKki (1:5)<br>
+<br>
+140. #evilCherry2 (1146) -5<br>
++15|+17|+17|+13|+12|+17|+20|-2|-1|-4<br>
 	1. SparkyPlane (2:16)<br>
 	2. croissant (1:3)<br>
-	3. Buff-Plunts (1:0)<br>
-	4. holzabee86 (0:1)<br>
-	5. Fluffywolf (0:4)<br>
-	6. COBRA123 (2:1)<br>
-	7. shaidar (1:1)<br>
-	8. MAKki (2:4)<br>
-	9. bandy (1:8)<br>
-	10. NaCly (1:0)<br>
+	3. holzabee86 (0:1)<br>
+	4. Buff-Plunts (1:0)<br>
+	5. COBRA123 (2:1)<br>
+	6. Fluffywolf (0:4)<br>
+	7. MAKki (2:4)<br>
+	8. bandy (1:8)<br>
+	9. shaidar (1:1)<br>
 <br>
-139. #LoL78818181 (1151) +1<br>
-+27|+27|+25|+30|+28|+18|+17|+8|+7|-6<br>
-	4. holzabee86 (0:1)<br>
-	5. Fluffywolf (0:1)<br>
-	7. shaidar (4:2)<br>
-<br>
-140. #mlewiz (1148) -2<br>
-+30|+24|+17|+12|+7|+5|-2|-2|-3|-1<br>
-	1. SparkyPlane (0:1)<br>
-	5. Fluffywolf (5:10)<br>
-	6. COBRA123 (1:2)<br>
-	8. MAKki (2:3)<br>
-	9. bandy (3:9)<br>
-	10. NaCly (1:1)<br>
-<br>
-141. #brohomie (1148) 0<br>
-+72|+51|+30|+27|+24|+16|+9|+2|+9|-5<br>
-	3. Buff-Plunts (4:6)<br>
-	8. MAKki (1:5)<br>
-<br>
-142. #BYUfan (1144) 0<br>
-+111|+95|+90|+82|+86|+70|+60|+44|+40|+18<br>
-	2. croissant (1:1)<br>
-	3. Buff-Plunts (1:0)<br>
-	7. shaidar (2:1)<br>
-	9. bandy (2:1)<br>
-<br>
-143. #Mystiq (1143) +4<br>
-+53|+50|+42|+25|+13|+8|+7|+7|+8|+3<br>
-	1. SparkyPlane (0:4)<br>
-	5. Fluffywolf (3:2)<br>
-	7. shaidar (1:0)<br>
-	9. bandy (3:5)<br>
-	10. NaCly (1:2)<br>
-<br>
-144. #john-difool (1142) +3<br>
-+8|+9|+1|+2|+7|+6|+1|+13|+6|+3<br>
-	5. Fluffywolf (1:2)<br>
-	6. COBRA123 (1:1)<br>
-	9. bandy (1:1)<br>
-<br>
-145. #KERATA1 (1140) 0<br>
-+66|+61|+53|+48|+46|+36|+22|+12|+9|-1<br>
-	1. SparkyPlane (1:2)<br>
-	5. Fluffywolf (0:5)<br>
-	6. COBRA123 (2:12)<br>
-	9. bandy (1:1)<br>
-	10. NaCly (0:1)<br>
-<br>
-146. #WateryTapir~485 (1140) 0<br>
-+100|+62|+41|+26|+10|+5|-1<br>
-	1. SparkyPlane (0:6)<br>
-	6. COBRA123 (1:9)<br>
-	8. MAKki (1:0)<br>
-	10. NaCly (0:3)<br>
-<br>
-147. #LiquidS (1138) -1<br>
-+17|+19|+23|+24|+24|+22|+14|+2|+4|+2<br>
+141. #LiquidS (1143) +5<br>
++24|+28|+30|+29|+27|+19|+7|+9|+7|+6<br>
 	1. SparkyPlane (4:12)<br>
 	2. croissant (1:1)<br>
-	5. Fluffywolf (0:5)<br>
-	6. COBRA123 (4:16)<br>
-	8. MAKki (2:2)<br>
-	9. bandy (1:0)<br>
-	10. NaCly (0:1)<br>
+	3. holzabee86 (3:8)<br>
+	5. COBRA123 (4:17)<br>
+	6. Fluffywolf (1:5)<br>
+	7. MAKki (2:2)<br>
+	8. bandy (1:0)<br>
+	10. GaudyWeasel (0:10)<br>
 <br>
-148. #Ammar_N (1130) 0<br>
+142. #Mystiq (1143) 0<br>
++53|+50|+42|+25|+13|+8|+7|+7|+8|+3<br>
+	1. SparkyPlane (0:4)<br>
+	6. Fluffywolf (3:2)<br>
+	8. bandy (3:5)<br>
+	9. shaidar (1:0)<br>
+<br>
+143. #KERATA1 (1140) 0<br>
++66|+61|+53|+48|+46|+36|+22|+12|+9|-1<br>
+	1. SparkyPlane (1:2)<br>
+	5. COBRA123 (2:12)<br>
+	6. Fluffywolf (0:5)<br>
+	8. bandy (1:1)<br>
+<br>
+144. #WateryTapir~485 (1140) 0<br>
++100|+62|+41|+26|+10|+5|-1<br>
+	1. SparkyPlane (0:6)<br>
+	5. COBRA123 (1:9)<br>
+	7. MAKki (1:0)<br>
+<br>
+145. #thwart (1139) +70<br>
++107|+83|+69|+40|+19|+4<br>
+	1. SparkyPlane (4:5)<br>
+	3. holzabee86 (7:11)<br>
+	5. COBRA123 (1:4)<br>
+	6. Fluffywolf (2:0)<br>
+	7. MAKki (0:2)<br>
+	8. bandy (2:6)<br>
+	9. shaidar (1:1)<br>
+<br>
+146. #Ammar_N (1130) 0<br>
 +20|+12|+9|+12|+6|+1|-6|-7|-10|-1<br>
 	1. SparkyPlane (0:3)<br>
-	9. bandy (1:0)<br>
+	8. bandy (1:0)<br>
 <br>
-149. #rzn. (1127) 0<br>
+147. #rzn. (1127) 0<br>
 +93|+78|+58|+29|+13|+4<br>
 	2. croissant (0:1)<br>
-	4. holzabee86 (1:0)<br>
-	6. COBRA123 (2:3)<br>
+	3. holzabee86 (1:0)<br>
+	5. COBRA123 (2:3)<br>
 <br>
-150. #killerbear13 (1127) -1<br>
-+27|+21|+25|+17|+13|+16|0|-9|-2|-5<br>
+148. #lil_ops_ops (1126) +9<br>
++89|+64|+23<br>
+	2. croissant (2:0)<br>
+	3. holzabee86 (10:2)<br>
+	4. Buff-Plunts (2:2)<br>
+	5. COBRA123 (7:2)<br>
+	9. shaidar (3:0)<br>
+<br>
+149. #killerbear13 (1126) -1<br>
++26|+20|+24|+17|+12|+16|-1|-10|-3|-6<br>
 	1. SparkyPlane (0:2)<br>
 	2. croissant (1:3)<br>
-	4. holzabee86 (0:3)<br>
-	6. COBRA123 (0:2)<br>
-	7. shaidar (1:0)<br>
-	9. bandy (0:1)<br>
-	10. NaCly (1:0)<br>
+	3. holzabee86 (0:3)<br>
+	5. COBRA123 (0:2)<br>
+	8. bandy (0:1)<br>
+	9. shaidar (1:0)<br>
 <br>
-151. #drdeadscat (1123) -1<br>
-+11|+6|+7|+2|+1|-3|-2|+5|+5|0<br>
+150. #drdeadscat (1125) +2<br>
++12|+7|+9|+4|+3|-1|0|+7|+7|+2<br>
 	1. SparkyPlane (1:6)<br>
-	9. bandy (1:0)<br>
+	5. COBRA123 (1:4)<br>
+	8. bandy (1:5)<br>
 <br>
-152. #kleptoc12 (1122) 0<br>
-+118|+96|+81|+66|+44|+28|+23|+4<br>
-	1. SparkyPlane (1:0)<br>
-	2. croissant (0:3)<br>
-	6. COBRA123 (5:4)<br>
-	7. shaidar (1:2)<br>
-	10. NaCly (0:1)<br>
-<br>
-153. #stitch67 (1121) 0<br>
+151. #stitch67 (1121) 0<br>
 +98|+49|+5<br>
 	1. SparkyPlane (0:11)<br>
-	4. holzabee86 (4:9)<br>
-	5. Fluffywolf (0:2)<br>
-	6. COBRA123 (2:3)<br>
-	7. shaidar (1:2)<br>
-	9. bandy (0:1)<br>
+	3. holzabee86 (4:9)<br>
+	5. COBRA123 (2:3)<br>
+	6. Fluffywolf (0:2)<br>
+	8. bandy (0:1)<br>
+	9. shaidar (1:2)<br>
+	10. GaudyWeasel (1:0)<br>
 <br>
-154. #Power69 (1121) 0<br>
+152. #Power69 (1121) 0<br>
 +8|+7|+8|-2|+3|-5|-9|0|+1|-4<br>
 	1. SparkyPlane (2:10)<br>
-	3. Buff-Plunts (2:1)<br>
-	5. Fluffywolf (1:4)<br>
-	6. COBRA123 (0:1)<br>
-	9. bandy (0:2)<br>
-	10. NaCly (1:4)<br>
+	4. Buff-Plunts (2:1)<br>
+	5. COBRA123 (0:1)<br>
+	6. Fluffywolf (1:4)<br>
+	8. bandy (0:2)<br>
 <br>
-155. #deltron3030 (1119) +2<br>
+153. #deltron3030 (1119) 0<br>
 +71|+54|+55|+44|+45|+36|+29|+8|+8|0<br>
 	2. croissant (0:1)<br>
-	8. MAKki (0:1)<br>
-	10. NaCly (0:1)<br>
+	7. MAKki (0:1)<br>
 <br>
-156. #Cosimia (1119) 0<br>
-+88|+73|+47|+45|+36|+28|+30|+15|+10|-1<br>
+154. #TrickyFang~103 (1118) 0<br>
++96|+72|+49|+38|+24|+19|+17|0<br>
+	3. holzabee86 (0:3)<br>
+	5. COBRA123 (0:4)<br>
+	6. Fluffywolf (2:3)<br>
+	8. bandy (0:5)<br>
+<br>
+155. #Cosimia (1118) -1<br>
++87|+72|+46|+44|+35|+27|+29|+14|+9|-2<br>
 	2. croissant (1:1)<br>
-	3. Buff-Plunts (0:1)<br>
-	4. holzabee86 (1:4)<br>
-	6. COBRA123 (0:1)<br>
-	7. shaidar (4:7)<br>
-	9. bandy (0:2)<br>
-	10. NaCly (1:0)<br>
+	3. holzabee86 (1:4)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (0:1)<br>
+	8. bandy (0:2)<br>
+	9. shaidar (4:6)<br>
 <br>
-157. #thund3rfrakk (1119) +2<br>
-+79|+69|+54|+46|+39|+41|+39|+25|+15|+7<br>
-	1. SparkyPlane (2:6)<br>
-	5. Fluffywolf (1:4)<br>
-	6. COBRA123 (0:2)<br>
-	8. MAKki (0:1)<br>
-	9. bandy (2:7)<br>
-	10. NaCly (1:6)<br>
-<br>
-158. #TrickyFang~103 (1118) -1<br>
-+96|+71|+49|+38|+24|+18|+17|0<br>
-	6. COBRA123 (0:7)<br>
-	9. bandy (2:5)<br>
-<br>
-159. #lil_ops_ops (1117) 0<br>
-+80|+55|+14<br>
-	2. croissant (2:0)<br>
-	3. Buff-Plunts (2:2)<br>
-	4. holzabee86 (10:2)<br>
-	6. COBRA123 (7:2)<br>
-	7. shaidar (3:0)<br>
-<br>
-160. #Wurtnik (1117) -1<br>
-+69|+57|+43|+33|+32|+23|+19|+17|+10|+6<br>
-	1. SparkyPlane (2:13)<br>
-	6. COBRA123 (0:1)<br>
-	7. shaidar (1:5)<br>
-	9. bandy (0:2)<br>
-	10. NaCly (0:2)<br>
-<br>
-161. #karim3397 (1114) +1<br>
-+102|+82|+61|+44|+34|+19|+5|+1|-2<br>
-	1. SparkyPlane (2:9)<br>
+156. #karim3397 (1117) +2<br>
++104|+85|+64|+46|+36|+21|+7|+3|0|+2<br>
+	1. SparkyPlane (2:10)<br>
 	2. croissant (1:0)<br>
-	5. Fluffywolf (0:2)<br>
-	6. COBRA123 (7:4)<br>
-	8. MAKki (1:2)<br>
-	9. bandy (1:2)<br>
-	10. NaCly (0:5)<br>
+	3. holzabee86 (0:1)<br>
+	5. COBRA123 (7:4)<br>
+	6. Fluffywolf (0:2)<br>
+	7. MAKki (1:2)<br>
+	8. bandy (1:2)<br>
+	10. GaudyWeasel (0:6)<br>
 <br>
-162. #googooman (1113) 0<br>
-+94|+86|+76|+61|+42|+24|+3<br>
+157. #thund3rfrakk (1116) -3<br>
++77|+66|+51|+44|+37|+38|+36|+22|+12|+4<br>
+	1. SparkyPlane (2:8)<br>
+	5. COBRA123 (0:2)<br>
+	6. Fluffywolf (1:4)<br>
+	7. MAKki (0:1)<br>
+	8. bandy (2:7)<br>
+<br>
+158. #Wurtnik (1115) -1<br>
++56|+42|+32|+30|+22|+18|+15|+8|+5|0<br>
+	1. SparkyPlane (2:13)<br>
+	5. COBRA123 (1:12)<br>
+	6. Fluffywolf (1:1)<br>
+	8. bandy (0:2)<br>
+	9. shaidar (1:5)<br>
+<br>
+159. #googooman (1114) +1<br>
++95|+87|+77|+62|+42|+24|+3<br>
 	1. SparkyPlane (0:1)<br>
 	2. croissant (0:1)<br>
-	3. Buff-Plunts (0:5)<br>
-	6. COBRA123 (0:5)<br>
-	8. MAKki (2:4)<br>
-	9. bandy (2:4)<br>
+	4. Buff-Plunts (0:5)<br>
+	5. COBRA123 (0:5)<br>
+	7. MAKki (2:4)<br>
+	8. bandy (2:4)<br>
 <br>
-163. #simplex_ (1108) 0<br>
+160. #simplex_ (1108) 0<br>
 +70|+70|+58|+41|+35|+35|+24|+15|+2|0<br>
 	1. SparkyPlane (6:17)<br>
 	2. croissant (0:6)<br>
-	5. Fluffywolf (7:15)<br>
-	6. COBRA123 (5:10)<br>
-	7. shaidar (0:2)<br>
-	9. bandy (0:6)<br>
-	10. NaCly (0:1)<br>
+	5. COBRA123 (5:9)<br>
+	6. Fluffywolf (6:12)<br>
+	8. bandy (0:5)<br>
+	9. shaidar (0:2)<br>
+	10. GaudyWeasel (0:1)<br>
 <br>
-164. #mthemking (1107) 0<br>
+161. #mthemking (1107) 0<br>
 +90|+83|+53|+49|+36|+32|+16|0<br>
 	1. SparkyPlane (2:4)<br>
-	5. Fluffywolf (1:1)<br>
-	6. COBRA123 (3:3)<br>
-	7. shaidar (3:0)<br>
-	9. bandy (0:1)<br>
+	5. COBRA123 (3:3)<br>
+	6. Fluffywolf (1:1)<br>
+	8. bandy (0:1)<br>
+	9. shaidar (3:0)<br>
 <br>
-165. #Raydar71 (1106) 0<br>
-+5|+8|+5|+4|-6|-6|-1|-12|-14|-8<br>
-	5. Fluffywolf (4:2)<br>
-	8. MAKki (1:7)<br>
-	9. bandy (1:1)<br>
-	10. NaCly (0:1)<br>
-<br>
-166. #Frangta (1101) 0<br>
-+45|+39|+27|+24|+18|+18|+12|+14|+17|+5<br>
-	3. Buff-Plunts (0:2)<br>
-	6. COBRA123 (0:1)<br>
-	7. shaidar (0:1)<br>
-	8. MAKki (1:0)<br>
-	9. bandy (3:1)<br>
-<br>
-167. #fellerbunch (1101) 0<br>
-+98|+94|+82|+76|+71|+54|+41|+43|+17|0<br>
+162. #fellerbunch (1107) +6<br>
++104|+100|+88|+82|+77|+60|+47|+49|+22|+6<br>
 	1. SparkyPlane (0:2)<br>
 	2. croissant (0:1)<br>
-	5. Fluffywolf (0:1)<br>
-	7. shaidar (0:1)<br>
-	8. MAKki (1:0)<br>
-	9. bandy (0:4)<br>
+	6. Fluffywolf (0:1)<br>
+	7. MAKki (1:0)<br>
+	8. bandy (0:4)<br>
 <br>
-168. #PaperCookie~376 (1097) +32<br>
-+75|+63|+47|+36|+8|-6<br>
-	1. SparkyPlane (0:2)<br>
-	3. Buff-Plunts (0:1)<br>
-	5. Fluffywolf (0:3)<br>
-	8. MAKki (0:1)<br>
-	9. bandy (1:2)<br>
-	10. NaCly (6:4)<br>
+163. #Raydar71 (1106) +1<br>
++6|+9|+6|+5|-6|-6|-1|-12|-13|-7<br>
+	6. Fluffywolf (4:2)<br>
+	7. MAKki (1:7)<br>
+	8. bandy (1:1)<br>
 <br>
-169. #rawbdor (1096) 0<br>
-+64|+51|+42|+43|+30|+18|+21|+14|+8|+6<br>
-	6. COBRA123 (0:2)<br>
-	10. NaCly (0:1)<br>
+164. #Frangta (1101) 0<br>
++45|+39|+27|+24|+18|+18|+12|+14|+17|+5<br>
+	4. Buff-Plunts (0:2)<br>
+	7. MAKki (1:0)<br>
+	8. bandy (3:1)<br>
+	9. shaidar (0:1)<br>
 <br>
-170. #Deplorable (1095) 0<br>
+165. #TRUEplayer1 (1098) +10<br>
++89|+72|+59|+48|+43|+34|+25|+20|+1<br>
+	1. SparkyPlane (4:12)<br>
+	2. croissant (0:1)<br>
+	3. holzabee86 (6:8)<br>
+	5. COBRA123 (1:0)<br>
+	6. Fluffywolf (6:7)<br>
+	8. bandy (4:5)<br>
+	10. GaudyWeasel (1:1)<br>
+<br>
+166. #rawbdor (1096) 0<br>
++63|+50|+42|+42|+30|+17|+21|+14|+7|+6<br>
+	5. COBRA123 (0:1)<br>
+<br>
+167. #Deplorable (1095) 0<br>
 +81|+52|+34|+23|+7|+4<br>
-	6. COBRA123 (1:7)<br>
-	8. MAKki (5:4)<br>
-	10. NaCly (0:1)<br>
+	5. COBRA123 (1:7)<br>
+	7. MAKki (5:4)<br>
+	10. GaudyWeasel (0:5)<br>
 <br>
-171. #DrunkenEngin (1094) 0<br>
+168. #DrunkenEngin (1094) 0<br>
 +85|+71|+53|+30|+10<br>
 	1. SparkyPlane (2:5)<br>
 	2. croissant (0:1)<br>
-	6. COBRA123 (2:3)<br>
-	8. MAKki (1:5)<br>
-	9. bandy (1:1)<br>
-	10. NaCly (0:2)<br>
+	5. COBRA123 (2:3)<br>
+	7. MAKki (1:5)<br>
+	8. bandy (1:1)<br>
 <br>
-172. #dawson27 (1092) 0<br>
+169. #FenixTheWar (1094) +6<br>
++85|+82|+78|+60|+45|+36|+31|+17|+8|+2<br>
+	2. croissant (1:0)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (0:2)<br>
+<br>
+170. #dawson27 (1092) 0<br>
 +87|+80|+70|+69|+60|+35|+20|+10|0|0<br>
 	2. croissant (0:1)<br>
-	3. Buff-Plunts (2:7)<br>
-	4. holzabee86 (2:3)<br>
-	6. COBRA123 (4:4)<br>
-	7. shaidar (0:1)<br>
+	3. holzabee86 (2:3)<br>
+	4. Buff-Plunts (2:7)<br>
+	5. COBRA123 (4:4)<br>
+	9. shaidar (0:1)<br>
 <br>
-173. #baby_ace (1090) 0<br>
+171. #baby_ace (1090) 0<br>
 +37|+32|+33|+20|+23|+22|+15|+10|+2|+1<br>
 	2. croissant (0:8)<br>
-	3. Buff-Plunts (0:1)<br>
-	4. holzabee86 (0:1)<br>
-	6. COBRA123 (2:2)<br>
+	3. holzabee86 (0:1)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (2:2)<br>
 <br>
-174. #TRUEplayer1 (1088) +4<br>
-+79|+62|+49|+38|+33|+24|+15|+10<br>
-	1. SparkyPlane (4:12)<br>
-	2. croissant (0:1)<br>
-	4. holzabee86 (6:8)<br>
-	5. Fluffywolf (3:5)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (1:4)<br>
-	10. NaCly (2:2)<br>
-<br>
-175. #FenixTheWar (1088) 0<br>
-+92|+80|+77|+72|+55|+40|+30|+25|+11|+2<br>
-	2. croissant (1:0)<br>
-	3. Buff-Plunts (0:1)<br>
-	6. COBRA123 (0:2)<br>
-<br>
-176. #M6l8-711 (1087) -1<br>
+172. #M6l8-711 (1087) 0<br>
 +44|+45|+47|+46|+41|+36|+29|+13|+13|+3<br>
 	2. croissant (1:2)<br>
-	6. COBRA123 (2:6)<br>
-	9. bandy (1:0)<br>
+	5. COBRA123 (2:6)<br>
+	8. bandy (1:0)<br>
+	10. GaudyWeasel (0:1)<br>
 <br>
-177. #pantalones (1087) 0<br>
+173. #elioch (1087) +8<br>
++81|+72|+69|+68|+59|+59|+40|+42|+34|+13<br>
+	1. SparkyPlane (1:14)<br>
+	3. holzabee86 (0:2)<br>
+	5. COBRA123 (4:16)<br>
+	6. Fluffywolf (0:1)<br>
+	8. bandy (0:6)<br>
+	9. shaidar (0:3)<br>
+<br>
+174. #pantalones (1087) 0<br>
 +85|+80|+60|+43|+29|+13|+7|+8<br>
 	1. SparkyPlane (0:5)<br>
-	9. bandy (0:1)<br>
-	10. NaCly (0:1)<br>
+	8. bandy (0:1)<br>
 <br>
-178. #TEMPERMENTAL (1085) 0<br>
+175. #PaperCookie~376 (1086) -11<br>
++65|+52|+36|+26|-2|-17|-11<br>
+	1. SparkyPlane (0:2)<br>
+	4. Buff-Plunts (0:1)<br>
+	6. Fluffywolf (0:3)<br>
+	7. MAKki (0:2)<br>
+	8. bandy (1:2)<br>
+<br>
+176. #tinkywinky (1085) +6<br>
++64|+24|0<br>
+	1. SparkyPlane (0:1)<br>
+	3. holzabee86 (1:4)<br>
+	8. bandy (1:1)<br>
+<br>
+177. #TEMPERMENTAL (1085) 0<br>
 +57|+33|+28|+9<br>
 	1. SparkyPlane (0:1)<br>
 	2. croissant (0:2)<br>
-	6. COBRA123 (1:9)<br>
-	7. shaidar (0:1)<br>
-	10. NaCly (0:2)<br>
+	5. COBRA123 (1:9)<br>
+	9. shaidar (0:1)<br>
+	10. GaudyWeasel (0:2)<br>
+<br>
+178. #FastGoblin~692 (1084) +1<br>
++21|+21|+24|+17|+6|+1|+10|+12|+6|+1<br>
+	1. SparkyPlane (4:26)<br>
+	5. COBRA123 (0:2)<br>
+	7. MAKki (2:1)<br>
 <br>
 179. #sphyral (1084) 0<br>
 +50|+50|+42|+41|+36|+30|+25|+25|+12|+2<br>
 	1. SparkyPlane (0:1)<br>
 	2. croissant (0:1)<br>
-	4. holzabee86 (0:7)<br>
-	6. COBRA123 (0:5)<br>
-	10. NaCly (0:1)<br>
+	3. holzabee86 (0:7)<br>
+	5. COBRA123 (0:3)<br>
 <br>
-180. #FastGoblin~692 (1083) 0<br>
-+19|+20|+23|+16|+4|0|+8|+11|+4|0<br>
-	1. SparkyPlane (3:25)<br>
-	6. COBRA123 (0:2)<br>
-	8. MAKki (2:1)<br>
-	10. NaCly (0:5)<br>
-<br>
-181. #T-_-TT-_-T (1082) 0<br>
-+32|+15|+9|-2|-6|-6|+5|+6|+6|-1<br>
+180. #T-_-TT-_-T (1084) +2<br>
++34|+17|+11|-1|-4|-4|+7|+8|+8|+1<br>
 	1. SparkyPlane (3:2)<br>
-	3. Buff-Plunts (0:1)<br>
-	6. COBRA123 (0:2)<br>
-	8. MAKki (0:4)<br>
-	9. bandy (0:1)<br>
-	10. NaCly (0:1)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (0:2)<br>
+	7. MAKki (0:4)<br>
+	8. bandy (0:1)<br>
 <br>
-182. #essisheik (1080) 0<br>
-+28|+14|+11|+4|+4|+1|+3|-2|-4|-3<br>
+181. #Cap.Kirk (1084) +3<br>
++66|+58|+54|+32|+29|+18|+15|+12|+11|+3<br>
 	2. croissant (0:1)<br>
-	3. Buff-Plunts (0:4)<br>
-	4. holzabee86 (0:1)<br>
-	6. COBRA123 (2:1)<br>
-	9. bandy (0:1)<br>
+	5. COBRA123 (1:2)<br>
+	6. Fluffywolf (0:4)<br>
 <br>
-183. #Cap.Kirk (1080) 0<br>
-+63|+54|+51|+29|+25|+15|+12|+9|+8|0<br>
-	2. croissant (0:1)<br>
-	5. Fluffywolf (0:4)<br>
-<br>
-184. #gobindsingh (1080) 0<br>
-+48|+42|+39|+31|+29|+27|+26|+19|+12|-2<br>
+182. #gobindsingh (1082) +1<br>
++49|+44|+40|+32|+31|+28|+27|+21|+13|-1<br>
 	2. croissant (1:2)<br>
-	3. Buff-Plunts (0:3)<br>
-	4. holzabee86 (0:4)<br>
-	6. COBRA123 (2:6)<br>
-	7. shaidar (0:1)<br>
+	3. holzabee86 (0:4)<br>
+	4. Buff-Plunts (0:3)<br>
+	5. COBRA123 (2:6)<br>
+	9. shaidar (0:1)<br>
 <br>
-185. #Penguin- (1080) +4<br>
+183. #Penguin- (1080) 0<br>
 +47|0<br>
 	2. croissant (0:1)<br>
-	6. COBRA123 (5:0)<br>
+	5. COBRA123 (5:0)<br>
 <br>
-186. #elioch (1079) +5<br>
-+74|+64|+62|+60|+52|+51|+33|+34|+27|+6<br>
-	1. SparkyPlane (1:14)<br>
-	4. holzabee86 (0:2)<br>
-	5. Fluffywolf (0:1)<br>
-	6. COBRA123 (0:11)<br>
-	7. shaidar (0:3)<br>
-	9. bandy (0:6)<br>
-	10. NaCly (2:0)<br>
-<br>
-187. #slimshadey (1079) 0<br>
-+65|+59|+52|+32|+28|+19|+10|0<br>
-	1. SparkyPlane (0:3)<br>
-	4. holzabee86 (0:1)<br>
-	7. shaidar (4:3)<br>
-	10. NaCly (0:1)<br>
-<br>
-188. #McFly35 (1079) 0<br>
-+86|+82|+61|+46|+37|+21|+2<br>
-	1. SparkyPlane (1:4)<br>
-	2. croissant (0:2)<br>
-	3. Buff-Plunts (0:3)<br>
-	6. COBRA123 (2:0)<br>
-<br>
-189. #lilbear (1078) +7<br>
-+71|+64|+54|+44|+34|+32|+27|+16|+10|+7<br>
-	2. croissant (6:8)<br>
-	3. Buff-Plunts (2:3)<br>
-	4. holzabee86 (2:3)<br>
-	5. Fluffywolf (2:5)<br>
-	6. COBRA123 (9:22)<br>
-	7. shaidar (0:3)<br>
-<br>
-190. #ZincBoat~290 (1077) 0<br>
-+21|+23|+23|+15|+11|-2|+2|-2|+1|-2<br>
-	7. shaidar (0:1)<br>
-	9. bandy (1:5)<br>
-	10. NaCly (0:1)<br>
-<br>
-191. #daavid80 (1075) -2<br>
--42|-37|-35|-25|-16|-7|+4|+13|+18|+18<br>
+184. #daavid80 (1080) +4<br>
+-31|-20|-12|-3|+9|+17|+23|+23|-2|+4<br>
 	1. SparkyPlane (6:7)<br>
 	2. croissant (0:2)<br>
-	3. Buff-Plunts (1:1)<br>
-	4. holzabee86 (0:10)<br>
-	5. Fluffywolf (0:3)<br>
-	6. COBRA123 (0:10)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (0:7)<br>
-	10. NaCly (2:2)<br>
+	3. holzabee86 (2:23)<br>
+	4. Buff-Plunts (1:1)<br>
+	5. COBRA123 (0:11)<br>
+	6. Fluffywolf (0:3)<br>
+	7. MAKki (0:2)<br>
+	8. bandy (0:5)<br>
+	9. shaidar (0:1)<br>
+	10. GaudyWeasel (0:1)<br>
 <br>
-192. #Serenity05 (1073) +1<br>
-+70|+40|+20|+10<br>
+185. #McFly35 (1079) +1<br>
++87|+83|+61|+47|+37|+22|+3|+2<br>
+	1. SparkyPlane (1:4)<br>
+	2. croissant (0:2)<br>
+	4. Buff-Plunts (0:3)<br>
+	5. COBRA123 (2:1)<br>
+<br>
+186. #essisheik (1079) -1<br>
++13|+10|+3|+3|0|+2|-3|-5|-4|0<br>
+	2. croissant (0:1)<br>
+	3. holzabee86 (0:1)<br>
+	4. Buff-Plunts (0:4)<br>
+	5. COBRA123 (3:1)<br>
+	8. bandy (0:1)<br>
+<br>
+187. #slimshadey (1079) 0<br>
++64|+58|+52|+32|+28|+19|+10|-1<br>
+	1. SparkyPlane (0:3)<br>
+	3. holzabee86 (0:1)<br>
+	9. shaidar (4:3)<br>
+<br>
+188. #lilbear (1078) 0<br>
++71|+64|+54|+44|+34|+32|+27|+16|+10|+6<br>
+	2. croissant (6:8)<br>
+	3. holzabee86 (2:3)<br>
+	4. Buff-Plunts (2:3)<br>
+	5. COBRA123 (9:22)<br>
+	6. Fluffywolf (2:5)<br>
+	9. shaidar (0:3)<br>
+<br>
+189. #ZincBoat~290 (1077) 0<br>
++21|+23|+23|+15|+11|-2|+2|-2|+1|-2<br>
+	8. bandy (1:0)<br>
+<br>
+190. #Serenity05 (1075) +2<br>
++72|+42|+22|+12<br>
 	1. SparkyPlane (0:2)<br>
 	2. croissant (0:1)<br>
-	5. Fluffywolf (0:1)<br>
-	6. COBRA123 (2:3)<br>
+	5. COBRA123 (2:3)<br>
+	6. Fluffywolf (0:1)<br>
 <br>
-193. #dimarco (1072) 0<br>
-+65|+48|+37|+29|+16|+12|-1<br>
-	1. SparkyPlane (0:11)<br>
-	6. COBRA123 (2:4)<br>
-	8. MAKki (0:4)<br>
-	9. bandy (0:4)<br>
-	10. NaCly (0:1)<br>
-<br>
-194. #SCOTTIRVINE (1072) 0<br>
+191. #SCOTTIRVINE (1072) 0<br>
 +65|+50|+46|+42|+37|+34|+37|+19|+9|0<br>
-	5. Fluffywolf (0:2)<br>
-	6. COBRA123 (0:4)<br>
-	9. bandy (3:1)<br>
-	10. NaCly (0:2)<br>
+	5. COBRA123 (0:4)<br>
+	6. Fluffywolf (0:2)<br>
+	8. bandy (3:1)<br>
+	10. GaudyWeasel (0:1)<br>
 <br>
-195. #WigglyButto~944 (1072) +1<br>
-+74|+68|+57|+52|+43|+20|+12|0<br>
+192. #WigglyButto~944 (1071) -1<br>
++73|+67|+56|+52|+42|+19|+11|-1<br>
 	1. SparkyPlane (1:9)<br>
 	2. croissant (1:3)<br>
-	4. holzabee86 (4:0)<br>
-	5. Fluffywolf (1:7)<br>
-	6. COBRA123 (9:21)<br>
-	7. shaidar (2:3)<br>
-	9. bandy (4:7)<br>
-	10. NaCly (2:4)<br>
+	3. holzabee86 (4:0)<br>
+	5. COBRA123 (9:21)<br>
+	6. Fluffywolf (1:7)<br>
+	8. bandy (4:7)<br>
+	9. shaidar (2:3)<br>
 <br>
-196. #PMacktaby (1072) +2<br>
-+37|+37|+39|+37|+23|+15|+8|+4|+7|+1<br>
+193. #dimarco (1071) -2<br>
++63|+46|+35|+27|+15|+10|-3<br>
+	1. SparkyPlane (0:11)<br>
+	5. COBRA123 (2:4)<br>
+	7. MAKki (0:4)<br>
+	8. bandy (0:4)<br>
+	10. GaudyWeasel (0:1)<br>
+<br>
+194. #PMacktaby (1070) -1<br>
++36|+36|+38|+36|+22|+14|+7|+3|+5|0<br>
 	1. SparkyPlane (5:12)<br>
 	2. croissant (1:0)<br>
-	4. holzabee86 (1:1)<br>
-	5. Fluffywolf (1:9)<br>
-	6. COBRA123 (17:46)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (3:2)<br>
+	3. holzabee86 (1:1)<br>
+	5. COBRA123 (19:62)<br>
+	6. Fluffywolf (1:5)<br>
+	8. bandy (3:2)<br>
+	9. shaidar (0:1)<br>
 <br>
-197. #thwart (1069) +3<br>
-+37|+13|-1<br>
-	1. SparkyPlane (4:4)<br>
-	4. holzabee86 (5:3)<br>
-	5. Fluffywolf (1:0)<br>
-	6. COBRA123 (0:1)<br>
-	7. shaidar (1:1)<br>
-	9. bandy (2:6)<br>
-	10. NaCly (1:2)<br>
+195. #katy.cat (1069) +1<br>
++11|+14|+10|+13|+6|+3|+2|+4|+4|-1<br>
+	3. holzabee86 (0:1)<br>
+	5. COBRA123 (0:3)<br>
+	6. Fluffywolf (1:2)<br>
+	8. bandy (3:4)<br>
 <br>
-198. #katy.cat (1068) -1<br>
-+10|+13|+9|+12|+5|+2|+1|+3|+3|-2<br>
-	4. holzabee86 (0:1)<br>
-	5. Fluffywolf (1:2)<br>
-	6. COBRA123 (0:3)<br>
-	9. bandy (3:4)<br>
+196. #DirtyWren~640 (1068) +5<br>
++55|+42|+30|+24|+4<br>
+	1. SparkyPlane (1:9)<br>
+	2. croissant (0:3)<br>
+	5. COBRA123 (0:2)<br>
+	6. Fluffywolf (1:0)<br>
+	8. bandy (0:12)<br>
 <br>
-199. #HugeBird~119 (1066) 0<br>
-+37|+19|-1<br>
+197. #HugeBird~119 (1067) +2<br>
++39|+21|+1<br>
 	1. SparkyPlane (6:3)<br>
-	6. COBRA123 (6:6)<br>
-	9. bandy (0:4)<br>
-	10. NaCly (1:3)<br>
+	5. COBRA123 (6:6)<br>
+	8. bandy (0:4)<br>
 <br>
-200. #aawwa (1066) -1<br>
-+28|+22|+26|+28|+26|+13|+11|+15|+1|-5<br>
+198. #paul11 (1067) +6<br>
++38|+39|+32|+21|+11|+9|-2|-5|0|+5<br>
+	5. COBRA123 (1:3)<br>
+	7. MAKki (0:1)<br>
+<br>
+199. #aawwa (1065) 0<br>
++28|+22|+25|+28|+26|+13|+11|+15|+1|-5<br>
 	1. SparkyPlane (4:8)<br>
 	2. croissant (0:1)<br>
-	5. Fluffywolf (0:4)<br>
-	6. COBRA123 (0:1)<br>
-	10. NaCly (0:5)<br>
+	5. COBRA123 (0:1)<br>
+	6. Fluffywolf (0:4)<br>
 <br>
-201. #AsianMessi (1064) -1<br>
+200. #fish13 (1064) +13<br>
++43|+31|+12<br>
+	1. SparkyPlane (1:2)<br>
+	8. bandy (1:9)<br>
+<br>
+201. #fadam (1064) +20<br>
++57|+45|+35|+22<br>
+	1. SparkyPlane (3:5)<br>
+	8. bandy (1:3)<br>
+<br>
+202. #AsianMessi (1064) 0<br>
 +48|+39|+1|-6<br>
 	2. croissant (0:1)<br>
-	3. Buff-Plunts (0:3)<br>
-	4. holzabee86 (1:1)<br>
-	6. COBRA123 (2:4)<br>
-	7. shaidar (1:2)<br>
-	9. bandy (1:0)<br>
-	10. NaCly (0:1)<br>
+	3. holzabee86 (1:1)<br>
+	4. Buff-Plunts (0:3)<br>
+	5. COBRA123 (2:4)<br>
+	8. bandy (1:0)<br>
+	9. shaidar (1:2)<br>
 <br>
-202. #CozyBike~447 (1064) +4<br>
+203. #CozyBike~447 (1064) 0<br>
 +71|+56|+22|+4<br>
 	1. SparkyPlane (4:1)<br>
-	4. holzabee86 (0:1)<br>
-	6. COBRA123 (3:9)<br>
-	10. NaCly (3:3)<br>
-<br>
-203. #DirtyWren~640 (1062) +3<br>
-+50|+36|+25|+19<br>
-	1. SparkyPlane (1:5)<br>
-	2. croissant (0:3)<br>
-	5. Fluffywolf (2:0)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (0:9)<br>
-	10. NaCly (0:2)<br>
+	3. holzabee86 (0:1)<br>
+	5. COBRA123 (3:9)<br>
 <br>
 204. #N-O-V-A (1061) 0<br>
 +62|+54|+37|+32|+31|+12|+19|+10|+3|-1<br>
 	1. SparkyPlane (0:1)<br>
 	2. croissant (0:1)<br>
-	3. Buff-Plunts (0:3)<br>
-	4. holzabee86 (0:6)<br>
-	5. Fluffywolf (1:0)<br>
-	6. COBRA123 (0:2)<br>
-	7. shaidar (1:0)<br>
+	3. holzabee86 (0:6)<br>
+	4. Buff-Plunts (0:3)<br>
+	5. COBRA123 (0:2)<br>
+	6. Fluffywolf (1:0)<br>
+	9. shaidar (1:0)<br>
 <br>
-205. #paul11 (1061) -1<br>
-+32|+33|+26|+15|+5|+3|-8|-12|-6|-1<br>
-	6. COBRA123 (1:3)<br>
-	8. MAKki (0:1)<br>
+205. #RigidBird~374 (1060) +2<br>
++52|+40|+23|+16|+18|0<br>
+	2. croissant (1:3)<br>
+	5. COBRA123 (0:1)<br>
+	6. Fluffywolf (0:1)<br>
+	8. bandy (1:1)<br>
+	10. GaudyWeasel (2:1)<br>
 <br>
-206. #tothaihao (1058) -1<br>
-+59|+54|+51|+43|+40|+24|+6|-1|-2|-4<br>
+206. #tothaihao (1057) 0<br>
++59|+53|+51|+43|+40|+24|+6|-1|-2|-4<br>
 	1. SparkyPlane (0:2)<br>
 	2. croissant (0:1)<br>
-	6. COBRA123 (0:2)<br>
-	7. shaidar (0:2)<br>
-	9. bandy (1:2)<br>
+	5. COBRA123 (0:2)<br>
+	8. bandy (1:2)<br>
+	9. shaidar (0:2)<br>
 <br>
-207. #RigidBird~374 (1058) 0<br>
-+50|+38|+21|+14|+16|-2<br>
-	2. croissant (1:3)<br>
-	5. Fluffywolf (0:4)<br>
-	6. COBRA123 (0:1)<br>
-	8. MAKki (0:1)<br>
-	9. bandy (1:1)<br>
-	10. NaCly (1:0)<br>
-<br>
-208. #LuckyMetal~779 (1057) +1<br>
-+41|+26|+13<br>
+207. #LuckyMetal~779 (1057) 0<br>
++42|+27|+13<br>
 	1. SparkyPlane (0:1)<br>
-	6. COBRA123 (0:2)<br>
-	9. bandy (1:2)<br>
+	5. COBRA123 (0:2)<br>
+	8. bandy (1:2)<br>
 <br>
-209. #sarchasmo (1057) 0<br>
-+39|+24|+18|+3|+1<br>
-	1. SparkyPlane (0:2)<br>
-	5. Fluffywolf (1:0)<br>
-	6. COBRA123 (1:0)<br>
-	9. bandy (1:0)<br>
-	10. NaCly (0:3)<br>
-<br>
-210. #NoisySponge~601 (1055) +7<br>
-+31|+9|+4<br>
+208. #NoisySponge~601 (1056) +1<br>
++32|+10|+6<br>
 	1. SparkyPlane (1:2)<br>
-	4. holzabee86 (2:1)<br>
-	5. Fluffywolf (1:6)<br>
-	8. MAKki (0:1)<br>
+	3. holzabee86 (2:1)<br>
+	5. COBRA123 (0:5)<br>
+	6. Fluffywolf (2:7)<br>
+	7. MAKki (0:1)<br>
+<br>
+209. #Draconus. (1055) +3<br>
++40|+39|+3<br>
+	1. SparkyPlane (1:2)<br>
+	7. MAKki (4:5)<br>
+	8. bandy (1:3)<br>
+<br>
+210. #CozyPillow (1055) +4<br>
++42|+29|+15|+10|+7|+4<br>
+	1. SparkyPlane (1:9)<br>
+	2. croissant (0:3)<br>
+	3. holzabee86 (2:2)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (2:15)<br>
+	6. Fluffywolf (0:3)<br>
+	10. GaudyWeasel (0:1)<br>
 <br>
 211. #ClownPeePee (1054) 0<br>
 +35|+25|+4<br>
 	1. SparkyPlane (1:0)<br>
-	8. MAKki (3:5)<br>
-	9. bandy (2:4)<br>
-	10. NaCly (0:5)<br>
+	7. MAKki (3:5)<br>
+	8. bandy (2:4)<br>
 <br>
-212. #shadowfire77 (1053) +1<br>
+212. #shadowfire77 (1053) 0<br>
 +41|+26|+8|+3<br>
 	2. croissant (1:2)<br>
-	3. Buff-Plunts (1:3)<br>
-	6. COBRA123 (4:6)<br>
-	7. shaidar (0:1)<br>
+	4. Buff-Plunts (1:3)<br>
+	5. COBRA123 (4:6)<br>
+	9. shaidar (0:1)<br>
 <br>
 213. #rodibircan (1052) 0<br>
 +57|+53|+35|+18<br>
-	6. COBRA123 (0:1)<br>
-	8. MAKki (0:2)<br>
+	5. COBRA123 (0:1)<br>
+	7. MAKki (0:2)<br>
 <br>
-214. #fish13 (1052) +7<br>
-+31|+18|0<br>
+214. #Zacc_ (1051) +1<br>
++43|+45|+37|+22|+18|+20|+16|+17|+14|+4<br>
 	1. SparkyPlane (1:2)<br>
-	9. bandy (1:9)<br>
-	10. NaCly (0:2)<br>
+	2. croissant (0:3)<br>
+	4. Buff-Plunts (0:3)<br>
+	5. COBRA123 (3:1)<br>
+	6. Fluffywolf (1:1)<br>
+	9. shaidar (1:2)<br>
 <br>
 215. #TJHENRY (1051) 0<br>
-+45|+51|+45|+13|+12|+8|+9|+6|0<br>
++44|+51|+45|+12|+11|+8|+9|+6|0<br>
 	1. SparkyPlane (0:4)<br>
 	2. croissant (1:1)<br>
-	5. Fluffywolf (0:4)<br>
-	6. COBRA123 (0:5)<br>
-	8. MAKki (1:0)<br>
+	5. COBRA123 (0:5)<br>
+	6. Fluffywolf (0:3)<br>
+	7. MAKki (1:0)<br>
+	8. bandy (0:1)<br>
 <br>
-216. #CozyPillow (1051) 0<br>
-+39|+25|+12|+6|+4<br>
-	1. SparkyPlane (1:9)<br>
-	2. croissant (0:3)<br>
-	3. Buff-Plunts (0:1)<br>
-	4. holzabee86 (2:2)<br>
-	6. COBRA123 (2:11)<br>
-<br>
-217. #SuicideMan (1051) +1<br>
-+52|+26|+17|+15|+9|+6|+8|+10|+7|-2<br>
-	1. SparkyPlane (1:2)<br>
+216. #SuicideMan (1049) -2<br>
++50|+24|+15|+13|+7|+5|+6|+8|+5|-3<br>
+	1. SparkyPlane (2:3)<br>
 	2. croissant (0:1)<br>
-	9. bandy (1:2)<br>
-	10. NaCly (1:2)<br>
+	8. bandy (1:2)<br>
 <br>
-218. #Zacc_ (1050) +3<br>
-+42|+44|+35|+21|+17|+19|+14|+16|+13|+3<br>
-	1. SparkyPlane (1:2)<br>
-	2. croissant (0:3)<br>
-	3. Buff-Plunts (0:3)<br>
-	5. Fluffywolf (1:1)<br>
-	6. COBRA123 (3:1)<br>
-	7. shaidar (1:2)<br>
-<br>
-219. #MyLordJohn (1050) 0<br>
-+20|+11|+2<br>
-	2. croissant (0:1)<br>
-	6. COBRA123 (3:5)<br>
-<br>
-220. #yass44 (1049) 0<br>
+217. #yass44 (1049) 0<br>
 +45|+41|+32|+27|+32|+17|+13|0<br>
 	1. SparkyPlane (1:8)<br>
-	4. holzabee86 (1:1)<br>
-	5. Fluffywolf (0:1)<br>
-	6. COBRA123 (1:8)<br>
-	7. shaidar (1:1)<br>
-	9. bandy (0:11)<br>
-	10. NaCly (0:2)<br>
+	3. holzabee86 (1:1)<br>
+	5. COBRA123 (1:8)<br>
+	8. bandy (0:3)<br>
 <br>
-221. #howdy. (1048) 0<br>
+218. #BadHawk~260 (1049) +1<br>
++32|+21|+6<br>
+	1. SparkyPlane (1:2)<br>
+	7. MAKki (0:2)<br>
+	8. bandy (1:2)<br>
+<br>
+219. #howdy. (1048) 0<br>
 +35|+18|+7<br>
 	2. croissant (1:2)<br>
-	3. Buff-Plunts (0:1)<br>
-	6. COBRA123 (0:1)<br>
-	7. shaidar (0:1)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (0:1)<br>
+	9. shaidar (0:1)<br>
 <br>
-222. #BadHawk~260 (1048) +2<br>
-+32|+21|+5<br>
-	1. SparkyPlane (1:2)<br>
-	8. MAKki (0:2)<br>
-	9. bandy (1:2)<br>
-	10. NaCly (0:2)<br>
+220. #parker12 (1048) +1<br>
++10|+1<br>
+	6. Fluffywolf (0:3)<br>
+	8. bandy (0:2)<br>
+	10. GaudyWeasel (0:2)<br>
 <br>
-223. #parker12 (1047) +1<br>
-+9<br>
-	5. Fluffywolf (0:3)<br>
-	10. NaCly (1:0)<br>
-<br>
-224. #Def_Leppard (1046) +6<br>
-+33|+27|+22|+16|+13|+1<br>
+221. #Def_Leppard (1048) +2<br>
++35|+29|+24|+18|+15|+3<br>
 	2. croissant (1:1)<br>
-	3. Buff-Plunts (2:3)<br>
-	6. COBRA123 (0:7)<br>
-	7. shaidar (1:1)<br>
-	9. bandy (1:1)<br>
+	4. Buff-Plunts (2:3)<br>
+	5. COBRA123 (0:7)<br>
+	8. bandy (1:1)<br>
 <br>
-225. #RedRegret~313 (1046) -1<br>
+222. #RedRegret~313 (1046) 0<br>
 +22|+13|-20|-20|-17|-20|-16|-14|-9|-3<br>
-	6. COBRA123 (1:8)<br>
-	10. NaCly (0:3)<br>
+	5. COBRA123 (1:8)<br>
 <br>
-226. #AlphaofTiger (1046) 0<br>
+223. #AlphaofTiger (1046) 0<br>
 +32|+27|+31|+27|+28|+29|+29|+17|+5<br>
 	2. croissant (0:3)<br>
-	5. Fluffywolf (1:1)<br>
-	6. COBRA123 (0:4)<br>
+	5. COBRA123 (0:4)<br>
+	6. Fluffywolf (1:1)<br>
 <br>
-227. #ChubbyWolf~907 (1045) 0<br>
+224. #TwistedJorge (1046) +9<br>
++41|+31|+17|+11<br>
+	4. Buff-Plunts (0:3)<br>
+	7. MAKki (1:0)<br>
+<br>
+225. #ChubbyWolf~907 (1045) 0<br>
 +36|+25|+16|+5|+6|0<br>
 	1. SparkyPlane (2:8)<br>
 	2. croissant (0:4)<br>
-	6. COBRA123 (4:10)<br>
-	10. NaCly (0:1)<br>
+	5. COBRA123 (4:10)<br>
 <br>
-228. #Nuttykazoo (1045) -1<br>
-+13|+13|+6|+15|+17|+17|+11|+6|+7|+1<br>
-	1. SparkyPlane (0:2)<br>
-	2. croissant (0:2)<br>
-	4. holzabee86 (1:4)<br>
-	5. Fluffywolf (0:3)<br>
-	6. COBRA123 (6:24)<br>
-	9. bandy (1:0)<br>
-	10. NaCly (0:2)<br>
-<br>
-229. #fadam (1044) +2<br>
-+38|+25|+16|+2<br>
-	1. SparkyPlane (3:5)<br>
-	9. bandy (1:3)<br>
-<br>
-230. #benthekill11 (1044) 0<br>
+226. #benthekill11 (1044) 0<br>
 +45|+37|+29|+5<br>
 	2. croissant (2:7)<br>
-	3. Buff-Plunts (4:9)<br>
-	4. holzabee86 (0:1)<br>
-	5. Fluffywolf (2:1)<br>
-	6. COBRA123 (1:5)<br>
+	3. holzabee86 (0:1)<br>
+	4. Buff-Plunts (4:9)<br>
+	5. COBRA123 (1:5)<br>
+	6. Fluffywolf (2:1)<br>
+	10. GaudyWeasel (0:3)<br>
 <br>
-231. #Crims0n (1043) 0<br>
-+35|+22|+16|+13|+5|+1|-1<br>
+227. #Nuttykazoo (1044) -1<br>
++12|+12|+5|+13|+16|+15|+10|+5|+6|0<br>
+	1. SparkyPlane (0:2)<br>
+	2. croissant (0:2)<br>
+	3. holzabee86 (1:4)<br>
+	5. COBRA123 (6:24)<br>
+	6. Fluffywolf (0:3)<br>
+	8. bandy (1:0)<br>
+	10. GaudyWeasel (0:1)<br>
+<br>
+228. #Crims0n (1043) 0<br>
++35|+22|+15|+12|+5|+1|-1<br>
 	2. croissant (0:4)<br>
-	3. Buff-Plunts (0:1)<br>
-	4. holzabee86 (0:3)<br>
-	6. COBRA123 (0:3)<br>
-	7. shaidar (0:3)<br>
+	3. holzabee86 (0:3)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (0:3)<br>
+	9. shaidar (0:3)<br>
+	10. GaudyWeasel (1:3)<br>
 <br>
-232. #fouadddddddd (1043) -2<br>
-+34|+27|+28|+20|+18|+12|+2|+3|0<br>
+229. #fouadddddddd (1043) 0<br>
++34|+27|+28|+20|+18|+12|+2|+2|-1<br>
 	1. SparkyPlane (0:7)<br>
-	6. COBRA123 (1:4)<br>
-	7. shaidar (1:2)<br>
-	9. bandy (0:1)<br>
-	10. NaCly (1:1)<br>
+	5. COBRA123 (1:5)<br>
+	8. bandy (0:1)<br>
+	9. shaidar (1:2)<br>
 <br>
-233. #Gungala (1041) 0<br>
+230. #Gungala (1041) 0<br>
 +21|+21|+24|+22|+27|+28|+22|+18|+12|+3<br>
-	9. bandy (0:2)<br>
+	8. bandy (0:2)<br>
 <br>
-234. #lolllll (1036) +3<br>
-+23|+21|+21|+21|+5|+8|+7|+11|+8|+3<br>
+231. #lolllll (1039) +3<br>
++24|+23|+24|+8|+11|+10|+14|+10|+6|+3<br>
 	1. SparkyPlane (0:1)<br>
 	2. croissant (0:1)<br>
-	3. Buff-Plunts (0:1)<br>
-	4. holzabee86 (0:1)<br>
-	5. Fluffywolf (2:14)<br>
-	6. COBRA123 (8:178)<br>
-	7. shaidar (1:0)<br>
-	10. NaCly (1:1)<br>
+	3. holzabee86 (0:1)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (10:197)<br>
+	6. Fluffywolf (3:15)<br>
+	9. shaidar (1:0)<br>
 <br>
-235. #capisarius (1033) 0<br>
+232. #capisarius (1033) 0<br>
 +7<br>
 	1. SparkyPlane (0:6)<br>
-	4. holzabee86 (1:1)<br>
-	5. Fluffywolf (0:5)<br>
-	9. bandy (0:2)<br>
+	3. holzabee86 (1:1)<br>
+	6. Fluffywolf (0:5)<br>
+	8. bandy (0:2)<br>
 <br>
-236. #mahone007 (1031) 0<br>
-+34|+30|+28|+22|+27|+16|+6|+2<br>
+233. #LpDaddyKk (1030) -1<br>
++23|+14|+8|+7|0<br>
+	3. holzabee86 (0:1)<br>
+	4. Buff-Plunts (0:2)<br>
+	5. COBRA123 (2:9)<br>
+<br>
+234. #mahone007 (1030) -2<br>
++33|+29|+26|+20|+25|+14|+4|+1<br>
 	1. SparkyPlane (1:1)<br>
-	5. Fluffywolf (2:5)<br>
-	7. shaidar (0:1)<br>
-	10. NaCly (1:2)<br>
+	6. Fluffywolf (2:5)<br>
+	9. shaidar (0:1)<br>
+	10. GaudyWeasel (0:1)<br>
 <br>
-237. #LpDaddyKk (1031) +3<br>
-+23|+15|+8|+8<br>
-	3. Buff-Plunts (0:2)<br>
-	4. holzabee86 (0:1)<br>
-	6. COBRA123 (2:9)<br>
-	7. shaidar (0:1)<br>
+235. #Digester (1029) +4<br>
++23|+17|+6|+3<br>
+	1. SparkyPlane (0:4)<br>
+	4. Buff-Plunts (1:1)<br>
+	5. COBRA123 (10:28)<br>
+	6. Fluffywolf (2:5)<br>
+	7. MAKki (2:2)<br>
+	8. bandy (0:5)<br>
+	9. shaidar (2:2)<br>
 <br>
-238. #Weriteneun (1028) 0<br>
+236. #Weriteneun (1028) 0<br>
 +20|+15|+11|+2|+1|+3|+2|+5<br>
 	2. croissant (0:1)<br>
-	4. holzabee86 (1:3)<br>
-	5. Fluffywolf (0:1)<br>
-	6. COBRA123 (0:1)<br>
-	8. MAKki (0:2)<br>
+	3. holzabee86 (1:3)<br>
+	5. COBRA123 (0:1)<br>
+	6. Fluffywolf (0:1)<br>
+	7. MAKki (0:2)<br>
 <br>
-239. #Digester (1025) 0<br>
-+20|+13|+2<br>
-	1. SparkyPlane (0:4)<br>
-	3. Buff-Plunts (1:1)<br>
-	5. Fluffywolf (2:5)<br>
-	6. COBRA123 (8:21)<br>
-	7. shaidar (2:2)<br>
-	8. MAKki (2:2)<br>
-	10. NaCly (1:2)<br>
-<br>
-240. #STD (1025) 0<br>
+237. #STD (1025) 0<br>
 +11|+3<br>
 	1. SparkyPlane (2:6)<br>
 	2. croissant (0:2)<br>
-	3. Buff-Plunts (0:1)<br>
-	7. shaidar (1:0)<br>
-	9. bandy (4:7)<br>
+	4. Buff-Plunts (0:1)<br>
+	8. bandy (4:7)<br>
+	9. shaidar (1:0)<br>
 <br>
-241. #achadmd (1024) +1<br>
-+21|+13|-2|0<br>
-	6. COBRA123 (0:1)<br>
-	8. MAKki (0:1)<br>
-	9. bandy (0:2)<br>
+238. #achadmd (1024) 0<br>
++21|+14|-1|0<br>
+	5. COBRA123 (0:2)<br>
+	7. MAKki (0:1)<br>
+	8. bandy (0:2)<br>
+	10. GaudyWeasel (0:2)<br>
 <br>
-242. #redonion27 (1024) 0<br>
+239. #redonion27 (1024) 0<br>
 +19|+8|-1|-1|-2<br>
-	6. COBRA123 (1:2)<br>
-	9. bandy (0:2)<br>
+	5. COBRA123 (1:2)<br>
+	8. bandy (0:2)<br>
+	10. GaudyWeasel (0:1)<br>
 <br>
-243. #LordPlsSAlot (1024) 0<br>
+240. #LordPlsSAlot (1024) 0<br>
 +19|+16|+12|0|-1<br>
 	2. croissant (1:0)<br>
-	3. Buff-Plunts (0:1)<br>
-	4. holzabee86 (0:4)<br>
-	6. COBRA123 (0:5)<br>
-	7. shaidar (1:4)<br>
-	8. MAKki (0:1)<br>
+	3. holzabee86 (0:4)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (0:5)<br>
+	7. MAKki (0:1)<br>
+	9. shaidar (1:4)<br>
 <br>
-244. #nichto (1023) 0<br>
+241. #nichto (1023) 0<br>
 +10|0|+1<br>
 	1. SparkyPlane (0:5)<br>
-	5. Fluffywolf (0:1)<br>
-	6. COBRA123 (0:5)<br>
+	5. COBRA123 (0:5)<br>
+	6. Fluffywolf (0:1)<br>
 <br>
-245. #ATSG (1022) 0<br>
+242. #ATSG (1022) 0<br>
 +27|+28|+29|+24|+12|+13|+20|+18|+12|+5<br>
 	1. SparkyPlane (2:6)<br>
 	2. croissant (0:3)<br>
-	5. Fluffywolf (1:2)<br>
-	6. COBRA123 (0:6)<br>
-	9. bandy (0:6)<br>
-	10. NaCly (0:4)<br>
+	5. COBRA123 (0:6)<br>
+	6. Fluffywolf (1:2)<br>
+	8. bandy (0:6)<br>
 <br>
-246. #QuirkyToad~911 (1022) 0<br>
+243. #QuirkyToad~911 (1022) 0<br>
 +23|+17|0<br>
-	4. holzabee86 (1:5)<br>
+	3. holzabee86 (1:5)<br>
 <br>
-247. #FlyingJoke~546 (1021) 0<br>
+244. #FlyingJoke~546 (1021) 0<br>
 +8|+1|+7<br>
 	1. SparkyPlane (1:2)<br>
-	6. COBRA123 (1:2)<br>
-	10. NaCly (0:3)<br>
+	5. COBRA123 (1:2)<br>
 <br>
-248. #TrickyBox~888 (1021) 0<br>
+245. #TrickyBox~888 (1021) 0<br>
 +7|+1|+1<br>
 	1. SparkyPlane (0:8)<br>
-	5. Fluffywolf (1:10)<br>
-	6. COBRA123 (0:8)<br>
-	7. shaidar (0:2)<br>
-	9. bandy (0:2)<br>
+	5. COBRA123 (0:8)<br>
+	6. Fluffywolf (1:10)<br>
+	8. bandy (0:2)<br>
+	9. shaidar (0:2)<br>
 <br>
-249. #omgpotato (1020) 0<br>
+246. #TiMoGeN51 (1021) +3<br>
++3<br>
+	1. SparkyPlane (0:3)<br>
+	2. croissant (1:5)<br>
+	4. Buff-Plunts (1:5)<br>
+	5. COBRA123 (1:3)<br>
+<br>
+247. #omgpotato (1020) 0<br>
 +2<br>
 	2. croissant (0:1)<br>
-	4. holzabee86 (0:2)<br>
-	5. Fluffywolf (2:3)<br>
+	3. holzabee86 (0:2)<br>
+	6. Fluffywolf (2:3)<br>
 <br>
-250. #bura3111990 (1018) 0<br>
+248. #Aerstrix (1019) +1<br>
++1<br>
+	4. Buff-Plunts (0:2)<br>
+	6. Fluffywolf (0:1)<br>
+<br>
+249. #bura3111990 (1018) 0<br>
 +5<br>
 	1. SparkyPlane (1:0)<br>
-	5. Fluffywolf (0:1)<br>
-	9. bandy (0:2)<br>
-	10. NaCly (0:1)<br>
+	6. Fluffywolf (0:1)<br>
+	8. bandy (0:2)<br>
 <br>
-251. #Aerstrix (1018) 0<br>
-0<br>
-	3. Buff-Plunts (0:2)<br>
-	5. Fluffywolf (0:1)<br>
-<br>
-252. #TiMoGeN51 (1018) 0<br>
-0<br>
-	2. croissant (1:5)<br>
-	3. Buff-Plunts (1:5)<br>
-	6. COBRA123 (1:3)<br>
-<br>
-253. #Darth-Serge (1017) 0<br>
+250. #Darth-Serge (1017) 0<br>
 +11|+13|+9|+11|+5|0<br>
 	1. SparkyPlane (1:5)<br>
-	4. holzabee86 (0:4)<br>
-	5. Fluffywolf (0:2)<br>
-	6. COBRA123 (1:5)<br>
-	9. bandy (0:2)<br>
-	10. NaCly (0:1)<br>
+	3. holzabee86 (0:4)<br>
+	5. COBRA123 (1:4)<br>
+	6. Fluffywolf (0:2)<br>
+	8. bandy (0:2)<br>
 <br>
-254. #seoirse (1017) -1<br>
-+15|+18|+24|+21|+15|+10|+7|+5|-2|-1<br>
-	1. SparkyPlane (0:10)<br>
-	5. Fluffywolf (2:3)<br>
-	6. COBRA123 (1:4)<br>
-	9. bandy (1:3)<br>
-<br>
-255. #HungryBrush~264 (1016) 0<br>
+251. #HungryBrush~264 (1016) 0<br>
 +4|+2|-2<br>
 	1. SparkyPlane (0:2)<br>
-	6. COBRA123 (1:0)<br>
-	7. shaidar (0:2)<br>
+	9. shaidar (0:1)<br>
 <br>
-256. #Vindicta11 (1016) 0<br>
+252. #Vindicta11 (1016) 0<br>
 +3|+4<br>
 	1. SparkyPlane (0:7)<br>
 	2. croissant (0:3)<br>
-	5. Fluffywolf (0:2)<br>
-	6. COBRA123 (0:3)<br>
-	7. shaidar (0:1)<br>
-	10. NaCly (0:1)<br>
+	5. COBRA123 (0:3)<br>
+	6. Fluffywolf (0:2)<br>
+	9. shaidar (0:1)<br>
 <br>
-257. #FurrySpade~690 (1015) 0<br>
+253. #FurrySpade~690 (1015) 0<br>
 +11|+1<br>
-	3. Buff-Plunts (0:1)<br>
+	4. Buff-Plunts (0:1)<br>
 <br>
-258. #marshmellow6 (1014) 0<br>
+254. #seoirse (1015) -2<br>
++14|+16|+22|+19|+13|+9|+6|+3|-4|-3<br>
+	1. SparkyPlane (0:10)<br>
+	5. COBRA123 (1:7)<br>
+	6. Fluffywolf (2:2)<br>
+	8. bandy (1:3)<br>
+<br>
+255. #marshmellow6 (1014) 0<br>
 +8|+3<br>
 	1. SparkyPlane (0:1)<br>
 	2. croissant (0:2)<br>
-	3. Buff-Plunts (3:16)<br>
-	9. bandy (0:1)<br>
+	4. Buff-Plunts (3:16)<br>
+	8. bandy (0:1)<br>
 <br>
-259. #diffler (1010) -1<br>
+256. #CalmButton~947 (1012) +5<br>
++8|+10|+5<br>
+	5. COBRA123 (3:6)<br>
+	6. Fluffywolf (0:2)<br>
+	7. MAKki (0:2)<br>
+<br>
+257. #diffler (1010) 0<br>
 -1|-1<br>
 	1. SparkyPlane (1:2)<br>
 	2. croissant (0:1)<br>
-	4. holzabee86 (0:3)<br>
-	6. COBRA123 (1:4)<br>
+	3. holzabee86 (0:3)<br>
+	5. COBRA123 (1:4)<br>
 <br>
-260. #smurfster2 (1009) 0<br>
+258. #smurfster2 (1010) 0<br>
 +8|+1<br>
 	1. SparkyPlane (0:12)<br>
 	2. croissant (1:1)<br>
-	6. COBRA123 (5:11)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (0:2)<br>
+	5. COBRA123 (5:11)<br>
+	8. bandy (0:2)<br>
+	9. shaidar (0:1)<br>
 <br>
-261. #mark76 (1008) 0<br>
+259. #ADMIN201 (1008) +11<br>
++10|-8|-16|-10|-9|-3|+2|+7|+6|0<br>
+	3. holzabee86 (0:8)<br>
+	5. COBRA123 (2:9)<br>
+	6. Fluffywolf (2:0)<br>
+	8. bandy (0:1)<br>
+<br>
+260. #mark76 (1008) 0<br>
 +11|+8|-4<br>
 	1. SparkyPlane (1:2)<br>
-	4. holzabee86 (1:2)<br>
-	5. Fluffywolf (0:7)<br>
-	6. COBRA123 (0:5)<br>
-	9. bandy (0:1)<br>
-	10. NaCly (0:1)<br>
+	3. holzabee86 (1:2)<br>
+	5. COBRA123 (0:5)<br>
+	6. Fluffywolf (0:7)<br>
+	8. bandy (0:1)<br>
+	10. GaudyWeasel (0:1)<br>
 <br>
-262. #Eq_4 (1007) 0<br>
+261. #Eq_4 (1007) 0<br>
 +8|+10|+10|+7|+8|0<br>
 	1. SparkyPlane (0:1)<br>
-	5. Fluffywolf (0:2)<br>
-	6. COBRA123 (0:10)<br>
-	9. bandy (0:1)<br>
+	5. COBRA123 (0:10)<br>
+	8. bandy (0:1)<br>
 <br>
-263. #CalmButton~947 (1007) +2<br>
-+3|+4<br>
-	5. Fluffywolf (0:2)<br>
-	8. MAKki (0:1)<br>
+262. #bikhilall (1007) +1<br>
++5|-3|+1<br>
+	3. holzabee86 (0:2)<br>
+	5. COBRA123 (0:2)<br>
+	6. Fluffywolf (1:9)<br>
+	8. bandy (2:15)<br>
 <br>
-264. #GroovyPony~361 (1006) 0<br>
+263. #GroovyPony~361 (1006) 0<br>
 -2|-4<br>
 	1. SparkyPlane (0:1)<br>
-	6. COBRA123 (0:2)<br>
-	9. bandy (0:3)<br>
+	5. COBRA123 (0:2)<br>
+	8. bandy (0:3)<br>
 <br>
-265. #bikhilall (1006) 0<br>
-+4|-4<br>
-	4. holzabee86 (0:2)<br>
-	5. Fluffywolf (0:5)<br>
-	9. bandy (2:15)<br>
-	10. NaCly (0:1)<br>
-<br>
-266. #ZestyCrush~165 (1005) 0<br>
+264. #ZestyCrush~165 (1005) 0<br>
 +19|+1|+5|+11|+14|+10<br>
 	1. SparkyPlane (0:1)<br>
-	6. COBRA123 (1:4)<br>
+	5. COBRA123 (1:4)<br>
 <br>
-267. #nmshimeall (1004) 0<br>
-0|-1|-4<br>
-	10. NaCly (0:1)<br>
-<br>
-268. #UltraCombo8 (1004) 0<br>
+265. #UltraCombo8 (1004) 0<br>
 0|-1<br>
-	6. COBRA123 (0:7)<br>
-	9. bandy (3:6)<br>
+	5. COBRA123 (0:7)<br>
+	8. bandy (3:6)<br>
 <br>
-269. #Gagunga (1003) 0<br>
+266. #Gagunga (1003) 0<br>
 +7|+6<br>
 	1. SparkyPlane (0:7)<br>
-	5. Fluffywolf (0:1)<br>
-	7. shaidar (0:2)<br>
-	10. NaCly (0:4)<br>
+	6. Fluffywolf (0:1)<br>
+	9. shaidar (0:2)<br>
 <br>
-270. #Run4eva (1002) 0<br>
+267. #Run4eva (1002) 0<br>
 +4<br>
 	2. croissant (0:2)<br>
-	6. COBRA123 (0:3)<br>
+	5. COBRA123 (0:3)<br>
 <br>
-271. #PaperBrush~298 (1002) -1<br>
-+5|+6|+5|-1<br>
+268. #PaperBrush~298 (1002) 0<br>
++5|+6|+4|-1<br>
 	1. SparkyPlane (0:3)<br>
 	2. croissant (0:1)<br>
-	3. Buff-Plunts (0:1)<br>
-	5. Fluffywolf (0:2)<br>
-	6. COBRA123 (1:4)<br>
-	9. bandy (1:2)<br>
-	10. NaCly (0:2)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (1:7)<br>
+	6. Fluffywolf (0:2)<br>
+	8. bandy (1:2)<br>
+	10. GaudyWeasel (0:2)<br>
 <br>
-272. #TaoTao100 (1000) -1<br>
--2|+4|+5|+6|+1|0|-2<br>
-	1. SparkyPlane (0:10)<br>
-	5. Fluffywolf (2:5)<br>
-	6. COBRA123 (0:1)<br>
-	7. shaidar (0:3)<br>
-	8. MAKki (0:1)<br>
-	10. NaCly (0:1)<br>
-<br>
-273. #jkoy3.1 (1000) +1<br>
+269. #jkoy3.1 (1000) 0<br>
 +31|+28|+28|+12|+3|+3|+9|+7|+8|-1<br>
 	1. SparkyPlane (0:2)<br>
 	2. croissant (0:3)<br>
-	3. Buff-Plunts (0:2)<br>
-	6. COBRA123 (0:3)<br>
-	7. shaidar (0:2)<br>
+	4. Buff-Plunts (0:2)<br>
+	5. COBRA123 (0:3)<br>
+	9. shaidar (0:2)<br>
 <br>
-274. #SneakyTrain~584 (999) 0<br>
+270. #SneakyTrain~584 (999) 0<br>
 -4|-3<br>
 	1. SparkyPlane (0:12)<br>
-	6. COBRA123 (1:5)<br>
-	10. NaCly (0:2)<br>
+	5. COBRA123 (1:5)<br>
+	10. GaudyWeasel (0:1)<br>
 <br>
-275. #gumshoe21192 (999) 0<br>
-+1<br>
-	6. COBRA123 (0:1)<br>
-	8. MAKki (0:1)<br>
-	9. bandy (0:3)<br>
-	10. NaCly (2:2)<br>
+271. #PrOoZ_MaX (999) +6<br>
++2|+6<br>
+	4. Buff-Plunts (0:2)<br>
+	5. COBRA123 (0:1)<br>
+	6. Fluffywolf (0:1)<br>
+	9. shaidar (0:2)<br>
+	10. GaudyWeasel (1:4)<br>
 <br>
-276. #GlobalWease~415 (998) 0<br>
+272. #gumshoe21192 (998) 0<br>
+0<br>
+	5. COBRA123 (0:1)<br>
+	7. MAKki (0:1)<br>
+	8. bandy (0:3)<br>
+<br>
+273. #TaoTao100 (998) -1<br>
+-3|+2|+3|+4|0|-1|-4<br>
+	1. SparkyPlane (0:10)<br>
+	5. COBRA123 (0:1)<br>
+	6. Fluffywolf (2:5)<br>
+	7. MAKki (0:1)<br>
+	8. bandy (0:4)<br>
+	9. shaidar (0:3)<br>
+<br>
+274. #roveringbas (998) +1<br>
+-1|+1|+2|+5|-1|+3<br>
+	5. COBRA123 (1:3)<br>
+	6. Fluffywolf (0:3)<br>
+<br>
+275. #GlobalWease~415 (998) 0<br>
 -1|+4|+11|+5<br>
 	1. SparkyPlane (1:1)<br>
-	6. COBRA123 (2:4)<br>
-	10. NaCly (0:1)<br>
+	5. COBRA123 (2:4)<br>
 <br>
-277. #Lord_Adwond (998) -1<br>
--2|0<br>
-	1. SparkyPlane (1:23)<br>
-	5. Fluffywolf (0:1)<br>
-	6. COBRA123 (0:2)<br>
-	9. bandy (0:7)<br>
-	10. NaCly (1:1)<br>
-<br>
-278. #SecretBrush~857 (997) 0<br>
--2<br>
-	6. COBRA123 (0:1)<br>
-<br>
-279. #roveringbas (997) +1<br>
--2|0|+1|+4|-2|+2<br>
-	5. Fluffywolf (0:3)<br>
-	6. COBRA123 (1:3)<br>
-<br>
-280. #shatnerspant (996) 0<br>
--8|0<br>
+276. #shatnerspant (997) +1<br>
+-7|+1<br>
 	1. SparkyPlane (0:6)<br>
-	5. Fluffywolf (0:2)<br>
-	6. COBRA123 (0:1)<br>
-	9. bandy (0:5)<br>
+	5. COBRA123 (1:3)<br>
+	6. Fluffywolf (1:4)<br>
+	8. bandy (0:5)<br>
 <br>
-281. #killerpanda4 (996) 0<br>
+277. #SecretBrush~857 (997) 0<br>
+-2<br>
+	5. COBRA123 (0:1)<br>
+<br>
+278. #killerpanda4 (996) 0<br>
 -2<br>
 	2. croissant (0:4)<br>
-	6. COBRA123 (0:1)<br>
-	7. shaidar (0:1)<br>
+	5. COBRA123 (0:1)<br>
+	9. shaidar (0:1)<br>
+	10. GaudyWeasel (0:2)<br>
 <br>
-282. #Duvot (995) 0<br>
-+8|+12|+10|+15|+14|+4|0<br>
+279. #Duvot (996) +1<br>
++9|+13|+11|+16|+15|+5|+1<br>
 	1. SparkyPlane (0:1)<br>
 	2. croissant (0:2)<br>
-	3. Buff-Plunts (1:8)<br>
-	4. holzabee86 (0:1)<br>
-	5. Fluffywolf (2:2)<br>
-	6. COBRA123 (0:3)<br>
-	7. shaidar (1:0)<br>
-	10. NaCly (0:3)<br>
+	3. holzabee86 (0:1)<br>
+	4. Buff-Plunts (1:8)<br>
+	5. COBRA123 (0:3)<br>
+	6. Fluffywolf (2:2)<br>
+	9. shaidar (1:0)<br>
 <br>
-283. #yoh (993) 0<br>
--3|-3<br>
-	1. SparkyPlane (1:1)<br>
-	3. Buff-Plunts (0:1)<br>
-	6. COBRA123 (0:5)<br>
-	10. NaCly (1:0)<br>
+280. #Lord_Adwond (995) -2<br>
+-5|-2<br>
+	1. SparkyPlane (1:24)<br>
+	5. COBRA123 (0:10)<br>
+	6. Fluffywolf (0:3)<br>
+	8. bandy (0:7)<br>
 <br>
-284. #PrOoZ_MaX (993) -2<br>
--4|0<br>
-	3. Buff-Plunts (0:2)<br>
-	5. Fluffywolf (0:1)<br>
-	6. COBRA123 (0:1)<br>
-	7. shaidar (0:2)<br>
-<br>
-285. #WildBird (992) -1<br>
+281. #WildBird (992) 0<br>
 -13|-10|-7|-5<br>
 	1. SparkyPlane (0:5)<br>
-	3. Buff-Plunts (0:1)<br>
-	9. bandy (0:1)<br>
-	10. NaCly (0:3)<br>
+	4. Buff-Plunts (0:1)<br>
+	8. bandy (0:1)<br>
 <br>
-286. #LoudFaucet~166 (992) 0<br>
+282. #LoudFaucet~166 (992) 0<br>
 -3<br>
 	1. SparkyPlane (0:4)<br>
-	5. Fluffywolf (1:4)<br>
-	6. COBRA123 (1:4)<br>
+	5. COBRA123 (1:4)<br>
+	6. Fluffywolf (1:4)<br>
 <br>
-287. #SquareMask~412 (992) -3<br>
--6|-7|-1<br>
-	1. SparkyPlane (2:3)<br>
-	9. bandy (0:12)<br>
-	10. NaCly (0:2)<br>
+283. #SquareMask~412 (991) -1<br>
+-7|-8|-1<br>
+	1. SparkyPlane (3:7)<br>
+	8. bandy (0:12)<br>
 <br>
-288. #sparkgaal (991) +2<br>
--6|-1|+3<br>
+284. #sparkgaal (990) -1<br>
+-6|-2|+2<br>
 	2. croissant (1:7)<br>
-	3. Buff-Plunts (1:9)<br>
-	4. holzabee86 (0:3)<br>
-	6. COBRA123 (0:8)<br>
-	7. shaidar (0:1)<br>
+	3. holzabee86 (0:3)<br>
+	4. Buff-Plunts (1:9)<br>
+	5. COBRA123 (0:8)<br>
+	9. shaidar (0:1)<br>
 <br>
-289. #sshime (989) +2<br>
+285. #sshime (989) 0<br>
 -3|+1<br>
 	2. croissant (0:2)<br>
-	7. shaidar (0:2)<br>
-	9. bandy (1:4)<br>
+	8. bandy (1:4)<br>
+	9. shaidar (0:2)<br>
 <br>
-290. #HERPES-4-YOU (987) 0<br>
--10|-2<br>
-	4. holzabee86 (0:9)<br>
-	5. Fluffywolf (0:3)<br>
-	7. shaidar (0:1)<br>
-	9. bandy (0:1)<br>
-<br>
-291. #JamesTheMan3 (986) 0<br>
+286. #JamesTheMan3 (986) 0<br>
 +13|+14|+19|+22|+21|+12|+11|+7|+10|+4<br>
 	2. croissant (1:11)<br>
-	3. Buff-Plunts (0:1)<br>
-	6. COBRA123 (3:22)<br>
-	7. shaidar (1:4)<br>
+	4. Buff-Plunts (0:1)<br>
+	5. COBRA123 (3:22)<br>
+	9. shaidar (1:4)<br>
+	10. GaudyWeasel (1:17)<br>
 <br>
-292. #ChillyDrago~607 (981) -1<br>
+287. #HERPES-4-YOU (985) -3<br>
+-13|-5|0<br>
+	3. holzabee86 (0:9)<br>
+	6. Fluffywolf (0:3)<br>
+	7. MAKki (0:2)<br>
+	8. bandy (0:1)<br>
+	9. shaidar (0:1)<br>
+<br>
+288. #ChillyDrago~607 (981) 0<br>
 -18|-13|-8|-5|-1|-1<br>
 	1. SparkyPlane (0:1)<br>
-	6. COBRA123 (1:1)<br>
-	8. MAKki (0:1)<br>
-	9. bandy (0:3)<br>
-	10. NaCly (0:1)<br>
+	5. COBRA123 (1:1)<br>
+	7. MAKki (0:1)<br>
+	8. bandy (0:3)<br>
+	10. GaudyWeasel (0:2)<br>
 <br>
-293. #STAtnyLOLatu (980) 0<br>
+289. #STAtnyLOLatu (980) 0<br>
 -22|-21|-14|-10|-7|-6|0<br>
-	6. COBRA123 (0:2)<br>
-	7. shaidar (0:1)<br>
-	8. MAKki (0:2)<br>
+	5. COBRA123 (0:2)<br>
+	7. MAKki (0:2)<br>
 <br>
-294. #NuttyShade~651 (977) -2<br>
--18|-10|-3<br>
-	3. Buff-Plunts (0:1)<br>
-	4. holzabee86 (0:2)<br>
-	7. shaidar (0:3)<br>
-	9. bandy (0:1)<br>
+290. #NuttyShade~651 (975) -2<br>
+-20|-12|-5<br>
+	3. holzabee86 (0:2)<br>
+	4. Buff-Plunts (0:1)<br>
+	7. MAKki (0:2)<br>
+	8. bandy (0:1)<br>
+	9. shaidar (0:3)<br>
 <br>
-295. #foundcat (968) 0<br>
--25|-21|-33|-34|-29|-25|-22|-19|-10<br>
-	7. shaidar (0:1)<br>
-<br>
-296. #tombib (966) +1<br>
+291. #tombib (966) 0<br>
 -19|-13|-9|-5|-5|+1|-3|-1|-1|0<br>
 	1. SparkyPlane (0:11)<br>
 	2. croissant (0:4)<br>
-	3. Buff-Plunts (0:7)<br>
-	6. COBRA123 (1:7)<br>
-	8. MAKki (0:2)<br>
-	9. bandy (1:15)<br>
-	10. NaCly (0:1)<br>
+	4. Buff-Plunts (0:7)<br>
+	5. COBRA123 (1:7)<br>
+	7. MAKki (0:2)<br>
+	8. bandy (1:15)<br>
 <br>
-297. #EQUALISER (964) 0<br>
+292. #EQUALISER (964) 0<br>
 -13|-7|0|-1|+7|+6|+1|0|0|+1<br>
 	1. SparkyPlane (0:5)<br>
-	4. holzabee86 (0:1)<br>
-	5. Fluffywolf (1:7)<br>
-	6. COBRA123 (1:3)<br>
-	8. MAKki (0:1)<br>
+	3. holzabee86 (0:1)<br>
+	5. COBRA123 (1:3)<br>
+	6. Fluffywolf (1:7)<br>
+	7. MAKki (0:1)<br>
 <br>
-298. #SoggyIcicle~968 (952) -1<br>
--37|-30|-31|-24|-19|-15|-11|-5|-1<br>
+293. #SoggyIcicle~968 (949) -3<br>
+-40|-33|-34|-27|-22|-18|-14|-8|-4<br>
 	1. SparkyPlane (0:4)<br>
 	2. croissant (0:1)<br>
-	5. Fluffywolf (0:7)<br>
-	6. COBRA123 (0:10)<br>
-	7. shaidar (0:1)<br>
-	10. NaCly (0:1)<br>
+	5. COBRA123 (0:12)<br>
+	6. Fluffywolf (0:7)<br>
+	9. shaidar (0:1)<br>
+	10. GaudyWeasel (0:2)<br>
 <br>
-299. #sundazzler20 (927) 0<br>
+294. #sundazzler20 (927) 0<br>
 -21|-20|-15|-13|-13|-15|-14|-9|-8|-1<br>
 	1. SparkyPlane (0:14)<br>
 	2. croissant (0:2)<br>
-	4. holzabee86 (0:7)<br>
-	5. Fluffywolf (0:16)<br>
-	6. COBRA123 (0:12)<br>
-	7. shaidar (2:3)<br>
-	9. bandy (1:3)<br>
-	10. NaCly (0:5)<br>
+	3. holzabee86 (0:7)<br>
+	5. COBRA123 (0:12)<br>
+	6. Fluffywolf (0:12)<br>
+	8. bandy (1:3)<br>
+	9. shaidar (2:3)<br>
+	10. GaudyWeasel (0:7)<br>
