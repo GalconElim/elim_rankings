@@ -22,7 +22,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. JDHA218 (2:1)<br>
 	8. CsAsTra (2:1)<br>
 <br>
-5. #JDHA218 (1156) -1<br>
+5. #JDHA218 (1156) 0<br>
 +39|+46|+43|+40|+27|+21|+11|+5|+2|-7<br>
 	4. dIehAppY (1:2)<br>
 	6. Reclamation- (83:116)<br>
@@ -30,13 +30,15 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. TyCho2 (14:11)<br>
 <br>
 6. #Reclamation- (1156) 0<br>
-+116|+103|+83|+54|+47|+33|+17|+17|+23|+1<br>
++116|+103|+82|+54|+47|+33|+17|+16|+23|+1<br>
 	5. JDHA218 (116:83)<br>
+	7. GoOody (0:1)<br>
 	8. CsAsTra (78:67)<br>
 	10. TyCho2 (17:15)<br>
 <br>
-7. #GoOody (1153) 0<br>
--5|-2|-11|-9|-4|-8|-5|-4|-9|0<br>
+7. #GoOody (1154) 0<br>
+-3|-1|-10|-8|-3|-6|-4|-3|-7|+2<br>
+	6. Reclamation- (1:0)<br>
 	8. CsAsTra (1:0)<br>
 	9. Spinne (27:27)<br>
 <br>
@@ -118,25 +120,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. CsAsTra (7:13)<br>
 	9. Spinne (13:21)<br>
 <br>
-18. #KANT (1108) 0<br>
-+23|+23|+19|+21|+10|+4|+8|-1|+5|+2<br>
-	1. zamrai (3:6)<br>
-	4. dIehAppY (8:6)<br>
-	5. JDHA218 (6:6)<br>
-<br>
-19. #GenghisCon (1107) -1<br>
-+6|+11|+11|+3|+2|+2|+3|0|0|-1<br>
-	1. zamrai (8:10)<br>
-	2. gamaray1719 (1:2)<br>
-	3. ifiDieitsLag (1:1)<br>
-	4. dIehAppY (39:63)<br>
-	5. JDHA218 (11:17)<br>
-	6. Reclamation- (18:31)<br>
-	7. GoOody (7:7)<br>
-	8. CsAsTra (13:15)<br>
-	9. Spinne (1:2)<br>
-<br>
-20. #NinjaBooM (1106) 0<br>
+18. #NinjaBooM (1106) 0<br>
 +8|+3|+6|-3|-1|-2|+5|0|+1|-2<br>
 	1. zamrai (8:10)<br>
 	2. gamaray1719 (7:20)<br>
@@ -145,7 +129,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. GoOody (4:0)<br>
 	8. CsAsTra (4:8)<br>
 <br>
-21. #Gyrfa1con (1104) 0<br>
+19. #GenghisCon (1105) -1<br>
++4|+9|+9|+1|0|0|+1|-2|-2|-3<br>
+	1. zamrai (8:10)<br>
+	2. gamaray1719 (1:2)<br>
+	3. ifiDieitsLag (1:1)<br>
+	4. dIehAppY (39:63)<br>
+	5. JDHA218 (11:17)<br>
+	6. Reclamation- (18:31)<br>
+	7. GoOody (7:7)<br>
+	8. CsAsTra (13:15)<br>
+<br>
+20. #Gyrfa1con (1104) 0<br>
 -13|-13|-17|-14|-8|-7|-10|-3|-4|-3<br>
 	1. zamrai (16:24)<br>
 	3. ifiDieitsLag (28:34)<br>
@@ -153,17 +148,23 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. JDHA218 (1:1)<br>
 	7. GoOody (1:1)<br>
 	8. CsAsTra (7:10)<br>
-	9. Spinne (10:7)<br>
+	9. Spinne (9:7)<br>
 <br>
-22. #mafl (1104) 0<br>
+21. #mafl (1104) 0<br>
 -14|-19|-23|-18|-13|-12|-14|-9|-8|-4<br>
 	5. JDHA218 (3:1)<br>
 	7. GoOody (0:1)<br>
 <br>
-23. #Jasem (1104) 0<br>
+22. #Jasem (1104) 0<br>
 +19|+10|-1|-3|-3|+1|0|-4|+2|-1<br>
 	5. JDHA218 (3:5)<br>
 	8. CsAsTra (9:9)<br>
+<br>
+23. #KANT (1102) 0<br>
++17|+17|+13|+15|+4|-2|+2|-7|-2|-4<br>
+	1. zamrai (3:6)<br>
+	4. dIehAppY (8:6)<br>
+	5. JDHA218 (6:6)<br>
 <br>
 24. #fifty6 (1101) 0<br>
 +81|+76|+62|+52|+50|+41|+26|+26|+14|+9<br>
@@ -187,20 +188,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Reclamation- (5:13)<br>
 	8. CsAsTra (3:8)<br>
 <br>
-27. #pablo55 (1090) 0<br>
+27. #joropo808 (1090) +2<br>
++28|+22|+18|+18|+17|+16|+7|+3|-1|0<br>
+	1. zamrai (3:11)<br>
+	2. gamaray1719 (6:11)<br>
+	4. dIehAppY (14:22)<br>
+	7. GoOody (3:5)<br>
+<br>
+28. #pablo55 (1090) 0<br>
 +46|+46|+38|+33|+26|+18|+12|+14|+14|+2<br>
 	1. zamrai (1:3)<br>
 	2. gamaray1719 (7:12)<br>
 	5. JDHA218 (16:11)<br>
 	7. GoOody (0:3)<br>
 	8. CsAsTra (9:12)<br>
-<br>
-28. #joropo808 (1088) 0<br>
-+25|+19|+15|+16|+15|+14|+5|0|-4|-3<br>
-	1. zamrai (3:11)<br>
-	2. gamaray1719 (6:11)<br>
-	4. dIehAppY (14:22)<br>
-	7. GoOody (3:5)<br>
 <br>
 29. #Parko (1088) 0<br>
 +70|+60|+60|+54|+41|+31|+17|+13|+8|+5<br>
@@ -214,8 +215,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. GoOody (1:1)<br>
 	8. CsAsTra (5:6)<br>
 <br>
-31. #Jackalope (1083) 0<br>
-+70|+58|+46|+31|+16|+18|+15|+7|+1<br>
+31. #Inspiration- (1083) 0<br>
++59|+36|+31|+15|+6<br>
+	5. JDHA218 (69:45)<br>
+	8. CsAsTra (25:19)<br>
+<br>
+32. #Jackalope (1082) 0<br>
++69|+57|+45|+30|+15|+17|+14|+5|0<br>
 	1. zamrai (26:27)<br>
 	3. ifiDieitsLag (24:25)<br>
 	6. Reclamation- (0:4)<br>
@@ -223,13 +229,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. CsAsTra (22:20)<br>
 	10. TyCho2 (2:10)<br>
 <br>
-32. #Inspiration- (1083) 0<br>
-+59|+36|+31|+15|+6<br>
-	5. JDHA218 (69:45)<br>
-	8. CsAsTra (25:19)<br>
-<br>
-33. #matty (1079) +1<br>
-+64|+52|+39|+16|+8<br>
+33. #matty (1079) 0<br>
++64|+52|+39|+16|+8|0<br>
 	1. zamrai (6:7)<br>
 	3. ifiDieitsLag (1:0)<br>
 	5. JDHA218 (0:1)<br>
@@ -288,7 +289,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Reclamation- (1:3)<br>
 	8. CsAsTra (3:3)<br>
 <br>
-41. #BenjIKoZoR (1064) -1<br>
+41. #BenjIKoZoR (1064) 0<br>
 +26|+18|+16|+18|+11|+13|+13|-3|-2|-4<br>
 	4. dIehAppY (2:8)<br>
 	5. JDHA218 (40:46)<br>
@@ -297,7 +298,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. CsAsTra (14:30)<br>
 <br>
 42. #VOSTOK (1058) 0<br>
-+22|+22|+13|+10|+7|+11|+13|+17|+12|+8<br>
++22|+22|+13|+10|+7|+12|+13|+17|+13|+9<br>
 	2. gamaray1719 (2:1)<br>
 	4. dIehAppY (10:15)<br>
 	5. JDHA218 (3:8)<br>
@@ -311,16 +312,16 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. CsAsTra (6:10)<br>
 	9. Spinne (1:0)<br>
 <br>
-44. #marijuana10 (1053) +3<br>
-+20|+17|+17|+15|+11|+7|+8|+5|0|0<br>
-	5. JDHA218 (1:0)<br>
-	7. GoOody (7:6)<br>
-<br>
-45. #MAKki (1052) -1<br>
--10|-14|-9|-5|-3|-5|-6|-2|-2|-2<br>
+44. #MAKki (1053) 0<br>
+-10|-14|-9|-5|-3|-5|-5|-1|-2|-2<br>
 	4. dIehAppY (4:8)<br>
 	6. Reclamation- (1:5)<br>
 	10. TyCho2 (7:11)<br>
+<br>
+45. #marijuana10 (1052) -2<br>
++19|+16|+16|+14|+11|+7|+8|+5|0|-1<br>
+	5. JDHA218 (1:0)<br>
+	7. GoOody (7:6)<br>
 <br>
 46. #slydog (1052) 0<br>
 +34|+27|+15|+13|+10|+5|+2|+4|-3|-5<br>
@@ -333,8 +334,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. JDHA218 (5:9)<br>
 	8. CsAsTra (0:5)<br>
 <br>
-48. #Gervi (1049) 0<br>
--12|-2|-7|-3|+1|+6|+3|+3|+7|+1<br>
+48. #Gervi (1050) 0<br>
+-11|-1|-7|-2|+1|+7|+4|+3|+8|+2<br>
 	1. zamrai (3:7)<br>
 	2. gamaray1719 (5:12)<br>
 	4. dIehAppY (12:9)<br>
@@ -416,8 +417,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	3. ifiDieitsLag (1:0)<br>
 	4. dIehAppY (4:0)<br>
 <br>
-60. #novuz (1037) 0<br>
-+21|+22|+23|+29|+20|+2|+8|+1|-5|-2<br>
+60. #novuz (1038) +1<br>
++23|+24|+24|+30|+21|+4|+9|+2|-4|-1<br>
 	1. zamrai (3:7)<br>
 <br>
 61. #SweetTooth~619 (1036) 0<br>
@@ -433,15 +434,16 @@ Recent win rates against top 10 over the past 20k matches<br>
 +33|+31|+22|+16|+9|+6<br>
 	8. CsAsTra (12:25)<br>
 <br>
-63. #DarkGalaxy~444 (1035) 0<br>
-+7<br>
-	8. CsAsTra (1:1)<br>
-<br>
-64. #warmant-116 (1035) 0<br>
+63. #warmant-116 (1035) 0<br>
 +11|+5|+5|-6|-11|-1|+1|+1|+2|+2<br>
 	1. zamrai (2:8)<br>
-	4. dIehAppY (20:29)<br>
+	4. dIehAppY (18:26)<br>
 	7. GoOody (22:31)<br>
+<br>
+64. #DarkGalaxy~444 (1035) 0<br>
++6<br>
+	7. GoOody (0:1)<br>
+	8. CsAsTra (1:1)<br>
 <br>
 65. #JazzyJam~772 (1035) 0<br>
 +19|+6<br>
@@ -545,12 +547,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. JDHA218 (3:7)<br>
 	6. Reclamation- (0:5)<br>
 <br>
-82. #balthazar- (1016) 0<br>
+82. #chILLYpotat (1018) +3<br>
++17|+17|+8<br>
+	1. zamrai (0:1)<br>
+	6. Reclamation- (0:1)<br>
+	7. GoOody (5:4)<br>
+	8. CsAsTra (0:4)<br>
+<br>
+83. #balthazar- (1016) 0<br>
 +5|+2<br>
 	5. JDHA218 (1:2)<br>
 	6. Reclamation- (0:1)<br>
 <br>
-83. #TimDebJon (1016) 0<br>
+84. #TimDebJon (1016) 0<br>
 +12|+9|+5|+7|+14|+17|+10|0|0|-1<br>
 	1. zamrai (3:4)<br>
 	4. dIehAppY (0:2)<br>
@@ -559,34 +568,27 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. GoOody (1:1)<br>
 	8. CsAsTra (5:8)<br>
 <br>
-84. #chILLYpotat (1016) 0<br>
-+14|+14|+5<br>
-	1. zamrai (0:1)<br>
-	6. Reclamation- (0:1)<br>
-	7. GoOody (5:4)<br>
-	8. CsAsTra (0:4)<br>
-<br>
 85. #BigTemper~185 (1015) 0<br>
 +8<br>
 	3. ifiDieitsLag (2:1)<br>
 	4. dIehAppY (16:7)<br>
 	6. Reclamation- (0:1)<br>
 <br>
-86. #batman7000 (1015) 0<br>
-+17|+4|-3<br>
+86. #ruBEARRx (1014) 0<br>
+-13|-13|-9|-9|-10|-14|-9|-6|-7|-7<br>
+	2. gamaray1719 (2:4)<br>
+	4. dIehAppY (5:7)<br>
+	5. JDHA218 (8:33)<br>
+	8. CsAsTra (3:9)<br>
+<br>
+87. #batman7000 (1014) -2<br>
++16|+3|-4<br>
 	1. zamrai (0:1)<br>
 	2. gamaray1719 (5:7)<br>
 	6. Reclamation- (0:1)<br>
 	7. GoOody (1:0)<br>
 	8. CsAsTra (3:6)<br>
 	10. TyCho2 (0:1)<br>
-<br>
-87. #ruBEARRx (1014) 0<br>
--13|-13|-9|-9|-10|-14|-9|-6|-7|-7<br>
-	2. gamaray1719 (2:4)<br>
-	4. dIehAppY (5:7)<br>
-	5. JDHA218 (8:33)<br>
-	8. CsAsTra (3:9)<br>
 <br>
 88. #babymetal (1014) 0<br>
 +18|+14|+4|-2|-5|-2|-3|+4|-4|-1<br>
@@ -625,7 +627,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	1. zamrai (3:8)<br>
 	3. ifiDieitsLag (2:0)<br>
 <br>
-96. #FilthyGlide~918 (1011) -1<br>
+96. #FilthyGlide~918 (1011) 0<br>
 -1<br>
 	2. gamaray1719 (0:1)<br>
 	8. CsAsTra (2:1)<br>
@@ -655,98 +657,93 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. dIehAppY (1:0)<br>
 	5. JDHA218 (0:6)<br>
 <br>
-102. #z.snafu (1006) 0<br>
--12|-8|-5|-15|-12|-4|+5|+9|+9|+6<br>
-	4. dIehAppY (4:4)<br>
-	5. JDHA218 (0:2)<br>
-<br>
-103. #Artimal_PL (1005) 0<br>
+102. #Artimal_PL (1005) 0<br>
 -3|+2|-2|+1<br>
 	4. dIehAppY (1:8)<br>
 	5. JDHA218 (3:0)<br>
 	8. CsAsTra (36:66)<br>
 	10. TyCho2 (1:1)<br>
 <br>
-104. #heynongman (1005) 0<br>
+103. #heynongman (1005) 0<br>
 +1|+4|+3|0|+8|0<br>
 	4. dIehAppY (20:35)<br>
 	5. JDHA218 (8:17)<br>
 	8. CsAsTra (5:15)<br>
 <br>
-105. #Ghazali (1004) 0<br>
+104. #Ghazali (1004) 0<br>
 -10|-5|-6|-10|-3|-6|-9|-3|-1|-1<br>
 	2. gamaray1719 (0:1)<br>
 	5. JDHA218 (2:1)<br>
 	6. Reclamation- (1:1)<br>
 	8. CsAsTra (7:14)<br>
 <br>
-106. #necrosis_24 (1004) 0<br>
+105. #necrosis_24 (1004) 0<br>
 +7|+5|0<br>
 	2. gamaray1719 (1:1)<br>
 <br>
-107. #chrispduck (1003) 0<br>
+106. #chrispduck (1003) 0<br>
 +2<br>
 	3. ifiDieitsLag (1:2)<br>
 	7. GoOody (2:3)<br>
 	8. CsAsTra (5:5)<br>
 <br>
-108. #SUPREME._ (1003) 0<br>
+107. #SUPREME._ (1003) 0<br>
 -4|-1|+2|+3|+8|+7|+7|+7|+8<br>
 	4. dIehAppY (3:7)<br>
 	7. GoOody (10:14)<br>
 	8. CsAsTra (2:3)<br>
 	9. Spinne (7:14)<br>
 <br>
-109. #theAceofGame (1002) 0<br>
+108. #theAceofGame (1002) 0<br>
 -1|+1|+2<br>
 	1. zamrai (1:1)<br>
 	2. gamaray1719 (2:4)<br>
 	5. JDHA218 (6:5)<br>
 	7. GoOody (4:6)<br>
 <br>
-110. #ChubbyPizza~629 (1002) 0<br>
+109. #ChubbyPizza~629 (1002) 0<br>
 -2<br>
 	1. zamrai (1:3)<br>
 	4. dIehAppY (3:4)<br>
 <br>
-111. #BrownPaint~258 (1002) 0<br>
+110. #BrownPaint~258 (1002) 0<br>
 +1|+2|+2<br>
 <br>
-112. #number1daddy (1002) 0<br>
+111. #number1daddy (1002) 0<br>
 +3<br>
 	1. zamrai (1:1)<br>
 	5. JDHA218 (0:2)<br>
 	7. GoOody (4:3)<br>
 	8. CsAsTra (2:6)<br>
 <br>
-113. #Matthew0898 (1001) 0<br>
+112. #Matthew0898 (1001) 0<br>
 -1<br>
 	2. gamaray1719 (1:3)<br>
 	4. dIehAppY (3:3)<br>
 	5. JDHA218 (0:1)<br>
 	6. Reclamation- (1:4)<br>
 <br>
-114. #guhdur (1001) 0<br>
+113. #guhdur (1001) 0<br>
 +1<br>
 	4. dIehAppY (10:18)<br>
 	5. JDHA218 (0:1)<br>
 <br>
-115. #_Marik_ (1000) 0<br>
+114. #_Marik_ (1000) 0<br>
 +4|+3|-5<br>
 	1. zamrai (0:1)<br>
 	4. dIehAppY (0:1)<br>
 	8. CsAsTra (1:1)<br>
 <br>
-116. #rickss (1000) 0<br>
+115. #rickss (1000) 0<br>
 +1|+3<br>
 	4. dIehAppY (1:2)<br>
 	8. CsAsTra (2:4)<br>
 <br>
-117. #xxjoshzxx (1000) 0<br>
+116. #xxjoshzxx (1000) 0<br>
 -8|-7|+2|-3<br>
 	1. zamrai (2:2)<br>
 <br>
-118. #miomonster (999) 0<br>
+117. #miomonster (999) 0<br>
 +8|+4|+5|+3<br>
 	1. zamrai (0:3)<br>
 	4. dIehAppY (1:9)<br>
@@ -754,55 +751,55 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Reclamation- (2:9)<br>
 	8. CsAsTra (9:11)<br>
 <br>
-119. #scampadour (999) 0<br>
+118. #scampadour (999) 0<br>
 +8|+3|+5<br>
 	5. JDHA218 (1:2)<br>
 	6. Reclamation- (4:5)<br>
 	8. CsAsTra (3:6)<br>
 	10. TyCho2 (1:3)<br>
 <br>
-120. #Almarcha (998) 0<br>
--1|+2|0<br>
-	1. zamrai (2:1)<br>
-	4. dIehAppY (4:2)<br>
-	8. CsAsTra (1:2)<br>
-<br>
-121. #bad.inc (998) 0<br>
+119. #bad.inc (998) 0<br>
 +10|+6|+1|+5|+2<br>
 	4. dIehAppY (2:2)<br>
 	6. Reclamation- (0:5)<br>
 	8. CsAsTra (5:7)<br>
 <br>
-122. #iceking99 (998) 0<br>
+120. #iceking99 (998) 0<br>
 -2|-5|-5|-17|-13|-3<br>
 	4. dIehAppY (0:10)<br>
 	5. JDHA218 (0:7)<br>
 	8. CsAsTra (0:1)<br>
 <br>
-123. #kinglag (997) 0<br>
+121. #Almarcha (998) 0<br>
+-2|+1|-1<br>
+	1. zamrai (2:1)<br>
+	4. dIehAppY (4:2)<br>
+	8. CsAsTra (1:2)<br>
+<br>
+122. #kinglag (997) 0<br>
 +3<br>
 	5. JDHA218 (1:2)<br>
 	7. GoOody (0:2)<br>
 <br>
-124. #krizzy (997) 0<br>
+123. #krizzy (997) 0<br>
 0|+1|+2<br>
 	4. dIehAppY (13:24)<br>
 	5. JDHA218 (8:17)<br>
 <br>
-125. #GuacNinja (997) 0<br>
+124. #GuacNinja (997) 0<br>
 +3|+9|+4|+6|-3|+8<br>
 	5. JDHA218 (7:19)<br>
 	6. Reclamation- (19:34)<br>
 	8. CsAsTra (9:11)<br>
 <br>
-126. #resistfate88 (997) 0<br>
+125. #resistfate88 (997) 0<br>
 +5|-1<br>
 	1. zamrai (0:1)<br>
 	4. dIehAppY (2:7)<br>
 	5. JDHA218 (0:4)<br>
 	8. CsAsTra (1:2)<br>
 <br>
-127. #rpk (994) 0<br>
+126. #rpk (994) 0<br>
 -18|-18|-8|-3|+8|+13|+16|+14|+13|+2<br>
 	1. zamrai (1:2)<br>
 	4. dIehAppY (0:1)<br>
@@ -811,16 +808,16 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. CsAsTra (8:20)<br>
 	9. Spinne (1:1)<br>
 <br>
-128. #zinc.de.toi (993) 0<br>
+127. #zinc.de.toi (993) 0<br>
 -4<br>
 <br>
-129. #jpwilliams32 (992) 0<br>
+128. #jpwilliams32 (992) 0<br>
 -9<br>
 <br>
-130. #mattymate (991) 0<br>
+129. #mattymate (991) 0<br>
 -5|-2<br>
 <br>
-131. #Vergilious (991) 0<br>
+130. #Vergilious (991) 0<br>
 -3|+2<br>
 	1. zamrai (0:2)<br>
 	2. gamaray1719 (1:1)<br>
@@ -829,84 +826,85 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Reclamation- (0:3)<br>
 	7. GoOody (3:4)<br>
 <br>
-132. #pldncr (990) 0<br>
--13|-10|-10|-10|-11|-11|-11|-10|-2|-1<br>
+131. #pldncr (991) 0<br>
+-12|-9|-9|-9|-10|-10|-10|-9|-1|0<br>
 	3. ifiDieitsLag (1:2)<br>
 	5. JDHA218 (2:2)<br>
 	6. Reclamation- (4:11)<br>
 	7. GoOody (3:12)<br>
 <br>
-133. #jacks0nh0le (989) 0<br>
+132. #jacks0nh0le (989) 0<br>
 -8|+3|0|-1|0<br>
 	1. zamrai (1:3)<br>
 	4. dIehAppY (1:7)<br>
 <br>
-134. #feltmountain (989) 0<br>
+133. #feltmountain (989) 0<br>
 -6|0<br>
 	4. dIehAppY (4:10)<br>
 <br>
-135. #mcboatface (988) 0<br>
+134. #mcboatface (988) 0<br>
 -7|-4<br>
 	6. Reclamation- (0:1)<br>
 <br>
-136. #VividerAphid (988) 0<br>
--13|-4|-1<br>
-	5. JDHA218 (1:4)<br>
-	6. Reclamation- (0:5)<br>
-	8. CsAsTra (9:14)<br>
-<br>
-137. #wacho789 (988) 0<br>
+135. #wacho789 (988) 0<br>
 -2<br>
 	5. JDHA218 (0:3)<br>
 <br>
-138. #Meep (987) 0<br>
+136. #Meep (987) 0<br>
 -14|-6|-8<br>
 	5. JDHA218 (1:3)<br>
 	8. CsAsTra (1:9)<br>
 	10. TyCho2 (0:1)<br>
 <br>
-139. #elNino (985) 0<br>
+137. #VividerAphid (987) 0<br>
+-14|-5|-2<br>
+	5. JDHA218 (1:4)<br>
+	6. Reclamation- (0:5)<br>
+	7. GoOody (0:3)<br>
+	8. CsAsTra (9:14)<br>
+<br>
+138. #elNino (985) 0<br>
 -6<br>
 <br>
-140. #nenad (985) 0<br>
+139. #nenad (985) 0<br>
 -9|-1<br>
 	5. JDHA218 (1:4)<br>
 	6. Reclamation- (2:13)<br>
 	8. CsAsTra (0:5)<br>
 <br>
-141. #mr.grey (983) 0<br>
+140. #mr.grey (983) 0<br>
 -5|+3|-7|-2<br>
 	5. JDHA218 (5:2)<br>
 <br>
-142. #His-Majesty (973) 0<br>
+141. #His-Majesty (973) 0<br>
 -17|-7|+2|+5|+9|+3|-3|-7|-7|-4<br>
 	1. zamrai (5:14)<br>
 	3. ifiDieitsLag (0:1)<br>
 	4. dIehAppY (6:4)<br>
 	5. JDHA218 (3:7)<br>
 <br>
-143. #lelofadel111 (973) 0<br>
+142. #lelofadel111 (973) 0<br>
 -18|-5<br>
 	5. JDHA218 (2:10)<br>
 	8. CsAsTra (6:20)<br>
 	10. TyCho2 (0:4)<br>
 <br>
-144. #HomerSimspon (966) 0<br>
+143. #HomerSimspon (966) 0<br>
 -32|-24|-12|-9<br>
 	8. CsAsTra (9:27)<br>
 <br>
-145. #pickynew (955) 0<br>
--3|-1|-6|-7|+2|-2|+1|+3|+6|-1<br>
+144. #pickynew (956) +1<br>
+-2|0|-5|-7|+3|-1|+2|+3|+6|-1<br>
 	4. dIehAppY (3:11)<br>
 <br>
-146. #sjehsan (938) 0<br>
+145. #sjehsan (938) 0<br>
 +9|+19|+29|+33|+32|+34|+34|+20|+5|+4<br>
 	1. zamrai (0:2)<br>
 	4. dIehAppY (0:1)<br>
 	8. CsAsTra (8:17)<br>
 <br>
-147. #AlGalcone (926) 0<br>
--45|-43|-40|-37|-27|-21|-19|-14|-6|-4<br>
+146. #AlGalcone (926) 0<br>
+-45|-43|-40|-38|-27|-22|-19|-15|-6|-4<br>
 	1. zamrai (0:4)<br>
 	4. dIehAppY (3:2)<br>
 	5. JDHA218 (1:4)<br>
