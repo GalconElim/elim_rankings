@@ -1,25 +1,27 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #BillY_Patro (1269) -1<br>
-+58|+46|+36|+22|+23|+14|+19|+15|+3|-2<br>
+1. #BillY_Patro (1270) 0<br>
++58|+46|+36|+22|+23|+15|+19|+16|+4|-2<br>
 	3. rickss (0:1)<br>
 	5. A-Z-SH (2:1)<br>
 	6. Milky007 (1:0)<br>
 	7. Jarre (4:1)<br>
 	8. MUF (3:4)<br>
 	9. joropo808 (1:1)<br>
+	10. Buz (0:1)<br>
 <br>
-2. #DavidIggyLou (1258) +2<br>
-+37|+38|+38|+34|+23|+15|+16|+19|+20|+16<br>
+2. #DavidIggyLou (1254) -3<br>
++34|+35|+34|+31|+20|+12|+13|+16|+17|+13<br>
 	3. rickss (0:1)<br>
 	4. NuttyJeans (4:1)<br>
-	5. A-Z-SH (1:5)<br>
+	5. A-Z-SH (0:4)<br>
+	6. Milky007 (0:1)<br>
 	7. Jarre (1:0)<br>
 	8. MUF (9:1)<br>
-	9. joropo808 (2:1)<br>
+	9. joropo808 (0:1)<br>
 <br>
-3. #rickss (1255) -2<br>
--1|-5|-3|+1|-3|+5|-3|-2|-5|-2<br>
+3. #rickss (1254) -1<br>
+-1|-6|-4|0|-3|+5|-3|-3|-6|-2<br>
 	1. BillY_Patro (1:0)<br>
 	2. DavidIggyLou (1:0)<br>
 	4. NuttyJeans (1:0)<br>
@@ -28,63 +30,78 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Jarre (2:0)<br>
 	8. MUF (5:1)<br>
 <br>
-4. #NuttyJeans (1249) 0<br>
-+10|+5|-6|-6|-11|-6|0|+1|+3|-3<br>
+4. #NuttyJeans (1250) +1<br>
++11|+6|-5|-5|-10|-5|+1|+2|+4|-2<br>
 	2. DavidIggyLou (1:4)<br>
 	3. rickss (0:1)<br>
 	5. A-Z-SH (3:1)<br>
 	8. MUF (1:1)<br>
+	10. Buz (1:0)<br>
 <br>
-5. #A-Z-SH (1223) 0<br>
-+12|+14|-6|+2|+16|+18|-1|+14|+8|+1<br>
+5. #A-Z-SH (1225) +2<br>
++14|+16|-4|+4|+18|+20|+1|+16|+10|+3<br>
 	1. BillY_Patro (1:2)<br>
-	2. DavidIggyLou (5:1)<br>
+	2. DavidIggyLou (4:0)<br>
 	3. rickss (2:2)<br>
 	4. NuttyJeans (1:3)<br>
-	6. Milky007 (7:5)<br>
+	6. Milky007 (4:3)<br>
 	7. Jarre (1:0)<br>
 	8. MUF (1:3)<br>
-	9. joropo808 (9:8)<br>
-	10. enomeno (1:1)<br>
+	9. joropo808 (9:6)<br>
+	10. Buz (4:1)<br>
 <br>
-6. #Milky007 (1214) +2<br>
-+79|+61|+61|+50|+43|+36|+33|+23|+7|+7<br>
+6. #Milky007 (1219) +5<br>
++84|+67|+66|+55|+48|+41|+38|+28|+12|+13<br>
 	1. BillY_Patro (0:1)<br>
+	2. DavidIggyLou (1:0)<br>
 	3. rickss (3:1)<br>
-	5. A-Z-SH (5:7)<br>
-	7. Jarre (2:2)<br>
+	5. A-Z-SH (3:4)<br>
+	8. MUF (1:0)<br>
+	10. Buz (0:3)<br>
 <br>
-7. #Jarre (1214) -3<br>
--5|-7|-20|-8|-13|-6|+6|0|0|+1<br>
+7. #Jarre (1216) +2<br>
+-3|-5|-18|-6|-11|-4|+8|+2|+2|+3<br>
 	1. BillY_Patro (1:4)<br>
 	2. DavidIggyLou (0:1)<br>
 	3. rickss (0:2)<br>
 	5. A-Z-SH (0:1)<br>
-	6. Milky007 (2:2)<br>
+	10. Buz (0:1)<br>
 <br>
-8. #MUF (1210) -1<br>
-+34|+33|+23|+14|+10|+5|+6|+14|+9|-1<br>
+8. #MUF (1212) +2<br>
++36|+35|+25|+16|+12|+7|+8|+16|+12|+1<br>
 	1. BillY_Patro (4:3)<br>
 	2. DavidIggyLou (1:9)<br>
 	3. rickss (1:5)<br>
 	4. NuttyJeans (1:1)<br>
 	5. A-Z-SH (3:1)<br>
-	10. enomeno (1:2)<br>
+	6. Milky007 (0:1)<br>
+	10. Buz (1:1)<br>
 <br>
-9. #joropo808 (1207) -1<br>
-+97|+77|+59|+46|+34|+10|-2|0|-1|+1<br>
+9. #joropo808 (1208) +1<br>
++98|+78|+60|+47|+35|+10|-1|+1|0|+2<br>
 	1. BillY_Patro (1:1)<br>
-	2. DavidIggyLou (1:2)<br>
-	5. A-Z-SH (8:9)<br>
-	10. enomeno (1:0)<br>
+	2. DavidIggyLou (1:0)<br>
+	5. A-Z-SH (6:9)<br>
+	10. Buz (2:2)<br>
 <br>
-10. #enomeno (1181) +4<br>
-+85|+80|+59|+59|+41|+38|+30|+8|+7|+5<br>
+10. #Buz (1189) +2<br>
++15|+13|+11|+14|+4|+8|+9|+14|+15|+8<br>
+	1. BillY_Patro (1:0)<br>
+	4. NuttyJeans (0:1)<br>
+	5. A-Z-SH (1:4)<br>
+	6. Milky007 (3:0)<br>
+	7. Jarre (1:0)<br>
+	8. MUF (1:1)<br>
+	9. joropo808 (2:2)<br>
+<br>
+11. #enomeno (1181) 0<br>
++85|+79|+58|+59|+41|+37|+30|+8|+7|+5<br>
 	5. A-Z-SH (1:1)<br>
 	8. MUF (2:1)<br>
 	9. joropo808 (0:1)<br>
+	10. Buz (3:0)<br>
 <br>
-11. #xxjoshzxx (1180) +1<br>
+12. #xxjoshzxx (1180) 0<br>
 -6|-3|+8|+2|-6|+2|-7|-15|-16|0<br>
 	1. BillY_Patro (1:0)<br>
 	4. NuttyJeans (3:1)<br>
@@ -92,36 +109,56 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Jarre (0:1)<br>
 	8. MUF (1:3)<br>
 	9. joropo808 (0:3)<br>
+	10. Buz (2:1)<br>
 <br>
-12. #skeems (1178) +2<br>
-+14|+1|0|+7|+16|+14|+14|+24|+15|+2<br>
-	1. BillY_Patro (1:0)<br>
-	2. DavidIggyLou (1:0)<br>
-	4. NuttyJeans (0:1)<br>
-	5. A-Z-SH (1:0)<br>
-	6. Milky007 (5:2)<br>
-	7. Jarre (1:2)<br>
-<br>
-13. #Tiberius88 (1178) 0<br>
--32|-37|-37|-35|-31|-29|-26|-25|-6|+1<br>
-	4. NuttyJeans (1:0)<br>
-	5. A-Z-SH (0:1)<br>
-	10. enomeno (0:1)<br>
-<br>
-14. #TangySoda~164 (1178) -10<br>
-+16|+16|+1|-3|-2|-8|-17|-24|-18|-14<br>
-	1. BillY_Patro (0:2)<br>
+13. #TangySoda~164 (1179) +1<br>
++17|+2|-2|-1|-7|-16|-23|-17|-13|-2<br>
+	1. BillY_Patro (1:3)<br>
 	2. DavidIggyLou (1:7)<br>
 	3. rickss (0:1)<br>
 	4. NuttyJeans (1:0)<br>
 	5. A-Z-SH (7:3)<br>
-	6. Milky007 (1:2)<br>
+	6. Milky007 (1:3)<br>
 	7. Jarre (2:2)<br>
 	8. MUF (0:2)<br>
 	9. joropo808 (1:0)<br>
-	10. enomeno (1:0)<br>
+	10. Buz (0:1)<br>
 <br>
-15. #z.snafu (1174) -1<br>
+14. #skeems (1179) 0<br>
++15|+2|+1|+8|+17|+15|+15|+25|+16|+3<br>
+	1. BillY_Patro (1:0)<br>
+	2. DavidIggyLou (1:0)<br>
+	4. NuttyJeans (0:1)<br>
+	5. A-Z-SH (1:0)<br>
+	6. Milky007 (5:4)<br>
+	7. Jarre (0:1)<br>
+	10. Buz (2:0)<br>
+<br>
+15. #BigTemper~185 (1178) 0<br>
++135|+93|+52|+20|+15|+14|+3<br>
+	1. BillY_Patro (2:0)<br>
+	3. rickss (1:1)<br>
+	5. A-Z-SH (1:3)<br>
+	7. Jarre (2:0)<br>
+	8. MUF (0:2)<br>
+	10. Buz (1:0)<br>
+<br>
+16. #Tiberius88 (1176) -2<br>
+-34|-39|-38|-36|-33|-31|-28|-26|-7|0<br>
+	4. NuttyJeans (1:0)<br>
+	5. A-Z-SH (0:1)<br>
+<br>
+17. #Celica (1174) +1<br>
+-11|-10|+3|+6|+9|+14|+10|+12|+6|-3<br>
+	1. BillY_Patro (1:1)<br>
+	2. DavidIggyLou (3:0)<br>
+	3. rickss (0:1)<br>
+	5. A-Z-SH (1:1)<br>
+	7. Jarre (2:4)<br>
+	8. MUF (2:2)<br>
+	9. joropo808 (1:2)<br>
+<br>
+18. #z.snafu (1174) 0<br>
 -9|+4|-5|-6|-20|-10|-5|0|+7|-3<br>
 	1. BillY_Patro (2:0)<br>
 	2. DavidIggyLou (3:2)<br>
@@ -129,30 +166,21 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. NuttyJeans (0:3)<br>
 	5. A-Z-SH (5:4)<br>
 	7. Jarre (0:1)<br>
+	10. Buz (0:2)<br>
 <br>
-16. #Celica (1173) 0<br>
--12|-10|+2|+6|+8|+13|+10|+11|+5|-4<br>
-	1. BillY_Patro (1:1)<br>
-	2. DavidIggyLou (2:0)<br>
-	3. rickss (0:1)<br>
-	5. A-Z-SH (1:1)<br>
-	7. Jarre (1:2)<br>
-	8. MUF (2:2)<br>
-	9. joropo808 (1:2)<br>
-<br>
-17. #themadox (1169) -2<br>
-+34|+23|+31|+33|+27|+20|+20|+10|-4|-3<br>
+19. #themadox (1168) -1<br>
++33|+22|+30|+32|+26|+19|+19|+9|-5|-4<br>
 	1. BillY_Patro (1:1)<br>
 	2. DavidIggyLou (1:2)<br>
 	3. rickss (1:6)<br>
-	4. NuttyJeans (3:1)<br>
-	5. A-Z-SH (0:1)<br>
+	4. NuttyJeans (1:0)<br>
 	6. Milky007 (2:2)<br>
 	7. Jarre (3:3)<br>
 	9. joropo808 (0:1)<br>
+	10. Buz (0:2)<br>
 <br>
-18. #His-Majesty (1165) +3<br>
--21|-13|-18|-11|-5|-18|-12|0|+6|+1<br>
+20. #His-Majesty (1167) +2<br>
+-19|-11|-16|-10|-4|-16|-10|+2|+8|+3<br>
 	1. BillY_Patro (2:7)<br>
 	2. DavidIggyLou (7:20)<br>
 	3. rickss (0:5)<br>
@@ -162,20 +190,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Jarre (4:5)<br>
 	8. MUF (3:5)<br>
 	9. joropo808 (3:0)<br>
-	10. enomeno (2:2)<br>
+	10. Buz (1:2)<br>
 <br>
-19. #dfyyxy (1162) 0<br>
--13|-19|-12|+7|+9|+5|+3|+7|+8|+5<br>
+21. #dfyyxy (1163) 0<br>
+-12|-19|-11|+7|+9|+5|+3|+7|+8|+5<br>
 	1. BillY_Patro (1:0)<br>
 	2. DavidIggyLou (1:1)<br>
 	3. rickss (1:1)<br>
 	6. Milky007 (0:1)<br>
 	7. Jarre (0:3)<br>
 	8. MUF (0:1)<br>
-	10. enomeno (0:1)<br>
+	10. Buz (2:3)<br>
 <br>
-20. #jerocco (1154) +3<br>
--11|+6|+2|-3|+1|-4|-9|-19|0|+1<br>
+22. #jerocco (1159) +5<br>
+-6|+11|+7|+2|+6|+1|-4|-14|+5|+6<br>
 	3. rickss (1:1)<br>
 	4. NuttyJeans (1:3)<br>
 	5. A-Z-SH (2:7)<br>
@@ -183,42 +211,53 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Jarre (0:4)<br>
 	8. MUF (1:1)<br>
 	9. joropo808 (0:1)<br>
-	10. enomeno (1:3)<br>
+	10. Buz (3:1)<br>
 <br>
-21. #firejane (1152) 0<br>
+23. #firejane (1152) 0<br>
 +116|+97|+71|+46|+33|+16|+5|+1<br>
 	1. BillY_Patro (6:7)<br>
 	2. DavidIggyLou (4:5)<br>
 	3. rickss (6:4)<br>
-	5. A-Z-SH (5:11)<br>
-	7. Jarre (3:7)<br>
+	5. A-Z-SH (4:10)<br>
+	7. Jarre (2:6)<br>
 	8. MUF (4:0)<br>
 	9. joropo808 (0:3)<br>
-	10. enomeno (13:9)<br>
+	10. Buz (0:3)<br>
 <br>
-22. #TidyFox-415 (1148) -1<br>
-+122|+77|+49|+50|+32|+26|+12|-2|0|-4<br>
+24. #TidyFox-415 (1146) -2<br>
++120|+75|+46|+47|+30|+23|+9|-5|-3|-7<br>
 	1. BillY_Patro (0:1)<br>
 	3. rickss (0:2)<br>
 	5. A-Z-SH (2:7)<br>
 	7. Jarre (2:1)<br>
 <br>
-23. #slowzx (1146) 0<br>
+25. #slowzx (1146) 0<br>
 +127|+108|+83|+65|+25|+5<br>
 	2. DavidIggyLou (0:3)<br>
-	5. A-Z-SH (18:2)<br>
+	5. A-Z-SH (18:1)<br>
 	6. Milky007 (0:1)<br>
 	8. MUF (1:0)<br>
 	9. joropo808 (1:2)<br>
 <br>
-24. #mahone007 (1141) +3<br>
--5|-7|-10|-2|+3|+4|-4|-8|+3|+11<br>
+26. #BDAT10 (1144) +8<br>
++15|+13|+6|+9|+8|-7|-1|+5|+6|+6<br>
+	1. BillY_Patro (3:3)<br>
+	2. DavidIggyLou (1:2)<br>
+	3. rickss (2:0)<br>
+	4. NuttyJeans (2:1)<br>
+	7. Jarre (0:1)<br>
+	8. MUF (0:7)<br>
+	9. joropo808 (0:3)<br>
+	10. Buz (2:0)<br>
+<br>
+27. #mahone007 (1142) +1<br>
+-4|-6|-10|-2|+3|+5|-4|-8|+3|+11<br>
 	1. BillY_Patro (0:1)<br>
 	2. DavidIggyLou (0:1)<br>
-	4. NuttyJeans (0:6)<br>
+	4. NuttyJeans (0:5)<br>
 	8. MUF (5:7)<br>
 <br>
-25. #smurfa (1140) 0<br>
+28. #smurfa (1140) 0<br>
 +28|+21|+14|+15|+4|-9|-11|-6|-3|+3<br>
 	1. BillY_Patro (0:1)<br>
 	2. DavidIggyLou (1:0)<br>
@@ -228,53 +267,53 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MUF (1:0)<br>
 	9. joropo808 (2:1)<br>
 <br>
-26. #BDAT10 (1136) +1<br>
-+15|+7|+5|-2|+1|0|-14|-9|-3|-1<br>
-	1. BillY_Patro (3:3)<br>
-	2. DavidIggyLou (1:2)<br>
-	3. rickss (2:0)<br>
-	4. NuttyJeans (2:1)<br>
-	7. Jarre (0:1)<br>
-	8. MUF (0:7)<br>
-	9. joropo808 (0:3)<br>
-	10. enomeno (1:1)<br>
-<br>
-27. #thereason (1128) 0<br>
-+20|+8|+2|-2|+1|-6|+4|+11|+10|-1<br>
-	2. DavidIggyLou (1:1)<br>
-	4. NuttyJeans (3:1)<br>
-	5. A-Z-SH (1:2)<br>
-	10. enomeno (1:0)<br>
-<br>
-28. #Lasman (1125) +2<br>
-+105|+95|+75|+59|+41|+21|+9<br>
-	1. BillY_Patro (0:2)<br>
-	2. DavidIggyLou (0:2)<br>
-	5. A-Z-SH (6:2)<br>
-	6. Milky007 (0:1)<br>
-	7. Jarre (1:0)<br>
-	8. MUF (0:2)<br>
-	10. enomeno (1:3)<br>
-<br>
-29. #rotzo (1124) -1<br>
-+95|+91|+72|+55|+41|+16|+18|+18|+10|+2<br>
-	2. DavidIggyLou (1:0)<br>
+29. #rotzo (1127) +3<br>
++98|+94|+75|+58|+44|+19|+21|+21|+13|+5<br>
+	2. DavidIggyLou (2:0)<br>
 	6. Milky007 (1:1)<br>
 	7. Jarre (0:8)<br>
 	9. joropo808 (2:4)<br>
-	10. enomeno (0:3)<br>
 <br>
-30. #collins20 (1123) 0<br>
+30. #thereason (1126) -2<br>
++18|+6|0|-4|-1|-8|+2|+10|+8|-3<br>
+	2. DavidIggyLou (1:1)<br>
+	4. NuttyJeans (3:1)<br>
+	5. A-Z-SH (1:2)<br>
+	10. Buz (3:4)<br>
+<br>
+31. #meltedcheese (1124) +7<br>
++18|+20|+23|+35|+33|+41|+45|+44|+26|+4<br>
+	1. BillY_Patro (1:1)<br>
+	2. DavidIggyLou (0:3)<br>
+	4. NuttyJeans (0:2)<br>
+	5. A-Z-SH (0:2)<br>
+	6. Milky007 (1:4)<br>
+	7. Jarre (0:2)<br>
+	8. MUF (1:0)<br>
+	9. joropo808 (0:1)<br>
+	10. Buz (1:2)<br>
+<br>
+32. #Lasman (1123) -2<br>
++103|+94|+74|+57|+39|+19|+7<br>
+	1. BillY_Patro (0:2)<br>
+	2. DavidIggyLou (0:2)<br>
+	5. A-Z-SH (6:2)<br>
+	6. Milky007 (1:2)<br>
+	7. Jarre (1:0)<br>
+	8. MUF (0:2)<br>
+	10. Buz (0:1)<br>
+<br>
+33. #collins20 (1123) 0<br>
 +94|+72|+50|+26|+20|+19|-1<br>
-	1. BillY_Patro (0:3)<br>
+	1. BillY_Patro (0:2)<br>
 	4. NuttyJeans (1:0)<br>
-	6. Milky007 (0:2)<br>
-	7. Jarre (1:3)<br>
-	8. MUF (2:0)<br>
+	6. Milky007 (0:1)<br>
+	7. Jarre (0:1)<br>
+	8. MUF (2:1)<br>
 <br>
-31. #MushyRam~673 (1118) 0<br>
+34. #MushyRam~673 (1118) 0<br>
 +68|+59|+45|+24|+14|+16|+14|+21|+13|-2<br>
-	1. BillY_Patro (3:2)<br>
+	1. BillY_Patro (2:2)<br>
 	2. DavidIggyLou (2:4)<br>
 	3. rickss (0:3)<br>
 	4. NuttyJeans (2:0)<br>
@@ -282,73 +321,61 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Milky007 (2:3)<br>
 	8. MUF (1:3)<br>
 	9. joropo808 (0:1)<br>
+	10. Buz (0:1)<br>
 <br>
-32. #meltedcheese (1117) +7<br>
-+15|+11|+13|+16|+28|+27|+34|+39|+37|+19<br>
-	1. BillY_Patro (1:1)<br>
-	2. DavidIggyLou (0:3)<br>
-	4. NuttyJeans (0:2)<br>
-	5. A-Z-SH (0:2)<br>
-	6. Milky007 (1:2)<br>
-	7. Jarre (0:2)<br>
-	8. MUF (1:0)<br>
-	9. joropo808 (0:1)<br>
-	10. enomeno (2:4)<br>
+35. #V01Dfuzz (1111) +11<br>
++84|+50|+39|+11|+5<br>
+	1. BillY_Patro (1:4)<br>
+	2. DavidIggyLou (1:1)<br>
+	4. NuttyJeans (1:0)<br>
+	5. A-Z-SH (2:0)<br>
+	7. Jarre (0:4)<br>
+	8. MUF (1:7)<br>
+	9. joropo808 (3:0)<br>
+	10. Buz (0:1)<br>
 <br>
-33. #benjamin1981 (1110) +7<br>
-+96|+75|+67|+45|+21|+18|+22|+9<br>
+36. #benjamin1981 (1110) -1<br>
++95|+74|+66|+45|+21|+17|+21|+8<br>
 	1. BillY_Patro (1:2)<br>
 	2. DavidIggyLou (0:1)<br>
 	3. rickss (1:3)<br>
 	4. NuttyJeans (0:2)<br>
 	5. A-Z-SH (0:5)<br>
-	6. Milky007 (0:1)<br>
+	6. Milky007 (0:2)<br>
 	7. Jarre (1:0)<br>
 	8. MUF (0:1)<br>
 	9. joropo808 (0:1)<br>
-	10. enomeno (0:2)<br>
 <br>
-34. #Crispo (1105) 0<br>
-+107|+90|+64|+53|+42|+27|+13|-2<br>
+37. #Crispo (1107) +2<br>
++109|+91|+66|+54|+44|+29|+15|0<br>
 	1. BillY_Patro (0:2)<br>
 	4. NuttyJeans (1:4)<br>
 	5. A-Z-SH (1:1)<br>
-	6. Milky007 (0:1)<br>
+	6. Milky007 (0:2)<br>
 	8. MUF (0:3)<br>
-	10. enomeno (0:1)<br>
 <br>
-35. #SnatchWeasel (1103) +9<br>
+38. #SnatchWeasel (1103) 0<br>
 +94|+67|+48|+29|+4<br>
-	2. DavidIggyLou (0:2)<br>
-	5. A-Z-SH (1:4)<br>
+	2. DavidIggyLou (0:1)<br>
+	5. A-Z-SH (1:2)<br>
 	7. Jarre (1:1)<br>
 	8. MUF (1:0)<br>
-	9. joropo808 (1:2)<br>
+	9. joropo808 (1:4)<br>
+	10. Buz (0:2)<br>
 <br>
-36. #V01Dfuzz (1100) -1<br>
-+73|+39|+28|0<br>
-	1. BillY_Patro (1:2)<br>
-	2. DavidIggyLou (1:1)<br>
-	4. NuttyJeans (2:0)<br>
-	5. A-Z-SH (3:0)<br>
-	7. Jarre (0:4)<br>
-	8. MUF (1:7)<br>
-	9. joropo808 (3:3)<br>
-	10. enomeno (1:3)<br>
-<br>
-37. #elNino (1095) +11<br>
-+76|+43|+32<br>
+39. #elNino (1094) -1<br>
++75|+42|+31<br>
 	1. BillY_Patro (1:2)<br>
 	2. DavidIggyLou (6:7)<br>
 	3. rickss (0:2)<br>
-	5. A-Z-SH (3:2)<br>
+	5. A-Z-SH (2:2)<br>
 	6. Milky007 (0:3)<br>
 	7. Jarre (2:3)<br>
 	8. MUF (1:0)<br>
 	9. joropo808 (1:2)<br>
-	10. enomeno (3:1)<br>
+	10. Buz (1:0)<br>
 <br>
-38. #FreeForAll-- (1092) 0<br>
+40. #FreeForAll-- (1092) 0<br>
 +34<br>
 	2. DavidIggyLou (1:4)<br>
 	4. NuttyJeans (1:0)<br>
@@ -356,37 +383,21 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Jarre (1:0)<br>
 	8. MUF (0:2)<br>
 	9. joropo808 (1:1)<br>
-	10. enomeno (0:1)<br>
+	10. Buz (2:1)<br>
 <br>
-39. #pantalones (1086) +1<br>
-+57|+27<br>
+41. #pantalones (1091) +5<br>
++62|+32<br>
 	3. rickss (1:1)<br>
 	4. NuttyJeans (0:2)<br>
 	5. A-Z-SH (1:0)<br>
 	6. Milky007 (1:0)<br>
 	7. Jarre (0:1)<br>
 	8. MUF (1:0)<br>
+	9. joropo808 (1:0)<br>
+	10. Buz (1:4)<br>
 <br>
-40. #Olliec (1083) -4<br>
-+43|+33|+41|+29|+19|+26|+16|-8|-6|-12<br>
-	1. BillY_Patro (0:3)<br>
-	3. rickss (4:3)<br>
-	5. A-Z-SH (2:4)<br>
-	6. Milky007 (4:4)<br>
-	7. Jarre (0:2)<br>
-	10. enomeno (2:5)<br>
-<br>
-41. #JSU332017 (1080) +8<br>
-+62|+37|+37|+11<br>
-	3. rickss (3:2)<br>
-	4. NuttyJeans (4:1)<br>
-	5. A-Z-SH (0:3)<br>
-	8. MUF (1:1)<br>
-	9. joropo808 (2:2)<br>
-	10. enomeno (0:2)<br>
-<br>
-42. #Jigaboo3 (1080) 0<br>
-+57|+43|+27|+19|+4<br>
+42. #Jigaboo3 (1083) +3<br>
++60|+46|+30|+22|+7<br>
 	1. BillY_Patro (0:1)<br>
 	2. DavidIggyLou (0:1)<br>
 	3. rickss (1:0)<br>
@@ -397,32 +408,40 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MUF (0:1)<br>
 	9. joropo808 (1:3)<br>
 <br>
-43. #popeye (1075) -1<br>
-+67|+54|+41|+18<br>
+43. #JSU332017 (1080) 0<br>
++63|+38|+37|+11<br>
+	3. rickss (3:2)<br>
+	4. NuttyJeans (4:1)<br>
+	5. A-Z-SH (0:2)<br>
+	8. MUF (1:1)<br>
+	9. joropo808 (2:2)<br>
+<br>
+44. #Olliec (1079) -4<br>
++39|+30|+37|+26|+15|+22|+12|-11|-10|-16<br>
+	1. BillY_Patro (0:3)<br>
+	3. rickss (4:3)<br>
+	5. A-Z-SH (2:4)<br>
+	6. Milky007 (4:4)<br>
+	7. Jarre (0:2)<br>
+	10. Buz (2:2)<br>
+<br>
+45. #popeye (1078) +3<br>
++70|+57|+44|+21|0<br>
 	2. DavidIggyLou (0:3)<br>
 	4. NuttyJeans (0:1)<br>
 	5. A-Z-SH (1:1)<br>
 	6. Milky007 (1:0)<br>
 	8. MUF (1:1)<br>
-	10. enomeno (1:0)<br>
 <br>
-44. #MistyWing~956 (1074) -4<br>
-+57|+44|+17|-4<br>
-	2. DavidIggyLou (4:2)<br>
-	3. rickss (1:6)<br>
-	5. A-Z-SH (0:2)<br>
-	7. Jarre (1:2)<br>
-<br>
-45. #SlickErmine~247 (1071) -1<br>
-+15|+27|+21|+25|+17|+13|-1|-3|-6|+2<br>
-	2. DavidIggyLou (2:6)<br>
-	4. NuttyJeans (2:0)<br>
+46. #SlickErmine~247 (1071) -1<br>
++14|+26|+20|+24|+16|+12|-2|-4|-7|+1<br>
+	2. DavidIggyLou (1:6)<br>
 	6. Milky007 (0:1)<br>
 	7. Jarre (0:1)<br>
 	8. MUF (3:0)<br>
 	9. joropo808 (1:5)<br>
 <br>
-46. #BrightSpruc~816 (1070) 0<br>
+47. #BrightSpruc~816 (1070) 0<br>
 +50|+48|+50|+48|+43|+25|+12|+13|+2|+2<br>
 	2. DavidIggyLou (1:2)<br>
 	3. rickss (0:1)<br>
@@ -430,23 +449,24 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. A-Z-SH (10:34)<br>
 	8. MUF (0:1)<br>
 	9. joropo808 (0:2)<br>
+	10. Buz (0:1)<br>
 <br>
-47. #ShaggyLemon~765 (1065) 0<br>
+48. #ShaggyLemon~765 (1065) 0<br>
 +38|+6<br>
 	2. DavidIggyLou (0:3)<br>
-	5. A-Z-SH (11:6)<br>
+	5. A-Z-SH (6:3)<br>
 	9. joropo808 (0:4)<br>
+	10. Buz (3:1)<br>
 <br>
-48. #FenixTheWar (1062) +7<br>
+49. #FenixTheWar (1062) 0<br>
 +35|+11<br>
 	2. DavidIggyLou (0:1)<br>
 	3. rickss (6:0)<br>
 	4. NuttyJeans (1:1)<br>
 	7. Jarre (2:0)<br>
 	8. MUF (0:2)<br>
-	10. enomeno (1:1)<br>
 <br>
-49. #LavishTalon~935 (1055) 0<br>
+50. #LavishTalon~935 (1055) 0<br>
 +42|+23|+13<br>
 	1. BillY_Patro (0:1)<br>
 	2. DavidIggyLou (0:1)<br>
@@ -454,18 +474,9 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. A-Z-SH (3:2)<br>
 	6. Milky007 (2:4)<br>
 	8. MUF (5:2)<br>
-	10. enomeno (6:6)<br>
 <br>
-50. #winkwink (1042) +7<br>
-+12<br>
-	1. BillY_Patro (1:2)<br>
-	5. A-Z-SH (0:1)<br>
-	6. Milky007 (0:1)<br>
-	7. Jarre (1:0)<br>
-	9. joropo808 (0:1)<br>
-<br>
-51. #FlatBottle~955 (1040) 0<br>
-+12|+6<br>
+51. #FlatBottle~955 (1042) +2<br>
++14|+8<br>
 	1. BillY_Patro (0:3)<br>
 	2. DavidIggyLou (3:1)<br>
 	5. A-Z-SH (2:0)<br>
@@ -473,21 +484,21 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MUF (0:1)<br>
 	9. joropo808 (0:1)<br>
 <br>
-52. #DryMango~917 (1037) +1<br>
-+35|+18<br>
+52. #ParaDroid72 (1041) +5<br>
++28|+15|+5<br>
+	3. rickss (0:2)<br>
+	6. Milky007 (1:1)<br>
+	7. Jarre (1:2)<br>
+	8. MUF (0:2)<br>
+<br>
+53. #DryMango~917 (1039) +2<br>
++38|+20<br>
 	1. BillY_Patro (0:1)<br>
 	2. DavidIggyLou (0:3)<br>
 	3. rickss (2:3)<br>
 	4. NuttyJeans (0:1)<br>
 	5. A-Z-SH (3:3)<br>
 	8. MUF (0:3)<br>
-<br>
-53. #ParaDroid72 (1036) -1<br>
-+22|+9|0<br>
-	3. rickss (0:2)<br>
-	6. Milky007 (1:1)<br>
-	7. Jarre (1:2)<br>
-	8. MUF (0:2)<br>
 <br>
 54. #ModernAuror~375 (1034) 0<br>
 +26|+1<br>
@@ -497,15 +508,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Milky007 (2:1)<br>
 	7. Jarre (5:2)<br>
 	8. MUF (0:2)<br>
-	10. enomeno (2:4)<br>
+	10. Buz (0:2)<br>
 <br>
-55. #fadam (1027) +4<br>
+55. #fadam (1027) 0<br>
 +22|+3<br>
 	5. A-Z-SH (2:0)<br>
 	9. joropo808 (0:1)<br>
-	10. enomeno (1:0)<br>
 <br>
-56. #renzor (1027) +8<br>
+56. #renzor (1027) 0<br>
 +19|+13<br>
 	2. DavidIggyLou (0:1)<br>
 	3. rickss (1:1)<br>
@@ -515,7 +525,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MUF (1:2)<br>
 	9. joropo808 (2:1)<br>
 <br>
-57. #SpiffySnail~867 (1026) +2<br>
+57. #SpiffySnail~867 (1026) 0<br>
 +15|+5<br>
 	1. BillY_Patro (0:2)<br>
 	2. DavidIggyLou (1:2)<br>
@@ -523,9 +533,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. A-Z-SH (0:1)<br>
 	6. Milky007 (1:0)<br>
 	9. joropo808 (1:0)<br>
-	10. enomeno (1:9)<br>
 <br>
-58. #KITTEH11 (1025) -1<br>
+58. #KITTEH11 (1025) 0<br>
 +22|+7<br>
 	2. DavidIggyLou (0:1)<br>
 	3. rickss (1:6)<br>
@@ -534,19 +543,22 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MUF (19:36)<br>
 <br>
 59. #HazyStrike~280 (1016) 0<br>
-+12|-1<br>
++11|-1<br>
 	3. rickss (0:5)<br>
 	4. NuttyJeans (2:0)<br>
+	6. Milky007 (0:1)<br>
 	8. MUF (0:3)<br>
 	9. joropo808 (1:1)<br>
+	10. Buz (1:3)<br>
 <br>
-60. #WiseBoat~137 (1015) -1<br>
-+13|+5<br>
+60. #WiseBoat~137 (1016) +2<br>
++14|+6|+1<br>
 	1. BillY_Patro (0:1)<br>
 	2. DavidIggyLou (1:6)<br>
 	3. rickss (0:1)<br>
 	4. NuttyJeans (0:1)<br>
 	5. A-Z-SH (0:1)<br>
-	6. Milky007 (0:5)<br>
+	6. Milky007 (0:6)<br>
 	8. MUF (2:1)<br>
 	9. joropo808 (1:0)<br>
+	10. Buz (1:2)<br>
