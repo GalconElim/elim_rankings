@@ -182,7 +182,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. spaceycarrot (5:6)<br>
 	10. topisagirl (19:19)<br>
 <br>
-18. #qUidNovI (1171) +1<br>
+18. #qUidNovI (1171) 0<br>
 +6|+5|+6|+10|+13|+10|+7|+4|+6|-3<br>
 	1. Parko (171:196)<br>
 	2. sirgrapeLot (22:20)<br>
@@ -195,7 +195,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. spaceycarrot (161:176)<br>
 	10. topisagirl (361:407)<br>
 <br>
-19. #pablo55 (1169) -1<br>
+19. #pablo55 (1169) 0<br>
 +19|+17|+13|+10|+10|+9|+7|+8|+2|+1<br>
 	1. Parko (43:48)<br>
 	2. sirgrapeLot (6:5)<br>
@@ -208,7 +208,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. spaceycarrot (48:51)<br>
 	10. topisagirl (104:90)<br>
 <br>
-20. #ss0317 (1167) -1<br>
+20. #ss0317 (1167) 0<br>
 +4|+9|+11|+9|0|-2|-5|-3|+1|0<br>
 	1. Parko (10:10)<br>
 	2. sirgrapeLot (3:4)<br>
@@ -422,7 +422,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. spaceycarrot (9:2)<br>
 	10. topisagirl (7:3)<br>
 <br>
-41. #croissant (1117) -1<br>
+41. #croissant (1117) 0<br>
 +33|+28|+28|+22|+12|+3|0|+2|-1|-1<br>
 	1. Parko (22:24)<br>
 	2. sirgrapeLot (3:5)<br>
@@ -434,8 +434,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. spaceycarrot (0:2)<br>
 	10. topisagirl (3:10)<br>
 <br>
-42. #Gervi (1115) 0<br>
-+12|+12|+14|+9|+15|+17|+11|+6|0|+5<br>
+42. #Gervi (1115) -1<br>
++12|+11|+13|+9|+15|+17|+11|+5|-1|+5<br>
 	1. Parko (26:52)<br>
 	2. sirgrapeLot (2:1)<br>
 	3. Enlights (51:56)<br>
@@ -704,7 +704,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Vadim1707 (15:17)<br>
 	9. spaceycarrot (12:12)<br>
 <br>
-67. #Mutation- (1053) +1<br>
+67. #Mutation- (1053) 0<br>
 +48|+34|+24|+22|+4|-5<br>
 	1. Parko (5:9)<br>
 	3. Enlights (5:5)<br>
@@ -753,7 +753,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. spaceycarrot (13:26)<br>
 	10. topisagirl (21:16)<br>
 <br>
-72. #Orbiter (1048) +1<br>
+72. #Orbiter (1048) 0<br>
 +34|+26|+23|+21|+21|+20|+21|+12|+2|-2<br>
 	1. Parko (4:7)<br>
 	3. Enlights (4:9)<br>
@@ -803,7 +803,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. spaceycarrot (19:24)<br>
 	10. topisagirl (17:17)<br>
 <br>
-77. #GenghisCon (1040) +2<br>
+77. #GenghisCon (1040) 0<br>
 -20|-17|-11|-7|-10|-8|-5|-5|-2|-1<br>
 	1. Parko (25:47)<br>
 	2. sirgrapeLot (15:16)<br>
@@ -871,7 +871,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. spaceycarrot (2:5)<br>
 	10. topisagirl (2:1)<br>
 <br>
-85. #NeCrosis_24 (1033) 0<br>
+85. #necrosis_24 (1033) 0<br>
 +8|+7|+3|+9|+1|-8|-10|-6|-4|-7<br>
 	4. MadDookie (13:25)<br>
 	6. JDHA218 (6:8)<br>
@@ -1480,14 +1480,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Captain-Levi (0:1)<br>
 	10. topisagirl (2:3)<br>
 <br>
-156. #mr.grey (1001) 0<br>
+156. #googooman (1001) 0<br>
+-1<br>
+	4. MadDookie (6:8)<br>
+	9. spaceycarrot (4:3)<br>
+	10. topisagirl (4:4)<br>
+<br>
+157. #mr.grey (1001) 0<br>
 +4|+6|+12<br>
 	1. Parko (0:6)<br>
 	4. MadDookie (36:43)<br>
 	6. JDHA218 (34:29)<br>
 	10. topisagirl (6:18)<br>
 <br>
-157. #Reductive (1001) 0<br>
+158. #Reductive (1001) 0<br>
 +19|+18|+19|+25|+29|+23|+13|+6|-2|0<br>
 	1. Parko (22:23)<br>
 	3. Enlights (29:30)<br>
@@ -1497,12 +1503,6 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Captain-Levi (0:1)<br>
 	9. spaceycarrot (3:5)<br>
 	10. topisagirl (24:31)<br>
-<br>
-158. #googooman (1000) 0<br>
--1<br>
-	4. MadDookie (6:8)<br>
-	9. spaceycarrot (4:3)<br>
-	10. topisagirl (4:4)<br>
 <br>
 159. #StUfF-PluF (1000) 0<br>
 +1|-1<br>
@@ -1919,7 +1919,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	3. Enlights (1:6)<br>
 	4. MadDookie (5:12)<br>
 <br>
-209. #Cosimia (976) -2<br>
+209. #Cosimia (976) 0<br>
 -10|-14|-5|-1<br>
 	1. Parko (0:1)<br>
 	2. sirgrapeLot (2:6)<br>
@@ -2050,7 +2050,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (3:8)<br>
 	9. spaceycarrot (1:4)<br>
 <br>
-224. #arviiid (963) -1<br>
+224. #arviiid (963) 0<br>
 -27|-22|-7|-4<br>
 	1. Parko (4:12)<br>
 	4. MadDookie (17:42)<br>
@@ -2164,7 +2164,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. spaceycarrot (1:2)<br>
 	10. topisagirl (26:33)<br>
 <br>
-236. #AlGalcone (939) +1<br>
+236. #AlGalcone (939) 0<br>
 -49|-44|-42|-39|-43|-26|-17|-12|-12|-2<br>
 	1. Parko (2:5)<br>
 	3. Enlights (1:1)<br>
