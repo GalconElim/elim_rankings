@@ -1,16 +1,16 @@
 Recent win rates against top 10 over the past 21 days<br>
 <br>
-1. #Artimal_PL (1258) 0<br>
--11|-11|-14|-12|-11|0|-1|-1|+3|-2<br>
+1. #Artimal_PL (1254) -2<br>
+-16|-19|-17|-15|-4|-5|-5|-1|-6|+1<br>
 	2. Disciplina (2:3)<br>
 	3. croissant (3:1)<br>
 	4. Xoi (0:4)<br>
 	7. sirgrapeLot (3:1)<br>
 	9. someOnh (6:7)<br>
-	10. supiorlemon (5:1)<br>
+	10. SupiorLemon (5:3)<br>
 <br>
-2. #Disciplina (1242) 0<br>
-+8|+1|+13|+5|+3|-2|-7|-9|-17|-11<br>
+2. #Disciplina (1245) +4<br>
++4|+17|+9|+6|+1|-3|-5|-14|-7|+1<br>
 	1. Artimal_PL (3:2)<br>
 	3. croissant (1:4)<br>
 	5. CsAsTra (1:1)<br>
@@ -18,19 +18,19 @@ Recent win rates against top 10 over the past 21 days<br>
 	7. sirgrapeLot (5:2)<br>
 	8. TPSproducer (1:1)<br>
 	9. someOnh (0:1)<br>
-	10. supiorlemon (0:1)<br>
+	10. SupiorLemon (0:1)<br>
 <br>
-3. #croissant (1227) -2<br>
--6|-5|-11|-17|-16|-21|-14|-22|-17|-7<br>
+3. #croissant (1223) 0<br>
+-9|-8|-15|-21|-19|-25|-18|-26|-20|-11<br>
 	1. Artimal_PL (1:3)<br>
 	2. Disciplina (4:1)<br>
 	6. JCC (2:3)<br>
 	7. sirgrapeLot (4:2)<br>
 	8. TPSproducer (6:4)<br>
 	9. someOnh (15:9)<br>
-	10. supiorlemon (16:24)<br>
+	10. SupiorLemon (13:19)<br>
 <br>
-4. #Xoi (1217) -1<br>
+4. #Xoi (1217) 0<br>
 -13|-16|-9|-16|-18|-21|-16|0|+5|-3<br>
 	1. Artimal_PL (4:0)<br>
 	6. JCC (1:3)<br>
@@ -38,337 +38,343 @@ Recent win rates against top 10 over the past 21 days<br>
 5. #CsAsTra (1163) 0<br>
 +26|+23|+13|+6|-7|-8|-14|-12|-3|+2<br>
 	2. Disciplina (1:1)<br>
-	10. supiorlemon (7:11)<br>
+	10. SupiorLemon (7:11)<br>
 <br>
-6. #JCC (1155) +1<br>
-+18|+6|-4|-4|-10|-11|-14|-4|+2|+2<br>
+6. #JCC (1153) -2<br>
++16|+3|-7|-6|-12|-13|-16|-7|0|0<br>
 	2. Disciplina (2:3)<br>
 	3. croissant (3:2)<br>
 	4. Xoi (3:1)<br>
-	10. supiorlemon (0:1)<br>
+	10. SupiorLemon (0:1)<br>
 <br>
 7. #sirgrapeLot (1151) 0<br>
 +15|+13|+6|-3|-3|-1|0|-6|+9|-1<br>
 	1. Artimal_PL (1:3)<br>
 	2. Disciplina (2:5)<br>
 	3. croissant (2:4)<br>
-	10. supiorlemon (1:1)<br>
+	10. SupiorLemon (1:1)<br>
 <br>
 8. #TPSproducer (1146) 0<br>
 -13|-13|-12|-17|-8|-18|-29|-20|-17|-14<br>
 	2. Disciplina (1:1)<br>
 	3. croissant (4:6)<br>
 <br>
-9. #someOnh (1142) -1<br>
--36|-29|-16|-14|-12|-18|-17|-7|-10|-7<br>
+9. #someOnh (1142) 0<br>
+-28|-15|-13|-11|-18|-16|-6|-10|-6|+1<br>
 	1. Artimal_PL (7:6)<br>
 	2. Disciplina (1:0)<br>
 	3. croissant (9:15)<br>
+	10. SupiorLemon (6:4)<br>
 <br>
-10. #supiorlemon (1138) 0<br>
-+27|+4|-16|-19|-10|-17|-14|-1|+13|0<br>
-	1. Artimal_PL (1:5)<br>
+10. #SupiorLemon (1133) -2<br>
++23|-1|-21|-23|-15|-22|-18|-5|+8|-4<br>
+	1. Artimal_PL (3:5)<br>
 	2. Disciplina (1:0)<br>
-	3. croissant (24:16)<br>
+	3. croissant (19:13)<br>
 	5. CsAsTra (11:7)<br>
 	6. JCC (1:0)<br>
 	7. sirgrapeLot (1:1)<br>
+	9. someOnh (4:6)<br>
 <br>
-11. #WickedPizza~656 (1134) 0<br>
--46|-45|-31|-24|-21|-10|-11|-8|+7|+3<br>
+11. #WickedPizza~656 (1125) 0<br>
+-54|-53|-39|-32|-29|-18|-19|-16|-1|-5<br>
 	3. croissant (1:0)<br>
 	8. TPSproducer (1:4)<br>
-	10. supiorlemon (7:4)<br>
+	10. SupiorLemon (7:4)<br>
 <br>
-12. #no.yes (1122) -2<br>
-+48|+43|+31|+26|+16|+16|+17|+12|-10|-8<br>
+12. #no.yes (1120) 0<br>
++41|+29|+24|+14|+14|+15|+10|-12|-10|-3<br>
 	2. Disciplina (5:3)<br>
 	5. CsAsTra (2:6)<br>
 	8. TPSproducer (1:4)<br>
-	10. supiorlemon (8:9)<br>
+	10. SupiorLemon (4:7)<br>
 <br>
-13. #pablo55 (1120) -1<br>
-+23|+4|+11|-11|-7|+6|+4|+3|-7|+3<br>
-	2. Disciplina (6:2)<br>
-	3. croissant (2:1)<br>
-	4. Xoi (0:1)<br>
-	5. CsAsTra (5:4)<br>
-	6. JCC (1:0)<br>
-	7. sirgrapeLot (6:1)<br>
-	10. supiorlemon (22:42)<br>
+13. #gmoe (1119) 0<br>
++24|+17|+12|+10|+2|+2|-4|-10|-4|0<br>
+	3. croissant (0:2)<br>
+	10. SupiorLemon (2:0)<br>
 <br>
-14. #metbo (1119) -5<br>
--5|-5|-4|0|+6|+3|+3|0|+1|+3<br>
+14. #metbo (1118) -1<br>
+-6|-5|-5|-1|+5|+2|+2|-1|+1|+2<br>
 	2. Disciplina (2:0)<br>
 	3. croissant (2:3)<br>
 	4. Xoi (2:0)<br>
 	6. JCC (2:2)<br>
-	10. supiorlemon (5:1)<br>
+	10. SupiorLemon (5:1)<br>
 <br>
-15. #TimeBreaker (1116) 0<br>
+15. #eLemeNt. (1117) +2<br>
++4|+1|-10|-13|-15|-17|-10|+7|0|+6<br>
+	2. Disciplina (5:0)<br>
+	3. croissant (9:14)<br>
+	6. JCC (7:0)<br>
+	9. someOnh (23:13)<br>
+	10. SupiorLemon (11:12)<br>
+<br>
+16. #TimeBreaker (1116) 0<br>
 -29|-35|-46|-36|-25|-15|-7|-11|-8|+1<br>
 	3. croissant (1:1)<br>
 	4. Xoi (0:1)<br>
 	9. someOnh (6:10)<br>
-	10. supiorlemon (1:3)<br>
+	10. SupiorLemon (1:1)<br>
 <br>
-16. #CoolFaucet~518 (1114) +1<br>
-+29|+32|+35|+28|+13|+19|-7|+2|-3|+3<br>
-	2. Disciplina (0:1)<br>
-	3. croissant (17:20)<br>
-	4. Xoi (7:2)<br>
-	9. someOnh (1:0)<br>
-	10. supiorlemon (12:10)<br>
+17. #pablo55 (1115) -1<br>
+-1|+6|-17|-12|+1|-1|-2|-12|-2|-4<br>
+	1. Artimal_PL (3:2)<br>
+	2. Disciplina (6:2)<br>
+	3. croissant (3:1)<br>
+	4. Xoi (0:1)<br>
+	5. CsAsTra (5:4)<br>
+	6. JCC (3:0)<br>
+	7. sirgrapeLot (6:1)<br>
+	10. SupiorLemon (20:35)<br>
 <br>
-17. #eLemeNt. (1114) +4<br>
-0|-2|-13|-16|-19|-20|-14|+3|-4|+2<br>
-	2. Disciplina (5:0)<br>
-	3. croissant (16:17)<br>
-	6. JCC (5:0)<br>
-	9. someOnh (23:13)<br>
-	10. supiorlemon (11:12)<br>
-<br>
-18. #drhillikilil (1113) 0<br>
--2|-7|-3|-11|-4|-1|-1|-1|-3|+2<br>
+18. #drhillikilil (1111) 0<br>
+-9|-5|-13|-6|-3|-3|-3|-5|0|-1<br>
 	1. Artimal_PL (6:3)<br>
 	2. Disciplina (3:1)<br>
 	3. croissant (12:13)<br>
+	6. JCC (3:1)<br>
 	8. TPSproducer (0:1)<br>
 	9. someOnh (3:0)<br>
-	10. supiorlemon (3:8)<br>
+	10. SupiorLemon (5:10)<br>
 <br>
-19. #DaCAP (1108) 0<br>
--1|+4|+5|-4|+4|0|+1|-4|+2|0<br>
+19. #DaCAP (1110) +5<br>
++7|+8|-1|+7|+3|+4|-2|+5|+3|+7<br>
 	4. Xoi (3:5)<br>
 <br>
-20. #GoOody (1106) 0<br>
-+27|+20|+22|+28|+28|+25|+22|+8|-2|+2<br>
-	3. croissant (1:1)<br>
+20. #CoolFaucet~518 (1107) -3<br>
++25|+27|+21|+6|+12|-15|-5|-10|-4|+2<br>
+	2. Disciplina (2:13)<br>
+	3. croissant (17:20)<br>
+	4. Xoi (7:2)<br>
+	9. someOnh (1:0)<br>
+	10. SupiorLemon (12:5)<br>
+<br>
+21. #go4chips (1106) -1<br>
+-3|-9|-19|-21|-21|-16|-16|-17|-11|0<br>
+	3. croissant (2:2)<br>
+	10. SupiorLemon (5:1)<br>
+<br>
+22. #GoOody (1106) 0<br>
++28|+20|+23|+28|+28|+25|+22|+8|-2|+2<br>
+	3. croissant (1:0)<br>
 	8. TPSproducer (3:0)<br>
-	10. supiorlemon (3:6)<br>
 <br>
-21. #hobbes313 (1102) 0<br>
--34|-37|-37|-36|-29|-31|-24|-9|-13|-6<br>
-	2. Disciplina (2:0)<br>
-	3. croissant (3:1)<br>
-	6. JCC (3:0)<br>
-	10. supiorlemon (2:9)<br>
+23. #Fluffywolf (1103) +2<br>
+-7|-11|-7|-2|+7|-1|+1|0|-1|0<br>
+	1. Artimal_PL (2:1)<br>
+	2. Disciplina (0:2)<br>
+	3. croissant (0:3)<br>
+	10. SupiorLemon (2:1)<br>
 <br>
-22. #mafl (1100) -5<br>
--2|-6|-13|-15|-25|-13|0|+2|-6|-2<br>
-	1. Artimal_PL (3:6)<br>
-	2. Disciplina (2:0)<br>
-	3. croissant (12:10)<br>
-	6. JCC (3:4)<br>
-	9. someOnh (7:14)<br>
-	10. supiorlemon (7:16)<br>
-<br>
-23. #depression. (1099) +6<br>
-+81|+59|+40|+34|+15|+6<br>
+24. #depression. (1103) +7<br>
++84|+62|+43|+37|+18|+10|+4<br>
+	2. Disciplina (1:0)<br>
 	3. croissant (1:0)<br>
 	4. Xoi (2:6)<br>
 	6. JCC (0:1)<br>
-	9. someOnh (29:26)<br>
+	9. someOnh (30:26)<br>
 <br>
-24. #sugarwalls (1098) +1<br>
--15|-8|-16|-15|-21|-7|-2|+5|+11|+2<br>
-	1. Artimal_PL (5:9)<br>
-	2. Disciplina (2:4)<br>
-	3. croissant (27:24)<br>
-	4. Xoi (1:1)<br>
-	9. someOnh (6:4)<br>
-	10. supiorlemon (14:22)<br>
-<br>
-25. #Ardi09. (1098) -3<br>
-+11|+19|+22|+21|+17|+8|-2|+5|-4|+2<br>
-	1. Artimal_PL (2:5)<br>
-	3. croissant (1:0)<br>
-	8. TPSproducer (1:4)<br>
-	9. someOnh (17:26)<br>
-	10. supiorlemon (1:2)<br>
-<br>
-26. #Reclamation- (1095) +1<br>
-+82|+68|+53|+47|+27|+26|+29|+35|+17|+3<br>
+25. #Reclamation- (1102) +4<br>
++89|+75|+60|+54|+34|+32|+36|+42|+23|+10<br>
 	1. Artimal_PL (3:1)<br>
 	3. croissant (3:0)<br>
+	6. JCC (3:1)<br>
 <br>
-27. #cricric (1092) -2<br>
-+10|+14|+15|+10|+9|+10|+6|+9|+7|+1<br>
+26. #hobbes313 (1102) 0<br>
+-34|-37|-37|-36|-30|-31|-24|-9|-13|-6<br>
+	2. Disciplina (2:0)<br>
+	3. croissant (3:1)<br>
+	6. JCC (3:0)<br>
+	10. SupiorLemon (2:9)<br>
+<br>
+27. #mafl (1098) -4<br>
+-5|-8|-15|-17|-27|-16|-2|0|-9|-4<br>
+	1. Artimal_PL (7:7)<br>
+	3. croissant (12:10)<br>
+	6. JCC (3:4)<br>
+	9. someOnh (7:14)<br>
+	10. SupiorLemon (9:12)<br>
+<br>
+28. #Ardi09. (1096) -1<br>
++10|+18|+21|+20|+16|+7|-3|+4|-5|+1<br>
+	1. Artimal_PL (2:5)<br>
+	3. croissant (1:1)<br>
+	8. TPSproducer (1:4)<br>
+	9. someOnh (13:25)<br>
+	10. SupiorLemon (1:1)<br>
+<br>
+29. #sugarwalls (1096) +1<br>
+-10|-18|-17|-23|-9|-4|+3|+9|0|-1<br>
+	1. Artimal_PL (11:16)<br>
+	2. Disciplina (3:7)<br>
+	3. croissant (19:18)<br>
+	4. Xoi (1:1)<br>
+	9. someOnh (6:4)<br>
+	10. SupiorLemon (12:13)<br>
+<br>
+30. #MadDookie (1091) +3<br>
+-6|-5|+8|+9|+8|+12|-1|-1|-3|0<br>
+	1. Artimal_PL (10:18)<br>
+	2. Disciplina (10:18)<br>
+	3. croissant (51:80)<br>
+	4. Xoi (4:5)<br>
+	5. CsAsTra (19:5)<br>
+	6. JCC (5:0)<br>
+	7. sirgrapeLot (1:5)<br>
+	8. TPSproducer (32:26)<br>
+	9. someOnh (11:15)<br>
+	10. SupiorLemon (60:56)<br>
+<br>
+31. #kimchi-poker (1089) 0<br>
++70|+52|+25|+9<br>
+	5. CsAsTra (14:8)<br>
+	7. sirgrapeLot (0:6)<br>
+	9. someOnh (4:1)<br>
+	10. SupiorLemon (1:3)<br>
+<br>
+32. #ruBEARRx (1085) 0<br>
++28|+32|+32|+17|+3|-44|-29|-22|-18|-4<br>
+	4. Xoi (3:3)<br>
+<br>
+33. #cricric (1084) -7<br>
++2|+6|+7|+2|+1|+2|-3|+1|-1|-7<br>
 	1. Artimal_PL (0:1)<br>
 	4. Xoi (1:1)<br>
 	7. sirgrapeLot (1:0)<br>
 	8. TPSproducer (1:0)<br>
 	9. someOnh (1:3)<br>
-	10. supiorlemon (0:2)<br>
+	10. SupiorLemon (0:2)<br>
 <br>
-28. #MadDookie (1091) +14<br>
-+5|+11|-12|-17|-5|-4|+9|+9|+9|+13<br>
-	1. Artimal_PL (5:14)<br>
-	2. Disciplina (11:18)<br>
-	3. croissant (52:83)<br>
-	4. Xoi (4:5)<br>
-	5. CsAsTra (19:5)<br>
-	6. JCC (3:0)<br>
-	7. sirgrapeLot (1:5)<br>
-	8. TPSproducer (32:26)<br>
-	9. someOnh (11:15)<br>
-	10. supiorlemon (76:84)<br>
+34. #ghost_face (1080) +2<br>
+-24|-32|-35|-31|-34|-29|-30|-23|-15|-8<br>
+	1. Artimal_PL (2:2)<br>
+	3. croissant (1:2)<br>
+	8. TPSproducer (1:1)<br>
+	9. someOnh (0:1)<br>
+	10. SupiorLemon (2:9)<br>
 <br>
-29. #kimchi-poker (1089) 0<br>
-+70|+52|+25|+9<br>
-	5. CsAsTra (14:8)<br>
-	7. sirgrapeLot (0:6)<br>
-	9. someOnh (4:1)<br>
-	10. supiorlemon (2:5)<br>
+35. #peneTRAtion (1080) 0<br>
++5|-1|+3|0|+9|+12|+23|+19|+9|+2<br>
+	2. Disciplina (3:2)<br>
+	3. croissant (1:0)<br>
+	8. TPSproducer (6:3)<br>
+	10. SupiorLemon (3:3)<br>
 <br>
-30. #Empires-- (1088) 0<br>
-+54|+22|-4<br>
+36. #Snake1976 (1076) -1<br>
++8|+11|-1|-7|-3|-1|+5|0|+8|+13<br>
+	3. croissant (11:29)<br>
+	4. Xoi (1:1)<br>
+	6. JCC (1:0)<br>
+	8. TPSproducer (14:11)<br>
+	9. someOnh (9:5)<br>
+	10. SupiorLemon (17:32)<br>
 <br>
-31. #ruBEARRx (1085) 0<br>
-+28|+32|+32|+17|+3|-44|-29|-22|-18|-4<br>
-	4. Xoi (3:3)<br>
-	10. supiorlemon (3:2)<br>
-<br>
-32. #quantum (1084) -4<br>
-+29|+28|+28|+8|+2|-18|-9|-11|-6|-6<br>
+37. #quantum (1076) -4<br>
++21|+20|+19|0|-7|-26|-17|-19|-14|-14<br>
 	1. Artimal_PL (5:8)<br>
-	2. Disciplina (8:5)<br>
-	3. croissant (35:26)<br>
+	2. Disciplina (2:5)<br>
+	3. croissant (34:25)<br>
 	4. Xoi (2:7)<br>
 	5. CsAsTra (1:1)<br>
 	7. sirgrapeLot (0:5)<br>
 	8. TPSproducer (1:1)<br>
 	9. someOnh (10:6)<br>
-	10. supiorlemon (31:57)<br>
+	10. SupiorLemon (30:49)<br>
 <br>
-33. #ghost_face (1080) 0<br>
--24|-32|-35|-31|-35|-29|-30|-23|-15|-8<br>
-	1. Artimal_PL (2:2)<br>
-	3. croissant (1:2)<br>
-	8. TPSproducer (1:1)<br>
-	9. someOnh (0:1)<br>
-	10. supiorlemon (2:9)<br>
-<br>
-34. #peneTRAtion (1080) 0<br>
-+5|-1|+3|0|+9|+12|+23|+19|+9|+2<br>
-	2. Disciplina (3:2)<br>
-	3. croissant (1:1)<br>
-	8. TPSproducer (6:3)<br>
-	10. supiorlemon (3:3)<br>
-<br>
-35. #Snake1976 (1075) +12<br>
-+7|+9|-2|-8|-4|-2|+4|-1|+7|+12<br>
-	2. Disciplina (1:0)<br>
-	3. croissant (19:39)<br>
-	4. Xoi (1:1)<br>
-	6. JCC (1:0)<br>
-	8. TPSproducer (14:11)<br>
-	9. someOnh (9:5)<br>
-	10. supiorlemon (23:39)<br>
-<br>
-36. #vip_genius (1074) +1<br>
--23|-22|-18|-21|-7|-1|0|+5|-1|-1<br>
+38. #vip_genius (1076) -2<br>
+-20|-16|-19|-5|+1|+2|+7|+1|+1|-1<br>
 	1. Artimal_PL (1:1)<br>
-	2. Disciplina (7:4)<br>
-	3. croissant (10:8)<br>
+	2. Disciplina (7:9)<br>
+	3. croissant (8:7)<br>
 	4. Xoi (4:5)<br>
 	6. JCC (5:2)<br>
 	7. sirgrapeLot (7:10)<br>
 	8. TPSproducer (4:2)<br>
-	9. someOnh (1:6)<br>
-	10. supiorlemon (12:19)<br>
+	9. someOnh (3:11)<br>
+	10. SupiorLemon (14:17)<br>
 <br>
-37. #playin4keeps (1074) 0<br>
+39. #ru-51 (1075) 0<br>
+-8|-15|-17|-7|-3|-5|+7|-1|+5|-1<br>
+	1. Artimal_PL (4:10)<br>
+	2. Disciplina (1:0)<br>
+	3. croissant (12:13)<br>
+	4. Xoi (5:15)<br>
+	5. CsAsTra (8:12)<br>
+	8. TPSproducer (4:3)<br>
+	9. someOnh (19:10)<br>
+	10. SupiorLemon (5:12)<br>
+<br>
+40. #playin4keeps (1074) 0<br>
 +41|+33|+35|+24|+28|+28|+32|+9|+3|+4<br>
 	3. croissant (6:6)<br>
 	7. sirgrapeLot (2:0)<br>
 	8. TPSproducer (4:0)<br>
-	10. supiorlemon (7:15)<br>
+	10. SupiorLemon (7:6)<br>
 <br>
-38. #ru-51 (1071) -7<br>
--8|-12|-20|-22|-12|-8|-10|+2|-5|0<br>
-	1. Artimal_PL (4:10)<br>
-	2. Disciplina (1:0)<br>
-	3. croissant (17:13)<br>
-	4. Xoi (5:15)<br>
-	5. CsAsTra (11:12)<br>
-	8. TPSproducer (4:3)<br>
-	9. someOnh (19:10)<br>
-	10. supiorlemon (5:13)<br>
+41. #likeag66 (1071) 0<br>
+-14|-10|-18|-14|-16|-10|-12|-8|-5|-4<br>
+	1. Artimal_PL (1:4)<br>
+	3. croissant (3:3)<br>
+	4. Xoi (0:2)<br>
+	5. CsAsTra (0:1)<br>
+	9. someOnh (1:1)<br>
+	10. SupiorLemon (8:11)<br>
 <br>
-39. #yeasonn (1070) -4<br>
--14|-15|-7|-3|+3|+10|+17|+15|+1|+2<br>
-	1. Artimal_PL (2:2)<br>
-	2. Disciplina (2:1)<br>
-	3. croissant (17:15)<br>
-	5. CsAsTra (1:0)<br>
-	7. sirgrapeLot (2:2)<br>
-	8. TPSproducer (1:2)<br>
-	9. someOnh (2:0)<br>
-	10. supiorlemon (14:22)<br>
-<br>
-40. #GenghisCon (1068) +1<br>
+42. #GenghisCon (1068) 0<br>
 +13|+11|+11|+5|-11|-17|-11|-1|+1|0<br>
 	2. Disciplina (4:1)<br>
 	3. croissant (7:14)<br>
 	5. CsAsTra (0:2)<br>
 	7. sirgrapeLot (0:1)<br>
-	10. supiorlemon (11:8)<br>
+	10. SupiorLemon (11:8)<br>
 <br>
-41. #likeag66 (1068) 0<br>
--17|-13|-21|-17|-19|-13|-15|-11|-8|-7<br>
-	1. Artimal_PL (1:2)<br>
-	3. croissant (3:3)<br>
-	4. Xoi (0:2)<br>
-	5. CsAsTra (0:1)<br>
-	9. someOnh (1:1)<br>
-	10. supiorlemon (8:15)<br>
+43. #yeasonn (1066) +2<br>
+-18|-19|-11|-6|0|+7|+14|+12|-2|-1<br>
+	1. Artimal_PL (5:2)<br>
+	2. Disciplina (2:1)<br>
+	3. croissant (17:15)<br>
+	7. sirgrapeLot (1:0)<br>
+	8. TPSproducer (1:2)<br>
+	9. someOnh (2:0)<br>
+	10. SupiorLemon (13:11)<br>
 <br>
-42. #NiftyBread~997 (1066) 0<br>
--28|-33|-37|-31|-30|-25|-23|-13|-5|-11<br>
-	10. supiorlemon (0:1)<br>
-<br>
-43. #Jackalope (1065) 0<br>
+44. #Jackalope (1065) 0<br>
 +30|+10|+1|-9|-11|-6|-18|-13|-12|-1<br>
 	2. Disciplina (1:4)<br>
 	3. croissant (7:13)<br>
 	7. sirgrapeLot (0:1)<br>
 	8. TPSproducer (0:3)<br>
 	9. someOnh (4:2)<br>
-	10. supiorlemon (10:22)<br>
+	10. SupiorLemon (7:8)<br>
 <br>
-44. #ganjasslol (1063) 0<br>
--2|-1|+15|+3|+6|-5|-14|-9|-5|0<br>
-	7. sirgrapeLot (2:1)<br>
-	10. supiorlemon (7:8)<br>
-<br>
-45. #blanketwolf (1063) +2<br>
-+42|+19<br>
+45. #blanKetwoLF (1064) +2<br>
++43|+20|+2<br>
 	1. Artimal_PL (0:5)<br>
-	10. supiorlemon (1:3)<br>
+	10. SupiorLemon (1:5)<br>
 <br>
 46. #jbperez808 (1061) 0<br>
 -2|-21|-29|-28|-25|-25|-23|-23|-15|-3<br>
 	7. sirgrapeLot (0:2)<br>
 	9. someOnh (1:5)<br>
 <br>
-47. #Orbiter (1060) 0<br>
-+39|+33|+24|+19|+8|+5|+2<br>
-	1. Artimal_PL (1:0)<br>
-	2. Disciplina (2:1)<br>
-	4. Xoi (0:1)<br>
-	5. CsAsTra (0:3)<br>
-	8. TPSproducer (3:1)<br>
+47. #Fire.n.Ice. (1060) -2<br>
++2|-4|+3|+1|-3|-23|-21|-15|-8|+2<br>
+	1. Artimal_PL (5:2)<br>
+	3. croissant (5:5)<br>
+	8. TPSproducer (4:2)<br>
+	10. SupiorLemon (38:40)<br>
 <br>
-48. #edache22 (1060) -3<br>
-+8|+12|+15|+18|+20|+9|-14|-13|-6|-8<br>
-	1. Artimal_PL (6:5)<br>
-	2. Disciplina (12:11)<br>
-	3. croissant (6:9)<br>
-	5. CsAsTra (0:5)<br>
-	7. sirgrapeLot (3:3)<br>
-	8. TPSproducer (27:8)<br>
-	10. supiorlemon (30:60)<br>
+48. #creaky2 (1060) +2<br>
++1|-4|-6|-2|-2|-2|+5|+8|+16|-2<br>
+	1. Artimal_PL (0:5)<br>
+	2. Disciplina (7:0)<br>
+	3. croissant (4:5)<br>
+	5. CsAsTra (4:1)<br>
+	6. JCC (3:1)<br>
+	7. sirgrapeLot (1:1)<br>
+	9. someOnh (4:7)<br>
+	10. SupiorLemon (59:42)<br>
 <br>
 49. #ScaryDragon (1060) 0<br>
 +22|-1|-11<br>
@@ -379,720 +385,758 @@ Recent win rates against top 10 over the past 21 days<br>
 +21|+21|+20|+14|+10|+7|+2|-1|+9|+4<br>
 	1. Artimal_PL (3:6)<br>
 <br>
-51. #creaky2 (1058) 0<br>
-0|-5|-8|-4|-4|-4|+4|+6|+14|-4<br>
-	1. Artimal_PL (0:5)<br>
-	2. Disciplina (7:0)<br>
-	3. croissant (4:5)<br>
-	5. CsAsTra (4:1)<br>
-	6. JCC (1:1)<br>
-	7. sirgrapeLot (1:1)<br>
-	9. someOnh (4:7)<br>
-	10. supiorlemon (61:49)<br>
+51. #akghostgoon (1058) -7<br>
++47|+41|+39|+52|+44|+2|+10|+9|-2|-3<br>
+	2. Disciplina (9:8)<br>
+	3. croissant (19:17)<br>
+	4. Xoi (2:8)<br>
+	8. TPSproducer (14:15)<br>
+	9. someOnh (9:5)<br>
+	10. SupiorLemon (35:12)<br>
 <br>
 52. #GreatRebel (1057) 0<br>
 +7|+30|+30|+30|+25|+20|+23|+5|+2|-7<br>
 	1. Artimal_PL (3:1)<br>
 	2. Disciplina (2:4)<br>
-	3. croissant (13:18)<br>
+	3. croissant (12:15)<br>
 	4. Xoi (6:1)<br>
 	7. sirgrapeLot (10:16)<br>
 	9. someOnh (3:5)<br>
-	10. supiorlemon (23:41)<br>
+	10. SupiorLemon (16:21)<br>
 <br>
 53. #sir.wallace (1057) 0<br>
--2|+1|+2|+4|+5|+5|-11|-3|-1|-2<br>
+-1|+1|+3|+5|+6|+5|-10|-2|-1|-2<br>
 	2. Disciplina (1:0)<br>
-	3. croissant (13:9)<br>
+	3. croissant (2:2)<br>
 	7. sirgrapeLot (0:3)<br>
-	10. supiorlemon (23:19)<br>
+	10. SupiorLemon (10:9)<br>
 <br>
-54. #Fire.n.Ice. (1056) 0<br>
--2|-8|-2|-3|-7|-27|-26|-19|-13|-2<br>
-	3. croissant (2:5)<br>
-	8. TPSproducer (4:2)<br>
-	10. supiorlemon (41:41)<br>
+54. #edache22 (1056) +2<br>
++8|+11|+15|+16|+6|-18|-16|-10|-11|0<br>
+	1. Artimal_PL (6:5)<br>
+	2. Disciplina (12:11)<br>
+	3. croissant (6:9)<br>
+	5. CsAsTra (0:5)<br>
+	6. JCC (1:0)<br>
+	7. sirgrapeLot (3:3)<br>
+	8. TPSproducer (27:8)<br>
+	10. SupiorLemon (27:43)<br>
 <br>
-55. #noa-B (1055) +8<br>
--6|-7|-3|-3|-9|-11|-12|-2|+2|+8<br>
+55. #Orbiter (1056) -1<br>
++35|+28|+19|+15|+4|0|-3<br>
+	1. Artimal_PL (1:0)<br>
+	2. Disciplina (2:2)<br>
+	4. Xoi (0:1)<br>
+	5. CsAsTra (0:3)<br>
+	8. TPSproducer (3:1)<br>
+	9. someOnh (1:1)<br>
+	10. SupiorLemon (1:0)<br>
+<br>
+56. #noa-B (1055) 0<br>
+-6|-7|-4|-3|-9|-11|-12|-2|+2|+8<br>
 	2. Disciplina (2:2)<br>
 	3. croissant (8:12)<br>
 	9. someOnh (4:4)<br>
-	10. supiorlemon (6:15)<br>
+	10. SupiorLemon (6:15)<br>
 <br>
-56. #CalmButton~947 (1054) 0<br>
-+28|+4<br>
+57. #CalmButton~947 (1055) 0<br>
++28|+5<br>
 	3. croissant (3:2)<br>
 <br>
-57. #lowki (1054) 0<br>
+58. #lowki (1054) 0<br>
 +16|+11|-1|-2|0|-5|-9|-18|+1|-4<br>
 	3. croissant (1:4)<br>
 	9. someOnh (2:4)<br>
 <br>
-58. #SweetPeach~177 (1054) -3<br>
+59. #SweetPeach~177 (1054) 0<br>
 +30|+22|+23|+22|+22|+6|-2|-7|-1|-1<br>
 	1. Artimal_PL (8:5)<br>
-	2. Disciplina (5:8)<br>
-	3. croissant (17:22)<br>
+	2. Disciplina (4:8)<br>
+	3. croissant (17:20)<br>
 	4. Xoi (1:2)<br>
 	6. JCC (0:1)<br>
 	7. sirgrapeLot (9:8)<br>
 	8. TPSproducer (2:3)<br>
 	9. someOnh (3:5)<br>
-	10. supiorlemon (32:37)<br>
+	10. SupiorLemon (22:26)<br>
 <br>
-59. #TheMainEvent (1054) -1<br>
--10|+1|-8|-8|-12|-5|-10|+4|+13|-1<br>
+60. #TheMainEvent (1053) +1<br>
+0|-9|-9|-13|-6|-11|+3|+12|-2|+1<br>
+	1. Artimal_PL (0:2)<br>
 	2. Disciplina (4:2)<br>
 	3. croissant (1:7)<br>
 	4. Xoi (0:1)<br>
+	6. JCC (3:3)<br>
 	8. TPSproducer (5:7)<br>
-	10. supiorlemon (10:3)<br>
+	9. someOnh (1:0)<br>
+	10. SupiorLemon (12:3)<br>
 <br>
-60. #akghostgoon (1053) -9<br>
-+41|+42|+36|+35|+47|+39|-3|+5|+4|-7<br>
-	2. Disciplina (11:9)<br>
-	3. croissant (20:18)<br>
-	4. Xoi (2:8)<br>
-	8. TPSproducer (14:15)<br>
-	9. someOnh (9:5)<br>
-	10. supiorlemon (39:25)<br>
+61. #Zimmux (1050) +8<br>
++14|+22|+29|+32|+34|+26|+8|+15|+6|+7<br>
+	2. Disciplina (3:1)<br>
+	3. croissant (3:1)<br>
+	4. Xoi (0:1)<br>
 <br>
-61. #zeropoint (1052) +4<br>
--29|-16|-21|-15|-15|-7|-7|-4|+9|+6<br>
-	2. Disciplina (1:0)<br>
-	3. croissant (5:8)<br>
-	8. TPSproducer (5:2)<br>
-	9. someOnh (0:1)<br>
-	10. supiorlemon (10:11)<br>
-<br>
-62. #TimDebJon (1048) -7<br>
--13|-21|-28|-27|-25|-27|-22|-17|-12|-7<br>
-	1. Artimal_PL (2:1)<br>
-	3. croissant (5:3)<br>
-	8. TPSproducer (3:3)<br>
-	9. someOnh (2:1)<br>
-<br>
-63. #papka.tvoy (1048) 0<br>
+62. #papka.tvoy (1048) 0<br>
 +38|+25|+8|+1<br>
 	1. Artimal_PL (2:2)<br>
 <br>
-64. #evi1_genius (1046) 0<br>
+63. #evi1_genius (1046) 0<br>
 +38|+22|+21|+5<br>
 	2. Disciplina (2:5)<br>
 	3. croissant (1:1)<br>
 	6. JCC (1:3)<br>
 <br>
-65. #Rawz (1045) +1<br>
+64. #TimDebJon (1045) -2<br>
+-16|-24|-31|-30|-28|-30|-25|-20|-15|-10<br>
+	1. Artimal_PL (2:1)<br>
+	3. croissant (5:3)<br>
+	8. TPSproducer (3:3)<br>
+	9. someOnh (2:1)<br>
+<br>
+65. #Rawz (1045) 0<br>
 +17|+12|+9|+4|+10|+13|+5|+11|+6|-3<br>
 	3. croissant (1:3)<br>
 	4. Xoi (4:5)<br>
 	9. someOnh (1:1)<br>
-	10. supiorlemon (6:6)<br>
+	10. SupiorLemon (6:6)<br>
 <br>
-66. #TwistedJorge (1045) -1<br>
-+22|+23|+19|+19|+8|+9|+4|+1|-3|0<br>
-	1. Artimal_PL (4:4)<br>
+66. #zeropoint (1043) -5<br>
+-25|-30|-24|-23|-16|-16|-13|+1|-2|-5<br>
+	1. Artimal_PL (2:4)<br>
+	3. croissant (5:5)<br>
+	8. TPSproducer (5:2)<br>
+	9. someOnh (0:2)<br>
+	10. SupiorLemon (2:6)<br>
+<br>
+67. #phaedrus (1042) +5<br>
++13|+3|+6|+4|+8|+2|+7|+8|+2|+7<br>
+	1. Artimal_PL (9:5)<br>
+	2. Disciplina (2:0)<br>
+	3. croissant (11:8)<br>
+	4. Xoi (2:5)<br>
+	5. CsAsTra (6:5)<br>
+	8. TPSproducer (8:1)<br>
+	9. someOnh (6:4)<br>
+	10. SupiorLemon (25:31)<br>
+<br>
+68. #DidMaflWin (1042) 0<br>
++34|+45|+42|+19|0|-2|-1|+4<br>
+	2. Disciplina (1:1)<br>
+	3. croissant (8:6)<br>
+	7. sirgrapeLot (1:8)<br>
+	8. TPSproducer (0:1)<br>
+	10. SupiorLemon (1:1)<br>
+<br>
+69. #googooman (1042) -2<br>
++31|+34|+6|-16|-13|-15|-3|+1|+6|-2<br>
+	1. Artimal_PL (1:0)<br>
+	2. Disciplina (2:0)<br>
+	4. Xoi (4:4)<br>
+	5. CsAsTra (1:2)<br>
+	10. SupiorLemon (15:16)<br>
+<br>
+70. #Opaline (1042) 0<br>
++37|+14|+19|+18|+26|+36|+27|+27|+6<br>
+	2. Disciplina (0:1)<br>
+	3. croissant (5:10)<br>
+	5. CsAsTra (1:7)<br>
+	8. TPSproducer (1:5)<br>
+<br>
+71. #thorack (1040) 0<br>
+-4|+1|-10|-12|-7|0|0|-5|-12|+4<br>
+	1. Artimal_PL (2:2)<br>
+	2. Disciplina (0:1)<br>
+<br>
+72. #RaggedZebra (1039) +6<br>
++54|+44|+45|+43|+40|+24|+20|+23|+18|+5<br>
+	1. Artimal_PL (15:3)<br>
+	2. Disciplina (0:2)<br>
+	3. croissant (6:8)<br>
+	4. Xoi (2:3)<br>
+	5. CsAsTra (2:2)<br>
+	7. sirgrapeLot (3:7)<br>
+	8. TPSproducer (11:7)<br>
+	10. SupiorLemon (13:28)<br>
+<br>
+73. #infatuation- (1039) +4<br>
++31|+23|+11|+1<br>
+	6. JCC (1:1)<br>
+	9. someOnh (1:0)<br>
+<br>
+74. #TwistedJorge (1037) -7<br>
++11|+11|0|+1|-3|-7|-11|-8|-4|-5<br>
+	1. Artimal_PL (7:9)<br>
 	2. Disciplina (12:9)<br>
-	3. croissant (36:26)<br>
+	3. croissant (33:23)<br>
 	4. Xoi (3:3)<br>
 	6. JCC (3:1)<br>
 	7. sirgrapeLot (3:7)<br>
 	8. TPSproducer (22:15)<br>
 	9. someOnh (4:1)<br>
-	10. supiorlemon (26:54)<br>
+	10. SupiorLemon (21:34)<br>
 <br>
-67. #googooman (1045) +7<br>
-+32|+33|+36|+9|-14|-10|-12|0|+4|+9<br>
-	1. Artimal_PL (1:0)<br>
-	2. Disciplina (2:0)<br>
-	4. Xoi (4:4)<br>
-	5. CsAsTra (1:2)<br>
-	10. supiorlemon (17:19)<br>
-<br>
-68. #phaedrus (1044) +3<br>
-+26|+14|+4|+7|+5|+10|+3|+8|+9|+3<br>
-	1. Artimal_PL (1:3)<br>
-	2. Disciplina (1:0)<br>
-	3. croissant (11:8)<br>
-	4. Xoi (2:5)<br>
-	5. CsAsTra (6:5)<br>
-	8. TPSproducer (8:1)<br>
-	9. someOnh (5:3)<br>
-	10. supiorlemon (25:31)<br>
-<br>
-69. #DidMaflWin (1042) 0<br>
-+34|+45|+42|+19|0|-2|-1|+4<br>
-	2. Disciplina (1:1)<br>
-	3. croissant (13:9)<br>
-	7. sirgrapeLot (1:8)<br>
-	8. TPSproducer (0:1)<br>
-	10. supiorlemon (15:29)<br>
-<br>
-70. #quickmill (1038) +4<br>
-0|+4|+3|+2|+2|+4|-2|+5|+2|+2<br>
-	2. Disciplina (0:2)<br>
-	3. croissant (4:13)<br>
-	6. JCC (4:12)<br>
-	9. someOnh (4:3)<br>
-	10. supiorlemon (2:7)<br>
-<br>
-71. #SlickRick61 (1037) 0<br>
--15|-18|-12|-11|-8|+3|+11|+17|+20|-7<br>
-	2. Disciplina (0:2)<br>
-	3. croissant (4:9)<br>
-	7. sirgrapeLot (1:4)<br>
-	10. supiorlemon (0:1)<br>
-<br>
-72. #uranus-98 (1035) +5<br>
-+19|+23|+21|+27|+21|+19|+12|+9|+10|+2<br>
+75. #uranus-98 (1036) 0<br>
++20|+24|+22|+28|+22|+20|+13|+10|+11|+3<br>
 	1. Artimal_PL (2:1)<br>
 	2. Disciplina (2:3)<br>
 	3. croissant (19:20)<br>
 	5. CsAsTra (1:3)<br>
 	7. sirgrapeLot (3:9)<br>
-	10. supiorlemon (26:23)<br>
+	10. SupiorLemon (26:23)<br>
 <br>
-73. #PaperCookie~376 (1034) 0<br>
+76. #SlickRick61 (1034) 0<br>
+-18|-21|-16|-14|-11|0|+8|+14|+17|-10<br>
+	2. Disciplina (0:2)<br>
+	3. croissant (4:9)<br>
+	7. sirgrapeLot (1:4)<br>
+<br>
+77. #PaperCookie~376 (1034) 0<br>
 +14|-1<br>
 	9. someOnh (4:1)<br>
 <br>
-74. #Opaline (1034) +1<br>
-+29|+6|+12|+10|+19|+28|+19|+19<br>
-	2. Disciplina (0:1)<br>
-	3. croissant (4:10)<br>
-	5. CsAsTra (1:7)<br>
-	8. TPSproducer (1:5)<br>
+78. #VOSTOK (1034) +3<br>
++22|+29|+33|+18|+31|+30|+27|+33|+34|+28<br>
+	1. Artimal_PL (4:2)<br>
+	2. Disciplina (8:6)<br>
+	3. croissant (1:1)<br>
+	4. Xoi (1:2)<br>
+	6. JCC (2:1)<br>
+	8. TPSproducer (3:4)<br>
+	9. someOnh (2:2)<br>
+	10. SupiorLemon (19:17)<br>
 <br>
-75. #Glossy (1033) 0<br>
-+21|+29|+34|+11|+5|+17|+5|-4|0|-2<br>
+79. #quickmill (1033) 0<br>
+-2|-3|-3|-1|-7|0|-3|-3|-8|0<br>
+	2. Disciplina (0:2)<br>
+	3. croissant (7:17)<br>
+	6. JCC (8:16)<br>
+	9. someOnh (4:3)<br>
+	10. SupiorLemon (3:8)<br>
+<br>
+80. #LiquidTater~429 (1031) -2<br>
++9|+3<br>
+	3. croissant (1:1)<br>
+	9. someOnh (2:2)<br>
+	10. SupiorLemon (4:8)<br>
+<br>
+81. #Glossy (1031) +3<br>
++27|+32|+9|+2|+15|+3|-7|-2|-5|0<br>
+	1. Artimal_PL (2:0)<br>
 	2. Disciplina (0:1)<br>
 	3. croissant (6:4)<br>
 	4. Xoi (0:1)<br>
 	6. JCC (2:1)<br>
 	8. TPSproducer (2:2)<br>
-	10. supiorlemon (6:17)<br>
+	9. someOnh (1:0)<br>
+	10. SupiorLemon (3:14)<br>
 <br>
-76. #MeltedSoup~698 (1033) 0<br>
-+19<br>
-	3. croissant (3:1)<br>
-	9. someOnh (0:1)<br>
-	10. supiorlemon (6:3)<br>
-<br>
-77. #Zimmux (1031) -7<br>
-+12|-4|+3|+11|+14|+15|+7|-10|-4|-13<br>
-	2. Disciplina (3:1)<br>
-	4. Xoi (0:1)<br>
-<br>
-78. #RaggedZebra (1030) 0<br>
-+63|+45|+35|+36|+34|+31|+15|+11|+14|+9<br>
-	2. Disciplina (0:2)<br>
-	3. croissant (8:11)<br>
-	4. Xoi (2:3)<br>
-	5. CsAsTra (2:2)<br>
-	7. sirgrapeLot (3:7)<br>
-	8. TPSproducer (11:7)<br>
-	10. supiorlemon (13:32)<br>
-<br>
-79. #VOSTOK (1029) +22<br>
-+17|+24|+28|+13|+26|+25|+22|+28|+29|+23<br>
-	1. Artimal_PL (4:2)<br>
-	2. Disciplina (8:6)<br>
-	3. croissant (1:1)<br>
-	4. Xoi (1:2)<br>
-	8. TPSproducer (3:4)<br>
-	9. someOnh (2:2)<br>
-	10. supiorlemon (25:22)<br>
-<br>
-80. #goner (1027) 0<br>
--24|-24|-20|-19|-21|-19|-7|-2|+1|-4<br>
+82. #goner (1028) 0<br>
+-23|-19|-18|-21|-18|-6|-1|+2|-4|+1<br>
 	1. Artimal_PL (4:2)<br>
 	5. CsAsTra (5:5)<br>
 	9. someOnh (1:1)<br>
-	10. supiorlemon (7:17)<br>
+	10. SupiorLemon (2:7)<br>
 <br>
-81. #Knightimer (1027) 0<br>
+83. #Knightimer (1027) 0<br>
 +19|+17|+8|+10|+3|-2|-10|-7|-2|-6<br>
 	2. Disciplina (1:0)<br>
-	3. croissant (4:1)<br>
+	3. croissant (3:0)<br>
 	6. JCC (0:1)<br>
-	10. supiorlemon (7:20)<br>
+	10. SupiorLemon (4:11)<br>
 <br>
-82. #iawai (1026) -2<br>
-+28|+28|+18|+18|+22|+16|+18|+10|+7|-2<br>
-	1. Artimal_PL (0:1)<br>
-	2. Disciplina (5:4)<br>
-	3. croissant (30:35)<br>
-	4. Xoi (1:3)<br>
-	7. sirgrapeLot (1:0)<br>
-	9. someOnh (2:0)<br>
-	10. supiorlemon (21:45)<br>
-<br>
-83. #qUidNovI (1025) -2<br>
--7|+1|-2|+2|+7|+2|+2|-5|-2|+2<br>
-	1. Artimal_PL (2:4)<br>
-	2. Disciplina (1:5)<br>
-	3. croissant (10:2)<br>
-	4. Xoi (1:2)<br>
-	8. TPSproducer (1:0)<br>
-	9. someOnh (0:1)<br>
-	10. supiorlemon (20:26)<br>
-<br>
-84. #MAKki (1022) 0<br>
-+9|+11|+4|+4|+10|+26|+15|+17|+8|+7<br>
-	1. Artimal_PL (2:2)<br>
-	2. Disciplina (2:1)<br>
-	3. croissant (10:22)<br>
-	4. Xoi (0:1)<br>
-	5. CsAsTra (20:19)<br>
-	6. JCC (3:2)<br>
-	7. sirgrapeLot (0:1)<br>
-	9. someOnh (16:24)<br>
-	10. supiorlemon (5:12)<br>
-<br>
-85. #im_GORY (1021) -2<br>
-+6|+7|+4|+10|+11|-2|-8|-11|-11|-4<br>
-	2. Disciplina (1:0)<br>
-	3. croissant (2:10)<br>
-	4. Xoi (4:0)<br>
-	8. TPSproducer (2:2)<br>
-	9. someOnh (3:3)<br>
-	10. supiorlemon (5:8)<br>
-<br>
-86. #Milky007 (1020) 0<br>
-+20|+5|+4|+6|-12|-15|-17|-24|-14|-3<br>
-	1. Artimal_PL (5:6)<br>
-	2. Disciplina (1:1)<br>
-	3. croissant (0:1)<br>
-	4. Xoi (0:2)<br>
-	10. supiorlemon (13:17)<br>
-<br>
-87. #VividerAphid (1019) 0<br>
-+7|+13|+22|+29|+5|-10|-12|-13|-6|-1<br>
-	1. Artimal_PL (2:0)<br>
-	2. Disciplina (2:2)<br>
-	3. croissant (2:3)<br>
-	5. CsAsTra (16:10)<br>
-	9. someOnh (1:0)<br>
-	10. supiorlemon (6:9)<br>
-<br>
-88. #bot (1016) -20<br>
-+12|+2|-13|-28|-25|-27|-32|-14|-18|0<br>
+84. #bot (1027) +6<br>
++11|+12|+5|-7|+6|+11|-5|+9|+6|0<br>
 	2. Disciplina (0:1)<br>
 	3. croissant (5:9)<br>
 	4. Xoi (1:1)<br>
 	6. JCC (1:1)<br>
 	7. sirgrapeLot (1:0)<br>
 	9. someOnh (19:26)<br>
-	10. supiorlemon (1:0)<br>
+	10. SupiorLemon (1:0)<br>
 <br>
-89. #spamo (1016) -4<br>
--17|-9|+2|+8|+16|+23|+11|+2|+2|-4<br>
+85. #qdibp (1026) +18<br>
++2<br>
+<br>
+86. #spamo (1025) +10<br>
+-7|0|+12|+17|+25|+33|+20|+12|+11|+5<br>
 	1. Artimal_PL (0:8)<br>
-	2. Disciplina (0:1)<br>
 	3. croissant (16:11)<br>
 	4. Xoi (6:11)<br>
 	9. someOnh (1:5)<br>
-	10. supiorlemon (15:10)<br>
+	10. SupiorLemon (13:9)<br>
 <br>
-90. #blini (1015) +5<br>
+87. #VividerAphid (1022) -1<br>
++10|+16|+25|+32|+9|-7|-8|-10|-2|+3<br>
+	1. Artimal_PL (2:0)<br>
+	2. Disciplina (2:2)<br>
+	3. croissant (2:3)<br>
+	5. CsAsTra (14:10)<br>
+	9. someOnh (1:0)<br>
+	10. SupiorLemon (6:9)<br>
+<br>
+88. #im_GORY (1021) -1<br>
++7|+4|+10|+11|-2|-8|-11|-11|-4|-1<br>
+	2. Disciplina (1:0)<br>
+	3. croissant (2:8)<br>
+	4. Xoi (4:0)<br>
+	8. TPSproducer (2:2)<br>
+	9. someOnh (3:3)<br>
+	10. SupiorLemon (4:2)<br>
+<br>
+89. #Milky007 (1020) 0<br>
++20|+5|+4|+6|-12|-14|-17|-24|-14|-3<br>
+	1. Artimal_PL (5:6)<br>
+	2. Disciplina (1:1)<br>
+	3. croissant (0:1)<br>
+	4. Xoi (0:2)<br>
+	10. SupiorLemon (13:17)<br>
+<br>
+90. #qUidNovI (1019) -3<br>
+-5|-8|-4|+1|-4|-4|-11|-8|-4|-5<br>
+	1. Artimal_PL (2:6)<br>
+	2. Disciplina (1:5)<br>
+	3. croissant (10:2)<br>
+	4. Xoi (1:2)<br>
+	8. TPSproducer (1:0)<br>
+	9. someOnh (0:1)<br>
+	10. SupiorLemon (20:19)<br>
+<br>
+91. #iawai (1016) -6<br>
++17|+7|+8|+11|+5|+8|0|-3|-13|-10<br>
+	1. Artimal_PL (0:3)<br>
+	2. Disciplina (3:4)<br>
+	3. croissant (30:35)<br>
+	4. Xoi (1:3)<br>
+	7. sirgrapeLot (1:0)<br>
+	9. someOnh (2:0)<br>
+	10. SupiorLemon (17:29)<br>
+<br>
+92. #MAKki (1016) -7<br>
++4|-2|-3|+3|+19|+9|+10|+2|+1|-7<br>
+	1. Artimal_PL (8:13)<br>
+	2. Disciplina (2:1)<br>
+	3. croissant (10:17)<br>
+	4. Xoi (0:1)<br>
+	5. CsAsTra (17:19)<br>
+	6. JCC (3:2)<br>
+	7. sirgrapeLot (0:1)<br>
+	9. someOnh (16:24)<br>
+	10. SupiorLemon (4:7)<br>
+<br>
+93. #blini (1015) 0<br>
 +37|+29|+24|+23|+11|+10|+13|+4|+8|+1<br>
 	3. croissant (4:7)<br>
 	8. TPSproducer (1:0)<br>
-	10. supiorlemon (0:1)<br>
+	10. SupiorLemon (0:1)<br>
 <br>
-91. #Bi-Polar (1015) -1<br>
-+12|+11|+15|+13|+13|+3|+2|+1|-1|+1<br>
-	1. Artimal_PL (1:0)<br>
-	3. croissant (1:3)<br>
-	5. CsAsTra (1:6)<br>
-	8. TPSproducer (2:2)<br>
-	10. supiorlemon (2:5)<br>
-<br>
-92. #Alburdy (1015) +1<br>
--1|+7|+10|+6|+1|-1|-7|-15|-2|-1<br>
-	2. Disciplina (3:6)<br>
-	3. croissant (7:18)<br>
-	8. TPSproducer (3:0)<br>
-	10. supiorlemon (16:33)<br>
-<br>
-93. #shmendrick (1012) 0<br>
+94. #shmendrick (1012) 0<br>
 0<br>
 <br>
-94. #Steve333 (1010) +1<br>
-+10|+5|+7|+10|+3|-7|0|-1|-2|-2<br>
-	1. Artimal_PL (10:6)<br>
-	2. Disciplina (9:7)<br>
-	3. croissant (10:24)<br>
-	4. Xoi (7:4)<br>
-	7. sirgrapeLot (3:2)<br>
-	9. someOnh (24:42)<br>
-	10. supiorlemon (9:7)<br>
-<br>
-95. #mistic69 (1010) 0<br>
-+2<br>
-	2. Disciplina (3:0)<br>
-	7. sirgrapeLot (1:0)<br>
-<br>
-96. #frostnoise (1010) +1<br>
--16|-10|+2|+6|+12|+15|+22|+17|+9|+2<br>
-	3. croissant (1:1)<br>
-<br>
-97. #SparkyPlane (1009) 0<br>
-+8|+2|+8|+8|+4|-3|+6|+4|-1|+1<br>
-	3. croissant (1:3)<br>
-<br>
-98. #youcantwin (1009) +5<br>
-+9|+2<br>
-	3. croissant (3:3)<br>
-	10. supiorlemon (0:1)<br>
-<br>
-99. #LittleWren~568 (1008) 0<br>
-+4<br>
-	7. sirgrapeLot (1:0)<br>
-<br>
-100. #CozyBike~447 (1007) -1<br>
-+5|0|-1<br>
-	3. croissant (2:0)<br>
-	9. someOnh (8:11)<br>
-	10. supiorlemon (0:1)<br>
-<br>
-101. #SOfa_kingDOM (1007) 0<br>
-+3|-4|-6|-5|-10|-8|-7|-9|-4|-8<br>
-	3. croissant (3:6)<br>
-	7. sirgrapeLot (0:1)<br>
-	9. someOnh (1:1)<br>
-	10. supiorlemon (5:5)<br>
-<br>
-102. #necrosis_24 (1005) +4<br>
-+12|+12|+5<br>
-	3. croissant (1:0)<br>
-	5. CsAsTra (8:10)<br>
-	10. supiorlemon (12:19)<br>
-<br>
-103. #Galithor (1004) -2<br>
--3|+5|+18|-5|-12|-4|-30|-17|-10|-2<br>
+95. #Galithor (1012) +6<br>
++4|+12|+25|+2|-5|+3|-22|-9|-3|+5<br>
 	1. Artimal_PL (0:2)<br>
 	2. Disciplina (2:2)<br>
 	3. croissant (7:12)<br>
 	5. CsAsTra (0:1)<br>
 	6. JCC (1:2)<br>
 	8. TPSproducer (8:2)<br>
-	10. supiorlemon (8:26)<br>
+	10. SupiorLemon (2:8)<br>
 <br>
-104. #mae_1 (1004) +4<br>
-+29|+27|+31|+24|+17|+14|+9|+17|+11|+5<br>
+96. #Steve333 (1011) -4<br>
++6|+8|+11|+4|-6|+1|0|-1|-2|-3<br>
+	1. Artimal_PL (10:6)<br>
+	2. Disciplina (9:7)<br>
+	3. croissant (10:25)<br>
+	4. Xoi (7:4)<br>
+	6. JCC (2:4)<br>
+	7. sirgrapeLot (3:2)<br>
+	9. someOnh (25:43)<br>
+	10. SupiorLemon (12:6)<br>
+<br>
+97. #Alburdy (1010) 0<br>
+-6|+2|+5|+1|-4|-6|-12|-19|-7|-5<br>
+	1. Artimal_PL (1:1)<br>
+	2. Disciplina (3:6)<br>
+	3. croissant (7:18)<br>
+	6. JCC (1:1)<br>
+	8. TPSproducer (3:0)<br>
+	10. SupiorLemon (14:29)<br>
+<br>
+98. #mistic69 (1010) 0<br>
++2<br>
+	2. Disciplina (3:0)<br>
+	7. sirgrapeLot (1:0)<br>
+<br>
+99. #youcantwin (1010) +1<br>
++10|+3<br>
+	3. croissant (3:3)<br>
+	10. SupiorLemon (0:1)<br>
+<br>
+100. #frostnoise (1009) 0<br>
+-17|-10|+2|+6|+11|+15|+21|+17|+9|+2<br>
+	3. croissant (1:1)<br>
+<br>
+101. #CozyBike~447 (1009) 0<br>
++6|+1|+1<br>
+	3. croissant (2:0)<br>
+	9. someOnh (10:14)<br>
+	10. SupiorLemon (4:3)<br>
+<br>
+102. #LittleWren~568 (1007) 0<br>
++3|0<br>
+	7. sirgrapeLot (1:0)<br>
+<br>
+103. #SOfa_kingDOM (1007) 0<br>
++3|-4|-6|-5|-10|-8|-7|-9|-4|-8<br>
+	3. croissant (3:6)<br>
+	7. sirgrapeLot (0:1)<br>
+	9. someOnh (1:1)<br>
+	10. SupiorLemon (4:2)<br>
+<br>
+104. #necrosis_24 (1005) 0<br>
++12|+12|+5<br>
+	3. croissant (1:0)<br>
+	5. CsAsTra (8:10)<br>
+	10. SupiorLemon (12:19)<br>
+<br>
+105. #mae_1 (1002) -3<br>
++26|+30|+22|+16|+13|+7|+15|+10|+3|-3<br>
 	1. Artimal_PL (2:4)<br>
 	2. Disciplina (1:4)<br>
 	3. croissant (15:18)<br>
 	5. CsAsTra (1:5)<br>
+	6. JCC (1:1)<br>
 	8. TPSproducer (4:7)<br>
 	9. someOnh (4:3)<br>
-	10. supiorlemon (17:19)<br>
-<br>
-105. #xWRNx (1003) -2<br>
-+12|+13|+1|+5|0|-6|0<br>
-	2. Disciplina (2:1)<br>
-	3. croissant (0:5)<br>
-	6. JCC (1:1)<br>
-	7. sirgrapeLot (0:1)<br>
-	10. supiorlemon (3:9)<br>
+	10. SupiorLemon (11:17)<br>
 <br>
 106. #blitz. (1002) 0<br>
 -9<br>
 	3. croissant (1:1)<br>
 	7. sirgrapeLot (0:1)<br>
-	10. supiorlemon (0:2)<br>
+	10. SupiorLemon (0:2)<br>
 <br>
-107. #oPs_0ps (1000) +1<br>
--15|-6|-17|-15|-19|-24|-17|-13|-2|+9<br>
-	2. Disciplina (1:2)<br>
-	3. croissant (2:6)<br>
-	7. sirgrapeLot (0:2)<br>
-	8. TPSproducer (9:0)<br>
+107. #ExoticVioli~142 (1002) +3<br>
+-2<br>
+	1. Artimal_PL (0:2)<br>
+	3. croissant (6:6)<br>
+	9. someOnh (1:0)<br>
+	10. SupiorLemon (3:2)<br>
 <br>
-108. #darth_jesse (998) 0<br>
-+4|+8|+4|+6|+2|+7|-1<br>
-	7. sirgrapeLot (1:2)<br>
-	10. supiorlemon (1:2)<br>
+108. #kaboRAGE (999) +1<br>
+-13|-11|-7|-9|-5|-1|+1|+6|+7|+6<br>
+	2. Disciplina (4:9)<br>
+	3. croissant (8:11)<br>
+	5. CsAsTra (0:1)<br>
+	7. sirgrapeLot (0:3)<br>
+	9. someOnh (4:11)<br>
+	10. SupiorLemon (20:30)<br>
 <br>
-109. #aawwa (998) -4<br>
--6<br>
-	2. Disciplina (1:3)<br>
-	3. croissant (0:4)<br>
-	4. Xoi (0:3)<br>
-<br>
-110. #Viper715 (998) +2<br>
-+24|+20|+15|+1|+4|+13|+15|+22|+8|+5<br>
+109. #Viper715 (999) -3<br>
++21|+16|+3|+5|+14|+16|+24|+10|+6|0<br>
 	1. Artimal_PL (0:1)<br>
 	2. Disciplina (3:0)<br>
 	3. croissant (2:7)<br>
 	4. Xoi (1:1)<br>
 	6. JCC (2:2)<br>
 	7. sirgrapeLot (0:1)<br>
-	10. supiorlemon (6:15)<br>
+	9. someOnh (1:0)<br>
+	10. SupiorLemon (5:8)<br>
 <br>
-111. #Tempo12 (997) 0<br>
+110. #dadedread786 (998) -8<br>
+-6|-1<br>
+	1. Artimal_PL (9:10)<br>
+	10. SupiorLemon (2:2)<br>
+<br>
+111. #darth_jesse (998) -1<br>
++3|+7|+3|+6|+1|+6|-1|-1<br>
+	7. sirgrapeLot (1:2)<br>
+	10. SupiorLemon (1:2)<br>
+<br>
+112. #xWRNx (997) -3<br>
++7|+8|-4|0|-5|-12|-6|-4<br>
+	1. Artimal_PL (2:4)<br>
+	2. Disciplina (3:2)<br>
+	3. croissant (0:4)<br>
+	6. JCC (1:1)<br>
+	7. sirgrapeLot (0:1)<br>
+	9. someOnh (0:2)<br>
+	10. SupiorLemon (4:6)<br>
+<br>
+113. #Tempo12 (997) 0<br>
 -10|-1|+2<br>
 	2. Disciplina (2:2)<br>
 	3. croissant (6:4)<br>
 	7. sirgrapeLot (1:1)<br>
 	8. TPSproducer (2:2)<br>
-	10. supiorlemon (12:12)<br>
+	10. SupiorLemon (12:12)<br>
 <br>
-112. #PR0D1GY (995) 0<br>
-+2<br>
+114. #oPs_0ps (996) -4<br>
+-10|-21|-19|-22|-27|-21|-17|-6|+5|-2<br>
+	2. Disciplina (2:5)<br>
+	3. croissant (2:6)<br>
+	7. sirgrapeLot (0:2)<br>
+	8. TPSproducer (9:0)<br>
+<br>
+115. #SweetTooth~619 (996) +8<br>
++2|+7|+8|+10|+11|+18|+14|+17|+21|+10<br>
+	3. croissant (3:2)<br>
+	4. Xoi (1:3)<br>
+	10. SupiorLemon (2:2)<br>
+<br>
+116. #aawwa (995) 0<br>
+-8<br>
+	2. Disciplina (1:3)<br>
+	3. croissant (0:4)<br>
+	4. Xoi (0:3)<br>
+<br>
+117. #BigUU (992) +4<br>
++24|+23|+27|+30|+36|+24|+24|+5|+8|+2<br>
+	1. Artimal_PL (0:6)<br>
+	2. Disciplina (0:4)<br>
+	3. croissant (2:5)<br>
+	4. Xoi (2:8)<br>
+	6. JCC (0:2)<br>
+	7. sirgrapeLot (2:0)<br>
+	9. someOnh (3:7)<br>
+	10. SupiorLemon (3:7)<br>
+<br>
+118. #PR0D1GY (992) -1<br>
+-1|+1<br>
 	1. Artimal_PL (1:1)<br>
 	2. Disciplina (2:4)<br>
 	3. croissant (2:1)<br>
 	5. CsAsTra (11:13)<br>
-	10. supiorlemon (12:15)<br>
+	10. SupiorLemon (12:15)<br>
 <br>
-113. #LoudSoup~240 (994) -2<br>
-+4|-5|0<br>
-	1. Artimal_PL (1:6)<br>
-	3. croissant (3:5)<br>
-	6. JCC (0:6)<br>
-	9. someOnh (1:2)<br>
-<br>
-114. #batman7000 (992) 0<br>
--3|+3|+4|+17|+10|+10|+19|+2|+8|-2<br>
-	2. Disciplina (1:0)<br>
-	3. croissant (1:1)<br>
-	10. supiorlemon (4:3)<br>
-<br>
-115. #kaboRAGE (992) -1<br>
--20|-17|-14|-16|-12|-8|-6|-1|0|-1<br>
-	2. Disciplina (4:9)<br>
-	3. croissant (7:11)<br>
-	5. CsAsTra (0:1)<br>
-	7. sirgrapeLot (0:3)<br>
-	9. someOnh (4:10)<br>
-	10. supiorlemon (20:30)<br>
-<br>
-116. #Cosimia (992) +1<br>
-+7|+8|+7|-4|-3<br>
-	3. croissant (3:2)<br>
-	10. supiorlemon (2:6)<br>
-<br>
-117. #krizzy (992) 0<br>
+119. #krizzy (992) 0<br>
 -3|-2|+14|+10|-6<br>
 	5. CsAsTra (0:1)<br>
 	6. JCC (3:2)<br>
 <br>
-118. #bandy (992) 0<br>
-+35|+24|+21|+6|+3|+9|+11|+13|+10|+10<br>
-	1. Artimal_PL (1:1)<br>
-	3. croissant (1:0)<br>
-	4. Xoi (3:9)<br>
-	5. CsAsTra (2:0)<br>
-	9. someOnh (4:6)<br>
-	10. supiorlemon (8:14)<br>
+120. #batman7000 (992) 0<br>
+-4|+2|+3|+16|+10|+10|+18|+2|+7|-2<br>
+	2. Disciplina (1:0)<br>
+	3. croissant (1:1)<br>
+	10. SupiorLemon (4:3)<br>
 <br>
-119. #ss0317 (991) 0<br>
--6|-13|-3|-2|-8|-11|-15|-9|-9|-1<br>
-	10. supiorlemon (2:3)<br>
+121. #ss0317 (991) 0<br>
+-7|-14|-3|-3|-9|-12|-15|-10|-10|-1<br>
+	10. SupiorLemon (2:3)<br>
 <br>
-120. #BigUU (991) -1<br>
-+5|+22|+21|+26|+29|+34|+23|+22|+3|+7<br>
-	1. Artimal_PL (0:6)<br>
-	2. Disciplina (0:4)<br>
-	3. croissant (9:15)<br>
-	4. Xoi (2:8)<br>
-	6. JCC (0:2)<br>
-	7. sirgrapeLot (2:0)<br>
-	9. someOnh (2:5)<br>
-	10. supiorlemon (10:32)<br>
+122. #Cosimia (990) -1<br>
++5|+6|+5|-6|-5|-1<br>
+	3. croissant (3:2)<br>
+	10. SupiorLemon (2:3)<br>
 <br>
-121. #Almarcha (990) +1<br>
+123. #CozyPillow (990) 0<br>
++9<br>
+	6. JCC (1:0)<br>
+	8. TPSproducer (0:1)<br>
+<br>
+124. #Almarcha (990) 0<br>
 +30|+38|+20|+23|+14|-2|+5|+6|-4|+2<br>
 	2. Disciplina (1:1)<br>
 	3. croissant (8:5)<br>
 	7. sirgrapeLot (1:4)<br>
 	8. TPSproducer (10:6)<br>
-	10. supiorlemon (19:22)<br>
+	10. SupiorLemon (14:18)<br>
 <br>
-122. #nazia13 (989) 0<br>
-+18|+23|+29|+30|+17|+20|+18|+19|+1|+1<br>
-	2. Disciplina (0:2)<br>
-	4. Xoi (2:2)<br>
-	8. TPSproducer (4:2)<br>
-	9. someOnh (3:3)<br>
-	10. supiorlemon (11:4)<br>
+125. #LoudSoup~240 (990) -4<br>
+0|-9|-4<br>
+	1. Artimal_PL (1:6)<br>
+	3. croissant (3:5)<br>
+	6. JCC (0:6)<br>
+	9. someOnh (1:2)<br>
+	10. SupiorLemon (0:1)<br>
 <br>
-123. #a7mad (989) 0<br>
-+20|+21|+28|+32|+28|+34|+36|+10|+10|+5<br>
-	3. croissant (1:3)<br>
-	8. TPSproducer (4:2)<br>
-	10. supiorlemon (4:7)<br>
+126. #sharifbang94 (990) +2<br>
+-5|-2|0|+2|+7<br>
+	1. Artimal_PL (4:2)<br>
+	5. CsAsTra (1:1)<br>
+	7. sirgrapeLot (0:1)<br>
+	10. SupiorLemon (0:3)<br>
 <br>
-124. #king3 (989) 0<br>
--5|-5<br>
-	2. Disciplina (2:3)<br>
-	8. TPSproducer (1:1)<br>
-<br>
-125. #CozyPillow (989) 0<br>
-+8<br>
-	6. JCC (1:0)<br>
-	8. TPSproducer (0:1)<br>
-<br>
-126. #BlackH00le (989) 0<br>
--7|-1|+2<br>
-	3. croissant (1:2)<br>
-	10. supiorlemon (0:8)<br>
-<br>
-127. #Draconus. (989) 0<br>
-+2|-3<br>
-	1. Artimal_PL (3:6)<br>
-	4. Xoi (3:2)<br>
-<br>
-128. #deWar (988) -2<br>
--18|-12|-9|-3<br>
+127. #deWar (989) 0<br>
+-16|-10|-8|-2<br>
 	4. Xoi (7:15)<br>
 	7. sirgrapeLot (0:3)<br>
 	9. someOnh (2:0)<br>
 <br>
-129. #FenixTheWar (988) 0<br>
--1|+1<br>
-	2. Disciplina (4:1)<br>
-	5. CsAsTra (1:1)<br>
-	10. supiorlemon (3:5)<br>
+128. #king3 (989) 0<br>
+-5|-5<br>
+	2. Disciplina (2:3)<br>
+	8. TPSproducer (1:1)<br>
 <br>
-130. #dadedread305 (987) 0<br>
--1<br>
-	2. Disciplina (4:3)<br>
-	3. croissant (1:1)<br>
-	5. CsAsTra (1:0)<br>
-	10. supiorlemon (5:12)<br>
+129. #BlackH00le (989) 0<br>
+-7|-1|+2<br>
+	3. croissant (1:2)<br>
+	10. SupiorLemon (0:8)<br>
 <br>
-131. #sharifbang94 (987) +1<br>
--8|-5|-2|-1|+5<br>
-	1. Artimal_PL (0:2)<br>
-	2. Disciplina (1:0)<br>
-	5. CsAsTra (1:1)<br>
-	7. sirgrapeLot (0:1)<br>
-	10. supiorlemon (0:2)<br>
+130. #Draconus. (989) 0<br>
++2|-3<br>
+	1. Artimal_PL (3:6)<br>
+	4. Xoi (3:2)<br>
 <br>
-132. #SweetTooth~619 (987) 0<br>
--19|-7|-3|-1|0|+2|+8|+5|+7|+11<br>
-	3. croissant (3:2)<br>
-	4. Xoi (1:3)<br>
-	10. supiorlemon (5:3)<br>
-<br>
-133. #shaddow (986) +1<br>
--10|-12|-5|-4|+8|+9|+3|-1|0|+2<br>
-	2. Disciplina (6:5)<br>
-	3. croissant (21:34)<br>
+131. #shaddow (988) -1<br>
+-9|-3|-2|+10|+11|+5|+1|+2|+4|-2<br>
+	1. Artimal_PL (7:5)<br>
+	2. Disciplina (5:4)<br>
+	3. croissant (19:30)<br>
 	4. Xoi (3:3)<br>
 	7. sirgrapeLot (3:7)<br>
 	8. TPSproducer (4:2)<br>
 	9. someOnh (5:4)<br>
-	10. supiorlemon (50:66)<br>
+	10. SupiorLemon (39:49)<br>
 <br>
-134. #adderallpaw (985) -1<br>
--3|-2|+5<br>
-	2. Disciplina (1:2)<br>
-	3. croissant (0:3)<br>
-	6. JCC (0:2)<br>
-	9. someOnh (1:0)<br>
-	10. supiorlemon (1:4)<br>
+132. #bandy (987) -5<br>
++19|+16|+2|-1|+4|+7|+8|+5|+5|-2<br>
+	1. Artimal_PL (1:1)<br>
+	3. croissant (1:0)<br>
+	4. Xoi (3:9)<br>
+	5. CsAsTra (2:0)<br>
+	9. someOnh (4:6)<br>
+	10. SupiorLemon (5:10)<br>
 <br>
-135. #Def_Leppard (984) 0<br>
--5|-8<br>
-	10. supiorlemon (2:4)<br>
+133. #dadedread305 (987) 0<br>
+-1<br>
+	2. Disciplina (4:3)<br>
+	3. croissant (1:1)<br>
+	5. CsAsTra (1:0)<br>
+	10. SupiorLemon (5:12)<br>
 <br>
-136. #ProAssaulter (984) 0<br>
--9|-1|-4|-17|-10|-8|-5|+3|+10|+3<br>
+134. #a7mad (987) 0<br>
++18|+26|+30|+26|+32|+33|+7|+7|+2|-2<br>
+	3. croissant (1:3)<br>
+	8. TPSproducer (4:2)<br>
+	10. SupiorLemon (4:7)<br>
+<br>
+135. #nazia13 (985) +1<br>
++24|+26|+13|+15|+13|+14|-3|-3|-5|-2<br>
+	2. Disciplina (0:2)<br>
+	4. Xoi (2:2)<br>
+	8. TPSproducer (4:2)<br>
+	9. someOnh (4:3)<br>
+	10. SupiorLemon (4:4)<br>
+<br>
+136. #ProAssaulter (985) 0<br>
+-9|0|-3|-16|-9|-7|-5|+3|+11|+3<br>
 	2. Disciplina (6:0)<br>
-	3. croissant (6:6)<br>
-	7. sirgrapeLot (2:2)<br>
-	10. supiorlemon (1:15)<br>
+	3. croissant (5:4)<br>
+	10. SupiorLemon (0:4)<br>
 <br>
-137. #BillyDanger (984) 0<br>
-0|-20|-11|-9|-5|+6|+10|+11|+9|+10<br>
-	3. croissant (12:6)<br>
-	7. sirgrapeLot (0:1)<br>
-	8. TPSproducer (8:5)<br>
-	10. supiorlemon (23:8)<br>
+137. #Def_Leppard (984) 0<br>
+-5|-8<br>
+	10. SupiorLemon (2:4)<br>
 <br>
-138. #sjehsan (984) -1<br>
--47|-35|-24|-20|-24|-13|-15|-7|-5|-2<br>
-	2. Disciplina (5:2)<br>
+138. #sjehsan (984) +1<br>
+-47|-34|-23|-19|-23|-12|-15|-6|-4|-1<br>
+	2. Disciplina (2:1)<br>
 	3. croissant (2:4)<br>
 	5. CsAsTra (1:0)<br>
 	7. sirgrapeLot (0:2)<br>
 	8. TPSproducer (7:2)<br>
-	9. someOnh (5:7)<br>
-	10. supiorlemon (13:22)<br>
+	9. someOnh (5:8)<br>
+	10. SupiorLemon (9:20)<br>
 <br>
-139. #WickedDrago~460 (983) +2<br>
-+3|+5|-6|-14|-10|-15|-19|-8|-13|+4<br>
-	2. Disciplina (5:6)<br>
-	3. croissant (7:11)<br>
-	6. JCC (1:2)<br>
-	8. TPSproducer (1:1)<br>
-	10. supiorlemon (7:12)<br>
+139. #BillyDanger (983) 0<br>
+0|-20|-11|-9|-5|+6|+10|+10|+8|+10<br>
+	3. croissant (12:6)<br>
+	7. sirgrapeLot (0:1)<br>
+	8. TPSproducer (8:5)<br>
+	10. SupiorLemon (23:8)<br>
 <br>
-140. #theDude (982) +3<br>
--4|-15|-17|-26|-26|-26|-28|-13|-9|+1<br>
+140. #adderallpaw (982) -3<br>
+-7|-6|+2<br>
+	2. Disciplina (1:2)<br>
+	3. croissant (0:3)<br>
+	6. JCC (0:2)<br>
+	9. someOnh (1:0)<br>
+	10. SupiorLemon (1:1)<br>
+<br>
+141. #theDude (981) -1<br>
+-5|-16|-19|-27|-28|-28|-30|-15|-10|-1<br>
 	3. croissant (3:1)<br>
-	10. supiorlemon (5:13)<br>
+	10. SupiorLemon (5:13)<br>
 <br>
-141. #TrickyBox~888 (982) 0<br>
-+2<br>
-	3. croissant (1:4)<br>
+142. #cryp7 (980) 0<br>
+-2|+2|-14|-6|-2|+14|+11|+1|-1|-5<br>
+	1. Artimal_PL (12:19)<br>
+	2. Disciplina (7:9)<br>
+	3. croissant (15:39)<br>
+	4. Xoi (2:1)<br>
+	5. CsAsTra (16:8)<br>
+	6. JCC (0:1)<br>
+	7. sirgrapeLot (3:7)<br>
+	8. TPSproducer (6:5)<br>
+	9. someOnh (8:10)<br>
+	10. SupiorLemon (50:64)<br>
 <br>
-142. #gumshoe21192 (977) -2<br>
--9|-4|-4<br>
-	3. croissant (4:3)<br>
-	6. JCC (1:1)<br>
+143. #GenBelIblis (980) -1<br>
++8|+13|+15|+9|+7|+6|+3|-2|-6|0<br>
+	3. croissant (2:1)<br>
+	8. TPSproducer (1:2)<br>
 <br>
-143. #freedoom (977) 0<br>
--19|-13|-11|0|-3|+1<br>
-	1. Artimal_PL (1:0)<br>
-	9. someOnh (1:2)<br>
+144. #FenixTheWar (980) -8<br>
+-9|-8<br>
+	2. Disciplina (4:1)<br>
+	5. CsAsTra (1:1)<br>
+	10. SupiorLemon (3:5)<br>
 <br>
-144. #DenimDude (976) +6<br>
-+20|+20|+8|-4|-5|-1|-4|-1|+6|+5<br>
+145. #DenimDude (979) -1<br>
++11|-1|-2|+2|-1|+2|+9|+8|+2|-2<br>
 	1. Artimal_PL (0:1)<br>
 	2. Disciplina (6:3)<br>
-	3. croissant (25:28)<br>
+	3. croissant (24:27)<br>
 	5. CsAsTra (1:2)<br>
 	6. JCC (0:4)<br>
 	7. sirgrapeLot (3:3)<br>
 	8. TPSproducer (5:3)<br>
-	9. someOnh (2:5)<br>
-	10. supiorlemon (8:7)<br>
+	9. someOnh (4:7)<br>
+	10. SupiorLemon (9:6)<br>
 <br>
-145. #slowzx (975) -13<br>
--14|-1<br>
-	3. croissant (0:1)<br>
-	7. sirgrapeLot (0:2)<br>
+146. #WickedDrago~460 (978) -7<br>
+0|-12|-20|-15|-20|-24|-14|-18|-2|-4<br>
+	1. Artimal_PL (2:7)<br>
+	2. Disciplina (5:6)<br>
+	3. croissant (8:13)<br>
+	6. JCC (1:2)<br>
+	8. TPSproducer (1:1)<br>
+	10. SupiorLemon (7:10)<br>
 <br>
-146. #mthomas76 (973) 0<br>
--9|-3|-3|-7|-13|-16|-11|-7|-6|-1<br>
-	2. Disciplina (4:1)<br>
+147. #freedoom (977) 0<br>
+-19|-13|-11|0|-3|+1<br>
+	1. Artimal_PL (1:0)<br>
+	9. someOnh (1:2)<br>
+<br>
+148. #TrickyBox~888 (977) 0<br>
+-3<br>
+	3. croissant (1:4)<br>
+<br>
+149. #gumshoe21192 (976) -1<br>
+-10|-6|-6<br>
+	1. Artimal_PL (4:5)<br>
+	3. croissant (4:3)<br>
+	6. JCC (2:1)<br>
+<br>
+150. #mthomas76 (974) 0<br>
+-8|-2|-1|-6|-12|-15|-10|-6|-4|+1<br>
+	2. Disciplina (5:1)<br>
 	3. croissant (0:2)<br>
 	5. CsAsTra (0:1)<br>
 	7. sirgrapeLot (3:12)<br>
 	9. someOnh (1:2)<br>
 <br>
-147. #Ryu (971) 0<br>
-+18|+14|+15|+8|+9|-5|-6|+8|+5|-12<br>
+151. #Ryu (973) -1<br>
++16|+17|+10|+11|-3|-4|+10|+7|-10|0<br>
 	3. croissant (0:1)<br>
 	4. Xoi (1:0)<br>
 	8. TPSproducer (2:0)<br>
-	10. supiorlemon (5:11)<br>
+	10. SupiorLemon (5:6)<br>
 <br>
-148. #STAtnyLOLatu (969) 0<br>
--23|-13|-17|-11|-4<br>
-	1. Artimal_PL (0:3)<br>
-	2. Disciplina (1:7)<br>
-	7. sirgrapeLot (1:1)<br>
-	8. TPSproducer (9:10)<br>
-<br>
-149. #BurlyWheel~628 (969) +8<br>
-+7|+1|+5|+12|-3|-2|+1|0|+3|+9<br>
+152. #BurlyWheel~628 (971) -2<br>
++9|+3|+7|+14|-2|0|+3|+1|+5|+11<br>
 	1. Artimal_PL (1:0)<br>
 	2. Disciplina (2:1)<br>
 	3. croissant (13:16)<br>
@@ -1100,35 +1144,63 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. JCC (1:1)<br>
 	7. sirgrapeLot (2:4)<br>
 	9. someOnh (2:2)<br>
-	10. supiorlemon (10:25)<br>
+	10. SupiorLemon (9:26)<br>
 <br>
-150. #cryp7 (969) 0<br>
-+28|+28|+11|-4|-13|-10|-25|-18|-14|+2<br>
-	1. Artimal_PL (4:9)<br>
-	2. Disciplina (9:10)<br>
-	3. croissant (21:44)<br>
-	4. Xoi (2:1)<br>
-	5. CsAsTra (19:8)<br>
-	6. JCC (0:1)<br>
-	7. sirgrapeLot (3:7)<br>
-	8. TPSproducer (6:5)<br>
-	9. someOnh (8:10)<br>
-	10. supiorlemon (62:94)<br>
+153. #slowzx (970) 0<br>
+-19|-6<br>
+	3. croissant (1:1)<br>
+	7. sirgrapeLot (0:2)<br>
 <br>
-151. #ganeshs_will (968) -2<br>
--20|-11|-14|0|+2|0<br>
+154. #jennygirl (970) +5<br>
+-38|-39|-50|-37|-31|-24|-13|-3|+2|+6<br>
+	1. Artimal_PL (4:5)<br>
+	2. Disciplina (7:9)<br>
+	3. croissant (30:52)<br>
+	4. Xoi (4:3)<br>
+	5. CsAsTra (2:4)<br>
+	7. sirgrapeLot (4:4)<br>
+	8. TPSproducer (20:12)<br>
+	9. someOnh (2:6)<br>
+	10. SupiorLemon (46:67)<br>
+<br>
+155. #STAtnyLOLatu (969) 0<br>
+-23|-13|-17|-11|-4<br>
+	1. Artimal_PL (0:3)<br>
+	2. Disciplina (1:7)<br>
+	7. sirgrapeLot (1:1)<br>
+	8. TPSproducer (9:10)<br>
+	10. SupiorLemon (1:0)<br>
+<br>
+156. #jelly1932 (968) 0<br>
+-36|-42|-25|-19|-14|-7<br>
+	3. croissant (0:1)<br>
+	10. SupiorLemon (3:4)<br>
+<br>
+157. #Gervi (968) +3<br>
++20|+16|+22|+27|+32|+18|+9|+15|+2|+4<br>
+	1. Artimal_PL (1:3)<br>
+	2. Disciplina (4:5)<br>
+	3. croissant (7:10)<br>
+	5. CsAsTra (0:2)<br>
+	7. sirgrapeLot (2:2)<br>
+	8. TPSproducer (13:11)<br>
+	9. someOnh (4:4)<br>
+	10. SupiorLemon (25:46)<br>
+<br>
+158. #ganeshs_will (967) 0<br>
+-21|-12|-15|-1|+1|-1<br>
 	2. Disciplina (1:0)<br>
 	7. sirgrapeLot (0:2)<br>
 <br>
-152. #jelly1932 (966) -7<br>
--38|-44|-27|-20|-16|-9<br>
-	3. croissant (0:1)<br>
-	10. supiorlemon (2:3)<br>
+159. #halcy0n3 (963) +3<br>
+-18|-14|-9|-9|-6|+3|+10|+9|+7|+8<br>
+	3. croissant (4:4)<br>
+	10. SupiorLemon (5:10)<br>
 <br>
-153. #Wildhat-972 (966) +4<br>
-+52|+45|+41|+39|+16|-8|-2|+1|-6|+2<br>
+160. #Wildhat-972 (962) -10<br>
++37|+35|+12|-12|-6|-3|-11|-2|-4|-7<br>
 	1. Artimal_PL (3:4)<br>
-	2. Disciplina (4:2)<br>
+	2. Disciplina (3:2)<br>
 	3. croissant (12:20)<br>
 	4. Xoi (3:8)<br>
 	5. CsAsTra (0:3)<br>
@@ -1136,31 +1208,23 @@ Recent win rates against top 10 over the past 21 days<br>
 	7. sirgrapeLot (1:2)<br>
 	8. TPSproducer (2:4)<br>
 	9. someOnh (0:1)<br>
-	10. supiorlemon (20:43)<br>
+	10. SupiorLemon (13:24)<br>
 <br>
-154. #jennygirl (965) -1<br>
--48|-43|-44|-55|-41|-35|-28|-18|-7|-3<br>
-	2. Disciplina (7:9)<br>
-	3. croissant (27:52)<br>
-	4. Xoi (4:3)<br>
-	5. CsAsTra (2:4)<br>
-	7. sirgrapeLot (4:4)<br>
-	8. TPSproducer (20:12)<br>
-	9. someOnh (2:6)<br>
-	10. supiorlemon (40:83)<br>
+161. #dddqqq (960) +1<br>
+-44|-43|-42|-27|-31|-21|-17|-14|-7|+1<br>
+	1. Artimal_PL (0:4)<br>
+	2. Disciplina (1:5)<br>
+	3. croissant (2:7)<br>
+	4. Xoi (1:3)<br>
+	7. sirgrapeLot (0:1)<br>
+	8. TPSproducer (2:2)<br>
+	10. SupiorLemon (5:7)<br>
 <br>
-155. #Gervi (964) 0<br>
-+16|+13|+19|+24|+29|+15|+6|+12|-2|+1<br>
-	1. Artimal_PL (1:3)<br>
-	2. Disciplina (7:6)<br>
-	3. croissant (17:25)<br>
-	5. CsAsTra (0:2)<br>
-	7. sirgrapeLot (6:2)<br>
-	8. TPSproducer (13:11)<br>
-	9. someOnh (4:4)<br>
-	10. supiorlemon (44:86)<br>
+162. #jantheman (958) -1<br>
+-63|-45|-25|-1|+6|+7|+24|+38|+14|+22<br>
+	6. JCC (0:4)<br>
 <br>
-156. #MR_JABROT_X (958) -7<br>
+163. #MR_JABROT_X (958) 0<br>
 +17|+26|+22|+30|+22|+28|+31|+31|-12|-5<br>
 	1. Artimal_PL (1:10)<br>
 	3. croissant (29:35)<br>
@@ -1168,132 +1232,105 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. JCC (0:2)<br>
 	7. sirgrapeLot (3:9)<br>
 	8. TPSproducer (17:18)<br>
-	10. supiorlemon (43:88)<br>
+	10. SupiorLemon (42:70)<br>
 <br>
-157. #dddqqq (958) 0<br>
--47|-46|-44|-29|-33|-23|-19|-16|-10|-1<br>
-	1. Artimal_PL (0:4)<br>
-	2. Disciplina (1:5)<br>
-	3. croissant (3:7)<br>
-	4. Xoi (1:3)<br>
-	7. sirgrapeLot (0:1)<br>
-	8. TPSproducer (2:2)<br>
-	10. supiorlemon (6:8)<br>
+164. #mashehu (953) +1<br>
++2|+3|+8|+8|+4|+4|+6|+6|+8|+3<br>
+	9. someOnh (0:1)<br>
+	10. SupiorLemon (4:13)<br>
 <br>
-158. #halcy0n3 (956) -1<br>
--25|-21|-16|-16|-13|-4|+3|+2|0|+1<br>
-	3. croissant (4:4)<br>
-	10. supiorlemon (14:60)<br>
+165. #Rubiks_Cube (947) -1<br>
+-27|-11<br>
 <br>
-159. #LukeDecanus (955) 0<br>
--44|-45|-42|-40|-43|-35|-28|-15|-6|-2<br>
-	2. Disciplina (0:1)<br>
-	3. croissant (6:8)<br>
-	10. supiorlemon (7:38)<br>
-<br>
-160. #mashehu (954) 0<br>
-+4|+4|+9|+9|+6|+6|+8|+7|+9|+5<br>
-	10. supiorlemon (6:26)<br>
-<br>
-161. #panadool (949) 0<br>
-+27|+19|+12|+1|-6|-6|-4|-5|-5|-3<br>
-	5. CsAsTra (1:3)<br>
-	10. supiorlemon (20:16)<br>
-<br>
-162. #Rubiks_Cube (949) 0<br>
--26|-10<br>
-<br>
-163. #smurfster2 (948) -3<br>
--42|-32|-9<br>
+166. #smurfster2 (947) 0<br>
+-43|-33|-10|0<br>
 	1. Artimal_PL (0:4)<br>
 	3. croissant (0:4)<br>
 	6. JCC (2:0)<br>
 	9. someOnh (0:2)<br>
-	10. supiorlemon (3:2)<br>
+	10. SupiorLemon (3:2)<br>
 <br>
-164. #jantheman (946) 0<br>
--85|-75|-57|-37|-13|-6|-5|+12|+26|+2<br>
-	6. JCC (0:4)<br>
-<br>
-165. #Yulia1984 (945) -1<br>
-0|+8|+7|+7|-1|-10|-3|-9|-10|-3<br>
-	1. Artimal_PL (1:2)<br>
+167. #Yulia1984 (947) 0<br>
++10|+9|+9|0|-9|-1|-8|-8|-1|-1<br>
+	1. Artimal_PL (6:6)<br>
 	2. Disciplina (1:0)<br>
-	3. croissant (6:14)<br>
+	3. croissant (1:8)<br>
 	4. Xoi (1:1)<br>
 	6. JCC (1:1)<br>
 	7. sirgrapeLot (2:1)<br>
 	9. someOnh (1:10)<br>
-	10. supiorlemon (6:8)<br>
+	10. SupiorLemon (2:5)<br>
 <br>
-166. #justendit (940) 0<br>
-+20|+16|+19|+15|+12|+5|-4|-15|-14|0<br>
-<br>
-167. #amra9 (939) -12<br>
--54|-49|-40|-20<br>
-<br>
-168. #LastTimeLord (939) 0<br>
--25|-35|-27|-19|-11|-13|-7|-10|+3|+5<br>
-	2. Disciplina (2:2)<br>
-	3. croissant (12:21)<br>
+168. #panadool (946) -1<br>
++24|+17|+9|-2|-8|-9|-7|-8|-8|-6<br>
 	5. CsAsTra (1:3)<br>
-	8. TPSproducer (1:1)<br>
-	10. supiorlemon (12:12)<br>
+	10. SupiorLemon (15:9)<br>
 <br>
-169. #meltedcheese (930) +2<br>
-+16|+13|+12|+16|+13|+6|+17|+18|+7|+7<br>
-	3. croissant (2:3)<br>
-	4. Xoi (1:0)<br>
+169. #amra9 (941) +1<br>
+-52|-47|-38|-18|+1<br>
 <br>
-170. #unbridled (929) 0<br>
-+20|+12|+14|+19|+13|+12|0|+2|-6|-5<br>
-	1. Artimal_PL (0:1)<br>
+170. #unbridled (941) +4<br>
++24|+27|+31|+25|+24|+12|+14|+6|+8|+4<br>
+	1. Artimal_PL (4:3)<br>
 	2. Disciplina (12:12)<br>
 	3. croissant (10:17)<br>
 	4. Xoi (3:2)<br>
 	5. CsAsTra (1:4)<br>
 	7. sirgrapeLot (0:1)<br>
 	8. TPSproducer (9:3)<br>
-	9. someOnh (1:7)<br>
-	10. supiorlemon (12:34)<br>
+	9. someOnh (2:7)<br>
+	10. SupiorLemon (17:10)<br>
 <br>
-171. #statenisland (925) 0<br>
--11|-12|-11|-4|-3|-4|-6|-4|-4|-1<br>
+171. #LastTimeLord (940) +1<br>
+-24|-34|-26|-18|-10|-12|-6|-9|+4|+6<br>
+	2. Disciplina (3:2)<br>
+	3. croissant (12:21)<br>
+	5. CsAsTra (1:3)<br>
+	8. TPSproducer (1:1)<br>
+	10. SupiorLemon (12:13)<br>
 <br>
-172. #MarbleMango~469 (916) -1<br>
-+2|+10|+12|-4|+2|-9|-5|-6|-7|+1<br>
+172. #meltedcheese (930) +2<br>
++12|+12|+16|+12|+6|+16|+18|+6|+6|0<br>
+	1. Artimal_PL (1:0)<br>
+	4. Xoi (1:0)<br>
+	10. SupiorLemon (1:0)<br>
+<br>
+173. #statenisland (924) 0<br>
+-12|-14|-12|-5|-4|-5|-7|-5|-6|-2<br>
+<br>
+174. #MarbleMango~469 (914) -1<br>
++8|+10|-6|0|-11|-7|-8|-9|-2|0<br>
 	3. croissant (4:7)<br>
 	6. JCC (1:1)<br>
 	7. sirgrapeLot (2:1)<br>
 	9. someOnh (5:7)<br>
-	10. supiorlemon (1:6)<br>
+	10. SupiorLemon (3:5)<br>
 <br>
-173. #kern4life (907) -6<br>
--46|-37|-30|-18|-23|-25|-20|-17|-8|0<br>
+175. #kern4life (908) +1<br>
+-45|-36|-29|-17|-22|-23|-19|-16|-7|+1<br>
 	2. Disciplina (0:1)<br>
 	3. croissant (4:5)<br>
 	8. TPSproducer (1:2)<br>
-	10. supiorlemon (13:16)<br>
+	10. SupiorLemon (14:16)<br>
 <br>
-174. #MagicFox~931 (897) +3<br>
-+2|+8|+14|+5|+7|+8|+6|+10|+5|+3<br>
+176. #MagicFox~931 (893) 0<br>
++4|+10|+1|+3|+4|+2|+6|+1|-1|-1<br>
 	2. Disciplina (0:3)<br>
-	3. croissant (10:16)<br>
-	9. someOnh (6:12)<br>
-	10. supiorlemon (8:16)<br>
+	3. croissant (12:16)<br>
+	9. someOnh (7:14)<br>
+	10. SupiorLemon (7:13)<br>
 <br>
-175. #mk5rabbit (888) 0<br>
+177. #mk5rabbit (888) 0<br>
 -23|-28|-30|-27|-22|-20|-19|-15|-9|-1<br>
 	4. Xoi (0:4)<br>
 	6. JCC (0:2)<br>
-	10. supiorlemon (0:1)<br>
+	10. SupiorLemon (0:1)<br>
 <br>
-176. #iprintps (869) +1<br>
-0|-6|-2|-2|+4|+2|+4|+1|+1|-1<br>
-	2. Disciplina (3:1)<br>
-	3. croissant (6:9)<br>
+178. #iprintps (869) +2<br>
+-6|-2|-2|+4|+2|+4|+1|+1|-1|0<br>
+	3. croissant (6:8)<br>
 	4. Xoi (1:2)<br>
 	6. JCC (0:2)<br>
 	7. sirgrapeLot (0:5)<br>
 	9. someOnh (1:0)<br>
-	10. supiorlemon (5:11)<br>
+	10. SupiorLemon (1:4)<br>
