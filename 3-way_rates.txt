@@ -1,19 +1,19 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #BillY_Patro (1275) 0<br>
-+27|+28|+20|+24|+21|+9|+3|+10|+2|+1<br>
+1. #BillY_Patro (1275) +1<br>
++28|+29|+20|+25|+21|+9|+4|+11|+2|+1<br>
 	2. rickss (11:7)<br>
 	3. DavidIggyLou (2:3)<br>
 	4. GroovyFlame (7:1)<br>
 	5. A-Z-SH (6:3)<br>
-	6. Buz (2:4)<br>
+	6. Buz (3:4)<br>
 	7. enomeno (1:1)<br>
 	8. skeems (0:1)<br>
-	9. His-Majesty (11:3)<br>
-	10. TangySoda~164 (2:2)<br>
+	9. TangySoda~164 (2:2)<br>
+	10. His-Majesty (10:3)<br>
 <br>
 2. #rickss (1263) 0<br>
-+9|+5|+13|+6|+6|+3|+7|+7|+7|+6<br>
++9|+6|+14|+6|+6|+3|+7|+8|+7|+6<br>
 	1. BillY_Patro (7:11)<br>
 	3. DavidIggyLou (3:3)<br>
 	4. GroovyFlame (0:2)<br>
@@ -21,28 +21,28 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Buz (5:4)<br>
 	7. enomeno (1:0)<br>
 	8. skeems (4:1)<br>
-	9. His-Majesty (6:4)<br>
-	10. TangySoda~164 (4:2)<br>
+	9. TangySoda~164 (4:2)<br>
+	10. His-Majesty (6:4)<br>
 <br>
-3. #DavidIggyLou (1251) 0<br>
-+31|+28|+17|+9|+10|+13|+14|+10|-3|-2<br>
+3. #DavidIggyLou (1247) -4<br>
++27|+24|+12|+5|+6|+9|+10|+6|-7|-6<br>
 	1. BillY_Patro (3:2)<br>
 	2. rickss (3:3)<br>
 	4. GroovyFlame (2:1)<br>
 	5. A-Z-SH (0:1)<br>
 	6. Buz (1:3)<br>
-	9. His-Majesty (14:9)<br>
-	10. TangySoda~164 (7:1)<br>
+	9. TangySoda~164 (7:1)<br>
+	10. His-Majesty (12:9)<br>
 <br>
-4. #GroovyFlame (1233) +2<br>
-+15|+4|+8|+14|+11|+6|+2|+10|+6|+8<br>
+4. #GroovyFlame (1233) 0<br>
++16|+4|+8|+14|+11|+6|+3|+11|+7|+9<br>
 	1. BillY_Patro (1:7)<br>
 	2. rickss (2:0)<br>
 	3. DavidIggyLou (1:2)<br>
 	5. A-Z-SH (1:0)<br>
 	6. Buz (3:0)<br>
-	9. His-Majesty (5:3)<br>
-	10. TangySoda~164 (6:3)<br>
+	9. TangySoda~164 (6:3)<br>
+	10. His-Majesty (6:3)<br>
 <br>
 5. #A-Z-SH (1228) 0<br>
 -1|+7|+21|+22|+4|+19|+12|+6|+4|-1<br>
@@ -52,186 +52,197 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. GroovyFlame (0:1)<br>
 	6. Buz (4:2)<br>
 	7. enomeno (0:1)<br>
-	9. His-Majesty (2:1)<br>
-	10. TangySoda~164 (0:2)<br>
+	9. TangySoda~164 (0:2)<br>
+	10. His-Majesty (2:1)<br>
 <br>
-6. #Buz (1205) +3<br>
-+20|+24|+25|+30|+31|+24|+19|+11|+8|+3<br>
-	1. BillY_Patro (4:2)<br>
+6. #Buz (1207) +2<br>
++21|+26|+26|+31|+33|+25|+21|+13|+10|+5<br>
+	1. BillY_Patro (4:3)<br>
 	2. rickss (4:5)<br>
 	3. DavidIggyLou (3:1)<br>
 	4. GroovyFlame (0:3)<br>
 	5. A-Z-SH (2:4)<br>
 	7. enomeno (2:2)<br>
 	8. skeems (3:2)<br>
-	9. His-Majesty (9:6)<br>
-	10. TangySoda~164 (2:1)<br>
+	9. TangySoda~164 (3:1)<br>
+	10. His-Majesty (10:6)<br>
 <br>
-7. #enomeno (1196) -1<br>
-+95|+74|+74|+56|+53|+45|+23|+22|+20|-1<br>
+7. #enomeno (1197) +1<br>
++95|+74|+75|+57|+53|+45|+24|+23|+20|0<br>
 	1. BillY_Patro (1:1)<br>
 	2. rickss (0:1)<br>
 	5. A-Z-SH (1:0)<br>
 	6. Buz (2:2)<br>
 	8. skeems (1:0)<br>
-	9. His-Majesty (5:3)<br>
-	10. TangySoda~164 (0:1)<br>
+	9. TangySoda~164 (1:3)<br>
+	10. His-Majesty (4:3)<br>
 <br>
-8. #skeems (1190) 0<br>
-+13|+19|+28|+26|+26|+36|+28|+14|+11|-2<br>
+8. #skeems (1194) +4<br>
++16|+23|+32|+30|+30|+40|+31|+18|+15|+2<br>
 	1. BillY_Patro (1:0)<br>
 	2. rickss (1:4)<br>
 	6. Buz (2:3)<br>
 	7. enomeno (0:1)<br>
-	9. His-Majesty (6:5)<br>
-	10. TangySoda~164 (3:1)<br>
+	9. TangySoda~164 (4:1)<br>
+	10. His-Majesty (6:5)<br>
 <br>
-9. #His-Majesty (1182) +4<br>
-+12|0|+6|+18|+24|+19|+22|+15|+10|+2<br>
-	1. BillY_Patro (3:11)<br>
-	2. rickss (4:6)<br>
-	3. DavidIggyLou (9:14)<br>
-	4. GroovyFlame (3:5)<br>
-	5. A-Z-SH (1:2)<br>
-	6. Buz (6:9)<br>
-	7. enomeno (3:5)<br>
-	8. skeems (5:6)<br>
-	10. TangySoda~164 (4:3)<br>
-<br>
-10. #TangySoda~164 (1182) -2<br>
-+6|+2|+3|-3|-13|-19|-14|-9|+2|-6<br>
+9. #TangySoda~164 (1185) +2<br>
++4|+5|-1|-11|-17|-12|-7|+4|-4|-1<br>
 	1. BillY_Patro (2:2)<br>
 	2. rickss (2:4)<br>
 	3. DavidIggyLou (1:7)<br>
 	4. GroovyFlame (3:6)<br>
 	5. A-Z-SH (2:0)<br>
-	6. Buz (1:2)<br>
-	7. enomeno (1:0)<br>
-	8. skeems (1:3)<br>
-	9. His-Majesty (3:4)<br>
+	6. Buz (1:3)<br>
+	7. enomeno (3:1)<br>
+	8. skeems (1:4)<br>
+	10. His-Majesty (3:4)<br>
 <br>
-11. #stront01 (1178) 0<br>
-+29|+15|+9|+1|-6|-5|-1|-4|-3|-2<br>
+10. #His-Majesty (1177) -6<br>
++7|-6|0|+12|+18|+13|+16|+9|+4|-4<br>
+	1. BillY_Patro (3:10)<br>
+	2. rickss (4:6)<br>
+	3. DavidIggyLou (9:12)<br>
+	4. GroovyFlame (3:6)<br>
+	5. A-Z-SH (1:2)<br>
+	6. Buz (6:10)<br>
+	7. enomeno (3:4)<br>
+	8. skeems (5:6)<br>
+	9. TangySoda~164 (4:3)<br>
+<br>
+11. #stront01 (1176) -2<br>
++27|+13|+7|-1|-8|-7|-3|-6|-5|-5<br>
 	1. BillY_Patro (0:2)<br>
 	2. rickss (1:5)<br>
 	3. DavidIggyLou (2:1)<br>
 	5. A-Z-SH (3:0)<br>
 	6. Buz (1:0)<br>
 	8. skeems (0:1)<br>
-	9. His-Majesty (1:2)<br>
-	10. TangySoda~164 (2:0)<br>
+	9. TangySoda~164 (2:0)<br>
+	10. His-Majesty (2:2)<br>
 <br>
-12. #themadox (1165) -4<br>
-+18|+27|+29|+22|+16|+15|+6|-9|-7|-6<br>
+12. #slowzx (1166) -1<br>
++147|+128|+103|+85|+45|+25|+9<br>
+	1. BillY_Patro (0:1)<br>
+	2. rickss (0:3)<br>
+	4. GroovyFlame (2:0)<br>
+	5. A-Z-SH (0:2)<br>
+	6. Buz (2:2)<br>
+	8. skeems (4:1)<br>
+	9. TangySoda~164 (0:1)<br>
+	10. His-Majesty (0:2)<br>
+<br>
+13. #Celica (1166) +1<br>
+-5|-2|+1|+6|+2|+4|-2|-11|0|+3<br>
+	1. BillY_Patro (1:1)<br>
+	2. rickss (1:4)<br>
+	3. DavidIggyLou (1:1)<br>
+	5. A-Z-SH (2:1)<br>
+	9. TangySoda~164 (0:5)<br>
+	10. His-Majesty (0:3)<br>
+<br>
+14. #osa (1166) +7<br>
+-1|-5|-3|+3|+4|+5|+8|+5|+1|+3<br>
+	2. rickss (3:8)<br>
+	5. A-Z-SH (0:1)<br>
+	9. TangySoda~164 (1:2)<br>
+	10. His-Majesty (2:1)<br>
+<br>
+15. #themadox (1164) -1<br>
++18|+26|+28|+22|+15|+14|+5|-9|-8|-6<br>
 	1. BillY_Patro (0:2)<br>
 	2. rickss (1:4)<br>
 	3. DavidIggyLou (0:1)<br>
 	6. Buz (0:3)<br>
 	8. skeems (1:0)<br>
-	9. His-Majesty (2:0)<br>
-	10. TangySoda~164 (4:0)<br>
+	9. TangySoda~164 (4:0)<br>
+	10. His-Majesty (2:0)<br>
 <br>
-13. #Celica (1164) -2<br>
--6|-3|0|+5|+1|+3|-3|-12|-2|+1<br>
-	1. BillY_Patro (1:1)<br>
-	2. rickss (1:4)<br>
-	3. DavidIggyLou (1:1)<br>
-	5. A-Z-SH (2:1)<br>
-	9. His-Majesty (0:3)<br>
-	10. TangySoda~164 (0:5)<br>
-<br>
-14. #osa (1159) -3<br>
--8|-12|-10|-4|-3|-2|+2|-2|-5|-3<br>
-	2. rickss (3:4)<br>
-	5. A-Z-SH (0:1)<br>
-	9. His-Majesty (2:1)<br>
-<br>
-15. #jerocco (1156) +1<br>
-+3|-1|-6|-16|+3|+4|-5|-1|+11|+4<br>
+16. #jerocco (1158) +1<br>
++5|0|-5|-15|+4|+5|-4|0|+12|+6<br>
 	1. BillY_Patro (0:3)<br>
 	2. rickss (1:2)<br>
-	3. DavidIggyLou (3:0)<br>
+	3. DavidIggyLou (4:0)<br>
 	4. GroovyFlame (2:1)<br>
 	6. Buz (8:4)<br>
 	7. enomeno (2:5)<br>
 	8. skeems (1:0)<br>
-	9. His-Majesty (1:1)<br>
-	10. TangySoda~164 (3:1)<br>
+	9. TangySoda~164 (3:1)<br>
+	10. His-Majesty (1:1)<br>
 <br>
-16. #SquashPX (1155) +2<br>
-+3|+6|0|+15|+9|+4|+8|+12|+10|+7<br>
-	2. rickss (1:3)<br>
-	4. GroovyFlame (1:0)<br>
-	5. A-Z-SH (2:3)<br>
-	7. enomeno (3:8)<br>
-	9. His-Majesty (1:0)<br>
-<br>
-17. #tinkywinky (1154) 0<br>
-+122|+81|+56|+34|+18|+2<br>
+17. #tinkywinky (1153) 0<br>
++122|+81|+56|+33|+17|+2<br>
 	3. DavidIggyLou (0:2)<br>
 	5. A-Z-SH (0:2)<br>
 	6. Buz (0:1)<br>
 	8. skeems (1:0)<br>
-	10. TangySoda~164 (0:2)<br>
+	9. TangySoda~164 (0:2)<br>
 <br>
-18. #TidyFox-415 (1152) 0<br>
+18. #SquashPX (1152) -3<br>
++3|-3|+13|+6|+1|+5|+9|+8|+4|-1<br>
+	2. rickss (1:3)<br>
+	4. GroovyFlame (1:0)<br>
+	5. A-Z-SH (2:3)<br>
+	7. enomeno (3:8)<br>
+	10. His-Majesty (1:0)<br>
+<br>
+19. #TidyFox-415 (1152) 0<br>
 +81|+52|+53|+36|+29|+15|+1|+3|-1|+8<br>
 	1. BillY_Patro (0:2)<br>
 	2. rickss (0:2)<br>
 	3. DavidIggyLou (0:1)<br>
 	6. Buz (4:4)<br>
-	8. skeems (0:1)<br>
-	9. His-Majesty (0:3)<br>
+	10. His-Majesty (0:3)<br>
 <br>
-19. #BDAT10 (1146) +4<br>
-+8|+11|+10|-4|+1|+7|+9|+8|-2|-4<br>
-	1. BillY_Patro (5:8)<br>
-	2. rickss (2:1)<br>
-	3. DavidIggyLou (0:1)<br>
-	4. GroovyFlame (0:3)<br>
-	6. Buz (2:3)<br>
-	7. enomeno (0:2)<br>
-	8. skeems (3:3)<br>
-	9. His-Majesty (6:5)<br>
-	10. TangySoda~164 (0:1)<br>
-<br>
-20. #elNino (1144) 0<br>
-+125|+92|+81|+51|+32|+18|+1<br>
-	1. BillY_Patro (2:4)<br>
+20. #elNino (1149) +5<br>
++130|+98|+87|+57|+38|+24|+7<br>
+	1. BillY_Patro (1:3)<br>
 	2. rickss (4:2)<br>
 	3. DavidIggyLou (6:4)<br>
 	5. A-Z-SH (2:0)<br>
-	6. Buz (4:1)<br>
+	6. Buz (5:1)<br>
 	7. enomeno (1:2)<br>
-	8. skeems (2:2)<br>
-	9. His-Majesty (3:7)<br>
-	10. TangySoda~164 (3:1)<br>
+	8. skeems (1:4)<br>
+	9. TangySoda~164 (5:3)<br>
+	10. His-Majesty (3:7)<br>
 <br>
-21. #LethalSquas~296 (1140) -1<br>
+21. #LethalSquas~296 (1140) 0<br>
 +115|+83|+69|+44|+37|+27|+23|+18|-1<br>
 	1. BillY_Patro (1:1)<br>
 	3. DavidIggyLou (0:2)<br>
 	4. GroovyFlame (1:1)<br>
 	6. Buz (0:1)<br>
-	10. TangySoda~164 (0:1)<br>
+	9. TangySoda~164 (0:1)<br>
 <br>
-22. #dfyyxy (1138) 0<br>
+22. #BDAT10 (1139) -6<br>
++5|+3|-11|-6|+1|+2|+2|-9|-11|-2<br>
+	1. BillY_Patro (5:8)<br>
+	2. rickss (2:1)<br>
+	3. DavidIggyLou (0:1)<br>
+	4. GroovyFlame (0:3)<br>
+	6. Buz (2:4)<br>
+	7. enomeno (0:2)<br>
+	8. skeems (3:3)<br>
+	9. TangySoda~164 (0:1)<br>
+	10. His-Majesty (6:5)<br>
+<br>
+23. #dfyyxy (1138) 0<br>
 -36|-17|-15|-19|-21|-17|-16|-19|-25|-6<br>
 	1. BillY_Patro (1:0)<br>
 	2. rickss (2:1)<br>
 	5. A-Z-SH (1:2)<br>
 	7. enomeno (0:1)<br>
-	9. His-Majesty (5:3)<br>
-	10. TangySoda~164 (1:0)<br>
+	9. TangySoda~164 (1:0)<br>
+	10. His-Majesty (5:3)<br>
 <br>
-23. #mahone007 (1137) -5<br>
--1|0|-8|-12|-1|+7|-3|+1|+1|-11<br>
+24. #mahone007 (1134) -3<br>
+-4|-3|-11|-15|-4|+3|-6|-3|-3|-15<br>
 	1. BillY_Patro (0:1)<br>
 	2. rickss (0:1)<br>
 	3. DavidIggyLou (0:1)<br>
-	9. His-Majesty (1:0)<br>
+	10. His-Majesty (1:0)<br>
 <br>
-24. #lasman (1131) 0<br>
+25. #lasman (1131) 0<br>
 +111|+102|+82|+65|+47|+28|+16|+7|+3<br>
 	2. rickss (0:2)<br>
 	3. DavidIggyLou (0:1)<br>
@@ -239,61 +250,63 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Buz (0:1)<br>
 	7. enomeno (1:4)<br>
 	8. skeems (2:1)<br>
-	9. His-Majesty (1:0)<br>
-	10. TangySoda~164 (1:1)<br>
+	9. TangySoda~164 (1:1)<br>
+	10. His-Majesty (1:0)<br>
 <br>
-25. #thereason (1123) +1<br>
--4|-10|0|+7|+5|-6|-7|-5|+1|+1<br>
+26. #benjamin1981 (1123) +6<br>
++109|+88|+80|+58|+34|+31|+35|+22|+13<br>
+	1. BillY_Patro (1:2)<br>
+	4. GroovyFlame (3:3)<br>
+	6. Buz (5:1)<br>
+	8. skeems (0:1)<br>
+	9. TangySoda~164 (0:5)<br>
+	10. His-Majesty (6:9)<br>
+<br>
+27. #thereason (1120) -3<br>
+-7|-13|-3|+4|+2|-9|-10|-8|-2|-2<br>
 	1. BillY_Patro (1:0)<br>
 	2. rickss (0:3)<br>
 	3. DavidIggyLou (3:2)<br>
 	4. GroovyFlame (2:11)<br>
-	6. Buz (9:5)<br>
+	6. Buz (9:6)<br>
 	7. enomeno (1:0)<br>
 	8. skeems (4:1)<br>
-	9. His-Majesty (2:3)<br>
-	10. TangySoda~164 (2:4)<br>
+	9. TangySoda~164 (2:4)<br>
+	10. His-Majesty (2:3)<br>
 <br>
-26. #benjamin1981 (1117) -1<br>
-+103|+82|+74|+52|+29|+25|+29|+16|+7<br>
-	1. BillY_Patro (1:2)<br>
-	3. DavidIggyLou (0:1)<br>
-	4. GroovyFlame (3:3)<br>
-	6. Buz (5:1)<br>
-	8. skeems (0:1)<br>
-	9. His-Majesty (5:9)<br>
-	10. TangySoda~164 (0:5)<br>
-<br>
-27. #Crispo (1115) +1<br>
-+117|+100|+75|+63|+52|+38|+23|+8|+9<br>
+28. #Crispo (1119) +4<br>
++121|+104|+79|+67|+56|+42|+27|+12|+13<br>
 	1. BillY_Patro (0:1)<br>
 	2. rickss (1:1)<br>
+	3. DavidIggyLou (1:0)<br>
 	7. enomeno (0:1)<br>
 	8. skeems (1:1)<br>
-	9. His-Majesty (3:5)<br>
+	10. His-Majesty (3:4)<br>
 <br>
-28. #SnatchWeasel (1110) 0<br>
-+102|+75|+56|+37|+11<br>
+29. #laudamus (1109) +3<br>
++63|+24<br>
 	1. BillY_Patro (1:0)<br>
-	3. DavidIggyLou (1:3)<br>
-	4. GroovyFlame (0:4)<br>
-	6. Buz (0:3)<br>
-	9. His-Majesty (2:1)<br>
-	10. TangySoda~164 (6:2)<br>
+	2. rickss (0:1)<br>
+	3. DavidIggyLou (1:0)<br>
+	4. GroovyFlame (1:0)<br>
+	6. Buz (1:2)<br>
+	8. skeems (1:1)<br>
+	9. TangySoda~164 (1:2)<br>
+	10. His-Majesty (2:1)<br>
 <br>
-29. #V01Dfuzz (1104) -1<br>
-+77|+43|+33|+4|-2|-7<br>
+30. #V01Dfuzz (1107) +2<br>
++80|+46|+35|+7|+1|-5|+1<br>
 	1. BillY_Patro (2:5)<br>
 	2. rickss (1:3)<br>
 	3. DavidIggyLou (1:1)<br>
 	4. GroovyFlame (0:1)<br>
 	6. Buz (3:1)<br>
 	7. enomeno (1:5)<br>
-	9. His-Majesty (2:2)<br>
-	10. TangySoda~164 (1:0)<br>
+	9. TangySoda~164 (1:0)<br>
+	10. His-Majesty (3:2)<br>
 <br>
-30. #popeye (1101) +2<br>
-+92|+80|+66|+44|+22|+11|+2<br>
+31. #popeye (1102) +1<br>
++93|+81|+67|+45|+23|+12|+3<br>
 	1. BillY_Patro (0:1)<br>
 	2. rickss (1:2)<br>
 	3. DavidIggyLou (1:1)<br>
@@ -301,20 +314,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. A-Z-SH (0:1)<br>
 	6. Buz (0:3)<br>
 	8. skeems (1:3)<br>
-	9. His-Majesty (3:6)<br>
-	10. TangySoda~164 (0:2)<br>
+	9. TangySoda~164 (0:2)<br>
+	10. His-Majesty (3:5)<br>
 <br>
-31. #JSU332017 (1096) -2<br>
-+78|+53|+53|+27|+8|-4|-7|+2<br>
+32. #JSU332017 (1097) +1<br>
++80|+55|+54|+28|+10|-3|-6|+4|+2<br>
 	1. BillY_Patro (1:1)<br>
 	2. rickss (8:7)<br>
 	6. Buz (3:3)<br>
 	7. enomeno (1:1)<br>
 	8. skeems (1:0)<br>
-	9. His-Majesty (2:1)<br>
-	10. TangySoda~164 (1:2)<br>
+	9. TangySoda~164 (1:2)<br>
+	10. His-Majesty (2:0)<br>
 <br>
-32. #GrumpyDeer~270 (1087) 0<br>
+33. #GrumpyDeer~270 (1087) 0<br>
 +34<br>
 	1. BillY_Patro (0:1)<br>
 	2. rickss (4:0)<br>
@@ -322,18 +335,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. A-Z-SH (1:0)<br>
 	6. Buz (0:1)<br>
 <br>
-33. #Astinax (1085) -2<br>
-+76|+60|+50|+33|+21|+3|+1|+6|+2|-1<br>
-	1. BillY_Patro (0:1)<br>
+34. #Astinax (1086) +1<br>
++77|+61|+52|+34|+22|+4|+2|+7|+3|0<br>
 	2. rickss (1:0)<br>
 	4. GroovyFlame (0:2)<br>
 	6. Buz (0:3)<br>
 	7. enomeno (1:2)<br>
 	8. skeems (0:1)<br>
-	9. His-Majesty (2:0)<br>
-	10. TangySoda~164 (1:0)<br>
+	9. TangySoda~164 (1:0)<br>
+	10. His-Majesty (2:0)<br>
 <br>
-34. #winkwink (1085) 0<br>
+35. #winkwink (1085) 0<br>
 +55|+38|+27|+6<br>
 	1. BillY_Patro (1:3)<br>
 	2. rickss (3:2)<br>
@@ -342,67 +354,57 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. A-Z-SH (1:4)<br>
 	6. Buz (1:1)<br>
 	8. skeems (3:0)<br>
-	9. His-Majesty (8:9)<br>
+	10. His-Majesty (7:9)<br>
 <br>
-35. #FenixTheWar (1082) 0<br>
-+54|+31|+13<br>
+36. #FenixTheWar (1082) 0<br>
++54|+30|+12<br>
 	2. rickss (6:1)<br>
 	3. DavidIggyLou (1:1)<br>
 	4. GroovyFlame (1:1)<br>
 	5. A-Z-SH (0:2)<br>
 	6. Buz (0:1)<br>
 	7. enomeno (1:2)<br>
-	9. His-Majesty (3:3)<br>
-	10. TangySoda~164 (2:0)<br>
+	9. TangySoda~164 (2:0)<br>
+	10. His-Majesty (3:3)<br>
 <br>
-36. #OBTHR33 (1079) -1<br>
-+47|+44|+28|+16|-2<br>
-	3. DavidIggyLou (0:1)<br>
-	6. Buz (0:2)<br>
-	9. His-Majesty (2:2)<br>
-<br>
-37. #Olliec (1073) 0<br>
-+23|+31|+19|+8|+16|+6|-18|-17|-23|-5<br>
-	1. BillY_Patro (1:0)<br>
-	2. rickss (1:0)<br>
-	3. DavidIggyLou (1:5)<br>
-	6. Buz (2:2)<br>
-	7. enomeno (3:7)<br>
-	8. skeems (0:1)<br>
-	9. His-Majesty (2:1)<br>
-<br>
-38. #SlickErmine~247 (1071) +1<br>
-+17|+13|-1|-3|-6|+2|0|-5|-7|+5<br>
-	3. DavidIggyLou (0:8)<br>
-	5. A-Z-SH (2:0)<br>
-	6. Buz (3:1)<br>
-	7. enomeno (0:1)<br>
-	9. His-Majesty (2:3)<br>
-	10. TangySoda~164 (0:2)<br>
-<br>
-39. #root_79 (1070) +9<br>
-+63|+54|+45|+29|+3<br>
+37. #root_79 (1077) +6<br>
++69|+61|+51|+35|+9<br>
 	1. BillY_Patro (2:2)<br>
 	2. rickss (0:4)<br>
 	3. DavidIggyLou (1:3)<br>
 	5. A-Z-SH (1:2)<br>
 	6. Buz (3:2)<br>
 	7. enomeno (2:3)<br>
-	9. His-Majesty (2:4)<br>
-	10. TangySoda~164 (4:5)<br>
+	9. TangySoda~164 (4:4)<br>
+	10. His-Majesty (2:4)<br>
 <br>
-40. #BOOTYCAKE (1068) +5<br>
-+36|+7<br>
+38. #OBTHR33 (1077) -2<br>
++45|+42|+26|+14|-4<br>
+	3. DavidIggyLou (0:1)<br>
+	6. Buz (0:2)<br>
+	10. His-Majesty (2:3)<br>
+<br>
+39. #Olliec (1075) +2<br>
++33|+21|+10|+18|+8|-16|-14|-21|-3|0<br>
 	1. BillY_Patro (1:0)<br>
-	5. A-Z-SH (1:0)<br>
-	6. Buz (4:10)<br>
-	7. enomeno (2:6)<br>
-	8. skeems (1:3)<br>
-	9. His-Majesty (2:2)<br>
-	10. TangySoda~164 (1:0)<br>
+	2. rickss (1:0)<br>
+	3. DavidIggyLou (1:5)<br>
+	6. Buz (2:2)<br>
+	7. enomeno (3:7)<br>
+	8. skeems (0:1)<br>
+	10. His-Majesty (2:1)<br>
 <br>
-41. #GiddySleet~365 (1063) +2<br>
-+36|+28|+10|+2<br>
+40. #SlickErmine~247 (1071) 0<br>
++16|+12|-1|-4|-7|+2|0|-6|-7|+5<br>
+	3. DavidIggyLou (0:8)<br>
+	5. A-Z-SH (2:0)<br>
+	6. Buz (3:1)<br>
+	7. enomeno (0:1)<br>
+	9. TangySoda~164 (0:2)<br>
+	10. His-Majesty (2:3)<br>
+<br>
+41. #GiddySleet~365 (1067) +5<br>
++41|+33|+15|+7<br>
 	1. BillY_Patro (4:1)<br>
 	2. rickss (0:1)<br>
 	3. DavidIggyLou (2:3)<br>
@@ -410,54 +412,65 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Buz (1:7)<br>
 	7. enomeno (0:1)<br>
 	8. skeems (2:2)<br>
-	9. His-Majesty (0:1)<br>
-	10. TangySoda~164 (5:3)<br>
+	9. TangySoda~164 (5:3)<br>
+	10. His-Majesty (0:1)<br>
 <br>
-42. #QuirkyToad~911 (1053) -2<br>
-+57|+51|+50|+41|+31|+8|+5|+2<br>
-	4. GroovyFlame (0:2)<br>
-	6. Buz (1:3)<br>
+42. #davidpowell (1054) +2<br>
++27|0<br>
+	1. BillY_Patro (1:0)<br>
+	2. rickss (2:0)<br>
+	3. DavidIggyLou (1:0)<br>
+	5. A-Z-SH (0:1)<br>
+	6. Buz (3:2)<br>
 	7. enomeno (0:1)<br>
-	10. TangySoda~164 (0:2)<br>
+	8. skeems (1:0)<br>
+	9. TangySoda~164 (1:4)<br>
+	10. His-Majesty (3:2)<br>
 <br>
-43. #fadam (1053) 0<br>
-+48|+29|+11|+6<br>
+43. #PuffyPotato~928 (1053) +1<br>
++31|+2<br>
+	1. BillY_Patro (0:2)<br>
+	4. GroovyFlame (1:0)<br>
+	6. Buz (0:2)<br>
+	8. skeems (1:4)<br>
+<br>
+44. #fadam (1052) -1<br>
++47|+28|+10|+6<br>
 	1. BillY_Patro (1:2)<br>
 	2. rickss (1:4)<br>
 	4. GroovyFlame (0:1)<br>
 	6. Buz (1:5)<br>
 	7. enomeno (0:2)<br>
-	9. His-Majesty (1:5)<br>
-	10. TangySoda~164 (2:2)<br>
+	9. TangySoda~164 (1:2)<br>
+	10. His-Majesty (1:5)<br>
 <br>
-44. #PuffyPotato~928 (1052) +4<br>
-+30|+1<br>
-	1. BillY_Patro (0:2)<br>
-	4. GroovyFlame (1:0)<br>
-	6. Buz (0:1)<br>
-	8. skeems (1:4)<br>
-<br>
-45. #davidpowell (1052) 0<br>
-+24<br>
-	1. BillY_Patro (1:0)<br>
-	2. rickss (1:0)<br>
-	3. DavidIggyLou (1:0)<br>
-	5. A-Z-SH (0:1)<br>
-	6. Buz (3:2)<br>
-	7. enomeno (0:1)<br>
-	9. His-Majesty (2:2)<br>
-	10. TangySoda~164 (1:2)<br>
-<br>
-46. #DryMango~917 (1052) 0<br>
-+50|+32|+12|+4<br>
+45. #DryMango~917 (1051) -1<br>
++50|+32|+11|+3<br>
 	1. BillY_Patro (1:3)<br>
 	2. rickss (0:2)<br>
-	3. DavidIggyLou (3:7)<br>
-	9. His-Majesty (1:1)<br>
-	10. TangySoda~164 (3:4)<br>
+	3. DavidIggyLou (3:4)<br>
+	9. TangySoda~164 (3:4)<br>
+	10. His-Majesty (1:1)<br>
 <br>
-47. #renzor (1049) 0<br>
-+41|+34|+7|+6<br>
+46. #QuirkyToad~911 (1051) -2<br>
++55|+49|+48|+39|+29|+7|+3|0<br>
+	4. GroovyFlame (0:2)<br>
+	6. Buz (1:3)<br>
+	7. enomeno (0:1)<br>
+	9. TangySoda~164 (0:3)<br>
+<br>
+47. #WiseBoat~137 (1048) 0<br>
++46|+38|+33|+8|0<br>
+	2. rickss (0:3)<br>
+	3. DavidIggyLou (0:1)<br>
+	4. GroovyFlame (0:1)<br>
+	6. Buz (3:5)<br>
+	7. enomeno (1:1)<br>
+	9. TangySoda~164 (3:2)<br>
+	10. His-Majesty (2:0)<br>
+<br>
+48. #renzor (1046) -3<br>
++38|+32|+4|+3<br>
 	1. BillY_Patro (0:1)<br>
 	2. rickss (2:1)<br>
 	3. DavidIggyLou (0:3)<br>
@@ -465,40 +478,34 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. A-Z-SH (2:0)<br>
 	6. Buz (1:2)<br>
 	8. skeems (2:0)<br>
-	9. His-Majesty (1:3)<br>
-	10. TangySoda~164 (4:4)<br>
+	9. TangySoda~164 (4:4)<br>
+	10. His-Majesty (1:3)<br>
 <br>
-48. #WiseBoat~137 (1048) +1<br>
-+46|+38|+33|+9|0<br>
-	2. rickss (0:3)<br>
-	3. DavidIggyLou (0:1)<br>
-	4. GroovyFlame (0:1)<br>
-	6. Buz (3:5)<br>
-	7. enomeno (1:1)<br>
-	9. His-Majesty (2:0)<br>
-	10. TangySoda~164 (3:2)<br>
-<br>
-49. #dadedread786 (1019) 0<br>
-0|-6<br>
+49. #dadedread786 (1020) +1<br>
++1|-5<br>
 	1. BillY_Patro (0:3)<br>
 	2. rickss (0:2)<br>
 	3. DavidIggyLou (1:0)<br>
 	5. A-Z-SH (0:5)<br>
-	6. Buz (0:2)<br>
+	6. Buz (0:3)<br>
 	7. enomeno (0:2)<br>
 	8. skeems (0:1)<br>
-	9. His-Majesty (2:2)<br>
-	10. TangySoda~164 (2:1)<br>
+	9. TangySoda~164 (2:2)<br>
+	10. His-Majesty (2:2)<br>
 <br>
-50. #RockySpruce~290 (1004) 0<br>
-+2|+1<br>
+50. #RockySpruce~290 (1004) -1<br>
++2|+1|+1<br>
 	2. rickss (0:3)<br>
 	8. skeems (0:1)<br>
-	9. His-Majesty (0:6)<br>
-	10. TangySoda~164 (1:1)<br>
+	9. TangySoda~164 (2:1)<br>
+	10. His-Majesty (0:6)<br>
 <br>
-51. #LivelyClove~848 (998) -1<br>
+51. #LivelyClove~848 (998) 0<br>
 +1|-2|-1<br>
 	6. Buz (0:2)<br>
-	9. His-Majesty (1:4)<br>
-	10. TangySoda~164 (0:8)<br>
+	9. TangySoda~164 (0:8)<br>
+	10. His-Majesty (1:4)<br>
+<br>
+52. #orenong (976) +1<br>
+-13|-8|-11|-5|+6|+5|+3|+12|+14|+13<br>
+	7. enomeno (0:3)<br>
