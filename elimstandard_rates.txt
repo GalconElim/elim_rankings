@@ -12,13 +12,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. Eudaemonia (40:13)<br>
 <br>
 2. #Reclamation- (1288) 0<br>
-+18|+7|-5|-8|-5|0|-2|-6|-5|-3<br>
++18|+8|-5|-8|-5|0|-2|-6|-5|-2<br>
 	1. gamaray1719 (14:25)<br>
 	3. waffle3z (41:34)<br>
 	4. Symsymmy (9:12)<br>
 	5. matty (91:64)<br>
 	6. Parko (0:1)<br>
-	7. JDHA218 (41:20)<br>
+	7. JDHA218 (39:16)<br>
 	8. zamrai (12:0)<br>
 	9. Jasem (25:14)<br>
 	10. Eudaemonia (50:24)<br>
@@ -32,7 +32,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (27:11)<br>
 <br>
 4. #Symsymmy (1209) 0<br>
--11|-12|-4|+3|+8|+1|+2|-1|-2|0<br>
+-11|-12|-4|+3|+8|+1|+2|-1|-1|+1<br>
 	1. gamaray1719 (14:30)<br>
 	2. Reclamation- (12:9)<br>
 	3. waffle3z (3:7)<br>
@@ -54,17 +54,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Jasem (11:7)<br>
 	10. Eudaemonia (41:31)<br>
 <br>
-6. #Parko (1189) -1<br>
-+37|+25|+24|+21|+10|+7|+2|0|+5|-1<br>
+6. #Parko (1188) -2<br>
++36|+23|+22|+19|+8|+5|0|-2|+3|-3<br>
 	2. Reclamation- (1:0)<br>
 	4. Symsymmy (0:2)<br>
 	5. matty (1:3)<br>
 	7. JDHA218 (4:2)<br>
 <br>
-7. #JDHA218 (1178) 0<br>
-+7|+11|+16|+14|+13|+9|+4|0|-4|0<br>
+7. #JDHA218 (1177) 0<br>
++6|+10|+15|+14|+13|+8|+4|-1|-5|-1<br>
 	1. gamaray1719 (3:11)<br>
-	2. Reclamation- (20:41)<br>
+	2. Reclamation- (16:39)<br>
 	3. waffle3z (11:27)<br>
 	4. Symsymmy (7:11)<br>
 	5. matty (42:42)<br>
@@ -98,16 +98,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. matty (31:41)<br>
 	7. JDHA218 (19:24)<br>
 <br>
-11. #waffle~3z (1151) -2<br>
+11. #waffle~3z (1151) 0<br>
 -39|-34|-28|-27|-31|-30|-16|-19|-16|-3<br>
 	3. waffle3z (5:15)<br>
 <br>
-12. #Orbiter (1145) 0<br>
-+48|+44|+41|+32|+17|+16|+4|+5|-2|+7<br>
+12. #Orbiter (1145) -1<br>
++47|+44|+40|+32|+16|+15|+3|+5|-3|+7<br>
 	1. gamaray1719 (1:0)<br>
 	2. Reclamation- (1:12)<br>
 	4. Symsymmy (0:1)<br>
 	5. matty (2:3)<br>
+	7. JDHA218 (1:0)<br>
 <br>
 13. #Eliminator-- (1126) 0<br>
 +91|+66|+41|+22|+3<br>
@@ -136,7 +137,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Jasem (13:1)<br>
 <br>
 16. #croissant (1107) 0<br>
-+95|+78|+69|+60|+57|+54|+47|+31|+26|+14<br>
++95|+78|+69|+60|+57|+54|+48|+32|+26|+14<br>
 	1. gamaray1719 (2:8)<br>
 	2. Reclamation- (4:15)<br>
 	3. waffle3z (1:2)<br>
@@ -156,15 +157,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. zamrai (0:1)<br>
 	9. Jasem (4:6)<br>
 <br>
-18. #bejut (1098) 0<br>
-+20|+4|-4|-6|-13|-1|+6|+2|+5|+1<br>
-	2. Reclamation- (4:27)<br>
-	5. matty (8:16)<br>
-	6. Parko (1:1)<br>
-	7. JDHA218 (0:1)<br>
-	8. zamrai (3:0)<br>
-<br>
-19. #uranus-98 (1096) 0<br>
+18. #uranus-98 (1096) 0<br>
 +30|+20|+18|+20|+17|+14|+10|+10|+3|+3<br>
 	1. gamaray1719 (14:44)<br>
 	2. Reclamation- (3:3)<br>
@@ -172,9 +165,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. Symsymmy (14:42)<br>
 	5. matty (10:23)<br>
 	6. Parko (2:6)<br>
-	7. JDHA218 (22:31)<br>
+	7. JDHA218 (21:29)<br>
 	8. zamrai (1:2)<br>
 	10. Eudaemonia (0:2)<br>
+<br>
+19. #bejut (1094) -4<br>
++16|0|-7|-10|-17|-5|+2|-1|+1|-3<br>
+	2. Reclamation- (4:27)<br>
+	4. Symsymmy (0:1)<br>
+	5. matty (8:16)<br>
+	6. Parko (1:1)<br>
+	7. JDHA218 (0:3)<br>
+	8. zamrai (3:0)<br>
 <br>
 20. #Shadowblaze. (1091) 0<br>
 +87|+77|+59|+45|+36|+20|+2<br>
@@ -194,7 +196,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. Symsymmy (2:0)<br>
 	5. matty (19:36)<br>
 	6. Parko (10:8)<br>
-	7. JDHA218 (7:17)<br>
+	7. JDHA218 (4:17)<br>
 	9. Jasem (19:40)<br>
 <br>
 22. #NotSaand (1076) 0<br>
@@ -211,7 +213,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	3. waffle3z (24:34)<br>
 	5. matty (4:7)<br>
 	6. Parko (10:14)<br>
-	7. JDHA218 (4:11)<br>
+	7. JDHA218 (2:3)<br>
 	9. Jasem (1:1)<br>
 <br>
 24. #John_Wayne98 (1064) 0<br>
@@ -219,7 +221,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. Symsymmy (11:11)<br>
 	5. matty (6:10)<br>
 <br>
-25. #zeropoint (1062) +1<br>
+25. #zeropoint (1062) 0<br>
 -14|-20|-16|-21|-23|-15|-13|-20|-7|+4<br>
 	1. gamaray1719 (6:17)<br>
 	2. Reclamation- (3:4)<br>
@@ -235,14 +237,15 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (0:3)<br>
 	8. zamrai (1:0)<br>
 <br>
-27. #GoofySound~485 (1055) +7<br>
-+24|+6<br>
+27. #GoofySound~485 (1061) +6<br>
++30|+12<br>
 	2. Reclamation- (3:5)<br>
 	5. matty (3:6)<br>
-	6. Parko (3:2)<br>
+	6. Parko (5:3)<br>
+	7. JDHA218 (2:1)<br>
 	8. zamrai (0:1)<br>
 <br>
-28. #Vhyme (1053) +4<br>
+28. #Vhyme (1053) 0<br>
 -1|-5|+12|+2|+12|+7|+10|+11|+4|+3<br>
 	2. Reclamation- (3:9)<br>
 	6. Parko (10:26)<br>
@@ -268,15 +271,22 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Jasem (3:1)<br>
 	10. Eudaemonia (8:17)<br>
 <br>
-31. #SlickGrill- (1033) 0<br>
+31. #Penguin- (1033) 0<br>
++4<br>
+	1. gamaray1719 (1:2)<br>
+	2. Reclamation- (10:23)<br>
+	5. matty (4:5)<br>
+	7. JDHA218 (0:1)<br>
+<br>
+32. #SlickGrill- (1033) 0<br>
 +34|+34|+41|+14<br>
 	3. waffle3z (0:7)<br>
 	4. Symsymmy (1:4)<br>
 	5. matty (1:7)<br>
 	7. JDHA218 (0:7)<br>
 <br>
-32. #LiquidTater~429 (1026) 0<br>
-+19|+8|0<br>
+33. #LiquidTater~429 (1028) +2<br>
++21|+10|+2<br>
 	1. gamaray1719 (4:7)<br>
 	2. Reclamation- (14:28)<br>
 	4. Symsymmy (6:6)<br>
@@ -285,22 +295,27 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (10:22)<br>
 	10. Eudaemonia (11:8)<br>
 <br>
-33. #keyblade335 (1025) 0<br>
+34. #keyblade335 (1025) 0<br>
 +55|+51|+42|+36|+37|+33|+27|+35|+25|+9<br>
 	2. Reclamation- (5:17)<br>
 	4. Symsymmy (5:4)<br>
 	5. matty (18:37)<br>
 <br>
-34. #NuMbEr1DaDDy (1013) -1<br>
-+15|+8|+13|+10|+12|-4<br>
+35. #NuMbEr1DaDDy (1014) +1<br>
++16|+9|+14|+11|+13|-3|+3<br>
 	1. gamaray1719 (0:4)<br>
 	2. Reclamation- (0:11)<br>
 	4. Symsymmy (1:4)<br>
 	5. matty (5:11)<br>
-	6. Parko (2:2)<br>
-	7. JDHA218 (0:1)<br>
+	6. Parko (3:2)<br>
+	7. JDHA218 (0:2)<br>
 <br>
-35. #miomonster (1009) 0<br>
+36. #Infatuation- (1009) +1<br>
+-3<br>
+	2. Reclamation- (4:24)<br>
+	6. Parko (6:17)<br>
+<br>
+37. #miomonster (1009) 0<br>
 +17|+19|+25|+15|+3<br>
 	2. Reclamation- (3:3)<br>
 	3. waffle3z (1:12)<br>
@@ -308,8 +323,16 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. matty (0:2)<br>
 	10. Eudaemonia (1:0)<br>
 <br>
-36. #GenghisCon (1007) -3<br>
-+7|+7|-2|-11|-9|+1|+6|+2|+1|+1<br>
+38. #GuacNinja (1008) -1<br>
++45|+39|+28|+23|+18|-3|-6|-7|-7|-1<br>
+	1. gamaray1719 (0:2)<br>
+	2. Reclamation- (2:5)<br>
+	4. Symsymmy (2:17)<br>
+	5. matty (1:4)<br>
+	7. JDHA218 (1:4)<br>
+<br>
+39. #GenghisCon (1007) 0<br>
++8|+7|-2|-11|-9|+1|+6|+3|+2|+1<br>
 	1. gamaray1719 (4:14)<br>
 	2. Reclamation- (6:38)<br>
 	3. waffle3z (0:2)<br>
@@ -318,7 +341,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (1:5)<br>
 	9. Jasem (0:1)<br>
 <br>
-37. #gokuuu (1006) 0<br>
+40. #gokuuu (1006) 0<br>
 +2|-5|-8<br>
 	1. gamaray1719 (6:11)<br>
 	2. Reclamation- (0:4)<br>
@@ -328,17 +351,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (1:5)<br>
 	8. zamrai (0:2)<br>
 <br>
-38. #Opaline (998) 0<br>
+41. #Opaline (998) 0<br>
 -11<br>
 	2. Reclamation- (1:10)<br>
 <br>
-39. #youcantwin (995) 0<br>
+42. #youcantwin (995) 0<br>
 +1|+3|+3|+2<br>
 	1. gamaray1719 (0:1)<br>
 	2. Reclamation- (2:16)<br>
 	5. matty (0:2)<br>
 <br>
-40. #theAceofGame (994) 0<br>
+43. #theAceofGame (994) 0<br>
 +11|+20|+30|+23|+22|+21|+26|+9|+6|-1<br>
 	1. gamaray1719 (3:3)<br>
 	2. Reclamation- (1:3)<br>
@@ -346,7 +369,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. Symsymmy (0:1)<br>
 	7. JDHA218 (1:3)<br>
 <br>
-41. #BrawnyMitte~417 (992) 0<br>
+44. #BrawnyMitte~417 (992) 0<br>
 -14|-1|0<br>
 	1. gamaray1719 (0:6)<br>
 	2. Reclamation- (2:9)<br>
@@ -355,7 +378,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. Jasem (0:2)<br>
 	10. Eudaemonia (0:1)<br>
 <br>
-42. #WaxMonkey~887 (992) 0<br>
+45. #WaxMonkey~887 (992) 0<br>
 -21|-29|-11|-7|-4<br>
 	1. gamaray1719 (6:33)<br>
 	2. Reclamation- (5:60)<br>
@@ -365,55 +388,55 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. JDHA218 (1:1)<br>
 	8. zamrai (0:1)<br>
 <br>
-43. #Chrona (986) -1<br>
+46. #Chrona (986) 0<br>
 -8|+5|-2<br>
 	2. Reclamation- (2:9)<br>
 	5. matty (1:6)<br>
 	6. Parko (0:3)<br>
 <br>
-44. #rickss (980) -3<br>
-+25|+33|+24|+20|+8|+4|+4|+18|+6|-7<br>
+47. #rickss (978) -2<br>
++32|+22|+19|+6|+2|+2|+17|+5|-9|0<br>
 	2. Reclamation- (0:10)<br>
 	4. Symsymmy (6:16)<br>
 	5. matty (5:26)<br>
 	7. JDHA218 (0:3)<br>
 <br>
-45. #Steve333 (965) 0<br>
+48. #Steve333 (965) 0<br>
 -16|-9<br>
 	1. gamaray1719 (1:6)<br>
 	2. Reclamation- (2:18)<br>
 <br>
-46. #Vergilious (961) +1<br>
--26|-11|0|-5|-5|0<br>
+49. #Vergilious (960) -1<br>
+-27|-11|-1|-6|-6|-1|-1<br>
 	2. Reclamation- (1:8)<br>
 	5. matty (1:1)<br>
 	6. Parko (0:1)<br>
 	7. JDHA218 (0:1)<br>
 <br>
-47. #monguesto (959) +1<br>
-+35|+39|+37|+29|+29|+17|+8|+8|+11|+1<br>
-	1. gamaray1719 (14:87)<br>
-	2. Reclamation- (4:21)<br>
-	4. Symsymmy (2:1)<br>
-	5. matty (3:26)<br>
-	6. Parko (1:6)<br>
-	7. JDHA218 (1:6)<br>
-<br>
-48. #darth_jesse (959) 0<br>
+50. #darth_jesse (959) 0<br>
 -23|-3<br>
 	2. Reclamation- (2:16)<br>
 	8. zamrai (0:3)<br>
 <br>
-49. #pldncr (921) 0<br>
--70|-76|-63|-62|-59|-42|-33|-27|-12|-1<br>
+51. #monguesto (958) -2<br>
++33|+37|+36|+27|+27|+16|+7|+6|+9|-1<br>
+	1. gamaray1719 (14:87)<br>
+	2. Reclamation- (4:21)<br>
+	4. Symsymmy (2:3)<br>
+	5. matty (3:26)<br>
+	6. Parko (1:6)<br>
+	7. JDHA218 (0:1)<br>
+<br>
+52. #pldncr (920) -1<br>
+-77|-64|-63|-60|-43|-34|-28|-13|-2|-1<br>
 	2. Reclamation- (1:24)<br>
 <br>
-50. #AlGalcone (859) +1<br>
--27|-24|-24|-15|-6|-6|0|+4|+3|-3<br>
+53. #AlGalcone (862) +3<br>
+-24|-21|-22|-12|-3|-4|+3|+7|+6|0<br>
 	1. gamaray1719 (2:27)<br>
 	2. Reclamation- (15:105)<br>
 	3. waffle3z (0:2)<br>
-	4. Symsymmy (1:3)<br>
+	4. Symsymmy (2:4)<br>
 	5. matty (3:22)<br>
 	6. Parko (1:4)<br>
 	7. JDHA218 (0:5)<br>
