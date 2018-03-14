@@ -1,54 +1,50 @@
 Recent win rates against top 10 over the past 21 days<br>
 <br>
-1. #MoldyCrush~110 (1493) 0<br>
-+27|+22|+17|+19|+19|+20|+22|+8|+1|-2<br>
+1. #MoldyCrush~110 (1488) -5<br>
++22|+17|+12|+14|+14|+15|+17|+3|-4|-7<br>
 <br>
-2. #Reke8 (1476) +2<br>
-+118|+98|+82|+68|+66|+58|+44|+32|+21|+3<br>
-	3. Rush~Bot (84:31)<br>
+2. #Reke8 (1474) -1<br>
++116|+97|+80|+66|+64|+57|+43|+31|+20|+1<br>
+	3. Rush~Bot (87:35)<br>
+	9. waffle~3z (87:33)<br>
 <br>
-3. #Rush~Bot (1389) +1<br>
--3|-5|-10|+2|+10|+16|+9|+21|+13|+8<br>
-	2. Reke8 (31:84)<br>
+3. #Rush~Bot (1392) +2<br>
+-3|-7|+4|+12|+18|+11|+23|+15|+10|0<br>
+	2. Reke8 (35:87)<br>
 	7. BillY_Patro (2:6)<br>
-	9. jacks0nh0le (4:1)<br>
+	9. waffle~3z (35:33)<br>
 <br>
-4. #talos16 (1376) +1<br>
-+72|+67|+57|+60|+54|+67|+52|+33|+14|-1<br>
+4. #talos16 (1379) +3<br>
++74|+70|+60|+63|+57|+70|+55|+36|+16|+2<br>
 	6. Yamamoto79 (0:1)<br>
 	7. BillY_Patro (0:2)<br>
 <br>
 5. #GaudyWeasel (1366) 0<br>
 +87|+73|+60|+47|+32|+26|+17|+8|+2|+6<br>
-	9. jacks0nh0le (2:1)<br>
 <br>
-6. #Yamamoto79 (1355) -1<br>
+6. #Yamamoto79 (1355) 0<br>
 +39|+18|+27|+15|+11|-1|+6|+3|+5|-1<br>
 	4. talos16 (1:0)<br>
 	7. BillY_Patro (2:3)<br>
 	10. Nimsta (0:3)<br>
 <br>
-7. #BillY_Patro (1352) +3<br>
+7. #BillY_Patro (1352) 0<br>
 +18|+7|+1|-2|+6|+12|+5|-6|-11|-7<br>
 	3. Rush~Bot (6:2)<br>
 	4. talos16 (2:0)<br>
 	6. Yamamoto79 (3:2)<br>
 	8. PEPrasetya (1:0)<br>
-	9. jacks0nh0le (3:2)<br>
 	10. Nimsta (1:1)<br>
 <br>
 8. #PEPrasetya (1348) 0<br>
 +9|+22|-9|-54|-50|-40|-35|-26|-21|-8<br>
 	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (1:1)<br>
 	10. Nimsta (1:1)<br>
 <br>
-9. #jacks0nh0le (1344) +8<br>
--18|-18|-14|-7|-1|-5|-4|+7|+3|+7<br>
-	3. Rush~Bot (1:4)<br>
-	5. GaudyWeasel (1:2)<br>
-	7. BillY_Patro (2:3)<br>
-	8. PEPrasetya (1:1)<br>
+9. #waffle~3z (1345) +5<br>
++68|+62|+60|+73|+80|+57|+40|+19|+15|+5<br>
+	2. Reke8 (33:87)<br>
+	3. Rush~Bot (33:35)<br>
 <br>
 10. #Nimsta (1343) 0<br>
 -14|-9|-8|-9|-13|0|+2|-2|+8|-1<br>
@@ -56,570 +52,546 @@ Recent win rates against top 10 over the past 21 days<br>
 	7. BillY_Patro (1:1)<br>
 	8. PEPrasetya (1:1)<br>
 <br>
-11. #pablo55 (1341) 0<br>
+11. #jacks0nh0le (1341) -2<br>
+-20|-16|-10|-3|-7|-7|+4|+1|+5|-1<br>
+	3. Rush~Bot (1:4)<br>
+	5. GaudyWeasel (1:0)<br>
+	7. BillY_Patro (2:3)<br>
+	8. PEPrasetya (1:1)<br>
+	9. waffle~3z (5:1)<br>
+<br>
+12. #pablo55 (1341) 0<br>
 +255|+228|+192|+154|+121|+98|+70|+49|+21|-1<br>
 	4. talos16 (1:0)<br>
-	6. Yamamoto79 (4:3)<br>
-	9. jacks0nh0le (1:2)<br>
+	6. Yamamoto79 (4:2)<br>
 <br>
-12. #waffle~3z (1340) 0<br>
-+63|+57|+55|+68|+75|+52|+35|+14|+10|0<br>
-	2. Reke8 (31:84)<br>
-	3. Rush~Bot (31:31)<br>
-	9. jacks0nh0le (0:5)<br>
-<br>
-13. #Vergilious (1338) 0<br>
-+6|-2|+3|+2|-2|-16|-15|-6|0|0<br>
-	9. jacks0nh0le (1:1)<br>
-<br>
-14. #7paths (1337) -1<br>
-+35|+32|+34|+30|+21|+15|+10|+1|-5|0<br>
+13. #7paths (1339) +2<br>
++37|+34|+36|+32|+22|+17|+12|+3|-3|+1<br>
 	5. GaudyWeasel (1:3)<br>
 	6. Yamamoto79 (1:2)<br>
 	7. BillY_Patro (1:0)<br>
-	8. PEPrasetya (0:1)<br>
 <br>
-15. #zamrai (1336) -1<br>
+14. #Vergilious (1338) 0<br>
++6|-2|+3|+2|-2|-16|-15|-6|0|0<br>
+<br>
+15. #zamrai (1336) 0<br>
 -2|-14|-18|-20|-17|-6|-9|-5|+13|+14<br>
 	7. BillY_Patro (2:2)<br>
-	9. jacks0nh0le (1:0)<br>
 <br>
-16. #Symsymmy (1328) -3<br>
-+14|+16|+10|+3|+16|+34|+23|+11|+5|+2<br>
-	9. jacks0nh0le (1:2)<br>
-<br>
-17. #xxjoshzxx (1328) -1<br>
--11|-9|-2|+10|+10|+19|+21|+21|-6|-2<br>
-	4. talos16 (0:2)<br>
-	6. Yamamoto79 (0:1)<br>
-	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (1:3)<br>
-<br>
-18. #zeropoint (1328) 0<br>
-+15|+7|+5|+5|0|+1|+9|+15|+3|+1<br>
+16. #zeropoint (1328) +1<br>
++8|+6|+6|+1|+1|+10|+16|+4|+2|-1<br>
 	3. Rush~Bot (1:0)<br>
 	7. BillY_Patro (2:1)<br>
 <br>
-19. #TimTim (1325) -1<br>
--2|-9|-19|-28|-37|-34|-23|-9|-10|+4<br>
-	4. talos16 (1:0)<br>
-	9. jacks0nh0le (2:1)<br>
-	10. Nimsta (1:0)<br>
+17. #Magnetic~Field (1328) +2<br>
++37|+34|+41|+40|+45|+17|+15|+16|+8|+1<br>
+	3. Rush~Bot (9:10)<br>
+	9. waffle~3z (2:3)<br>
 <br>
-20. #Magnetic~Field (1325) 0<br>
-+34|+35|+31|+39|+37|+42|+15|+13|+14|+6<br>
-	3. Rush~Bot (9:11)<br>
-	9. jacks0nh0le (1:0)<br>
+18. #xxjoshzxx (1328) 0<br>
+-11|-9|-2|+10|+10|+19|+21|+21|-6|-2<br>
+	4. talos16 (0:2)<br>
+	6. Yamamoto79 (0:1)<br>
+	9. waffle~3z (0:2)<br>
 <br>
-21. #sebfillion (1323) +3<br>
-+1|-4|-4|-9|-5|0|+5|+8|0|-1<br>
-	3. Rush~Bot (8:1)<br>
-	6. Yamamoto79 (5:0)<br>
+19. #Symsymmy (1327) -1<br>
++13|+15|+10|+3|+15|+33|+23|+10|+5|+1<br>
+	9. waffle~3z (1:0)<br>
+<br>
+20. #sebfillion (1321) -1<br>
+0|-6|-5|-10|-6|-2|+4|+7|-1|-2<br>
+	3. Rush~Bot (6:1)<br>
 	7. BillY_Patro (8:4)<br>
 	8. PEPrasetya (2:2)<br>
 	10. Nimsta (1:0)<br>
 <br>
-22. #cricric (1321) +2<br>
--8|-12|-19|-18|-8|-7|+3|+2|+11|+4<br>
-	3. Rush~Bot (5:5)<br>
-	6. Yamamoto79 (0:3)<br>
-<br>
-23. #A-Z-SH (1321) +1<br>
+21. #A-Z-SH (1321) 0<br>
 +40|+28|+14|+13|+3|-2|-4|+12|-2|+1<br>
 	6. Yamamoto79 (1:2)<br>
-	7. BillY_Patro (5:8)<br>
-	9. jacks0nh0le (0:1)<br>
+	7. BillY_Patro (4:8)<br>
 <br>
-24. #rickss (1319) +2<br>
--8|-6|-2|+1|+12|+7|+1|-5|+3|+2<br>
+22. #rickss (1320) 0<br>
+-8|-6|-2|+2|+12|+7|+2|-4|+3|+2<br>
 	3. Rush~Bot (0:1)<br>
 	4. talos16 (2:1)<br>
 	6. Yamamoto79 (1:0)<br>
-	7. BillY_Patro (11:17)<br>
-	9. jacks0nh0le (0:1)<br>
+	7. BillY_Patro (8:15)<br>
+	9. waffle~3z (0:2)<br>
 	10. Nimsta (0:2)<br>
 <br>
-25. #booca (1317) -2<br>
+23. #TimTim (1319) -6<br>
+-15|-25|-34|-43|-40|-29|-15|-16|-2|-2<br>
+	4. talos16 (1:0)<br>
+	10. Nimsta (1:0)<br>
+<br>
+24. #cricric (1319) -2<br>
+-10|-14|-21|-20|-10|-9|+1|0|+9|+2<br>
+	3. Rush~Bot (5:5)<br>
+	6. Yamamoto79 (0:3)<br>
+	9. waffle~3z (3:2)<br>
+<br>
+25. #booca (1317) 0<br>
 -16|-19|-5|-5|+3|-9|-5|-9|-3|-6<br>
-	9. jacks0nh0le (3:1)<br>
 <br>
-26. #Sleeping~Waffle (1314) +2<br>
-+16|+14|+15|+12|+10|-5|+4|+6|+1|+4<br>
-	1. MoldyCrush~110 (54:114)<br>
+26. #hehe2 (1315) +2<br>
++113|+102|+85|+74|+70|+63|+51|+45|+27|+13<br>
+<br>
+27. #Sleeping~Waffle (1313) 0<br>
++14|+15|+12|+10|-5|+3|+6|+1|+4|+5<br>
+	1. MoldyCrush~110 (47:110)<br>
 	3. Rush~Bot (1:1)<br>
+	9. waffle~3z (1:0)<br>
 <br>
-27. #Milky007 (1314) +1<br>
-+37|+34|+28|+39|+26|+27|+19|+19|+9|-1<br>
+28. #Major~Tom (1313) +7<br>
++16|+12|+14|+9|+12|+9|+7|+9|+6|+5<br>
+	1. MoldyCrush~110 (7:9)<br>
+	3. Rush~Bot (3:7)<br>
+	9. waffle~3z (0:1)<br>
+<br>
+29. #Echo~Bot (1311) +3<br>
++27|+27|+32|+17|+8|0|-2|+1|0|+11<br>
+	3. Rush~Bot (6:12)<br>
+	4. talos16 (18:54)<br>
+	9. waffle~3z (2:9)<br>
+<br>
+30. #Snapping~Turtle (1311) +1<br>
++38|+37|+38|+18|+26|+14|+22|+20|+15|+3<br>
+	3. Rush~Bot (3:6)<br>
+	9. waffle~3z (5:3)<br>
+<br>
+31. #Mine~Turtle (1311) -3<br>
++29|+17|+1|+4|+2|+12|+25|+17|+14|+13<br>
+	3. Rush~Bot (2:8)<br>
+<br>
+32. #DavidIggyLou (1309) +4<br>
+-12|-7|-6|-14|-21|-23|-11|-16|-5|0<br>
+	7. BillY_Patro (5:3)<br>
+	8. PEPrasetya (0:1)<br>
+	10. Nimsta (1:0)<br>
+<br>
+33. #Abdel~Baset (1308) +12<br>
++34|+36|+34|+30|+21|+24|+26|+11|+7|+3<br>
+	1. MoldyCrush~110 (22:49)<br>
+	3. Rush~Bot (1:8)<br>
+	6. Yamamoto79 (0:7)<br>
+<br>
+34. #Milky007 (1307) -7<br>
++30|+28|+22|+32|+19|+21|+12|+12|+3|-7<br>
 	6. Yamamoto79 (1:1)<br>
 	7. BillY_Patro (2:2)<br>
 	8. PEPrasetya (4:1)<br>
-	9. jacks0nh0le (2:1)<br>
 	10. Nimsta (1:3)<br>
 <br>
-28. #Mine~Turtle (1313) +5<br>
-+32|+20|+4|+7|+4|+14|+27|+20|+16|+15<br>
-	3. Rush~Bot (2:8)<br>
-<br>
-29. #hehe2 (1313) 0<br>
-+111|+100|+83|+72|+68|+61|+49|+43|+25|+11<br>
-<br>
-30. #Snapping~Turtle (1309) +1<br>
-+37|+36|+37|+17|+24|+12|+20|+19|+14|+1<br>
-	3. Rush~Bot (3:6)<br>
-<br>
-31. #Echo~Bot (1308) +1<br>
-+24|+24|+29|+14|+4|-3|-6|-2|-3|+7<br>
-	3. Rush~Bot (5:12)<br>
-	4. talos16 (16:57)<br>
-	9. jacks0nh0le (1:1)<br>
-<br>
-32. #Major~Tom (1306) +4<br>
-+18|+9|+6|+7|+2|+6|+2|0|+3|-1<br>
-	1. MoldyCrush~110 (5:7)<br>
-	3. Rush~Bot (3:7)<br>
-<br>
-33. #VNS700 (1306) 0<br>
+35. #VNS700 (1306) 0<br>
 +33|+22|+11|+6|-5|-3|+6|-11|-10|-8<br>
-	6. Yamamoto79 (0:1)<br>
+	7. BillY_Patro (0:2)<br>
+	9. waffle~3z (0:2)<br>
+<br>
+36. #skeems (1303) -1<br>
++28|+34|+35|+29|+22|+15|+18|+2|+3|-1<br>
+	3. Rush~Bot (1:1)<br>
 	7. BillY_Patro (0:2)<br>
 <br>
-34. #DavidIggyLou (1305) 0<br>
--16|-11|-10|-18|-25|-27|-15|-20|-10|-4<br>
-	5. GaudyWeasel (0:2)<br>
-	7. BillY_Patro (6:3)<br>
-	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (1:3)<br>
-	10. Nimsta (1:0)<br>
-<br>
-35. #skeems (1304) +3<br>
-+29|+29|+35|+36|+30|+23|+16|+19|+2|+4<br>
-	3. Rush~Bot (1:1)<br>
-	7. BillY_Patro (1:2)<br>
-	8. PEPrasetya (0:2)<br>
-	9. jacks0nh0le (0:1)<br>
-<br>
-36. #eggleung1995 (1302) -2<br>
-+16|+11|+2|+1|+15|+8|+7|-1|+3|+7<br>
+37. #eggleung1995 (1302) 0<br>
++10|+1|+1|+14|+7|+6|-1|+2|+6|+1<br>
 	4. talos16 (0:1)<br>
 	7. BillY_Patro (0:2)<br>
 <br>
-37. #NuttyJeans (1297) +3<br>
-+2|+4|-1|+1|+1|+10|+7|+1|0|+3<br>
+38. #Tunnel~Bot (1299) +5<br>
++19|+13|+21|+20|+17|+16|+12|+22|+11|0<br>
+	1. MoldyCrush~110 (20:25)<br>
+	3. Rush~Bot (2:14)<br>
+<br>
+39. #Mean~Machine (1296) +1<br>
++32|+33|+26|+34|+15|+9|+8|+6|+1|+7<br>
+	3. Rush~Bot (8:18)<br>
+	4. talos16 (12:54)<br>
+	9. waffle~3z (2:5)<br>
+<br>
+40. #NuttyJeans (1296) -2<br>
+0|+2|-3|-1|-1|+9|+5|-1|-2|+1<br>
 	5. GaudyWeasel (2:3)<br>
 	7. BillY_Patro (1:2)<br>
-	9. jacks0nh0le (1:2)<br>
 	10. Nimsta (0:4)<br>
 <br>
-38. #Abdel~Baset (1297) -2<br>
-+41|+22|+24|+23|+18|+9|+13|+15|0|-5<br>
-	1. MoldyCrush~110 (14:38)<br>
-	3. Rush~Bot (0:6)<br>
-	6. Yamamoto79 (0:7)<br>
-<br>
-39. #Buz (1296) -1<br>
--13|-19|-20|-15|-10|-1|+2|+4|+7|-1<br>
-	4. talos16 (2:2)<br>
-	6. Yamamoto79 (1:1)<br>
-	7. BillY_Patro (3:4)<br>
-	9. jacks0nh0le (4:4)<br>
-	10. Nimsta (2:1)<br>
-<br>
-40. #Mean~Machine (1295) +1<br>
-+32|+32|+26|+33|+15|+9|+7|+6|0|+6<br>
-	3. Rush~Bot (8:18)<br>
-	4. talos16 (13:57)<br>
-	9. jacks0nh0le (5:5)<br>
-<br>
-41. #joropo808 (1295) +1<br>
+41. #joropo808 (1295) 0<br>
 -27|-15|-12|-1|-8|-9|-2|0|-3|+3<br>
 	4. talos16 (1:2)<br>
 	6. Yamamoto79 (1:1)<br>
 	7. BillY_Patro (2:1)<br>
-	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (1:1)<br>
+	9. waffle~3z (1:2)<br>
 <br>
-42. #Tunnel~Bot (1294) +2<br>
-+22|+14|+9|+16|+15|+13|+12|+8|+17|+7<br>
-	1. MoldyCrush~110 (13:17)<br>
-	3. Rush~Bot (2:12)<br>
-<br>
-43. #qwertyuiop00 (1294) 0<br>
--17|-7|-17|-9|-3|+10|+16|+11|+9|-1<br>
-	10. Nimsta (5:0)<br>
-<br>
-44. #aeiou (1294) 0<br>
-+9|+10|+2|-6|-11|-3|-5|-4|-6|0<br>
+42. #aeiou (1294) +1<br>
++10|+11|+3|-5|-10|-3|-5|-4|-5|0<br>
 	4. talos16 (1:0)<br>
 	7. BillY_Patro (0:1)<br>
 <br>
-45. #Novacore (1293) 0<br>
-+14|+7|+9|+15|+3|-2|+9|+14|+8|+2<br>
-	5. GaudyWeasel (0:4)<br>
-	9. jacks0nh0le (2:2)<br>
-<br>
-46. #slowzx (1293) +1<br>
-+39|+27|+27|+22|+23|+11|+4|-1|+3|0<br>
+43. #slowzx (1294) +1<br>
++40|+28|+28|+23|+24|+12|+5|0|+4|+1<br>
 	4. talos16 (0:5)<br>
 	7. BillY_Patro (3:3)<br>
-	9. jacks0nh0le (4:2)<br>
 <br>
-47. #Arkady (1292) +1<br>
+44. #qwertyuiop00 (1294) 0<br>
+-17|-7|-17|-9|-3|+10|+16|+11|+9|-1<br>
+<br>
+45. #Novacore (1292) -2<br>
++12|+5|+7|+13|+2|-4|+7|+12|+7|0<br>
+	5. GaudyWeasel (0:4)<br>
+<br>
+46. #Arkady (1292) 0<br>
 -35|-39|-34|-23|-26|-18|-5|-7|-4|+7<br>
 	4. talos16 (1:1)<br>
 	7. BillY_Patro (2:2)<br>
-	9. jacks0nh0le (1:0)<br>
 <br>
-48. #GroovyFlame (1291) +3<br>
--21|-21|-20|-8|-2|-2|-1|+8|-1|+1<br>
-	3. Rush~Bot (1:2)<br>
-	5. GaudyWeasel (0:4)<br>
-	7. BillY_Patro (2:5)<br>
-	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (5:2)<br>
+47. #Human~Being (1291) +2<br>
++13|+14|+21|+20|+13|+3|-7|+4|-4|+1<br>
+	3. Rush~Bot (2:7)<br>
 <br>
-49. #raptorian (1290) -1<br>
--19|-24|-15|-18|-12|-15|-10|-8|0|+1<br>
+48. #Buz (1289) -7<br>
+-20|-26|-26|-22|-17|-7|-5|-3|0|-8<br>
+	4. talos16 (1:3)<br>
+	6. Yamamoto79 (1:1)<br>
+	7. BillY_Patro (3:4)<br>
+<br>
+49. #Nerf~Bot (1289) +1<br>
++30|+13|+7|+4|0|+2|+1|+6|+12|0<br>
+	3. Rush~Bot (3:13)<br>
+	9. waffle~3z (2:0)<br>
+<br>
+50. #raptorian (1288) -2<br>
+-21|-26|-17|-20|-14|-17|-12|-10|-2|-1<br>
 	3. Rush~Bot (0:1)<br>
 	4. talos16 (0:1)<br>
 	5. GaudyWeasel (0:1)<br>
 	7. BillY_Patro (1:1)<br>
-	9. jacks0nh0le (1:1)<br>
 <br>
-50. #Human~Being (1289) -1<br>
-+20|+11|+12|+19|+19|+12|+1|-9|+2|-6<br>
-	3. Rush~Bot (2:7)<br>
-	9. jacks0nh0le (1:0)<br>
+51. #flagstone (1288) +1<br>
+-6|-8|-7|-7|-17|-8|-7|+3|+8|+3<br>
 <br>
-51. #Nerf~Bot (1288) -1<br>
-+29|+12|+6|+3|-1|+1|0|+5|+11|-1<br>
-	3. Rush~Bot (3:13)<br>
+52. #GroovyFlame (1286) -6<br>
+-27|-26|-26|-13|-8|-8|-7|+2|-7|-5<br>
+	3. Rush~Bot (1:2)<br>
+	5. GaudyWeasel (0:4)<br>
+	7. BillY_Patro (1:4)<br>
+	8. PEPrasetya (0:1)<br>
 <br>
-52. #flagstone (1287) -2<br>
--7|-9|-8|-8|-18|-9|-8|+2|+7|+2<br>
-<br>
-53. #lost_r2d2 (1285) +3<br>
-+25|+22|+12|+13|+14|+16|+14|+18|+11|-1<br>
+53. #lost_r2d2 (1281) -3<br>
++22|+18|+8|+9|+10|+13|+11|+15|+7|-4<br>
 	7. BillY_Patro (2:0)<br>
-	9. jacks0nh0le (3:4)<br>
 <br>
-54. #siempelibre (1280) 0<br>
+54. #Jarre (1280) 0<br>
++5|+7|+11|+6|+2|+6|+2|-3|-5|-8<br>
+	6. Yamamoto79 (1:1)<br>
+	7. BillY_Patro (1:1)<br>
+<br>
+55. #siempelibre (1280) 0<br>
 +44|+40|+27|+20|+10|+6|+7|+6|+9|+2<br>
 	4. talos16 (1:1)<br>
 	6. Yamamoto79 (3:2)<br>
-	8. PEPrasetya (1:1)<br>
 <br>
-55. #novuz (1280) 0<br>
+56. #novuz (1280) 0<br>
 +113|+103|+77|+68|+47|+31|+28|+15|+8|+3<br>
 	4. talos16 (1:0)<br>
-	7. BillY_Patro (0:1)<br>
 	8. PEPrasetya (2:1)<br>
 	10. Nimsta (0:1)<br>
 <br>
-56. #Jarre (1279) -2<br>
-+5|+6|+10|+6|+1|+5|+1|-3|-5|-8<br>
-	6. Yamamoto79 (1:1)<br>
-	7. BillY_Patro (1:1)<br>
-	9. jacks0nh0le (0:1)<br>
+57. #Panic~Attack (1279) 0<br>
+-8|-4|+7|+8|+6|+6|+22|+11|+1|0<br>
+	3. Rush~Bot (4:6)<br>
+	4. talos16 (14:54)<br>
+	9. waffle~3z (5:9)<br>
 <br>
-57. #wacho789 (1279) +2<br>
-+100|+90|+76|+65|+55|+47|+31|+27|+22|+7<br>
+58. #wacho789 (1278) -2<br>
++98|+89|+74|+63|+54|+45|+30|+25|+20|+5<br>
+	4. talos16 (0:1)<br>
 	6. Yamamoto79 (1:1)<br>
 	7. BillY_Patro (0:2)<br>
 	8. PEPrasetya (1:0)<br>
-	9. jacks0nh0le (1:0)<br>
 <br>
-58. #Panic~Attack (1278) -2<br>
--9|-5|+6|+7|+6|+6|+22|+11|+1|-1<br>
-	3. Rush~Bot (5:6)<br>
-	4. talos16 (14:57)<br>
-	9. jacks0nh0le (1:10)<br>
-<br>
-59. #TangySoda~164 (1277) +7<br>
+59. #TangySoda~164 (1277) 0<br>
 +22|+20|+20|+26|+33|+34|+29|+17|+7|0<br>
 	6. Yamamoto79 (2:1)<br>
 	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (4:9)<br>
 	10. Nimsta (1:0)<br>
 <br>
-60. #TinyRick (1275) +1<br>
-+61|+45|+36|+21|+15|+8|+7|-2|-3|+2<br>
-	7. BillY_Patro (0:1)<br>
-	8. PEPrasetya (2:4)<br>
-<br>
-61. #His-Majesty (1274) -7<br>
-+10|+8|+7|+10|-4|-6|-6|-11|-3|-8<br>
-	3. Rush~Bot (2:5)<br>
+60. #His-Majesty (1276) +1<br>
++12|+10|+8|+12|-2|-5|-5|-10|-2|-6<br>
+	3. Rush~Bot (3:5)<br>
 	4. talos16 (3:3)<br>
 	6. Yamamoto79 (0:3)<br>
 	7. BillY_Patro (5:8)<br>
 	8. PEPrasetya (1:0)<br>
-	9. jacks0nh0le (6:15)<br>
 	10. Nimsta (3:1)<br>
 <br>
-62. #tomershu (1273) +6<br>
-+106|+90|+92|+73|+61|+59|+40|+33|+8|+5<br>
+61. #tomershu (1273) -1<br>
++105|+89|+91|+73|+61|+58|+39|+33|+8|+5<br>
 	7. BillY_Patro (1:1)<br>
-	9. jacks0nh0le (0:1)<br>
 <br>
-63. #EagleOxy (1272) 0<br>
-+8|+7|0|-2|+4|0|-5|+2|+4|+4<br>
-	3. Rush~Bot (0:1)<br>
-	6. Yamamoto79 (0:1)<br>
-<br>
-64. #Celica (1272) -3<br>
-+34|+20|+28|+41|+40|+39|+35|+32|+24|-6<br>
-	4. talos16 (1:0)<br>
-	6. Yamamoto79 (0:1)<br>
-	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (1:3)<br>
-	10. Nimsta (0:1)<br>
-<br>
-65. #TimDebJon (1271) 0<br>
-+32|+28|+17|+18|+19|+5|-12|-11|-10|-14<br>
-	3. Rush~Bot (0:1)<br>
-<br>
-66. #hahhah9 (1270) -1<br>
+62. #hahhah9 (1270) 0<br>
 +34|+20|+14|+9|+6|0|-12|-3|-11|0<br>
 	5. GaudyWeasel (0:4)<br>
 	7. BillY_Patro (1:0)<br>
-	9. jacks0nh0le (0:1)<br>
 <br>
-67. #JJDC (1270) -3<br>
+63. #JJDC (1270) 0<br>
 +145|+122|+106|+76|+57|+40|+25|+23|+1|-2<br>
 	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (0:2)<br>
 <br>
-68. #z.snafu (1270) 0<br>
-+5|+8|+12|+21|+12|+4|+7|+2|-1|-2<br>
+64. #z.snafu (1270) 0<br>
++5|+9|+12|+22|+12|+4|+7|+2|-1|-2<br>
 	5. GaudyWeasel (0:2)<br>
 	6. Yamamoto79 (2:6)<br>
 	7. BillY_Patro (7:4)<br>
-	8. PEPrasetya (1:3)<br>
-	9. jacks0nh0le (1:6)<br>
 	10. Nimsta (2:1)<br>
 <br>
-69. #Matthew0898 (1269) 0<br>
-+20|+28|+35|+24|+24|+19|+4|+4|+8|-1<br>
+65. #Matthew0898 (1270) +1<br>
++29|+35|+25|+24|+20|+5|+5|+9|0|0<br>
 	6. Yamamoto79 (0:1)<br>
 <br>
-70. #CalmMango~851 (1268) -1<br>
+66. #EagleOxy (1270) -3<br>
++5|+5|-3|-4|+1|-3|-7|-1|+1|+1<br>
+	3. Rush~Bot (0:1)<br>
+	6. Yamamoto79 (0:1)<br>
+<br>
+67. #TimDebJon (1269) -1<br>
++31|+27|+16|+17|+17|+4|-13|-12|-11|-15<br>
+<br>
+68. #CalmMango~851 (1268) 0<br>
 +143|+127|+111|+91|+73|+58|+61|+28|+31|-2<br>
 	8. PEPrasetya (0:1)<br>
 <br>
-71. #svircs (1267) +5<br>
+69. #Celica (1268) -4<br>
++30|+16|+24|+37|+36|+36|+31|+28|+20|-10<br>
+	4. talos16 (1:0)<br>
+	6. Yamamoto79 (0:1)<br>
+	8. PEPrasetya (0:1)<br>
+	9. waffle~3z (0:1)<br>
+	10. Nimsta (0:1)<br>
+<br>
+70. #svircs (1267) 0<br>
 -33|-33|-30|-26|-20|-10|-9|-17|-7|+3<br>
 <br>
-72. #lanky074 (1260) +1<br>
-+10|+18|+11|-9|-18|-16|-10|-5|+2|+7<br>
+71. #stront01 (1264) +8<br>
+-5|-3|+5|+2|+3|+12|-5|-9|+5|+3<br>
+	6. Yamamoto79 (1:2)<br>
+	7. BillY_Patro (0:2)<br>
+<br>
+72. #lanky074 (1259) -1<br>
++10|+17|+10|-9|-19|-17|-11|-5|+2|+7<br>
 	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (0:1)<br>
 <br>
-73. #Kirzon (1259) 0<br>
-+150|+126|+89|+66|+57|+50|+39|+23|+14|+5<br>
-<br>
-74. #TheNorwegian (1258) 0<br>
+73. #TheNorwegian (1258) 0<br>
 +8|+10|+14|+8|+4|-3|+1|+3|-3|-3<br>
 <br>
-75. #MUF (1258) -1<br>
--8|-7|-7|+3|-4|-5|-11|-5|-3|-3<br>
-	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (0:2)<br>
-<br>
-76. #tiger_style (1258) 0<br>
+74. #tiger_style (1258) 0<br>
 +1|-4|-4|+4|-3|-8|-9|+2|-2|+7<br>
+<br>
+75. #MUF (1257) -1<br>
+-9|-8|-8|+2|-5|-6|-11|-6|-4|-3<br>
+	8. PEPrasetya (0:1)<br>
+<br>
+76. #Kirzon (1257) -2<br>
++148|+124|+88|+64|+56|+48|+37|+22|+12|+3<br>
 <br>
 77. #BigPoppaNuts (1256) 0<br>
 -14|-13|-21|-12|-15|-6|-10|-8|-3|-2<br>
-	9. jacks0nh0le (3:4)<br>
 <br>
-78. #mafl (1255) +4<br>
-0|-12|-14|-10|-12|+3|+1|+7|0|0<br>
+78. #mafl (1255) -1<br>
+0|-13|-14|-11|-13|+3|0|+6|0|0<br>
 	4. talos16 (0:1)<br>
 	5. GaudyWeasel (1:2)<br>
 	10. Nimsta (0:2)<br>
 <br>
-79. #stront01 (1255) -6<br>
--13|-13|-11|-3|-6|-5|+4|-13|-17|-3<br>
-	6. Yamamoto79 (1:2)<br>
-	7. BillY_Patro (0:4)<br>
-	9. jacks0nh0le (2:6)<br>
-<br>
-80. #elNino (1254) +1<br>
-+78|+64|+52|+48|+36|+28|+13|+9|+13|+4<br>
+79. #elNino (1253) -1<br>
++77|+63|+50|+46|+35|+27|+12|+8|+12|+2<br>
 	5. GaudyWeasel (1:0)<br>
 	6. Yamamoto79 (1:1)<br>
 	7. BillY_Patro (2:4)<br>
 	8. PEPrasetya (0:1)<br>
 	10. Nimsta (0:2)<br>
 <br>
-81. #Killer~Waffle (1254) 0<br>
--44|-34|-29|0|+25|+16|+15|+10|+10|-1<br>
+80. #Killer~Waffle (1253) -1<br>
+-45|-35|-30|-1|+25|+16|+14|+9|+9|-2<br>
 	3. Rush~Bot (2:2)<br>
-	9. jacks0nh0le (1:10)<br>
+	9. waffle~3z (2:14)<br>
 <br>
-82. #Attack~Bot (1253) +2<br>
-+24|+18|+22|+17|+24|+12|+1|+2|+5|+5<br>
-	3. Rush~Bot (4:15)<br>
-	9. jacks0nh0le (0:1)<br>
+81. #Attack~Bot (1252) 0<br>
++23|+18|+21|+16|+23|+12|+1|+1|+5|+5<br>
+	3. Rush~Bot (3:14)<br>
 <br>
-83. #olo (1252) 0<br>
+82. #olo (1252) 0<br>
 -15|-14|-8|-8|-10|-4|+1|+4|+3|-12<br>
 	10. Nimsta (1:1)<br>
 <br>
-84. #enomeno (1249) 0<br>
-+2|0|+9|+16|+16|+14|+1|-1|-8|-7<br>
-	7. BillY_Patro (0:2)<br>
-	9. jacks0nh0le (1:1)<br>
-	10. Nimsta (0:2)<br>
-<br>
-85. #Setin12 (1248) +1<br>
-+225|+185|+156|+131|+103|+81|+67|+45|+33|+2<br>
+83. #Setin12 (1251) +3<br>
++228|+188|+158|+134|+106|+83|+69|+47|+35|+4<br>
 	10. Nimsta (0:1)<br>
 <br>
-86. #bread (1248) +3<br>
-+208|+164|+123|+100|+74|+53|+15<br>
-	8. PEPrasetya (2:3)<br>
-	9. jacks0nh0le (4:2)<br>
+84. #enomeno (1250) +1<br>
++4|+1|+11|+18|+18|+16|+2|0|-7|-5<br>
+	7. BillY_Patro (0:2)<br>
+	10. Nimsta (0:2)<br>
 <br>
-87. #SriiB (1248) -5<br>
-+51|+43|+37|+14|+8|-7|-10|-12|-13|-10<br>
+85. #SriiB (1249) +1<br>
++52|+44|+38|+15|+9|-6|-9|-11|-12|-9<br>
+	4. talos16 (1:1)<br>
 <br>
-88. #aeyinc (1248) +1<br>
--11|-6|-16|-21|-15|-22|-21|-18|-9|+1<br>
+86. #aeyinc (1249) +1<br>
+-10|-5|-15|-20|-14|-21|-20|-17|-8|+3<br>
 	6. Yamamoto79 (1:0)<br>
 	7. BillY_Patro (1:0)<br>
-	9. jacks0nh0le (0:1)<br>
 <br>
-89. #warmant-116 (1247) -1<br>
+87. #bread (1248) 0<br>
++208|+164|+123|+100|+74|+53|+15<br>
+	8. PEPrasetya (2:3)<br>
+	9. waffle~3z (3:2)<br>
+<br>
+88. #Tiberius88 (1248) +2<br>
+-18|-13|-7|+4|+2|+5|+3|+4|+8|+8<br>
+	6. Yamamoto79 (0:1)<br>
+<br>
+89. #warmant-116 (1248) 0<br>
 -15|-10|-3|-1|+8|+5|-1|+6|+2|+1<br>
 	7. BillY_Patro (0:1)<br>
 	8. PEPrasetya (1:0)<br>
 <br>
-90. #pesterd (1247) -1<br>
+90. #pesterd (1247) 0<br>
 -29|-25|-26|-18|-16|-10|-11|-10|-5|-1<br>
 <br>
-91. #ggb112233 (1246) 0<br>
+91. #Tortoise~Waffle (1247) +9<br>
++44|+49|+47|+52|+44|+45|+38|+38|+11|+14<br>
+	3. Rush~Bot (0:3)<br>
+	6. Yamamoto79 (0:3)<br>
+<br>
+92. #ggb112233 (1246) 0<br>
 +52|+62|+44|+43|+27|+21|+13|-8|+2|-1<br>
 	8. PEPrasetya (0:2)<br>
 <br>
-92. #Tiberius88 (1246) +3<br>
--20|-15|-9|+2|0|+2|+1|+2|+6|+6<br>
-	6. Yamamoto79 (0:1)<br>
-<br>
-93. #HairyBeetle~278 (1246) +2<br>
-+21|+16|+15|+15|+16|+23|+16|+14|+7|0<br>
+93. #HairyBeetle~278 (1245) -1<br>
++20|+15|+14|+14|+16|+22|+15|+13|+6|0<br>
 	5. GaudyWeasel (0:2)<br>
 	6. Yamamoto79 (1:2)<br>
 	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (0:2)<br>
+	9. waffle~3z (1:1)<br>
 <br>
-94. #mrwaistcoat (1244) +2<br>
-+59|+61|+44|+37|+28|+25|+18|+14|+4|+2<br>
+94. #mintyfresh (1244) +8<br>
+-20|-23|-23|-23|-15|-25|-18|-14|-15|-1<br>
+	4. talos16 (0:1)<br>
 <br>
-95. #hamidrez (1242) +3<br>
-+5|-4|-1|+7|-1|+3|+3|+2|+5|+5<br>
-	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (2:1)<br>
+95. #mrwaistcoat (1244) 0<br>
++61|+44|+37|+28|+25|+18|+14|+4|+1|0<br>
 <br>
-96. #UNAGUY05 (1241) -1<br>
--6|-5|-11|-2|-3|+2|0|+3|+2|+1<br>
-<br>
-97. #henry700 (1241) +2<br>
-+22|+7|+11|+6|+14|+13|-1|+1|-2|0<br>
-	3. Rush~Bot (2:3)<br>
-	5. GaudyWeasel (1:2)<br>
-	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (3:4)<br>
-<br>
-98. #SilverTuba~262 (1240) +2<br>
-+57|+47|+45|+40|+27|+11|+10|+10|+3|-1<br>
+96. #SilverTuba~262 (1241) 0<br>
++57|+47|+46|+40|+27|+12|+11|+11|+3|0<br>
 	7. BillY_Patro (0:1)<br>
 <br>
-99. #osa (1239) -1<br>
+97. #osa (1239) 0<br>
 +35|+27|+29|+31|+20|+21|+25|+24|+12|+6<br>
 	5. GaudyWeasel (4:1)<br>
 	8. PEPrasetya (4:4)<br>
 <br>
-100. #schisandra (1239) 0<br>
+98. #schisandra (1239) 0<br>
 +141|+122|+106|+91|+66|+57|+43|+30|+18|+2<br>
 	6. Yamamoto79 (1:0)<br>
 	10. Nimsta (1:1)<br>
 <br>
-101. #Tortoise~Waffle (1238) +5<br>
-+35|+41|+39|+44|+36|+36|+29|+30|+2|+6<br>
-	3. Rush~Bot (0:3)<br>
-	6. Yamamoto79 (0:3)<br>
+99. #henry700 (1239) -2<br>
++20|+5|+9|+4|+11|+11|-3|-1|-4|-2<br>
+	3. Rush~Bot (2:3)<br>
+	7. BillY_Patro (0:1)<br>
 <br>
-102. #killerdude69 (1238) -1<br>
-+32|+21|+15|+10|+14|+6|-2|+2|-17|0<br>
+100. #killerdude69 (1239) +1<br>
++33|+22|+16|+11|+15|+7|-1|+3|-16|+1<br>
 <br>
-103. #KvL (1236) +3<br>
--1|-17|-23|-11|-10|-22|-15|-17|-5|+3<br>
-	10. Nimsta (1:0)<br>
+101. #hamidrez (1238) -5<br>
+0|-9|-6|+2|-5|-2|-2|-3|0|0<br>
+	7. BillY_Patro (0:1)<br>
 <br>
-104. #mintyfresh (1236) -9<br>
--28|-32|-32|-31|-23|-33|-26|-22|-24|-10<br>
-	9. jacks0nh0le (0:2)<br>
+102. #AymericG (1237) +4<br>
++35|+44|+55|+53|+47|+49|+44|+34|+20|+14<br>
 <br>
-105. #SmotPoker (1234) -1<br>
--5|-12|-22|-20|-5|+2|+2|-11|0|-1<br>
+103. #SmotPoker (1237) +3<br>
+-2|-10|-19|-18|-2|+4|+4|-8|+2|+2<br>
 	6. Yamamoto79 (1:0)<br>
 <br>
-106. #kirich (1234) 0<br>
--22|-18|-21|-21|-12|-15|-17|-9|-7|-1<br>
-	10. Nimsta (0:4)<br>
-<br>
-107. #themadox (1233) 0<br>
--7|-16|-10|-20|-20|-16|-3|+2|-4|-2<br>
+104. #themadox (1236) +3<br>
+-4|-13|-7|-16|-16|-13|0|+6|-1|+1<br>
 	4. talos16 (0:1)<br>
 	6. Yamamoto79 (3:1)<br>
 	7. BillY_Patro (0:3)<br>
-	9. jacks0nh0le (0:1)<br>
 	10. Nimsta (0:1)<br>
 <br>
-108. #ridarsen (1231) 0<br>
+105. #UNAGUY05 (1235) -6<br>
+-11|-18|-9|-10|-4|-6|-3|-5|-5|-4<br>
+<br>
+106. #KvL (1234) -2<br>
+-4|-20|-25|-13|-13|-25|-18|-20|-8|+1<br>
+	10. Nimsta (1:0)<br>
+<br>
+107. #kirich (1234) 0<br>
+-22|-18|-21|-21|-12|-15|-17|-9|-7|-1<br>
+	10. Nimsta (0:4)<br>
+<br>
+108. #CloudySheet~353 (1234) +27<br>
++183|+158|+137|+131|+129|+119|+91|+86|+50|+19<br>
+	8. PEPrasetya (0:1)<br>
+	10. Nimsta (0:2)<br>
+<br>
+109. #jas (1231) +4<br>
++36|+30|+27|+19|+17|+10|+12|+5|+9|+7<br>
+	4. talos16 (0:1)<br>
+<br>
+110. #ridarsen (1231) 0<br>
 +60|+54|+48|+32|+26|+30|+23|+20|+14|+7<br>
 	7. BillY_Patro (2:1)<br>
 <br>
-109. #BDAT10 (1230) -5<br>
-+1|+9|+15|0|-2|-10|-9|-6|-3|-9<br>
+111. #BDAT10 (1229) 0<br>
++1|+9|+15|-1|-3|-11|-9|-6|-3|-9<br>
 	4. talos16 (1:3)<br>
 	6. Yamamoto79 (0:4)<br>
 	7. BillY_Patro (3:7)<br>
-	9. jacks0nh0le (0:1)<br>
 <br>
-110. #eddie6323 (1229) -2<br>
-0|+6|-6|-2|-15|-20|-22|-14|-10|+2<br>
+112. #AngryDrum~574 (1229) 0<br>
++47|+37|+31|+31|+20|+21|+24|+13|+10|+5<br>
+	7. BillY_Patro (1:0)<br>
+<br>
+113. #JSU332017 (1229) +4<br>
++33|+33|+33|+38|+33|+38|+34|+23|+12|+2<br>
+	4. talos16 (4:1)<br>
+	6. Yamamoto79 (2:7)<br>
+	7. BillY_Patro (1:1)<br>
+	8. PEPrasetya (0:1)<br>
+<br>
+114. #Cosimia (1228) 0<br>
++187|+154|+129|+106|+89|+65|+42|+30|+10|+2<br>
+<br>
+115. #eddie6323 (1228) -1<br>
+-1|+4|-7|-4|-16|-21|-23|-15|-11|+1<br>
 	7. BillY_Patro (0:2)<br>
 	8. PEPrasetya (1:0)<br>
 <br>
-111. #AngryDrum~574 (1229) 0<br>
-+47|+37|+31|+31|+20|+21|+24|+13|+10|+5<br>
+116. #AbsurdSand~527 (1228) +4<br>
++98|+93|+89|+68|+57|+45|+34|+26|+13|0<br>
 	7. BillY_Patro (1:0)<br>
-	9. jacks0nh0le (0:2)<br>
 <br>
-112. #Cosimia (1228) 0<br>
-+187|+154|+129|+106|+89|+65|+42|+30|+10|+2<br>
+117. #holyspirit (1227) +6<br>
++33|+33|+29|+31|+30|+34|+22|+19|+7|+4<br>
+	10. Nimsta (1:0)<br>
 <br>
-113. #jas (1227) +1<br>
-+31|+25|+23|+14|+13|+6|+7|+1|+5|+2<br>
-<br>
-114. #dfyyxy (1227) 0<br>
+118. #dfyyxy (1227) 0<br>
 -18|-17|-5|-9|-18|-23|-14|-14|+1|-1<br>
 	7. BillY_Patro (1:0)<br>
 <br>
-115. #bupkis (1226) 0<br>
-+35|+16|+11|+20|+15|+3|+10|+12|+16|-2<br>
-	4. talos16 (0:1)<br>
-	7. BillY_Patro (2:1)<br>
+119. #the-jk (1225) +1<br>
+-3|+3|+2|-3|+6|+16|+13|+13|+9|-1<br>
+	7. BillY_Patro (1:0)<br>
+	8. PEPrasetya (2:1)<br>
 <br>
-116. #tinkywinky (1225) 0<br>
+120. #tinkywinky (1225) 0<br>
 +127|+107|+86|+62|+47|+42|+32|+13|+8|+1<br>
 	8. PEPrasetya (2:0)<br>
-	9. jacks0nh0le (1:0)<br>
 <br>
-117. #dear_master (1225) 0<br>
-+191|+156|+131|+104|+82|+68|+53|+45|+29|+15<br>
+121. #dear_master (1225) 0<br>
++190|+155|+130|+104|+82|+68|+52|+45|+28|+14<br>
 	4. talos16 (1:3)<br>
 	5. GaudyWeasel (0:1)<br>
 	6. Yamamoto79 (1:1)<br>
@@ -627,52 +599,24 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. PEPrasetya (0:1)<br>
 	10. Nimsta (1:0)<br>
 <br>
-118. #JSU332017 (1225) -2<br>
-+29|+29|+29|+34|+29|+34|+30|+19|+8|-2<br>
-	4. talos16 (4:1)<br>
-	6. Yamamoto79 (2:7)<br>
-	7. BillY_Patro (1:1)<br>
-	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (1:0)<br>
-	10. Nimsta (2:1)<br>
-<br>
-119. #Viper715 (1225) 0<br>
--1|-4|+5|-13|-11|-11|-10|-6|-14|0<br>
+122. #Viper715 (1224) 0<br>
+-2|-4|+5|-14|-11|-12|-10|-7|-15|0<br>
 	7. BillY_Patro (0:3)<br>
 	10. Nimsta (3:4)<br>
 <br>
-120. #the-jk (1224) 0<br>
--5|+2|0|-4|+4|+15|+12|+11|+7|-2<br>
-	6. Yamamoto79 (1:0)<br>
-	7. BillY_Patro (1:0)<br>
-	8. PEPrasetya (2:1)<br>
-	9. jacks0nh0le (0:1)<br>
-<br>
-121. #AbsurdSand~527 (1224) +1<br>
-+117|+94|+89|+85|+64|+53|+41|+30|+22|+9<br>
-	7. BillY_Patro (1:0)<br>
-	8. PEPrasetya (1:0)<br>
-<br>
-122. #Khael- (1222) 0<br>
-+132|+109|+100|+78|+69|+58|+36|+13|+5|0<br>
-	4. talos16 (2:0)<br>
-	6. Yamamoto79 (0:1)<br>
-	7. BillY_Patro (0:2)<br>
-	9. jacks0nh0le (2:0)<br>
-<br>
-123. #Anti~Neutral (1221) -1<br>
-+32|+28|+25|+24|+29|+31|+29|+19|+2|+1<br>
+123. #Anti~Neutral (1224) +2<br>
++34|+30|+27|+27|+31|+33|+31|+22|+4|+3<br>
 	3. Rush~Bot (0:2)<br>
 <br>
-124. #MindTwister (1221) +3<br>
-+187|+153|+120|+88|+69|+52|+35|+26|+12<br>
-	7. BillY_Patro (2:1)<br>
-	8. PEPrasetya (0:1)<br>
+124. #Khael- (1221) -1<br>
++131|+108|+100|+78|+68|+57|+35|+12|+5|0<br>
+	6. Yamamoto79 (0:1)<br>
+	7. BillY_Patro (0:2)<br>
 <br>
-125. #holyspirit (1221) +2<br>
-+30|+27|+27|+23|+25|+24|+28|+15|+12|+1<br>
-	9. jacks0nh0le (0:1)<br>
-	10. Nimsta (1:0)<br>
+125. #MindTwister (1221) 0<br>
++187|+153|+120|+88|+69|+52|+35|+26|+12<br>
+	7. BillY_Patro (1:0)<br>
+	8. PEPrasetya (0:1)<br>
 <br>
 126. #flabjack (1220) 0<br>
 +214|+186|+149|+125|+109|+83|+63|+50|+22|+5<br>
@@ -686,1189 +630,1068 @@ Recent win rates against top 10 over the past 21 days<br>
 	7. BillY_Patro (2:8)<br>
 	10. Nimsta (2:2)<br>
 <br>
-128. #bgo37 (1219) +1<br>
-+6|+1|+6|+1|-4|-10|-5|-1|+2|+6<br>
-	7. BillY_Patro (1:1)<br>
+128. #Gudi87 (1219) +2<br>
++46|+49|+50|+34|+25|+15|+17|+15|+13|+2<br>
 <br>
-129. #Gudi87 (1218) 0<br>
-+45|+47|+49|+32|+23|+13|+16|+13|+12|0<br>
+129. #dnorman17 (1219) +13<br>
++170|+130|+87|+71|+35|+12<br>
+	7. BillY_Patro (0:1)<br>
 <br>
-130. #white_andrei (1217) 0<br>
+130. #bgo37 (1219) 0<br>
++6|+1|+5|0|-5|-11|-5|-2|+2|+5<br>
+<br>
+131. #white_andrei (1217) 0<br>
 +56|+42|+33|+10|+12|+15|+7|+8|+1|-1<br>
 	7. BillY_Patro (1:2)<br>
 <br>
-131. #collins20 (1215) 0<br>
-+31|+30|+27|+19|+11|+1|-4|0|-3|-1<br>
+132. #collins20 (1215) -1<br>
++30|+29|+27|+18|+10|0|-5|0|-4|-2<br>
 	4. talos16 (1:0)<br>
-	9. jacks0nh0le (1:1)<br>
 	10. Nimsta (0:1)<br>
 <br>
-132. #jerocco (1215) -1<br>
-+6|+3|+11|+4|+9|-2|-7|-8|-5|+1<br>
-	4. talos16 (0:1)<br>
+133. #jerocco (1211) -4<br>
++3|-1|+7|+1|+5|-6|-11|-11|-9|-3<br>
+	4. talos16 (0:2)<br>
 	5. GaudyWeasel (0:1)<br>
 	6. Yamamoto79 (2:0)<br>
 	7. BillY_Patro (0:3)<br>
-	9. jacks0nh0le (5:10)<br>
 	10. Nimsta (0:1)<br>
 <br>
-133. #smurfa (1210) +1<br>
--32|-20|-14|-5|-1|+8|+3|-3|-6|+4<br>
+134. #smurfa (1209) -1<br>
+-33|-21|-14|-6|-2|+7|+2|-3|-7|+3<br>
 <br>
-134. #Disguise (1210) +1<br>
-+134|+123|+100|+77|+61|+46|+38|-4|-2|+1<br>
-	3. Rush~Bot (1:1)<br>
-	9. jacks0nh0le (0:2)<br>
+135. #Reclamation- (1208) +3<br>
++161|+123|+97|+67|+35<br>
 <br>
-135. #Khalifah (1208) -1<br>
-+64|+52|+38|+30|+20|+22|+17|+3|-1|+5<br>
-	6. Yamamoto79 (0:2)<br>
-	9. jacks0nh0le (0:1)<br>
-<br>
-136. #Tunnel~King (1207) -6<br>
--16|-22|-16|-10|-9|-10|-7|-12|-4|-4<br>
-	1. MoldyCrush~110 (35:202)<br>
+136. #Tunnel~King (1208) +1<br>
+-22|-16|-9|-9|-9|-6|-12|-4|-3|0<br>
+	1. MoldyCrush~110 (31:187)<br>
 	3. Rush~Bot (0:2)<br>
 	6. Yamamoto79 (0:7)<br>
 <br>
-137. #CloudySheet~353 (1207) +4<br>
-+186|+156|+131|+110|+104|+102|+92|+64|+59|+23<br>
-	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (3:0)<br>
-	10. Nimsta (0:2)<br>
+137. #Disguise (1207) -3<br>
++131|+121|+97|+74|+58|+43|+35|-7|-5|-2<br>
+	3. Rush~Bot (1:1)<br>
 <br>
-138. #dnorman17 (1206) +4<br>
-+156|+116|+74|+58|+21|-1<br>
-	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (5:11)<br>
+138. #Khalifah (1206) -1<br>
++63|+51|+37|+29|+19|+21|+15|+2|-2|+4<br>
+	6. Yamamoto79 (0:2)<br>
 <br>
 139. #CheapWheel~194 (1205) 0<br>
 +31|+36|+36|+35|+27|+13|+15|+7|+5|+4<br>
 	7. BillY_Patro (2:0)<br>
 	8. PEPrasetya (1:3)<br>
 <br>
-140. #Reclamation- (1205) 0<br>
-+158|+120|+94|+64|+32<br>
-<br>
-141. #MashedSoda~812 (1204) 0<br>
+140. #MashedSoda~812 (1204) 0<br>
 +162|+139|+110|+83|+51|+21|0<br>
 	7. BillY_Patro (1:0)<br>
 	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (2:1)<br>
 	10. Nimsta (0:2)<br>
 <br>
-142. #Turtle~Waffle (1203) -13<br>
--5|-8|-3|-2|-6|-14|-17|-17|-27|-12<br>
-	3. Rush~Bot (1:1)<br>
-	9. jacks0nh0le (0:1)<br>
-<br>
-143. #mahone007 (1201) +2<br>
-+32|+22|+17|+17|+8|+12|+9|+8|-4|+3<br>
+141. #mahone007 (1201) 0<br>
++32|+22|+18|+17|+8|+12|+9|+8|-4|+3<br>
 	4. talos16 (1:2)<br>
 	7. BillY_Patro (2:0)<br>
-	9. jacks0nh0le (0:1)<br>
 <br>
-144. #V01Dfuzz (1200) 0<br>
+142. #V01Dfuzz (1200) 0<br>
 +45|+27|+29|+33|+15|+15|+10|+17|+6|-4<br>
 	5. GaudyWeasel (1:0)<br>
 	7. BillY_Patro (2:3)<br>
 	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (2:5)<br>
 <br>
-145. #TidyFox-415 (1199) 0<br>
--5|-11|-15|-5|0|-11|-13|0|-2|-4<br>
-	7. BillY_Patro (0:2)<br>
-	9. jacks0nh0le (3:6)<br>
-	10. Nimsta (1:2)<br>
-<br>
-146. #PaperHawk317 (1199) -2<br>
-+154|+132|+113|+88|+81|+61|+62|+41|+38|-1<br>
-	5. GaudyWeasel (0:3)<br>
-	10. Nimsta (0:2)<br>
-<br>
-147. #ernoinferno (1198) 0<br>
-+60|+54|+46|+38|+33|+28|+17|+9|+6|+4<br>
-	9. jacks0nh0le (0:1)<br>
+143. #ernoinferno (1200) +2<br>
++62|+56|+48|+40|+35|+30|+19|+11|+8|+6<br>
 	10. Nimsta (0:1)<br>
 <br>
-148. #Sonova (1197) -1<br>
-+83|+65|+64|+39|+17|+10|-9|-11|-12|-3<br>
+144. #Turtle~Waffle (1200) -3<br>
+-11|-6|-5|-9|-17|-20|-20|-30|-15|+2<br>
+	3. Rush~Bot (1:1)<br>
+	9. waffle~3z (0:1)<br>
+<br>
+145. #PaperHawk317 (1198) 0<br>
++154|+132|+113|+88|+81|+61|+61|+40|+37|-1<br>
+	5. GaudyWeasel (0:1)<br>
+	10. Nimsta (0:2)<br>
+<br>
+146. #TidyFox-415 (1197) -2<br>
+-7|-13|-16|-6|-2|-13|-15|-1|-4|-6<br>
+	7. BillY_Patro (0:2)<br>
+	10. Nimsta (1:2)<br>
+<br>
+147. #Sonova (1196) -1<br>
++82|+64|+63|+38|+16|+9|-10|-12|-13|-4<br>
 	4. talos16 (0:2)<br>
 	7. BillY_Patro (1:1)<br>
 	8. PEPrasetya (0:7)<br>
-	9. jacks0nh0le (2:3)<br>
 	10. Nimsta (0:1)<br>
 <br>
-149. #benjamin1981 (1194) 0<br>
-+37|+22|+25|+27|+25|+19|+5|-1|-2|-5<br>
+148. #benjamin1981 (1196) +1<br>
++38|+24|+27|+28|+27|+21|+6|0|0|-4<br>
 	4. talos16 (1:0)<br>
 	6. Yamamoto79 (1:0)<br>
 	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (1:2)<br>
 	10. Nimsta (1:2)<br>
 <br>
-150. #ding2866199 (1192) -3<br>
-+157|+148|+130|+91|+76|+57|+37|+40|+14|+1<br>
+149. #BigApple~264 (1193) +1<br>
++162|+126|+96|+72|+61|+41|+45|+32|+17|+7<br>
+<br>
+150. #ding2866199 (1193) 0<br>
++157|+149|+130|+91|+76|+57|+38|+40|+14|+1<br>
 <br>
 151. #jacobpadova7 (1192) 0<br>
 +28|+21|+20|+10|+4|-3|-11|-18|-8|+1<br>
 <br>
-152. #hammie (1192) 0<br>
+152. #LateChalk~528 (1192) +1<br>
++141|+128|+108|+76|+61|+45|+41|+33|+14|+1<br>
+<br>
+153. #hammie (1192) 0<br>
 +85|+72|+68|+53|+46|+20|+10|+12|+4|-3<br>
 	3. Rush~Bot (0:1)<br>
 	7. BillY_Patro (0:4)<br>
 <br>
-153. #BigApple~264 (1192) +1<br>
-+160|+125|+95|+71|+60|+40|+44|+31|+16|+6<br>
-<br>
-154. #LateChalk~528 (1191) 0<br>
-+140|+128|+107|+75|+60|+44|+40|+32|+14|0<br>
-<br>
-155. #Crispo (1191) +3<br>
-+41|+36|+33|+30|+21|+19|+15|+13|+9|+7<br>
+154. #Crispo (1190) -1<br>
++40|+36|+32|+29|+20|+18|+14|+12|+8|+7<br>
 	4. talos16 (0:1)<br>
-	9. jacks0nh0le (0:1)<br>
 <br>
-156. #rotzo (1190) 0<br>
+155. #rotzo (1190) 0<br>
 +15|+8|+17|+17|+3|+6|+12|+8|-3|-2<br>
-	9. jacks0nh0le (0:1)<br>
 <br>
-157. #winkwink (1188) 0<br>
+156. #winkwink (1188) 0<br>
 +84|+73|+57|+31|+34|+27|+14|+6|0|+4<br>
 	4. talos16 (1:2)<br>
 	6. Yamamoto79 (0:1)<br>
 	7. BillY_Patro (0:1)<br>
 	8. PEPrasetya (1:4)<br>
-	9. jacks0nh0le (1:2)<br>
 	10. Nimsta (0:1)<br>
+<br>
+157. #HollowPocke~930 (1187) +3<br>
++47|+36|+31|+23|+13|+8|+4|-1|0|-4<br>
+	8. PEPrasetya (1:1)<br>
 <br>
 158. #sjehsan (1187) 0<br>
 +40|+31|+19|+14|+14|+16|+9|-2|+1|+1<br>
 	3. Rush~Bot (1:0)<br>
-	9. jacks0nh0le (0:1)<br>
 <br>
-159. #popeye (1187) +6<br>
+159. #popeye (1187) 0<br>
 +96|+83|+61|+38|+45|+34|+29|+28|+18|+13<br>
 	7. BillY_Patro (0:1)<br>
 	8. PEPrasetya (1:3)<br>
-	9. jacks0nh0le (2:2)<br>
 	10. Nimsta (0:1)<br>
 <br>
 160. #thereason (1186) 0<br>
 -8|-12|-13|-18|-14|-3|-6|+2|+8|+5<br>
 	6. Yamamoto79 (1:0)<br>
 	7. BillY_Patro (1:0)<br>
-	9. jacks0nh0le (5:7)<br>
 	10. Nimsta (0:1)<br>
 <br>
-161. #WiseBoat~137 (1185) +2<br>
+161. #WiseBoat~137 (1185) 0<br>
 +77|+59|+48|+46|+37|+20|+5|0|-6|+2<br>
 	6. Yamamoto79 (1:2)<br>
 	8. PEPrasetya (0:4)<br>
-	9. jacks0nh0le (0:1)<br>
 	10. Nimsta (1:3)<br>
 <br>
-162. #HollowPocke~930 (1184) 0<br>
-+44|+33|+28|+20|+9|+5|+1|-4|-3|-8<br>
-	8. PEPrasetya (1:1)<br>
-	9. jacks0nh0le (0:2)<br>
+162. #root_79 (1184) +6<br>
++91|+85|+70|+57|+38|+26|+20|+8|+6|0<br>
+	4. talos16 (3:3)<br>
+	5. GaudyWeasel (2:0)<br>
+	7. BillY_Patro (5:10)<br>
+	8. PEPrasetya (2:2)<br>
 <br>
-163. #GrumpyDeer~270 (1183) 0<br>
+163. #johannn (1184) +6<br>
++143|+102|+82|+51|+21<br>
+	8. PEPrasetya (4:0)<br>
+	10. Nimsta (2:0)<br>
+<br>
+164. #GrumpyDeer~270 (1183) 0<br>
 +130|+87|+58|+18<br>
 	3. Rush~Bot (0:1)<br>
 	7. BillY_Patro (0:2)<br>
 <br>
-164. #lasman (1182) 0<br>
-+36|+27|+15|0|+4|+1|+3|-4|-5|+1<br>
+165. #Kotori (1183) +10<br>
++161|+130|+112|+84|+67|+56|+44|+27|+18|+15<br>
+	10. Nimsta (1:0)<br>
 <br>
-165. #xMrMeeseeksx (1179) -1<br>
-+135|+98|+75|+60|+38|+24|+14<br>
-	8. PEPrasetya (0:1)<br>
-<br>
-166. #SwiftFlag~587 (1179) +6<br>
-+139|+103|+67|+36|+9<br>
+166. #SwiftFlag~587 (1183) +3<br>
++142|+106|+70|+39|+12<br>
 	6. Yamamoto79 (1:0)<br>
 	7. BillY_Patro (1:1)<br>
-	9. jacks0nh0le (2:0)<br>
 <br>
-167. #matty (1179) 0<br>
+167. #lasman (1182) 0<br>
++36|+27|+15|0|+4|+1|+3|-4|-5|+1<br>
+<br>
+168. #matty (1179) 0<br>
 +133|+88|+45|+11<br>
 	7. BillY_Patro (1:1)<br>
 	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (1:1)<br>
-<br>
-168. #supersonik53 (1179) +1<br>
-+73|+62|+55|+50|+41|+38|+37|+26|+11|-1<br>
-	7. BillY_Patro (0:1)<br>
-	8. PEPrasetya (1:0)<br>
+	9. waffle~3z (0:1)<br>
 <br>
 169. #RoyalHemlock (1179) 0<br>
 +60|+52|+38|+28|+17|+17|+7|+8|+8|+8<br>
-	9. jacks0nh0le (0:1)<br>
 <br>
-170. #johannn (1178) +1<br>
-+137|+96|+77|+45|+15<br>
-	8. PEPrasetya (4:0)<br>
-	9. jacks0nh0le (1:0)<br>
-	10. Nimsta (2:0)<br>
+170. #xMrMeeseeksx (1179) -1<br>
++135|+97|+75|+59|+38|+23|+14|+1<br>
+	8. PEPrasetya (0:1)<br>
 <br>
-171. #root_79 (1178) -5<br>
-+102|+85|+79|+64|+51|+31|+19|+13|+2|0<br>
-	4. talos16 (3:4)<br>
-	5. GaudyWeasel (2:0)<br>
-	7. BillY_Patro (5:10)<br>
-	8. PEPrasetya (2:2)<br>
-	9. jacks0nh0le (4:5)<br>
-<br>
-172. #SlickErmine~247 (1176) +2<br>
-+23|+14|+20|+16|+2|+3|+7|+13|+8|+1<br>
+171. #supersonik53 (1178) -1<br>
++72|+61|+54|+49|+40|+37|+36|+25|+9|-2<br>
 	7. BillY_Patro (0:1)<br>
 	8. PEPrasetya (1:0)<br>
-	9. jacks0nh0le (1:0)<br>
 <br>
-173. #tarqs (1176) 0<br>
-+80|+71|+66|+54|+39|+20|+13|+9|-4|-5<br>
-	4. talos16 (1:1)<br>
+172. #Steve.Jobs (1177) +8<br>
++143|+110|+81|+52|+25|+13|+6<br>
+	4. talos16 (0:2)<br>
+	6. Yamamoto79 (0:1)<br>
+	7. BillY_Patro (1:2)<br>
 <br>
-174. #laudamus (1173) +6<br>
-+136|+104|+74|+50|+31|+9<br>
-	6. Yamamoto79 (1:1)<br>
+173. #tarqs (1177) +1<br>
++80|+71|+66|+54|+39|+21|+14|+10|-3|-4<br>
+<br>
+174. #SlickErmine~247 (1175) -1<br>
++22|+13|+19|+15|+1|+2|+6|+12|+7|0<br>
 	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (0:2)<br>
-	10. Nimsta (1:0)<br>
+	8. PEPrasetya (1:0)<br>
 <br>
-175. #kotori (1173) 0<br>
-+150|+120|+102|+74|+57|+46|+34|+17|+7|+4<br>
-	10. Nimsta (1:0)<br>
-<br>
-176. #Mika69 (1172) +2<br>
-+26|+24|+18|+11|+7|+7|+2|-2|+6|+1<br>
-<br>
-177. #ace95 (1172) +8<br>
-+150|+115|+93|+77|+52|+22|+11<br>
+175. #ace95 (1175) +3<br>
++153|+118|+96|+80|+55|+25|+14<br>
 	3. Rush~Bot (10:8)<br>
 	4. talos16 (0:1)<br>
 	7. BillY_Patro (2:0)<br>
-	9. jacks0nh0le (1:1)<br>
 	10. Nimsta (0:1)<br>
 <br>
-178. #fluffybunny4 (1171) +1<br>
-+160|+138|+123|+105|+70|+58|+46|+37|+17|+1<br>
+176. #WateryApple~232 (1174) +8<br>
++174|+152|+131|+110|+96|+66|+51|+39|+33|+12<br>
 <br>
-179. #therenegade (1171) -1<br>
+177. #GabbyPeach~624 (1173) +5<br>
++111|+104|+95|+88|+82|+69|+37|+18|+8|+3<br>
+	7. BillY_Patro (1:0)<br>
+	8. PEPrasetya (0:1)<br>
+	10. Nimsta (0:1)<br>
+<br>
+178. #Mika69 (1172) 0<br>
++26|+24|+18|+11|+7|+7|+2|-2|+6|+1<br>
+<br>
+179. #fluffybunny4 (1171) 0<br>
++161|+138|+123|+105|+70|+58|+46|+38|+18|+2<br>
+<br>
+180. #therenegade (1171) 0<br>
 +146|+127|+100|+64|+53|+25|+3<br>
 	7. BillY_Patro (4:6)<br>
 	8. PEPrasetya (2:0)<br>
-	9. jacks0nh0le (3:2)<br>
 <br>
-180. #GabbyPeach~624 (1169) +1<br>
-+103|+106|+99|+90|+83|+77|+64|+32|+14|+4<br>
-	7. BillY_Patro (1:0)<br>
-	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (7:5)<br>
-	10. Nimsta (0:1)<br>
+181. #laudamus (1170) -3<br>
++133|+101|+70|+47|+27|+6<br>
+	6. Yamamoto79 (1:1)<br>
+	7. BillY_Patro (0:1)<br>
+	10. Nimsta (1:0)<br>
 <br>
-181. #Steve.Jobs (1169) +1<br>
-+135|+102|+73|+44|+17|+4<br>
-	4. talos16 (0:1)<br>
-	6. Yamamoto79 (0:1)<br>
-	7. BillY_Patro (1:2)<br>
-	9. jacks0nh0le (3:4)<br>
+182. #smartpants (1169) +3<br>
++125|+85|+50|+16<br>
 <br>
-182. #MistyWing~956 (1168) 0<br>
+183. #MistyWing~956 (1168) 0<br>
 +144|+120|+102|+82|+64|+36|+15|+6|+12<br>
 	8. PEPrasetya (0:1)<br>
 <br>
-183. #Astro~Chicken (1168) -6<br>
--23|-21|-15|-20|-11|-17|-17|-14|-10|-5<br>
-	1. MoldyCrush~110 (15:175)<br>
-	9. jacks0nh0le (0:1)<br>
-<br>
-184. #judasniels (1167) 0<br>
-+142|+111|+95|+82|+33|+21|+4<br>
-<br>
-185. #farzip (1166) +1<br>
--20|-25|-13|-7|-4|-10|-18|-22|-13|-1<br>
+184. #farzip (1168) +2<br>
+-18|-24|-12|-6|-3|-9|-17|-21|-11|+1<br>
 	4. talos16 (1:0)<br>
 	6. Yamamoto79 (0:2)<br>
-	7. BillY_Patro (1:0)<br>
-	9. jacks0nh0le (0:2)<br>
 	10. Nimsta (0:2)<br>
 <br>
-186. #smartpants (1166) +1<br>
-+122|+82|+47|+13<br>
+185. #judasniels (1167) 0<br>
++142|+111|+95|+82|+33|+21|+4<br>
+<br>
+186. #Balance~Bot (1166) +7<br>
+-28|-24|-22|-24|-37|-31|-28|-17|+1|+6<br>
+	3. Rush~Bot (0:1)<br>
+	9. waffle~3z (1:1)<br>
 <br>
 187. #BrawnyYam~955 (1166) 0<br>
 +26|+19|+26|+19|+17|+25|+24|+20|+9|+5<br>
 	7. BillY_Patro (1:4)<br>
 <br>
-188. #WateryApple~232 (1166) 0<br>
-+166|+144|+123|+102|+88|+57|+43|+31|+24|+4<br>
-<br>
-189. #FelixNavidad (1165) 0<br>
+188. #FelixNavidad (1165) 0<br>
 +19|+19|+12|+5|+7|+7|+4|+4|+15|+3<br>
-	9. jacks0nh0le (1:2)<br>
 <br>
-190. #GiddySleet~365 (1164) +5<br>
-+94|+86|+70|+43|+28|+19|+15|+7|+5|0<br>
+189. #GiddySleet~365 (1164) 0<br>
++95|+86|+70|+43|+28|+19|+15|+7|+5|0<br>
 	6. Yamamoto79 (3:4)<br>
 	7. BillY_Patro (6:3)<br>
 	8. PEPrasetya (3:1)<br>
-	9. jacks0nh0le (1:0)<br>
 <br>
-191. #FenixTheWar (1162) 0<br>
+190. #Astro~Chicken (1164) -4<br>
+-27|-24|-19|-24|-15|-21|-21|-18|-14|-9<br>
+	1. MoldyCrush~110 (13:160)<br>
+<br>
+191. #BOOTYCAKE (1163) +2<br>
++129|+103|+70|+45|+21|+4<br>
+	6. Yamamoto79 (0:2)<br>
+	8. PEPrasetya (0:2)<br>
+	10. Nimsta (0:4)<br>
+<br>
+192. #FenixTheWar (1162) 0<br>
 +137|+115|+83|+66|+49|+37|+21|+4<br>
 	5. GaudyWeasel (0:2)<br>
 	6. Yamamoto79 (1:2)<br>
 	10. Nimsta (1:4)<br>
 <br>
-192. #Bolsheviksib (1162) 0<br>
+193. #Bolsheviksib (1162) 0<br>
 +70|+62|+57|+46|+37|+27|+24|+12|+7|+5<br>
 	7. BillY_Patro (0:1)<br>
 	8. PEPrasetya (5:9)<br>
 <br>
-193. #jason_07 (1162) 0<br>
+194. #jason_07 (1162) 0<br>
 +142|+118|+115|+102|+68|+52|+30|+10<br>
 	5. GaudyWeasel (0:1)<br>
 <br>
-194. #BOOTYCAKE (1161) +2<br>
-+127|+101|+68|+43|+20|+2<br>
-	6. Yamamoto79 (0:2)<br>
-	8. PEPrasetya (0:2)<br>
-	9. jacks0nh0le (1:1)<br>
-	10. Nimsta (0:4)<br>
+195. #spookydoor (1160) +1<br>
++129|+110|+80|+49|+27|+8|-2|-1<br>
+	9. waffle~3z (1:0)<br>
 <br>
-195. #spookydoor (1159) 0<br>
-+128|+109|+79|+48|+26|+7|-3|-3<br>
+196. #OBTHR33 (1160) +4<br>
++98|+87|+83|+75|+60|+47|+40|+37|+15|+9<br>
+	7. BillY_Patro (1:0)<br>
 <br>
-196. #Balance~Bot (1159) 0<br>
--32|-35|-31|-30|-31|-44|-38|-35|-24|-7<br>
-	3. Rush~Bot (0:1)<br>
-	9. jacks0nh0le (0:1)<br>
-<br>
-197. #SquashPX (1159) -5<br>
--3|-4|+6|-6|-3|0|-8|-9|-15|-12<br>
+197. #SquashPX (1159) +1<br>
+-2|-4|+7|-5|-3|0|-8|-9|-14|-11<br>
 	4. talos16 (0:1)<br>
 	7. BillY_Patro (0:1)<br>
 	8. PEPrasetya (0:2)<br>
-	9. jacks0nh0le (0:5)<br>
 	10. Nimsta (1:2)<br>
 <br>
 198. #LethalSquas~296 (1157) 0<br>
 +51|+37|+31|+26|+18|+10|+17|+7|-4|-2<br>
 	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (1:3)<br>
 <br>
 199. #Benman3000 (1156) 0<br>
 +13|+4|+3|+3|+4|+6|+18|+17|+15|+1<br>
 <br>
-200. #OBTHR33 (1155) 0<br>
-+94|+83|+79|+71|+56|+43|+35|+32|+11|+5<br>
-	7. BillY_Patro (1:0)<br>
-	9. jacks0nh0le (1:0)<br>
-<br>
-201. #Star69lord (1155) 0<br>
-+52|+41|+35|+30|+34|+24|+11|+10|-3|0<br>
+200. #Star69lord (1155) +1<br>
++53|+42|+36|+30|+34|+24|+12|+11|-2|0<br>
 	4. talos16 (1:0)<br>
 	6. Yamamoto79 (0:1)<br>
 <br>
-202. #Capernicus (1153) +2<br>
-+121|+98|+65|+43|+30|+9|+13<br>
+201. #jozin (1154) +2<br>
++104|+65|+36|+15|+3|+9|+3<br>
+	7. BillY_Patro (0:2)<br>
+	8. PEPrasetya (2:1)<br>
+<br>
+202. #Capernicus (1153) 0<br>
++120|+97|+64|+43|+30|+9|+13<br>
 	7. BillY_Patro (0:1)<br>
 <br>
 203. #dont.mess (1153) 0<br>
 +119|+88|+48|+5<br>
 	7. BillY_Patro (2:0)<br>
-	9. jacks0nh0le (2:0)<br>
 <br>
-204. #jozin (1152) +2<br>
-+102|+63|+34|+14|+1|+7|+1<br>
-	7. BillY_Patro (0:2)<br>
-	8. PEPrasetya (2:1)<br>
+204. #Torben1aa (1151) 0<br>
++125|+102|+78|+51|+38|+25|+21|+5|-1<br>
 <br>
-205. #Torben1aa (1152) +1<br>
-+125|+103|+79|+52|+38|+25|+21|+5|0<br>
+205. #Drotc (1151) +2<br>
++87|+68|+50|+40|+33|+27|+20|+13|+10|+8<br>
+	10. Nimsta (0:2)<br>
 <br>
 206. #Nomad.jjk (1150) 0<br>
 +90|+73|+59|+61|+68|+45|+30|+20|+8|-3<br>
 	10. Nimsta (1:2)<br>
 <br>
-207. #greatTackle (1150) 0<br>
-+107|+78|+61|+45|+19|+4<br>
+207. #greatTackle (1149) -1<br>
++106|+77|+60|+44|+18|+3<br>
 	6. Yamamoto79 (1:2)<br>
-	9. jacks0nh0le (3:8)<br>
 <br>
-208. #Drotc (1149) +1<br>
-+85|+66|+48|+38|+31|+26|+18|+11|+8|+6<br>
-	10. Nimsta (0:2)<br>
+208. #Snowolf. (1148) +17<br>
++114|+68|+38<br>
+	4. talos16 (1:1)<br>
+	5. GaudyWeasel (0:1)<br>
+	6. Yamamoto79 (0:1)<br>
+	7. BillY_Patro (1:3)<br>
 <br>
-209. #Astinax (1145) -1<br>
--11|-8|-5|-5|-1|+5|+5|+6|+13|+5<br>
+209. #Astinax (1144) -1<br>
+-10|-6|-6|-3|+4|+4|+5|+12|+4|-1<br>
 	4. talos16 (0:1)<br>
-	8. PEPrasetya (2:4)<br>
+	8. PEPrasetya (2:2)<br>
 <br>
-210. #Olliec (1142) 0<br>
--19|-27|-28|-30|-15|-1|+3|+8|+6|+1<br>
-	9. jacks0nh0le (2:6)<br>
+210. #Born~2Snipe (1142) +9<br>
+-27|-17|-10|-15|-1|-2|-3|+4|+4|-7<br>
 <br>
-211. #MvDDoG (1141) +5<br>
+211. #MvDDoG (1141) 0<br>
 +91|+76|+61|+44|+31|+42|+40|+21|+11|+8<br>
 	7. BillY_Patro (0:2)<br>
 	10. Nimsta (0:2)<br>
 <br>
-212. #ZekeTalentx (1138) 0<br>
-+86|+75|+76|+64|+42|+35|+35|+20|+4|-3<br>
-	5. GaudyWeasel (1:0)<br>
-	9. jacks0nh0le (2:1)<br>
-	10. Nimsta (0:5)<br>
+212. #Olliec (1141) -1<br>
+-28|-29|-32|-16|-2|+2|+7|+5|0|0<br>
 <br>
-213. #JosephD1570 (1137) 0<br>
--4|-10|-4|-5|-13|-16|-24|-13|-10|-2<br>
+213. #JosephD1570 (1139) +2<br>
+-2|-8|-2|-3|-12|-14|-22|-12|-8|0<br>
 	7. BillY_Patro (0:1)<br>
 	8. PEPrasetya (1:2)<br>
 <br>
-214. #james--- (1137) 0<br>
-+118|+105|+74|+51|+30|+5<br>
-	5. GaudyWeasel (0:1)<br>
-	6. Yamamoto79 (0:1)<br>
-	9. jacks0nh0le (2:2)<br>
+214. #AgoraX (1138) +8<br>
++113|+105|+96|+91|+84|+74|+42|+32|+11|+4<br>
 <br>
-215. #EmirA (1137) 0<br>
-+113|+98|+80|+51|+26|+15<br>
-	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (2:0)<br>
+215. #ZekeTalentx (1138) 0<br>
++86|+75|+76|+64|+42|+35|+35|+20|+4|-3<br>
+	5. GaudyWeasel (1:0)<br>
+	10. Nimsta (0:5)<br>
 <br>
-216. #G4m3R34p3r (1136) -3<br>
-+70|+61|+50|+31|+25|+16|+15|+14|+6|-3<br>
-	4. talos16 (1:3)<br>
-	7. BillY_Patro (4:0)<br>
-	8. PEPrasetya (2:1)<br>
-	9. jacks0nh0le (2:2)<br>
-<br>
-217. #GreyGuy (1134) +1<br>
-+118|+98|+63|+46|+35|+13|+4<br>
+216. #GreyGuy (1138) +3<br>
++122|+101|+67|+49|+38|+16|+8<br>
 	6. Yamamoto79 (0:2)<br>
 	7. BillY_Patro (1:2)<br>
 	8. PEPrasetya (2:1)<br>
 <br>
-218. #poopynigs (1134) +4<br>
-+102|+66|+14<br>
+217. #poopynigs (1137) +4<br>
++106|+69|+18<br>
 <br>
-219. #Born~2Snipe (1133) -5<br>
--40|-43|-37|-26|-20|-25|-10|-11|-12|-5<br>
+218. #james--- (1137) 0<br>
++118|+105|+74|+51|+30|+5<br>
+	5. GaudyWeasel (0:1)<br>
+	9. waffle~3z (0:1)<br>
 <br>
-220. #Hannibal~Smith (1133) -1<br>
-+14|+9|+11|-2|+10|+5|+3|+15|+2|-6<br>
-	1. MoldyCrush~110 (0:19)<br>
+219. #EmirA (1137) 0<br>
++113|+98|+80|+51|+26|+15<br>
+	7. BillY_Patro (0:1)<br>
 <br>
-221. #Genghis~Khan (1133) +11<br>
-+5|+23|+7|+8|+4|+1|+1|+21|+4|+12<br>
-	1. MoldyCrush~110 (4:28)<br>
-	3. Rush~Bot (0:1)<br>
-	6. Yamamoto79 (0:1)<br>
+220. #G4m3R34p3r (1136) +1<br>
++71|+61|+51|+32|+26|+17|+16|+15|+7|-2<br>
+	4. talos16 (1:3)<br>
+	7. BillY_Patro (4:0)<br>
+	8. PEPrasetya (2:1)<br>
 <br>
-222. #Callisto103 (1133) -1<br>
-+98|+62|+52|+42|+29|+26|+26|+21|+14|-1<br>
-<br>
-223. #q-.-p (1132) 0<br>
-+84|+50|+15<br>
+221. #q-.-p (1133) +1<br>
++85|+50|+16<br>
 	3. Rush~Bot (0:2)<br>
 	4. talos16 (1:0)<br>
 	7. BillY_Patro (1:1)<br>
 	8. PEPrasetya (0:1)<br>
 <br>
-224. #Snowolf. (1132) +36<br>
-+97|+51|+22<br>
-	4. talos16 (1:1)<br>
-	5. GaudyWeasel (0:1)<br>
-	6. Yamamoto79 (0:1)<br>
-	7. BillY_Patro (1:3)<br>
-	9. jacks0nh0le (0:1)<br>
+222. #Hannibal~Smith (1133) 0<br>
++8|+11|-2|+9|+4|+3|+14|+2|-6|+7<br>
+	1. MoldyCrush~110 (0:19)<br>
+<br>
+223. #LevelWalrus~485 (1132) +1<br>
++103|+74|+57|+38|+21|+16<br>
+<br>
+224. #Callisto103 (1132) -1<br>
++97|+61|+51|+41|+28|+25|+25|+20|+13|-2<br>
 <br>
 225. #SpookyClove~947 (1131) 0<br>
 +124|+112|+110|+96|+87|+93|+89|+71|+43|+9<br>
 <br>
-226. #AgoraX (1131) +4<br>
-+120|+105|+97|+88|+83|+76|+66|+34|+24|+3<br>
-<br>
-227. #FlyingMoney~235 (1131) 0<br>
+226. #FlyingMoney~235 (1131) 0<br>
 +80|+67|+56|+58|+34|+34|+37|+38|+23|0<br>
 	8. PEPrasetya (0:1)<br>
 	10. Nimsta (1:3)<br>
 <br>
-228. #LevelWalrus~485 (1131) 0<br>
-+102|+73|+56|+37|+20|+15<br>
+227. #nihilimus (1130) +1<br>
++120|+108|+87|+67|+47|+36|+18|+10<br>
 <br>
-229. #Scrooge (1129) 0<br>
+228. #Scrooge (1129) 0<br>
 +98|+74|+48|+20|+2<br>
 	7. BillY_Patro (1:2)<br>
 <br>
-230. #nihilimus (1128) -2<br>
-+119|+107|+85|+66|+46|+34|+16|+9<br>
-	9. jacks0nh0le (0:2)<br>
+229. #AnimalGRL5 (1128) +2<br>
++99|+75|+58|+46|+31|+17|+15|+5<br>
 <br>
-231. #MagicWheel~570 (1127) -1<br>
-+119|+102|+73|+54|+44|+18<br>
-	8. PEPrasetya (1:3)<br>
-	9. jacks0nh0le (1:0)<br>
+230. #MagicWheel~570 (1128) +1<br>
++119|+102|+74|+54|+44|+18<br>
 <br>
-232. #loooser (1127) 0<br>
-+107|+91|+89|+73|+62|+45|+31|+30|+23|+5<br>
-	7. BillY_Patro (1:0)<br>
-<br>
-233. #gobindsingh (1127) +3<br>
-+57|+58|+45|+31|+20|+27|+18|+4|+11|+2<br>
+231. #gobindsingh (1127) 0<br>
++57|+58|+45|+31|+20|+27|+19|+4|+11|+2<br>
 	6. Yamamoto79 (0:2)<br>
 	10. Nimsta (0:1)<br>
 <br>
-234. #AnimalGRL5 (1127) 0<br>
-+97|+73|+56|+44|+30|+15|+14|+3<br>
-	8. PEPrasetya (1:0)<br>
+232. #loooser (1127) 0<br>
++106|+91|+88|+73|+62|+44|+31|+30|+23|+5<br>
+	7. BillY_Patro (1:0)<br>
+<br>
+233. #Kalhagen (1126) +4<br>
++122|+107|+89|+74|+68|+53|+30|+11<br>
+<br>
+234. #freddyx (1125) +6<br>
++107|+99|+92|+76|+47|+28|0<br>
+	6. Yamamoto79 (1:0)<br>
 <br>
 235. #lovestern (1123) 0<br>
 -9|-11|-7|-10|-19|-22|-19|-24|-6|-4<br>
-	7. BillY_Patro (0:2)<br>
 	10. Nimsta (0:1)<br>
 <br>
-236. #Kalhagen (1122) 0<br>
-+118|+103|+85|+70|+64|+49|+26|+7<br>
-<br>
-237. #Nebula23 (1121) 0<br>
-+79|+48|+3<br>
-	7. BillY_Patro (1:0)<br>
-	9. jacks0nh0le (0:1)<br>
-<br>
-238. #Thegracen (1120) -3<br>
-+81|+66|+48|+41|+25|-1<br>
+236. #Thegracen (1122) +1<br>
++83|+68|+49|+43|+27|0<br>
 	4. talos16 (0:1)<br>
 	5. GaudyWeasel (1:0)<br>
 <br>
-239. #freddyx (1119) +5<br>
-+102|+93|+86|+70|+41|+22<br>
-	6. Yamamoto79 (1:0)<br>
+237. #Nebula23 (1121) 0<br>
++79|+48|+3<br>
+	9. waffle~3z (0:1)<br>
 <br>
-240. #SpaceCow2 (1117) -2<br>
-+107|+93|+90|+73|+35|+19|+13|-3<br>
+238. #Genghis~Khan (1120) -13<br>
++10|-6|-5|-9|-13|-12|+8|-9|-1|-3<br>
+	1. MoldyCrush~110 (4:28)<br>
+	6. Yamamoto79 (0:1)<br>
+<br>
+239. #renzor (1118) +6<br>
++70|+63|+41|+30|+28|+26|+19|+14|+22|+6<br>
+	6. Yamamoto79 (0:5)<br>
+	7. BillY_Patro (0:3)<br>
+	8. PEPrasetya (1:1)<br>
+<br>
+240. #SpaceCow2 (1117) +1<br>
++108|+94|+91|+73|+35|+20|+14|-2<br>
 	7. BillY_Patro (1:7)<br>
-	9. jacks0nh0le (0:2)<br>
 <br>
-241. #davidpowell (1115) 0<br>
+241. #ganeshs_will (1116) +3<br>
++73|+74|+70|+63|+50|+45|+36|+27|+16|0<br>
+<br>
+242. #davidpowell (1115) 0<br>
 +85|+61|+44|+20|+6<br>
 	4. talos16 (3:1)<br>
 	5. GaudyWeasel (1:2)<br>
 	7. BillY_Patro (2:1)<br>
 	8. PEPrasetya (2:3)<br>
-	9. jacks0nh0le (1:0)<br>
 <br>
-242. #DryMango~917 (1115) +1<br>
-+95|+76|+69|+57|+43|+35|+41|+26|+13|+13<br>
-	7. BillY_Patro (0:4)<br>
-	8. PEPrasetya (3:3)<br>
-	9. jacks0nh0le (2:3)<br>
-<br>
-243. #SaltyCactus~892 (1114) +1<br>
+243. #SaltyCactus~892 (1114) 0<br>
 +104|+62|+22<br>
 	10. Nimsta (0:1)<br>
 <br>
-244. #monkspunk (1113) +7<br>
-+78|+38|+22|+7<br>
-	9. jacks0nh0le (1:4)<br>
+244. #monkspunk (1114) +1<br>
++79|+38|+22|+7<br>
 <br>
-245. #ganeshs_will (1113) 0<br>
-+88|+70|+71|+67|+60|+47|+42|+33|+24|+13<br>
+245. #DryMango~917 (1113) -1<br>
++75|+68|+56|+41|+34|+40|+25|+11|+12|-1<br>
+	7. BillY_Patro (0:4)<br>
+	8. PEPrasetya (3:3)<br>
 <br>
-246. #renzor (1112) 0<br>
-+64|+56|+35|+24|+21|+20|+13|+8|+16|0<br>
-	6. Yamamoto79 (0:5)<br>
-	7. BillY_Patro (0:3)<br>
-	8. PEPrasetya (1:1)<br>
-	9. jacks0nh0le (0:2)<br>
-<br>
-247. #AlGalcone (1111) -1<br>
--7|-5|-2|-1|0|-9|-3|-5|-7|-2<br>
-	4. talos16 (0:1)<br>
-	9. jacks0nh0le (2:5)<br>
-	10. Nimsta (0:3)<br>
-<br>
-248. #fadam (1111) 0<br>
+246. #fadam (1111) 0<br>
 +54|+45|+39|+25|+16|+11|+9|-3|+6|0<br>
 	4. talos16 (0:2)<br>
 	7. BillY_Patro (2:4)<br>
-	8. PEPrasetya (0:7)<br>
-	9. jacks0nh0le (0:2)<br>
+	8. PEPrasetya (0:5)<br>
 	10. Nimsta (0:1)<br>
 <br>
-249. #TallSkunk~553 (1111) +4<br>
+247. #TallSkunk~553 (1111) 0<br>
 +95|+77|+63|+41|+12<br>
 	5. GaudyWeasel (0:2)<br>
 	7. BillY_Patro (1:2)<br>
 	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (2:0)<br>
 <br>
-250. #SaucyMask~726 (1110) +1<br>
+248. #SaucyMask~726 (1110) 0<br>
 +72|+60|+36|+9<br>
 	5. GaudyWeasel (0:2)<br>
-	7. BillY_Patro (1:0)<br>
+<br>
+249. #howdy. (1110) +3<br>
++83|+49|+22<br>
+	6. Yamamoto79 (0:1)<br>
+	8. PEPrasetya (1:0)<br>
+<br>
+250. #AlGalcone (1109) -2<br>
+-10|-8|-4|-3|-2|-11|-5|-8|-9|-4<br>
+	4. talos16 (0:1)<br>
+	10. Nimsta (0:3)<br>
 <br>
 251. #HazyStrike~280 (1108) 0<br>
 +89|+72|+50|+35|+29|+9<br>
-	4. talos16 (0:1)<br>
-	9. jacks0nh0le (0:1)<br>
 <br>
 252. #SpookyHat~643 (1108) 0<br>
 +94|+73|+51|+26|+11<br>
-	8. PEPrasetya (0:1)<br>
 <br>
-253. #N-O-V-A (1108) +1<br>
+253. #N-O-V-A (1108) 0<br>
 +80|+59|+47|+30|+17|+8<br>
 	5. GaudyWeasel (1:0)<br>
 	7. BillY_Patro (1:0)<br>
 <br>
-254. #howdy. (1107) +2<br>
-+79|+45|+18<br>
-	6. Yamamoto79 (0:1)<br>
-	8. PEPrasetya (1:0)<br>
-	9. jacks0nh0le (0:1)<br>
-<br>
-255. #PuffyPotato~928 (1106) +5<br>
-+87|+74|+52|+29|+2<br>
+254. #PuffyPotato~928 (1107) +1<br>
++88|+75|+53|+31|+3<br>
+	4. talos16 (1:0)<br>
 	5. GaudyWeasel (3:3)<br>
 	6. Yamamoto79 (2:1)<br>
-	7. BillY_Patro (0:2)<br>
-	9. jacks0nh0le (0:2)<br>
+	7. BillY_Patro (0:1)<br>
+<br>
+255. #TartPlane~392 (1107) +2<br>
++60|+25<br>
+	10. Nimsta (1:0)<br>
 <br>
 256. #AbsurdBeef~399 (1105) 0<br>
 +42|+37|+25|+23|+21|+21|+25|+19|+10|0<br>
 <br>
 257. #WigglyBear~311 (1105) 0<br>
 +106|+92|+81|+76|+68|+37|+29|+13<br>
-	9. jacks0nh0le (0:3)<br>
 <br>
-258. #QuirkyToad~911 (1104) -1<br>
-+30|+23|+11|+5|+3|-9|-7|0|-10|-2<br>
+258. #QuirkyToad~911 (1104) 0<br>
++30|+23|+11|+5|+3|-8|-7|+1|-10|-2<br>
 	5. GaudyWeasel (0:4)<br>
 	6. Yamamoto79 (0:1)<br>
-	9. jacks0nh0le (1:1)<br>
 <br>
-259. #tombib (1104) -1<br>
-+84|+64|+58|+49|+43|+42|+22|+13|+2|-1<br>
+259. #tombib (1104) +1<br>
++84|+64|+58|+49|+44|+43|+23|+14|+3|0<br>
 	8. PEPrasetya (0:1)<br>
 <br>
 260. #thunder35 (1104) 0<br>
 +95|+81|+56|+46|+34|+17<br>
 <br>
-261. #Dessertfox64 (1102) +2<br>
-+82|+58|+35|+16<br>
-	9. jacks0nh0le (1:0)<br>
-<br>
-262. #BaggyFrog~990 (1100) +3<br>
-+74|+47|+24|+5<br>
+261. #BaggyFrog~990 (1102) +1<br>
++75|+48|+25|+7<br>
 	3. Rush~Bot (0:1)<br>
 	7. BillY_Patro (3:2)<br>
+<br>
+262. #Dessertfox64 (1101) 0<br>
++81|+58|+34|+16<br>
 <br>
 263. #suicidallama (1100) 0<br>
 +87|+81|+65|+51|+44|+41|+25|+26|+6<br>
 	7. BillY_Patro (0:1)<br>
 	8. PEPrasetya (1:1)<br>
 <br>
-264. #sourire (1099) 0<br>
-+49|+35|+33|+27|+18|+9|+14|+17|+1|-1<br>
-	7. BillY_Patro (0:2)<br>
-	9. jacks0nh0le (0:1)<br>
+264. #GreenChief~310 (1099) +3<br>
++72|+50|+21<br>
+	6. Yamamoto79 (1:1)<br>
 <br>
-265. #PuffyBread~392 (1096) 0<br>
-+88|+72|+42|+25|+11|+5|+3|0<br>
+265. #PuffyBread~392 (1098) +2<br>
++90|+74|+44|+27|+13|+7|+5|+2<br>
 	7. BillY_Patro (0:5)<br>
 	10. Nimsta (1:0)<br>
 <br>
-266. #GreenChief~310 (1096) -1<br>
-+69|+48|+19<br>
-	6. Yamamoto79 (1:1)<br>
-<br>
-267. #meltskie (1093) +10<br>
-+74|+55|+28<br>
-	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (1:4)<br>
-	10. Nimsta (1:1)<br>
-<br>
-268. #WiseMoney~332 (1092) +18<br>
-+77|+56|+45|+39|+32<br>
+266. #sourire (1098) -1<br>
++48|+34|+33|+27|+18|+9|+14|+17|0|-1<br>
 	7. BillY_Patro (0:2)<br>
 <br>
-269. #ParaDroid72 (1092) -2<br>
-+93|+72|+59|+53|+46|+33|+31|+8|+4|-1<br>
+267. #dadedread786 (1097) +14<br>
++77|+66|+44|+36|+39|+35|+28|+15<br>
+	4. talos16 (3:1)<br>
+	6. Yamamoto79 (0:1)<br>
+	7. BillY_Patro (0:5)<br>
+	10. Nimsta (1:2)<br>
 <br>
-270. #Sea~Slug (1090) 0<br>
-+16|+20|+6|-11|-4|+1|+1|-3|+3|+1<br>
-	1. MoldyCrush~110 (0:14)<br>
-	3. Rush~Bot (1:0)<br>
-	6. Yamamoto79 (1:1)<br>
+268. #WiseMoney~332 (1094) +1<br>
++78|+58|+46|+40|+33<br>
+	7. BillY_Patro (0:2)<br>
 <br>
-271. #martincito6 (1090) 0<br>
-+63|+34|+9<br>
-	5. GaudyWeasel (0:3)<br>
-	7. BillY_Patro (2:2)<br>
-	9. jacks0nh0le (0:4)<br>
-<br>
-272. #Ms.skii (1089) +4<br>
-+42|+28<br>
+269. #Ms.skii (1093) +4<br>
++46|+32<br>
 	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (0:1)<br>
 <br>
-273. #ExoticFlowe~759 (1087) 0<br>
-+76|+52|+18<br>
-	5. GaudyWeasel (1:2)<br>
-	7. BillY_Patro (1:1)<br>
-	9. jacks0nh0le (2:0)<br>
+270. #meltskie (1093) 0<br>
++74|+54|+28<br>
+	8. PEPrasetya (0:1)<br>
+	10. Nimsta (1:1)<br>
 <br>
-274. #SappyMouse~821 (1086) 0<br>
-+66|+26<br>
-	7. BillY_Patro (0:8)<br>
-	9. jacks0nh0le (0:2)<br>
-<br>
-275. #Over~Expand (1086) +8<br>
-+4|+4|+8|-13|-10|0|-2|+6|+4|+6<br>
+271. #Over~Expand (1092) +6<br>
++10|+14|-6|-4|+6|+4|+12|+10|+12|+8<br>
 	1. MoldyCrush~110 (0:47)<br>
 	3. Rush~Bot (0:1)<br>
 	6. Yamamoto79 (0:1)<br>
-	7. BillY_Patro (0:34)<br>
+	7. BillY_Patro (0:17)<br>
 <br>
-276. #fathertecler (1085) 0<br>
-+48|+21|+2<br>
-	9. jacks0nh0le (0:1)<br>
+272. #ParaDroid72 (1091) -1<br>
++92|+71|+58|+52|+45|+32|+30|+7|+3|-2<br>
 <br>
-277. #StinkyRebel~663 (1084) 0<br>
-+42|+14|+2<br>
+273. #martincito6 (1090) 0<br>
++63|+34|+9<br>
+	5. GaudyWeasel (0:3)<br>
+	7. BillY_Patro (2:2)<br>
 <br>
-278. #Mexikid (1084) +1<br>
+274. #ExoticFlowe~759 (1089) +3<br>
++79|+54|+20<br>
+	5. GaudyWeasel (1:2)<br>
+	7. BillY_Patro (1:1)<br>
+<br>
+275. #SappyMouse~821 (1087) +1<br>
++67|+27<br>
+	7. BillY_Patro (0:8)<br>
+<br>
+276. #fathertecler (1086) +2<br>
++50|+23|+3<br>
+<br>
+277. #Mexikid (1084) 0<br>
 +81|+69|+51|+51|+47|+31|+34|+24<br>
 	7. BillY_Patro (0:1)<br>
 <br>
-279. #crusher22 (1084) 0<br>
+278. #crusher22 (1084) 0<br>
 +44|+12<br>
 	5. GaudyWeasel (1:0)<br>
-	9. jacks0nh0le (5:2)<br>
 <br>
-280. #dadedread786 (1083) +2<br>
-+63|+52|+30|+23|+26|+21|+15|+1<br>
-	4. talos16 (3:1)<br>
-	6. Yamamoto79 (0:1)<br>
-	7. BillY_Patro (0:6)<br>
-	9. jacks0nh0le (2:3)<br>
-	10. Nimsta (1:2)<br>
+279. #GrandTurk (1083) +3<br>
++51|+19<br>
+	7. BillY_Patro (1:1)<br>
 <br>
-281. #Eagleye14963 (1083) 0<br>
+280. #Eagleye14963 (1083) 0<br>
 +78|+88|+89|+82|+76|+62|+32|+13|+9|+9<br>
 <br>
-282. #edwin327 (1081) 0<br>
--45|-49|-60|-46|-43|-34|-26|-17|-6|-2<br>
+281. #edwin327 (1082) +1<br>
+-43|-48|-58|-44|-41|-33|-24|-16|-4|0<br>
 	7. BillY_Patro (0:1)<br>
 <br>
-283. #GrandTurk (1080) +10<br>
-+48|+15<br>
-	7. BillY_Patro (1:1)<br>
-	9. jacks0nh0le (0:1)<br>
+282. #NotSaand (1082) +4<br>
++32<br>
 <br>
-284. #SillyEdge~562 (1080) +3<br>
-+54|+30|+9<br>
+283. #SillyEdge~562 (1080) 0<br>
++53|+30|+8<br>
 	5. GaudyWeasel (0:1)<br>
 	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (0:5)<br>
 <br>
-285. #Slow~Poke (1079) -4<br>
-+8|+2|+10|+1|+2|+13|0|+3|+8|+2<br>
-	1. MoldyCrush~110 (1:15)<br>
-	3. Rush~Bot (3:4)<br>
-<br>
-286. #NotSaand (1078) +5<br>
-+28<br>
-	7. BillY_Patro (1:0)<br>
-<br>
-287. #gazzed123 (1077) 0<br>
+284. #gazzed123 (1077) 0<br>
 +54|+29<br>
 	6. Yamamoto79 (2:1)<br>
-	7. BillY_Patro (0:2)<br>
+	7. BillY_Patro (0:1)<br>
 <br>
-288. #Alaskanboy (1077) 0<br>
+285. #Alaskanboy (1077) 0<br>
 +74|+54|+37|+21|+1<br>
 	8. PEPrasetya (0:1)<br>
 <br>
-289. #Samdlx (1077) +1<br>
+286. #Samdlx (1077) 0<br>
 +51|+15|0<br>
 <br>
-290. #SC00BY_D00 (1077) +7<br>
-+38|+19<br>
-	5. GaudyWeasel (1:1)<br>
-	7. BillY_Patro (0:3)<br>
-	8. PEPrasetya (0:3)<br>
-	9. jacks0nh0le (0:2)<br>
-<br>
-291. #thebsp (1076) 0<br>
+287. #thebsp (1076) 0<br>
 +34|-3<br>
 	3. Rush~Bot (1:1)<br>
 	7. BillY_Patro (0:1)<br>
 <br>
-292. #undisputed (1075) 0<br>
-+55|+31|+9<br>
-	5. GaudyWeasel (0:2)<br>
+288. #Sea~Slug (1076) -15<br>
++6|-9|-25|-18|-14|-14|-17|-12|-14|-9<br>
+	1. MoldyCrush~110 (0:14)<br>
+	3. Rush~Bot (1:0)<br>
+	6. Yamamoto79 (1:1)<br>
 <br>
-293. #Jakersballin (1074) 0<br>
+289. #SC00BY_D00 (1075) -1<br>
++36|+18<br>
+	5. GaudyWeasel (1:1)<br>
+	7. BillY_Patro (0:2)<br>
+	8. PEPrasetya (0:1)<br>
+<br>
+290. #undisputed (1075) 0<br>
++55|+31|+9<br>
+<br>
+291. #Jakersballin (1074) 0<br>
 +54|+38|+30|+16|+10<br>
 	8. PEPrasetya (2:5)<br>
-	9. jacks0nh0le (0:1)<br>
 	10. Nimsta (0:3)<br>
 <br>
-294. #M6l8-711 (1074) +3<br>
-+64|+44|+38|+27|+20|+16|+15|+2<br>
-	5. GaudyWeasel (0:1)<br>
-	8. PEPrasetya (1:2)<br>
-	9. jacks0nh0le (0:2)<br>
-<br>
-295. #uzgideba (1073) 0<br>
+292. #uzgideba (1073) 0<br>
 +47|+40|+22<br>
 	8. PEPrasetya (1:1)<br>
-	9. jacks0nh0le (1:2)<br>
 <br>
-296. #lilgirl666 (1073) +3<br>
+293. #lilgirl666 (1073) 0<br>
 +41|+13<br>
 	7. BillY_Patro (0:1)<br>
 	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (0:3)<br>
 <br>
-297. #SmokyString~815 (1072) 0<br>
+294. #M6l8-711 (1073) -2<br>
++62|+43|+37|+25|+18|+15|+14|+1<br>
+	5. GaudyWeasel (0:1)<br>
+	8. PEPrasetya (1:2)<br>
+<br>
+295. #SmokyString~815 (1072) 0<br>
 +21<br>
 	6. Yamamoto79 (0:3)<br>
 <br>
-298. #PR0D1GY (1071) 0<br>
-+28<br>
-<br>
-299. #Opacity (1070) -1<br>
-+50|+44|+22|+10|-5<br>
-	6. Yamamoto79 (0:1)<br>
-	7. BillY_Patro (0:1)<br>
-<br>
-300. #GrayFork~576 (1069) +5<br>
-+54|+41|+19<br>
-<br>
-301. #LobsterPete (1067) 0<br>
-+54|+32|+12|+5<br>
+296. #LobsterPete (1071) +4<br>
++57|+35|+16|+9<br>
 	5. GaudyWeasel (0:1)<br>
 	8. PEPrasetya (0:1)<br>
 <br>
-302. #KITTEH11 (1066) +5<br>
-+71|+67|+60|+45|+36|+28|+10|+4<br>
+297. #PR0D1GY (1071) 0<br>
++28<br>
+<br>
+298. #Opacity (1070) 0<br>
++50|+43|+22|+9|-5<br>
+	6. Yamamoto79 (0:1)<br>
+	7. BillY_Patro (0:1)<br>
+<br>
+299. #GrayFork~576 (1069) 0<br>
++54|+41|+19<br>
+<br>
+300. #KITTEH11 (1067) +1<br>
++72|+68|+61|+45|+37|+29|+11|+5<br>
 	7. BillY_Patro (0:2)<br>
 	8. PEPrasetya (1:5)<br>
-	9. jacks0nh0le (0:3)<br>
 <br>
-303. #Maximus4444 (1066) +1<br>
--25|-20|-10|-5|+3|-7|-8|-1|+2|+5<br>
-	9. jacks0nh0le (0:5)<br>
+301. #Ethanator10 (1066) +3<br>
++35|+15<br>
+	7. BillY_Patro (0:2)<br>
 <br>
-304. #SultanDDS (1065) -1<br>
+302. #SultanDDS (1065) 0<br>
 +41|+20<br>
 	6. Yamamoto79 (0:1)<br>
-	8. PEPrasetya (1:4)<br>
 <br>
-305. #MarshalTeach (1065) 0<br>
-+63|+62|+55|+53|+41|+31|+16|+13|+7|+1<br>
+303. #HTALAQI (1065) +4<br>
++49|+25|+11<br>
+	7. BillY_Patro (1:4)<br>
+	10. Nimsta (0:3)<br>
+<br>
+304. #MarshalTeach (1065) 0<br>
++62|+61|+54|+52|+40|+30|+16|+13|+7|0<br>
 	4. talos16 (1:1)<br>
 	8. PEPrasetya (3:9)<br>
-	9. jacks0nh0le (1:0)<br>
+<br>
+305. #Maximus4444 (1064) -1<br>
+-27|-22|-11|-7|+2|-9|-9|-3|0|+3<br>
 <br>
 306. #GrumpyIslan~863 (1063) 0<br>
 +35|+13|+9|0<br>
 	8. PEPrasetya (1:5)<br>
 <br>
-307. #Ethanator10 (1063) +1<br>
-+32|+12<br>
+307. #DustySquid~175 (1063) +4<br>
++52|+48|+35|+26|+25|+13<br>
 	7. BillY_Patro (0:2)<br>
 <br>
-308. #GreasyDrain~600 (1063) +19<br>
-+32<br>
-	7. BillY_Patro (0:1)<br>
-<br>
-309. #balaym (1061) 0<br>
-+36|+19|+12|0<br>
-	4. talos16 (1:0)<br>
-	6. Yamamoto79 (0:1)<br>
-	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (2:5)<br>
-<br>
-310. #SilverShove~475 (1061) +3<br>
-+33|+17<br>
+308. #SilverShove~475 (1063) +2<br>
++35|+19<br>
 	5. GaudyWeasel (0:2)<br>
 	8. PEPrasetya (0:1)<br>
 	10. Nimsta (1:1)<br>
 <br>
-311. #DustySquid~175 (1060) +3<br>
-+48|+45|+31|+22|+21|+9<br>
-	7. BillY_Patro (0:2)<br>
-	9. jacks0nh0le (0:1)<br>
+309. #GreasyDrain~600 (1063) 0<br>
++32<br>
+	7. BillY_Patro (0:1)<br>
 <br>
-312. #GJMAN (1059) 0<br>
+310. #Slow~Poke (1063) -16<br>
+-14|-7|-15|-14|-3|-17|-13|-8|-14|-12<br>
+	1. MoldyCrush~110 (1:15)<br>
+	3. Rush~Bot (3:4)<br>
+<br>
+311. #balaym (1061) 0<br>
++36|+19|+12|0<br>
+	4. talos16 (1:0)<br>
+	6. Yamamoto79 (0:1)<br>
+	7. BillY_Patro (0:1)<br>
+<br>
+312. #Ch1kn (1061) +7<br>
++64|+59|+36|+16<br>
+<br>
+313. #GJMAN (1059) 0<br>
 +33<br>
 	4. talos16 (1:0)<br>
 <br>
-313. #cohnii (1058) 0<br>
-+34|+10<br>
-	7. BillY_Patro (1:3)<br>
-	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (0:1)<br>
-<br>
-314. #Colinyang520 (1057) 0<br>
-+36<br>
-	8. PEPrasetya (1:0)<br>
-	9. jacks0nh0le (0:1)<br>
-<br>
-315. #W_a_g_g_y (1057) +1<br>
-+18|+7<br>
+314. #W_a_g_g_y (1058) +1<br>
++19|+8<br>
 	3. Rush~Bot (0:1)<br>
 	8. PEPrasetya (0:1)<br>
 	10. Nimsta (0:1)<br>
 <br>
-316. #krizzy (1057) +1<br>
-+40|+8<br>
-	4. talos16 (2:1)<br>
-	6. Yamamoto79 (1:0)<br>
-	9. jacks0nh0le (2:5)<br>
+315. #cohnii (1058) 0<br>
++34|+9<br>
+	7. BillY_Patro (1:3)<br>
+	8. PEPrasetya (0:1)<br>
 <br>
-317. #Jelly1932 (1056) 0<br>
+316. #Jelly1932 (1056) 0<br>
 +39|+19<br>
 	6. Yamamoto79 (0:2)<br>
 	7. BillY_Patro (1:0)<br>
-	9. jacks0nh0le (1:0)<br>
+<br>
+317. #krizzy (1056) 0<br>
++39|+7<br>
+	4. talos16 (2:1)<br>
+	6. Yamamoto79 (1:0)<br>
 <br>
 318. #StickyShove~397 (1056) 0<br>
 +3<br>
 <br>
-319. #TightWeasel~960 (1056) +3<br>
+319. #TightWeasel~960 (1056) 0<br>
 +39|+23<br>
 	8. PEPrasetya (1:0)<br>
-	9. jacks0nh0le (0:1)<br>
 <br>
-320. #MellowBike~614 (1056) 0<br>
-+41|+23|+7<br>
-<br>
-321. #Ch1kn (1055) +6<br>
-+57|+52|+29|+9<br>
-<br>
-322. #dieyouwill (1054) 0<br>
-+28|+21|-1<br>
-	10. Nimsta (1:3)<br>
-<br>
-323. #stlcards1414 (1054) 0<br>
-+49|+38|+21<br>
-<br>
-324. #CalvinCandie (1053) 0<br>
-+8<br>
-	10. Nimsta (1:0)<br>
-<br>
-325. #Home~Boy (1053) -9<br>
--29|-27|-13|-20|-21|-20|-17|-21|-9|-9<br>
-	1. MoldyCrush~110 (0:16)<br>
-	2. Reke8 (12:84)<br>
-	3. Rush~Bot (16:34)<br>
-	6. Yamamoto79 (0:2)<br>
-<br>
-326. #TiMoGeN51 (1053) +1<br>
-+24|+12<br>
+320. #TiMoGeN51 (1056) +3<br>
++26|+15<br>
 	3. Rush~Bot (0:2)<br>
 	10. Nimsta (0:1)<br>
 <br>
-327. #Radius~Attack (1052) +13<br>
-+5|0|-11|-5|+2|-8|+1|-5|+10|+1<br>
-	1. MoldyCrush~110 (4:12)<br>
+321. #MellowBike~614 (1056) 0<br>
++41|+23|+7<br>
+<br>
+322. #Radius~Attack (1055) +2<br>
++2|-9|-3|+5|-6|+4|-2|+13|+4|+7<br>
+	1. MoldyCrush~110 (4:13)<br>
 	6. Yamamoto79 (0:1)<br>
 <br>
-328. #xaelia (1051) +2<br>
+323. #Home~Boy (1054) +1<br>
+-12|-19|-20|-19|-16|-20|-8|-8|-1|+1<br>
+	1. MoldyCrush~110 (0:16)<br>
+	2. Reke8 (13:87)<br>
+	3. Rush~Bot (17:37)<br>
+	6. Yamamoto79 (0:2)<br>
+	9. waffle~3z (13:33)<br>
+<br>
+324. #dieyouwill (1054) 0<br>
++28|+21|-1<br>
+	10. Nimsta (1:3)<br>
+<br>
+325. #stlcards1414 (1054) 0<br>
++49|+38|+21<br>
+<br>
+326. #xaelia (1051) 0<br>
 +32|+5<br>
 <br>
-329. #WackyHawk~713 (1051) 0<br>
+327. #WackyHawk~713 (1051) 0<br>
 +34|+18<br>
 	6. Yamamoto79 (2:1)<br>
 	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (0:2)<br>
 <br>
-330. #Woccmaster (1051) 0<br>
+328. #Woccmaster (1051) 0<br>
 +6<br>
+<br>
+329. #jack77 (1050) +50<br>
++34|+2<br>
+<br>
+330. #AMADOfree (1049) +6<br>
++11<br>
+	4. talos16 (0:1)<br>
 <br>
 331. #googooman (1049) 0<br>
 +25|-2<br>
 <br>
-332. #QuickestWolf (1049) 0<br>
-<br>
-	2. Reke8 (1:0)<br>
-	3. Rush~Bot (0:1)<br>
-	4. talos16 (1:1)<br>
-<br>
-333. #LivelyClove~848 (1048) 0<br>
+332. #LivelyClove~848 (1048) 0<br>
 +32|+41|+29|+36|+22|+5|+3|+2|+1<br>
-	9. jacks0nh0le (0:2)<br>
 <br>
-334. #RockySpruce~290 (1047) +2<br>
-+44|+36|+26|+14|+12|+6|+7|+1<br>
+333. #RockySpruce~290 (1047) 0<br>
++43|+36|+25|+14|+12|+6|+7|+1<br>
 	6. Yamamoto79 (1:6)<br>
 	8. PEPrasetya (1:4)<br>
-	9. jacks0nh0le (0:2)<br>
 <br>
-335. #AmusedRay~860 (1046) 0<br>
+334. #AmusedRay~860 (1046) 0<br>
 +20<br>
 	7. BillY_Patro (1:0)<br>
-	9. jacks0nh0le (1:1)<br>
 <br>
-336. #d7oom86 (1045) 0<br>
+335. #d7oom86 (1045) 0<br>
 +43|+32<br>
 	8. PEPrasetya (0:1)<br>
 <br>
-337. #onelovedg33 (1045) 0<br>
+336. #onelovedg33 (1045) 0<br>
 <br>
-	9. jacks0nh0le (1:0)<br>
+<br>
+337. #mutelow (1045) +13<br>
++48|+40<br>
+	4. talos16 (1:0)<br>
 <br>
 338. #mistic69 (1044) 0<br>
 +12<br>
 	6. Yamamoto79 (0:1)<br>
 	7. BillY_Patro (0:1)<br>
 <br>
-339. #AMADOfree (1044) 0<br>
-+6<br>
-	4. talos16 (0:1)<br>
+339. #LateHam~133 (1043) +2<br>
++30|+2<br>
 <br>
 340. #RoyalTurkey~210 (1041) 0<br>
 +22|+9<br>
 	5. GaudyWeasel (1:0)<br>
 	8. PEPrasetya (1:1)<br>
 <br>
-341. #LateHam~133 (1041) 0<br>
-+28|0<br>
-	9. jacks0nh0le (0:3)<br>
-<br>
-342. #rollankyojin (1039) +1<br>
-+29|+1<br>
-<br>
-343. #dfxe (1037) +1<br>
-+9<br>
-	9. jacks0nh0le (2:3)<br>
-<br>
-344. #DustyTiger~783 (1037) 0<br>
-+21|+7<br>
-<br>
-345. #BurlyApple~769 (1036) -2<br>
-+14|+8<br>
-	6. Yamamoto79 (0:1)<br>
-<br>
-346. #pa54600 (1036) 0<br>
-+12<br>
-	6. Yamamoto79 (0:1)<br>
-<br>
-347. #xFury (1036) +15<br>
-<br>
-	6. Yamamoto79 (0:1)<br>
-	7. BillY_Patro (0:2)<br>
-<br>
-348. #Viper-Gas (1036) 0<br>
-+2<br>
-<br>
-349. #ChunkyRebel~684 (1035) 0<br>
-+21|+9<br>
-	8. PEPrasetya (0:1)<br>
-	9. jacks0nh0le (4:1)<br>
-<br>
-350. #MarbleSeal~306 (1035) 0<br>
-<br>
-<br>
-351. #DryChief~287 (1035) 0<br>
-+21|+3|+1<br>
-	4. talos16 (0:1)<br>
-	8. PEPrasetya (0:1)<br>
-	10. Nimsta (0:1)<br>
-<br>
-352. #WhiteShade~488 (1034) +2<br>
-<br>
+341. #WhiteShade~488 (1041) +6<br>
++5<br>
 	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (1:1)<br>
 <br>
-353. #amusedbeast (1034) -4<br>
--2|-2|-8|-10|-13|-14|-12|-9|-10|-5<br>
-<br>
-354. #RapidBingo~884 (1034) 0<br>
-+17|+7|+2<br>
-	5. GaudyWeasel (1:0)<br>
-	6. Yamamoto79 (0:2)<br>
-	7. BillY_Patro (0:2)<br>
-<br>
-355. #BumpySofa~499 (1034) 0<br>
-+17|+2<br>
-	8. PEPrasetya (2:3)<br>
-<br>
-356. #Pendrag0n (1033) -1<br>
-+21|+9|-1<br>
-	5. GaudyWeasel (1:1)<br>
-	7. BillY_Patro (1:1)<br>
-	8. PEPrasetya (0:1)<br>
-<br>
-357. #ZeBrA8 (1033) 0<br>
-+10<br>
-	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (0:3)<br>
-<br>
-358. #GoldenCooki~785 (1032) 0<br>
-<br>
-<br>
-359. #Cyclosis (1031) 0<br>
-<br>
-	2. Reke8 (1:0)<br>
-	8. PEPrasetya (2:1)<br>
-<br>
-360. #TidyRaven~351 (1031) 0<br>
-<br>
-	4. talos16 (0:2)<br>
-	8. PEPrasetya (1:1)<br>
-<br>
-361. #juciewj (1031) 0<br>
+342. #juciewj (1041) +10<br>
 <br>
 	3. Rush~Bot (0:1)<br>
 	8. PEPrasetya (0:1)<br>
 <br>
-362. #Do~Nothing (1030) -12<br>
--50|-54|-54|-50|-39|-40|-33|-31|-16|-6<br>
-	1. MoldyCrush~110 (0:1)<br>
-	3. Rush~Bot (2:4)<br>
+343. #BumpySofa~499 (1041) +7<br>
++24|+9|+4<br>
+	8. PEPrasetya (2:3)<br>
+<br>
+344. #HahahaNoWay (1040) +3<br>
++10<br>
+<br>
+345. #rollankyojin (1039) 0<br>
++29|+1<br>
+<br>
+346. #dfxe (1039) +2<br>
++11<br>
+<br>
+347. #MarbleSeal~306 (1039) +3<br>
+<br>
+<br>
+348. #DustyTiger~783 (1037) 0<br>
++21|+7<br>
+<br>
+349. #RapidBingo~884 (1037) +3<br>
++20|+9|+5<br>
+	5. GaudyWeasel (1:0)<br>
 	6. Yamamoto79 (0:2)<br>
-	7. BillY_Patro (0:40)<br>
+	7. BillY_Patro (0:2)<br>
+<br>
+350. #pa54600 (1036) 0<br>
++12<br>
+	6. Yamamoto79 (0:1)<br>
+<br>
+351. #xFury (1036) 0<br>
+<br>
+	6. Yamamoto79 (0:1)<br>
+	7. BillY_Patro (0:2)<br>
+<br>
+352. #Viper-Gas (1036) 0<br>
++2<br>
+<br>
+353. #ChunkyRebel~684 (1035) 0<br>
++21|+9<br>
+	8. PEPrasetya (0:1)<br>
+<br>
+354. #Pendrag0n (1035) +2<br>
++23|+11|+2<br>
+	5. GaudyWeasel (1:1)<br>
+	7. BillY_Patro (1:1)<br>
+	8. PEPrasetya (0:1)<br>
+<br>
+355. #BurlyApple~769 (1035) -1<br>
++13|+6|-2<br>
+	6. Yamamoto79 (0:1)<br>
+<br>
+356. #amusedbeast (1034) 0<br>
+-2|-2|-8|-10|-13|-14|-12|-9|-10|-5<br>
+<br>
+357. #DryChief~287 (1034) -1<br>
++20|+2|0<br>
+	4. talos16 (0:1)<br>
+	8. PEPrasetya (0:1)<br>
+	10. Nimsta (0:1)<br>
+<br>
+358. #ZeBrA8 (1033) 0<br>
++10<br>
+	7. BillY_Patro (0:1)<br>
+<br>
+359. #GoldenCooki~785 (1032) 0<br>
+<br>
+<br>
+360. #Cyclosis (1031) 0<br>
+<br>
+	2. Reke8 (1:0)<br>
+	8. PEPrasetya (2:1)<br>
+<br>
+361. #TidyRaven~351 (1031) 0<br>
+<br>
+	8. PEPrasetya (1:1)<br>
+<br>
+362. #bizar4ik (1030) +3<br>
++24|+2|+2<br>
+	4. talos16 (0:1)<br>
 <br>
 363. #Akilian (1030) 0<br>
 +10|+6<br>
 	6. Yamamoto79 (0:1)<br>
-	9. jacks0nh0le (3:0)<br>
 <br>
-364. #MachoCucumbe (1029) 0<br>
-+14|+10<br>
+364. #MachoCucumbe (1030) +1<br>
++15|+11<br>
 	7. BillY_Patro (0:1)<br>
 <br>
-365. #KingCaleb (1028) 0<br>
-+15|+7|-2<br>
-	7. BillY_Patro (0:1)<br>
-	9. jacks0nh0le (0:1)<br>
-<br>
-366. #crunchysock (1027) 0<br>
+365. #crunchysock (1027) 0<br>
 +2<br>
 <br>
-367. #bizar4ik (1027) +1<br>
-+21|-1<br>
-	4. talos16 (0:1)<br>
-	10. Nimsta (1:0)<br>
-<br>
-368. #TidalMaster1 (1025) +1<br>
-+8|-7<br>
+366. #TidalMaster1 (1026) +1<br>
++9|-6<br>
 	7. BillY_Patro (0:5)<br>
 	8. PEPrasetya (1:1)<br>
 	10. Nimsta (0:1)<br>
 <br>
-369. #Jimbo.Jones (1025) +1<br>
+367. #LuckyPizza (1026) +19<br>
++18|+5<br>
+<br>
+368. #Jimbo.Jones (1025) 0<br>
 +6|-1<br>
-	9. jacks0nh0le (0:1)<br>
 	10. Nimsta (0:1)<br>
+<br>
+369. #Sitting~Duck (1025) +21<br>
++27|+32|+35|+40|+53|+54|+47|+34|+16|+6<br>
+	3. Rush~Bot (1:1)<br>
+	6. Yamamoto79 (0:2)<br>
 <br>
 370. #ModernBlade~729 (1025) 0<br>
 +1<br>
@@ -1880,142 +1703,134 @@ Recent win rates against top 10 over the past 21 days<br>
 +2<br>
 	8. PEPrasetya (0:4)<br>
 <br>
-373. #PigGod (1021) 0<br>
+373. #ScaryStar~179 (1021) +5<br>
++14|+4<br>
+	8. PEPrasetya (1:0)<br>
+<br>
+374. #JellyBeanT (1021) +6<br>
++5<br>
+	7. BillY_Patro (0:3)<br>
+	10. Nimsta (0:1)<br>
+<br>
+375. #PigGod (1021) 0<br>
 +24|-1<br>
 <br>
-374. #death_320 (1021) +5<br>
+376. #Unboundedmir (1021) +2<br>
++1<br>
+<br>
+377. #death_320 (1020) 0<br>
 <br>
 <br>
-375. #Unboundedmir (1018) 0<br>
+378. #Do~Nothing (1018) -12<br>
+-66|-66|-62|-51|-52|-44|-43|-27|-17|-9<br>
+	1. MoldyCrush~110 (0:1)<br>
+	3. Rush~Bot (2:4)<br>
+	6. Yamamoto79 (0:2)<br>
+	7. BillY_Patro (0:23)<br>
+	9. waffle~3z (1:1)<br>
 <br>
-<br>
-376. #raouf2007 (1018) 0<br>
+379. #raouf2007 (1018) 0<br>
 <br>
 	7. BillY_Patro (2:3)<br>
 	8. PEPrasetya (0:2)<br>
-	9. jacks0nh0le (0:1)<br>
 <br>
-377. #SmoothCrow~642 (1018) 0<br>
+380. #SmoothCrow~642 (1018) 0<br>
 0|-4|-3|-5<br>
-	9. jacks0nh0le (0:4)<br>
 <br>
-378. #RapidFlower~849 (1018) 0<br>
+381. #RapidFlower~849 (1018) 0<br>
 +4<br>
 	7. BillY_Patro (1:3)<br>
 	8. PEPrasetya (2:1)<br>
 <br>
-379. #StormyDaniel (1017) +1<br>
+382. #StormyDaniel (1017) 0<br>
 <br>
-	9. jacks0nh0le (1:0)<br>
 <br>
-380. #FNova (1017) 0<br>
+383. #FNova (1017) 0<br>
 +2<br>
-	9. jacks0nh0le (0:1)<br>
 <br>
-381. #rndagz (1017) 0<br>
+384. #rndagz (1017) 0<br>
 +6<br>
 <br>
-382. #CrustyJoke~319 (1016) 0<br>
+385. #CrustyJoke~319 (1016) 0<br>
 <br>
 	7. BillY_Patro (2:0)<br>
 <br>
-383. #ScaryStar~179 (1016) +1<br>
-+9<br>
-	8. PEPrasetya (1:0)<br>
+386. #Zengarang (1016) +13<br>
 <br>
-384. #nemesisp (1016) -1<br>
+<br>
+387. #nemesisp (1016) 0<br>
 +7<br>
 	7. BillY_Patro (1:3)<br>
 <br>
-385. #Killer268 (1016) 0<br>
+388. #LilUziVert (1016) +2<br>
++12|+5<br>
+	8. PEPrasetya (1:2)<br>
+<br>
+389. #Killer268 (1016) 0<br>
 +9|0<br>
 	7. BillY_Patro (0:1)<br>
 	8. PEPrasetya (1:1)<br>
 <br>
-386. #profbrandon (1015) 0<br>
-<br>
-	7. BillY_Patro (2:4)<br>
-<br>
-387. #JellyBeanT (1015) +2<br>
--1<br>
-	7. BillY_Patro (0:3)<br>
-	10. Nimsta (0:1)<br>
-<br>
-388. #LilUziVert (1014) 0<br>
-+10|+4<br>
-	8. PEPrasetya (1:2)<br>
-	9. jacks0nh0le (0:1)<br>
-<br>
-389. #mayonnaise (1014) 0<br>
+390. #mayonnaise (1014) 0<br>
 <br>
 	3. Rush~Bot (0:6)<br>
 	10. Nimsta (1:0)<br>
 <br>
-390. #CrustyPossu~453 (1014) 0<br>
+391. #CrustyPossu~453 (1014) 0<br>
 <br>
-	9. jacks0nh0le (0:1)<br>
 <br>
-391. #HollowRaven~674 (1012) +1<br>
-0<br>
+392. #AndyGerman (1014) +3<br>
++16<br>
 <br>
-392. #orenong (1012) +4<br>
--6|-3|+1|-2|+15|+17|+12|+6|+4|+10<br>
-<br>
-393. #SANSSANS (1011) 0<br>
+393. #HollowRaven~674 (1012) 0<br>
 0<br>
 <br>
 394. #RoyalMango~321 (1011) 0<br>
 +2<br>
-	9. jacks0nh0le (0:3)<br>
 <br>
-395. #AndyGerman (1010) +14<br>
-+12<br>
-<br>
-396. #LePandaDuMal (1010) 0<br>
+395. #LePandaDuMal (1010) 0<br>
 <br>
 	6. Yamamoto79 (0:1)<br>
 	8. PEPrasetya (0:1)<br>
+<br>
+396. #goloksapi (1010) +1<br>
++22|+15|+3<br>
+	7. BillY_Patro (0:1)<br>
+	8. PEPrasetya (1:0)<br>
 <br>
 397. #GiantElbow~130 (1009) 0<br>
 +7|0<br>
 	7. BillY_Patro (1:0)<br>
 <br>
-398. #BenzElite (1009) 0<br>
+398. #halfknight (1009) +4<br>
+<br>
+<br>
+399. #BenzElite (1009) 0<br>
 +5<br>
 	5. GaudyWeasel (0:12)<br>
 <br>
-399. #goloksapi (1009) 0<br>
-+21|+14|+2<br>
-	3. Rush~Bot (0:1)<br>
-	7. BillY_Patro (0:1)<br>
-	8. PEPrasetya (1:0)<br>
+400. #orenong (1009) -3<br>
+-6|-2|-5|+12|+14|+9|+3|+1|+7|-2<br>
 <br>
-400. #LazyShoe~324 (1009) 0<br>
+401. #LazyShoe~324 (1009) 0<br>
 <br>
 <br>
-401. #WhiteStone~486 (1008) +3<br>
-+12<br>
+402. #LethalRebel~942 (1008) +3<br>
+<br>
+<br>
+403. #WhiteStone~486 (1008) 0<br>
++13<br>
 	4. talos16 (0:1)<br>
 <br>
-402. #Hebrew42 (1007) +4<br>
+404. #Hebrew42 (1007) 0<br>
 <br>
 <br>
-403. #HoneyBee24 (1005) -8<br>
-<br>
-<br>
-404. #Sitting~Duck (1004) +21<br>
--3|+4|+6|+12|+14|+19|+33|+33|+26|+14<br>
-	3. Rush~Bot (1:1)<br>
-	6. Yamamoto79 (0:2)<br>
-<br>
-405. #shea1208 (1004) 0<br>
--4<br>
-<br>
-406. #Chagoyan (1002) -1<br>
+405. #Chagoyan (1002) 0<br>
 +10|+7|-1<br>
 	7. BillY_Patro (0:5)<br>
-	9. jacks0nh0le (0:1)<br>
+<br>
+406. #HoneyBee24 (999) -6<br>
+-4<br>
 <br>
 407. #halojoch13 (994) 0<br>
 +1|-1|0|-3<br>
-	9. jacks0nh0le (0:1)<br>
