@@ -1,19 +1,19 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #BillY_Patro (1274) 0<br>
-+26|+27|+18|+23|+19|+8|+2|+9|+1|-1<br>
+1. #BillY_Patro (1273) -1<br>
++25|+26|+18|+22|+19|+7|+1|+8|0|-1<br>
 	2. rickss (12:6)<br>
 	3. jacks0nh0le (2:0)<br>
 	4. DavidIggyLou (2:3)<br>
 	5. Milky007 (1:3)<br>
 	6. GroovyFlame (5:1)<br>
-	7. Buz (4:4)<br>
+	7. Buz (4:3)<br>
 	8. joropo808 (0:1)<br>
-	9. TangySoda~164 (1:2)<br>
+	9. TangySoda~164 (0:1)<br>
 	10. skeems (0:1)<br>
 <br>
-2. #rickss (1259) +2<br>
-+1|+9|+2|+2|-1|+3|+3|+3|+2|-3<br>
+2. #rickss (1258) -1<br>
++1|+9|+1|+2|-1|+2|+3|+2|+1|-3<br>
 	1. BillY_Patro (6:12)<br>
 	3. jacks0nh0le (2:0)<br>
 	4. DavidIggyLou (3:3)<br>
@@ -25,7 +25,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. skeems (6:1)<br>
 <br>
 3. #jacks0nh0le (1252) 0<br>
-+66|+49|+39|+21|+11|+2|+2|+8|+4|+2<br>
++66|+50|+40|+22|+11|+3|+2|+9|+5|+3<br>
 	1. BillY_Patro (0:2)<br>
 	2. rickss (0:2)<br>
 	4. DavidIggyLou (2:0)<br>
@@ -35,81 +35,83 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. TangySoda~164 (6:2)<br>
 	10. skeems (1:0)<br>
 <br>
-4. #DavidIggyLou (1244) +1<br>
-+20|+9|+1|+3|+5|+6|+3|-10|-10|-5<br>
+4. #DavidIggyLou (1249) +1<br>
++26|+14|+7|+8|+11|+12|+8|-5|-4|+1<br>
 	1. BillY_Patro (3:2)<br>
 	2. rickss (3:3)<br>
 	3. jacks0nh0le (0:2)<br>
-	5. Milky007 (0:3)<br>
-	7. Buz (2:3)<br>
+	5. Milky007 (0:2)<br>
+	7. Buz (3:3)<br>
 	9. TangySoda~164 (1:0)<br>
 <br>
-5. #Milky007 (1240) -3<br>
+5. #Milky007 (1240) 0<br>
 +86|+75|+69|+61|+58|+48|+32|+33|+21|+1<br>
 	1. BillY_Patro (3:1)<br>
 	2. rickss (0:1)<br>
 	3. jacks0nh0le (0:1)<br>
-	4. DavidIggyLou (3:0)<br>
-	7. Buz (4:3)<br>
+	4. DavidIggyLou (2:0)<br>
+	7. Buz (4:1)<br>
 	8. joropo808 (1:0)<br>
-	9. TangySoda~164 (2:2)<br>
-	10. skeems (5:0)<br>
+	9. TangySoda~164 (1:2)<br>
+	10. skeems (3:0)<br>
 <br>
-6. #GroovyFlame (1225) -4<br>
--4|0|+6|+3|-2|-5|+3|-1|+1|-2<br>
+6. #GroovyFlame (1229) +3<br>
+0|+4|+10|+7|+2|-1|+7|+3|+5|+2<br>
 	1. BillY_Patro (1:5)<br>
 	2. rickss (2:0)<br>
 	3. jacks0nh0le (3:0)<br>
-	7. Buz (2:0)<br>
+	7. Buz (2:1)<br>
 	8. joropo808 (4:4)<br>
 	9. TangySoda~164 (2:1)<br>
+	10. skeems (1:0)<br>
 <br>
-7. #Buz (1211) -6<br>
-+31|+36|+37|+30|+25|+17|+14|+10|0|-3<br>
-	1. BillY_Patro (4:4)<br>
+7. #Buz (1213) +2<br>
++37|+39|+31|+26|+19|+15|+11|+1|-2|+1<br>
+	1. BillY_Patro (3:4)<br>
 	2. rickss (6:8)<br>
 	3. jacks0nh0le (2:2)<br>
-	4. DavidIggyLou (3:2)<br>
-	5. Milky007 (3:4)<br>
-	6. GroovyFlame (0:2)<br>
-	8. joropo808 (9:6)<br>
+	4. DavidIggyLou (3:3)<br>
+	5. Milky007 (1:4)<br>
+	6. GroovyFlame (1:2)<br>
+	8. joropo808 (10:4)<br>
 	9. TangySoda~164 (2:1)<br>
 	10. skeems (3:2)<br>
 <br>
-8. #joropo808 (1206) 0<br>
-+76|+58|+45|+33|+8|-3|-1|-2|0|-2<br>
+8. #joropo808 (1207) +1<br>
++78|+59|+46|+34|+10|-2|0|-1|+2|0<br>
 	1. BillY_Patro (1:0)<br>
 	2. rickss (1:1)<br>
 	5. Milky007 (0:1)<br>
 	6. GroovyFlame (4:4)<br>
-	7. Buz (6:9)<br>
+	7. Buz (4:10)<br>
 	9. TangySoda~164 (0:2)<br>
 	10. skeems (1:0)<br>
 <br>
 9. #TangySoda~164 (1200) 0<br>
 +21|+15|+5|-1|+4|+9|+20|+12|+15|0<br>
-	1. BillY_Patro (2:1)<br>
+	1. BillY_Patro (1:0)<br>
 	2. rickss (4:3)<br>
 	3. jacks0nh0le (2:6)<br>
 	4. DavidIggyLou (0:1)<br>
-	5. Milky007 (2:2)<br>
+	5. Milky007 (2:1)<br>
 	6. GroovyFlame (1:2)<br>
 	7. Buz (1:2)<br>
 	8. joropo808 (2:0)<br>
-	10. skeems (1:4)<br>
+	10. skeems (0:4)<br>
 <br>
-10. #skeems (1191) -1<br>
-+13|+20|+29|+27|+27|+37|+28|+15|+12|-1<br>
+10. #skeems (1188) -3<br>
++10|+17|+26|+24|+24|+34|+25|+12|+9|-4<br>
 	1. BillY_Patro (1:0)<br>
 	2. rickss (1:6)<br>
 	3. jacks0nh0le (0:1)<br>
-	5. Milky007 (0:5)<br>
+	5. Milky007 (0:3)<br>
+	6. GroovyFlame (0:1)<br>
 	7. Buz (2:3)<br>
 	8. joropo808 (0:1)<br>
-	9. TangySoda~164 (4:1)<br>
+	9. TangySoda~164 (4:0)<br>
 <br>
-11. #His-Majesty (1183) 0<br>
-+1|+7|+19|+24|+20|+22|+15|+10|+2|-3<br>
+11. #His-Majesty (1183) +1<br>
++7|+19|+25|+20|+23|+16|+11|+3|-3|0<br>
 	1. BillY_Patro (2:6)<br>
 	2. rickss (8:6)<br>
 	3. jacks0nh0le (1:7)<br>
@@ -117,11 +119,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Milky007 (1:6)<br>
 	6. GroovyFlame (3:6)<br>
 	7. Buz (11:15)<br>
-	9. TangySoda~164 (3:4)<br>
-	10. skeems (5:6)<br>
+	8. joropo808 (0:1)<br>
+	9. TangySoda~164 (2:4)<br>
+	10. skeems (4:6)<br>
 <br>
-12. #slowzx (1183) +2<br>
-+164|+145|+120|+101|+62|+42|+25|+14|+4<br>
+12. #slowzx (1182) -1<br>
++164|+145|+120|+101|+61|+42|+25|+14|+4<br>
 	1. BillY_Patro (1:1)<br>
 	2. rickss (5:4)<br>
 	3. jacks0nh0le (0:1)<br>
@@ -132,76 +135,75 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. TangySoda~164 (0:2)<br>
 	10. skeems (4:1)<br>
 <br>
-13. #stront01 (1179) +4<br>
-+16|+10|+2|-5|-4|0|-3|-2|-2|+6<br>
+13. #stront01 (1182) +1<br>
++19|+13|+5|-2|-1|+3|0|+1|+1|+9<br>
 	1. BillY_Patro (0:1)<br>
 	2. rickss (1:5)<br>
 	3. jacks0nh0le (1:1)<br>
 	4. DavidIggyLou (1:1)<br>
+	6. GroovyFlame (1:1)<br>
 	7. Buz (1:0)<br>
 	8. joropo808 (2:1)<br>
-	9. TangySoda~164 (2:2)<br>
+	9. TangySoda~164 (0:2)<br>
 	10. skeems (0:1)<br>
 <br>
-14. #Celica (1174) 0<br>
-+3|+7|+10|+14|+11|+13|+7|-2|+8|+11<br>
-	1. BillY_Patro (1:0)<br>
-	2. rickss (2:4)<br>
-	3. jacks0nh0le (0:1)<br>
-	4. DavidIggyLou (1:1)<br>
-	5. Milky007 (0:3)<br>
-	8. joropo808 (1:1)<br>
-<br>
-15. #osa (1174) 0<br>
+14. #osa (1174) 0<br>
 +3|+5|+11|+12|+13|+16|+13|+9|+11|+6<br>
 	2. rickss (3:8)<br>
 	4. DavidIggyLou (0:2)<br>
 	8. joropo808 (2:1)<br>
 	9. TangySoda~164 (1:2)<br>
 <br>
-16. #themadox (1164) 0<br>
-+26|+28|+22|+15|+14|+5|-9|-8|-6|-1<br>
+15. #Celica (1170) -2<br>
++3|+6|+10|+7|+9|+3|-6|+4|+7|-1<br>
+	1. BillY_Patro (1:0)<br>
+	2. rickss (2:4)<br>
+	3. jacks0nh0le (0:1)<br>
+	4. DavidIggyLou (0:1)<br>
+	5. Milky007 (0:3)<br>
+	8. joropo808 (1:1)<br>
+<br>
+16. #themadox (1165) -1<br>
++27|+28|+22|+16|+15|+6|-9|-8|-6|0<br>
 	1. BillY_Patro (0:2)<br>
-	2. rickss (1:4)<br>
+	2. rickss (1:2)<br>
 	7. Buz (2:2)<br>
 	8. joropo808 (0:2)<br>
-	9. TangySoda~164 (1:0)<br>
 	10. skeems (1:0)<br>
 <br>
-17. #elNino (1156) -2<br>
-+137|+104|+93|+63|+44|+30|+13|-2<br>
+17. #elNino (1156) +1<br>
++137|+104|+94|+64|+45|+30|+14|-2<br>
 	1. BillY_Patro (1:2)<br>
 	2. rickss (4:3)<br>
 	4. DavidIggyLou (3:2)<br>
 	5. Milky007 (1:5)<br>
 	7. Buz (4:1)<br>
 	8. joropo808 (0:1)<br>
-	9. TangySoda~164 (5:3)<br>
+	9. TangySoda~164 (4:3)<br>
 	10. skeems (1:4)<br>
 <br>
-18. #SwiftFlag~587 (1155) +7<br>
-+104|+72|+43|+29|+28|+5<br>
+18. #SwiftFlag~587 (1156) +1<br>
++105|+73|+43|+30|+29|+6<br>
 	1. BillY_Patro (1:0)<br>
 	2. rickss (1:0)<br>
 	7. Buz (0:3)<br>
 	8. joropo808 (1:1)<br>
 	9. TangySoda~164 (3:4)<br>
-	10. skeems (2:1)<br>
 <br>
-19. #jerocco (1151) -2<br>
--11|-21|-2|-1|-10|-6|+6|-1|-6|-4<br>
+19. #jerocco (1149) -1<br>
+-14|-24|-5|-3|-13|-9|+4|-3|-8|-6<br>
 	1. BillY_Patro (0:3)<br>
 	2. rickss (1:4)<br>
 	3. jacks0nh0le (1:4)<br>
 	4. DavidIggyLou (4:3)<br>
 	5. Milky007 (0:3)<br>
 	6. GroovyFlame (2:1)<br>
-	7. Buz (12:5)<br>
+	7. Buz (9:4)<br>
 	8. joropo808 (0:1)<br>
 	9. TangySoda~164 (5:2)<br>
 	10. skeems (1:0)<br>
 <br>
-20. #SquashPX (1144) +1<br>
+20. #SquashPX (1144) 0<br>
 -5|-11|+5|-2|-7|-3|+1|0|-4|-9<br>
 	1. BillY_Patro (0:1)<br>
 	2. rickss (1:3)<br>
@@ -211,19 +213,27 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Buz (1:2)<br>
 	8. joropo808 (1:0)<br>
 <br>
-21. #BDAT10 (1140) 0<br>
+21. #mahone007 (1144) +6<br>
+-6|+5|+13|+4|+7|+7|-5|+13|+9|+5<br>
+	2. rickss (0:1)<br>
+	3. jacks0nh0le (0:1)<br>
+	4. DavidIggyLou (0:1)<br>
+	5. Milky007 (0:1)<br>
+	7. Buz (0:2)<br>
+<br>
+22. #BDAT10 (1140) 0<br>
 +4|-10|-5|+2|+3|+3|-8|-10|-1|-3<br>
 	1. BillY_Patro (3:6)<br>
 	2. rickss (2:1)<br>
 	3. jacks0nh0le (0:1)<br>
-	4. DavidIggyLou (1:0)<br>
+	4. DavidIggyLou (2:0)<br>
 	5. Milky007 (1:1)<br>
 	6. GroovyFlame (0:3)<br>
-	7. Buz (3:11)<br>
+	7. Buz (3:14)<br>
 	8. joropo808 (1:0)<br>
-	10. skeems (2:3)<br>
+	10. skeems (1:3)<br>
 <br>
-22. #LethalSquas~296 (1140) 0<br>
+23. #LethalSquas~296 (1140) 0<br>
 +115|+82|+68|+43|+37|+26|+23|+17|-2<br>
 	1. BillY_Patro (0:1)<br>
 	2. rickss (1:2)<br>
@@ -234,63 +244,51 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. joropo808 (0:1)<br>
 	9. TangySoda~164 (0:1)<br>
 <br>
-23. #dfyyxy (1138) 0<br>
--36|-17|-15|-19|-21|-17|-16|-19|-25|-6<br>
+24. #dfyyxy (1139) +1<br>
+-35|-16|-14|-18|-20|-16|-15|-18|-24|-5<br>
 	1. BillY_Patro (1:0)<br>
 	2. rickss (2:1)<br>
 	5. Milky007 (1:0)<br>
 <br>
-24. #mahone007 (1137) -6<br>
--9|-13|-1|+6|-3|0|0|-12|+6|+2<br>
-	1. BillY_Patro (0:1)<br>
-	2. rickss (0:1)<br>
-	3. jacks0nh0le (0:1)<br>
-	4. DavidIggyLou (0:1)<br>
-	5. Milky007 (0:1)<br>
-	7. Buz (0:2)<br>
-<br>
-25. #the-jk (1135) +2<br>
-+22|+32|+18|+12|+6|+17|+10|+6|0|+7<br>
-	1. BillY_Patro (1:0)<br>
-	2. rickss (0:4)<br>
-	3. jacks0nh0le (0:1)<br>
-	4. DavidIggyLou (2:0)<br>
-	6. GroovyFlame (0:1)<br>
-	7. Buz (0:3)<br>
-	9. TangySoda~164 (1:3)<br>
-	10. skeems (2:2)<br>
-<br>
-26. #thereason (1128) 0<br>
+25. #thereason (1128) 0<br>
 -6|+4|+12|+10|-1|-3|0|+6|+6|+3<br>
 	1. BillY_Patro (1:0)<br>
 	2. rickss (0:3)<br>
 	3. jacks0nh0le (1:1)<br>
-	4. DavidIggyLou (3:3)<br>
+	4. DavidIggyLou (2:3)<br>
 	5. Milky007 (0:2)<br>
 	6. GroovyFlame (0:1)<br>
-	7. Buz (14:12)<br>
+	7. Buz (12:12)<br>
 	8. joropo808 (3:1)<br>
 	9. TangySoda~164 (1:1)<br>
 	10. skeems (4:1)<br>
 <br>
-27. #Crispo (1120) 0<br>
-+121|+104|+79|+67|+56|+42|+27|+12|+13|0<br>
-	2. rickss (1:1)<br>
-	3. jacks0nh0le (0:1)<br>
-	4. DavidIggyLou (1:0)<br>
-	5. Milky007 (0:1)<br>
-	9. TangySoda~164 (0:1)<br>
-	10. skeems (1:1)<br>
-<br>
-28. #JSU332017 (1115) +1<br>
-+73|+72|+46|+28|+15|+12|+22|+20|+11|+4<br>
+26. #JSU332017 (1125) 0<br>
++82|+82|+55|+37|+24|+21|+31|+29|+20|+13<br>
 	1. BillY_Patro (1:1)<br>
 	2. rickss (8:7)<br>
 	5. Milky007 (5:5)<br>
 	6. GroovyFlame (3:1)<br>
 	7. Buz (3:3)<br>
 	8. joropo808 (1:4)<br>
-	9. TangySoda~164 (2:4)<br>
+	9. TangySoda~164 (2:2)<br>
+	10. skeems (1:0)<br>
+<br>
+27. #Crispo (1122) 0<br>
++124|+106|+81|+70|+59|+44|+30|+15|+15|+3<br>
+	2. rickss (1:1)<br>
+	3. jacks0nh0le (0:1)<br>
+	4. DavidIggyLou (1:0)<br>
+	8. joropo808 (0:1)<br>
+	9. TangySoda~164 (0:1)<br>
+	10. skeems (1:1)<br>
+<br>
+28. #laudamus (1117) +3<br>
++71|+33|+8<br>
+	2. rickss (0:1)<br>
+	6. GroovyFlame (2:1)<br>
+	7. Buz (1:1)<br>
+	9. TangySoda~164 (1:2)<br>
 	10. skeems (1:0)<br>
 <br>
 29. #popeye (1114) 0<br>
@@ -307,7 +305,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 30. #V01Dfuzz (1114) 0<br>
 +87|+53|+42|+14|+8|+2|+9<br>
-	1. BillY_Patro (2:5)<br>
+	1. BillY_Patro (1:2)<br>
 	2. rickss (1:3)<br>
 	3. jacks0nh0le (0:2)<br>
 	4. DavidIggyLou (2:5)<br>
@@ -317,8 +315,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. joropo808 (1:0)<br>
 	9. TangySoda~164 (0:1)<br>
 <br>
-31. #Khael- (1113) +1<br>
-+80|+52|+47|+26|+4<br>
+31. #Khael- (1111) -1<br>
++78|+50|+45|+24|+2<br>
 	1. BillY_Patro (0:2)<br>
 	2. rickss (2:0)<br>
 	3. jacks0nh0le (1:0)<br>
@@ -328,28 +326,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Buz (8:4)<br>
 	10. skeems (2:0)<br>
 <br>
-32. #laudamus (1113) -1<br>
-+67|+28|+3<br>
-	2. rickss (0:1)<br>
-	4. DavidIggyLou (1:0)<br>
-	6. GroovyFlame (1:0)<br>
-	7. Buz (1:1)<br>
-	9. TangySoda~164 (1:2)<br>
-	10. skeems (1:1)<br>
-<br>
-33. #root_79 (1103) +5<br>
-+96|+87|+78|+62|+36|+14|+4<br>
-	1. BillY_Patro (3:3)<br>
-	2. rickss (0:5)<br>
-	3. jacks0nh0le (1:1)<br>
-	4. DavidIggyLou (1:3)<br>
-	5. Milky007 (0:2)<br>
-	7. Buz (3:3)<br>
-	8. joropo808 (0:2)<br>
-	9. TangySoda~164 (6:6)<br>
-<br>
-34. #therenegade (1096) 0<br>
-+73|+39|+6<br>
+32. #therenegade (1101) -2<br>
++78|+45|+11<br>
 	1. BillY_Patro (2:3)<br>
 	2. rickss (1:0)<br>
 	3. jacks0nh0le (1:0)<br>
@@ -360,7 +338,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. TangySoda~164 (2:0)<br>
 	10. skeems (1:1)<br>
 <br>
-35. #dnorman17 (1094) +2<br>
+33. #root_79 (1100) -1<br>
++92|+83|+74|+58|+32|+10|0<br>
+	1. BillY_Patro (3:3)<br>
+	2. rickss (0:5)<br>
+	3. jacks0nh0le (1:1)<br>
+	4. DavidIggyLou (1:3)<br>
+	5. Milky007 (0:2)<br>
+	7. Buz (3:6)<br>
+	8. joropo808 (0:2)<br>
+	9. TangySoda~164 (6:6)<br>
+<br>
+34. #dnorman17 (1094) 0<br>
 +53|+19<br>
 	2. rickss (5:1)<br>
 	3. jacks0nh0le (2:4)<br>
@@ -371,23 +360,23 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. TangySoda~164 (1:2)<br>
 	10. skeems (2:0)<br>
 <br>
-36. #Astinax (1093) 0<br>
-+68|+58|+40|+29|+11|+9|+14|+10|+6|-3<br>
-	2. rickss (1:0)<br>
-	6. GroovyFlame (0:1)<br>
-	7. Buz (4:7)<br>
-	9. TangySoda~164 (1:0)<br>
-	10. skeems (0:1)<br>
-<br>
-37. #OBTHR33 (1090) +5<br>
-+59|+56|+40|+27|+9<br>
+35. #OBTHR33 (1093) +4<br>
++62|+59|+43|+30|+12|+3<br>
 	4. DavidIggyLou (0:1)<br>
 	5. Milky007 (0:3)<br>
 	7. Buz (2:4)<br>
 	8. joropo808 (1:3)<br>
 	9. TangySoda~164 (2:0)<br>
 <br>
-38. #GrumpyDeer~270 (1087) 0<br>
+36. #Astinax (1091) -1<br>
++66|+56|+38|+27|+9|+7|+12|+8|+4|-5<br>
+	2. rickss (1:0)<br>
+	6. GroovyFlame (0:1)<br>
+	7. Buz (4:10)<br>
+	9. TangySoda~164 (1:0)<br>
+	10. skeems (0:1)<br>
+<br>
+37. #GrumpyDeer~270 (1087) 0<br>
 +34<br>
 	1. BillY_Patro (0:1)<br>
 	2. rickss (4:0)<br>
@@ -395,19 +384,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Buz (0:1)<br>
 	8. joropo808 (1:0)<br>
 <br>
-39. #winkwink (1085) 0<br>
+38. #winkwink (1085) 0<br>
 +55|+38|+27|+6<br>
 	1. BillY_Patro (0:1)<br>
-	2. rickss (3:2)<br>
+	2. rickss (2:2)<br>
 	3. jacks0nh0le (1:2)<br>
 	4. DavidIggyLou (1:0)<br>
-	5. Milky007 (0:4)<br>
+	5. Milky007 (0:3)<br>
 	6. GroovyFlame (1:5)<br>
 	7. Buz (0:1)<br>
 	8. joropo808 (2:4)<br>
 	10. skeems (1:0)<br>
 <br>
-40. #Steve.Jobs (1080) +2<br>
+39. #Steve.Jobs (1080) 0<br>
 +49|+20<br>
 	1. BillY_Patro (1:1)<br>
 	2. rickss (6:3)<br>
@@ -419,66 +408,62 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. joropo808 (0:2)<br>
 	9. TangySoda~164 (2:1)<br>
 <br>
-41. #Olliec (1079) -4<br>
-+37|+25|+14|+22|+12|-12|-11|-17|+1|+4<br>
+40. #Olliec (1077) -1<br>
++35|+24|+13|+20|+10|-13|-12|-18|-1|+2<br>
 	1. BillY_Patro (1:0)<br>
 	2. rickss (0:4)<br>
 	3. jacks0nh0le (2:3)<br>
 	4. DavidIggyLou (1:5)<br>
-	7. Buz (1:1)<br>
 	8. joropo808 (0:1)<br>
-	10. skeems (1:1)<br>
+	10. skeems (1:0)<br>
 <br>
-42. #SlickErmine~247 (1073) -2<br>
-+14|+1|-2|-5|+4|+2|-4|-6|+7|-3<br>
+41. #SlickErmine~247 (1075) +1<br>
++17|+3|0|-3|+6|+4|-2|-3|+9|-1<br>
 	2. rickss (0:1)<br>
 	4. DavidIggyLou (0:2)<br>
 	5. Milky007 (0:2)<br>
 	7. Buz (3:1)<br>
 	8. joropo808 (0:2)<br>
-	9. TangySoda~164 (0:2)<br>
+	9. TangySoda~164 (0:1)<br>
 <br>
-43. #GabbyPeach~624 (1071) +1<br>
-+68|+60|+55|+50|+20|+3<br>
+42. #G4m3R34p3r (1074) +3<br>
++56|+46|+33|+21|+17|+7<br>
+	1. BillY_Patro (3:0)<br>
+	3. jacks0nh0le (1:2)<br>
+	4. DavidIggyLou (1:3)<br>
+	5. Milky007 (0:1)<br>
+	7. Buz (2:1)<br>
+	8. joropo808 (1:1)<br>
+	9. TangySoda~164 (1:2)<br>
+<br>
+43. #GabbyPeach~624 (1074) +2<br>
++71|+63|+57|+52|+23|+6<br>
 	1. BillY_Patro (1:0)<br>
 	6. GroovyFlame (0:5)<br>
 	7. Buz (3:0)<br>
 	8. joropo808 (2:1)<br>
 	9. TangySoda~164 (0:2)<br>
 <br>
-44. #G4m3R34p3r (1067) -1<br>
-+49|+39|+26|+14|+10|0<br>
-	1. BillY_Patro (3:0)<br>
-	3. jacks0nh0le (1:2)<br>
-	4. DavidIggyLou (1:3)<br>
-	5. Milky007 (0:1)<br>
-	7. Buz (1:1)<br>
-	8. joropo808 (1:1)<br>
-	9. TangySoda~164 (1:2)<br>
-<br>
-45. #GiddySleet~365 (1066) -1<br>
-+40|+32|+14|+6|0<br>
+44. #GiddySleet~365 (1068) +1<br>
++41|+33|+15|+7|+1<br>
 	1. BillY_Patro (3:1)<br>
 	2. rickss (0:1)<br>
 	4. DavidIggyLou (2:3)<br>
-	5. Milky007 (2:6)<br>
+	5. Milky007 (1:1)<br>
 	6. GroovyFlame (0:1)<br>
-	7. Buz (2:8)<br>
-	8. joropo808 (1:0)<br>
-	9. TangySoda~164 (1:4)<br>
-	10. skeems (2:2)<br>
+	7. Buz (3:3)<br>
+	9. TangySoda~164 (0:4)<br>
 <br>
-46. #PuffyPotato~928 (1066) +3<br>
-+44|+15<br>
+45. #PuffyPotato~928 (1067) +2<br>
++45|+16<br>
 	1. BillY_Patro (0:2)<br>
 	2. rickss (1:0)<br>
 	6. GroovyFlame (1:0)<br>
 	7. Buz (0:2)<br>
-	8. joropo808 (1:0)<br>
 	9. TangySoda~164 (2:3)<br>
 	10. skeems (1:4)<br>
 <br>
-47. #davidpowell (1065) 0<br>
+46. #davidpowell (1065) 0<br>
 +38|+11<br>
 	1. BillY_Patro (1:0)<br>
 	2. rickss (2:0)<br>
@@ -488,8 +473,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. TangySoda~164 (1:4)<br>
 	10. skeems (1:1)<br>
 <br>
-48. #renzor (1056) +5<br>
-+48|+42|+14|+13|+10|+6<br>
+47. #renzor (1058) 0<br>
++50|+43|+16|+14|+12|+8<br>
 	1. BillY_Patro (0:1)<br>
 	2. rickss (1:0)<br>
 	4. DavidIggyLou (0:2)<br>
@@ -500,89 +485,96 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. TangySoda~164 (4:6)<br>
 	10. skeems (1:1)<br>
 <br>
-49. #WiseBoat~137 (1055) 0<br>
-+53|+45|+40|+15|+7<br>
-	2. rickss (0:2)<br>
-	3. jacks0nh0le (0:1)<br>
-	4. DavidIggyLou (0:1)<br>
-	5. Milky007 (0:1)<br>
-	7. Buz (3:6)<br>
-	8. joropo808 (2:0)<br>
-	9. TangySoda~164 (4:1)<br>
-<br>
-50. #dadedread786 (1054) +9<br>
-+36|+30|+22<br>
+48. #dadedread786 (1056) +1<br>
++38|+32|+24|+1<br>
 	1. BillY_Patro (0:4)<br>
 	2. rickss (0:4)<br>
 	3. jacks0nh0le (1:2)<br>
 	4. DavidIggyLou (1:0)<br>
 	5. Milky007 (0:2)<br>
-	7. Buz (1:6)<br>
+	7. Buz (2:8)<br>
 	8. joropo808 (1:1)<br>
 	9. TangySoda~164 (2:2)<br>
 	10. skeems (0:1)<br>
 <br>
-51. #DryMango~917 (1053) -2<br>
-+51|+33|+12|+4<br>
-	1. BillY_Patro (1:3)<br>
-	2. rickss (1:3)<br>
-	3. jacks0nh0le (1:1)<br>
-	4. DavidIggyLou (3:4)<br>
-	5. Milky007 (0:1)<br>
-	8. joropo808 (0:1)<br>
-	9. TangySoda~164 (1:4)<br>
+49. #lilgirl666 (1055) +5<br>
++33|+1<br>
+	1. BillY_Patro (0:1)<br>
+	2. rickss (2:1)<br>
+	3. jacks0nh0le (0:2)<br>
+	6. GroovyFlame (1:0)<br>
+	7. Buz (2:2)<br>
+	9. TangySoda~164 (3:4)<br>
 <br>
-52. #QuirkyToad~911 (1051) +2<br>
-+55|+49|+47|+39|+28|+6|+3|0|0<br>
+50. #WiseBoat~137 (1055) 0<br>
++53|+45|+40|+15|+7<br>
+	2. rickss (0:2)<br>
+	3. jacks0nh0le (0:1)<br>
+	4. DavidIggyLou (0:1)<br>
+	7. Buz (2:4)<br>
+	8. joropo808 (2:0)<br>
+	9. TangySoda~164 (2:1)<br>
+<br>
+51. #QuirkyToad~911 (1053) 0<br>
++57|+51|+49|+41|+30|+8|+4|+2|+2<br>
 	5. Milky007 (0:1)<br>
 	6. GroovyFlame (0:2)<br>
 	7. Buz (1:3)<br>
 	9. TangySoda~164 (0:3)<br>
 <br>
-53. #lilgirl666 (1049) 0<br>
-+26<br>
-	1. BillY_Patro (0:1)<br>
-	2. rickss (2:1)<br>
-	3. jacks0nh0le (0:2)<br>
-	6. GroovyFlame (1:0)<br>
-	7. Buz (0:2)<br>
-	9. TangySoda~164 (4:4)<br>
+52. #DryMango~917 (1052) -1<br>
++50|+33|+12|+4<br>
+	1. BillY_Patro (1:3)<br>
+	2. rickss (1:3)<br>
+	3. jacks0nh0le (1:1)<br>
+	4. DavidIggyLou (3:4)<br>
+	5. Milky007 (0:1)<br>
+	6. GroovyFlame (0:1)<br>
+	8. joropo808 (0:1)<br>
+	9. TangySoda~164 (0:1)<br>
 <br>
-54. #fadam (1048) 0<br>
+53. #fadam (1048) 0<br>
 +43|+24|+6|+1|-4<br>
 	1. BillY_Patro (1:2)<br>
 	2. rickss (1:4)<br>
 	4. DavidIggyLou (0:2)<br>
 	6. GroovyFlame (0:1)<br>
 	7. Buz (1:5)<br>
-	9. TangySoda~164 (3:8)<br>
+	9. TangySoda~164 (2:8)<br>
 <br>
-55. #MarshalTeach (1033) +1<br>
-+34|+30|+14|+7|-1<br>
+54. #MarshalTeach (1035) 0<br>
++36|+31|+16|+9|+1<br>
+	1. BillY_Patro (0:1)<br>
 	3. jacks0nh0le (1:0)<br>
 	6. GroovyFlame (0:1)<br>
 	7. Buz (0:5)<br>
 	8. joropo808 (0:1)<br>
 	9. TangySoda~164 (1:2)<br>
 <br>
-56. #meltskie (1024) 0<br>
+55. #meltskie (1024) -1<br>
 +18<br>
 	3. jacks0nh0le (0:2)<br>
 	5. Milky007 (0:1)<br>
-	6. GroovyFlame (0:6)<br>
+	6. GroovyFlame (0:7)<br>
 	7. Buz (0:2)<br>
 	9. TangySoda~164 (1:2)<br>
 <br>
-57. #GrumpyIslan~863 (1016) +1<br>
+56. #Jakersballin (1022) 0<br>
++7<br>
+	4. DavidIggyLou (1:0)<br>
+	7. Buz (1:2)<br>
+	10. skeems (0:2)<br>
+<br>
+57. #GrumpyIslan~863 (1016) +3<br>
 +9|0<br>
 	4. DavidIggyLou (0:1)<br>
 	5. Milky007 (1:2)<br>
 	9. TangySoda~164 (0:3)<br>
 	10. skeems (0:1)<br>
 <br>
-58. #RockySpruce~290 (1013) +4<br>
-+11|+10|+10<br>
-	2. rickss (0:3)<br>
+58. #RockySpruce~290 (1016) -1<br>
++14|+13|+13|-3<br>
+	2. rickss (1:3)<br>
 	5. Milky007 (0:1)<br>
 	9. TangySoda~164 (3:3)<br>
 	10. skeems (0:1)<br>
@@ -591,9 +583,9 @@ Recent win rates against top 10 over the past 20k matches<br>
 +1|-2|-1<br>
 	5. Milky007 (1:2)<br>
 	7. Buz (0:2)<br>
-	9. TangySoda~164 (0:6)<br>
+	9. TangySoda~164 (0:1)<br>
 <br>
-60. #orenong (974) -3<br>
--13|-7|+4|+4|+2|+11|+12|+11|0|-2<br>
+60. #orenong (983) +13<br>
+-4|+2|+13|+13|+11|+19|+21|+20|+9|+7<br>
 	4. DavidIggyLou (1:0)<br>
 	8. joropo808 (0:1)<br>
