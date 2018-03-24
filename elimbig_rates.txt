@@ -22,11 +22,11 @@ Recent win rates against top 10 over the past 20k matches<br>
 +151|+132|+113|+86|+71|+54|+37|+20|+5|+3<br>
 	2. Reclamation- (5:6)<br>
 	4. bejut (21:12)<br>
-	9. ss0317 (7:7)<br>
+	9. ss0317 (3:7)<br>
 	10. waffle3z (1:0)<br>
 <br>
-4. #bejut (1145) 0<br>
-+32|+22|+6|+3|-9|-6|-6|+3|+3|+1<br>
+4. #bejut (1148) 0<br>
++34|+25|+9|+5|-7|-3|-3|+6|+6|+4<br>
 	2. Reclamation- (0:3)<br>
 	3. Vadim1707 (12:21)<br>
 	5. Orbiter (27:47)<br>
@@ -59,18 +59,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. ss0317 (26:17)<br>
 	10. waffle3z (0:1)<br>
 <br>
-8. #pablo55 (1121) 0<br>
-+86|+76|+69|+56|+42|+39|+19|+7|+1|+3<br>
+8. #pablo55 (1122) +1<br>
++87|+77|+69|+57|+43|+39|+19|+8|+2|+3<br>
 	4. bejut (4:6)<br>
 	5. Orbiter (0:3)<br>
 	9. ss0317 (9:9)<br>
 	10. waffle3z (1:3)<br>
 <br>
-9. #ss0317 (1112) +1<br>
--17|-23|-21|-21|-16|-20|-13|-7|-5|0<br>
+9. #ss0317 (1119) +1<br>
+-10|-16|-14|-14|-9|-13|-6|0|+2|+7<br>
 	1. gamaray1719 (12:67)<br>
 	2. Reclamation- (21:68)<br>
-	3. Vadim1707 (7:7)<br>
+	3. Vadim1707 (7:3)<br>
 	4. bejut (36:58)<br>
 	5. Orbiter (8:26)<br>
 	6. Kretschy198 (8:4)<br>
@@ -93,7 +93,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	3. Vadim1707 (7:9)<br>
 	4. bejut (0:1)<br>
 	8. pablo55 (1:0)<br>
-	9. ss0317 (36:18)<br>
+	9. ss0317 (30:11)<br>
 	10. waffle3z (3:0)<br>
 <br>
 12. #matty (1101) 0<br>
@@ -104,7 +104,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. ss0317 (14:14)<br>
 <br>
 13. #GoOody (1097) 0<br>
--18|-14|-12|-6|+2|+10|+15|+18|+5|+2<br>
+-18|-14|-12|-6|+3|+10|+15|+18|+5|+2<br>
 	1. gamaray1719 (3:32)<br>
 	2. Reclamation- (1:1)<br>
 	3. Vadim1707 (0:10)<br>
@@ -114,15 +114,15 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. ss0317 (57:49)<br>
 	10. waffle3z (2:1)<br>
 <br>
-14. #vip_genius (1088) 0<br>
--17|-27|-14|-16|-12|-16|-12|0|+7|+5<br>
+14. #vip_genius (1084) 0<br>
+-21|-30|-18|-20|-16|-20|-16|-4|+3|+1<br>
 	1. gamaray1719 (0:1)<br>
 	2. Reclamation- (2:15)<br>
 	3. Vadim1707 (1:0)<br>
-	4. bejut (26:30)<br>
+	4. bejut (30:45)<br>
 	7. Hoberdo (2:5)<br>
 	8. pablo55 (0:4)<br>
-	9. ss0317 (54:51)<br>
+	9. ss0317 (48:50)<br>
 	10. waffle3z (1:0)<br>
 <br>
 15. #Symsymmy (1084) 0<br>
@@ -160,7 +160,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. bejut (0:1)<br>
 	5. Orbiter (0:1)<br>
 	8. pablo55 (2:1)<br>
-	9. ss0317 (5:15)<br>
+	9. ss0317 (4:12)<br>
 <br>
 19. #SadGalaxy360 (1047) 0<br>
 +9|+13|+11|+6|+1|+7|-4|0|0|+1<br>
@@ -269,7 +269,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Orbiter (2:6)<br>
 	9. ss0317 (3:11)<br>
 <br>
-34. #ciubaka (991) 0<br>
+34. #Sondair (995) 0<br>
++34|+33|+24|+20|+9|-2|+2|+3|+5|+4<br>
+	1. gamaray1719 (0:17)<br>
+	2. Reclamation- (1:20)<br>
+	3. Vadim1707 (1:8)<br>
+	4. bejut (36:125)<br>
+	5. Orbiter (11:67)<br>
+	6. Kretschy198 (3:28)<br>
+	7. Hoberdo (6:36)<br>
+	8. pablo55 (5:15)<br>
+	9. ss0317 (41:111)<br>
+	10. waffle3z (0:8)<br>
+<br>
+35. #ciubaka (991) 0<br>
 -9|-15|-18|-17|-15|-16|-5|+1|+1|+1<br>
 	1. gamaray1719 (0:1)<br>
 	2. Reclamation- (0:1)<br>
@@ -279,23 +292,23 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. Kretschy198 (0:6)<br>
 	7. Hoberdo (3:16)<br>
 	8. pablo55 (0:4)<br>
-	9. ss0317 (13:30)<br>
+	9. ss0317 (13:27)<br>
 <br>
-35. #Spaciel (990) 0<br>
+36. #Spaciel (990) 0<br>
 -1<br>
 	2. Reclamation- (3:19)<br>
 	7. Hoberdo (0:1)<br>
 	9. ss0317 (3:4)<br>
 <br>
-36. #icomeinpeece (989) 0<br>
+37. #icomeinpeece (989) 0<br>
 +3|+13|+7|+7|-8|-1|-8|0|+1|+7<br>
-	3. Vadim1707 (0:6)<br>
+	3. Vadim1707 (0:5)<br>
 	4. bejut (17:42)<br>
 	8. pablo55 (4:11)<br>
 	9. ss0317 (47:74)<br>
 	10. waffle3z (0:2)<br>
 <br>
-37. #milkyway (988) 0<br>
+38. #milkyway (988) 0<br>
 -2|+2|+12|+5|+2|+7|+5|+9|+9|0<br>
 	2. Reclamation- (6:51)<br>
 	4. bejut (7:18)<br>
@@ -304,41 +317,16 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. pablo55 (0:3)<br>
 	9. ss0317 (48:121)<br>
 <br>
-38. #Sondair (985) -1<br>
-+30|+23|+22|+13|+10|-1|-13|-9|-8|-5<br>
-	1. gamaray1719 (0:17)<br>
-	2. Reclamation- (1:20)<br>
-	3. Vadim1707 (1:8)<br>
-	4. bejut (36:125)<br>
-	5. Orbiter (11:67)<br>
-	6. Kretschy198 (3:28)<br>
-	7. Hoberdo (6:36)<br>
-	8. pablo55 (5:14)<br>
-	9. ss0317 (42:114)<br>
-	10. waffle3z (0:8)<br>
-<br>
-39. #Ardi09. (984) 0<br>
--24|-22|-30|-25|-23|-19|-16|-15|-16|-10<br>
+39. #Ardi09. (986) 0<br>
+-23|-21|-28|-24|-22|-17|-14|-13|-14|-8<br>
 	4. bejut (9:36)<br>
 	5. Orbiter (5:13)<br>
 	7. Hoberdo (1:1)<br>
 	8. pablo55 (0:2)<br>
-	9. ss0317 (16:42)<br>
+	9. ss0317 (17:45)<br>
 <br>
-40. #CoolFaucet~518 (952) 0<br>
-+15|+14|+19|+14|+6|+1|-4|-11|-9|-4<br>
-	1. gamaray1719 (1:8)<br>
-	2. Reclamation- (9:54)<br>
-	3. Vadim1707 (0:2)<br>
-	4. bejut (20:82)<br>
-	5. Orbiter (1:15)<br>
-	6. Kretschy198 (0:1)<br>
-	7. Hoberdo (2:21)<br>
-	9. ss0317 (18:77)<br>
-	10. waffle3z (1:0)<br>
-<br>
-41. #Langoulant (950) -1<br>
--30|-39|-34|-30|-18|-16|-10|-4|-7|-9<br>
+40. #Langoulant (957) -2<br>
+-22|-32|-26|-22|-10|-8|-2|+4|+1|-1<br>
 	1. gamaray1719 (2:18)<br>
 	2. Reclamation- (7:78)<br>
 	4. bejut (2:21)<br>
@@ -347,6 +335,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. pablo55 (8:22)<br>
 	9. ss0317 (32:125)<br>
 	10. waffle3z (0:3)<br>
+<br>
+41. #CoolFaucet~518 (952) 0<br>
++15|+14|+19|+14|+6|+1|-4|-11|-9|-4<br>
+	1. gamaray1719 (1:8)<br>
+	2. Reclamation- (9:54)<br>
+	3. Vadim1707 (0:1)<br>
+	4. bejut (20:82)<br>
+	5. Orbiter (1:15)<br>
+	6. Kretschy198 (0:1)<br>
+	7. Hoberdo (2:21)<br>
+	9. ss0317 (17:69)<br>
+	10. waffle3z (1:0)<br>
 <br>
 42. #GenghisCon (948) 0<br>
 -43|-41|-33|-28|-19|-1<br>
@@ -357,8 +357,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. ss0317 (23:48)<br>
 	10. waffle3z (3:11)<br>
 <br>
-43. #Steve333 (946) -2<br>
--34|-9<br>
+43. #steve333 (944) 0<br>
+-36|-10|-2<br>
 	1. gamaray1719 (0:19)<br>
 	2. Reclamation- (0:2)<br>
 	4. bejut (0:1)<br>
@@ -378,8 +378,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Hoberdo (1:0)<br>
 	9. ss0317 (3:37)<br>
 <br>
-46. #monguesto (894) 0<br>
-+6|+14|+2|+1|+9|+7|+8|+5|+4|0<br>
+46. #monguesto (893) 0<br>
++5|+14|+2|+1|+8|+7|+8|+5|+4|0<br>
 	1. gamaray1719 (2:8)<br>
 	2. Reclamation- (3:56)<br>
 	3. Vadim1707 (0:4)<br>
@@ -397,10 +397,10 @@ Recent win rates against top 10 over the past 20k matches<br>
 	2. Reclamation- (0:4)<br>
 	3. Vadim1707 (0:1)<br>
 	8. pablo55 (0:3)<br>
-	9. ss0317 (6:28)<br>
+	9. ss0317 (4:24)<br>
 <br>
 48. #quickmill (872) 0<br>
--18|-21|-11|-9|-13|-10|-4|-4|-2|-2<br>
+-18|-21|-11|-9|-13|-10|-4|-4|-2|-1<br>
 	1. gamaray1719 (0:20)<br>
 	2. Reclamation- (0:3)<br>
 	3. Vadim1707 (0:1)<br>
@@ -409,8 +409,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. ss0317 (12:67)<br>
 	10. waffle3z (0:2)<br>
 <br>
-49. #AlGalcone (814) -1<br>
--55|-47|-45|-42|-31|-21|-10|-17|-18|-5<br>
+49. #AlGalcone (814) 0<br>
+-55|-47|-46|-42|-32|-22|-11|-18|-19|-5<br>
 	1. gamaray1719 (1:8)<br>
 	2. Reclamation- (4:34)<br>
 	4. bejut (1:11)<br>
