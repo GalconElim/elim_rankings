@@ -1,7 +1,7 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
 1. #zamrai (1229) 0<br>
-+5|+13|+13|+10|+13|+11|+3|+2|+3|+1<br>
++5|+13|+13|+10|+13|+12|+3|+2|+4|+1<br>
 	6. GoOody (2:2)<br>
 	10. Omnibus (0:2)<br>
 <br>
@@ -62,7 +62,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. CsAsTra (14:26)<br>
 	10. Omnibus (3:2)<br>
 <br>
-10. #Omnibus (1128) -1<br>
+10. #Omnibus (1128) 0<br>
 +55|+46|+38|+36|+35|+18|+9|+6|-2|+2<br>
 	1. zamrai (2:0)<br>
 	3. dIehAppY (7:6)<br>
@@ -108,18 +108,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. GoOody (3:3)<br>
 	7. CsAsTra (7:4)<br>
 <br>
-17. #Gyrfa1con (1105) 0<br>
--13|-16|-14|-7|-6|-9|-3|-3|-3|-1<br>
-	1. zamrai (16:24)<br>
-	2. ifiDieitsLag (28:34)<br>
-	3. dIehAppY (5:6)<br>
-	4. Reclamation- (7:8)<br>
-	5. JDHA218 (1:1)<br>
-	6. GoOody (4:8)<br>
-	7. CsAsTra (6:10)<br>
-	10. Omnibus (3:6)<br>
-<br>
-18. #NinjaBooM (1104) 0<br>
+17. #NinjaBooM (1104) 0<br>
 +1|+4|-5|-3|-4|+3|-2|-1|-4|-1<br>
 	1. zamrai (8:10)<br>
 	3. dIehAppY (4:2)<br>
@@ -128,10 +117,21 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. MadDookie (12:8)<br>
 	10. Omnibus (3:4)<br>
 <br>
-19. #Jasem (1104) 0<br>
+18. #Jasem (1104) 0<br>
 +19|+10|-1|-3|-3|+1|0|-4|+2|-1<br>
 	5. JDHA218 (3:5)<br>
 	7. CsAsTra (9:9)<br>
+<br>
+19. #Gyrfa1con (1103) -1<br>
+-14|-18|-15|-9|-8|-11|-4|-5|-4|-3<br>
+	1. zamrai (16:24)<br>
+	2. ifiDieitsLag (28:34)<br>
+	3. dIehAppY (5:6)<br>
+	4. Reclamation- (7:8)<br>
+	5. JDHA218 (1:1)<br>
+	6. GoOody (4:8)<br>
+	7. CsAsTra (6:10)<br>
+	10. Omnibus (3:6)<br>
 <br>
 20. #KANT (1103) 0<br>
 +18|+14|+16|+5|-1|+3|-6|-1|-3|0<br>
@@ -146,7 +146,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 22. #fifty6 (1101) 0<br>
 +81|+76|+62|+52|+50|+41|+26|+26|+14|+9<br>
-	1. zamrai (3:5)<br>
+	1. zamrai (0:3)<br>
 	3. dIehAppY (11:6)<br>
 	5. JDHA218 (20:14)<br>
 <br>
@@ -163,18 +163,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. Reclamation- (2:2)<br>
 	10. Omnibus (1:1)<br>
 <br>
-25. #joropo808 (1093) 0<br>
-+5|+1|+2|+5|+3|+3|-1|-2|+3|+2<br>
-	1. zamrai (1:9)<br>
-	3. dIehAppY (5:7)<br>
-	6. GoOody (4:6)<br>
-<br>
-26. #Parko (1092) 0<br>
+25. #Parko (1092) 0<br>
 +74|+64|+65|+58|+46|+36|+21|+18|+13|+10<br>
 	7. CsAsTra (14:14)<br>
 	9. MadDookie (0:2)<br>
 <br>
-27. #keyblade335 (1092) 0<br>
+26. #keyblade335 (1092) 0<br>
 +26|+29|+26|+18|+23|+27|+20|+16|+5|-1<br>
 	1. zamrai (4:4)<br>
 	2. ifiDieitsLag (23:25)<br>
@@ -186,9 +180,9 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. TyCho2 (6:9)<br>
 	9. MadDookie (10:5)<br>
 <br>
-28. #GenghisCon (1092) 0<br>
+27. #GenghisCon (1092) 0<br>
 -12|-13|-13|-12|-15|-15|-16|-9|-5|-2<br>
-	1. zamrai (8:8)<br>
+	1. zamrai (5:5)<br>
 	2. ifiDieitsLag (1:1)<br>
 	3. dIehAppY (14:28)<br>
 	4. Reclamation- (0:13)<br>
@@ -197,6 +191,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. CsAsTra (10:11)<br>
 	9. MadDookie (4:8)<br>
 	10. Omnibus (1:2)<br>
+<br>
+28. #joropo808 (1091) -2<br>
+0|+1|+3|+2|+1|-3|-3|+1|0|-3<br>
+	1. zamrai (1:9)<br>
+	3. dIehAppY (5:7)<br>
+	6. GoOody (4:6)<br>
 <br>
 29. #matty (1091) 0<br>
 +76|+64|+52|+28|+20|+12|+4<br>
@@ -232,7 +232,6 @@ Recent win rates against top 10 over the past 20k matches<br>
 	1. zamrai (0:2)<br>
 	3. dIehAppY (5:8)<br>
 	6. GoOody (3:3)<br>
-	10. Omnibus (0:2)<br>
 <br>
 33. #sir.wallace (1076) 0<br>
 -8|-15|-19|-20|-16|-16|-13|-14|-8|-1<br>
@@ -291,7 +290,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. JDHA218 (7:5)<br>
 	6. GoOody (2:4)<br>
 <br>
-41. #MAKki (1057) -1<br>
+41. #MAKki (1057) 0<br>
 -5|-9|-4|0|+2|0|0|+4|+3|+3<br>
 	2. ifiDieitsLag (1:0)<br>
 	3. dIehAppY (4:8)<br>
@@ -305,8 +304,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. CsAsTra (3:1)<br>
 	9. MadDookie (5:8)<br>
 <br>
-43. #DarkGalaxy~444 (1055) 0<br>
-+26|+9<br>
+43. #DarkGalaxy~444 (1055) +1<br>
++27|+9<br>
 	2. ifiDieitsLag (13:12)<br>
 	6. GoOody (2:1)<br>
 	7. CsAsTra (1:1)<br>
@@ -325,8 +324,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. CsAsTra (3:3)<br>
 	9. MadDookie (5:4)<br>
 <br>
-46. #Gervi (1051) 0<br>
--10|-1|-6|-1|+2|+8|+4|+4|+8|+3<br>
+46. #Gervi (1052) 0<br>
+-10|0|-5|-1|+3|+8|+5|+5|+9|+4<br>
 	3. dIehAppY (10:5)<br>
 	4. Reclamation- (1:0)<br>
 	7. CsAsTra (6:4)<br>
@@ -358,33 +357,16 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. CsAsTra (4:8)<br>
 	9. MadDookie (6:9)<br>
 <br>
-51. #marijuana10 (1044) 0<br>
-+8|+8|+6|+3|-2|0|-3|-8|-9|-4<br>
-	5. JDHA218 (1:0)<br>
-	6. GoOody (7:6)<br>
-	9. MadDookie (3:2)<br>
-<br>
-52. #quickmill (1044) 0<br>
+51. #quickmill (1044) 0<br>
 +2|-6|-3|+2|-12|-9|-5|-3|-4|0<br>
 	3. dIehAppY (4:5)<br>
 	7. CsAsTra (5:9)<br>
 <br>
-53. #johannn (1043) 0<br>
+52. #johannn (1043) 0<br>
 +41|+29|+16|+14|0<br>
 	6. GoOody (0:2)<br>
 <br>
-54. #Shadowblaze. (1043) 0<br>
-+37|+34|+19|+12|0<br>
-	1. zamrai (0:2)<br>
-	3. dIehAppY (1:4)<br>
-	4. Reclamation- (0:2)<br>
-	5. JDHA218 (5:25)<br>
-	6. GoOody (12:8)<br>
-	7. CsAsTra (9:11)<br>
-	9. MadDookie (2:5)<br>
-	10. Omnibus (3:0)<br>
-<br>
-55. #SweetTooth~619 (1043) 0<br>
+53. #SweetTooth~619 (1043) 0<br>
 +28|+30|+23|+16|+13|+6|+3|+5|+10|+5<br>
 	1. zamrai (0:2)<br>
 	3. dIehAppY (1:2)<br>
@@ -394,10 +376,10 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. CsAsTra (4:5)<br>
 	9. MadDookie (0:1)<br>
 <br>
-56. #7paths (1043) 0<br>
+54. #7paths (1043) 0<br>
 +26|+20|+7|-2<br>
 <br>
-57. #malarkey (1043) 0<br>
+55. #malarkey (1043) 0<br>
 +29|+30|+22|+17|+19|+14|+11|+4|-1|0<br>
 	1. zamrai (28:36)<br>
 	2. ifiDieitsLag (3:4)<br>
@@ -405,6 +387,23 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. Reclamation- (2:7)<br>
 	5. JDHA218 (7:15)<br>
 	10. Omnibus (2:6)<br>
+<br>
+56. #marijuana10 (1042) -2<br>
++6|+6|+4|+1|-3|-2|-5|-10|-10|-5<br>
+	5. JDHA218 (1:0)<br>
+	6. GoOody (7:6)<br>
+	9. MadDookie (3:2)<br>
+<br>
+57. #Shadowblaze. (1042) -1<br>
++36|+33|+18|+11|-1<br>
+	1. zamrai (0:2)<br>
+	3. dIehAppY (1:4)<br>
+	4. Reclamation- (0:2)<br>
+	5. JDHA218 (5:25)<br>
+	6. GoOody (12:8)<br>
+	7. CsAsTra (9:11)<br>
+	9. MadDookie (2:5)<br>
+	10. Omnibus (3:0)<br>
 <br>
 58. #theDude (1042) 0<br>
 +20|+24|+25|+21|+20|+18|+21|+23|+19|+8<br>
@@ -426,7 +425,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. JDHA218 (9:5)<br>
 	9. MadDookie (8:9)<br>
 <br>
-61. #spaceycarrot (1038) 0<br>
+61. #spaceycarrot (1037) 0<br>
 +18|+11|+2|-5|+3|+2|-5|+4|+7|-2<br>
 	3. dIehAppY (1:1)<br>
 	5. JDHA218 (9:8)<br>
@@ -459,12 +458,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	3. dIehAppY (9:12)<br>
 	6. GoOody (3:5)<br>
 <br>
-67. #LJpain (1036) 0<br>
+67. #ChiefBlkHawk (1036) +1<br>
++35|+33|+39|+29|+27|+27|+28|+14|+2|+1<br>
+	1. zamrai (0:2)<br>
+	3. dIehAppY (7:8)<br>
+	5. JDHA218 (0:5)<br>
+	6. GoOody (6:12)<br>
+	10. Omnibus (0:2)<br>
+<br>
+68. #LJpain (1036) 0<br>
 +33|+31|+22|+16|+9|+6<br>
 	7. CsAsTra (12:25)<br>
 	9. MadDookie (1:0)<br>
 <br>
-68. #likeag66 (1035) 0<br>
+69. #likeag66 (1035) 0<br>
 +35|+29|+19|+21|+19|+16|+11|+4|+2<br>
 	1. zamrai (0:3)<br>
 	2. ifiDieitsLag (7:6)<br>
@@ -474,17 +481,9 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. CsAsTra (3:3)<br>
 	9. MadDookie (0:1)<br>
 <br>
-69. #JazzyJam~772 (1035) 0<br>
+70. #JazzyJam~772 (1035) 0<br>
 +19|+6<br>
 	7. CsAsTra (2:2)<br>
-<br>
-70. #ChiefBlkHawk (1035) 0<br>
-+32|+34|+32|+38|+28|+26|+26|+28|+14|+2<br>
-	1. zamrai (0:2)<br>
-	3. dIehAppY (7:8)<br>
-	5. JDHA218 (0:5)<br>
-	6. GoOody (6:12)<br>
-	10. Omnibus (0:2)<br>
 <br>
 71. #Mutation- (1034) 0<br>
 +15|+7|-2<br>
@@ -510,39 +509,43 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 74. #blankedout (1026) 0<br>
 +24|+21|+21|+25|+24|+20|+20|+16|+9|0<br>
-	1. zamrai (7:12)<br>
+	1. zamrai (5:7)<br>
 	3. dIehAppY (2:2)<br>
 	5. JDHA218 (1:1)<br>
 	9. MadDookie (0:2)<br>
 <br>
-75. #GoofySound~485 (1025) +2<br>
+75. #GoofySound~485 (1025) 0<br>
 +11<br>
 	1. zamrai (3:6)<br>
 	5. JDHA218 (4:2)<br>
 	9. MadDookie (1:1)<br>
 <br>
-76. #Tyleta (1023) 0<br>
+76. #Buz (1024) +4<br>
++26|+19|+7|+8|+1|+5|+7|+7|-1|+3<br>
+	1. zamrai (5:7)<br>
+	3. dIehAppY (22:32)<br>
+<br>
+77. #Vhyme (1024) +2<br>
++12|-3|-2|+4<br>
+	1. zamrai (3:3)<br>
+<br>
+78. #Tyleta (1023) 0<br>
 +31|+23|+2|-2<br>
 	5. JDHA218 (13:16)<br>
 	7. CsAsTra (6:11)<br>
 	9. MadDookie (10:14)<br>
 <br>
-77. #kittengod22 (1022) 0<br>
+79. #kittengod22 (1022) 0<br>
 +20|+18|+11|+3<br>
 	3. dIehAppY (1:0)<br>
 	9. MadDookie (4:3)<br>
 <br>
-78. #GroggyWave~603 (1021) 0<br>
+80. #GroggyWave~603 (1021) 0<br>
 +10|+2<br>
 	5. JDHA218 (8:17)<br>
 	10. Omnibus (1:0)<br>
 <br>
-79. #Buz (1021) 0<br>
-+22|+15|+4|+4|-3|+1|+3|+3|-5|-1<br>
-	1. zamrai (4:5)<br>
-	3. dIehAppY (22:32)<br>
-<br>
-80. #qUidNovI (1020) 0<br>
+81. #qUidNovI (1020) 0<br>
 +2|-3|+2|-3|-7|-10|-9|-4|-8|-4<br>
 	3. dIehAppY (1:0)<br>
 	4. Reclamation- (2:6)<br>
@@ -552,7 +555,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. MadDookie (74:98)<br>
 	10. Omnibus (7:8)<br>
 <br>
-81. #TimDebJon (1019) 0<br>
+82. #TimDebJon (1019) 0<br>
 +13|+8|+11|+18|+21|+14|+4|+4|+2|+1<br>
 	1. zamrai (3:4)<br>
 	3. dIehAppY (0:2)<br>
@@ -562,12 +565,12 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. CsAsTra (5:5)<br>
 	9. MadDookie (4:5)<br>
 <br>
-82. #WaxMonkey~887 (1019) 0<br>
+83. #WaxMonkey~887 (1019) 0<br>
 +4|-4<br>
 	5. JDHA218 (6:9)<br>
 	7. CsAsTra (2:0)<br>
 <br>
-83. #chILLYpotat (1019) 0<br>
+84. #chILLYpotat (1019) 0<br>
 +18|+17|+9<br>
 	1. zamrai (0:1)<br>
 	4. Reclamation- (2:6)<br>
@@ -575,13 +578,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. GoOody (5:4)<br>
 	7. CsAsTra (0:4)<br>
 <br>
-84. #holzabee86 (1018) 0<br>
+85. #holzabee86 (1018) 0<br>
 +13|+3<br>
 	1. zamrai (5:9)<br>
 	4. Reclamation- (0:1)<br>
 	5. JDHA218 (3:7)<br>
 <br>
-85. #batman7000 (1015) 0<br>
+86. #batman7000 (1015) 0<br>
 +17|+4|-3<br>
 	1. zamrai (0:1)<br>
 	4. Reclamation- (1:1)<br>
@@ -590,143 +593,142 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. TyCho2 (0:1)<br>
 	9. MadDookie (1:1)<br>
 <br>
-86. #BigTemper~185 (1015) 0<br>
+87. #BigTemper~185 (1015) 0<br>
 +8<br>
 	2. ifiDieitsLag (2:1)<br>
 	3. dIehAppY (16:7)<br>
 	4. Reclamation- (0:1)<br>
 <br>
-87. #sereros (1015) 0<br>
+88. #sereros (1015) 0<br>
 +5<br>
 	2. ifiDieitsLag (2:3)<br>
 	7. CsAsTra (3:7)<br>
 <br>
-88. #ruBEARRx (1014) 0<br>
+89. #ExoticVioli~142 (1015) +1<br>
+0<br>
+	1. zamrai (4:3)<br>
+<br>
+90. #ruBEARRx (1014) 0<br>
 -13|-13|-9|-9|-10|-14|-9|-6|-7|-7<br>
 	5. JDHA218 (6:21)<br>
 	7. CsAsTra (3:9)<br>
 	9. MadDookie (12:10)<br>
 <br>
-89. #SUPREME-- (1014) 0<br>
+91. #SUPREME-- (1014) 0<br>
 +8|+5<br>
 	3. dIehAppY (14:19)<br>
 	6. GoOody (1:0)<br>
 	9. MadDookie (3:2)<br>
 <br>
-90. #ExoticVioli~142 (1014) 0<br>
--1<br>
-	1. zamrai (4:3)<br>
-<br>
-91. #Infatuation- (1014) 0<br>
+92. #Infatuation- (1014) 0<br>
 +8<br>
 	9. MadDookie (0:2)<br>
 <br>
-92. #Teams-- (1014) 0<br>
+93. #Teams-- (1014) 0<br>
 +7|+5<br>
 	8. TyCho2 (5:12)<br>
 <br>
-93. #IcasperI (1013) 0<br>
+94. #IcasperI (1013) 0<br>
 -1<br>
 	1. zamrai (0:1)<br>
 	5. JDHA218 (9:14)<br>
 <br>
-94. #stuggidavid (1013) 0<br>
+95. #stuggidavid (1013) 0<br>
 0|0|-2|-7|-5|-1|+3|-1|+4|+5<br>
 	3. dIehAppY (0:5)<br>
 	9. MadDookie (2:2)<br>
 <br>
-95. #babymetal (1013) 0<br>
+96. #babymetal (1013) 0<br>
 +17|+13|+3|-3|-6|-3|-4|+3|-5|-2<br>
 	4. Reclamation- (0:3)<br>
 	5. JDHA218 (1:2)<br>
 	6. GoOody (1:2)<br>
-	10. Omnibus (0:2)<br>
 <br>
-96. #lowki (1011) 0<br>
+97. #lowki (1011) 0<br>
 0<br>
 <br>
-97. #Galconian- (1011) 0<br>
+98. #Galconian- (1011) 0<br>
 +11<br>
 	1. zamrai (0:3)<br>
 <br>
-98. #Yogensha- (1011) 0<br>
+99. #Yogensha- (1011) 0<br>
 0<br>
 	3. dIehAppY (12:12)<br>
 	5. JDHA218 (0:3)<br>
 	9. MadDookie (3:2)<br>
 <br>
-99. #maThkniGht (1011) 0<br>
+100. #maThkniGht (1011) 0<br>
 +10<br>
 	1. zamrai (3:8)<br>
 	2. ifiDieitsLag (2:0)<br>
 <br>
-100. #rickss (1011) 0<br>
+101. #rickss (1011) 0<br>
 +12|+13|+3<br>
 	6. GoOody (1:0)<br>
 <br>
-101. #FilthyGlide~918 (1011) 0<br>
+102. #FilthyGlide~918 (1011) 0<br>
 -1<br>
 	7. CsAsTra (2:1)<br>
 <br>
-102. #ATN (1011) 0<br>
+103. #ATN (1011) 0<br>
 +12|+9|+1|+3|-1|+1|+3|-3|-6|-7<br>
 	3. dIehAppY (4:3)<br>
 	7. CsAsTra (3:5)<br>
 <br>
-103. #frostbite- (1011) 0<br>
+104. #frostbite- (1011) 0<br>
 +1<br>
 <br>
-104. #stcziiii (1010) 0<br>
+105. #stcziiii (1010) 0<br>
 +4<br>
 	10. Omnibus (1:0)<br>
 <br>
-105. #lava_76 (1009) 0<br>
+106. #lava_76 (1009) 0<br>
 +3|+4|+4|+4|-1|+2|+2|+8|+6|+1<br>
 	5. JDHA218 (3:4)<br>
 	7. CsAsTra (9:14)<br>
 	9. MadDookie (7:15)<br>
 <br>
-106. #Artimal_PL (1008) 0<br>
+107. #Artimal_PL (1008) 0<br>
 0|+5|+1|+4<br>
 	5. JDHA218 (3:0)<br>
 	7. CsAsTra (36:66)<br>
 	8. TyCho2 (1:1)<br>
 	9. MadDookie (6:7)<br>
 <br>
-107. #GuacNinja (1008) 0<br>
+108. #GuacNinja (1008) 0<br>
 +14|+20|+15|+17|+9|+19|+10<br>
 	4. Reclamation- (16:20)<br>
 	5. JDHA218 (6:14)<br>
 	7. CsAsTra (9:11)<br>
 	9. MadDookie (3:1)<br>
 <br>
-108. #badbit86 (1006) 0<br>
+109. #z.snafu (1007) 0<br>
+-11|-7|-5|-15|-12|-3|+6|+10|+9|+7<br>
+	3. dIehAppY (0:3)<br>
+	5. JDHA218 (0:2)<br>
+<br>
+110. #badbit86 (1006) 0<br>
 +3|+3|0|-1|-2<br>
 	2. ifiDieitsLag (1:0)<br>
 	3. dIehAppY (5:7)<br>
 <br>
-109. #necrosis_24 (1006) 0<br>
+111. #necrosis_24 (1006) 0<br>
 +9|+7|+2<br>
 <br>
-110. #z.snafu (1005) 0<br>
--13|-9|-7|-17|-14|-5|+4|+8|+7|+5<br>
-	3. dIehAppY (0:3)<br>
-	5. JDHA218 (0:2)<br>
-<br>
-111. #heynongman (1005) 0<br>
+112. #heynongman (1005) 0<br>
 +1|+4|+3|0|+8|0<br>
 	3. dIehAppY (15:28)<br>
 	5. JDHA218 (8:17)<br>
 	7. CsAsTra (5:15)<br>
 <br>
-112. #Ghazali (1004) 0<br>
+113. #Ghazali (1004) 0<br>
 -10|-5|-6|-10|-3|-6|-9|-3|-1|-1<br>
 	4. Reclamation- (1:1)<br>
 	5. JDHA218 (1:1)<br>
 	7. CsAsTra (7:14)<br>
 	9. MadDookie (7:6)<br>
 <br>
-113. #number1daddy (1004) 0<br>
+114. #number1daddy (1004) 0<br>
 +4|+1<br>
 	1. zamrai (1:1)<br>
 	4. Reclamation- (1:1)<br>
@@ -736,41 +738,41 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. TyCho2 (1:1)<br>
 	9. MadDookie (4:3)<br>
 <br>
-114. #go4chips (1004) 0<br>
+115. #go4chips (1004) 0<br>
 -7|0|-1|+1|-4|-6|-4|-3|-3|-5<br>
 	1. zamrai (0:1)<br>
 	5. JDHA218 (0:2)<br>
 	7. CsAsTra (0:1)<br>
 	9. MadDookie (3:9)<br>
 <br>
-115. #chrispduck (1003) 0<br>
+116. #chrispduck (1003) 0<br>
 +2<br>
 	2. ifiDieitsLag (1:2)<br>
 	6. GoOody (2:3)<br>
 	7. CsAsTra (5:5)<br>
 <br>
-116. #theAceofGame (1001) 0<br>
+117. #theAceofGame (1001) 0<br>
 -2|0|+1<br>
 	1. zamrai (1:1)<br>
 	5. JDHA218 (6:5)<br>
 	6. GoOody (4:6)<br>
 	9. MadDookie (1:1)<br>
 <br>
-117. #ChubbyPizza~629 (1001) 0<br>
+118. #ChubbyPizza~629 (1001) 0<br>
 -3|-1<br>
 	1. zamrai (1:3)<br>
 	3. dIehAppY (3:4)<br>
 <br>
-118. #guhdur (1001) 0<br>
+119. #guhdur (1001) 0<br>
 +1<br>
 	3. dIehAppY (10:18)<br>
 	5. JDHA218 (0:1)<br>
 <br>
-119. #xxjoshzxx (1001) 0<br>
+120. #xxjoshzxx (1001) 0<br>
 -7|-6|+3|-1<br>
 	1. zamrai (2:2)<br>
 <br>
-120. #Almarcha (1000) 0<br>
+121. #Almarcha (1000) 0<br>
 +1|+4|+2<br>
 	1. zamrai (2:1)<br>
 	3. dIehAppY (4:2)<br>
@@ -778,10 +780,10 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. MadDookie (1:0)<br>
 	10. Omnibus (0:1)<br>
 <br>
-121. #BrownPaint~258 (1000) 0<br>
+122. #BrownPaint~258 (1000) 0<br>
 0|0|+1|-1<br>
 <br>
-122. #miomonster (999) 0<br>
+123. #miomonster (999) 0<br>
 +8|+4|+5|+3<br>
 	1. zamrai (0:3)<br>
 	3. dIehAppY (1:9)<br>
@@ -791,7 +793,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. MadDookie (3:2)<br>
 	10. Omnibus (1:4)<br>
 <br>
-123. #scampadour (999) 0<br>
+124. #scampadour (999) 0<br>
 +8|+3|+5<br>
 	4. Reclamation- (4:5)<br>
 	5. JDHA218 (1:2)<br>
@@ -799,36 +801,36 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. TyCho2 (1:3)<br>
 	9. MadDookie (2:7)<br>
 <br>
-124. #MyriadLIGHT (999) 0<br>
+125. #MyriadLIGHT (999) 0<br>
 -4<br>
 	5. JDHA218 (0:1)<br>
 	10. Omnibus (2:1)<br>
 <br>
-125. #kinglag (999) 0<br>
+126. #kinglag (999) 0<br>
 +5<br>
 	5. JDHA218 (1:2)<br>
 	6. GoOody (0:2)<br>
 <br>
-126. #bad.inc (998) 0<br>
+127. #bad.inc (998) 0<br>
 +10|+6|+1|+5|+2<br>
 	3. dIehAppY (2:2)<br>
 	4. Reclamation- (0:5)<br>
 	7. CsAsTra (5:7)<br>
 	9. MadDookie (0:1)<br>
 <br>
-127. #iceking99 (998) 0<br>
+128. #iceking99 (998) 0<br>
 -2|-5|-5|-17|-13|-3<br>
 	3. dIehAppY (0:10)<br>
 	5. JDHA218 (0:7)<br>
 	7. CsAsTra (0:1)<br>
 	9. MadDookie (5:10)<br>
 <br>
-128. #Setin12 (998) 0<br>
+129. #Setin12 (998) 0<br>
 -1<br>
 	5. JDHA218 (1:2)<br>
 	7. CsAsTra (8:8)<br>
 <br>
-129. #resistfate88 (997) 0<br>
+130. #resistfate88 (997) 0<br>
 +5|-1<br>
 	1. zamrai (0:1)<br>
 	3. dIehAppY (2:7)<br>
@@ -836,47 +838,43 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. CsAsTra (1:2)<br>
 	9. MadDookie (0:1)<br>
 <br>
-130. #steve333 (995) 0<br>
+131. #steve333 (995) 0<br>
 0<br>
 	6. GoOody (0:1)<br>
 <br>
-131. #zinc.de.toi (994) 0<br>
+132. #zinc.de.toi (994) 0<br>
 -4|0<br>
 	1. zamrai (1:1)<br>
 <br>
-132. #googooman (993) 0<br>
+133. #googooman (993) 0<br>
 -3<br>
 	6. GoOody (1:0)<br>
 	7. CsAsTra (6:8)<br>
 <br>
-133. #jpwilliams32 (992) 0<br>
+134. #jpwilliams32 (992) 0<br>
 -9<br>
 <br>
-134. #frostnoise (992) 0<br>
+135. #krizzy (992) +1<br>
+-6|-4|-3|-6|-3|-7|-2|-2|+3|+2<br>
+	3. dIehAppY (13:24)<br>
+	5. JDHA218 (8:17)<br>
+	6. GoOody (6:10)<br>
+<br>
+136. #frostnoise (992) 0<br>
 -4|+1|+2<br>
 	1. zamrai (3:2)<br>
 	2. ifiDieitsLag (0:2)<br>
 	4. Reclamation- (2:1)<br>
 	6. GoOody (5:10)<br>
 <br>
-135. #Vergilious (991) 0<br>
+137. #Vergilious (991) 0<br>
 -3|+2<br>
 	5. JDHA218 (0:2)<br>
 	6. GoOody (2:3)<br>
 <br>
-136. #krizzy (991) +2<br>
--7|-5|-4|-7|-4|-8|-3|-3|+2<br>
-	3. dIehAppY (13:24)<br>
-	5. JDHA218 (8:17)<br>
-	6. GoOody (6:10)<br>
-<br>
-137. #Cosimia (988) +1<br>
+138. #Cosimia (988) 0<br>
 +2<br>
 	5. JDHA218 (0:1)<br>
-<br>
-138. #wacho789 (988) 0<br>
--2<br>
-	5. JDHA218 (0:3)<br>
 <br>
 139. #jacks0nh0le (988) 0<br>
 -10|+1|-1|-2|-1<br>
@@ -906,11 +904,18 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. CsAsTra (9:16)<br>
 	9. MadDookie (0:1)<br>
 <br>
-144. #mr.grey (983) 0<br>
+144. #pldncr (984) +2<br>
+-16|-17|-17|-17|-16|-8|-7|-8|-7|0<br>
+	2. ifiDieitsLag (1:2)<br>
+	4. Reclamation- (4:11)<br>
+	5. JDHA218 (2:2)<br>
+	6. GoOody (3:12)<br>
+<br>
+145. #mr.grey (983) 0<br>
 -5|+3|-7|-2<br>
 	5. JDHA218 (5:2)<br>
 <br>
-145. #rpk (983) 0<br>
+146. #rpk (983) 0<br>
 -30|-19|-14|-3|+2|+5|+3|+2|-9|-6<br>
 	1. zamrai (1:2)<br>
 	3. dIehAppY (0:1)<br>
@@ -920,28 +925,21 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. MadDookie (21:41)<br>
 	10. Omnibus (8:5)<br>
 <br>
-146. #akghostgoon (983) 0<br>
+147. #akghostgoon (983) 0<br>
 -9<br>
 <br>
-147. #pldncr (982) 0<br>
--18|-19|-19|-19|-18|-10|-9|-10|-9|-2<br>
-	2. ifiDieitsLag (1:2)<br>
-	4. Reclamation- (4:11)<br>
-	5. JDHA218 (2:2)<br>
-	6. GoOody (3:12)<br>
-<br>
-148. #ZEUX (972) -1<br>
--20|-18|-17|-17|-10|-3<br>
-	10. Omnibus (1:4)<br>
-<br>
-149. #His-Majesty (972) 0<br>
--9|0|+4|+7|+1|-4|-9|-9|-6|-1<br>
+148. #His-Majesty (974) +3<br>
+-6|+3|+6|+10|+4|-2|-6|-6|-3|+1<br>
 	1. zamrai (5:14)<br>
 	2. ifiDieitsLag (3:6)<br>
 	3. dIehAppY (5:4)<br>
 	5. JDHA218 (3:7)<br>
 <br>
-150. #pickynew (955) -1<br>
+149. #ZEUX (967) -6<br>
+-26|-23|-23|-22|-16|-8<br>
+	10. Omnibus (1:4)<br>
+<br>
+150. #pickynew (955) 0<br>
 -3|-1|-5|-7|+2|-2|+1|+3|+6|-1<br>
 	3. dIehAppY (3:11)<br>
 <br>
@@ -953,8 +951,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. MadDookie (0:3)<br>
 	10. Omnibus (2:6)<br>
 <br>
-152. #AlGalcone (927) +1<br>
--39|-37|-26|-21|-18|-14|-5|-3|+1|-1<br>
+152. #AlGalcone (928) +1<br>
+-38|-36|-25|-20|-17|-13|-4|-2|+2|0<br>
 	1. zamrai (3:11)<br>
 	3. dIehAppY (3:2)<br>
 	4. Reclamation- (4:27)<br>
