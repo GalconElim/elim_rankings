@@ -5,126 +5,125 @@ Recent win rates against top 10 over the past 20k matches<br>
 	2. matty (62:43)<br>
 	3. symsymmy (6:4)<br>
 	4. Parko (0:1)<br>
-	5. JDHA218 (36:19)<br>
-	6. zamrai (16:2)<br>
-	7. Jasem (25:14)<br>
-	8. Mutation- (36:20)<br>
+	5. zamrai (16:2)<br>
+	6. Mutation- (36:20)<br>
+	7. JDHA218 (36:19)<br>
+	8. Jasem (25:14)<br>
 	10. Orbiter (14:4)<br>
 <br>
 2. #matty (1209) 0<br>
 -34|-31|-34|-29|-31|-19|-2|+9|+12|+1<br>
 	1. Reclamation- (43:62)<br>
 	3. symsymmy (0:2)<br>
-	6. zamrai (1:5)<br>
-	7. Jasem (11:7)<br>
+	5. zamrai (1:5)<br>
+	8. Jasem (11:7)<br>
 	10. Orbiter (2:1)<br>
 <br>
-3. #symsymmy (1203) 0<br>
--18|-10|-3|+2|-5|-4|-7|-8|-6|-1<br>
+3. #symsymmy (1202) 0<br>
+-18|-10|-3|+1|-5|-4|-7|-8|-6|-1<br>
 	1. Reclamation- (4:6)<br>
 	2. matty (2:0)<br>
-	5. JDHA218 (6:7)<br>
-	7. Jasem (0:3)<br>
+	7. JDHA218 (6:7)<br>
+	8. Jasem (0:3)<br>
 	10. Orbiter (0:1)<br>
 <br>
 4. #Parko (1192) 0<br>
 +27|+26|+23|+12|+9|+4|+2|+7|0|+2<br>
 	1. Reclamation- (1:0)<br>
-	5. JDHA218 (0:1)<br>
-	8. Mutation- (5:3)<br>
+	6. Mutation- (5:3)<br>
+	7. JDHA218 (0:1)<br>
 <br>
-5. #JDHA218 (1168) -1<br>
--5|-10|-14|-10|-8|-9|-14|-9|-4|-2<br>
-	1. Reclamation- (19:36)<br>
-	3. symsymmy (7:6)<br>
-	4. Parko (1:0)<br>
-	6. zamrai (4:11)<br>
-	7. Jasem (0:1)<br>
-	8. Mutation- (4:13)<br>
-	9. waffle~3z (17:2)<br>
-	10. Orbiter (0:1)<br>
-<br>
-6. #zamrai (1167) 0<br>
+5. #zamrai (1167) 0<br>
 -29|-34|-25|-21|-21|-25|-24|-17|-8|-4<br>
 	1. Reclamation- (2:16)<br>
 	2. matty (5:1)<br>
-	5. JDHA218 (11:4)<br>
-	7. Jasem (1:0)<br>
-	8. Mutation- (1:0)<br>
+	6. Mutation- (1:0)<br>
+	7. JDHA218 (11:4)<br>
+	8. Jasem (1:0)<br>
 <br>
-7. #Jasem (1163) 0<br>
+6. #Mutation- (1167) 0<br>
++56|+55|+42|+34|+29|+27|+27|+9|+6|+4<br>
+	1. Reclamation- (20:36)<br>
+	4. Parko (3:5)<br>
+	5. zamrai (0:1)<br>
+	7. JDHA218 (32:18)<br>
+	8. Jasem (0:1)<br>
+	10. Orbiter (7:1)<br>
+<br>
+7. #JDHA218 (1164) 0<br>
+-9|-14|-18|-14|-12|-13|-18|-13|-8|-6<br>
+	1. Reclamation- (19:36)<br>
+	3. symsymmy (7:6)<br>
+	4. Parko (1:0)<br>
+	5. zamrai (4:11)<br>
+	6. Mutation- (18:32)<br>
+	8. Jasem (0:1)<br>
+	9. waffle~3z (17:2)<br>
+	10. Orbiter (0:1)<br>
+<br>
+8. #Jasem (1163) 0<br>
 -6|-5|-16|-14|-8|+1|-7|-8|-3|-8<br>
 	1. Reclamation- (14:25)<br>
 	2. matty (7:11)<br>
 	3. symsymmy (3:0)<br>
-	5. JDHA218 (1:0)<br>
-	6. zamrai (0:1)<br>
-	8. Mutation- (1:0)<br>
+	5. zamrai (0:1)<br>
+	6. Mutation- (1:0)<br>
+	7. JDHA218 (1:0)<br>
 <br>
-8. #Mutation- (1162) 0<br>
-+56|+52|+50|+37|+29|+24|+22|+23|+5|+2<br>
-	1. Reclamation- (20:36)<br>
-	4. Parko (3:5)<br>
-	5. JDHA218 (13:4)<br>
-	6. zamrai (0:1)<br>
-	7. Jasem (0:1)<br>
-	10. Orbiter (7:1)<br>
+9. #waffle~3z (1148) 0<br>
+-36|-30|-29|-34|-32|-18|-21|-18|-7|-2<br>
+	7. JDHA218 (2:17)<br>
 <br>
-9. #waffle~3z (1147) 0<br>
--38|-32|-31|-35|-34|-20|-23|-20|-8|-4<br>
-	5. JDHA218 (2:17)<br>
-<br>
-10. #Orbiter (1144) +1<br>
-+39|+31|+16|+15|+3|+4|-4|+5|0|0<br>
+10. #Orbiter (1144) 0<br>
++39|+31|+16|+14|+2|+4|-4|+5|0|0<br>
 	1. Reclamation- (4:14)<br>
 	2. matty (1:2)<br>
 	3. symsymmy (1:0)<br>
-	5. JDHA218 (1:0)<br>
-	8. Mutation- (1:7)<br>
+	6. Mutation- (1:7)<br>
+	7. JDHA218 (1:0)<br>
 <br>
 11. #Eudaemonia (1134) 0<br>
 +1|-2|+4|+8|+2|-1|-9|-6|-6|-4<br>
 	1. Reclamation- (38:79)<br>
 	2. matty (4:5)<br>
 	3. symsymmy (0:2)<br>
-	5. JDHA218 (2:0)<br>
-	7. Jasem (3:3)<br>
-	8. Mutation- (97:122)<br>
+	6. Mutation- (97:122)<br>
+	7. JDHA218 (2:0)<br>
+	8. Jasem (3:3)<br>
 	10. Orbiter (7:7)<br>
 <br>
 12. #Eliminator-- (1126) 0<br>
 +91|+66|+41|+22|+3<br>
-	2. matty (19:18)<br>
-	5. JDHA218 (0:1)<br>
-	6. zamrai (18:8)<br>
-	7. Jasem (13:2)<br>
-	8. Mutation- (2:1)<br>
+	2. matty (17:12)<br>
+	5. zamrai (13:7)<br>
+	7. JDHA218 (0:1)<br>
+	8. Jasem (13:2)<br>
 <br>
-13. #croissant (1122) +5<br>
-+69|+63|+47|+41|+28|+13|+5|+4|+2|+3<br>
+13. #ElvishLeaf (1121) 0<br>
++91|+65|+46|+30|+10|+3<br>
+	1. Reclamation- (26:21)<br>
+	3. symsymmy (5:2)<br>
+	5. zamrai (3:0)<br>
+	6. Mutation- (3:4)<br>
+	7. JDHA218 (6:0)<br>
+<br>
+14. #croissant (1120) 0<br>
++61|+45|+39|+26|+11|+3|+1|-1|+1|-1<br>
 	1. Reclamation- (6:19)<br>
 	2. matty (3:2)<br>
 	3. symsymmy (4:3)<br>
 	4. Parko (2:2)<br>
-	5. JDHA218 (17:15)<br>
-	7. Jasem (2:1)<br>
-	8. Mutation- (24:29)<br>
+	6. Mutation- (25:30)<br>
+	7. JDHA218 (17:15)<br>
+	8. Jasem (2:1)<br>
 	10. Orbiter (1:0)<br>
-<br>
-14. #ElvishLeaf (1121) 0<br>
-+91|+65|+46|+30|+10|+3<br>
-	1. Reclamation- (26:21)<br>
-	3. symsymmy (5:2)<br>
-	5. JDHA218 (6:0)<br>
-	6. zamrai (3:0)<br>
-	8. Mutation- (3:4)<br>
 <br>
 15. #DarkGalaxy~444 (1114) 0<br>
 +72|+41|+13<br>
 	1. Reclamation- (14:9)<br>
 	2. matty (31:12)<br>
-	7. Jasem (13:1)<br>
-	8. Mutation- (3:2)<br>
+	6. Mutation- (3:2)<br>
+	8. Jasem (13:1)<br>
 	10. Orbiter (1:0)<br>
 <br>
 16. #GoOody (1108) 0<br>
@@ -132,47 +131,46 @@ Recent win rates against top 10 over the past 20k matches<br>
 	1. Reclamation- (5:13)<br>
 	2. matty (2:1)<br>
 	3. symsymmy (1:3)<br>
-	5. JDHA218 (2:0)<br>
-	6. zamrai (0:1)<br>
-	7. Jasem (4:6)<br>
-	8. Mutation- (3:3)<br>
+	5. zamrai (0:1)<br>
+	6. Mutation- (3:3)<br>
+	7. JDHA218 (2:0)<br>
+	8. Jasem (4:6)<br>
 <br>
 17. #bejut (1100) 0<br>
 +7|-1|-3|-10|+1|+7|+3|+5|+1|+2<br>
 	1. Reclamation- (4:27)<br>
 	2. matty (8:16)<br>
 	3. symsymmy (1:2)<br>
-	5. JDHA218 (0:2)<br>
-	6. zamrai (3:0)<br>
+	5. zamrai (3:0)<br>
+	7. JDHA218 (0:2)<br>
 	10. Orbiter (2:4)<br>
 <br>
-18. #Vhyme (1096) -1<br>
-+13|+5|-1|+2|+4|-2|-3|-5|-13|-2<br>
-	1. Reclamation- (3:9)<br>
-	3. symsymmy (1:3)<br>
-	4. Parko (28:56)<br>
-	5. JDHA218 (20:20)<br>
-	6. zamrai (2:4)<br>
-	7. Jasem (1:2)<br>
-	8. Mutation- (20:24)<br>
-	9. waffle~3z (37:66)<br>
-	10. Orbiter (6:10)<br>
-<br>
-19. #pablo55 (1090) 0<br>
+18. #pablo55 (1090) 0<br>
 +43|+31|+27|+28|+22|+7|-1|+1|+5|-4<br>
 	2. matty (9:40)<br>
 	3. symsymmy (0:1)<br>
 	4. Parko (1:2)<br>
-	5. JDHA218 (3:7)<br>
-	6. zamrai (1:0)<br>
-	8. Mutation- (0:3)<br>
+	5. zamrai (1:0)<br>
+	6. Mutation- (0:3)<br>
+	7. JDHA218 (3:7)<br>
+<br>
+19. #Vhyme (1090) -6<br>
+-1|-7|-5|-2|-9|-9|-11|-19|-8|-6<br>
+	1. Reclamation- (3:9)<br>
+	3. symsymmy (1:3)<br>
+	4. Parko (28:56)<br>
+	5. zamrai (2:4)<br>
+	6. Mutation- (23:32)<br>
+	7. JDHA218 (21:21)<br>
+	8. Jasem (1:2)<br>
+	9. waffle~3z (37:66)<br>
+	10. Orbiter (7:15)<br>
 <br>
 20. #BenjiKozoR (1088) 0<br>
 -27|-8|+7|+26|+25|+28|+33|+21|+4|-1<br>
-	2. matty (0:5)<br>
 	3. symsymmy (2:0)<br>
-	7. Jasem (19:40)<br>
-	8. Mutation- (5:1)<br>
+	6. Mutation- (5:1)<br>
+	8. Jasem (19:40)<br>
 	9. waffle~3z (19:16)<br>
 	10. Orbiter (10:9)<br>
 <br>
@@ -181,71 +179,70 @@ Recent win rates against top 10 over the past 20k matches<br>
 	1. Reclamation- (7:10)<br>
 	2. matty (3:6)<br>
 	4. Parko (5:3)<br>
-	5. JDHA218 (2:1)<br>
-	6. zamrai (0:1)<br>
-	8. Mutation- (2:0)<br>
+	5. zamrai (0:1)<br>
+	6. Mutation- (2:0)<br>
+	7. JDHA218 (2:1)<br>
 	10. Orbiter (1:1)<br>
 <br>
-22. #Gadreel. (1080) -5<br>
-+63|+48|+37|+32|+18|+4|+4|-11|-14|-1<br>
+22. #Gadreel. (1083) +1<br>
++51|+40|+35|+21|+7|+7|-8|-11|+2|0<br>
 	1. Reclamation- (11:18)<br>
-	5. JDHA218 (37:27)<br>
-	8. Mutation- (29:42)<br>
+	6. Mutation- (37:51)<br>
+	7. JDHA218 (40:31)<br>
 	9. waffle~3z (8:0)<br>
 	10. Orbiter (7:8)<br>
 <br>
-23. #Sudarshana (1067) +5<br>
-+39|+32|+8<br>
-	5. JDHA218 (6:9)<br>
-	6. zamrai (8:12)<br>
-	8. Mutation- (2:4)<br>
+23. #Sudarshana (1076) +4<br>
++48|+41|+17<br>
+	5. zamrai (8:12)<br>
+	6. Mutation- (3:6)<br>
+	7. JDHA218 (7:9)<br>
 <br>
-24. #zeropoint (1066) 0<br>
--16|-12|-18|-19|-11|-9|-16|-4|+6|0<br>
+24. #zeropoint (1067) 0<br>
+-11|-17|-18|-10|-8|-15|-3|+7|0|+1<br>
 	1. Reclamation- (1:3)<br>
 	2. matty (0:1)<br>
-	7. Jasem (0:2)<br>
-	8. Mutation- (2:4)<br>
+	6. Mutation- (2:4)<br>
+	8. Jasem (0:2)<br>
 	10. Orbiter (0:3)<br>
 <br>
 25. #keyblade335 (1051) 0<br>
-+49|+34|+16|+15|+14|+4|+8|+7|+5|-3<br>
++49|+33|+15|+14|+14|+4|+8|+7|+4|-4<br>
 	1. Reclamation- (8:28)<br>
 	2. matty (18:37)<br>
 	3. symsymmy (10:16)<br>
-	5. JDHA218 (12:18)<br>
-	8. Mutation- (12:33)<br>
+	6. Mutation- (12:35)<br>
+	7. JDHA218 (14:20)<br>
 	9. waffle~3z (1:0)<br>
 	10. Orbiter (1:5)<br>
 <br>
-26. #mathKnight (1049) 0<br>
-+39|+31|+8<br>
+26. #mathKnight (1049) -1<br>
++39|+30|+7<br>
 	1. Reclamation- (0:2)<br>
 	3. symsymmy (1:2)<br>
-	5. JDHA218 (0:1)<br>
-	6. zamrai (0:1)<br>
-	8. Mutation- (1:1)<br>
+	5. zamrai (0:1)<br>
+	6. Mutation- (1:1)<br>
+	7. JDHA218 (0:1)<br>
 <br>
 27. #Kurok (1047) 0<br>
 -20|-15|-2|-5|0|-1|+4|+9|+4|+4<br>
 	1. Reclamation- (4:2)<br>
 	2. matty (1:0)<br>
-	5. JDHA218 (8:13)<br>
-	6. zamrai (0:1)<br>
+	5. zamrai (0:1)<br>
+	7. JDHA218 (8:13)<br>
 <br>
 28. #johannn (1044) 0<br>
 +30|+17|+4|+1|+3|+3|-6<br>
 	1. Reclamation- (0:2)<br>
 	3. symsymmy (4:8)<br>
-	5. JDHA218 (0:2)<br>
-	6. zamrai (4:3)<br>
+	5. zamrai (4:3)<br>
+	7. JDHA218 (0:2)<br>
 <br>
 29. #Penguin- (1040) 0<br>
 +11<br>
 	1. Reclamation- (10:23)<br>
 	2. matty (4:5)<br>
-	5. JDHA218 (0:1)<br>
-	8. Mutation- (5:0)<br>
+	6. Mutation- (4:0)<br>
 	10. Orbiter (8:1)<br>
 <br>
 30. #spaceycarrot (1039) 0<br>
@@ -253,199 +250,194 @@ Recent win rates against top 10 over the past 20k matches<br>
 	1. Reclamation- (0:6)<br>
 	3. symsymmy (1:2)<br>
 	4. Parko (2:4)<br>
-	5. JDHA218 (1:7)<br>
-	8. Mutation- (2:4)<br>
+	6. Mutation- (2:4)<br>
+	7. JDHA218 (1:7)<br>
 <br>
 31. #WittyToad~657 (1037) 0<br>
 +11|-3<br>
 	3. symsymmy (1:1)<br>
-	5. JDHA218 (5:0)<br>
+	7. JDHA218 (5:0)<br>
 <br>
-32. #FeralHyena (1032) -3<br>
-+19|+14|-1|-8|-1<br>
+32. #FeralHyena (1033) +1<br>
++21|+15|0|-7|0<br>
 	1. Reclamation- (2:8)<br>
 	3. symsymmy (0:3)<br>
-	5. JDHA218 (1:1)<br>
-	6. zamrai (1:2)<br>
-	8. Mutation- (1:3)<br>
+	5. zamrai (1:2)<br>
+	6. Mutation- (1:3)<br>
+	7. JDHA218 (1:1)<br>
+	10. Orbiter (0:1)<br>
 <br>
-33. #Omnibus (1032) 0<br>
--8|-7|-19|-26|-23|-24|-19|-25|-20|-8<br>
+33. #Omnibus (1033) +1<br>
+-6|-18|-25|-22|-23|-17|-24|-19|-7|+4<br>
 	1. Reclamation- (1:2)<br>
 	2. matty (0:1)<br>
 	4. Parko (1:0)<br>
-	5. JDHA218 (5:16)<br>
-	6. zamrai (1:2)<br>
-	8. Mutation- (1:5)<br>
+	5. zamrai (1:2)<br>
+	6. Mutation- (1:5)<br>
+	7. JDHA218 (5:16)<br>
 <br>
 34. #kimchi-poker (1030) 0<br>
 +12<br>
 	1. Reclamation- (1:6)<br>
 	3. symsymmy (2:1)<br>
-	7. Jasem (3:2)<br>
-	8. Mutation- (1:1)<br>
+	6. Mutation- (1:1)<br>
+	8. Jasem (3:2)<br>
 <br>
 35. #LiquidTater~429 (1029) 0<br>
 +22|+11|+2<br>
 	1. Reclamation- (14:41)<br>
 <br>
-36. #Priceless- (1027) 0<br>
-+31|+18|0|+4|+9|+1|-1<br>
+36. #Priceless- (1027) +1<br>
++31|+17|-1|+4|+8|0|-1|0<br>
 	1. Reclamation- (5:16)<br>
-	3. symsymmy (1:8)<br>
+	3. symsymmy (3:13)<br>
 	4. Parko (0:3)<br>
-	5. JDHA218 (9:29)<br>
-	8. Mutation- (3:15)<br>
-	9. waffle~3z (2:15)<br>
+	6. Mutation- (3:15)<br>
+	7. JDHA218 (9:29)<br>
+	9. waffle~3z (5:26)<br>
 	10. Orbiter (7:22)<br>
 <br>
-37. #shruiken (1017) +3<br>
+37. #PolarBear- (1018) +10<br>
++8<br>
+	1. Reclamation- (5:21)<br>
+	3. symsymmy (1:0)<br>
+	4. Parko (0:2)<br>
+	6. Mutation- (1:10)<br>
+	7. JDHA218 (2:6)<br>
+	10. Orbiter (6:5)<br>
+<br>
+38. #shruiken (1017) 0<br>
 +1|+5<br>
 	1. Reclamation- (0:5)<br>
 	3. symsymmy (0:2)<br>
-	8. Mutation- (1:1)<br>
+	6. Mutation- (1:1)<br>
 <br>
-38. #NuMbEr1DaDDy (1016) 0<br>
+39. #NuMbEr1DaDDy (1016) 0<br>
 +17|+11|+16|+13|+14|-1|+4<br>
 	1. Reclamation- (0:15)<br>
 	2. matty (4:10)<br>
 	3. symsymmy (1:3)<br>
 	4. Parko (3:2)<br>
-	5. JDHA218 (0:1)<br>
-<br>
-39. #PolarBear- (1009) 0<br>
--1<br>
-	1. Reclamation- (5:21)<br>
-	3. symsymmy (1:0)<br>
-	4. Parko (0:2)<br>
-	5. JDHA218 (2:6)<br>
-	8. Mutation- (1:10)<br>
+	7. JDHA218 (0:1)<br>
 <br>
 40. #GenghisCon (1009) 0<br>
 +10|+1|-9|-7|+3|+8|+5|+4|+3|+1<br>
 	1. Reclamation- (1:14)<br>
 	2. matty (5:22)<br>
 	3. symsymmy (1:6)<br>
-	5. JDHA218 (1:7)<br>
-	7. Jasem (0:1)<br>
-	8. Mutation- (0:1)<br>
+	6. Mutation- (0:1)<br>
+	7. JDHA218 (1:7)<br>
+	8. Jasem (0:1)<br>
 	9. waffle~3z (1:0)<br>
 <br>
-41. #gokuuu (1008) +1<br>
+41. #gokuuu (1008) 0<br>
 +4|-3|-7|+2<br>
-	6. zamrai (0:2)<br>
+	5. zamrai (0:2)<br>
 	9. waffle~3z (2:12)<br>
 <br>
-42. #GuacNinja (1006) -1<br>
-+42|+36|+25|+20|+15|-6|-9|-10|-9|-4<br>
+42. #GuacNinja (1005) 0<br>
++41|+35|+25|+19|+14|-7|-10|-11|-10|-5<br>
 	1. Reclamation- (2:7)<br>
 	2. matty (0:2)<br>
-	5. JDHA218 (2:8)<br>
-	8. Mutation- (1:0)<br>
+	6. Mutation- (1:3)<br>
+	7. JDHA218 (2:8)<br>
 <br>
 43. #air- (994) 0<br>
 -4<br>
 	1. Reclamation- (0:2)<br>
-	5. JDHA218 (1:0)<br>
-	6. zamrai (0:3)<br>
+	5. zamrai (0:3)<br>
+	7. JDHA218 (1:0)<br>
 	10. Orbiter (0:7)<br>
 <br>
-44. #WaxMonkey~887 (993) 0<br>
--20|-28|-10|-7|-3<br>
-	1. Reclamation- (3:52)<br>
-	2. matty (0:1)<br>
-	9. waffle~3z (5:1)<br>
-<br>
-45. #Samanyolu- (992) 0<br>
+44. #Samanyolu- (992) 0<br>
 -9|-21|-18|-12|0<br>
 	1. Reclamation- (1:0)<br>
 	3. symsymmy (1:1)<br>
 	4. Parko (0:1)<br>
-	5. JDHA218 (5:19)<br>
-	8. Mutation- (13:35)<br>
+	6. Mutation- (13:35)<br>
+	7. JDHA218 (5:19)<br>
 	10. Orbiter (0:2)<br>
 <br>
-46. #blanketwolf (986) 0<br>
+45. #blanketwolf (986) 0<br>
 -13<br>
 	1. Reclamation- (2:10)<br>
-	8. Mutation- (0:1)<br>
+	6. Mutation- (0:1)<br>
 	10. Orbiter (0:1)<br>
 <br>
-47. #chrona (980) 0<br>
+46. #chrona (980) 0<br>
 -15|-1|-8|-5<br>
 	1. Reclamation- (2:9)<br>
 	2. matty (1:6)<br>
 	4. Parko (0:3)<br>
-	8. Mutation- (0:6)<br>
+	6. Mutation- (0:6)<br>
 	9. waffle~3z (0:7)<br>
 	10. Orbiter (0:1)<br>
 <br>
-48. #novuz (977) +1<br>
--12|-10|-14|-13|-17|-16|-12|-8|+2|0<br>
+47. #novuz (978) 0<br>
+-11|-9|-13|-12|-16|-15|-11|-7|+3|+1<br>
 	1. Reclamation- (0:5)<br>
 	2. matty (1:3)<br>
-	5. JDHA218 (0:1)<br>
-	6. zamrai (0:1)<br>
-	7. Jasem (0:2)<br>
-	8. Mutation- (0:2)<br>
+	5. zamrai (0:1)<br>
+	6. Mutation- (0:2)<br>
+	7. JDHA218 (0:1)<br>
 <br>
-49. #xmajortomx (973) 0<br>
+48. #xmajortomx (973) 0<br>
 -14<br>
 	1. Reclamation- (0:5)<br>
-	5. JDHA218 (0:5)<br>
+	7. JDHA218 (0:5)<br>
 <br>
-50. #rickss (960) 0<br>
+49. #rickss (960) 0<br>
 +4|0|-12|-16|-16|-2|-14|-28|-19|-2<br>
 	1. Reclamation- (0:10)<br>
 	2. matty (1:10)<br>
-	6. zamrai (1:0)<br>
-	8. Mutation- (1:3)<br>
+	5. zamrai (1:0)<br>
+	6. Mutation- (1:3)<br>
 <br>
-51. #dylanburch (958) -3<br>
--3|-4|+1|-2|+1|-10|-16|-11|-2|-2<br>
+50. #dylanburch (959) +2<br>
+-2|-3|+2|-1|+2|-9|-15|-10|-1|-1<br>
 	1. Reclamation- (0:2)<br>
 	3. symsymmy (0:3)<br>
-	5. JDHA218 (2:14)<br>
-	8. Mutation- (10:36)<br>
+	6. Mutation- (10:36)<br>
+	7. JDHA218 (2:14)<br>
 	9. waffle~3z (0:1)<br>
 	10. Orbiter (1:7)<br>
 <br>
-52. #monguesto (953) 0<br>
-+23|+11|+2|+2|+5|-5|+2|-1|0|+2<br>
+51. #monguesto (955) +1<br>
++13|+4|+3|+6|-4|+4|+1|+2|+4|+1<br>
 	1. Reclamation- (3:45)<br>
 	2. matty (2:14)<br>
 	3. symsymmy (3:8)<br>
-	5. JDHA218 (0:7)<br>
-	6. zamrai (1:2)<br>
-	8. Mutation- (1:5)<br>
+	5. zamrai (1:2)<br>
+	6. Mutation- (5:14)<br>
+	7. JDHA218 (0:7)<br>
 	10. Orbiter (0:2)<br>
 <br>
-53. #Steve333 (952) 0<br>
--29|-22|-13<br>
+52. #Steve333 (952) 0<br>
+-30|-22|-13<br>
 	1. Reclamation- (3:18)<br>
 	10. Orbiter (4:15)<br>
 <br>
-54. #pldncr (932) 0<br>
+53. #pldncr (932) 0<br>
 -48|-30|-22|-15|-1|+9|+11|+3|+14|-2<br>
 	1. Reclamation- (2:37)<br>
 	10. Orbiter (1:1)<br>
 <br>
-55. #AlGalcone (857) 0<br>
+54. #AlGalcone (857) 0<br>
 0|-2|-7|-13|-7|-5|+1|+1|+6|-2<br>
 	1. Reclamation- (15:106)<br>
 	2. matty (3:22)<br>
 	3. symsymmy (1:6)<br>
 	4. Parko (1:4)<br>
-	5. JDHA218 (3:15)<br>
-	6. zamrai (1:6)<br>
-	7. Jasem (1:8)<br>
-	8. Mutation- (1:15)<br>
+	5. zamrai (1:6)<br>
+	6. Mutation- (1:15)<br>
+	7. JDHA218 (3:15)<br>
+	8. Jasem (1:8)<br>
 	10. Orbiter (1:0)<br>
 <br>
-56. #ZEUX (855) 0<br>
--126|-112|-86|-54|-33|-23|-9|+1|-1|-3<br>
+55. #ZEUX (852) -1<br>
+-130|-116|-89|-58|-36|-26|-13|-3|-5|-7<br>
 	1. Reclamation- (2:4)<br>
 	3. symsymmy (1:0)<br>
 	4. Parko (0:12)<br>
-	5. JDHA218 (4:37)<br>
-	8. Mutation- (1:24)<br>
+	6. Mutation- (1:35)<br>
+	7. JDHA218 (4:37)<br>
