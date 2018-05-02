@@ -1,703 +1,707 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #rickss (1263) 0<br>
-+6|+3|+6|+7|+6|+5|+1|+3|-4|-2<br>
-	2. Milky007 (1:0)<br>
-	3. Yamamoto79 (1:2)<br>
-	4. Buz (1:0)<br>
-	5. flagstone (3:1)<br>
+1. #PEPrasetya (1285) 0<br>
++2|+10|+5|-7|-4|+4|+7|+3|+5|+4<br>
+	2. BillY_Patro (3:1)<br>
 	6. GroovyFlame (0:1)<br>
-	8. zebruken (0:1)<br>
-<br>
-2. #Milky007 (1256) +1<br>
-+75|+65|+49|+49|+37|+18|+17|+13|+12|+10<br>
-	1. rickss (0:1)<br>
-	3. Yamamoto79 (3:6)<br>
-	4. Buz (0:1)<br>
-	7. CloudySheet~353 (1:0)<br>
-	9. MUF (2:0)<br>
-<br>
-3. #Yamamoto79 (1252) -1<br>
-+147|+127|+94|+85|+69|+59|+54|+36|+26|+13<br>
-	1. rickss (2:1)<br>
-	2. Milky007 (6:3)<br>
-	4. Buz (5:2)<br>
-	5. flagstone (1:0)<br>
-	8. zebruken (2:0)<br>
-<br>
-4. #Buz (1225) 0<br>
-+23|+14|+11|+13|+10|+12|+15|+12|+6|+3<br>
-	1. rickss (0:1)<br>
-	2. Milky007 (1:0)<br>
-	3. Yamamoto79 (2:5)<br>
-	5. flagstone (4:1)<br>
-	6. GroovyFlame (1:0)<br>
-	8. zebruken (3:2)<br>
-	9. MUF (1:1)<br>
-	10. Tiberius88 (2:4)<br>
-<br>
-5. #flagstone (1224) -2<br>
-+1|0|0|+6|+10|+10|+11|+7|-2|0<br>
-	1. rickss (1:3)<br>
-	3. Yamamoto79 (0:1)<br>
-	4. Buz (1:4)<br>
 	7. CloudySheet~353 (0:2)<br>
-	8. zebruken (1:0)<br>
-<br>
-6. #GroovyFlame (1224) -2<br>
-+2|-3|-6|+2|-2|0|-3|+1|0|-1<br>
-	1. rickss (1:0)<br>
-	4. Buz (0:1)<br>
-	7. CloudySheet~353 (0:1)<br>
-	8. zebruken (1:2)<br>
 	9. MUF (1:0)<br>
-	10. Tiberius88 (1:1)<br>
 <br>
-7. #CloudySheet~353 (1223) 0<br>
-+210|+181|+162|+129|+86|+73|+54|+40|+24|+8<br>
-	2. Milky007 (0:1)<br>
-	5. flagstone (2:0)<br>
-	6. GroovyFlame (1:0)<br>
-	8. zebruken (1:0)<br>
-	9. MUF (0:1)<br>
-	10. Tiberius88 (0:1)<br>
+2. #BillY_Patro (1276) 0<br>
++21|+26|+22|+10|+4|+11|+3|+2|+4|+2<br>
+	1. PEPrasetya (1:3)<br>
+	3. rickss (1:0)<br>
+	5. Buz (1:1)<br>
+	7. CloudySheet~353 (1:3)<br>
 <br>
-8. #zebruken (1217) +1<br>
-+26|+19|+24|+27|+25|+17|+1|+3|+8|+5<br>
-	1. rickss (1:0)<br>
-	3. Yamamoto79 (0:2)<br>
-	4. Buz (2:3)<br>
-	5. flagstone (0:1)<br>
-	6. GroovyFlame (2:1)<br>
+3. #rickss (1263) 0<br>
++6|+3|+6|+7|+6|+5|+1|+3|-4|-2<br>
+	2. BillY_Patro (0:1)<br>
+	4. Milky007 (1:0)<br>
+	5. Buz (1:0)<br>
+	6. GroovyFlame (0:1)<br>
+	8. flagstone (3:1)<br>
+<br>
+4. #Milky007 (1253) -3<br>
++72|+61|+46|+46|+34|+15|+14|+10|+9|+6<br>
+	3. rickss (0:1)<br>
+	5. Buz (0:1)<br>
+	7. CloudySheet~353 (1:0)<br>
+	9. MUF (2:1)<br>
+<br>
+5. #Buz (1229) +4<br>
++27|+18|+15|+17|+14|+16|+19|+16|+10|+8<br>
+	2. BillY_Patro (1:1)<br>
+	3. rickss (0:1)<br>
+	4. Milky007 (1:0)<br>
+	6. GroovyFlame (1:2)<br>
+	8. flagstone (4:1)<br>
+	9. MUF (1:1)<br>
+	10. zebruken (6:2)<br>
+<br>
+6. #GroovyFlame (1228) +3<br>
++6|+1|-2|+6|+2|+4|+1|+5|+4|+3<br>
+	1. PEPrasetya (1:0)<br>
+	3. rickss (1:0)<br>
+	5. Buz (2:1)<br>
 	7. CloudySheet~353 (0:1)<br>
+	9. MUF (1:0)<br>
+	10. zebruken (2:2)<br>
 <br>
-9. #MUF (1215) +2<br>
-+10|+10|+19|+14|+4|+4|+2|-3|+3|0<br>
-	2. Milky007 (0:2)<br>
-	4. Buz (1:1)<br>
+7. #CloudySheet~353 (1228) +5<br>
++215|+186|+167|+134|+91|+78|+59|+45|+29|+13<br>
+	1. PEPrasetya (2:0)<br>
+	2. BillY_Patro (3:1)<br>
+	4. Milky007 (0:1)<br>
+	6. GroovyFlame (1:0)<br>
+	8. flagstone (1:0)<br>
+	9. MUF (0:1)<br>
+	10. zebruken (2:0)<br>
+<br>
+8. #flagstone (1224) 0<br>
+0|0|-1|+5|+10|+10|+11|+6|-3|-1<br>
+	3. rickss (1:3)<br>
+	5. Buz (1:4)<br>
+	7. CloudySheet~353 (0:1)<br>
+	10. zebruken (1:0)<br>
+<br>
+9. #MUF (1222) +3<br>
++16|+17|+25|+21|+10|+10|+8|+3|+9|+6<br>
+	1. PEPrasetya (0:1)<br>
+	4. Milky007 (1:2)<br>
+	5. Buz (1:1)<br>
 	6. GroovyFlame (0:1)<br>
 	7. CloudySheet~353 (1:0)<br>
-	10. Tiberius88 (2:0)<br>
 <br>
-10. #Tiberius88 (1210) -3<br>
-+6|+7|+26|+33|+34|+28|+25|+17|+13|-1<br>
-	4. Buz (4:2)<br>
+10. #zebruken (1215) -3<br>
++24|+17|+22|+26|+23|+15|-1|+1|+6|+3<br>
+	5. Buz (2:6)<br>
+	6. GroovyFlame (2:2)<br>
+	7. CloudySheet~353 (0:2)<br>
+	8. flagstone (0:1)<br>
+<br>
+11. #Tiberius88 (1213) -1<br>
++9|+11|+30|+37|+37|+31|+29|+20|+17|+2<br>
+	2. BillY_Patro (1:0)<br>
+	5. Buz (4:2)<br>
 	6. GroovyFlame (1:1)<br>
-	7. CloudySheet~353 (1:0)<br>
-	9. MUF (0:2)<br>
+	9. MUF (1:2)<br>
 <br>
-11. #themadox (1197) +2<br>
+12. #themadox (1197) 0<br>
 +47|+38|+23|+24|+26|+32|+23|+17|+22|+3<br>
-	1. rickss (0:3)<br>
-	3. Yamamoto79 (3:5)<br>
-	4. Buz (3:5)<br>
-	5. flagstone (1:1)<br>
-	8. zebruken (3:0)<br>
+	3. rickss (0:2)<br>
+	5. Buz (3:5)<br>
+	8. flagstone (1:1)<br>
 	9. MUF (2:0)<br>
-	10. Tiberius88 (0:3)<br>
+	10. zebruken (2:0)<br>
 <br>
-12. #tiger_style (1194) +1<br>
-+42|+40|+42|+35|+35|+22|+20|+18|+3|0<br>
-	1. rickss (0:1)<br>
-	2. Milky007 (2:2)<br>
-	4. Buz (2:2)<br>
-	5. flagstone (1:4)<br>
-	8. zebruken (1:3)<br>
+13. #tiger_style (1193) -3<br>
++40|+39|+41|+33|+33|+21|+19|+16|+2|-2<br>
+	3. rickss (0:1)<br>
+	4. Milky007 (2:2)<br>
+	5. Buz (2:2)<br>
+	8. flagstone (1:4)<br>
+	10. zebruken (1:3)<br>
 <br>
-13. #His-Majesty (1188) +3<br>
-+7|+1|+4|+14|+17|+17|+17|+10|+2|+1<br>
-	1. rickss (3:4)<br>
-	2. Milky007 (2:6)<br>
-	3. Yamamoto79 (1:1)<br>
-	4. Buz (1:4)<br>
-	5. flagstone (1:1)<br>
+14. #His-Majesty (1187) +1<br>
++7|+1|+4|+14|+17|+17|+17|+10|+2|0<br>
+	1. PEPrasetya (0:1)<br>
+	2. BillY_Patro (0:2)<br>
+	3. rickss (3:4)<br>
+	4. Milky007 (1:5)<br>
+	5. Buz (1:4)<br>
 	6. GroovyFlame (10:3)<br>
-	7. CloudySheet~353 (3:3)<br>
+	7. CloudySheet~353 (1:0)<br>
+	8. flagstone (1:1)<br>
 	9. MUF (10:3)<br>
 <br>
-14. #PR0D1GY (1181) -1<br>
-+141|+110|+57|+32|+18<br>
-	1. rickss (1:1)<br>
-	2. Milky007 (1:3)<br>
-	3. Yamamoto79 (0:1)<br>
-	4. Buz (0:1)<br>
-	5. flagstone (1:0)<br>
+15. #PR0D1GY (1184) 0<br>
++143|+113|+59|+35|+20|+2<br>
+	1. PEPrasetya (2:2)<br>
+	3. rickss (1:1)<br>
+	4. Milky007 (1:3)<br>
+	5. Buz (0:1)<br>
 	6. GroovyFlame (0:2)<br>
 	7. CloudySheet~353 (1:0)<br>
-	8. zebruken (0:2)<br>
+	8. flagstone (1:0)<br>
 	9. MUF (3:0)<br>
-	10. Tiberius88 (1:2)<br>
+	10. zebruken (0:2)<br>
 <br>
-15. #Celica (1181) +6<br>
-+19|+13|+4|+15|+18|+10|+14|+11|+3|0<br>
-	1. rickss (0:2)<br>
-	2. Milky007 (2:1)<br>
-	4. Buz (1:2)<br>
+16. #Celica (1179) 0<br>
++12|+3|+13|+16|+8|+12|+10|+2|-1|0<br>
+	1. PEPrasetya (1:2)<br>
+	2. BillY_Patro (1:1)<br>
+	3. rickss (0:2)<br>
+	4. Milky007 (2:1)<br>
+	5. Buz (1:2)<br>
 	7. CloudySheet~353 (1:3)<br>
-	8. zebruken (2:0)<br>
 	9. MUF (3:2)<br>
-	10. Tiberius88 (1:3)<br>
+	10. zebruken (2:0)<br>
 <br>
-16. #TangySoda~164 (1177) 0<br>
--3|-11|-8|-23|-13|-17|-5|-11|-11|-1<br>
-	1. rickss (1:1)<br>
-	2. Milky007 (2:3)<br>
-	3. Yamamoto79 (0:2)<br>
-	4. Buz (2:0)<br>
-	5. flagstone (1:2)<br>
+17. #TangySoda~164 (1177) 0<br>
+-4|-12|-8|-24|-14|-18|-6|-11|-12|-1<br>
+	2. BillY_Patro (3:3)<br>
+	3. rickss (1:1)<br>
+	4. Milky007 (2:3)<br>
+	5. Buz (1:0)<br>
 	7. CloudySheet~353 (2:6)<br>
-	8. zebruken (1:2)<br>
+	8. flagstone (1:2)<br>
 	9. MUF (0:1)<br>
-	10. Tiberius88 (2:1)<br>
+	10. zebruken (1:2)<br>
 <br>
-17. #stront01 (1177) -1<br>
--2|-5|-4|-3|+4|-5|-6|-8|-6|-6<br>
-	2. Milky007 (1:2)<br>
-	4. Buz (2:2)<br>
-	5. flagstone (1:1)<br>
+18. #stront01 (1175) 0<br>
+-7|-6|-5|+2|-7|-8|-10|-8|-7|0<br>
+	4. Milky007 (1:2)<br>
+	5. Buz (2:2)<br>
 	6. GroovyFlame (1:1)<br>
 	7. CloudySheet~353 (0:3)<br>
-	8. zebruken (7:1)<br>
+	8. flagstone (0:1)<br>
 	9. MUF (2:2)<br>
-	10. Tiberius88 (2:3)<br>
+	10. zebruken (7:1)<br>
 <br>
-18. #mintyfresh (1173) 0<br>
-+10|+4|+4|+17|+9|+9|+14|+9|-3|-4<br>
-	2. Milky007 (2:0)<br>
-	4. Buz (1:0)<br>
+19. #SwiftFlag~587 (1170) 0<br>
++120|+88|+58|+45|+43|+21|+15|+13|+6<br>
+	1. PEPrasetya (0:1)<br>
+	2. BillY_Patro (0:1)<br>
+	4. Milky007 (1:0)<br>
+	5. Buz (1:0)<br>
+	7. CloudySheet~353 (0:1)<br>
+	9. MUF (2:1)<br>
+<br>
+20. #mintyfresh (1168) 0<br>
+0|-1|+13|+4|+5|+10|+4|-7|-8|-4<br>
+	2. BillY_Patro (2:1)<br>
+	4. Milky007 (1:0)<br>
 	6. GroovyFlame (1:1)<br>
 	7. CloudySheet~353 (5:10)<br>
 	9. MUF (0:1)<br>
-	10. Tiberius88 (2:0)<br>
 <br>
-19. #TidyFox-415 (1165) +1<br>
-+42|+29|+15|+17|+13|+21|+15|+12|-2|+1<br>
-	2. Milky007 (1:2)<br>
-	3. Yamamoto79 (0:2)<br>
-	4. Buz (2:4)<br>
-	5. flagstone (2:1)<br>
+21. #TidyFox-415 (1161) -2<br>
++38|+25|+10|+13|+9|+17|+11|+8|-6|-3<br>
+	2. BillY_Patro (0:1)<br>
+	4. Milky007 (0:1)<br>
+	5. Buz (2:4)<br>
 	6. GroovyFlame (0:1)<br>
-	8. zebruken (1:0)<br>
+	8. flagstone (2:1)<br>
 	9. MUF (3:2)<br>
-	10. Tiberius88 (1:0)<br>
+	10. zebruken (2:0)<br>
 <br>
-20. #BDAT10 (1150) 0<br>
-+13|+2|0|+9|+7|+11|+7|+5|+3|-1<br>
-	1. rickss (3:1)<br>
-	2. Milky007 (1:0)<br>
-	3. Yamamoto79 (5:1)<br>
-	4. Buz (0:1)<br>
-	5. flagstone (0:3)<br>
-	6. GroovyFlame (1:0)<br>
-	7. CloudySheet~353 (1:0)<br>
-	8. zebruken (0:1)<br>
-	9. MUF (0:1)<br>
-<br>
-21. #Kotori (1150) 0<br>
-+125|+99|+80|+63|+33|+13|+2<br>
-	1. rickss (2:0)<br>
-	2. Milky007 (2:2)<br>
-	3. Yamamoto79 (0:1)<br>
-	4. Buz (0:1)<br>
+22. #Kotori (1152) +3<br>
++128|+102|+82|+65|+36|+15|+4<br>
+	2. BillY_Patro (0:2)<br>
+	3. rickss (2:0)<br>
+	4. Milky007 (2:1)<br>
+	5. Buz (0:1)<br>
 	6. GroovyFlame (0:4)<br>
 	7. CloudySheet~353 (0:4)<br>
-	8. zebruken (1:3)<br>
 	9. MUF (1:0)<br>
-	10. Tiberius88 (2:0)<br>
+	10. zebruken (4:3)<br>
 <br>
-22. #jerocco (1149) +1<br>
--8|-6|-9|-12|-4|-2|+11|+2|-3|-2<br>
-	1. rickss (2:3)<br>
-	2. Milky007 (1:0)<br>
-	4. Buz (5:4)<br>
-	5. flagstone (0:2)<br>
+23. #BDAT10 (1150) 0<br>
++13|+2|0|+9|+7|+11|+7|+5|+3|-1<br>
+	2. BillY_Patro (0:2)<br>
+	3. rickss (3:1)<br>
+	4. Milky007 (1:0)<br>
+	5. Buz (0:1)<br>
+	6. GroovyFlame (1:0)<br>
+	7. CloudySheet~353 (1:0)<br>
+	8. flagstone (0:1)<br>
+	9. MUF (0:1)<br>
+	10. zebruken (0:1)<br>
+<br>
+24. #HollowPocke~930 (1150) +11<br>
++131|+98|+74|+70|+51|+39|+43|+25|+6<br>
+	1. PEPrasetya (1:0)<br>
+	2. BillY_Patro (2:0)<br>
+	3. rickss (0:1)<br>
+	4. Milky007 (0:1)<br>
+	5. Buz (1:2)<br>
+	7. CloudySheet~353 (1:1)<br>
+	8. flagstone (0:1)<br>
+	10. zebruken (1:1)<br>
+<br>
+25. #SweetPilot~411 (1147) 0<br>
++107|+56|+27|+1<br>
+	5. Buz (2:1)<br>
+	6. GroovyFlame (2:3)<br>
+	8. flagstone (1:1)<br>
+	9. MUF (3:0)<br>
+<br>
+26. #jerocco (1145) -2<br>
+-13|-11|-13|-16|-9|-6|+6|-3|-7|-7<br>
+	2. BillY_Patro (0:2)<br>
+	3. rickss (2:3)<br>
+	4. Milky007 (0:1)<br>
+	5. Buz (4:4)<br>
 	6. GroovyFlame (0:5)<br>
 	7. CloudySheet~353 (0:2)<br>
-	8. zebruken (2:2)<br>
-	10. Tiberius88 (1:6)<br>
+	8. flagstone (0:2)<br>
+	10. zebruken (2:2)<br>
 <br>
-23. #farzip (1146) +1<br>
-+12|+12|+11|+9|+18|+15|+10|+10|+8|+4<br>
-	1. rickss (0:1)<br>
-	2. Milky007 (3:2)<br>
-	3. Yamamoto79 (0:1)<br>
-	4. Buz (1:1)<br>
+27. #freddyx (1144) 0<br>
++78|+65|+55|+33|+22|+23|+24|+9|-2|+4<br>
+	4. Milky007 (0:2)<br>
+<br>
+28. #RaggedTramp~229 (1142) 0<br>
++126|+106|+96|+76|+55|+42|+24|+18|+20|0<br>
+	3. rickss (2:1)<br>
+	5. Buz (0:4)<br>
+	6. GroovyFlame (0:2)<br>
+<br>
+29. #farzip (1142) 0<br>
++8|+7|+5|+14|+11|+5|+6|+4|-1|0<br>
+	1. PEPrasetya (0:1)<br>
+	2. BillY_Patro (1:1)<br>
+	3. rickss (0:1)<br>
+	4. Milky007 (3:2)<br>
+	5. Buz (1:1)<br>
 	6. GroovyFlame (3:3)<br>
 	7. CloudySheet~353 (3:2)<br>
 	9. MUF (2:0)<br>
-	10. Tiberius88 (0:3)<br>
 <br>
-24. #SweetPilot~411 (1146) +4<br>
-+106|+55|+26|0<br>
-	3. Yamamoto79 (2:0)<br>
-	4. Buz (2:1)<br>
-	5. flagstone (1:1)<br>
-	6. GroovyFlame (2:3)<br>
-	9. MUF (3:0)<br>
+30. #TinyOwl~323 (1140) +1<br>
++42|+32|+29|+27|+27|+16|+3|+4|+9|0<br>
+	2. BillY_Patro (0:2)<br>
+	3. rickss (0:1)<br>
+	4. Milky007 (2:10)<br>
+	5. Buz (1:5)<br>
+	6. GroovyFlame (3:7)<br>
+	7. CloudySheet~353 (3:6)<br>
+	8. flagstone (0:1)<br>
+	9. MUF (5:6)<br>
+	10. zebruken (2:1)<br>
 <br>
-25. #freddyx (1144) -1<br>
-+79|+65|+56|+34|+22|+24|+25|+10|-1|+5<br>
-	2. Milky007 (0:2)<br>
-	10. Tiberius88 (1:2)<br>
-<br>
-26. #RaggedTramp~229 (1142) 0<br>
-+126|+106|+96|+76|+55|+42|+24|+18|+20|0<br>
-	1. rickss (2:1)<br>
-	4. Buz (0:4)<br>
-	6. GroovyFlame (0:2)<br>
-<br>
-27. #WateryApple~232 (1139) 0<br>
+31. #WateryApple~232 (1139) 0<br>
 +129|+109|+81|+63|+42|+16|+7|0<br>
-	4. Buz (0:1)<br>
+	5. Buz (0:1)<br>
 	6. GroovyFlame (1:0)<br>
 	7. CloudySheet~353 (0:1)<br>
-	8. zebruken (0:1)<br>
-	9. MUF (1:5)<br>
+	9. MUF (0:2)<br>
+	10. zebruken (0:1)<br>
 <br>
-28. #HollowPocke~930 (1139) 0<br>
-+120|+87|+63|+59|+40|+28|+32|+14|-6<br>
-	1. rickss (0:1)<br>
-	2. Milky007 (0:1)<br>
-	3. Yamamoto79 (1:0)<br>
-	4. Buz (1:1)<br>
-	5. flagstone (1:5)<br>
-	7. CloudySheet~353 (1:1)<br>
-	8. zebruken (1:1)<br>
-	10. Tiberius88 (3:1)<br>
-<br>
-29. #fishwalker4 (1137) 0<br>
+32. #fishwalker4 (1137) 0<br>
 +133|+88|+27|+5<br>
-	1. rickss (0:2)<br>
-	3. Yamamoto79 (0:1)<br>
+	2. BillY_Patro (0:1)<br>
+	3. rickss (0:2)<br>
 	7. CloudySheet~353 (0:1)<br>
 	9. MUF (0:1)<br>
-	10. Tiberius88 (0:1)<br>
 <br>
-30. #rotzo (1137) 0<br>
+33. #rotzo (1137) 0<br>
 +68|+54|+29|+31|+31|+23|+15|0|+4|0<br>
-	1. rickss (1:1)<br>
-	3. Yamamoto79 (0:1)<br>
-	4. Buz (0:1)<br>
+	2. BillY_Patro (0:1)<br>
+	3. rickss (1:1)<br>
+	5. Buz (0:1)<br>
 	6. GroovyFlame (1:0)<br>
-	8. zebruken (0:2)<br>
-	10. Tiberius88 (2:2)<br>
+	10. zebruken (0:2)<br>
 <br>
-31. #JSU332017 (1132) -2<br>
-+20|+2|+2|+3|+12|+15|+25|+25|+11|-2<br>
-	1. rickss (4:2)<br>
-	2. Milky007 (0:1)<br>
-	3. Yamamoto79 (1:0)<br>
-	7. CloudySheet~353 (0:1)<br>
-	8. zebruken (1:2)<br>
-	9. MUF (1:3)<br>
-	10. Tiberius88 (1:0)<br>
+34. #Capernicus (1136) +2<br>
++102|+83|+64|+44|+23<br>
+	1. PEPrasetya (0:2)<br>
+	4. Milky007 (0:2)<br>
+	5. Buz (3:0)<br>
+	6. GroovyFlame (0:3)<br>
+	7. CloudySheet~353 (2:4)<br>
+	8. flagstone (0:1)<br>
+	9. MUF (1:1)<br>
 <br>
-32. #RoyalHemlock (1131) 0<br>
-+111|+97|+81|+74|+55|+35|+27|+28|+13|-2<br>
-	3. Yamamoto79 (1:0)<br>
-	6. GroovyFlame (1:0)<br>
-	7. CloudySheet~353 (0:1)<br>
-	8. zebruken (0:1)<br>
-	9. MUF (1:2)<br>
-	10. Tiberius88 (0:2)<br>
-<br>
-33. #smurfa (1131) 0<br>
-+6|-5|-18|-20|-15|-12|-6|-11|-5|-1<br>
-	1. rickss (2:1)<br>
-	4. Buz (0:2)<br>
+35. #smurfa (1135) +2<br>
++10|-1|-14|-16|-11|-8|-2|-8|-1|+2<br>
+	2. BillY_Patro (0:1)<br>
+	3. rickss (2:1)<br>
+	5. Buz (0:3)<br>
 	6. GroovyFlame (2:0)<br>
 	7. CloudySheet~353 (0:1)<br>
-	8. zebruken (1:0)<br>
-	10. Tiberius88 (1:4)<br>
+	10. zebruken (1:0)<br>
 <br>
-34. #Capernicus (1130) +1<br>
-+95|+76|+58|+38|+16<br>
-	2. Milky007 (0:2)<br>
-	4. Buz (3:0)<br>
-	5. flagstone (0:1)<br>
-	6. GroovyFlame (0:1)<br>
-	7. CloudySheet~353 (2:4)<br>
-	9. MUF (1:1)<br>
-	10. Tiberius88 (0:2)<br>
+36. #RoyalHemlock (1130) -1<br>
++109|+96|+79|+72|+53|+33|+26|+26|+11|-4<br>
+	6. GroovyFlame (1:0)<br>
+	7. CloudySheet~353 (0:1)<br>
+	9. MUF (1:2)<br>
+	10. zebruken (0:1)<br>
 <br>
-35. #SnatchWeasel (1130) 0<br>
+37. #SnatchWeasel (1129) +1<br>
 +121|+94|+75|+56|+30|+16|+7<br>
-	1. rickss (1:1)<br>
-	2. Milky007 (2:1)<br>
-	4. Buz (0:2)<br>
-	5. flagstone (0:1)<br>
+	3. rickss (1:1)<br>
+	4. Milky007 (2:1)<br>
+	5. Buz (0:2)<br>
 	7. CloudySheet~353 (0:5)<br>
-	10. Tiberius88 (1:1)<br>
+	8. flagstone (0:1)<br>
 <br>
-36. #Star69lord (1128) 0<br>
-+132|+107|+99|+94|+83|+63|+47|+29|+14|+7<br>
-	2. Milky007 (0:1)<br>
-	3. Yamamoto79 (1:2)<br>
-	4. Buz (1:2)<br>
-	5. flagstone (1:2)<br>
-	8. zebruken (2:2)<br>
-	10. Tiberius88 (0:3)<br>
+38. #Star69lord (1129) 0<br>
++133|+108|+100|+95|+84|+64|+48|+30|+15|+8<br>
+	4. Milky007 (0:1)<br>
+	8. flagstone (1:2)<br>
+	10. zebruken (0:1)<br>
 <br>
-37. #thereason (1128) -4<br>
--3|-1|+6|+5|+3|0|+2|-1|+5|-3<br>
-	1. rickss (1:5)<br>
-	2. Milky007 (0:1)<br>
-	6. GroovyFlame (0:1)<br>
-	7. CloudySheet~353 (1:5)<br>
-	8. zebruken (0:2)<br>
-<br>
-38. #OBTHR33 (1127) +5<br>
-+92|+76|+64|+46|+37|+28|+23|+27|+14|+12<br>
-	1. rickss (1:1)<br>
-	3. Yamamoto79 (0:3)<br>
-	4. Buz (0:2)<br>
-	5. flagstone (3:1)<br>
-	6. GroovyFlame (0:1)<br>
-	7. CloudySheet~353 (3:1)<br>
-	8. zebruken (1:3)<br>
-	9. MUF (0:1)<br>
-	10. Tiberius88 (7:6)<br>
-<br>
-39. #TinyOwl~323 (1126) 0<br>
-+20|+29|+18|+16|+13|+14|+2|-11|-10|-4<br>
-	1. rickss (0:1)<br>
-	2. Milky007 (2:10)<br>
-	3. Yamamoto79 (0:2)<br>
-	4. Buz (1:6)<br>
-	5. flagstone (0:1)<br>
-	6. GroovyFlame (3:7)<br>
-	7. CloudySheet~353 (3:3)<br>
-	8. zebruken (1:1)<br>
-	9. MUF (5:6)<br>
-	10. Tiberius88 (2:6)<br>
-<br>
-40. #worldwarX (1121) 0<br>
--4|-2|+1|-6|-1|+6|-7|-13|-2|+1<br>
-	1. rickss (2:3)<br>
-	2. Milky007 (2:4)<br>
-	3. Yamamoto79 (0:3)<br>
-	4. Buz (2:1)<br>
+39. #worldwarX (1128) +1<br>
++5|+8|0|+6|+12|0|-6|+4|+8|+1<br>
+	2. BillY_Patro (2:1)<br>
+	3. rickss (2:3)<br>
+	4. Milky007 (1:3)<br>
+	5. Buz (2:1)<br>
 	6. GroovyFlame (3:0)<br>
 	7. CloudySheet~353 (1:1)<br>
-	8. zebruken (1:0)<br>
-	9. MUF (1:1)<br>
-	10. Tiberius88 (1:0)<br>
+	9. MUF (2:2)<br>
+	10. zebruken (1:0)<br>
 <br>
-41. #sharkman13 (1113) 0<br>
-+105|+78|+55|+41|+36|+24|+16|+15|+5<br>
-	1. rickss (0:2)<br>
-	2. Milky007 (0:3)<br>
-	3. Yamamoto79 (2:0)<br>
-	4. Buz (0:1)<br>
-	6. GroovyFlame (0:3)<br>
-	7. CloudySheet~353 (1:2)<br>
-	8. zebruken (0:1)<br>
-	10. Tiberius88 (1:3)<br>
+40. #JSU332017 (1127) -2<br>
++15|-2|-2|-2|+8|+11|+20|+20|+6|-7<br>
+	2. BillY_Patro (2:5)<br>
+	3. rickss (4:2)<br>
+	4. Milky007 (0:1)<br>
+	7. CloudySheet~353 (0:2)<br>
+	9. MUF (1:3)<br>
+	10. zebruken (1:2)<br>
 <br>
-42. #GrayFork~576 (1111) -1<br>
-+98|+48|+10<br>
-	1. rickss (0:2)<br>
-	3. Yamamoto79 (0:1)<br>
-	4. Buz (1:0)<br>
-	5. flagstone (2:0)<br>
-	6. GroovyFlame (2:3)<br>
-	8. zebruken (0:1)<br>
+41. #thereason (1126) -1<br>
+-2|+4|+4|+2|-1|+1|-3|+3|-4|+1<br>
+	3. rickss (1:5)<br>
+	4. Milky007 (0:1)<br>
+	6. GroovyFlame (0:1)<br>
+	7. CloudySheet~353 (1:5)<br>
+	10. zebruken (0:2)<br>
 <br>
-43. #SaucyFlame~407 (1109) +1<br>
-+71|+52|+23|+10|0<br>
-	1. rickss (0:1)<br>
-	3. Yamamoto79 (1:2)<br>
-	4. Buz (1:1)<br>
+42. #OBTHR33 (1124) 0<br>
++89|+74|+61|+43|+34|+25|+20|+24|+11|+10<br>
+	2. BillY_Patro (1:2)<br>
+	3. rickss (1:1)<br>
+	5. Buz (0:2)<br>
+	6. GroovyFlame (0:1)<br>
+	7. CloudySheet~353 (1:0)<br>
+	8. flagstone (3:1)<br>
+	9. MUF (0:2)<br>
+	10. zebruken (1:1)<br>
+<br>
+43. #GrayFork~576 (1114) 0<br>
++101|+51|+13<br>
+	1. PEPrasetya (2:0)<br>
+	3. rickss (0:2)<br>
+	5. Buz (1:0)<br>
+	6. GroovyFlame (1:2)<br>
+	8. flagstone (2:0)<br>
+	10. zebruken (0:1)<br>
+<br>
+44. #SaucyFlame~407 (1113) +1<br>
++75|+56|+28|+15|+5|-1<br>
+	3. rickss (0:1)<br>
+	5. Buz (1:2)<br>
 	6. GroovyFlame (2:0)<br>
 	7. CloudySheet~353 (0:2)<br>
-	8. zebruken (0:1)<br>
 	9. MUF (0:1)<br>
+	10. zebruken (0:1)<br>
 <br>
-44. #ZippyComb~184 (1101) +1<br>
-+68|+43|+14<br>
-	1. rickss (0:3)<br>
-	2. Milky007 (1:3)<br>
+45. #sharkman13 (1113) +1<br>
++106|+78|+56|+42|+36|+25|+17|+15|+6<br>
+	3. rickss (0:2)<br>
+	4. Milky007 (0:1)<br>
+	5. Buz (0:1)<br>
+	6. GroovyFlame (0:1)<br>
+	7. CloudySheet~353 (1:2)<br>
+	10. zebruken (0:1)<br>
+<br>
+46. #ZippyComb~184 (1104) +2<br>
++71|+45|+17<br>
+	1. PEPrasetya (1:2)<br>
+	3. rickss (0:3)<br>
+	4. Milky007 (1:2)<br>
 	7. CloudySheet~353 (0:5)<br>
 	9. MUF (1:1)<br>
-	10. Tiberius88 (0:2)<br>
 <br>
-45. #DryMango~917 (1092) +3<br>
-+91|+73|+52|+44|+36|+38|+20|+6<br>
-	1. rickss (1:3)<br>
-	2. Milky007 (0:2)<br>
-	6. GroovyFlame (1:3)<br>
-	7. CloudySheet~353 (1:2)<br>
-	9. MUF (1:1)<br>
-	10. Tiberius88 (2:0)<br>
+47. #Benman3000 (1096) -1<br>
++36|+39|+41|+39|+28|+35|+33|+21|-3|-3<br>
+	5. Buz (0:2)<br>
+	6. GroovyFlame (0:2)<br>
+	8. flagstone (0:3)<br>
 <br>
-46. #ParaDroid72 (1091) 0<br>
-+78|+65|+55|+31|+22|0<br>
-	3. Yamamoto79 (1:0)<br>
-	8. zebruken (1:0)<br>
-	9. MUF (0:2)<br>
-	10. Tiberius88 (1:1)<br>
-<br>
-47. #Ch1kn (1088) +6<br>
-+89|+54|+36|+9<br>
-	1. rickss (1:2)<br>
-	2. Milky007 (0:1)<br>
-	3. Yamamoto79 (0:1)<br>
-	4. Buz (1:0)<br>
-	5. flagstone (1:1)<br>
+48. #Ch1kn (1095) 0<br>
++95|+61|+42|+15<br>
+	1. PEPrasetya (0:1)<br>
+	2. BillY_Patro (1:0)<br>
+	3. rickss (1:1)<br>
+	4. Milky007 (0:1)<br>
+	5. Buz (1:0)<br>
 	6. GroovyFlame (2:3)<br>
 	7. CloudySheet~353 (1:0)<br>
+	8. flagstone (1:1)<br>
 	9. MUF (1:0)<br>
-	10. Tiberius88 (0:3)<br>
 <br>
-48. #AgoraX (1084) -1<br>
-+69|+60|+56|+34|+14|-1<br>
-	3. Yamamoto79 (0:1)<br>
-	4. Buz (0:1)<br>
+49. #ParaDroid72 (1093) +1<br>
++79|+66|+57|+32|+24|+2<br>
+	1. PEPrasetya (2:6)<br>
+	2. BillY_Patro (0:2)<br>
+	9. MUF (0:2)<br>
+	10. zebruken (1:0)<br>
+<br>
+50. #DryMango~917 (1092) 0<br>
++91|+73|+52|+44|+36|+38|+20|+6<br>
+	2. BillY_Patro (0:2)<br>
+	3. rickss (1:3)<br>
+	4. Milky007 (0:2)<br>
+	6. GroovyFlame (1:3)<br>
+	7. CloudySheet~353 (1:2)<br>
+<br>
+51. #TiMoGeN51 (1091) 0<br>
++65|+40|+24|+2<br>
+	3. rickss (0:1)<br>
+	5. Buz (0:2)<br>
+	7. CloudySheet~353 (4:2)<br>
+	8. flagstone (1:1)<br>
+	10. zebruken (1:0)<br>
+<br>
+52. #AbsurdBeef~399 (1087) -1<br>
++85|+81|+60|+53|+48|+48|+52|+38|+24|+4<br>
+	2. BillY_Patro (0:2)<br>
+	4. Milky007 (0:1)<br>
+	7. CloudySheet~353 (0:1)<br>
+<br>
+53. #AgoraX (1083) 0<br>
++68|+59|+55|+33|+13|-3<br>
+	5. Buz (0:1)<br>
 	6. GroovyFlame (2:1)<br>
 	7. CloudySheet~353 (1:3)<br>
-	8. zebruken (1:0)<br>
+	10. zebruken (1:0)<br>
 <br>
-49. #Astinax (1084) +1<br>
-+31|+19|+1|0|+4|0|-3|-12|-4|0<br>
-	4. Buz (0:5)<br>
-	6. GroovyFlame (0:2)<br>
-	8. zebruken (1:0)<br>
-	9. MUF (1:1)<br>
-	10. Tiberius88 (2:1)<br>
-<br>
-50. #dadedread786 (1082) 0<br>
-+63|+58|+50|+26|+16|+16|-1<br>
-	1. rickss (0:1)<br>
-	4. Buz (2:1)<br>
-	5. flagstone (0:1)<br>
-	10. Tiberius88 (3:5)<br>
-<br>
-51. #QuirkyToad~911 (1079) -2<br>
-+76|+67|+57|+35|+31|+28|+29|+8|-1|-1<br>
-	3. Yamamoto79 (2:2)<br>
-	5. flagstone (1:0)<br>
+54. #QuirkyToad~911 (1080) +3<br>
++77|+69|+58|+36|+32|+29|+30|+9|0|0<br>
 	6. GroovyFlame (0:1)<br>
 	7. CloudySheet~353 (0:1)<br>
-	8. zebruken (0:1)<br>
+	8. flagstone (1:0)<br>
 	9. MUF (0:2)<br>
-	10. Tiberius88 (1:3)<br>
+	10. zebruken (0:1)<br>
 <br>
-52. #buzzderank (1076) 0<br>
+55. #dfxe (1079) -1<br>
++54|+33|+6<br>
+	2. BillY_Patro (1:1)<br>
+	3. rickss (2:2)<br>
+	4. Milky007 (1:2)<br>
+	5. Buz (0:1)<br>
+	7. CloudySheet~353 (1:1)<br>
+	9. MUF (9:1)<br>
+	10. zebruken (1:0)<br>
+<br>
+56. #buzzderank (1076) 0<br>
 +47|+27|+21|+15|+3<br>
-	2. Milky007 (1:1)<br>
-	3. Yamamoto79 (0:2)<br>
-	5. flagstone (1:0)<br>
+	2. BillY_Patro (1:0)<br>
 	6. GroovyFlame (0:1)<br>
 	7. CloudySheet~353 (1:2)<br>
-	8. zebruken (0:1)<br>
-	10. Tiberius88 (1:3)<br>
+	8. flagstone (1:0)<br>
 <br>
-53. #jozin (1074) 0<br>
-+61|+52|+31|+24|+6|-3<br>
-	2. Milky007 (1:7)<br>
-	4. Buz (0:1)<br>
-	5. flagstone (0:4)<br>
-	6. GroovyFlame (1:6)<br>
-	8. zebruken (1:0)<br>
-	10. Tiberius88 (2:3)<br>
-<br>
-54. #PuffyBread~392 (1073) 0<br>
-+67|+53|+49|+37|+7<br>
-	1. rickss (1:2)<br>
-	6. GroovyFlame (1:1)<br>
-	7. CloudySheet~353 (1:2)<br>
-<br>
-55. #LobsterPete (1073) 0<br>
-+61|+56|+26|+3<br>
-	5. flagstone (1:0)<br>
+57. #LobsterPete (1076) +2<br>
++64|+58|+29|+6<br>
+	1. PEPrasetya (1:0)<br>
+	2. BillY_Patro (1:3)<br>
 	7. CloudySheet~353 (0:1)<br>
-	10. Tiberius88 (1:0)<br>
+	8. flagstone (1:0)<br>
 <br>
-56. #dfxe (1073) 0<br>
-+48|+26|0<br>
-	1. rickss (3:6)<br>
-	2. Milky007 (1:2)<br>
-	4. Buz (0:1)<br>
-	7. CloudySheet~353 (1:1)<br>
-	8. zebruken (1:0)<br>
-	9. MUF (9:1)<br>
-	10. Tiberius88 (1:0)<br>
+58. #jozin (1074) 0<br>
++61|+52|+31|+24|+6|-3<br>
+	4. Milky007 (1:5)<br>
+	5. Buz (0:1)<br>
+	6. GroovyFlame (1:6)<br>
+	8. flagstone (0:4)<br>
+	10. zebruken (1:0)<br>
 <br>
-57. #KITTEH11 (1070) +1<br>
-+68|+53|+41|+25|+13|+3<br>
-	5. flagstone (0:2)<br>
+59. #KITTEH11 (1070) -2<br>
++68|+52|+41|+25|+13|+3<br>
+	1. PEPrasetya (0:3)<br>
+	2. BillY_Patro (0:2)<br>
 	7. CloudySheet~353 (1:3)<br>
+	8. flagstone (0:1)<br>
 	9. MUF (3:13)<br>
 <br>
-58. #Asbo (1070) +2<br>
-+61|+33|+24|0<br>
-	4. Buz (1:0)<br>
-	7. CloudySheet~353 (1:2)<br>
-	8. zebruken (0:1)<br>
-	9. MUF (0:1)<br>
-	10. Tiberius88 (1:1)<br>
-<br>
-59. #jib_bles (1069) 0<br>
-+57|+34|+10<br>
-	1. rickss (3:6)<br>
-	2. Milky007 (1:1)<br>
-	3. Yamamoto79 (0:3)<br>
-	5. flagstone (2:0)<br>
+60. #jib_bles (1068) 0<br>
++56|+33|+9<br>
+	2. BillY_Patro (0:2)<br>
+	3. rickss (3:2)<br>
+	4. Milky007 (0:1)<br>
 	6. GroovyFlame (1:1)<br>
 	7. CloudySheet~353 (1:1)<br>
-	10. Tiberius88 (1:4)<br>
+	8. flagstone (2:0)<br>
 <br>
-60. #RockySpruce~290 (1059) +2<br>
-+57|+56|+56|+40|+39|+38|+28|+17|+7<br>
-	1. rickss (0:1)<br>
-	2. Milky007 (0:2)<br>
-	4. Buz (0:4)<br>
-	5. flagstone (0:1)<br>
-	6. GroovyFlame (1:0)<br>
-	7. CloudySheet~353 (2:0)<br>
+61. #Asbo (1068) -4<br>
++59|+31|+22|-3<br>
+	1. PEPrasetya (0:3)<br>
+	5. Buz (1:0)<br>
+	7. CloudySheet~353 (1:2)<br>
+	9. MUF (0:1)<br>
 <br>
-61. #recencjusz (1054) 0<br>
-+35|+5<br>
-	1. rickss (0:1)<br>
-	4. Buz (1:0)<br>
-	5. flagstone (2:2)<br>
-	7. CloudySheet~353 (0:2)<br>
-	10. Tiberius88 (0:1)<br>
-<br>
-62. #MellowLeaf~363 (1053) 0<br>
-+48|+21|+10<br>
-	4. Buz (2:0)<br>
-	7. CloudySheet~353 (2:2)<br>
-	8. zebruken (0:1)<br>
+62. #SmallHam~985 (1063) 0<br>
++24<br>
+	1. PEPrasetya (0:1)<br>
+	5. Buz (1:0)<br>
+	6. GroovyFlame (0:2)<br>
 	9. MUF (1:0)<br>
 <br>
-63. #k30 (1049) 0<br>
-+47|+46|+39|+26|+4|0|0<br>
-	1. rickss (0:1)<br>
-	3. Yamamoto79 (0:9)<br>
-	4. Buz (3:6)<br>
-	5. flagstone (1:4)<br>
-	6. GroovyFlame (3:8)<br>
-	8. zebruken (3:2)<br>
-	10. Tiberius88 (1:9)<br>
+63. #RockySpruce~290 (1063) -3<br>
++61|+60|+60|+44|+43|+42|+32|+21|+11|+1<br>
+	1. PEPrasetya (2:2)<br>
+	2. BillY_Patro (0:2)<br>
+	3. rickss (0:1)<br>
+	5. Buz (0:4)<br>
+	6. GroovyFlame (1:0)<br>
+	7. CloudySheet~353 (2:0)<br>
+	8. flagstone (0:1)<br>
+	9. MUF (0:4)<br>
+	10. zebruken (0:3)<br>
 <br>
-64. #Blackdwarf (1047) -1<br>
-+48|+35|+21|+8|0<br>
-	4. Buz (1:2)<br>
+64. #recencjusz (1060) 0<br>
++40|+11<br>
+	1. PEPrasetya (1:0)<br>
+	3. rickss (0:1)<br>
+	5. Buz (1:0)<br>
+	7. CloudySheet~353 (0:2)<br>
+	8. flagstone (2:2)<br>
+<br>
+65. #k30 (1058) +7<br>
++55|+55|+48|+35|+12|+8|+8<br>
+	1. PEPrasetya (2:6)<br>
+	3. rickss (0:1)<br>
+	5. Buz (2:3)<br>
+	6. GroovyFlame (3:9)<br>
+	8. flagstone (1:4)<br>
+	10. zebruken (3:1)<br>
+<br>
+66. #MellowLeaf~363 (1053) 0<br>
++48|+21|+10<br>
+	1. PEPrasetya (2:0)<br>
+	5. Buz (2:0)<br>
+	7. CloudySheet~353 (2:2)<br>
+	9. MUF (1:0)<br>
+	10. zebruken (0:1)<br>
+<br>
+67. #Blackdwarf (1051) +2<br>
++53|+39|+25|+13|+4<br>
+	1. PEPrasetya (3:3)<br>
+	5. Buz (1:2)<br>
 	7. CloudySheet~353 (1:3)<br>
-	8. zebruken (1:1)<br>
-	9. MUF (1:1)<br>
-	10. Tiberius88 (0:4)<br>
+	9. MUF (0:2)<br>
+	10. zebruken (1:1)<br>
 <br>
-65. #FlatAurora~205 (1045) -1<br>
-+36|+16|0<br>
-	1. rickss (0:2)<br>
-	2. Milky007 (0:4)<br>
-	3. Yamamoto79 (1:0)<br>
-	5. flagstone (1:2)<br>
+68. #FlatAurora~205 (1049) 0<br>
++40|+20|+4<br>
+	1. PEPrasetya (3:0)<br>
+	3. rickss (0:2)<br>
+	4. Milky007 (0:4)<br>
+	8. flagstone (1:2)<br>
 	9. MUF (1:2)<br>
-	10. Tiberius88 (0:3)<br>
 <br>
-66. #LordSith666 (1044) +1<br>
-+19<br>
-	3. Yamamoto79 (0:1)<br>
-	4. Buz (0:1)<br>
-	5. flagstone (1:0)<br>
-	6. GroovyFlame (2:0)<br>
+69. #StcasTAN (1045) +2<br>
++12|0<br>
+	3. rickss (1:0)<br>
+	4. Milky007 (2:1)<br>
+	5. Buz (0:2)<br>
+	6. GroovyFlame (4:1)<br>
+	7. CloudySheet~353 (0:4)<br>
+	8. flagstone (1:1)<br>
+	9. MUF (1:1)<br>
+<br>
+70. #LordSith666 (1043) +1<br>
++17<br>
+	5. Buz (0:1)<br>
+	6. GroovyFlame (2:1)<br>
 	7. CloudySheet~353 (1:1)<br>
-	8. zebruken (2:2)<br>
-	10. Tiberius88 (0:2)<br>
+	8. flagstone (1:0)<br>
+	10. zebruken (2:2)<br>
 <br>
-67. #SquareRiddl~670 (1039) 0<br>
-+33|+27|+21|0<br>
-	1. rickss (0:1)<br>
-	4. Buz (0:4)<br>
-	5. flagstone (1:2)<br>
+71. #CalmMango~851 (1041) 0<br>
++44|+37|+24|+31|+24|+20<br>
+	5. Buz (1:0)<br>
+	10. zebruken (1:1)<br>
+<br>
+72. #AbsurdFlute~447 (1037) +3<br>
++29|+18<br>
+	2. BillY_Patro (0:3)<br>
+	3. rickss (0:1)<br>
+	4. Milky007 (1:1)<br>
+	6. GroovyFlame (1:1)<br>
+	7. CloudySheet~353 (0:1)<br>
+	9. MUF (0:1)<br>
+	10. zebruken (0:1)<br>
+<br>
+73. #DryCloud~715 (1036) -4<br>
++20|+13|+10<br>
+	1. PEPrasetya (0:1)<br>
+	2. BillY_Patro (0:1)<br>
+	4. Milky007 (0:4)<br>
+	5. Buz (0:2)<br>
+	7. CloudySheet~353 (0:2)<br>
+	9. MUF (2:3)<br>
+	10. zebruken (1:3)<br>
+<br>
+74. #SquareRiddl~670 (1034) -3<br>
++28|+22|+16|-5<br>
+	2. BillY_Patro (0:1)<br>
+	3. rickss (0:1)<br>
+	5. Buz (0:5)<br>
 	6. GroovyFlame (2:0)<br>
 	7. CloudySheet~353 (2:3)<br>
-	8. zebruken (1:2)<br>
-	10. Tiberius88 (0:2)<br>
+	8. flagstone (1:2)<br>
+	10. zebruken (1:4)<br>
 <br>
-68. #CalmMango~851 (1035) 0<br>
-+38|+31|+18|+25|+18|+14<br>
-	4. Buz (1:2)<br>
-	8. zebruken (1:1)<br>
-	10. Tiberius88 (0:4)<br>
-<br>
-69. #AbsurdFlute~447 (1034) 0<br>
-+26|+15<br>
-	1. rickss (0:1)<br>
-	2. Milky007 (1:1)<br>
-	6. GroovyFlame (1:1)<br>
-	7. CloudySheet~353 (0:2)<br>
-	8. zebruken (0:1)<br>
-	9. MUF (0:1)<br>
-	10. Tiberius88 (0:1)<br>
-<br>
-70. #ThrillaBee (1032) +3<br>
-+19|+8|+7<br>
-	2. Milky007 (0:1)<br>
-	3. Yamamoto79 (0:1)<br>
+75. #ThrillaBee (1031) +1<br>
++19|+7|+7<br>
+	1. PEPrasetya (1:1)<br>
+	4. Milky007 (0:1)<br>
 	6. GroovyFlame (2:4)<br>
 	7. CloudySheet~353 (5:12)<br>
-	8. zebruken (0:1)<br>
-	9. MUF (0:2)<br>
-	10. Tiberius88 (4:4)<br>
+	9. MUF (1:4)<br>
+	10. zebruken (0:1)<br>
 <br>
-71. #DryCloud~715 (1031) 0<br>
-+15|+9|+5<br>
-	2. Milky007 (0:4)<br>
-	3. Yamamoto79 (0:3)<br>
-	4. Buz (0:2)<br>
-	7. CloudySheet~353 (0:1)<br>
-	8. zebruken (1:2)<br>
-	9. MUF (2:3)<br>
-	10. Tiberius88 (1:3)<br>
-<br>
-72. #SIRxVAPES_ (1019) +3<br>
-+17|+3|0<br>
-	1. rickss (0:3)<br>
-	3. Yamamoto79 (0:2)<br>
-	4. Buz (1:1)<br>
+76. #SIRxVAPES_ (1023) +1<br>
++21|+7|+4<br>
+	2. BillY_Patro (0:1)<br>
+	3. rickss (0:3)<br>
+	4. Milky007 (0:1)<br>
+	5. Buz (1:0)<br>
 	6. GroovyFlame (0:1)<br>
-	8. zebruken (0:1)<br>
-	10. Tiberius88 (1:4)<br>
+	10. zebruken (0:2)<br>
 <br>
-73. #PurplePine~880 (1018) 0<br>
+77. #PurplePine~880 (1018) 0<br>
 +2|0<br>
-	3. Yamamoto79 (1:5)<br>
-	4. Buz (1:1)<br>
-	5. flagstone (0:3)<br>
+	1. PEPrasetya (2:2)<br>
+	5. Buz (1:1)<br>
 	6. GroovyFlame (0:1)<br>
 	7. CloudySheet~353 (2:5)<br>
-	8. zebruken (0:1)<br>
-	10. Tiberius88 (1:2)<br>
+	8. flagstone (0:3)<br>
+	10. zebruken (0:1)<br>
 <br>
-74. #tim47 (1017) +2<br>
-+3|+5<br>
-	4. Buz (2:0)<br>
-	6. GroovyFlame (0:6)<br>
-	7. CloudySheet~353 (0:2)<br>
-	9. MUF (2:2)<br>
-<br>
-75. #WickedSpoon~258 (1017) 0<br>
-+16|+8<br>
-	1. rickss (0:1)<br>
-	4. Buz (1:0)<br>
-	5. flagstone (1:0)<br>
+78. #WickedSpoon~258 (1017) +1<br>
++17|+9<br>
+	1. PEPrasetya (0:1)<br>
+	2. BillY_Patro (0:2)<br>
+	3. rickss (0:1)<br>
+	5. Buz (1:0)<br>
 	6. GroovyFlame (1:3)<br>
 	7. CloudySheet~353 (0:1)<br>
-	8. zebruken (0:1)<br>
+	8. flagstone (1:0)<br>
 	9. MUF (0:4)<br>
+	10. zebruken (0:1)<br>
 <br>
-76. #FreshChief~792 (1014) +3<br>
+79. #tim47 (1017) +1<br>
++3|+4|+3<br>
+	5. Buz (2:0)<br>
+	6. GroovyFlame (0:6)<br>
+	7. CloudySheet~353 (0:2)<br>
+	9. MUF (2:5)<br>
+<br>
+80. #FreshChief~792 (1014) +3<br>
 +13|+4<br>
-	1. rickss (0:1)<br>
-	4. Buz (0:1)<br>
-	5. flagstone (0:1)<br>
+	1. PEPrasetya (1:4)<br>
+	3. rickss (0:1)<br>
+	5. Buz (0:2)<br>
+	8. flagstone (0:1)<br>
 <br>
-77. #RapidBingo~884 (1007) 0<br>
-+8|-1|+6|+1<br>
-	2. Milky007 (0:1)<br>
-	3. Yamamoto79 (0:2)<br>
-	8. zebruken (2:0)<br>
+81. #TackyErmine~145 (1012) -2<br>
++8|0<br>
+	2. BillY_Patro (0:1)<br>
+	5. Buz (1:0)<br>
+	7. CloudySheet~353 (1:0)<br>
+	8. flagstone (1:0)<br>
+<br>
+82. #RapidBingo~884 (1009) 0<br>
++10|+1|+8|+4<br>
+	1. PEPrasetya (2:2)<br>
+	2. BillY_Patro (0:2)<br>
+	4. Milky007 (0:1)<br>
+	10. zebruken (2:0)<br>

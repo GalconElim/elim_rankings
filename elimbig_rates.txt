@@ -28,7 +28,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. ss0317 (53:36)<br>
 <br>
 4. #Orbiter (1143) 0<br>
-+134|+134|+114|+99|+87|+78|+56|+40|+26|+11<br>
++134|+134|+114|+99|+87|+77|+56|+40|+26|+11<br>
 	2. Reclamation- (2:4)<br>
 	3. bejut (47:27)<br>
 	5. pablo55 (3:0)<br>
@@ -36,7 +36,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. ss0317 (26:8)<br>
 <br>
 5. #pablo55 (1133) 0<br>
-+89|+81|+68|+55|+51|+31|+20|+14|+14|+1<br>
++88|+80|+68|+54|+50|+31|+19|+13|+14|0<br>
 	3. bejut (1:1)<br>
 	4. Orbiter (0:3)<br>
 	8. ss0317 (6:9)<br>
@@ -234,14 +234,21 @@ Recent win rates against top 10 over the past 20k matches<br>
 +8<br>
 	5. pablo55 (4:3)<br>
 <br>
-30. #proxywar (1011) 0<br>
+30. #Vhyme (1011) 0<br>
++12<br>
+	3. bejut (0:4)<br>
+	4. Orbiter (3:2)<br>
+	5. pablo55 (1:2)<br>
+	8. ss0317 (2:9)<br>
+<br>
+31. #proxywar (1011) 0<br>
 +4|-4|0|-5|-6<br>
 	3. bejut (1:4)<br>
 	5. pablo55 (0:4)<br>
 	8. ss0317 (3:8)<br>
 	10. matty (1:5)<br>
 <br>
-31. #LiquidTater~429 (1005) 0<br>
+32. #LiquidTater~429 (1005) 0<br>
 -2|-8<br>
 	1. gamaray1719 (0:5)<br>
 	2. Reclamation- (4:49)<br>
@@ -249,7 +256,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. pablo55 (3:3)<br>
 	8. ss0317 (19:33)<br>
 <br>
-32. #NuMbEr1DaDDy (1003) 0<br>
+33. #NuMbEr1DaDDy (1003) 0<br>
 +1|+1<br>
 	2. Reclamation- (1:3)<br>
 	3. bejut (2:8)<br>
@@ -257,7 +264,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. ss0317 (3:0)<br>
 	10. matty (3:5)<br>
 <br>
-33. #shunrai (1003) 0<br>
+34. #shunrai (1003) 0<br>
 +6|+17|+30|+23|+4<br>
 	1. gamaray1719 (0:3)<br>
 	2. Reclamation- (0:1)<br>
@@ -266,8 +273,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. ss0317 (3:11)<br>
 	10. matty (0:1)<br>
 <br>
-34. #Sondair (999) 0<br>
-+28|+24|+13|+2|+6|+6|+9|+8|+6|-3<br>
+35. #Sondair (1001) 0<br>
++29|+26|+15|+3|+7|+8|+11|+9|+8|-1<br>
 	1. gamaray1719 (0:17)<br>
 	2. Reclamation- (1:20)<br>
 	3. bejut (33:107)<br>
@@ -279,7 +286,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. waffle3z (0:4)<br>
 	10. matty (6:17)<br>
 <br>
-35. #ciubaka (991) 0<br>
+36. #ciubaka (991) 0<br>
 -9|-15|-18|-17|-15|-16|-5|+1|+1|+1<br>
 	1. gamaray1719 (0:1)<br>
 	2. Reclamation- (0:1)<br>
@@ -289,19 +296,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Hoberdo (3:16)<br>
 	8. ss0317 (12:26)<br>
 <br>
-36. #Spaciel (990) 0<br>
+37. #Spaciel (990) 0<br>
 -1<br>
 	2. Reclamation- (3:19)<br>
 	7. Hoberdo (0:1)<br>
 	8. ss0317 (3:4)<br>
 <br>
-37. #icomeinpeece (989) 0<br>
+38. #icomeinpeece (989) 0<br>
 +3|+13|+7|+7|-8|-1|-8|0|+1|+7<br>
 	3. bejut (12:36)<br>
 	5. pablo55 (4:11)<br>
 	8. ss0317 (47:73)<br>
 <br>
-38. #milkyway (988) 0<br>
+39. #milkyway (988) 0<br>
 -2|+2|+12|+5|+2|+7|+5|+9|+9|0<br>
 	2. Reclamation- (6:51)<br>
 	3. bejut (7:18)<br>
@@ -311,7 +318,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. ss0317 (48:121)<br>
 	10. matty (10:27)<br>
 <br>
-39. #Ardi09. (981) 0<br>
+40. #Ardi09. (981) 0<br>
 -33|-29|-26|-22|-19|-18|-19|-13|-4|+1<br>
 	3. bejut (9:31)<br>
 	4. Orbiter (5:15)<br>
@@ -319,7 +326,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Hoberdo (1:1)<br>
 	8. ss0317 (19:54)<br>
 <br>
-40. #Langoulant (960) -2<br>
+41. #Langoulant (960) 0<br>
 -7|-5|+1|+7|+4|+2|+4|+11|-6|-3<br>
 	1. gamaray1719 (2:18)<br>
 	2. Reclamation- (7:78)<br>
@@ -331,7 +338,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. waffle3z (0:3)<br>
 	10. matty (9:26)<br>
 <br>
-41. #GenghisCon (952) +2<br>
+42. #GenghisCon (952) 0<br>
 -39|-37|-29|-24|-15|+2<br>
 	1. gamaray1719 (1:5)<br>
 	2. Reclamation- (0:13)<br>
@@ -340,7 +347,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. ss0317 (20:46)<br>
 	9. waffle3z (0:2)<br>
 <br>
-42. #CoolFaucet~518 (943) 0<br>
+43. #CoolFaucet~518 (943) 0<br>
 +5|+11|+5|-3|-8|-13|-20|-18|-13|0<br>
 	1. gamaray1719 (1:8)<br>
 	2. Reclamation- (9:54)<br>
@@ -351,14 +358,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. ss0317 (14:64)<br>
 	10. matty (6:14)<br>
 <br>
-43. #rickss (940) 0<br>
+44. #rickss (940) 0<br>
 -35|-20|-7<br>
 	2. Reclamation- (2:10)<br>
 	3. bejut (0:9)<br>
 	8. ss0317 (1:2)<br>
 	10. matty (0:1)<br>
 <br>
-44. #Steve333 (938) 0<br>
+45. #Steve333 (938) 0<br>
 -42|-17|-8|-2<br>
 	1. gamaray1719 (0:19)<br>
 	2. Reclamation- (0:2)<br>
@@ -366,7 +373,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. ss0317 (9:42)<br>
 	10. matty (0:5)<br>
 <br>
-45. #x-Carbon-x (895) 0<br>
+46. #x-Carbon-x (895) 0<br>
 -85|-60|-41|-25|-18|-12|-14|-2|0<br>
 	1. gamaray1719 (0:1)<br>
 	2. Reclamation- (2:4)<br>
@@ -374,7 +381,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Hoberdo (1:0)<br>
 	8. ss0317 (3:37)<br>
 <br>
-46. #duruti (892) 0<br>
+47. #duruti (892) 0<br>
 +10|+3|+4|+3|+1|-9|-17|-9|-7|-3<br>
 	1. gamaray1719 (0:1)<br>
 	2. Reclamation- (0:4)<br>
@@ -382,7 +389,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. ss0317 (4:19)<br>
 	10. matty (0:8)<br>
 <br>
-47. #monguesto (891) 0<br>
+48. #monguesto (891) 0<br>
 +3|+11|-1|-1|+6|+5|+5|+2|+1|-3<br>
 	1. gamaray1719 (2:8)<br>
 	2. Reclamation- (3:56)<br>
@@ -395,8 +402,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. waffle3z (1:28)<br>
 	10. matty (1:3)<br>
 <br>
-48. #quickmill (873) +1<br>
--17|-20|-10|-8|-12|-8|-3|-3|-1|0<br>
+49. #quickmill (871) 0<br>
+-19|-22|-13|-11|-14|-11|-6|-6|-4|-3<br>
 	1. gamaray1719 (0:20)<br>
 	2. Reclamation- (0:2)<br>
 	3. bejut (4:5)<br>
@@ -405,7 +412,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. waffle3z (0:2)<br>
 	10. matty (1:4)<br>
 <br>
-49. #AlGalcone (814) 0<br>
+50. #AlGalcone (814) 0<br>
 -46|-45|-41|-31|-21|-10|-17|-18|-5|+1<br>
 	1. gamaray1719 (1:8)<br>
 	2. Reclamation- (4:28)<br>
@@ -417,7 +424,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. waffle3z (0:1)<br>
 	10. matty (0:2)<br>
 <br>
-50. #Ares8 (799) 0<br>
+51. #Ares8 (799) 0<br>
 -158|-126|-101|-75|-54|-40|-36|-21|-6<br>
 	3. bejut (3:6)<br>
 	4. Orbiter (0:2)<br>
