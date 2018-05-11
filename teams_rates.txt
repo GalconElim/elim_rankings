@@ -1,15 +1,15 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #Parko (1296) 0<br>
-+10|+2|-2|+3|+1|-3|-1|-5|-3|-2<br>
+1. #Parko (1297) 0<br>
++11|+3|-1|+4|+2|-2|0|-6|-3|-2<br>
 	2. sirgrapeLot (15:10)<br>
 	3. Enlights (46:55)<br>
 	4. Reclamation- (23:16)<br>
-	6. JDHA218 (113:114)<br>
+	6. JDHA218 (124:121)<br>
 	7. MadDookie (190:167)<br>
-	8. Captain-Levi (3:2)<br>
-	9. GoOody (8:5)<br>
-	10. spaceycarrot (28:25)<br>
+	8. Captain-Levi (12:7)<br>
+	9. spaceycarrot (28:25)<br>
+	10. GoOody (8:5)<br>
 <br>
 2. #sirgrapeLot (1289) 0<br>
 -27|-25|-23|-11|-5|-12|-11|-11|-10|-2<br>
@@ -18,7 +18,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. Reclamation- (2:0)<br>
 	6. JDHA218 (4:7)<br>
 	7. MadDookie (11:11)<br>
-	10. spaceycarrot (0:2)<br>
+	9. spaceycarrot (0:2)<br>
 <br>
 3. #Enlights (1260) 0<br>
 +18|+19|+7|+15|+12|+18|+20|+14|+9|+4<br>
@@ -28,19 +28,19 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Vadim1707 (4:6)<br>
 	6. JDHA218 (90:73)<br>
 	7. MadDookie (215:199)<br>
-	8. Captain-Levi (13:20)<br>
-	9. GoOody (12:12)<br>
-	10. spaceycarrot (25:32)<br>
+	8. Captain-Levi (18:25)<br>
+	9. spaceycarrot (25:32)<br>
+	10. GoOody (12:12)<br>
 <br>
 4. #Reclamation- (1243) 0<br>
-+25|+20|+22|+17|+16|+16|+14|+7|+5|+5<br>
++26|+21|+23|+18|+16|+17|+14|+7|+5|+5<br>
 	1. Parko (16:23)<br>
 	2. sirgrapeLot (0:2)<br>
 	3. Enlights (10:8)<br>
-	6. JDHA218 (15:11)<br>
+	6. JDHA218 (23:17)<br>
 	7. MadDookie (25:27)<br>
 	8. Captain-Levi (4:6)<br>
-	10. spaceycarrot (9:2)<br>
+	9. spaceycarrot (9:2)<br>
 <br>
 5. #Vadim1707 (1241) 0<br>
 +23|+19|+30|+24|+17|+15|+8|+13|+3|-1<br>
@@ -48,65 +48,67 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (3:2)<br>
 	7. MadDookie (17:9)<br>
 	8. Captain-Levi (5:2)<br>
-	9. GoOody (8:11)<br>
-	10. spaceycarrot (4:1)<br>
+	9. spaceycarrot (4:1)<br>
+	10. GoOody (8:11)<br>
 <br>
 6. #JDHA218 (1237) 0<br>
-+20|+13|+16|+12|+13|+9|+13|+10|+9|+5<br>
-	1. Parko (114:113)<br>
++11|+9|+10|+4|-3|-4|-4|-4|-5|+1<br>
+	1. Parko (121:124)<br>
 	2. sirgrapeLot (7:4)<br>
 	3. Enlights (73:90)<br>
-	4. Reclamation- (11:15)<br>
+	4. Reclamation- (17:23)<br>
 	5. Vadim1707 (2:3)<br>
-	7. MadDookie (406:424)<br>
-	8. Captain-Levi (24:17)<br>
-	9. GoOody (4:6)<br>
-	10. spaceycarrot (75:86)<br>
+	7. MadDookie (427:444)<br>
+	8. Captain-Levi (63:47)<br>
+	9. spaceycarrot (77:90)<br>
+	10. GoOody (4:6)<br>
 <br>
-7. #MadDookie (1233) 0<br>
--13|-10|-11|-8|-4|-10|-14|-12|-11|-6<br>
+7. #MadDookie (1235) 0<br>
+-13|-9|-10|-8|-4|-9|-13|-12|-10|-6<br>
 	1. Parko (167:190)<br>
 	2. sirgrapeLot (11:11)<br>
 	3. Enlights (199:215)<br>
 	4. Reclamation- (27:25)<br>
 	5. Vadim1707 (9:17)<br>
-	6. JDHA218 (424:406)<br>
-	8. Captain-Levi (51:28)<br>
-	9. GoOody (13:17)<br>
-	10. spaceycarrot (62:76)<br>
+	6. JDHA218 (444:427)<br>
+	8. Captain-Levi (127:110)<br>
+	9. spaceycarrot (62:76)<br>
+	10. GoOody (13:17)<br>
 <br>
-8. #Captain-Levi (1203) 0<br>
-+25|+16|+8|+4|+5|+15|+7|-7|-9|-5<br>
-	1. Parko (2:3)<br>
-	3. Enlights (20:13)<br>
+8. #Captain-Levi (1213) 0<br>
++5|+9|+9|+5|-1|+5|-6|-9|-5|+1<br>
+	1. Parko (7:12)<br>
+	3. Enlights (25:18)<br>
 	4. Reclamation- (6:4)<br>
 	5. Vadim1707 (2:5)<br>
-	6. JDHA218 (17:24)<br>
-	7. MadDookie (28:51)<br>
-	10. spaceycarrot (7:4)<br>
+	6. JDHA218 (47:63)<br>
+	7. MadDookie (110:127)<br>
+	9. spaceycarrot (13:13)<br>
+	10. GoOody (2:1)<br>
 <br>
-9. #GoOody (1200) 0<br>
-+14|+18|+14|+7|+7|+9|+6|+6|+9|+11<br>
-	1. Parko (5:8)<br>
-	3. Enlights (12:12)<br>
-	5. Vadim1707 (11:8)<br>
-	6. JDHA218 (6:4)<br>
-	7. MadDookie (17:13)<br>
-	10. spaceycarrot (14:9)<br>
-<br>
-10. #spaceycarrot (1200) 0<br>
--1|-3|+5|+7|-2|+5|-7|-2|-3|-1<br>
+9. #spaceycarrot (1201) 0<br>
+0|-3|+6|+8|-1|+5|-6|-2|-3|-1<br>
 	1. Parko (25:28)<br>
 	2. sirgrapeLot (2:0)<br>
 	3. Enlights (32:25)<br>
 	4. Reclamation- (2:9)<br>
 	5. Vadim1707 (1:4)<br>
-	6. JDHA218 (86:75)<br>
+	6. JDHA218 (90:77)<br>
 	7. MadDookie (76:62)<br>
-	8. Captain-Levi (4:7)<br>
-	9. GoOody (9:14)<br>
+	8. Captain-Levi (13:13)<br>
+	10. GoOody (9:14)<br>
 <br>
-11. #topisagirl (1199) 0<br>
+10. #GoOody (1200) 0<br>
++14|+18|+14|+7|+7|+9|+6|+7|+9|+11<br>
+	1. Parko (5:8)<br>
+	3. Enlights (12:12)<br>
+	5. Vadim1707 (11:8)<br>
+	6. JDHA218 (6:4)<br>
+	7. MadDookie (17:13)<br>
+	8. Captain-Levi (1:2)<br>
+	9. spaceycarrot (14:9)<br>
+<br>
+11. #topisagirl (1200) 0<br>
 +11|+8|+7|+9|+5|+8|+3|-2|+1|+4<br>
 	1. Parko (39:60)<br>
 	2. sirgrapeLot (10:6)<br>
@@ -115,43 +117,44 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Vadim1707 (16:20)<br>
 	6. JDHA218 (189:209)<br>
 	7. MadDookie (283:301)<br>
-	8. Captain-Levi (12:12)<br>
-	9. GoOody (2:6)<br>
-	10. spaceycarrot (56:52)<br>
+	8. Captain-Levi (18:20)<br>
+	9. spaceycarrot (56:52)<br>
+	10. GoOody (2:6)<br>
 <br>
-12. #pablo55 (1193) 0<br>
-+25|+25|+21|+15|+4|+2|-4|-9|-5|-2<br>
+12. #pablo55 (1196) 0<br>
++28|+27|+24|+17|+6|+5|-2|-7|-4|-1<br>
 	1. Parko (77:79)<br>
 	2. sirgrapeLot (6:5)<br>
 	3. Enlights (55:53)<br>
 	4. Reclamation- (2:5)<br>
-	6. JDHA218 (99:93)<br>
+	6. JDHA218 (149:132)<br>
 	7. MadDookie (121:131)<br>
-	8. Captain-Levi (28:14)<br>
-	9. GoOody (21:26)<br>
-	10. spaceycarrot (41:38)<br>
+	8. Captain-Levi (36:22)<br>
+	9. spaceycarrot (41:38)<br>
+	10. GoOody (21:26)<br>
 <br>
-13. #LJpain (1191) 0<br>
-+10|+4|+8|+17|+13|+11|+9|+7|+7|+1<br>
-	1. Parko (31:32)<br>
-	3. Enlights (14:17)<br>
-	6. JDHA218 (24:25)<br>
-	7. MadDookie (125:149)<br>
-	9. GoOody (4:4)<br>
-	10. spaceycarrot (13:15)<br>
-<br>
-14. #im_GORY (1191) 0<br>
--7|+1|-1|0|+10|+13|+9|+6|+3|+4<br>
+13. #im_GORY (1193) 0<br>
+-5|+1|-1|0|+9|+13|+9|+6|+3|+4<br>
 	1. Parko (45:45)<br>
 	2. sirgrapeLot (11:6)<br>
 	3. Enlights (58:54)<br>
 	4. Reclamation- (13:14)<br>
 	5. Vadim1707 (11:16)<br>
-	6. JDHA218 (91:100)<br>
+	6. JDHA218 (95:102)<br>
 	7. MadDookie (183:266)<br>
-	8. Captain-Levi (32:26)<br>
-	9. GoOody (6:5)<br>
-	10. spaceycarrot (23:21)<br>
+	8. Captain-Levi (86:99)<br>
+	9. spaceycarrot (23:21)<br>
+	10. GoOody (6:5)<br>
+<br>
+14. #LJpain (1192) 0<br>
++10|+5|+9|+18|+13|+12|+9|+7|+7|+1<br>
+	1. Parko (31:32)<br>
+	3. Enlights (14:17)<br>
+	6. JDHA218 (28:27)<br>
+	7. MadDookie (125:149)<br>
+	8. Captain-Levi (2:1)<br>
+	9. spaceycarrot (13:15)<br>
+	10. GoOody (4:4)<br>
 <br>
 15. #BepoHuka (1183) 0<br>
 -26|-35|-29|-33|-28|-27|-17|-7|-10|+2<br>
@@ -161,8 +164,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. Reclamation- (3:4)<br>
 	6. JDHA218 (20:32)<br>
 	7. MadDookie (61:86)<br>
-	8. Captain-Levi (5:6)<br>
-	10. spaceycarrot (6:7)<br>
+	8. Captain-Levi (6:9)<br>
+	9. spaceycarrot (6:7)<br>
 <br>
 16. #GoodAce (1182) 0<br>
 +11|+10|+13|+18|+12|+19|+15|+7|+3|0<br>
@@ -172,23 +175,36 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Vadim1707 (4:8)<br>
 	6. JDHA218 (272:269)<br>
 	7. MadDookie (443:508)<br>
-	8. Captain-Levi (12:13)<br>
-	9. GoOody (5:6)<br>
-	10. spaceycarrot (38:41)<br>
+	8. Captain-Levi (20:17)<br>
+	9. spaceycarrot (38:41)<br>
+	10. GoOody (5:6)<br>
 <br>
 17. #zeropoint (1181) +1<br>
-+6|+11|+14|+14|+11|+10|+8|+11|+9|+1<br>
++6|+12|+14|+14|+11|+10|+9|+11|+9|+1<br>
 	1. Parko (16:25)<br>
 	3. Enlights (18:13)<br>
 	5. Vadim1707 (9:10)<br>
-	6. JDHA218 (32:37)<br>
+	6. JDHA218 (33:39)<br>
 	7. MadDookie (106:98)<br>
-	8. Captain-Levi (3:3)<br>
-	9. GoOody (9:4)<br>
-	10. spaceycarrot (4:0)<br>
+	8. Captain-Levi (14:23)<br>
+	9. spaceycarrot (4:0)<br>
+	10. GoOody (9:4)<br>
 <br>
-18. #symsymmy (1175) 0<br>
-+33|+33|+27|+22|+17|+11|+12|+8|+3|+2<br>
+18. #qUidNovI (1176) 0<br>
+0|+2|-1|-2|+7|+15|+20|+5|+3|+6<br>
+	1. Parko (186:203)<br>
+	2. sirgrapeLot (20:17)<br>
+	3. Enlights (171:235)<br>
+	4. Reclamation- (29:28)<br>
+	5. Vadim1707 (5:5)<br>
+	6. JDHA218 (597:644)<br>
+	7. MadDookie (1060:1164)<br>
+	8. Captain-Levi (148:125)<br>
+	9. spaceycarrot (144:141)<br>
+	10. GoOody (10:13)<br>
+<br>
+19. #symsymmy (1176) 0<br>
++33|+33|+27|+23|+17|+11|+12|+9|+4|+2<br>
 	1. Parko (54:86)<br>
 	2. sirgrapeLot (17:8)<br>
 	3. Enlights (110:125)<br>
@@ -196,116 +212,106 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Vadim1707 (24:19)<br>
 	6. JDHA218 (177:176)<br>
 	7. MadDookie (220:284)<br>
-	8. Captain-Levi (31:25)<br>
-	9. GoOody (22:14)<br>
-	10. spaceycarrot (74:64)<br>
+	8. Captain-Levi (49:37)<br>
+	9. spaceycarrot (74:64)<br>
+	10. GoOody (22:14)<br>
 <br>
-19. #ss0317 (1171) 0<br>
-+8|+13|+15|+12|+4|+2|-1|0|+5|+4<br>
+20. #ss0317 (1172) 0<br>
++9|+14|+15|+13|+4|+3|-1|+1|+5|+4<br>
 	1. Parko (10:10)<br>
 	2. sirgrapeLot (3:4)<br>
 	3. Enlights (13:28)<br>
 	4. Reclamation- (0:2)<br>
 	6. JDHA218 (66:51)<br>
 	7. MadDookie (84:80)<br>
-	9. GoOody (3:11)<br>
-	10. spaceycarrot (12:10)<br>
+	8. Captain-Levi (16:24)<br>
+	9. spaceycarrot (12:10)<br>
+	10. GoOody (3:11)<br>
 <br>
-20. #qUidNovI (1171) 0<br>
-0|+1|-2|-3|+6|+14|+19|+4|+2|+6<br>
-	1. Parko (186:203)<br>
-	2. sirgrapeLot (20:17)<br>
-	3. Enlights (171:235)<br>
-	4. Reclamation- (29:28)<br>
-	5. Vadim1707 (5:5)<br>
-	6. JDHA218 (516:566)<br>
-	7. MadDookie (1060:1164)<br>
-	8. Captain-Levi (58:36)<br>
-	9. GoOody (10:13)<br>
-	10. spaceycarrot (144:141)<br>
-<br>
-21. #CsAsTra (1165) 0<br>
-+21|+19|+21|+16|+12|+11|+5|+5|+2|+1<br>
+21. #CsAsTra (1168) 0<br>
++22|+20|+21|+16|+12|+10|+5|+5|+2|+1<br>
 	1. Parko (117:139)<br>
 	3. Enlights (78:98)<br>
 	4. Reclamation- (16:16)<br>
-	6. JDHA218 (131:176)<br>
+	6. JDHA218 (136:179)<br>
 	7. MadDookie (343:419)<br>
-	8. Captain-Levi (36:25)<br>
-	9. GoOody (13:11)<br>
-	10. spaceycarrot (20:21)<br>
+	8. Captain-Levi (118:112)<br>
+	9. spaceycarrot (20:21)<br>
+	10. GoOody (13:11)<br>
 <br>
-22. #gamaray1719 (1161) 0<br>
-+67|+61|+48|+43|+38|+38|+26|+14|+10|+4<br>
+22. #gamaray1719 (1167) 0<br>
++66|+58|+47|+45|+39|+37|+30|+16|+10|+5<br>
 	1. Parko (0:4)<br>
 	3. Enlights (7:2)<br>
 	4. Reclamation- (11:19)<br>
-	6. JDHA218 (11:5)<br>
+	6. JDHA218 (12:5)<br>
 	7. MadDookie (9:15)<br>
 	8. Captain-Levi (10:3)<br>
-	9. GoOody (3:0)<br>
-	10. spaceycarrot (4:2)<br>
+	9. spaceycarrot (4:2)<br>
+	10. GoOody (3:0)<br>
 <br>
-23. #marijuana10 (1158) 0<br>
--21|-18|-21|-12|-4|+4|+1|+1|-2|0<br>
+23. #marijuana10 (1157) 0<br>
+-21|-18|-22|-12|-4|+4|+1|+1|-2|-1<br>
 	1. Parko (10:11)<br>
 	3. Enlights (0:1)<br>
-	6. JDHA218 (3:2)<br>
+	6. JDHA218 (9:5)<br>
 	7. MadDookie (15:17)<br>
-	9. GoOody (1:1)<br>
-	10. spaceycarrot (5:6)<br>
+	8. Captain-Levi (10:11)<br>
+	9. spaceycarrot (5:6)<br>
+	10. GoOody (1:1)<br>
 <br>
 24. #Kretschy198 (1155) 0<br>
-+3|+14|+6|+4|+2|0|+5|+2|-3|+2<br>
++3|+14|+6|+4|+2|+1|+5|+2|-2|+2<br>
 	6. JDHA218 (2:3)<br>
 	7. MadDookie (26:43)<br>
-	8. Captain-Levi (12:10)<br>
+	8. Captain-Levi (14:15)<br>
 <br>
 25. #Hoberdo (1154) 0<br>
-+45|+38|+34|+31|+21|+16|+13|+14|+10|+4<br>
++44|+38|+34|+30|+21|+16|+13|+14|+10|+4<br>
 	1. Parko (13:13)<br>
 	3. Enlights (1:3)<br>
 	6. JDHA218 (22:25)<br>
 	7. MadDookie (43:36)<br>
-	10. spaceycarrot (1:1)<br>
+	8. Captain-Levi (5:3)<br>
+	9. spaceycarrot (1:1)<br>
 <br>
-26. #dieHaPpY (1151) 0<br>
--2|-1|0|-4|-9|-15|-15|-12|+6|+2<br>
+26. #dieHaPpY (1152) 0<br>
+-1|0|+1|-2|-8|-13|-13|-10|+7|+2<br>
 	3. Enlights (2:2)<br>
-	6. JDHA218 (10:24)<br>
+	6. JDHA218 (38:47)<br>
 	7. MadDookie (18:56)<br>
-	8. Captain-Levi (3:4)<br>
-	10. spaceycarrot (18:12)<br>
+	8. Captain-Levi (5:11)<br>
+	9. spaceycarrot (18:12)<br>
 <br>
 27. #TyCho2 (1150) 0<br>
 +67|+56|+50|+37|+33|+31|+21|+9|+4|+4<br>
 	3. Enlights (8:9)<br>
 	6. JDHA218 (20:19)<br>
 	7. MadDookie (9:15)<br>
-	9. GoOody (1:1)<br>
+	10. GoOody (1:1)<br>
 <br>
 28. #Fire.n.Ice. (1149) 0<br>
-+13|+18|+15|+9|+4|+7|+8|+6|+7|0<br>
++13|+19|+15|+10|+4|+8|+9|+7|+7|0<br>
 	1. Parko (9:4)<br>
 	3. Enlights (17:15)<br>
 	4. Reclamation- (13:18)<br>
 	5. Vadim1707 (2:9)<br>
-	6. JDHA218 (32:26)<br>
+	6. JDHA218 (40:36)<br>
 	7. MadDookie (37:48)<br>
 	8. Captain-Levi (6:8)<br>
-	9. GoOody (5:9)<br>
-	10. spaceycarrot (23:12)<br>
+	9. spaceycarrot (23:12)<br>
+	10. GoOody (5:9)<br>
 <br>
 29. #slydog (1147) 0<br>
-+7|-6|-2|+9|+10|+10|+7|+9|+1|+3<br>
++7|-6|-2|+9|+11|+11|+7|+8|+1|+2<br>
 	1. Parko (12:16)<br>
 	3. Enlights (20:14)<br>
 	4. Reclamation- (0:1)<br>
 	6. JDHA218 (22:19)<br>
 	7. MadDookie (82:72)<br>
-	8. Captain-Levi (0:1)<br>
-	9. GoOody (7:2)<br>
-	10. spaceycarrot (25:29)<br>
+	8. Captain-Levi (5:6)<br>
+	9. spaceycarrot (25:29)<br>
+	10. GoOody (7:2)<br>
 <br>
 30. #esparano (1144) 0<br>
 +72|+57|+51|+39|+25|+22|+14|+5|+4|+1<br>
@@ -316,28 +322,28 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. Captain-Levi (20:17)<br>
 <br>
 31. #AppleDragon (1143) 0<br>
-+33|+34|+26|+20|+24|+23|+14|+7|+3|0<br>
++33|+35|+26|+21|+24|+24|+15|+7|+3|0<br>
 	1. Parko (32:33)<br>
 	2. sirgrapeLot (11:7)<br>
 	3. Enlights (61:74)<br>
 	5. Vadim1707 (0:1)<br>
 	6. JDHA218 (170:151)<br>
 	7. MadDookie (218:217)<br>
-	8. Captain-Levi (8:2)<br>
-	9. GoOody (0:1)<br>
-	10. spaceycarrot (33:25)<br>
+	8. Captain-Levi (43:27)<br>
+	9. spaceycarrot (33:25)<br>
+	10. GoOody (0:1)<br>
 <br>
-32. #noa-B (1140) 0<br>
--14|-19|-15|-4|-1|+7|-6|-1|-3|-2<br>
+32. #noa-B (1141) 0<br>
+-14|-19|-15|-4|-1|+7|-5|-1|-3|-2<br>
 	1. Parko (9:18)<br>
 	2. sirgrapeLot (5:3)<br>
 	3. Enlights (17:26)<br>
 	4. Reclamation- (4:4)<br>
-	6. JDHA218 (45:37)<br>
+	6. JDHA218 (46:37)<br>
 	7. MadDookie (75:90)<br>
-	8. Captain-Levi (3:3)<br>
-	9. GoOody (2:2)<br>
-	10. spaceycarrot (2:4)<br>
+	8. Captain-Levi (14:12)<br>
+	9. spaceycarrot (2:4)<br>
+	10. GoOody (2:2)<br>
 <br>
 33. #Spinne (1139) 0<br>
 -8|-7|-9|-13|-7|-6|-5|-4|-2|0<br>
@@ -345,16 +351,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	3. Enlights (26:22)<br>
 	5. Vadim1707 (4:3)<br>
 	7. MadDookie (9:10)<br>
-	9. GoOody (1:5)<br>
-	10. spaceycarrot (2:1)<br>
+	9. spaceycarrot (2:1)<br>
+	10. GoOody (1:5)<br>
 <br>
 34. #Fares22 (1133) 0<br>
-+7|+10|+6|-2|-2|0|+1|-2|-5|+3<br>
++7|+10|+6|-1|-2|+1|+1|-2|-5|+3<br>
 	1. Parko (2:4)<br>
 	3. Enlights (2:4)<br>
 	6. JDHA218 (2:3)<br>
 	7. MadDookie (9:8)<br>
-	10. spaceycarrot (0:2)<br>
+	8. Captain-Levi (2:1)<br>
+	9. spaceycarrot (0:2)<br>
 <br>
 35. #phichi (1132) 0<br>
 -2|-5|-9|-12|-13|-6|-15|-9|-10|-2<br>
@@ -365,99 +372,103 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Vadim1707 (14:16)<br>
 	6. JDHA218 (157:160)<br>
 	7. MadDookie (177:212)<br>
-	8. Captain-Levi (19:15)<br>
-	10. spaceycarrot (26:16)<br>
+	8. Captain-Levi (20:16)<br>
+	9. spaceycarrot (26:16)<br>
 <br>
 36. #syrius (1125) 0<br>
-+29|+29|+33|+21|+25|+26|+24|+13|+10|+6<br>
++30|+29|+34|+22|+25|+26|+25|+13|+10|+6<br>
 	1. Parko (12:17)<br>
 	3. Enlights (5:7)<br>
 	6. JDHA218 (12:18)<br>
 	7. MadDookie (90:79)<br>
-	8. Captain-Levi (6:4)<br>
+	8. Captain-Levi (15:13)<br>
 <br>
 37. #JMan8080 (1123) 0<br>
-+27|+24|+29|+24|+23|+21|+14|+15|+5|+3<br>
++26|+24|+28|+24|+22|+21|+14|+15|+4|+3<br>
 	1. Parko (9:10)<br>
 	2. sirgrapeLot (2:0)<br>
 	3. Enlights (15:17)<br>
 	4. Reclamation- (1:0)<br>
-	6. JDHA218 (48:48)<br>
+	6. JDHA218 (54:51)<br>
 	7. MadDookie (74:75)<br>
-	8. Captain-Levi (13:18)<br>
-	10. spaceycarrot (3:4)<br>
+	8. Captain-Levi (15:23)<br>
+	9. spaceycarrot (3:4)<br>
 <br>
-38. #Omnibus (1120) -1<br>
--6|-2|-4|-11|-14|-12|-3|-7|-6|-6<br>
+38. #Omnibus (1121) -1<br>
+-5|-1|-4|-10|-13|-12|-2|-6|-5|-6<br>
 	3. Enlights (2:0)<br>
 	5. Vadim1707 (6:3)<br>
-	6. JDHA218 (6:4)<br>
+	6. JDHA218 (16:17)<br>
 	7. MadDookie (23:21)<br>
-	10. spaceycarrot (3:4)<br>
+	8. Captain-Levi (0:1)<br>
+	9. spaceycarrot (3:4)<br>
 <br>
 39. #NinjaBooM (1119) 0<br>
-+25|+22|+15|+14|+13|+2|+2|-1|-1|-8<br>
++26|+22|+15|+14|+13|+2|+3|-1|-1|-8<br>
 	1. Parko (11:14)<br>
 	3. Enlights (8:13)<br>
 	4. Reclamation- (21:15)<br>
 	5. Vadim1707 (20:21)<br>
 	6. JDHA218 (64:68)<br>
 	7. MadDookie (117:145)<br>
-	8. Captain-Levi (1:2)<br>
-	9. GoOody (16:11)<br>
-	10. spaceycarrot (31:34)<br>
+	8. Captain-Levi (6:6)<br>
+	9. spaceycarrot (31:34)<br>
+	10. GoOody (16:11)<br>
 <br>
-40. #croissant (1116) 0<br>
-+31|+27|+27|+21|+11|+2|-1|+1|-2|-2<br>
+40. #croissant (1117) 0<br>
++32|+28|+28|+22|+12|+3|0|+2|-2|-2<br>
 	1. Parko (22:24)<br>
 	2. sirgrapeLot (3:5)<br>
 	3. Enlights (1:1)<br>
 	5. Vadim1707 (0:1)<br>
-	6. JDHA218 (2:7)<br>
+	6. JDHA218 (2:8)<br>
 	7. MadDookie (63:69)<br>
-	8. Captain-Levi (1:1)<br>
-	9. GoOody (3:6)<br>
-	10. spaceycarrot (4:6)<br>
+	8. Captain-Levi (16:17)<br>
+	9. spaceycarrot (4:6)<br>
+	10. GoOody (3:6)<br>
 <br>
-41. #SadGalaxy360 (1115) 0<br>
--31|-29|-23|-18|-14|-8|-12|-15|-3|-2<br>
+41. #blini (1115) 0<br>
+-4|-9|+1|+2|+6|+8|+4|+2|-7|0<br>
+	1. Parko (30:17)<br>
+	6. JDHA218 (22:35)<br>
+	7. MadDookie (28:29)<br>
+	8. Captain-Levi (9:7)<br>
+	9. spaceycarrot (8:9)<br>
+<br>
+42. #SadGalaxy360 (1115) 0<br>
+-31|-29|-23|-18|-14|-8|-12|-16|-3|-2<br>
 	1. Parko (1:6)<br>
 	3. Enlights (12:15)<br>
 	4. Reclamation- (1:0)<br>
 	6. JDHA218 (12:24)<br>
 	7. MadDookie (25:32)<br>
-	8. Captain-Levi (7:12)<br>
-	10. spaceycarrot (3:6)<br>
+	8. Captain-Levi (7:14)<br>
+	9. spaceycarrot (3:6)<br>
 <br>
-42. #Rawz (1114) 0<br>
-+4|+9|+4|+1|+1|+4|+9|+14|+10|+8<br>
+43. #Rawz (1115) 0<br>
++4|+10|+5|+1|+1|+5|+10|+14|+10|+8<br>
 	1. Parko (31:60)<br>
 	2. sirgrapeLot (7:7)<br>
 	3. Enlights (19:21)<br>
 	4. Reclamation- (11:6)<br>
-	6. JDHA218 (59:75)<br>
+	6. JDHA218 (59:78)<br>
 	7. MadDookie (132:178)<br>
-	9. GoOody (2:9)<br>
-	10. spaceycarrot (5:12)<br>
+	8. Captain-Levi (15:14)<br>
+	9. spaceycarrot (5:12)<br>
+	10. GoOody (2:9)<br>
 <br>
-43. #blini (1114) 0<br>
--5|-10|0|0|+5|+6|+2|+1|-7|0<br>
-	1. Parko (30:17)<br>
-	7. MadDookie (28:29)<br>
-	10. spaceycarrot (8:9)<br>
-<br>
-44. #Gervi (1113) -2<br>
-+14|+8|+3|-3|+2|-3|-10|-6|+3|-1<br>
+44. #Gervi (1114) -2<br>
++14|+9|+3|-3|+3|-3|-10|-6|+3|-1<br>
 	1. Parko (23:50)<br>
 	2. sirgrapeLot (2:1)<br>
 	3. Enlights (39:42)<br>
 	4. Reclamation- (4:1)<br>
 	5. Vadim1707 (4:3)<br>
-	6. JDHA218 (73:88)<br>
+	6. JDHA218 (73:95)<br>
 	7. MadDookie (184:223)<br>
-	8. Captain-Levi (23:20)<br>
-	9. GoOody (9:9)<br>
-	10. spaceycarrot (43:56)<br>
+	8. Captain-Levi (45:51)<br>
+	9. spaceycarrot (43:56)<br>
+	10. GoOody (9:9)<br>
 <br>
 45. #TimeBreaker (1108) 0<br>
 +23|+17|+13|+3|+6|+4|-4|-2|-2|-3<br>
@@ -467,29 +478,29 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Vadim1707 (2:1)<br>
 	6. JDHA218 (8:12)<br>
 	7. MadDookie (12:15)<br>
-	8. Captain-Levi (14:11)<br>
-	9. GoOody (2:6)<br>
-	10. spaceycarrot (2:1)<br>
+	8. Captain-Levi (14:12)<br>
+	9. spaceycarrot (2:1)<br>
+	10. GoOody (2:6)<br>
 <br>
-46. #JeffDoughnut (1104) 0<br>
-+51|+48|+37|+33|+22|+21|+6|+11|+4|-6<br>
-	1. Parko (13:9)<br>
-	3. Enlights (1:4)<br>
-	6. JDHA218 (11:20)<br>
-	7. MadDookie (9:21)<br>
-	8. Captain-Levi (6:6)<br>
-<br>
-47. #GuacNinja (1104) 0<br>
-+21|+14|+18|+9|+4|+5|+10|+3|0|+2<br>
+46. #GuacNinja (1105) 0<br>
++22|+15|+19|+10|+4|+5|+11|+3|0|+2<br>
 	1. Parko (31:33)<br>
 	3. Enlights (28:37)<br>
 	4. Reclamation- (17:19)<br>
 	5. Vadim1707 (33:40)<br>
-	6. JDHA218 (33:48)<br>
+	6. JDHA218 (44:63)<br>
 	7. MadDookie (133:143)<br>
-	8. Captain-Levi (3:4)<br>
-	9. GoOody (12:13)<br>
-	10. spaceycarrot (20:25)<br>
+	8. Captain-Levi (3:6)<br>
+	9. spaceycarrot (20:25)<br>
+	10. GoOody (12:13)<br>
+<br>
+47. #JeffDoughnut (1104) 0<br>
++51|+49|+37|+33|+23|+22|+7|+11|+5|-5<br>
+	1. Parko (13:9)<br>
+	3. Enlights (1:4)<br>
+	6. JDHA218 (11:20)<br>
+	7. MadDookie (9:21)<br>
+	8. Captain-Levi (9:14)<br>
 <br>
 48. #TPSproducer (1098) 0<br>
 0|+2|+3|0|+5|+3|+6|+6|+1|-2<br>
@@ -498,19 +509,20 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Vadim1707 (8:7)<br>
 	6. JDHA218 (5:7)<br>
 	7. MadDookie (14:19)<br>
-	9. GoOody (9:5)<br>
-	10. spaceycarrot (9:6)<br>
+	8. Captain-Levi (3:4)<br>
+	9. spaceycarrot (9:6)<br>
+	10. GoOody (9:5)<br>
 <br>
 49. #Go4Chips (1094) 0<br>
--1|+3|+4|+1|-7|-6|-6|-8|-4|+4<br>
+-1|+4|+5|+1|-7|-6|-5|-8|-4|+4<br>
 	1. Parko (35:47)<br>
 	3. Enlights (53:77)<br>
 	4. Reclamation- (1:1)<br>
-	6. JDHA218 (70:69)<br>
+	6. JDHA218 (73:72)<br>
 	7. MadDookie (179:218)<br>
-	8. Captain-Levi (13:11)<br>
-	9. GoOody (1:3)<br>
-	10. spaceycarrot (12:9)<br>
+	8. Captain-Levi (37:40)<br>
+	9. spaceycarrot (12:9)<br>
+	10. GoOody (1:3)<br>
 <br>
 50. #goner (1091) 0<br>
 -25|-18|-22|-21|-18|-15|-14|-5|+1|+1<br>
@@ -519,11 +531,11 @@ Recent win rates against top 10 over the past 20k matches<br>
 	3. Enlights (5:6)<br>
 	4. Reclamation- (3:0)<br>
 	5. Vadim1707 (14:18)<br>
-	6. JDHA218 (29:54)<br>
+	6. JDHA218 (34:59)<br>
 	7. MadDookie (81:112)<br>
-	8. Captain-Levi (0:1)<br>
-	9. GoOody (2:1)<br>
-	10. spaceycarrot (0:1)<br>
+	8. Captain-Levi (3:2)<br>
+	9. spaceycarrot (0:1)<br>
+	10. GoOody (2:1)<br>
 <br>
 51. #TaintBlossom (1090) 0<br>
 +26|+16|+18|+15|+12|+9|-3|0|+2|-1<br>
@@ -533,7 +545,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (22:24)<br>
 	7. MadDookie (16:26)<br>
 	8. Captain-Levi (2:2)<br>
-	10. spaceycarrot (2:2)<br>
+	9. spaceycarrot (2:2)<br>
 <br>
 52. #mightymeek (1088) 0<br>
 +41|+36|+22|+25|+21|+19|+14|+13|+12|+5<br>
@@ -543,42 +555,44 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Vadim1707 (2:4)<br>
 	6. JDHA218 (19:20)<br>
 	7. MadDookie (32:23)<br>
-	10. spaceycarrot (2:1)<br>
+	9. spaceycarrot (2:1)<br>
 <br>
 53. #LastTimeLord (1086) 0<br>
-+14|+11|+10|+2|+6|-1|-2|0|+2|-1<br>
++14|+12|+10|+2|+6|-1|-2|0|+2|-1<br>
 	1. Parko (16:29)<br>
 	3. Enlights (5:14)<br>
 	4. Reclamation- (5:2)<br>
 	6. JDHA218 (37:38)<br>
 	7. MadDookie (108:132)<br>
-	8. Captain-Levi (7:6)<br>
-	9. GoOody (3:4)<br>
-	10. spaceycarrot (10:14)<br>
+	8. Captain-Levi (30:27)<br>
+	9. spaceycarrot (10:14)<br>
+	10. GoOody (3:4)<br>
 <br>
 54. #kittengod22 (1079) -1<br>
-+28|+31|+34|+27|+32|+23|+5|+3|0|-3<br>
++29|+32|+34|+27|+33|+24|+5|+4|+1|-3<br>
 	1. Parko (2:6)<br>
 	3. Enlights (14:5)<br>
 	4. Reclamation- (3:5)<br>
-	6. JDHA218 (8:8)<br>
+	6. JDHA218 (16:12)<br>
 	7. MadDookie (18:20)<br>
-	9. GoOody (1:1)<br>
-	10. spaceycarrot (4:5)<br>
+	9. spaceycarrot (4:5)<br>
+	10. GoOody (1:1)<br>
 <br>
 55. #waffle3z (1076) 0<br>
-+62|+50|+42|+44|+36|+27|+16|+16|+12|+4<br>
++62|+51|+42|+44|+37|+27|+17|+16|+12|+4<br>
 	1. Parko (15:13)<br>
 	3. Enlights (1:3)<br>
 	6. JDHA218 (17:16)<br>
 	7. MadDookie (25:24)<br>
-	10. spaceycarrot (0:3)<br>
+	8. Captain-Levi (2:5)<br>
+	9. spaceycarrot (0:3)<br>
 <br>
 56. #peneTRAtion (1075) 0<br>
 +1|-3|+2|-9|-11|-10|-11|-12|-9|-4<br>
 	1. Parko (2:5)<br>
 	6. JDHA218 (6:7)<br>
 	7. MadDookie (21:32)<br>
+	8. Captain-Levi (2:2)<br>
 <br>
 57. #Jasem (1075) 0<br>
 +20|+14|+10|+1|+2|+2|-1|0|-5|-7<br>
@@ -587,50 +601,52 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. Reclamation- (0:1)<br>
 	6. JDHA218 (8:10)<br>
 	7. MadDookie (22:36)<br>
-	10. spaceycarrot (10:13)<br>
+	9. spaceycarrot (10:13)<br>
 <br>
-58. #johannn (1070) 0<br>
-+53|+55|+47|+42|+33|+26|+12|+12|+6|-2<br>
-	1. Parko (1:4)<br>
-	7. MadDookie (13:13)<br>
-	10. spaceycarrot (0:1)<br>
-<br>
-59. #keyblade335 (1070) 0<br>
-+40|+35|+31|+29|+24|+19|+16|+3|+4|0<br>
+58. #keyblade335 (1073) 0<br>
++43|+39|+33|+31|+26|+22|+18|+4|+5|0<br>
 	1. Parko (30:35)<br>
 	2. sirgrapeLot (11:10)<br>
 	3. Enlights (35:34)<br>
 	4. Reclamation- (1:3)<br>
-	6. JDHA218 (35:51)<br>
+	6. JDHA218 (68:90)<br>
 	7. MadDookie (106:148)<br>
-	8. Captain-Levi (8:8)<br>
-	9. GoOody (5:13)<br>
-	10. spaceycarrot (45:52)<br>
+	8. Captain-Levi (47:60)<br>
+	9. spaceycarrot (45:52)<br>
+	10. GoOody (5:13)<br>
 <br>
-60. #likeag66 (1069) +2<br>
-+2|+7|+3|-9|-7|-6|-11|-3|+4|+3<br>
+59. #likeag66 (1071) +2<br>
++3|+8|+4|-8|-6|-5|-10|-3|+5|+3<br>
 	1. Parko (46:56)<br>
 	3. Enlights (34:47)<br>
 	4. Reclamation- (1:2)<br>
 	5. Vadim1707 (17:19)<br>
-	6. JDHA218 (69:64)<br>
+	6. JDHA218 (77:76)<br>
 	7. MadDookie (150:177)<br>
-	8. Captain-Levi (6:11)<br>
-	9. GoOody (0:1)<br>
-	10. spaceycarrot (24:15)<br>
+	8. Captain-Levi (15:19)<br>
+	9. spaceycarrot (24:15)<br>
+	10. GoOody (0:1)<br>
+<br>
+60. #johannn (1070) 0<br>
++53|+56|+47|+42|+33|+27|+13|+12|+6|-2<br>
+	1. Parko (1:4)<br>
+	6. JDHA218 (8:6)<br>
+	7. MadDookie (13:13)<br>
+	8. Captain-Levi (8:7)<br>
+	9. spaceycarrot (0:1)<br>
 <br>
 61. #BenjIKoZoR (1067) 0<br>
-+40|+34|+32|+35|+33|+26|+26|+19|+18|+5<br>
++41|+34|+32|+36|+34|+27|+26|+19|+18|+5<br>
 	1. Parko (52:74)<br>
 	2. sirgrapeLot (5:4)<br>
 	3. Enlights (65:89)<br>
 	4. Reclamation- (11:8)<br>
 	5. Vadim1707 (11:28)<br>
-	6. JDHA218 (151:177)<br>
+	6. JDHA218 (162:188)<br>
 	7. MadDookie (204:284)<br>
-	8. Captain-Levi (8:14)<br>
-	9. GoOody (9:8)<br>
-	10. spaceycarrot (25:36)<br>
+	8. Captain-Levi (13:18)<br>
+	9. spaceycarrot (25:36)<br>
+	10. GoOody (9:8)<br>
 <br>
 62. #GaudyWeasel (1066) 0<br>
 +11|+10|+6|+10|+9|+4|+5|-2|-3|+2<br>
@@ -641,59 +657,51 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Vadim1707 (0:1)<br>
 	6. JDHA218 (15:23)<br>
 	7. MadDookie (49:53)<br>
-	8. Captain-Levi (3:2)<br>
-	10. spaceycarrot (5:10)<br>
+	8. Captain-Levi (4:4)<br>
+	9. spaceycarrot (5:10)<br>
 <br>
-63. #Mutation- (1065) 0<br>
-+59|+45|+35|+34|+15|+7|+3|+6<br>
-	1. Parko (5:9)<br>
-	3. Enlights (5:5)<br>
-	6. JDHA218 (24:32)<br>
-	7. MadDookie (82:76)<br>
-	9. GoOody (2:1)<br>
-	10. spaceycarrot (6:9)<br>
-<br>
-64. #Orbiter (1061) +1<br>
-+38|+35|+34|+33|+33|+34|+25|+14|+11|+5<br>
+63. #Orbiter (1061) +1<br>
++39|+35|+34|+33|+33|+34|+25|+14|+11|+5<br>
 	1. Parko (8:8)<br>
 	3. Enlights (4:9)<br>
 	4. Reclamation- (1:0)<br>
 	6. JDHA218 (8:14)<br>
 	7. MadDookie (10:12)<br>
-	8. Captain-Levi (1:1)<br>
+	8. Captain-Levi (5:5)<br>
 <br>
-65. #mafl (1061) 0<br>
--10|-16|-18|-23|-15|-16|-13|-9|-5|-2<br>
+64. #mafl (1061) 0<br>
+-10|-16|-18|-23|-15|-16|-13|-8|-5|-2<br>
 	1. Parko (5:4)<br>
 	3. Enlights (21:36)<br>
 	4. Reclamation- (5:14)<br>
-	6. JDHA218 (21:33)<br>
+	6. JDHA218 (23:35)<br>
 	7. MadDookie (68:89)<br>
-	8. Captain-Levi (8:4)<br>
+	8. Captain-Levi (12:7)<br>
 <br>
-66. #GenghisCon (1059) 0<br>
-+11|+14|+14|+16|+17|+16|+10|+5|+4|+2<br>
+65. #GenghisCon (1061) 0<br>
++11|+13|+14|+16|+17|+16|+10|+5|+4|+2<br>
 	1. Parko (28:52)<br>
 	2. sirgrapeLot (13:14)<br>
 	3. Enlights (44:62)<br>
 	4. Reclamation- (9:15)<br>
 	5. Vadim1707 (7:4)<br>
-	6. JDHA218 (85:122)<br>
+	6. JDHA218 (86:124)<br>
 	7. MadDookie (170:240)<br>
-	8. Captain-Levi (7:12)<br>
-	9. GoOody (11:10)<br>
-	10. spaceycarrot (32:38)<br>
+	8. Captain-Levi (39:61)<br>
+	9. spaceycarrot (32:38)<br>
+	10. GoOody (11:10)<br>
 <br>
-67. #Shadowblaze. (1058) 0<br>
-+59|+56|+58|+49|+44|+38|+24|+12|-1<br>
+66. #Shadowblaze. (1059) 0<br>
++60|+57|+59|+50|+44|+39|+24|+12|-1<br>
 	1. Parko (2:7)<br>
 	4. Reclamation- (4:2)<br>
-	6. JDHA218 (15:17)<br>
+	6. JDHA218 (24:28)<br>
 	7. MadDookie (88:101)<br>
-	9. GoOody (2:4)<br>
-	10. spaceycarrot (1:2)<br>
+	8. Captain-Levi (6:6)<br>
+	9. spaceycarrot (1:2)<br>
+	10. GoOody (2:4)<br>
 <br>
-68. #sadpanda (1058) 0<br>
+67. #sadpanda (1058) 0<br>
 +4|-4|-7|-12|-8|-11|-17|-15|-11|-6<br>
 	1. Parko (3:13)<br>
 	2. sirgrapeLot (2:3)<br>
@@ -701,21 +709,21 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. Reclamation- (3:4)<br>
 	6. JDHA218 (11:19)<br>
 	7. MadDookie (22:28)<br>
-	10. spaceycarrot (7:6)<br>
+	9. spaceycarrot (7:6)<br>
 <br>
-69. #Gideon (1057) 0<br>
--32|-35|-28|-19|-24|-17|-16|-18|-3|0<br>
+68. #Gideon (1058) 0<br>
+-31|-35|-27|-19|-23|-16|-15|-17|-3|0<br>
 	1. Parko (1:9)<br>
 	2. sirgrapeLot (1:1)<br>
 	3. Enlights (11:16)<br>
 	4. Reclamation- (0:4)<br>
-	6. JDHA218 (34:28)<br>
+	6. JDHA218 (39:35)<br>
 	7. MadDookie (72:112)<br>
-	8. Captain-Levi (2:8)<br>
-	9. GoOody (2:3)<br>
-	10. spaceycarrot (5:3)<br>
+	8. Captain-Levi (8:15)<br>
+	9. spaceycarrot (5:3)<br>
+	10. GoOody (2:3)<br>
 <br>
-70. #newpoweR (1056) 0<br>
+69. #newpoweR (1056) 0<br>
 -28|-17|-17|-15|-15|-10|-10|+3|+2|+1<br>
 	1. Parko (1:2)<br>
 	3. Enlights (7:11)<br>
@@ -723,18 +731,24 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (8:15)<br>
 	7. MadDookie (16:17)<br>
 	8. Captain-Levi (1:1)<br>
-	9. GoOody (0:1)<br>
-	10. spaceycarrot (7:4)<br>
+	9. spaceycarrot (7:4)<br>
+	10. GoOody (0:1)<br>
 <br>
-71. #VOSTOK (1051) 0<br>
+70. #VOSTOK (1051) 0<br>
 +12|+11|+11|+3|+6|+2|+10|+5|-3|+3<br>
 	1. Parko (2:7)<br>
 	3. Enlights (17:26)<br>
 	5. Vadim1707 (0:1)<br>
-	6. JDHA218 (28:28)<br>
+	6. JDHA218 (34:30)<br>
 	7. MadDookie (41:55)<br>
-	8. Captain-Levi (7:10)<br>
-	10. spaceycarrot (12:16)<br>
+	8. Captain-Levi (16:23)<br>
+	9. spaceycarrot (12:16)<br>
+<br>
+71. #dylanburch (1050) -2<br>
++22|+11|+6|+8|-5|+1|+13|+14|+7|0<br>
+	6. JDHA218 (23:24)<br>
+	7. MadDookie (6:4)<br>
+	8. Captain-Levi (2:5)<br>
 <br>
 72. #Gone_vortex (1049) 0<br>
 +1|-7|-3|+6|+4|+1|-4|-7|-2|0<br>
@@ -743,50 +757,48 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. Reclamation- (0:4)<br>
 	6. JDHA218 (6:10)<br>
 	7. MadDookie (19:24)<br>
-	10. spaceycarrot (5:21)<br>
+	9. spaceycarrot (5:21)<br>
 <br>
-73. #dylanburch (1048) -2<br>
-+20|+8|+4|+6|-7|-1|+11|+12|+6|-1<br>
-	7. MadDookie (6:4)<br>
-<br>
-74. #lava_76 (1047) 0<br>
-+6|+4|+12|+4|+1|+5|+2|-5|-8|-2<br>
+73. #lava_76 (1047) 0<br>
++7|+5|+13|+5|+1|+5|+2|-5|-8|-2<br>
 	1. Parko (24:40)<br>
 	3. Enlights (53:69)<br>
 	4. Reclamation- (2:7)<br>
 	5. Vadim1707 (0:1)<br>
 	6. JDHA218 (48:57)<br>
 	7. MadDookie (124:175)<br>
-	8. Captain-Levi (7:7)<br>
-	9. GoOody (10:6)<br>
-	10. spaceycarrot (10:10)<br>
+	8. Captain-Levi (14:16)<br>
+	9. spaceycarrot (10:10)<br>
+	10. GoOody (10:6)<br>
 <br>
-75. #jas (1047) 0<br>
--15|-19|-20|-24|-16|-21|-16|-10|0|+2<br>
+74. #jas (1047) 0<br>
+-15|-19|-20|-24|-16|-20|-15|-10|0|+2<br>
 	1. Parko (7:21)<br>
-	6. JDHA218 (3:11)<br>
+	6. JDHA218 (6:12)<br>
 	7. MadDookie (11:11)<br>
-	8. Captain-Levi (2:1)<br>
-	9. GoOody (1:0)<br>
-	10. spaceycarrot (4:9)<br>
+	8. Captain-Levi (5:3)<br>
+	9. spaceycarrot (4:9)<br>
+	10. GoOody (1:0)<br>
 <br>
-76. #sAmA (1046) 0<br>
-+28|+25|+17|+22|+18|+9|+7|+7|+9|+2<br>
+75. #sAmA (1046) 0<br>
++27|+24|+17|+22|+17|+9|+7|+7|+9|+2<br>
 	3. Enlights (1:1)<br>
 	4. Reclamation- (0:1)<br>
 	6. JDHA218 (10:23)<br>
 	7. MadDookie (34:41)<br>
-	9. GoOody (1:3)<br>
-	10. spaceycarrot (2:2)<br>
+	8. Captain-Levi (3:3)<br>
+	9. spaceycarrot (2:2)<br>
+	10. GoOody (1:3)<br>
 <br>
-77. #Master_Yoda_ (1044) 0<br>
-+29|+24|+15|+8|+3<br>
-	1. Parko (7:11)<br>
-	4. Reclamation- (6:8)<br>
-	7. MadDookie (21:20)<br>
-	10. spaceycarrot (2:4)<br>
+76. #Handyinsect (1042) 0<br>
+-6|-11|-11|-3|-8|-4|-7|-9|-6|-1<br>
+	6. JDHA218 (4:7)<br>
+	7. MadDookie (8:7)<br>
+	8. Captain-Levi (17:20)<br>
+	9. spaceycarrot (10:19)<br>
+	10. GoOody (2:5)<br>
 <br>
-78. #SUPREME._ (1041) 0<br>
+77. #SUPREME._ (1041) 0<br>
 +33|+25|+20|+14|+11|+9|+3|+10|+4|-1<br>
 	1. Parko (4:5)<br>
 	2. sirgrapeLot (6:4)<br>
@@ -795,287 +807,307 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (0:2)<br>
 	7. MadDookie (11:16)<br>
 	8. Captain-Levi (1:2)<br>
-	10. spaceycarrot (7:10)<br>
+	9. spaceycarrot (7:10)<br>
 <br>
-79. #Handyinsect (1041) 0<br>
--7|-12|-12|-4|-9|-5|-8|-10|-6|-1<br>
-	7. MadDookie (8:7)<br>
-	9. GoOody (2:5)<br>
-	10. spaceycarrot (10:19)<br>
-<br>
-80. #MAKki (1040) 0<br>
-+7|+11|+1|+3|-5|-5|-3|-5|-2|-4<br>
+78. #MAKki (1040) 0<br>
++8|+11|+1|+3|-4|-5|-3|-5|-2|-4<br>
 	3. Enlights (2:2)<br>
 	4. Reclamation- (3:2)<br>
+	6. JDHA218 (0:2)<br>
 	7. MadDookie (3:2)<br>
-	10. spaceycarrot (4:4)<br>
+	9. spaceycarrot (4:4)<br>
 <br>
-81. #Kurok (1039) 0<br>
+79. #Kurok (1039) 0<br>
 -16|-13|-13|-9|-1|-7|-5|-1|-2|0<br>
 	3. Enlights (2:4)<br>
 	4. Reclamation- (2:2)<br>
 	6. JDHA218 (8:10)<br>
 	7. MadDookie (17:21)<br>
+	8. Captain-Levi (0:2)<br>
 <br>
-82. #xpedient (1039) 0<br>
+80. #xpedient (1039) 0<br>
 +21|+23|+18|+12|+11|+10|+4|+5|+1|-2<br>
 	4. Reclamation- (3:0)<br>
 	6. JDHA218 (5:5)<br>
 	7. MadDookie (13:20)<br>
+	8. Captain-Levi (12:10)<br>
 <br>
-83. #Xoi (1038) 0<br>
-+38|+27|+19|+17|+7|+8|+6<br>
-	3. Enlights (11:6)<br>
-	7. MadDookie (18:24)<br>
-	9. GoOody (2:1)<br>
-	10. spaceycarrot (4:7)<br>
-<br>
-84. #monsterV (1037) 0<br>
--9|-11|-16|-12|-17|-13|-13|-13|-11|-1<br>
+81. #monsterV (1038) 0<br>
+-8|-10|-15|-11|-16|-12|-13|-12|-11|-1<br>
 	1. Parko (4:8)<br>
 	3. Enlights (8:10)<br>
 	6. JDHA218 (30:53)<br>
 	7. MadDookie (44:73)<br>
-	10. spaceycarrot (6:1)<br>
+	8. Captain-Levi (17:19)<br>
+	9. spaceycarrot (6:1)<br>
 <br>
-85. #101010 (1035) 0<br>
+82. #Xoi (1038) 0<br>
++38|+27|+19|+17|+7|+8|+6<br>
+	3. Enlights (11:6)<br>
+	7. MadDookie (18:24)<br>
+	9. spaceycarrot (4:7)<br>
+	10. GoOody (2:1)<br>
+<br>
+83. #101010 (1035) 0<br>
 -2|-4|+2|-5|+2|+7|+5|+3|+1|+3<br>
 	3. Enlights (1:5)<br>
 	6. JDHA218 (5:3)<br>
 	7. MadDookie (6:4)<br>
-	8. Captain-Levi (2:3)<br>
-	10. spaceycarrot (2:5)<br>
+	8. Captain-Levi (3:4)<br>
+	9. spaceycarrot (2:5)<br>
 <br>
-86. #Ogun (1035) 0<br>
+84. #Ogun (1035) 0<br>
 +33|+32|+29|+32|+31|+39|+30|+27|+24|+14<br>
 	6. JDHA218 (15:13)<br>
 	7. MadDookie (49:38)<br>
-	10. spaceycarrot (4:4)<br>
+	9. spaceycarrot (4:4)<br>
 <br>
-87. #necrosis_24 (1032) 0<br>
-+7|+6|+2|+8|+1|-8|-11|-6|-4|-7<br>
+85. #necrosis_24 (1033) 0<br>
++8|+7|+3|+9|+1|-7|-10|-6|-4|-7<br>
+	6. JDHA218 (6:8)<br>
 	7. MadDookie (13:25)<br>
-	9. GoOody (4:9)<br>
+	10. GoOody (4:9)<br>
 <br>
-88. #Zimmux (1032) 0<br>
-+17|+21|+14|+12|+13|+20|+16|+16|+9|0<br>
-	1. Parko (4:4)<br>
-	4. Reclamation- (4:2)<br>
-	7. MadDookie (1:0)<br>
-<br>
-89. #balthazar- (1031) 0<br>
-+29|+28|+22|+13|+10|+2|+1<br>
+86. #balthazar- (1032) 0<br>
++29|+29|+23|+13|+10|+3|+1<br>
 	1. Parko (9:6)<br>
 	3. Enlights (26:26)<br>
-	6. JDHA218 (19:23)<br>
+	6. JDHA218 (23:27)<br>
 	7. MadDookie (27:42)<br>
-	8. Captain-Levi (3:4)<br>
+	8. Captain-Levi (8:8)<br>
 <br>
-90. #danbaum (1028) 0<br>
+87. #Zimmux (1031) 0<br>
++17|+20|+14|+12|+13|+19|+16|+16|+8|0<br>
+	1. Parko (4:4)<br>
+	4. Reclamation- (4:2)<br>
+	6. JDHA218 (3:2)<br>
+	7. MadDookie (1:0)<br>
+<br>
+88. #danbaum (1028) 0<br>
 -14|-12|-16|-23|-18|-16|-12|-11|-6|0<br>
 	3. Enlights (2:1)<br>
 	7. MadDookie (19:24)<br>
 <br>
-91. #WhiteFangz (1027) 0<br>
-0|-7|-7|-1|+1|-1|+5|+3|+1|-1<br>
+89. #WhiteFangz (1028) 0<br>
++1|-6|-6|0|+2|0|+6|+4|+2|-1<br>
 	3. Enlights (3:4)<br>
-	6. JDHA218 (10:5)<br>
+	6. JDHA218 (24:13)<br>
 	7. MadDookie (17:18)<br>
-	9. GoOody (2:3)<br>
-	10. spaceycarrot (23:19)<br>
+	8. Captain-Levi (3:11)<br>
+	9. spaceycarrot (23:19)<br>
+	10. GoOody (2:3)<br>
 <br>
-92. #theAceofGame (1025) 0<br>
-+25|+23|+23|+16|+21|+14|+5<br>
-	6. JDHA218 (11:12)<br>
-	7. MadDookie (29:25)<br>
-	10. spaceycarrot (2:2)<br>
-<br>
-93. #NuMbEr1DaDDy (1025) 0<br>
+90. #NuMbEr1DaDDy (1026) 0<br>
 +16|+10|+17|+10<br>
 	1. Parko (0:3)<br>
 	3. Enlights (3:5)<br>
-	6. JDHA218 (19:16)<br>
+	6. JDHA218 (19:17)<br>
 	7. MadDookie (67:58)<br>
-	9. GoOody (6:4)<br>
-	10. spaceycarrot (6:3)<br>
+	8. Captain-Levi (9:11)<br>
+	9. spaceycarrot (6:3)<br>
+	10. GoOody (6:4)<br>
 <br>
-94. #Ghazali (1024) 0<br>
--4|-11|-5|+3|+1|0|+9|+12|+12|+2<br>
+91. #theAceofGame (1025) 0<br>
++24|+23|+23|+16|+21|+14|+5<br>
+	6. JDHA218 (11:12)<br>
+	7. MadDookie (29:25)<br>
+	8. Captain-Levi (1:0)<br>
+	9. spaceycarrot (2:2)<br>
+<br>
+92. #Ghazali (1025) 0<br>
+-4|-10|-4|+3|+1|0|+10|+13|+12|+2<br>
 	1. Parko (8:14)<br>
 	3. Enlights (43:65)<br>
 	4. Reclamation- (0:1)<br>
 	6. JDHA218 (36:47)<br>
 	7. MadDookie (93:139)<br>
-	8. Captain-Levi (30:37)<br>
-	9. GoOody (2:7)<br>
-	10. spaceycarrot (42:53)<br>
+	8. Captain-Levi (37:49)<br>
+	9. spaceycarrot (42:53)<br>
+	10. GoOody (2:7)<br>
 <br>
-95. #quickmill (1024) 0<br>
+93. #quickmill (1024) 0<br>
 -29|-23|-23|-20|-17|-14|-10|-5|-6|+1<br>
 	3. Enlights (1:2)<br>
 	7. MadDookie (3:1)<br>
 <br>
-96. #milkyway (1024) 0<br>
-+21|+18|+18|+1|0<br>
+94. #milkyway (1024) 0<br>
++22|+18|+19|+1|0<br>
 	1. Parko (1:0)<br>
 	4. Reclamation- (2:5)<br>
 	6. JDHA218 (2:2)<br>
 	7. MadDookie (1:4)<br>
-	9. GoOody (1:1)<br>
+	8. Captain-Levi (1:4)<br>
+	10. GoOody (1:1)<br>
 <br>
-97. #Glass- (1024) 0<br>
--7|-2|-2|-5|-3|-3|-7|-13|-11|+1<br>
+95. #Glass- (1024) 0<br>
+-7|-2|-2|-5|-3|-3|-7|-13|-10|+1<br>
 	1. Parko (0:1)<br>
 	3. Enlights (15:21)<br>
 	4. Reclamation- (3:4)<br>
 	5. Vadim1707 (1:7)<br>
 	6. JDHA218 (30:37)<br>
 	7. MadDookie (26:40)<br>
-	9. GoOody (0:1)<br>
-	10. spaceycarrot (1:0)<br>
+	9. spaceycarrot (1:0)<br>
+	10. GoOody (0:1)<br>
 <br>
-98. #batman7000 (1023) 0<br>
+96. #panadool (1024) 0<br>
++8|+3|+4|-1|+5|+3|+10|+2|+7|+1<br>
+	1. Parko (49:68)<br>
+	3. Enlights (33:58)<br>
+	4. Reclamation- (13:18)<br>
+	6. JDHA218 (88:131)<br>
+	7. MadDookie (158:187)<br>
+	8. Captain-Levi (21:17)<br>
+	9. spaceycarrot (18:14)<br>
+	10. GoOody (11:11)<br>
+<br>
+97. #batman7000 (1023) 0<br>
 +32|+28|+17|+11|+5<br>
 	1. Parko (6:7)<br>
 	2. sirgrapeLot (3:5)<br>
 	3. Enlights (0:3)<br>
 	4. Reclamation- (8:16)<br>
-	6. JDHA218 (8:13)<br>
+	6. JDHA218 (8:14)<br>
 	7. MadDookie (45:51)<br>
-	10. spaceycarrot (3:5)<br>
+	8. Captain-Levi (3:5)<br>
+	9. spaceycarrot (3:5)<br>
 <br>
-99. #panadool (1023) 0<br>
-+7|+2|+3|-2|+4|+2|+9|+2|+7|0<br>
-	1. Parko (49:68)<br>
-	3. Enlights (33:58)<br>
-	4. Reclamation- (13:18)<br>
-	6. JDHA218 (71:110)<br>
-	7. MadDookie (158:187)<br>
-	8. Captain-Levi (15:15)<br>
-	9. GoOody (11:11)<br>
-	10. spaceycarrot (18:14)<br>
-<br>
-100. #Priceless- (1023) 0<br>
+98. #Priceless- (1023) 0<br>
 +9|-1<br>
 	1. Parko (6:6)<br>
+	6. JDHA218 (3:4)<br>
 	7. MadDookie (24:17)<br>
-	10. spaceycarrot (4:4)<br>
+	8. Captain-Levi (4:2)<br>
+	9. spaceycarrot (4:4)<br>
 <br>
-101. #JazzyDeer (1023) 0<br>
+99. #JazzyDeer (1023) 0<br>
 +15|+7|+3<br>
 	3. Enlights (4:6)<br>
 	4. Reclamation- (4:3)<br>
 	6. JDHA218 (21:16)<br>
 	7. MadDookie (21:36)<br>
+	8. Captain-Levi (1:2)<br>
 <br>
-102. #babymetal (1022) 0<br>
--14|-13|-16|-10|-6|-9|-2|-9|-7|-2<br>
+100. #babymetal (1021) 0<br>
+-15|-14|-16|-10|-6|-9|-2|-10|-8|-2<br>
 	1. Parko (25:31)<br>
 	3. Enlights (64:79)<br>
 	4. Reclamation- (15:13)<br>
 	5. Vadim1707 (0:3)<br>
-	6. JDHA218 (72:97)<br>
+	6. JDHA218 (75:104)<br>
 	7. MadDookie (116:172)<br>
-	8. Captain-Levi (5:10)<br>
-	9. GoOody (5:1)<br>
-	10. spaceycarrot (33:43)<br>
+	8. Captain-Levi (9:13)<br>
+	9. spaceycarrot (33:43)<br>
+	10. GoOody (5:1)<br>
 <br>
-103. #to_o (1020) 0<br>
+101. #to_o (1020) 0<br>
 +12<br>
 	3. Enlights (1:1)<br>
 	4. Reclamation- (1:0)<br>
 	5. Vadim1707 (28:30)<br>
 	7. MadDookie (9:6)<br>
 	8. Captain-Levi (5:3)<br>
-	9. GoOody (0:1)<br>
-	10. spaceycarrot (0:1)<br>
+	9. spaceycarrot (0:1)<br>
+	10. GoOody (0:1)<br>
 <br>
-104. #ruBEARRx (1020) 0<br>
--5|0|-3|-4|-1|+6|+9|+2|-6|-2<br>
+102. #ruBEARRx (1020) 0<br>
+-5|0|-2|-4|0|+7|+9|+2|-6|-2<br>
 	1. Parko (16:17)<br>
 	2. sirgrapeLot (7:3)<br>
 	4. Reclamation- (6:3)<br>
 	5. Vadim1707 (11:15)<br>
 	6. JDHA218 (47:59)<br>
 	7. MadDookie (56:87)<br>
-	8. Captain-Levi (1:2)<br>
-	9. GoOody (6:14)<br>
+	8. Captain-Levi (5:6)<br>
+	10. GoOody (6:14)<br>
 <br>
-105. #Tyler- (1019) 0<br>
+103. #Tyler- (1019) 0<br>
 +10|+11|+4<br>
 	1. Parko (26:25)<br>
 	3. Enlights (3:2)<br>
 	4. Reclamation- (3:4)<br>
 	6. JDHA218 (13:10)<br>
 	7. MadDookie (8:11)<br>
-	10. spaceycarrot (16:24)<br>
+	9. spaceycarrot (16:24)<br>
 <br>
-106. #Necabo (1019) 0<br>
+104. #Necabo (1019) 0<br>
 +2<br>
 	1. Parko (5:9)<br>
 	3. Enlights (1:0)<br>
 	6. JDHA218 (4:7)<br>
 	7. MadDookie (19:12)<br>
 <br>
-107. #Joergfu (1018) 0<br>
+105. #Joergfu (1018) 0<br>
 0|0|-3|-6|+4|-2|0|-4|0|+3<br>
 	3. Enlights (2:1)<br>
 	5. Vadim1707 (0:2)<br>
 	6. JDHA218 (19:15)<br>
 	7. MadDookie (14:27)<br>
-	10. spaceycarrot (3:4)<br>
+	8. Captain-Levi (0:10)<br>
+	9. spaceycarrot (3:4)<br>
 <br>
-108. #tamim (1018) 0<br>
-+10|+11|+22|+27|+13|+7|-2|-5|-2|+2<br>
+106. #tamim (1018) 0<br>
++10|+10|+22|+27|+13|+7|-2|-5|-2|+2<br>
 	1. Parko (4:4)<br>
 	2. sirgrapeLot (6:1)<br>
 	3. Enlights (4:12)<br>
 	6. JDHA218 (16:14)<br>
 	7. MadDookie (18:36)<br>
-	10. spaceycarrot (3:4)<br>
+	9. spaceycarrot (3:4)<br>
 <br>
-109. #TwistedJorge (1017) 0<br>
--6|-1|-1|-4|-1|+3|+5|+5|+4|+1<br>
+107. #Jackalope (1017) 0<br>
++10<br>
+	6. JDHA218 (17:11)<br>
+<br>
+108. #TwistedJorge (1017) 0<br>
+-6|-1|-1|-3|-1|+4|+5|+5|+4|+1<br>
 	1. Parko (19:35)<br>
 	2. sirgrapeLot (1:2)<br>
 	3. Enlights (6:12)<br>
 	4. Reclamation- (3:1)<br>
 	5. Vadim1707 (0:2)<br>
-	6. JDHA218 (13:19)<br>
+	6. JDHA218 (18:23)<br>
 	7. MadDookie (30:38)<br>
 	8. Captain-Levi (1:0)<br>
-	9. GoOody (8:7)<br>
-	10. spaceycarrot (10:22)<br>
+	9. spaceycarrot (10:22)<br>
+	10. GoOody (8:7)<br>
 <br>
-110. #Infatuation- (1017) 0<br>
-+8|+2<br>
-	1. Parko (14:11)<br>
-	4. Reclamation- (0:1)<br>
-	6. JDHA218 (6:10)<br>
-	7. MadDookie (20:24)<br>
-	10. spaceycarrot (3:2)<br>
-<br>
-111. #Jackalope (1017) 0<br>
-+9<br>
-<br>
-112. #ElvishLeaf (1015) 0<br>
-+7<br>
-	1. Parko (8:4)<br>
-	7. MadDookie (9:10)<br>
-<br>
-113. #rpk (1015) 0<br>
--2|-5|-9|-6|-10|-3|-7|-5|-12|-4<br>
+109. #rpk (1017) 0<br>
+-2|-5|-9|-5|-9|-2|-6|-5|-11|-4<br>
 	1. Parko (61:98)<br>
 	2. sirgrapeLot (13:7)<br>
 	3. Enlights (87:134)<br>
 	4. Reclamation- (23:28)<br>
-	6. JDHA218 (270:340)<br>
+	6. JDHA218 (278:352)<br>
 	7. MadDookie (442:635)<br>
-	8. Captain-Levi (6:11)<br>
-	9. GoOody (7:8)<br>
-	10. spaceycarrot (64:78)<br>
+	8. Captain-Levi (52:50)<br>
+	9. spaceycarrot (64:78)<br>
+	10. GoOody (7:8)<br>
 <br>
-114. #Copper- (1015) 0<br>
+110. #Infatuation- (1017) 0<br>
++9|+2<br>
+	1. Parko (14:11)<br>
+	4. Reclamation- (0:1)<br>
+	6. JDHA218 (8:14)<br>
+	7. MadDookie (20:24)<br>
+	8. Captain-Levi (7:3)<br>
+	9. spaceycarrot (3:2)<br>
+<br>
+111. #ElvishLeaf (1015) 0<br>
++7<br>
+	1. Parko (8:4)<br>
+	7. MadDookie (9:10)<br>
+	8. Captain-Levi (2:1)<br>
+<br>
+112. #Brazzers (1015) 0<br>
++1|+1<br>
+	2. sirgrapeLot (1:2)<br>
+	4. Reclamation- (3:10)<br>
+	6. JDHA218 (4:5)<br>
+	8. Captain-Levi (1:0)<br>
+	10. GoOody (3:0)<br>
+<br>
+113. #Copper- (1015) 0<br>
 +15|+5<br>
 	1. Parko (10:12)<br>
 	3. Enlights (16:12)<br>
@@ -1085,134 +1117,144 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. MadDookie (35:30)<br>
 	8. Captain-Levi (1:0)<br>
 <br>
-115. #Brazzers (1015) 0<br>
-+1|+1<br>
-	2. sirgrapeLot (1:2)<br>
-	4. Reclamation- (3:10)<br>
-	9. GoOody (3:0)<br>
-<br>
-116. #Galconian- (1015) 0<br>
-+6<br>
-	3. Enlights (6:5)<br>
-	7. MadDookie (2:7)<br>
-<br>
-117. #supiorlemon (1015) 0<br>
-+13|+9|+9|+11|+6|+9|+9|+8|+3|+2<br>
+114. #supiorlemon (1015) 0<br>
++13|+10|+9|+11|+6|+9|+9|+8|+3|+2<br>
 	1. Parko (59:81)<br>
 	2. sirgrapeLot (1:0)<br>
 	3. Enlights (21:27)<br>
 	4. Reclamation- (10:13)<br>
 	6. JDHA218 (64:99)<br>
 	7. MadDookie (145:170)<br>
-	8. Captain-Levi (11:12)<br>
-	9. GoOody (3:4)<br>
-	10. spaceycarrot (13:10)<br>
+	8. Captain-Levi (20:23)<br>
+	9. spaceycarrot (13:10)<br>
+	10. GoOody (3:4)<br>
 <br>
-118. #YouGetDubbed (1013) 0<br>
+115. #Galconian- (1015) 0<br>
++6<br>
+	3. Enlights (6:5)<br>
+	7. MadDookie (2:7)<br>
+<br>
+116. #YouGetDubbed (1013) 0<br>
 +6<br>
 	6. JDHA218 (13:20)<br>
 	7. MadDookie (4:3)<br>
 <br>
-119. #BlackChalk~195 (1013) 0<br>
+117. #BlackChalk~195 (1013) 0<br>
 +8|+4<br>
 	1. Parko (2:2)<br>
 	7. MadDookie (12:19)<br>
-	10. spaceycarrot (8:10)<br>
+	8. Captain-Levi (6:8)<br>
+	9. spaceycarrot (8:10)<br>
 <br>
-120. #SweetTooth~619 (1012) 0<br>
-+2|+4|+5|-3|-3|+3|+9|+4|-2|-5<br>
-	1. Parko (20:23)<br>
-	2. sirgrapeLot (1:0)<br>
-	3. Enlights (14:24)<br>
-	4. Reclamation- (6:6)<br>
-	6. JDHA218 (56:64)<br>
-	7. MadDookie (82:112)<br>
-	8. Captain-Levi (7:5)<br>
-	9. GoOody (5:5)<br>
-	10. spaceycarrot (31:36)<br>
-<br>
-121. #Vhyme (1012) 0<br>
-+9|-4<br>
-	1. Parko (10:4)<br>
-	3. Enlights (0:2)<br>
-	6. JDHA218 (10:18)<br>
-	7. MadDookie (15:16)<br>
-<br>
-122. #SauceSamurai (1012) 0<br>
-+11|+11|+7<br>
+118. #SauceSamurai (1013) 0<br>
++12|+12|+8<br>
 	1. Parko (3:5)<br>
 	3. Enlights (3:6)<br>
 	4. Reclamation- (1:0)<br>
 	6. JDHA218 (34:39)<br>
 	7. MadDookie (58:79)<br>
-	10. spaceycarrot (1:5)<br>
+	8. Captain-Levi (22:14)<br>
+	9. spaceycarrot (1:5)<br>
 <br>
-123. #blingbling (1011) 0<br>
+119. #Vhyme (1013) 0<br>
++10|-4<br>
+	1. Parko (10:4)<br>
+	3. Enlights (0:2)<br>
+	6. JDHA218 (15:26)<br>
+	7. MadDookie (15:16)<br>
+	8. Captain-Levi (6:5)<br>
+<br>
+120. #SweetTooth~619 (1012) 0<br>
++3|+4|+6|-2|-3|+3|+9|+4|-2|-5<br>
+	1. Parko (20:23)<br>
+	2. sirgrapeLot (1:0)<br>
+	3. Enlights (14:24)<br>
+	4. Reclamation- (6:6)<br>
+	6. JDHA218 (62:71)<br>
+	7. MadDookie (82:112)<br>
+	8. Captain-Levi (10:9)<br>
+	9. spaceycarrot (31:36)<br>
+	10. GoOody (5:5)<br>
+<br>
+121. #ExoticVioli~142 (1012) 0<br>
+0<br>
+	7. MadDookie (4:4)<br>
+	8. Captain-Levi (1:3)<br>
+	10. GoOody (3:5)<br>
+<br>
+122. #blingbling (1011) 0<br>
 +5<br>
 	1. Parko (3:5)<br>
 	3. Enlights (14:11)<br>
 	4. Reclamation- (10:8)<br>
 	6. JDHA218 (15:10)<br>
 	7. MadDookie (9:4)<br>
-	9. GoOody (6:2)<br>
+	10. GoOody (6:2)<br>
 <br>
-124. #ExoticVioli~142 (1011) 0<br>
-0<br>
-	7. MadDookie (4:4)<br>
-	9. GoOody (3:5)<br>
-<br>
-125. #Penguin- (1011) 0<br>
+123. #Penguin- (1011) 0<br>
 +3<br>
 	4. Reclamation- (10:15)<br>
-	10. spaceycarrot (4:1)<br>
+	6. JDHA218 (6:6)<br>
+	9. spaceycarrot (4:1)<br>
 <br>
-126. #FilthyGlide~918 (1011) 0<br>
+124. #knightingale (1011) 0<br>
++3<br>
+	4. Reclamation- (13:17)<br>
+	6. JDHA218 (12:7)<br>
+	7. MadDookie (1:2)<br>
+<br>
+125. #FilthyGlide~918 (1011) 0<br>
 +3|0<br>
 	1. Parko (1:0)<br>
 	6. JDHA218 (7:11)<br>
 	7. MadDookie (33:37)<br>
+	8. Captain-Levi (2:1)<br>
 <br>
-127. #knightingale (1011) 0<br>
-+3<br>
-	4. Reclamation- (13:17)<br>
-	7. MadDookie (1:2)<br>
-<br>
-128. #Vagabond- (1010) 0<br>
+126. #Vagabond- (1011) 0<br>
 +5|+1<br>
 	1. Parko (6:18)<br>
 	3. Enlights (3:3)<br>
 	6. JDHA218 (3:13)<br>
 	7. MadDookie (24:26)<br>
-	10. spaceycarrot (8:7)<br>
+	8. Captain-Levi (4:3)<br>
+	9. spaceycarrot (8:7)<br>
 <br>
-129. #holzabee86 (1010) 0<br>
-+3<br>
-	6. JDHA218 (4:7)<br>
-	7. MadDookie (3:5)<br>
-	9. GoOody (1:2)<br>
-	10. spaceycarrot (1:0)<br>
-<br>
-130. #SUPREME-- (1010) 0<br>
-+3|-1|+3<br>
-	1. Parko (2:5)<br>
-	3. Enlights (0:1)<br>
-	6. JDHA218 (30:31)<br>
-	7. MadDookie (17:18)<br>
-	9. GoOody (2:4)<br>
-	10. spaceycarrot (7:10)<br>
-<br>
-131. #A_Skiller (1010) 0<br>
-+24|+19|+13|+12|+15|+14|+8|+8|+2|-5<br>
+127. #A_Skiller (1010) 0<br>
++25|+19|+14|+12|+15|+14|+9|+8|+2|-5<br>
 	1. Parko (3:7)<br>
 	3. Enlights (3:5)<br>
 	4. Reclamation- (0:4)<br>
 	5. Vadim1707 (0:1)<br>
 	6. JDHA218 (6:13)<br>
 	7. MadDookie (55:63)<br>
-	8. Captain-Levi (6:8)<br>
-	10. spaceycarrot (1:4)<br>
+	8. Captain-Levi (9:10)<br>
+	9. spaceycarrot (1:4)<br>
 <br>
-132. #Minxy (1009) 0<br>
+128. #holzabee86 (1010) 0<br>
++3<br>
+	6. JDHA218 (4:9)<br>
+	7. MadDookie (3:5)<br>
+	8. Captain-Levi (1:2)<br>
+	9. spaceycarrot (1:0)<br>
+	10. GoOody (1:2)<br>
+<br>
+129. #SUPREME-- (1010) 0<br>
++3|-1|+3<br>
+	1. Parko (2:5)<br>
+	3. Enlights (0:1)<br>
+	6. JDHA218 (30:31)<br>
+	7. MadDookie (17:18)<br>
+	8. Captain-Levi (7:12)<br>
+	9. spaceycarrot (7:10)<br>
+	10. GoOody (2:4)<br>
+<br>
+130. #phaedrus (1009) 0<br>
++1<br>
+	7. MadDookie (2:6)<br>
+	8. Captain-Levi (4:11)<br>
+	9. spaceycarrot (8:8)<br>
+<br>
+131. #Minxy (1009) 0<br>
 +5|+3|+2<br>
 	3. Enlights (8:2)<br>
 	4. Reclamation- (1:0)<br>
@@ -1220,56 +1262,64 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (26:25)<br>
 	7. MadDookie (37:47)<br>
 	8. Captain-Levi (2:4)<br>
-	10. spaceycarrot (8:4)<br>
+	9. spaceycarrot (8:4)<br>
 <br>
-133. #phaedrus (1009) 0<br>
-+1<br>
-	7. MadDookie (2:6)<br>
-	10. spaceycarrot (8:8)<br>
-<br>
-134. #joropo808 (1009) 0<br>
-+2|+4|+7|+5|+5|+5|0|+2|+2|+1<br>
-	1. Parko (9:10)<br>
-	7. MadDookie (3:6)<br>
-	9. GoOody (5:9)<br>
-<br>
-135. #googooman (1009) 0<br>
+132. #googooman (1009) 0<br>
 +7|+4<br>
 	1. Parko (12:14)<br>
 	4. Reclamation- (1:6)<br>
+	6. JDHA218 (4:8)<br>
 	7. MadDookie (11:18)<br>
-	9. GoOody (0:1)<br>
-	10. spaceycarrot (6:4)<br>
+	9. spaceycarrot (6:4)<br>
+	10. GoOody (0:1)<br>
 <br>
-136. #Tribeur (1008) 0<br>
-+8|+10|+9|+8|+8|+1|-5|-5|-2|+1<br>
+133. #joropo808 (1009) 0<br>
++2|+4|+7|+4|+5|+5|0|+2|+2|+1<br>
+	1. Parko (9:10)<br>
+	6. JDHA218 (5:8)<br>
+	7. MadDookie (3:6)<br>
+	8. Captain-Levi (4:2)<br>
+	10. GoOody (5:9)<br>
+<br>
+134. #Tribeur (1009) 0<br>
++9|+10|+9|+8|+8|+2|-4|-4|-2|+2<br>
 	1. Parko (2:2)<br>
 	3. Enlights (0:1)<br>
-	6. JDHA218 (0:3)<br>
+	6. JDHA218 (0:4)<br>
 	7. MadDookie (6:9)<br>
-	9. GoOody (2:0)<br>
+	8. Captain-Levi (6:8)<br>
+	10. GoOody (2:0)<br>
 <br>
-137. #PolarBear- (1008) 0<br>
+135. #PolarBear- (1008) 0<br>
 +2<br>
+	6. JDHA218 (0:3)<br>
 	7. MadDookie (1:7)<br>
-	9. GoOody (0:3)<br>
-	10. spaceycarrot (4:3)<br>
+	8. Captain-Levi (11:7)<br>
+	9. spaceycarrot (4:3)<br>
+	10. GoOody (0:3)<br>
 <br>
-138. #sereros (1008) 0<br>
-+2<br>
-	4. Reclamation- (2:2)<br>
-	7. MadDookie (9:13)<br>
-	9. GoOody (0:1)<br>
-	10. spaceycarrot (11:12)<br>
-<br>
-139. #CopperJoke~710 (1008) 0<br>
+136. #CopperJoke~710 (1008) 0<br>
 +3|+1|-7|-2<br>
 	1. Parko (0:1)<br>
 	6. JDHA218 (1:10)<br>
 	7. MadDookie (8:5)<br>
 	8. Captain-Levi (1:1)<br>
 <br>
-140. #BurlyTurnip~681 (1007) 0<br>
+137. #sereros (1008) 0<br>
++2<br>
+	4. Reclamation- (2:2)<br>
+	7. MadDookie (9:13)<br>
+	9. spaceycarrot (11:12)<br>
+	10. GoOody (0:1)<br>
+<br>
+138. #WaxMonkey~887 (1007) 0<br>
++5<br>
+	1. Parko (4:9)<br>
+	6. JDHA218 (10:14)<br>
+	7. MadDookie (1:3)<br>
+	10. GoOody (0:1)<br>
+<br>
+139. #BurlyTurnip~681 (1007) 0<br>
 +6<br>
 	1. Parko (3:3)<br>
 	3. Enlights (3:5)<br>
@@ -1278,41 +1328,60 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. MadDookie (8:21)<br>
 	8. Captain-Levi (0:2)<br>
 <br>
-141. #WaxMonkey~887 (1007) 0<br>
-+5<br>
-	1. Parko (4:9)<br>
-	7. MadDookie (1:3)<br>
-	9. GoOody (0:1)<br>
-<br>
-142. #stuggidavid (1007) 0<br>
--30|-26|-22|-20|-16|-12|-4|-1|-1|0<br>
+140. #stuggidavid (1007) 0<br>
+-30|-26|-22|-20|-16|-11|-4|0|-1|0<br>
 	1. Parko (2:4)<br>
 	3. Enlights (1:3)<br>
 	4. Reclamation- (1:3)<br>
-	6. JDHA218 (11:17)<br>
+	6. JDHA218 (11:18)<br>
 	7. MadDookie (24:29)<br>
-	10. spaceycarrot (2:4)<br>
+	8. Captain-Levi (4:10)<br>
+	9. spaceycarrot (2:4)<br>
 <br>
-143. #Gal-Kung-Fu (1007) 0<br>
+141. #Gal-Kung-Fu (1007) 0<br>
 +3<br>
 	1. Parko (8:10)<br>
 	3. Enlights (1:1)<br>
 	6. JDHA218 (17:19)<br>
 	7. MadDookie (20:28)<br>
+	8. Captain-Levi (0:1)<br>
 <br>
-144. #Tempo12 (1006) 0<br>
+142. #Tempo12 (1006) 0<br>
 +8<br>
 	1. Parko (1:1)<br>
 	7. MadDookie (10:11)<br>
-	10. spaceycarrot (3:3)<br>
+	8. Captain-Levi (7:10)<br>
+	9. spaceycarrot (3:3)<br>
 <br>
-145. #Alto. (1005) 0<br>
+143. #Inspiration- (1005) 0<br>
++7|+1<br>
+	3. Enlights (1:2)<br>
+	4. Reclamation- (5:8)<br>
+	6. JDHA218 (20:31)<br>
+	7. MadDookie (24:35)<br>
+	8. Captain-Levi (15:10)<br>
+	9. spaceycarrot (9:2)<br>
+<br>
+144. #Alto. (1005) 0<br>
 +2<br>
 	1. Parko (4:1)<br>
 	5. Vadim1707 (7:17)<br>
 	6. JDHA218 (2:0)<br>
 	7. MadDookie (10:14)<br>
-	9. GoOody (2:1)<br>
+	10. GoOody (2:1)<br>
+<br>
+145. #TimDebJon (1005) 0<br>
++30|+31|+27|+22|+15|+12|+5|+4|+5|+3<br>
+	1. Parko (17:32)<br>
+	2. sirgrapeLot (3:3)<br>
+	3. Enlights (16:24)<br>
+	4. Reclamation- (1:8)<br>
+	5. Vadim1707 (4:4)<br>
+	6. JDHA218 (17:27)<br>
+	7. MadDookie (106:118)<br>
+	8. Captain-Levi (3:10)<br>
+	9. spaceycarrot (16:18)<br>
+	10. GoOody (5:7)<br>
 <br>
 146. #ki1laz0 (1005) 0<br>
 +6|-1|-5|0|0|-1<br>
@@ -1320,14 +1389,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (2:4)<br>
 	7. MadDookie (28:29)<br>
 <br>
-147. #Inspiration- (1005) 0<br>
-+7|+1<br>
-	3. Enlights (1:2)<br>
-	4. Reclamation- (5:8)<br>
-	6. JDHA218 (20:31)<br>
-	7. MadDookie (24:35)<br>
-	8. Captain-Levi (11:7)<br>
-	10. spaceycarrot (9:2)<br>
+147. #Buff-Plunts (1005) 0<br>
+0|-3|+5|+3|+9|+5<br>
+	1. Parko (6:5)<br>
+	3. Enlights (2:4)<br>
+	6. JDHA218 (9:8)<br>
+	7. MadDookie (18:20)<br>
+	8. Captain-Levi (0:1)<br>
+	9. spaceycarrot (3:3)<br>
 <br>
 148. #ChillyRobin~733 (1005) 0<br>
 +2<br>
@@ -1337,144 +1406,151 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (5:2)<br>
 	7. MadDookie (16:14)<br>
 <br>
-149. #Buff-Plunts (1005) 0<br>
-0|-3|+5|+2|+9|+5<br>
-	1. Parko (6:5)<br>
-	3. Enlights (2:4)<br>
-	6. JDHA218 (9:8)<br>
-	7. MadDookie (18:20)<br>
-	10. spaceycarrot (3:3)<br>
+149. #Vergilious (1005) 0<br>
++11|+12|+10|+10|+7|+1<br>
+	1. Parko (1:2)<br>
+	3. Enlights (4:1)<br>
+	4. Reclamation- (1:1)<br>
+	6. JDHA218 (4:15)<br>
+	7. MadDookie (11:7)<br>
+	8. Captain-Levi (7:13)<br>
+	9. spaceycarrot (8:7)<br>
 <br>
 150. #Opaline (1005) 0<br>
 0<br>
 	7. MadDookie (3:7)<br>
 <br>
-151. #TimDebJon (1005) 0<br>
-+30|+31|+27|+21|+15|+12|+4|+4|+5|+3<br>
-	1. Parko (17:32)<br>
-	2. sirgrapeLot (3:3)<br>
-	3. Enlights (16:24)<br>
-	4. Reclamation- (1:8)<br>
-	5. Vadim1707 (4:4)<br>
-	6. JDHA218 (17:25)<br>
-	7. MadDookie (106:118)<br>
-	9. GoOody (5:7)<br>
-	10. spaceycarrot (16:18)<br>
-<br>
-152. #Vergilious (1005) 0<br>
-+11|+12|+9|+10|+6|+2<br>
-	1. Parko (1:2)<br>
-	3. Enlights (4:1)<br>
-	4. Reclamation- (1:1)<br>
-	6. JDHA218 (2:9)<br>
-	7. MadDookie (11:7)<br>
-	8. Captain-Levi (0:1)<br>
-	10. spaceycarrot (8:7)<br>
-<br>
-153. #wibbs (1005) 0<br>
-+17|+6|+10|+5|+8|+6|+6|+5|+5|+1<br>
+151. #wibbs (1005) 0<br>
++17|+7|+11|+6|+9|+6|+6|+6|+6|+1<br>
 	1. Parko (3:13)<br>
 	2. sirgrapeLot (1:2)<br>
 	3. Enlights (8:17)<br>
 	4. Reclamation- (5:5)<br>
 	6. JDHA218 (36:44)<br>
 	7. MadDookie (38:57)<br>
-	8. Captain-Levi (4:6)<br>
-	10. spaceycarrot (8:7)<br>
+	8. Captain-Levi (10:13)<br>
+	9. spaceycarrot (8:7)<br>
 <br>
-154. #Monsterz (1004) 0<br>
+152. #evilCherry2 (1005) 0<br>
+-2<br>
+	1. Parko (2:3)<br>
+	3. Enlights (4:3)<br>
+	4. Reclamation- (1:3)<br>
+	6. JDHA218 (6:7)<br>
+	7. MadDookie (10:3)<br>
+	8. Captain-Levi (1:3)<br>
+<br>
+153. #Monsterz (1005) 0<br>
 +1<br>
 	1. Parko (4:11)<br>
 	3. Enlights (3:5)<br>
 	4. Reclamation- (0:3)<br>
 	6. JDHA218 (3:4)<br>
 	7. MadDookie (7:6)<br>
+	8. Captain-Levi (0:2)<br>
 <br>
-155. #idkthen (1004) 0<br>
+154. #idkthen (1004) 0<br>
 +2<br>
+	6. JDHA218 (0:1)<br>
 	7. MadDookie (7:10)<br>
+<br>
+155. #mr.oujia (1004) 0<br>
++3|+6|-1|-5|-8|-4|-6|-3|+1|+1<br>
+	1. Parko (0:5)<br>
+	2. sirgrapeLot (6:4)<br>
+	3. Enlights (9:7)<br>
+	6. JDHA218 (5:18)<br>
+	7. MadDookie (8:18)<br>
+	8. Captain-Levi (10:14)<br>
+	9. spaceycarrot (8:19)<br>
 <br>
 156. #Spaciel (1004) 0<br>
 +12|+14|+12|0<br>
 	1. Parko (0:1)<br>
 	7. MadDookie (3:2)<br>
-	8. Captain-Levi (2:4)<br>
-	9. GoOody (0:1)<br>
-	10. spaceycarrot (1:4)<br>
+	8. Captain-Levi (5:10)<br>
+	9. spaceycarrot (1:4)<br>
+	10. GoOody (0:1)<br>
 <br>
-157. #evilCherry2 (1004) 0<br>
--2<br>
-	1. Parko (2:3)<br>
-	3. Enlights (4:3)<br>
-	4. Reclamation- (1:3)<br>
-	6. JDHA218 (1:2)<br>
-	7. MadDookie (10:3)<br>
+157. #LiquidTater~429 (1003) 0<br>
+-1<br>
+	2. sirgrapeLot (0:1)<br>
+	8. Captain-Levi (3:3)<br>
+	9. spaceycarrot (5:6)<br>
 <br>
-158. #mr.oujia (1004) 0<br>
-+3|+5|-1|-6|-8|-4|-6|-3|+1|+1<br>
-	1. Parko (0:5)<br>
-	2. sirgrapeLot (6:4)<br>
-	3. Enlights (9:7)<br>
-	6. JDHA218 (4:16)<br>
-	7. MadDookie (8:18)<br>
-	8. Captain-Levi (7:11)<br>
-	10. spaceycarrot (8:19)<br>
-<br>
-159. #spookyrivers (1003) 0<br>
--6|-4|-10|-3<br>
-	1. Parko (2:2)<br>
-	3. Enlights (6:6)<br>
-	6. JDHA218 (3:2)<br>
-	7. MadDookie (10:11)<br>
-<br>
-160. #DankMemes12 (1003) 0<br>
+158. #DankMemes12 (1003) 0<br>
 +2|-1|-7|-3<br>
 	1. Parko (0:2)<br>
 	3. Enlights (1:4)<br>
 	5. Vadim1707 (1:2)<br>
 	6. JDHA218 (8:10)<br>
 	7. MadDookie (12:21)<br>
-	10. spaceycarrot (2:5)<br>
+	9. spaceycarrot (2:5)<br>
 <br>
-161. #LiquidTater~429 (1003) 0<br>
--1<br>
-	2. sirgrapeLot (0:1)<br>
-	10. spaceycarrot (5:6)<br>
+159. #spookyrivers (1003) 0<br>
+-6|-5|-10|-3<br>
+	1. Parko (2:2)<br>
+	3. Enlights (6:6)<br>
+	6. JDHA218 (5:6)<br>
+	7. MadDookie (10:11)<br>
 <br>
-162. #BadkarmA- (1003) 0<br>
-0|0<br>
+160. #BadkarmA- (1003) 0<br>
++1|0<br>
 	3. Enlights (4:4)<br>
 	6. JDHA218 (6:7)<br>
 	7. MadDookie (24:27)<br>
-	9. GoOody (1:2)<br>
-	10. spaceycarrot (2:0)<br>
+	8. Captain-Levi (1:0)<br>
+	9. spaceycarrot (2:0)<br>
+	10. GoOody (1:2)<br>
 <br>
-163. #Obito_Uchiha (1003) 0<br>
--4|-8|-2<br>
-	7. MadDookie (1:4)<br>
-	9. GoOody (1:2)<br>
-	10. spaceycarrot (1:4)<br>
-<br>
-164. #a_madness_of (1003) 0<br>
-+18|+11|0|-4|-1|+1|0|-2|-4|-7<br>
+161. #a_madness_of (1003) 0<br>
++18|+11|0|-4|0|+1|0|-2|-4|-7<br>
 	1. Parko (2:7)<br>
 	2. sirgrapeLot (3:3)<br>
 	3. Enlights (10:6)<br>
 	4. Reclamation- (7:6)<br>
 	6. JDHA218 (14:25)<br>
 	7. MadDookie (41:65)<br>
-	8. Captain-Levi (1:4)<br>
-	10. spaceycarrot (4:9)<br>
+	8. Captain-Levi (13:11)<br>
+	9. spaceycarrot (4:9)<br>
 <br>
-165. #playin4keeps (1002) 0<br>
+162. #Obito_Uchiha (1002) 0<br>
+-4|-9|-2<br>
+	6. JDHA218 (4:4)<br>
+	7. MadDookie (1:4)<br>
+	8. Captain-Levi (2:4)<br>
+	9. spaceycarrot (1:4)<br>
+	10. GoOody (1:2)<br>
+<br>
+163. #playin4keeps (1002) 0<br>
 +4|+8|+6|+6|+7|+8|+6|+7|+3|+2<br>
 	1. Parko (2:3)<br>
 	3. Enlights (1:2)<br>
 	4. Reclamation- (0:1)<br>
 	6. JDHA218 (16:17)<br>
 	7. MadDookie (31:32)<br>
-	9. GoOody (0:1)<br>
-	10. spaceycarrot (2:1)<br>
+	8. Captain-Levi (1:1)<br>
+	9. spaceycarrot (2:1)<br>
+	10. GoOody (0:1)<br>
+<br>
+164. #cocainedog (1002) 0<br>
++1|-1<br>
+	3. Enlights (3:4)<br>
+	6. JDHA218 (4:7)<br>
+	7. MadDookie (32:34)<br>
+	8. Captain-Levi (4:7)<br>
+	9. spaceycarrot (0:4)<br>
+<br>
+165. #GOTTEM (1002) 0<br>
++18|+19|+18|+16|+9|+8|+11|+7|+4|+4<br>
+	1. Parko (3:2)<br>
+	3. Enlights (15:12)<br>
+	5. Vadim1707 (2:6)<br>
+	6. JDHA218 (8:11)<br>
+	7. MadDookie (38:36)<br>
+	8. Captain-Levi (10:13)<br>
+	9. spaceycarrot (7:10)<br>
+	10. GoOody (3:2)<br>
 <br>
 166. #Cosmos-King (1002) 0<br>
 +1<br>
@@ -1482,39 +1558,27 @@ Recent win rates against top 10 over the past 20k matches<br>
 	3. Enlights (1:3)<br>
 	6. JDHA218 (19:24)<br>
 	7. MadDookie (15:16)<br>
-	9. GoOody (1:1)<br>
-	10. spaceycarrot (4:2)<br>
+	9. spaceycarrot (4:2)<br>
+	10. GoOody (1:1)<br>
 <br>
-167. #cocainedog (1002) 0<br>
-+1|-1<br>
-	3. Enlights (3:4)<br>
-	6. JDHA218 (4:7)<br>
-	7. MadDookie (32:34)<br>
-	10. spaceycarrot (0:4)<br>
-<br>
-168. #mattymate (1002) 0<br>
+167. #mattymate (1002) 0<br>
 -1<br>
 	1. Parko (5:6)<br>
 	3. Enlights (4:8)<br>
 	6. JDHA218 (9:19)<br>
 	7. MadDookie (9:10)<br>
+	8. Captain-Levi (0:1)<br>
 <br>
-169. #GOTTEM (1001) 0<br>
-+17|+18|+17|+16|+9|+8|+10|+6|+4|+4<br>
-	1. Parko (3:2)<br>
-	3. Enlights (15:12)<br>
-	5. Vadim1707 (2:6)<br>
-	6. JDHA218 (8:10)<br>
-	7. MadDookie (38:36)<br>
-	9. GoOody (3:2)<br>
-	10. spaceycarrot (7:10)<br>
+168. #Def_Leppard (1002) 0<br>
++4|+10|+19|+22|+19|+12|+20|+14|+10|+1<br>
+	1. Parko (6:8)<br>
+	4. Reclamation- (3:0)<br>
+	6. JDHA218 (33:33)<br>
+	7. MadDookie (13:9)<br>
+	8. Captain-Levi (1:0)<br>
+	9. spaceycarrot (1:1)<br>
 <br>
-170. #BillyDanger (1001) 0<br>
-+3|-2|0|-2<br>
-	4. Reclamation- (7:11)<br>
-	7. MadDookie (9:8)<br>
-<br>
-171. #Reductive (1001) 0<br>
+169. #Reductive (1001) 0<br>
 +19|+18|+19|+25|+29|+23|+13|+6|-2|0<br>
 	1. Parko (5:10)<br>
 	3. Enlights (27:24)<br>
@@ -1522,141 +1586,155 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (35:29)<br>
 	7. MadDookie (56:60)<br>
 	8. Captain-Levi (0:1)<br>
-	9. GoOody (11:7)<br>
-	10. spaceycarrot (3:5)<br>
+	9. spaceycarrot (3:5)<br>
+	10. GoOody (11:7)<br>
 <br>
-172. #mr.grey (1001) 0<br>
-+4|+6|+12<br>
+170. #mr.grey (1001) 0<br>
++3|+6|+12<br>
 	1. Parko (0:6)<br>
 	6. JDHA218 (34:29)<br>
 	7. MadDookie (36:43)<br>
+	8. Captain-Levi (0:1)<br>
 <br>
-173. #Def_Leppard (1000) 0<br>
-+3|+8|+18|+21|+17|+12|+20|+14|+10|+1<br>
-	1. Parko (6:8)<br>
-	4. Reclamation- (3:0)<br>
-	7. MadDookie (13:9)<br>
-	10. spaceycarrot (1:1)<br>
+171. #BillyDanger (1000) 0<br>
++3|-2|0|-2<br>
+	4. Reclamation- (7:11)<br>
+	6. JDHA218 (7:4)<br>
+	7. MadDookie (9:8)<br>
+	8. Captain-Levi (0:1)<br>
 <br>
-174. #StUfF-PluF (1000) 0<br>
+172. #StUfF-PluF (1000) 0<br>
 +1|-1<br>
 	1. Parko (0:1)<br>
 	4. Reclamation- (1:1)<br>
 	6. JDHA218 (1:4)<br>
 	7. MadDookie (10:10)<br>
-	10. spaceycarrot (5:10)<br>
+	8. Captain-Levi (0:3)<br>
+	9. spaceycarrot (5:10)<br>
 <br>
-175. #scampadour (1000) 0<br>
-+4|+1|+3|+1|0|+6|+5|0|-2|-8<br>
+173. #scampadour (1000) 0<br>
++5|+1|+3|+1|+1|+6|+5|0|-2|-8<br>
 	1. Parko (3:7)<br>
 	3. Enlights (11:19)<br>
 	6. JDHA218 (34:38)<br>
 	7. MadDookie (94:127)<br>
-	8. Captain-Levi (3:2)<br>
+	8. Captain-Levi (6:17)<br>
 <br>
-176. #Resell (999) 0<br>
+174. #Resell (999) 0<br>
 +2<br>
 	6. JDHA218 (16:27)<br>
 	7. MadDookie (11:7)<br>
-	10. spaceycarrot (3:8)<br>
+	9. spaceycarrot (3:8)<br>
 <br>
-177. #ZEUX (999) 0<br>
--2|-2|-3|-11|-9|-6|+4|-2|-9|-4<br>
+175. #ZEUX (999) 0<br>
+-2|-2|-2|-10|-9|-5|+5|-2|-9|-3<br>
+	6. JDHA218 (4:7)<br>
 	7. MadDookie (0:1)<br>
-	10. spaceycarrot (0:1)<br>
+	8. Captain-Levi (2:5)<br>
+	9. spaceycarrot (0:1)<br>
 <br>
-178. #thinkme (998) 0<br>
+176. #thinkme (998) 0<br>
 -2<br>
 	7. MadDookie (2:3)<br>
-	10. spaceycarrot (1:0)<br>
+	8. Captain-Levi (4:9)<br>
+	9. spaceycarrot (1:0)<br>
 <br>
-179. #krizzy (998) 0<br>
+177. #krizzy (998) 0<br>
 -5|-4|0|-3<br>
 	1. Parko (0:2)<br>
 	3. Enlights (0:3)<br>
 	4. Reclamation- (4:4)<br>
 	7. MadDookie (24:36)<br>
-	9. GoOody (3:4)<br>
-	10. spaceycarrot (4:9)<br>
+	8. Captain-Levi (2:2)<br>
+	9. spaceycarrot (4:9)<br>
+	10. GoOody (3:4)<br>
 <br>
-180. #FenixTheWar (997) 0<br>
+178. #HTALAQI (997) 0<br>
+-1<br>
+	3. Enlights (1:0)<br>
+	6. JDHA218 (3:4)<br>
+	7. MadDookie (4:12)<br>
+	8. Captain-Levi (1:1)<br>
+	10. GoOody (2:1)<br>
+<br>
+179. #FenixTheWar (997) 0<br>
 +2<br>
 	1. Parko (1:0)<br>
 	7. MadDookie (2:6)<br>
-	10. spaceycarrot (0:1)<br>
+	9. spaceycarrot (0:1)<br>
 <br>
-181. #Kotori (996) 0<br>
-+2|+4|+1|+1<br>
+180. #Kotori (996) 0<br>
++3|+4|+1|+1<br>
+	6. JDHA218 (1:5)<br>
 	7. MadDookie (19:14)<br>
-	9. GoOody (0:7)<br>
-	10. spaceycarrot (1:2)<br>
+	8. Captain-Levi (3:2)<br>
+	9. spaceycarrot (1:2)<br>
+	10. GoOody (0:7)<br>
 <br>
-182. #HTALAQI (996) 0<br>
--1<br>
-	3. Enlights (1:0)<br>
-	6. JDHA218 (2:3)<br>
-	7. MadDookie (4:12)<br>
-	9. GoOody (2:1)<br>
-<br>
-183. #Miomonster (996) 0<br>
+181. #Miomonster (996) 0<br>
 +8|+11|+14|+3|+2|+6|+3|+4|+3|+7<br>
 	1. Parko (25:31)<br>
 	3. Enlights (20:29)<br>
 	4. Reclamation- (1:3)<br>
 	5. Vadim1707 (1:1)<br>
-	6. JDHA218 (63:65)<br>
+	6. JDHA218 (63:67)<br>
 	7. MadDookie (83:125)<br>
-	8. Captain-Levi (1:3)<br>
-	9. GoOody (1:2)<br>
-	10. spaceycarrot (43:41)<br>
+	8. Captain-Levi (9:13)<br>
+	9. spaceycarrot (43:41)<br>
+	10. GoOody (1:2)<br>
 <br>
-184. #ATN (996) 0<br>
+182. #ATN (996) 0<br>
 -5|-6|-2|-3<br>
 	1. Parko (2:2)<br>
-	6. JDHA218 (2:2)<br>
+	6. JDHA218 (5:8)<br>
 	7. MadDookie (10:9)<br>
+	8. Captain-Levi (1:1)<br>
 <br>
-185. #TheMainEvent (995) 0<br>
+183. #TheMainEvent (995) 0<br>
 -6<br>
 	1. Parko (6:22)<br>
 	3. Enlights (4:4)<br>
 	4. Reclamation- (2:6)<br>
 	6. JDHA218 (5:9)<br>
 	7. MadDookie (35:40)<br>
+	8. Captain-Levi (1:6)<br>
 <br>
-186. #dtrejo95 (994) 0<br>
+184. #dtrejo95 (995) 0<br>
 -3<br>
 	1. Parko (3:7)<br>
 	3. Enlights (0:5)<br>
 	5. Vadim1707 (3:5)<br>
 	6. JDHA218 (5:12)<br>
 	7. MadDookie (8:15)<br>
-	10. spaceycarrot (4:5)<br>
+	8. Captain-Levi (3:4)<br>
+	9. spaceycarrot (4:5)<br>
 <br>
-187. #Steve.Jobs (994) 0<br>
-+1|+1|0<br>
-	1. Parko (18:30)<br>
-	4. Reclamation- (3:10)<br>
-	7. MadDookie (11:15)<br>
-<br>
-188. #Satan_NMMNG (994) 0<br>
+185. #Satan_NMMNG (994) 0<br>
 -5|+9|+5|0|0|+3<br>
 	1. Parko (8:14)<br>
 	3. Enlights (1:1)<br>
 	6. JDHA218 (5:11)<br>
 	7. MadDookie (15:22)<br>
 	8. Captain-Levi (1:2)<br>
-	9. GoOody (0:1)<br>
+	10. GoOody (0:1)<br>
 <br>
-189. #Setin12 (994) 0<br>
+186. #Steve.Jobs (994) 0<br>
++1|+2|+1<br>
+	1. Parko (18:30)<br>
+	4. Reclamation- (3:10)<br>
+	7. MadDookie (11:15)<br>
+	8. Captain-Levi (11:15)<br>
+<br>
+187. #Setin12 (994) 0<br>
 -9|-6<br>
 	3. Enlights (3:5)<br>
 	4. Reclamation- (0:2)<br>
 	6. JDHA218 (10:11)<br>
 	7. MadDookie (17:19)<br>
-	10. spaceycarrot (1:0)<br>
+	8. Captain-Levi (3:2)<br>
+	9. spaceycarrot (1:0)<br>
 <br>
-190. #Rick- (994) 0<br>
+188. #Rick- (994) 0<br>
 -6|-12|-7<br>
 	1. Parko (7:18)<br>
 	3. Enlights (7:10)<br>
@@ -1664,34 +1742,38 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (10:13)<br>
 	7. MadDookie (3:4)<br>
 	8. Captain-Levi (1:3)<br>
-	10. spaceycarrot (5:18)<br>
+	9. spaceycarrot (5:18)<br>
 <br>
-191. #foundation- (993) 0<br>
--3<br>
-	6. JDHA218 (3:4)<br>
-	7. MadDookie (13:18)<br>
-<br>
-192. #Artimal_PL (992) 0<br>
-+21|+25|+20|+30|+22|+10|+7|+6|0|-2<br>
+189. #Artimal_PL (993) 0<br>
++22|+26|+21|+31|+23|+10|+7|+6|0|-2<br>
 	1. Parko (21:31)<br>
 	3. Enlights (1:10)<br>
 	5. Vadim1707 (1:2)<br>
-	6. JDHA218 (6:14)<br>
+	6. JDHA218 (29:34)<br>
 	7. MadDookie (67:99)<br>
-	10. spaceycarrot (0:6)<br>
+	8. Captain-Levi (21:19)<br>
+	9. spaceycarrot (0:6)<br>
 <br>
-193. #Eagleye14963 (992) 0<br>
+190. #foundation- (993) 0<br>
+-3<br>
+	6. JDHA218 (3:4)<br>
+	7. MadDookie (13:18)<br>
+	8. Captain-Levi (1:3)<br>
+<br>
+191. #Eagleye14963 (992) 0<br>
 -5|-7|-6|+4|0<br>
 	4. Reclamation- (2:5)<br>
 	6. JDHA218 (0:1)<br>
 	7. MadDookie (0:3)<br>
+	8. Captain-Levi (0:1)<br>
 <br>
-194. #M-711 (992) 0<br>
+192. #M-711 (992) 0<br>
 +2<br>
-	6. JDHA218 (0:2)<br>
+	6. JDHA218 (0:4)<br>
 	7. MadDookie (12:28)<br>
+	8. Captain-Levi (2:4)<br>
 <br>
-195. #ProAssaulter (991) 0<br>
+193. #ProAssaulter (992) 0<br>
 0|+6|+1<br>
 	1. Parko (0:11)<br>
 	3. Enlights (2:14)<br>
@@ -1699,24 +1781,41 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Vadim1707 (0:2)<br>
 	6. JDHA218 (4:4)<br>
 	7. MadDookie (13:13)<br>
-	8. Captain-Levi (1:0)<br>
-	9. GoOody (3:0)<br>
-	10. spaceycarrot (3:7)<br>
+	8. Captain-Levi (2:5)<br>
+	9. spaceycarrot (3:7)<br>
+	10. GoOody (3:0)<br>
 <br>
-196. #killerbear13 (991) -1<br>
+194. #sharifbang94 (991) 0<br>
+-4|-1|0<br>
+	1. Parko (4:6)<br>
+	6. JDHA218 (16:27)<br>
+	7. MadDookie (12:17)<br>
+	8. Captain-Levi (4:5)<br>
+<br>
+195. #killerbear13 (991) -1<br>
 -8|-3|-5|-4<br>
 	1. Parko (0:1)<br>
 	3. Enlights (3:6)<br>
 	4. Reclamation- (0:4)<br>
-	6. JDHA218 (18:30)<br>
+	6. JDHA218 (19:36)<br>
 	7. MadDookie (24:30)<br>
-	9. GoOody (1:1)<br>
+	8. Captain-Levi (2:5)<br>
+	10. GoOody (1:1)<br>
 <br>
-197. #blitz. (991) 0<br>
--2|-4|0<br>
+196. #blitz. (991) 0<br>
+-2|-3|0<br>
 	2. sirgrapeLot (3:6)<br>
 	4. Reclamation- (10:18)<br>
+	6. JDHA218 (8:10)<br>
 	7. MadDookie (6:17)<br>
+<br>
+197. #fluffybunny4 (991) 0<br>
+-6|-1|-1<br>
+	1. Parko (0:1)<br>
+	6. JDHA218 (0:6)<br>
+	7. MadDookie (15:24)<br>
+	9. spaceycarrot (2:0)<br>
+	10. GoOody (2:1)<br>
 <br>
 198. #JJDC (991) 0<br>
 -4<br>
@@ -1725,108 +1824,100 @@ Recent win rates against top 10 over the past 20k matches<br>
 	4. Reclamation- (1:2)<br>
 	6. JDHA218 (8:7)<br>
 	7. MadDookie (8:8)<br>
-	10. spaceycarrot (0:2)<br>
+	8. Captain-Levi (1:0)<br>
+	9. spaceycarrot (0:2)<br>
 <br>
-199. #fluffybunny4 (991) 0<br>
--7|-1|-1<br>
-	1. Parko (0:1)<br>
-	6. JDHA218 (0:1)<br>
-	7. MadDookie (15:24)<br>
-	9. GoOody (2:1)<br>
-	10. spaceycarrot (2:0)<br>
-<br>
-200. #StArExPlOdEr (991) 0<br>
+199. #StArExPlOdEr (991) 0<br>
 -6|-3|-3|-5|0|0|-1<br>
 	1. Parko (6:4)<br>
 	6. JDHA218 (2:1)<br>
 	7. MadDookie (18:20)<br>
-	10. spaceycarrot (3:5)<br>
+	9. spaceycarrot (3:5)<br>
 <br>
-201. #sharifbang94 (991) 0<br>
--5|-2|0<br>
-	1. Parko (4:6)<br>
-	6. JDHA218 (8:12)<br>
-	7. MadDookie (12:17)<br>
-<br>
-202. #BYUfan (990) 0<br>
+200. #BYUfan (990) 0<br>
 -3<br>
 	3. Enlights (4:9)<br>
 	7. MadDookie (1:4)<br>
-	9. GoOody (0:5)<br>
-	10. spaceycarrot (3:6)<br>
+	9. spaceycarrot (3:6)<br>
+	10. GoOody (0:5)<br>
 <br>
-203. #JazzyJam~772 (990) 0<br>
+201. #JazzyJam~772 (990) 0<br>
 -3<br>
 	1. Parko (3:8)<br>
 	6. JDHA218 (2:6)<br>
 	7. MadDookie (21:34)<br>
-	10. spaceycarrot (2:4)<br>
+	8. Captain-Levi (2:7)<br>
+	9. spaceycarrot (2:4)<br>
 <br>
-204. #stront01 (989) 0<br>
+202. #Disguise (989) 0<br>
+-2<br>
+	3. Enlights (0:1)<br>
+	6. JDHA218 (3:2)<br>
+	7. MadDookie (2:4)<br>
+	8. Captain-Levi (6:8)<br>
+	9. spaceycarrot (0:1)<br>
+	10. GoOody (1:0)<br>
+<br>
+203. #stront01 (989) 0<br>
 -2<br>
 	1. Parko (0:2)<br>
 	3. Enlights (6:7)<br>
 	5. Vadim1707 (5:4)<br>
 	6. JDHA218 (3:1)<br>
 	7. MadDookie (17:36)<br>
-	10. spaceycarrot (1:2)<br>
+	9. spaceycarrot (1:2)<br>
 <br>
-205. #Disguise (989) 0<br>
--2<br>
-	3. Enlights (0:1)<br>
-	7. MadDookie (2:4)<br>
-	9. GoOody (1:0)<br>
-	10. spaceycarrot (0:1)<br>
-<br>
-206. #resistfate88 (988) 0<br>
+204. #resistfate88 (988) 0<br>
 0|+3<br>
 	1. Parko (4:12)<br>
-	6. JDHA218 (5:10)<br>
+	6. JDHA218 (5:12)<br>
 	7. MadDookie (19:31)<br>
 <br>
-207. #chILLYpotat (986) 0<br>
--11|-7|-3|0|-3|+7|+3|+2|-2|-3<br>
+205. #chILLYpotat (987) 0<br>
+-11|-6|-2|0|-3|+8|+3|+2|-2|-3<br>
 	1. Parko (13:13)<br>
 	2. sirgrapeLot (0:4)<br>
 	3. Enlights (18:21)<br>
 	4. Reclamation- (9:11)<br>
 	5. Vadim1707 (0:1)<br>
-	6. JDHA218 (16:18)<br>
+	6. JDHA218 (16:24)<br>
 	7. MadDookie (49:51)<br>
-	8. Captain-Levi (7:5)<br>
-	9. GoOody (4:5)<br>
-	10. spaceycarrot (0:2)<br>
+	8. Captain-Levi (14:10)<br>
+	9. spaceycarrot (0:2)<br>
+	10. GoOody (4:5)<br>
 <br>
-208. #Matthew0898 (986) 0<br>
--19|-16|-17|-23|-11|-7|+2|+3|-2<br>
+206. #Matthew0898 (986) 0<br>
+-18|-15|-16|-23|-10|-6|+3|+3|-2<br>
 	1. Parko (6:9)<br>
 	3. Enlights (4:5)<br>
 	4. Reclamation- (11:26)<br>
-	6. JDHA218 (2:6)<br>
+	6. JDHA218 (7:12)<br>
 	7. MadDookie (15:14)<br>
-	8. Captain-Levi (0:3)<br>
-	10. spaceycarrot (3:4)<br>
+	8. Captain-Levi (3:5)<br>
+	9. spaceycarrot (3:4)<br>
 <br>
-209. #shaddow (986) 0<br>
--3|-2|-10|-9|-14|-13|-12|-15|-17|-6<br>
+207. #shaddow (986) 0<br>
+-3|-2|-9|-9|-14|-13|-12|-15|-17|-6<br>
 	2. sirgrapeLot (0:1)<br>
 	3. Enlights (11:11)<br>
 	4. Reclamation- (0:1)<br>
 	5. Vadim1707 (1:3)<br>
-	6. JDHA218 (3:2)<br>
+	6. JDHA218 (4:6)<br>
 	7. MadDookie (14:26)<br>
-	9. GoOody (2:2)<br>
-	10. spaceycarrot (0:3)<br>
+	8. Captain-Levi (0:1)<br>
+	9. spaceycarrot (0:3)<br>
+	10. GoOody (2:2)<br>
 <br>
-210. #HollowHoppe~374 (985) 0<br>
+208. #HollowHoppe~374 (985) 0<br>
 -4<br>
 	3. Enlights (0:1)<br>
 	5. Vadim1707 (0:1)<br>
 	6. JDHA218 (7:11)<br>
 	7. MadDookie (10:20)<br>
-	10. spaceycarrot (0:2)<br>
+	8. Captain-Levi (1:6)<br>
+	9. spaceycarrot (0:2)<br>
 <br>
-211. #_Marik_ (984) 0<br>
+209. #_Marik_ (985) 0<br>
 +2|-1|+9|+12|+10|+6|+3|-2|0|+3<br>
 	1. Parko (21:21)<br>
 	2. sirgrapeLot (2:0)<br>
@@ -1836,166 +1927,180 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (29:34)<br>
 	7. MadDookie (61:58)<br>
 	8. Captain-Levi (1:0)<br>
-	10. spaceycarrot (5:0)<br>
+	9. spaceycarrot (5:0)<br>
 <br>
-212. #pldncr (984) 0<br>
--27|-31|-23|-25|-21|-12|-7|-3|-2|-1<br>
+210. #pldncr (984) 0<br>
+-27|-31|-23|-25|-21|-12|-6|-3|-2|-1<br>
 	1. Parko (3:12)<br>
 	4. Reclamation- (2:7)<br>
+	6. JDHA218 (8:9)<br>
 	7. MadDookie (15:18)<br>
-	9. GoOody (3:10)<br>
-	10. spaceycarrot (3:4)<br>
+	8. Captain-Levi (3:4)<br>
+	9. spaceycarrot (3:4)<br>
+	10. GoOody (3:10)<br>
 <br>
-213. #Raffey (984) 0<br>
+211. #Raffey (984) 0<br>
 -4|0<br>
 	1. Parko (0:1)<br>
 	3. Enlights (3:3)<br>
 	6. JDHA218 (0:1)<br>
 	7. MadDookie (17:23)<br>
-	10. spaceycarrot (2:3)<br>
+	8. Captain-Levi (1:2)<br>
+	9. spaceycarrot (2:3)<br>
 <br>
-214. #Lyzax (983) 0<br>
+212. #Lyzax (983) 0<br>
 -2<br>
 	4. Reclamation- (2:3)<br>
-	9. GoOody (1:0)<br>
+	6. JDHA218 (0:4)<br>
+	8. Captain-Levi (0:1)<br>
+	10. GoOody (1:0)<br>
 <br>
-215. #XAustinX1 (983) 0<br>
+213. #VNS700 (983) 0<br>
+-13|-8|-1<br>
+	3. Enlights (2:6)<br>
+	6. JDHA218 (17:29)<br>
+	7. MadDookie (5:14)<br>
+	8. Captain-Levi (0:2)<br>
+	9. spaceycarrot (1:2)<br>
+	10. GoOody (0:1)<br>
+<br>
+214. #XAustinX1 (983) 0<br>
 -11|-15|-11|-14|-3|-6|-7|+6|+2|-2<br>
 	1. Parko (6:8)<br>
 	3. Enlights (1:0)<br>
 	4. Reclamation- (0:1)<br>
 	5. Vadim1707 (3:9)<br>
-	6. JDHA218 (1:2)<br>
+	6. JDHA218 (2:3)<br>
 	7. MadDookie (17:15)<br>
 <br>
-216. #iceking99 (982) 0<br>
--8|-1|-1|-9|-6|-7|-11|-2|0|-1<br>
+215. #iceking99 (982) 0<br>
+-8|0|-1|-9|-6|-6|-11|-2|0|-1<br>
 	1. Parko (2:9)<br>
 	3. Enlights (3:4)<br>
 	6. JDHA218 (6:15)<br>
 	7. MadDookie (21:36)<br>
+	8. Captain-Levi (3:6)<br>
 <br>
-217. #VNS700 (982) 0<br>
--14|-9|-2<br>
-	3. Enlights (2:6)<br>
-	6. JDHA218 (2:9)<br>
-	7. MadDookie (5:14)<br>
-	9. GoOody (0:1)<br>
-	10. spaceycarrot (1:2)<br>
-<br>
-218. #VividerAphid (981) 0<br>
--17|-17|-14|-17|-8|-3|-2|-1|+6|+1<br>
+216. #VividerAphid (982) 0<br>
+-15|-15|-13|-16|-7|-2|0|0|+6|+1<br>
 	1. Parko (6:13)<br>
 	3. Enlights (6:7)<br>
 	4. Reclamation- (1:1)<br>
-	6. JDHA218 (8:16)<br>
+	6. JDHA218 (21:29)<br>
 	7. MadDookie (19:30)<br>
-	8. Captain-Levi (2:3)<br>
-	10. spaceycarrot (3:6)<br>
+	8. Captain-Levi (10:14)<br>
+	9. spaceycarrot (3:6)<br>
 <br>
-219. #akghostgoon (981) 0<br>
--19|-9<br>
+217. #akghostgoon (981) 0<br>
+-18|-9<br>
 	1. Parko (11:19)<br>
 	4. Reclamation- (1:0)<br>
+	6. JDHA218 (6:5)<br>
 	7. MadDookie (14:25)<br>
-	9. GoOody (2:4)<br>
+	8. Captain-Levi (0:1)<br>
+	10. GoOody (2:4)<br>
 <br>
-220. #drhillikilil (981) 0<br>
--16|-6<br>
+218. #drhillikilil (981) 0<br>
+-16|-5<br>
 	1. Parko (0:1)<br>
 	6. JDHA218 (5:10)<br>
 	7. MadDookie (7:9)<br>
-	8. Captain-Levi (1:0)<br>
-	9. GoOody (0:2)<br>
-	10. spaceycarrot (1:5)<br>
+	8. Captain-Levi (1:3)<br>
+	9. spaceycarrot (1:5)<br>
+	10. GoOody (0:2)<br>
 <br>
-221. #M6l8-711 (980) 0<br>
+219. #M6l8-711 (980) 0<br>
 -2<br>
 	1. Parko (2:8)<br>
 	3. Enlights (2:2)<br>
-	6. JDHA218 (2:5)<br>
+	6. JDHA218 (7:14)<br>
 	7. MadDookie (1:4)<br>
-	10. spaceycarrot (1:1)<br>
+	8. Captain-Levi (5:3)<br>
+	9. spaceycarrot (1:1)<br>
 <br>
-222. #Jamesking135 (979) 0<br>
-+3|+5|+9|+17|+11|+16|+11|+13|+13|+7<br>
+220. #Jamesking135 (979) 0<br>
++3|+6|+9|+17|+11|+16|+12|+13|+13|+7<br>
 	1. Parko (34:30)<br>
 	3. Enlights (19:20)<br>
-	6. JDHA218 (52:60)<br>
+	6. JDHA218 (53:61)<br>
 	7. MadDookie (72:87)<br>
-	8. Captain-Levi (0:2)<br>
-	9. GoOody (1:0)<br>
-	10. spaceycarrot (4:1)<br>
+	8. Captain-Levi (3:5)<br>
+	9. spaceycarrot (4:1)<br>
+	10. GoOody (1:0)<br>
 <br>
-223. #TerryELMacho (979) 0<br>
+221. #TerryELMacho (979) 0<br>
 -6<br>
 	3. Enlights (1:6)<br>
 	7. MadDookie (5:12)<br>
 <br>
-224. #cryp7 (977) 0<br>
+222. #cryp7 (977) 0<br>
 -26|-21|-16|-3<br>
 	3. Enlights (1:5)<br>
 	6. JDHA218 (15:32)<br>
 	7. MadDookie (6:18)<br>
-	9. GoOody (4:16)<br>
-	10. spaceycarrot (3:8)<br>
+	9. spaceycarrot (3:8)<br>
+	10. GoOody (4:16)<br>
 <br>
-225. #SpicyViper (976) 0<br>
--29|-24|-7|0|+3|+10|+6|+11|+4|-2<br>
+223. #SpicyViper (976) 0<br>
+-29|-23|-7|0|+3|+10|+6|+12|+4|-2<br>
 	3. Enlights (1:2)<br>
 	6. JDHA218 (13:13)<br>
 	7. MadDookie (50:87)<br>
+	8. Captain-Levi (13:19)<br>
 <br>
-226. #nenad (976) 0<br>
-+7|+14|+14|+19|+24|+20|+20|+18|+14|+5<br>
+224. #nenad (976) 0<br>
++7|+14|+14|+19|+24|+19|+20|+18|+14|+5<br>
 	1. Parko (16:24)<br>
 	2. sirgrapeLot (8:9)<br>
 	3. Enlights (12:26)<br>
 	6. JDHA218 (68:104)<br>
 	7. MadDookie (142:223)<br>
-	8. Captain-Levi (5:5)<br>
-	9. GoOody (2:4)<br>
-	10. spaceycarrot (7:14)<br>
+	8. Captain-Levi (5:6)<br>
+	9. spaceycarrot (7:14)<br>
+	10. GoOody (2:4)<br>
+<br>
+225. #gobindsingh (975) 0<br>
+-12|-1<br>
+	1. Parko (1:9)<br>
+	3. Enlights (0:2)<br>
+	4. Reclamation- (1:2)<br>
+	6. JDHA218 (4:12)<br>
+	7. MadDookie (11:18)<br>
+	9. spaceycarrot (2:2)<br>
+	10. GoOody (1:1)<br>
+<br>
+226. #Cosimia (975) 0<br>
+-11|-15|-7|-2|+4|0|+4<br>
+	1. Parko (19:32)<br>
+	2. sirgrapeLot (2:6)<br>
+	4. Reclamation- (23:44)<br>
+	6. JDHA218 (17:36)<br>
+	7. MadDookie (25:32)<br>
+	8. Captain-Levi (5:13)<br>
+	9. spaceycarrot (13:12)<br>
 <br>
 227. #CozyPillow (975) 0<br>
 -4<br>
 	4. Reclamation- (2:8)<br>
 	7. MadDookie (3:5)<br>
+	8. Captain-Levi (2:0)<br>
 <br>
-228. #gobindsingh (975) 0<br>
--12|0<br>
-	1. Parko (1:9)<br>
-	3. Enlights (0:2)<br>
-	4. Reclamation- (1:2)<br>
-	6. JDHA218 (0:4)<br>
-	7. MadDookie (11:18)<br>
-	9. GoOody (1:1)<br>
-	10. spaceycarrot (2:2)<br>
-<br>
-229. #Cosimia (975) 0<br>
--12|-15|-7|-2|+4|0|+4<br>
-	1. Parko (19:32)<br>
-	2. sirgrapeLot (2:6)<br>
-	4. Reclamation- (23:44)<br>
-	6. JDHA218 (2:9)<br>
-	7. MadDookie (25:32)<br>
-	10. spaceycarrot (13:12)<br>
-<br>
-230. #Wickedrunner (974) 0<br>
+228. #Wickedrunner (974) 0<br>
 -10|0<br>
 	1. Parko (1:0)<br>
 	3. Enlights (1:11)<br>
 	6. JDHA218 (10:10)<br>
 	7. MadDookie (23:44)<br>
-	10. spaceycarrot (6:8)<br>
+	9. spaceycarrot (6:8)<br>
 <br>
-231. #theDude (972) 0<br>
--18|-26|-12|-18|-20|-21|-11|-10|-5|+2<br>
+229. #theDude (972) 0<br>
+-18|-26|-12|-18|-20|-20|-11|-10|-5|+2<br>
 	1. Parko (4:6)<br>
 	7. MadDookie (5:11)<br>
-	10. spaceycarrot (1:3)<br>
+	8. Captain-Levi (2:1)<br>
+	9. spaceycarrot (1:3)<br>
 <br>
-232. #SweetTart (969) 0<br>
+230. #SweetTart (969) 0<br>
 -17|-18|-2|+4|+5|+9|+14|+11|+14|+5<br>
 	1. Parko (5:6)<br>
 	3. Enlights (3:4)<br>
@@ -2003,69 +2108,73 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Vadim1707 (0:2)<br>
 	6. JDHA218 (6:6)<br>
 	7. MadDookie (19:12)<br>
-	8. Captain-Levi (3:3)<br>
-	9. GoOody (0:1)<br>
-	10. spaceycarrot (1:5)<br>
+	8. Captain-Levi (5:3)<br>
+	9. spaceycarrot (1:5)<br>
+	10. GoOody (0:1)<br>
 <br>
-233. #meltedcheese (968) 0<br>
--23|-8<br>
-	4. Reclamation- (1:8)<br>
-	6. JDHA218 (8:8)<br>
-	7. MadDookie (4:11)<br>
-	10. spaceycarrot (3:3)<br>
-<br>
-234. #dddqqq (968) 0<br>
--34|-32|-30|-27|-25|-25|-18|-10|-9|-4<br>
-	1. Parko (3:11)<br>
-	2. sirgrapeLot (1:7)<br>
-	3. Enlights (0:1)<br>
-	4. Reclamation- (0:2)<br>
-	7. MadDookie (4:6)<br>
-	9. GoOody (4:4)<br>
-<br>
-235. #Meep (967) 0<br>
-+4|-1|-2|0|+3|+3|0|+5|+11|+2<br>
+231. #Meep (968) 0<br>
++4|0|-1|+1|+3|+3|0|+5|+11|+2<br>
 	1. Parko (27:43)<br>
 	2. sirgrapeLot (8:15)<br>
 	3. Enlights (15:24)<br>
 	4. Reclamation- (6:5)<br>
 	6. JDHA218 (82:117)<br>
 	7. MadDookie (154:231)<br>
-	8. Captain-Levi (6:5)<br>
-	9. GoOody (3:0)<br>
-	10. spaceycarrot (5:13)<br>
+	8. Captain-Levi (20:25)<br>
+	9. spaceycarrot (5:13)<br>
+	10. GoOody (3:0)<br>
 <br>
-236. #bad.inc (966) 0<br>
--25|-13|-18|-8|+1|-1|-4|-4|+3|+3<br>
+232. #meltedcheese (968) 0<br>
+-23|-8<br>
+	4. Reclamation- (1:8)<br>
+	6. JDHA218 (8:10)<br>
+	7. MadDookie (4:11)<br>
+	8. Captain-Levi (0:1)<br>
+	9. spaceycarrot (3:3)<br>
+<br>
+233. #dddqqq (967) 0<br>
+-35|-32|-31|-27|-25|-25|-18|-10|-9|-4<br>
+	1. Parko (3:11)<br>
+	2. sirgrapeLot (1:7)<br>
+	3. Enlights (0:1)<br>
+	4. Reclamation- (0:2)<br>
+	6. JDHA218 (0:2)<br>
+	7. MadDookie (4:6)<br>
+	10. GoOody (4:4)<br>
+<br>
+234. #bad.inc (966) 0<br>
+-24|-13|-17|-7|+1|-1|-4|-3|+3|+3<br>
 	1. Parko (2:5)<br>
 	6. JDHA218 (5:12)<br>
 	7. MadDookie (8:26)<br>
+	8. Captain-Levi (4:13)<br>
 <br>
-237. #sjehsan (965) 0<br>
--29|-24|-23|-6|-5|+1|-1|+4|+3|-4<br>
+235. #sjehsan (966) 0<br>
+-29|-24|-22|-5|-4|+2|0|+4|+3|-4<br>
 	1. Parko (9:12)<br>
 	4. Reclamation- (1:1)<br>
-	6. JDHA218 (9:8)<br>
+	6. JDHA218 (10:13)<br>
 	7. MadDookie (19:28)<br>
-	8. Captain-Levi (0:1)<br>
-	10. spaceycarrot (4:2)<br>
+	8. Captain-Levi (6:8)<br>
+	9. spaceycarrot (4:2)<br>
 <br>
-238. #bryanbb (965) 0<br>
--33|-18|-22|-15|-11|-12|-13|-14|-2|-1<br>
+236. #bryanbb (965) 0<br>
+-33|-18|-22|-15|-11|-12|-13|-13|-2|-1<br>
 	3. Enlights (2:4)<br>
 	4. Reclamation- (1:1)<br>
 	6. JDHA218 (2:4)<br>
 	7. MadDookie (13:14)<br>
-	8. Captain-Levi (1:1)<br>
+	8. Captain-Levi (2:3)<br>
 <br>
-239. #Snake1976 (964) 0<br>
--31|-20|-9|-5<br>
+237. #Snake1976 (965) 0<br>
+-30|-19|-8|-5<br>
 	1. Parko (2:1)<br>
-	6. JDHA218 (0:1)<br>
+	6. JDHA218 (5:7)<br>
 	7. MadDookie (7:11)<br>
-	9. GoOody (0:4)<br>
+	8. Captain-Levi (5:7)<br>
+	10. GoOody (0:4)<br>
 <br>
-240. #Jelly1932 (964) 0<br>
+238. #Jelly1932 (964) 0<br>
 -30|-25|-22|-15|-13|-12|-2|0<br>
 	1. Parko (0:3)<br>
 	2. sirgrapeLot (0:1)<br>
@@ -2074,94 +2183,107 @@ Recent win rates against top 10 over the past 20k matches<br>
 	5. Vadim1707 (10:20)<br>
 	6. JDHA218 (31:39)<br>
 	7. MadDookie (23:44)<br>
-	8. Captain-Levi (0:1)<br>
-	9. GoOody (4:2)<br>
+	8. Captain-Levi (0:2)<br>
+	10. GoOody (4:2)<br>
 <br>
-241. #BKwak28 (963) 0<br>
+239. #BKwak28 (964) 0<br>
 -14|-16|-14|-22|-27|-17|-18|-10|-3|-2<br>
 	1. Parko (5:7)<br>
 	3. Enlights (11:14)<br>
 	6. JDHA218 (2:5)<br>
 	7. MadDookie (12:33)<br>
 <br>
-242. #MojoRising (961) 0<br>
--6|-1|-2|-1|-2|0|+2|+5|+4|-2<br>
+240. #MojoRising (962) 0<br>
+-5|0|0|0|-1|+1|+3|+6|+5|-2<br>
+	6. JDHA218 (16:16)<br>
 <br>
-243. #doeish (954) 0<br>
+241. #doeish (954) 0<br>
 -44|-45|-40|-35|-33|-21|-14|-11|-3|+4<br>
 	1. Parko (1:1)<br>
 	6. JDHA218 (1:3)<br>
 	7. MadDookie (18:32)<br>
 	8. Captain-Levi (3:2)<br>
-	10. spaceycarrot (0:3)<br>
+	9. spaceycarrot (0:3)<br>
 <br>
-244. #RaggedZebra (953) 0<br>
+242. #RaggedZebra (953) 0<br>
 -34|-19|-4<br>
 	1. Parko (4:11)<br>
 	3. Enlights (3:4)<br>
 	6. JDHA218 (3:14)<br>
 	7. MadDookie (13:30)<br>
-	10. spaceycarrot (2:5)<br>
+	9. spaceycarrot (2:5)<br>
 <br>
-245. #creaky2 (952) 0<br>
+243. #creaky2 (952) 0<br>
 -24|-22|-17|-19|-14|-8|-12|-7|+1|+1<br>
 	1. Parko (5:9)<br>
 	2. sirgrapeLot (0:2)<br>
 	4. Reclamation- (2:1)<br>
 	7. MadDookie (6:8)<br>
-	10. spaceycarrot (2:1)<br>
+	9. spaceycarrot (2:1)<br>
 <br>
-246. #kaboRAGE (951) +1<br>
--27|-22|-17|-13|-12|-5|-9|+3|-3|+2<br>
+244. #kaboRAGE (952) +1<br>
+-27|-22|-16|-12|-11|-5|-9|+3|-2|+3<br>
 	1. Parko (9:25)<br>
 	3. Enlights (12:12)<br>
 	4. Reclamation- (0:1)<br>
 	5. Vadim1707 (3:10)<br>
-	6. JDHA218 (14:30)<br>
+	6. JDHA218 (22:37)<br>
 	7. MadDookie (64:89)<br>
-	8. Captain-Levi (6:9)<br>
-	9. GoOody (0:1)<br>
-	10. spaceycarrot (8:18)<br>
+	8. Captain-Levi (6:10)<br>
+	9. spaceycarrot (8:18)<br>
+	10. GoOody (0:1)<br>
 <br>
-247. #arviiid (951) 0<br>
+245. #arviiid (951) 0<br>
 -39|-34|-19|-16|-9<br>
 	1. Parko (7:15)<br>
-	6. JDHA218 (5:9)<br>
+	6. JDHA218 (7:9)<br>
 	7. MadDookie (17:45)<br>
-	10. spaceycarrot (4:4)<br>
+	8. Captain-Levi (5:21)<br>
+	9. spaceycarrot (4:4)<br>
 <br>
-248. #GenBelIblis (947) 0<br>
--51|-48|-49|-43|-41|-35|-31|-23|-10|-1<br>
+246. #GenBelIblis (947) 0<br>
+-51|-48|-49|-43|-41|-36|-31|-23|-10|-1<br>
 	1. Parko (3:7)<br>
 	3. Enlights (9:22)<br>
 	4. Reclamation- (1:3)<br>
 	5. Vadim1707 (3:5)<br>
-	6. JDHA218 (10:31)<br>
+	6. JDHA218 (11:34)<br>
 	7. MadDookie (20:35)<br>
-	8. Captain-Levi (8:16)<br>
-	9. GoOody (2:3)<br>
-	10. spaceycarrot (8:12)<br>
+	8. Captain-Levi (9:24)<br>
+	9. spaceycarrot (8:12)<br>
+	10. GoOody (2:3)<br>
 <br>
-249. #Foxylocks12 (946) 0<br>
+247. #Foxylocks12 (946) 0<br>
 +19|+16|+14|+12|+10|+4|+1|+4|+1|-2<br>
 	1. Parko (9:19)<br>
 	3. Enlights (6:7)<br>
 	4. Reclamation- (6:3)<br>
 	6. JDHA218 (20:18)<br>
 	7. MadDookie (14:29)<br>
-	10. spaceycarrot (0:2)<br>
+	9. spaceycarrot (0:2)<br>
 <br>
-250. #AlGalcone (942) 0<br>
--41|-39|-36|-40|-23|-13|-9|-9|+1|0<br>
+248. #AlGalcone (943) 0<br>
+-41|-38|-35|-39|-22|-13|-8|-8|+1|0<br>
 	1. Parko (4:9)<br>
 	3. Enlights (1:1)<br>
 	4. Reclamation- (1:1)<br>
-	6. JDHA218 (6:17)<br>
+	6. JDHA218 (7:21)<br>
 	7. MadDookie (12:20)<br>
-	8. Captain-Levi (6:2)<br>
-	9. GoOody (3:4)<br>
+	8. Captain-Levi (12:15)<br>
+	10. GoOody (3:4)<br>
 <br>
-251. #Alex_Zver (942) 0<br>
+249. #mae_1 (942) 0<br>
+-52|-41|-33|-22|-10|-5<br>
+	1. Parko (1:5)<br>
+	3. Enlights (0:4)<br>
+	4. Reclamation- (1:3)<br>
+	6. JDHA218 (6:15)<br>
+	7. MadDookie (16:45)<br>
+	8. Captain-Levi (7:16)<br>
+	9. spaceycarrot (5:8)<br>
+	10. GoOody (1:3)<br>
+<br>
+250. #Alex_Zver (942) 0<br>
 -44|-32|-23|-15|-10|-8|+1<br>
 	1. Parko (5:10)<br>
 	3. Enlights (7:14)<br>
@@ -2169,123 +2291,124 @@ Recent win rates against top 10 over the past 20k matches<br>
 	6. JDHA218 (4:11)<br>
 	7. MadDookie (15:27)<br>
 <br>
-252. #mae_1 (942) 0<br>
--53|-42|-33|-22|-11|-6<br>
-	1. Parko (1:5)<br>
-	3. Enlights (0:4)<br>
-	4. Reclamation- (1:3)<br>
-	6. JDHA218 (5:11)<br>
-	7. MadDookie (16:45)<br>
-	8. Captain-Levi (2:2)<br>
-	9. GoOody (1:3)<br>
-	10. spaceycarrot (5:8)<br>
-<br>
-253. #Wildhat-972 (940) 0<br>
--42|-38|-30|-20|-12|-2<br>
+251. #Wildhat-972 (940) 0<br>
+-42|-38|-30|-20|-13|-2<br>
 	1. Parko (4:11)<br>
 	3. Enlights (7:9)<br>
 	6. JDHA218 (14:30)<br>
 	7. MadDookie (9:25)<br>
-	10. spaceycarrot (0:2)<br>
+	8. Captain-Levi (0:3)<br>
+	9. spaceycarrot (0:2)<br>
 <br>
-254. #Starfleet (939) 0<br>
--18|-7|-4|0|-3|+3|+1|+6|+2|0<br>
+252. #Starfleet (939) 0<br>
+-18|-7|-4|0|-3|+2|+1|+6|+2|0<br>
 	1. Parko (0:1)<br>
 	3. Enlights (0:1)<br>
 	5. Vadim1707 (1:2)<br>
 	6. JDHA218 (30:40)<br>
 	7. MadDookie (35:56)<br>
-	10. spaceycarrot (1:1)<br>
+	8. Captain-Levi (0:5)<br>
+	9. spaceycarrot (1:1)<br>
 <br>
-255. #j1clique (930) 0<br>
-0|+2|+3|+4|-2|+4|+3|-4|-7|-1<br>
-	1. Parko (40:68)<br>
-	3. Enlights (45:62)<br>
-	4. Reclamation- (8:16)<br>
-	5. Vadim1707 (2:4)<br>
-	6. JDHA218 (18:25)<br>
-	7. MadDookie (84:124)<br>
-	8. Captain-Levi (5:6)<br>
-	9. GoOody (8:10)<br>
-	10. spaceycarrot (15:20)<br>
-<br>
-256. #HomerSimspon (929) 0<br>
--52|-47|-43|-40|-33|-29|-30|-22|-15|+3<br>
+253. #HomerSimspon (930) 0<br>
+-52|-46|-42|-39|-33|-28|-29|-21|-14|+3<br>
 	4. Reclamation- (0:1)<br>
 	7. MadDookie (4:11)<br>
+	8. Captain-Levi (11:11)<br>
 <br>
-257. #jennygirl (929) 0<br>
-+6|+7|+4|+3|-2|-3|-5|-5|+1|+4<br>
+254. #jennygirl (930) 0<br>
++7|+8|+5|+4|-1|-2|-4|-4|+1|+4<br>
 	1. Parko (47:81)<br>
 	3. Enlights (38:49)<br>
 	4. Reclamation- (1:2)<br>
 	5. Vadim1707 (0:3)<br>
 	6. JDHA218 (34:40)<br>
 	7. MadDookie (140:193)<br>
-	8. Captain-Levi (2:5)<br>
-	9. GoOody (4:2)<br>
-	10. spaceycarrot (14:25)<br>
+	8. Captain-Levi (11:24)<br>
+	9. spaceycarrot (14:25)<br>
+	10. GoOody (4:2)<br>
 <br>
-258. #royal-1 (925) 0<br>
--42|-39|-39|-34|-31|-27|-18|-17|-7|0<br>
+255. #j1clique (930) 0<br>
+0|+2|+3|+3|-2|+4|+3|-4|-7|-1<br>
+	1. Parko (40:68)<br>
+	3. Enlights (45:62)<br>
+	4. Reclamation- (8:16)<br>
+	5. Vadim1707 (2:4)<br>
+	6. JDHA218 (20:28)<br>
+	7. MadDookie (84:124)<br>
+	8. Captain-Levi (12:15)<br>
+	9. spaceycarrot (15:20)<br>
+	10. GoOody (8:10)<br>
+<br>
+256. #royal-1 (926) 0<br>
+-41|-38|-38|-34|-31|-26|-18|-16|-6|0<br>
 	1. Parko (6:14)<br>
 	4. Reclamation- (5:11)<br>
+	6. JDHA218 (8:9)<br>
 	7. MadDookie (7:20)<br>
-	10. spaceycarrot (4:7)<br>
+	8. Captain-Levi (4:9)<br>
+	9. spaceycarrot (4:7)<br>
 <br>
-259. #BALLOON-Bkr (921) 0<br>
--23|-18|-18|-15|-13|-11|-7|-2|-4|-2<br>
+257. #BALLOON-Bkr (921) 0<br>
+-23|-18|-18|-15|-13|-10|-7|-1|-4|-2<br>
 	7. MadDookie (12:22)<br>
+	8. Captain-Levi (12:13)<br>
 <br>
-260. #HAIDER99 (920) 0<br>
+258. #HAIDER99 (920) 0<br>
 -29|-25|-22|-14|-16|-16|-20|-13|-6|-6<br>
 	1. Parko (4:13)<br>
 	3. Enlights (2:8)<br>
 	6. JDHA218 (2:4)<br>
 	7. MadDookie (9:31)<br>
+	8. Captain-Levi (1:4)<br>
 <br>
-261. #hasan.187 (920) 0<br>
+259. #hasan.187 (920) 0<br>
 -76|-57|-38|-29|-17|-6|-6<br>
 	1. Parko (8:12)<br>
 	3. Enlights (7:10)<br>
 	6. JDHA218 (5:4)<br>
 	7. MadDookie (7:16)<br>
 <br>
-262. #lelofadel111 (914) 0<br>
--54|-52|-53|-46|-27|-24|-22|-13|-14|-4<br>
+260. #lelofadel111 (914) 0<br>
+-54|-52|-53|-46|-27|-24|-21|-13|-14|-3<br>
 	1. Parko (7:15)<br>
 	2. sirgrapeLot (0:4)<br>
 	3. Enlights (16:20)<br>
 	4. Reclamation- (1:3)<br>
 	5. Vadim1707 (1:4)<br>
-	6. JDHA218 (22:47)<br>
+	6. JDHA218 (29:58)<br>
 	7. MadDookie (45:83)<br>
-	9. GoOody (1:0)<br>
-	10. spaceycarrot (2:7)<br>
+	8. Captain-Levi (3:7)<br>
+	9. spaceycarrot (2:7)<br>
+	10. GoOody (1:0)<br>
 <br>
-263. #bandy (913) 0<br>
--56|-51|-40|-34|-31|-9|-10|-7|-3|+2<br>
+261. #bandy (914) 0<br>
+-55|-50|-40|-33|-30|-9|-10|-7|-3|+2<br>
 	1. Parko (3:8)<br>
 	4. Reclamation- (3:5)<br>
 	5. Vadim1707 (1:4)<br>
+	6. JDHA218 (6:6)<br>
 	7. MadDookie (6:15)<br>
 <br>
-264. #Fourdixs (910) 0<br>
+262. #Fourdixs (910) 0<br>
 -10|-8|-12|-5|-6|0|-3|-4|0|+1<br>
 	3. Enlights (4:5)<br>
 	6. JDHA218 (9:16)<br>
 	7. MadDookie (10:19)<br>
-	10. spaceycarrot (2:14)<br>
+	9. spaceycarrot (2:14)<br>
 <br>
-265. #edache22 (907) 0<br>
+263. #edache22 (907) 0<br>
 -7|-6|-6|-7|-8|-1|+5|+8|+3|0<br>
+	6. JDHA218 (0:3)<br>
 	7. MadDookie (9:18)<br>
+	8. Captain-Levi (6:5)<br>
 <br>
-266. #BigUU (835) 0<br>
--33|-27|-28|-23|-25|-11|-14|-1|-2|0<br>
+264. #BigUU (835) 0<br>
+-33|-27|-29|-23|-25|-12|-14|-1|-2|0<br>
 	1. Parko (9:42)<br>
 	3. Enlights (1:6)<br>
 	4. Reclamation- (0:1)<br>
 	6. JDHA218 (1:6)<br>
 	7. MadDookie (16:28)<br>
-	10. spaceycarrot (1:3)<br>
+	8. Captain-Levi (3:3)<br>
+	9. spaceycarrot (1:3)<br>

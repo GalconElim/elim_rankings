@@ -1,8 +1,14 @@
 Recent win rates against top 10 over the past 20k matches<br>
 <br>
-1. #BillY_Patro (1279) 0<br>
-+29|+26|+14|+8|+15|+7|+5|+8|+6|0<br>
-	2. PEPrasetya (0:2)<br>
+1. #PEPrasetya (1280) 0<br>
++4|-1|-12|-9|-1|+1|-3|0|-2|-5<br>
+	2. BillY_Patro (2:0)<br>
+	5. CloudySheet~353 (0:2)<br>
+	8. MUF (1:1)<br>
+<br>
+2. #BillY_Patro (1279) 0<br>
++29|+25|+13|+8|+15|+6|+5|+8|+6|0<br>
+	1. PEPrasetya (0:2)<br>
 	3. Milky007 (1:0)<br>
 	4. A-Z-SH (0:1)<br>
 	5. CloudySheet~353 (1:3)<br>
@@ -11,15 +17,9 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MUF (2:2)<br>
 	10. zebruken (0:1)<br>
 <br>
-2. #PEPrasetya (1279) 0<br>
-+4|-1|-13|-10|-2|+1|-3|0|-2|-5<br>
-	1. BillY_Patro (2:0)<br>
-	5. CloudySheet~353 (0:2)<br>
-	8. MUF (1:1)<br>
-<br>
-3. #Milky007 (1256) +1<br>
-+75|+64|+49|+49|+37|+18|+17|+13|+12|+10<br>
-	1. BillY_Patro (0:1)<br>
+3. #Milky007 (1257) +1<br>
++75|+65|+49|+50|+37|+18|+17|+13|+12|+10<br>
+	2. BillY_Patro (0:1)<br>
 	4. A-Z-SH (0:2)<br>
 	5. CloudySheet~353 (1:0)<br>
 	6. fifty6 (0:1)<br>
@@ -27,17 +27,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MUF (1:1)<br>
 <br>
 4. #A-Z-SH (1232) 0<br>
-+25|+27|+8|+24|+17|+10|+9|+4|+6|+2<br>
-	1. BillY_Patro (1:0)<br>
++25|+27|+8|+23|+17|+10|+9|+4|+6|+2<br>
+	2. BillY_Patro (1:0)<br>
 	3. Milky007 (2:0)<br>
 	8. MUF (0:1)<br>
 	9. GroovyFlame (4:0)<br>
 	10. zebruken (1:1)<br>
 <br>
 5. #CloudySheet~353 (1232) -2<br>
-+190|+171|+138|+94|+82|+63|+49|+33|+16|-1<br>
-	1. BillY_Patro (3:1)<br>
-	2. PEPrasetya (2:0)<br>
++190|+171|+138|+95|+82|+63|+49|+33|+17|-1<br>
+	1. PEPrasetya (2:0)<br>
+	2. BillY_Patro (3:1)<br>
 	3. Milky007 (0:1)<br>
 	7. Buz (0:1)<br>
 	8. MUF (0:1)<br>
@@ -45,13 +45,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 6. #fifty6 (1230) 0<br>
 -2|0|+9|+13|+18|+24|+23|+12|+13|+3<br>
-	1. BillY_Patro (1:1)<br>
+	2. BillY_Patro (1:1)<br>
 	3. Milky007 (1:0)<br>
 	9. GroovyFlame (2:0)<br>
 <br>
 7. #Buz (1229) +1<br>
-+18|+15|+18|+14|+17|+19|+16|+11|+8|-2<br>
-	1. BillY_Patro (1:1)<br>
++18|+15|+18|+15|+17|+20|+16|+11|+8|-2<br>
+	2. BillY_Patro (1:1)<br>
 	3. Milky007 (1:0)<br>
 	5. CloudySheet~353 (1:0)<br>
 	8. MUF (1:2)<br>
@@ -60,8 +60,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 8. #MUF (1228) +1<br>
 +31|+27|+16|+17|+14|+9|+15|+12|+9|+2<br>
-	1. BillY_Patro (2:2)<br>
-	2. PEPrasetya (1:1)<br>
+	1. PEPrasetya (1:1)<br>
+	2. BillY_Patro (2:2)<br>
 	3. Milky007 (1:1)<br>
 	4. A-Z-SH (1:0)<br>
 	5. CloudySheet~353 (1:0)<br>
@@ -77,36 +77,36 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. zebruken (2:2)<br>
 <br>
 10. #zebruken (1225) +1<br>
-+27|+32|+36|+33|+25|+9|+11|+16|+13|+7<br>
-	1. BillY_Patro (1:0)<br>
++28|+32|+36|+33|+25|+9|+11|+16|+13|+7<br>
+	2. BillY_Patro (1:0)<br>
 	4. A-Z-SH (1:1)<br>
 	5. CloudySheet~353 (0:1)<br>
 	7. Buz (2:6)<br>
 	9. GroovyFlame (2:2)<br>
 <br>
-11. #flagstone (1224) -1<br>
-0|0|-1|+5|+10|+10|+11|+7|-2|0<br>
+11. #flagstone (1225) -1<br>
++1|0|0|+6|+10|+10|+11|+7|-2|0<br>
 	5. CloudySheet~353 (0:1)<br>
 	7. Buz (1:5)<br>
 	10. zebruken (1:0)<br>
 <br>
 12. #eggleung1995 (1219) +2<br>
 -22|-21|-7|-4|-11|-1|-5|-9|+1|+3<br>
-	1. BillY_Patro (0:1)<br>
+	2. BillY_Patro (0:1)<br>
 	4. A-Z-SH (2:6)<br>
 	8. MUF (3:2)<br>
 <br>
 13. #Tiberius88 (1214) 0<br>
 +10|+12|+30|+38|+38|+32|+29|+21|+17|+3<br>
-	1. BillY_Patro (1:0)<br>
+	2. BillY_Patro (1:0)<br>
 	7. Buz (4:2)<br>
 	8. MUF (1:2)<br>
 	9. GroovyFlame (1:1)<br>
 <br>
 14. #PR0D1GY (1195) +1<br>
 +155|+124|+70|+46|+31|+13<br>
-	1. BillY_Patro (2:0)<br>
-	2. PEPrasetya (2:2)<br>
+	1. PEPrasetya (2:2)<br>
+	2. BillY_Patro (2:0)<br>
 	3. Milky007 (1:3)<br>
 	5. CloudySheet~353 (1:0)<br>
 	7. Buz (0:1)<br>
@@ -115,17 +115,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. zebruken (0:2)<br>
 <br>
 15. #tiger_style (1189) 0<br>
-+37|+36|+37|+30|+30|+17|+16|+13|-2|-5<br>
++37|+36|+37|+30|+30|+18|+16|+13|-2|-5<br>
 	3. Milky007 (2:2)<br>
 	6. fifty6 (1:2)<br>
 	7. Buz (2:2)<br>
 	9. GroovyFlame (1:0)<br>
 	10. zebruken (1:2)<br>
 <br>
-16. #His-Majesty (1188) -1<br>
+16. #His-Majesty (1189) -1<br>
 +2|+5|+15|+18|+18|+18|+11|+3|+2|+7<br>
-	1. BillY_Patro (0:3)<br>
-	2. PEPrasetya (0:1)<br>
+	1. PEPrasetya (0:1)<br>
+	2. BillY_Patro (0:3)<br>
 	3. Milky007 (1:5)<br>
 	4. A-Z-SH (0:1)<br>
 	5. CloudySheet~353 (1:1)<br>
@@ -134,9 +134,9 @@ Recent win rates against top 10 over the past 20k matches<br>
 	8. MUF (7:4)<br>
 	9. GroovyFlame (8:3)<br>
 <br>
-17. #Celica (1184) 0<br>
-+17|+8|+19|+22|+14|+18|+15|+7|+4|+5<br>
-	1. BillY_Patro (1:1)<br>
+17. #Celica (1185) 0<br>
++17|+8|+18|+21|+14|+17|+15|+7|+4|+5<br>
+	2. BillY_Patro (1:1)<br>
 	3. Milky007 (2:1)<br>
 	4. A-Z-SH (1:0)<br>
 	5. CloudySheet~353 (1:3)<br>
@@ -147,23 +147,23 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 18. #elNino (1179) -1<br>
 +127|+116|+86|+67|+53|+36|+21|+17|+7|-1<br>
-	1. BillY_Patro (0:4)<br>
-	2. PEPrasetya (0:1)<br>
+	1. PEPrasetya (0:1)<br>
+	2. BillY_Patro (0:4)<br>
 	3. Milky007 (0:1)<br>
 	5. CloudySheet~353 (4:3)<br>
 	7. Buz (0:2)<br>
 	8. MUF (0:1)<br>
 <br>
 19. #z.snafu (1176) 0<br>
--18|-8|-3|+2|+9|-1|+5|+5|+8|+3<br>
-	2. PEPrasetya (0:1)<br>
+-18|-8|-3|+3|+9|-1|+5|+5|+8|+3<br>
+	1. PEPrasetya (0:1)<br>
 	5. CloudySheet~353 (2:0)<br>
 	7. Buz (3:2)<br>
 	8. MUF (1:0)<br>
 <br>
 20. #TangySoda~164 (1175) 0<br>
--6|-14|-10|-26|-16|-20|-8|-13|-14|-4<br>
-	1. BillY_Patro (0:2)<br>
+-6|-14|-11|-26|-16|-20|-8|-13|-14|-4<br>
+	2. BillY_Patro (0:2)<br>
 	3. Milky007 (2:2)<br>
 	5. CloudySheet~353 (2:5)<br>
 	7. Buz (1:0)<br>
@@ -181,17 +181,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. zebruken (3:1)<br>
 <br>
 22. #mintyfresh (1168) 0<br>
-0|-1|+13|+4|+5|+10|+4|-7|-8|-4<br>
-	1. BillY_Patro (2:1)<br>
+0|-1|+13|+5|+5|+10|+4|-7|-8|-4<br>
+	2. BillY_Patro (2:1)<br>
 	5. CloudySheet~353 (3:4)<br>
 	6. fifty6 (0:1)<br>
 	8. MUF (0:1)<br>
 	9. GroovyFlame (1:1)<br>
 <br>
 23. #TidyFox-415 (1166) -2<br>
-+30|+16|+18|+14|+22|+16|+13|-2|+2|+2<br>
-	1. BillY_Patro (0:1)<br>
-	2. PEPrasetya (1:1)<br>
++30|+15|+18|+14|+22|+16|+13|-1|+2|+2<br>
+	1. PEPrasetya (1:1)<br>
+	2. BillY_Patro (0:1)<br>
 	3. Milky007 (0:1)<br>
 	4. A-Z-SH (2:1)<br>
 	5. CloudySheet~353 (2:4)<br>
@@ -202,7 +202,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. zebruken (3:1)<br>
 <br>
 24. #nurglingde (1158) -1<br>
-+18|+28|+26|+18|+5|+3|+2|+6|+3|-3<br>
++18|+28|+26|+18|+5|+4|+2|+7|+4|-3<br>
 	5. CloudySheet~353 (0:2)<br>
 	7. Buz (0:1)<br>
 	8. MUF (1:3)<br>
@@ -216,7 +216,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 26. #Kotori (1152) 0<br>
 +127|+101|+82|+65|+35|+15|+4<br>
-	1. BillY_Patro (0:2)<br>
+	2. BillY_Patro (0:2)<br>
 	3. Milky007 (1:1)<br>
 	5. CloudySheet~353 (0:3)<br>
 	6. fifty6 (0:1)<br>
@@ -227,7 +227,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 27. #Khalifah (1151) +3<br>
 +97|+93|+76|+70|+44|+31|+19|+10|+6|+1<br>
-	2. PEPrasetya (0:1)<br>
+	1. PEPrasetya (0:1)<br>
 	5. CloudySheet~353 (0:1)<br>
 	6. fifty6 (1:3)<br>
 	7. Buz (0:1)<br>
@@ -236,7 +236,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 28. #Crispo (1149) +1<br>
 +108|+96|+86|+71|+57|+42|+42|+30|+23|+17<br>
-	1. BillY_Patro (2:0)<br>
+	2. BillY_Patro (2:0)<br>
 	3. Milky007 (1:2)<br>
 	5. CloudySheet~353 (1:0)<br>
 	7. Buz (1:0)<br>
@@ -245,8 +245,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. zebruken (0:1)<br>
 <br>
 29. #the-jk (1148) +3<br>
-+25|+18|+30|+23|+19|+13|+20|+10|+8|+7<br>
-	1. BillY_Patro (1:1)<br>
++25|+18|+30|+22|+19|+13|+20|+10|+8|+7<br>
+	2. BillY_Patro (1:1)<br>
 	4. A-Z-SH (0:3)<br>
 	5. CloudySheet~353 (1:2)<br>
 	6. fifty6 (1:1)<br>
@@ -257,7 +257,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	3. Milky007 (0:2)<br>
 <br>
 31. #HollowPocke~930 (1147) 0<br>
-+128|+95|+71|+67|+48|+36|+40|+22|+2|-4<br>
++128|+95|+71|+67|+48|+36|+40|+22|+3|-4<br>
 	3. Milky007 (0:1)<br>
 	5. CloudySheet~353 (1:1)<br>
 	7. Buz (1:1)<br>
@@ -265,8 +265,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. zebruken (0:4)<br>
 <br>
 32. #WateryApple~232 (1145) 0<br>
-+135|+115|+87|+69|+49|+22|+13|+7<br>
-	1. BillY_Patro (1:0)<br>
++135|+115|+87|+70|+49|+23|+14|+7<br>
+	2. BillY_Patro (1:0)<br>
 	4. A-Z-SH (0:1)<br>
 	5. CloudySheet~353 (0:1)<br>
 	7. Buz (0:1)<br>
@@ -275,7 +275,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 33. #Novacore (1145) 0<br>
 +62|+50|+39|+27|+23|+17|+13|+2|-4|-9<br>
-	2. PEPrasetya (1:2)<br>
+	1. PEPrasetya (1:2)<br>
 	5. CloudySheet~353 (0:1)<br>
 	7. Buz (1:2)<br>
 	8. MUF (1:1)<br>
@@ -294,27 +294,27 @@ Recent win rates against top 10 over the past 20k matches<br>
 +128|+107|+97|+78|+57|+43|+25|+19|+21|+1<br>
 	7. Buz (0:4)<br>
 <br>
-36. #rotzo (1137) 0<br>
-+68|+54|+29|+32|+32|+23|+16|0|+4|0<br>
-	1. BillY_Patro (0:1)<br>
+36. #rotzo (1138) 0<br>
++69|+54|+29|+32|+32|+23|+16|0|+4|0<br>
+	2. BillY_Patro (0:1)<br>
 	6. fifty6 (1:1)<br>
 	7. Buz (0:2)<br>
 	9. GroovyFlame (1:0)<br>
 	10. zebruken (0:2)<br>
 <br>
 37. #popeye (1136) -1<br>
-+128|+115|+101|+79|+58|+46|+37|+22|+9<br>
-	1. BillY_Patro (0:1)<br>
++128|+115|+102|+79|+58|+46|+37|+22|+9<br>
+	2. BillY_Patro (0:1)<br>
 	4. A-Z-SH (2:1)<br>
 	5. CloudySheet~353 (1:4)<br>
 	8. MUF (1:2)<br>
 	9. GroovyFlame (1:1)<br>
 	10. zebruken (1:0)<br>
 <br>
-38. #Capernicus (1135) 0<br>
+38. #Capernicus (1136) 0<br>
 +101|+82|+64|+44|+22|0<br>
-	1. BillY_Patro (1:1)<br>
-	2. PEPrasetya (0:2)<br>
+	1. PEPrasetya (0:2)<br>
+	2. BillY_Patro (1:1)<br>
 	3. Milky007 (0:2)<br>
 	4. A-Z-SH (0:1)<br>
 	5. CloudySheet~353 (2:6)<br>
@@ -336,8 +336,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Buz (0:2)<br>
 <br>
 41. #farzip (1134) -3<br>
-0|-1|-3|+5|+3|-3|-2|-4|-9|-8<br>
-	1. BillY_Patro (1:1)<br>
+0|-1|-3|+6|+3|-3|-2|-4|-9|-8<br>
+	2. BillY_Patro (1:1)<br>
 	3. Milky007 (3:2)<br>
 	4. A-Z-SH (0:3)<br>
 	5. CloudySheet~353 (3:2)<br>
@@ -347,9 +347,9 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. GroovyFlame (3:3)<br>
 <br>
 42. #mahone007 (1133) -4<br>
--16|+1|-2|-7|-9|-6|-2|+1|-7|-3<br>
-	1. BillY_Patro (0:1)<br>
-	2. PEPrasetya (0:1)<br>
+-16|+2|-2|-7|-9|-6|-1|+1|-7|-3<br>
+	1. PEPrasetya (0:1)<br>
+	2. BillY_Patro (0:1)<br>
 	4. A-Z-SH (2:0)<br>
 	5. CloudySheet~353 (1:0)<br>
 	7. Buz (1:1)<br>
@@ -365,16 +365,16 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. zebruken (1:2)<br>
 <br>
 44. #Star69lord (1129) 0<br>
-+134|+108|+100|+95|+85|+65|+49|+31|+16|+8<br>
++133|+108|+100|+95|+85|+64|+48|+31|+15|+8<br>
 	3. Milky007 (0:1)<br>
 	4. A-Z-SH (0:1)<br>
 	6. fifty6 (0:3)<br>
 	7. Buz (1:2)<br>
 	10. zebruken (0:1)<br>
 <br>
-45. #GrayFork~576 (1126) -1<br>
-+114|+63|+25|+4<br>
-	2. PEPrasetya (2:0)<br>
+45. #GrayFork~576 (1127) -1<br>
++114|+64|+25|+4<br>
+	1. PEPrasetya (2:0)<br>
 	4. A-Z-SH (1:0)<br>
 	7. Buz (1:0)<br>
 	8. MUF (0:1)<br>
@@ -383,7 +383,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 46. #TinyOwl~323 (1126) -1<br>
 +15|+13|+13|+2|-11|-10|-5|-14|-20|-6<br>
-	1. BillY_Patro (0:3)<br>
+	2. BillY_Patro (0:3)<br>
 	3. Milky007 (2:10)<br>
 	5. CloudySheet~353 (4:7)<br>
 	6. fifty6 (0:2)<br>
@@ -393,15 +393,15 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. zebruken (4:1)<br>
 <br>
 47. #JSU332017 (1126) +1<br>
-+14|-3|-3|-2|+7|+10|+19|+19|+5|-8<br>
-	1. BillY_Patro (2:5)<br>
++14|-3|-3|-3|+7|+10|+19|+19|+5|-8<br>
+	2. BillY_Patro (2:5)<br>
 	3. Milky007 (0:1)<br>
 	5. CloudySheet~353 (0:2)<br>
 	8. MUF (1:3)<br>
 	10. zebruken (1:2)<br>
 <br>
-48. #thereason (1125) 0<br>
-+3|+3|0|-3|0|-4|+2|-5|0|-7<br>
+48. #thereason (1126) 0<br>
++3|+3|+1|-2|0|-3|+3|-5|0|-7<br>
 	3. Milky007 (0:1)<br>
 	4. A-Z-SH (2:1)<br>
 	5. CloudySheet~353 (4:7)<br>
@@ -411,8 +411,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. zebruken (0:2)<br>
 <br>
 49. #OBTHR33 (1125) 0<br>
-+75|+62|+44|+35|+26|+21|+25|+12|+10|-4<br>
-	1. BillY_Patro (1:1)<br>
++75|+62|+44|+35|+27|+21|+25|+12|+11|-4<br>
+	2. BillY_Patro (1:1)<br>
 	3. Milky007 (0:1)<br>
 	6. fifty6 (1:0)<br>
 	7. Buz (1:5)<br>
@@ -421,8 +421,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. zebruken (0:1)<br>
 <br>
 50. #worldwarX (1116) -5<br>
--7|-4|-12|-6|0|-12|-18|-8|-4|-11<br>
-	1. BillY_Patro (1:1)<br>
+-7|-4|-11|-6|0|-12|-18|-7|-4|-11<br>
+	2. BillY_Patro (1:1)<br>
 	3. Milky007 (1:1)<br>
 	4. A-Z-SH (2:0)<br>
 	5. CloudySheet~353 (1:1)<br>
@@ -433,7 +433,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. zebruken (1:0)<br>
 <br>
 51. #sharkman13 (1112) 0<br>
-+104|+77|+54|+40|+35|+23|+15|+14|+4<br>
++104|+77|+54|+40|+35|+23|+15|+14|+5<br>
 	5. CloudySheet~353 (1:3)<br>
 	7. Buz (0:1)<br>
 	9. GroovyFlame (0:1)<br>
@@ -441,7 +441,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 52. #BurlyWater~478 (1111) +1<br>
 +83|+53|+51|+31|+25|+8<br>
-	2. PEPrasetya (0:1)<br>
+	1. PEPrasetya (0:1)<br>
 	4. A-Z-SH (2:0)<br>
 	6. fifty6 (0:1)<br>
 	7. Buz (0:1)<br>
@@ -450,7 +450,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 53. #ZippyComb~184 (1110) 0<br>
 +77|+51|+23<br>
-	2. PEPrasetya (1:2)<br>
+	1. PEPrasetya (1:2)<br>
 	3. Milky007 (0:2)<br>
 	5. CloudySheet~353 (0:4)<br>
 	6. fifty6 (0:1)<br>
@@ -458,28 +458,28 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 54. #terminator77 (1105) +2<br>
 +99|+88|+73|+63|+31|+12<br>
-	2. PEPrasetya (0:1)<br>
+	1. PEPrasetya (0:1)<br>
 	4. A-Z-SH (3:2)<br>
 	5. CloudySheet~353 (0:2)<br>
 	7. Buz (1:1)<br>
 	8. MUF (1:0)<br>
 <br>
 55. #Benman3000 (1105) 0<br>
-+48|+50|+48|+37|+44|+42|+30|+6|+6|+8<br>
-	2. PEPrasetya (1:2)<br>
++48|+50|+49|+37|+44|+42|+30|+6|+6|+8<br>
+	1. PEPrasetya (1:2)<br>
 	7. Buz (0:2)<br>
 	9. GroovyFlame (0:2)<br>
 <br>
 56. #ParaDroid72 (1095) -1<br>
 +81|+68|+59|+34|+26|+4|+4<br>
-	1. BillY_Patro (0:1)<br>
-	2. PEPrasetya (2:6)<br>
+	1. PEPrasetya (2:6)<br>
+	2. BillY_Patro (0:1)<br>
 	4. A-Z-SH (1:0)<br>
 	8. MUF (0:2)<br>
 <br>
 57. #DryMango~917 (1092) 0<br>
 +91|+73|+52|+44|+36|+38|+20|+6<br>
-	1. BillY_Patro (0:2)<br>
+	2. BillY_Patro (0:2)<br>
 	3. Milky007 (0:2)<br>
 	5. CloudySheet~353 (1:2)<br>
 	6. fifty6 (5:1)<br>
@@ -492,8 +492,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. zebruken (0:2)<br>
 <br>
 59. #AbsurdBeef~399 (1089) 0<br>
-+87|+84|+62|+55|+51|+51|+54|+41|+26|+7<br>
-	1. BillY_Patro (0:2)<br>
++87|+84|+63|+55|+51|+51|+54|+41|+26|+7<br>
+	2. BillY_Patro (0:2)<br>
 	3. Milky007 (1:4)<br>
 	5. CloudySheet~353 (0:1)<br>
 <br>
@@ -511,36 +511,36 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 62. #dfxe (1082) +1<br>
 +57|+36|+9<br>
-	1. BillY_Patro (1:1)<br>
+	2. BillY_Patro (1:1)<br>
 	3. Milky007 (1:2)<br>
 	7. Buz (0:1)<br>
 	8. MUF (9:1)<br>
 	10. zebruken (1:0)<br>
 <br>
-63. #LobsterPete (1082) +1<br>
-+70|+65|+35|+12<br>
-	1. BillY_Patro (0:2)<br>
-	2. PEPrasetya (1:0)<br>
-	4. A-Z-SH (0:2)<br>
-	5. CloudySheet~353 (0:1)<br>
-<br>
-64. #QuirkyToad~911 (1082) 0<br>
-+78|+70|+59|+37|+33|+31|+31|+11|+2|+1<br>
+63. #QuirkyToad~911 (1082) 0<br>
++79|+70|+60|+37|+34|+31|+31|+11|+2|+1<br>
 	5. CloudySheet~353 (1:1)<br>
 	6. fifty6 (1:0)<br>
 	8. MUF (0:2)<br>
 	10. zebruken (0:1)<br>
 <br>
-65. #PuffyBread~392 (1080) +2<br>
-+74|+60|+57|+44|+14|+2<br>
-	2. PEPrasetya (1:0)<br>
+64. #LobsterPete (1082) +1<br>
++70|+65|+35|+12<br>
+	1. PEPrasetya (1:0)<br>
+	2. BillY_Patro (0:2)<br>
+	4. A-Z-SH (0:2)<br>
+	5. CloudySheet~353 (0:1)<br>
+<br>
+65. #PuffyBread~392 (1081) +2<br>
++74|+60|+56|+44|+14|+2<br>
+	1. PEPrasetya (1:0)<br>
 	5. CloudySheet~353 (1:2)<br>
 	7. Buz (1:1)<br>
 	9. GroovyFlame (1:1)<br>
 <br>
 66. #Asbo (1078) +2<br>
-+69|+41|+33|+8|+12<br>
-	2. PEPrasetya (0:1)<br>
++69|+42|+33|+8|+12<br>
+	1. PEPrasetya (0:1)<br>
 	3. Milky007 (0:2)<br>
 	4. A-Z-SH (1:0)<br>
 	8. MUF (0:1)<br>
@@ -554,21 +554,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 68. #recencjusz (1073) +4<br>
 +54|+24<br>
-	2. PEPrasetya (1:0)<br>
+	1. PEPrasetya (1:0)<br>
 	5. CloudySheet~353 (0:2)<br>
 	7. Buz (1:0)<br>
 <br>
-69. #FreeRegret~216 (1071) 0<br>
-+43|+2<br>
-	2. PEPrasetya (1:2)<br>
-	3. Milky007 (0:1)<br>
-	4. A-Z-SH (5:2)<br>
-	5. CloudySheet~353 (3:5)<br>
-	7. Buz (1:0)<br>
-<br>
-70. #k30 (1071) +7<br>
-+69|+68|+61|+48|+26|+22|+22|+12|+5<br>
-	2. PEPrasetya (2:6)<br>
+69. #k30 (1071) +7<br>
++69|+69|+62|+49|+26|+22|+22|+12|+5<br>
+	1. PEPrasetya (2:6)<br>
 	3. Milky007 (0:1)<br>
 	5. CloudySheet~353 (1:3)<br>
 	6. fifty6 (2:1)<br>
@@ -577,18 +569,26 @@ Recent win rates against top 10 over the past 20k matches<br>
 	9. GroovyFlame (3:8)<br>
 	10. zebruken (7:1)<br>
 <br>
+70. #FreeRegret~216 (1071) 0<br>
++43|+2<br>
+	1. PEPrasetya (1:2)<br>
+	3. Milky007 (0:1)<br>
+	4. A-Z-SH (5:2)<br>
+	5. CloudySheet~353 (3:5)<br>
+	7. Buz (1:0)<br>
+<br>
 71. #KITTEH11 (1068) -2<br>
 +66|+50|+38|+23|+11|+1|0<br>
-	1. BillY_Patro (0:2)<br>
-	2. PEPrasetya (0:3)<br>
+	1. PEPrasetya (0:3)<br>
+	2. BillY_Patro (0:2)<br>
 	5. CloudySheet~353 (0:1)<br>
 	6. fifty6 (0:1)<br>
 	8. MUF (4:15)<br>
 <br>
 72. #RockySpruce~290 (1065) 0<br>
-+63|+62|+62|+47|+45|+44|+35|+23|+14|+3<br>
-	1. BillY_Patro (0:2)<br>
-	2. PEPrasetya (2:2)<br>
++63|+62|+63|+47|+45|+44|+35|+23|+14|+3<br>
+	1. PEPrasetya (2:2)<br>
+	2. BillY_Patro (0:2)<br>
 	3. Milky007 (0:2)<br>
 	5. CloudySheet~353 (2:0)<br>
 	7. Buz (0:4)<br>
@@ -598,14 +598,14 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 73. #SmallHam~985 (1063) 0<br>
 +24<br>
-	2. PEPrasetya (0:1)<br>
+	1. PEPrasetya (0:1)<br>
 	7. Buz (1:0)<br>
 	8. MUF (1:0)<br>
 	9. GroovyFlame (0:2)<br>
 <br>
 74. #Blackdwarf (1061) 0<br>
-+62|+48|+35|+22|+14<br>
-	2. PEPrasetya (3:1)<br>
++62|+49|+35|+22|+14<br>
+	1. PEPrasetya (3:1)<br>
 	6. fifty6 (1:0)<br>
 	7. Buz (1:2)<br>
 	8. MUF (0:1)<br>
@@ -613,7 +613,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 75. #BraveCrayon~315 (1058) +1<br>
 +18<br>
-	1. BillY_Patro (0:2)<br>
+	2. BillY_Patro (0:2)<br>
 	6. fifty6 (0:1)<br>
 	7. Buz (0:1)<br>
 	8. MUF (1:1)<br>
@@ -622,8 +622,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 76. #crank93 (1057) +1<br>
 +12<br>
-	1. BillY_Patro (0:4)<br>
-	2. PEPrasetya (0:1)<br>
+	1. PEPrasetya (0:1)<br>
+	2. BillY_Patro (0:4)<br>
 	3. Milky007 (0:1)<br>
 	4. A-Z-SH (0:1)<br>
 	5. CloudySheet~353 (2:0)<br>
@@ -633,7 +633,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 77. #FlatAurora~205 (1057) 0<br>
 +48|+28|+12<br>
-	2. PEPrasetya (3:0)<br>
+	1. PEPrasetya (3:0)<br>
 	3. Milky007 (0:2)<br>
 	8. MUF (1:2)<br>
 <br>
@@ -649,15 +649,15 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 79. #MellowLeaf~363 (1053) 0<br>
 +48|+21|+10<br>
-	2. PEPrasetya (2:0)<br>
+	1. PEPrasetya (2:0)<br>
 	5. CloudySheet~353 (2:2)<br>
 	7. Buz (2:0)<br>
 	8. MUF (1:0)<br>
 	10. zebruken (0:1)<br>
 <br>
-80. #AbsurdFlute~447 (1051) +6<br>
+80. #AbsurdFlute~447 (1052) +6<br>
 +44|+32|+8<br>
-	1. BillY_Patro (0:2)<br>
+	2. BillY_Patro (0:2)<br>
 	3. Milky007 (1:1)<br>
 	4. A-Z-SH (0:1)<br>
 	5. CloudySheet~353 (0:1)<br>
@@ -666,16 +666,16 @@ Recent win rates against top 10 over the past 20k matches<br>
 	10. zebruken (0:1)<br>
 <br>
 81. #MightyMoose~754 (1051) 0<br>
-+23<br>
-	1. BillY_Patro (1:1)<br>
-	2. PEPrasetya (6:0)<br>
++24<br>
+	1. PEPrasetya (6:0)<br>
+	2. BillY_Patro (1:1)<br>
 	4. A-Z-SH (0:1)<br>
 	5. CloudySheet~353 (3:1)<br>
 	7. Buz (1:0)<br>
 	8. MUF (4:0)<br>
 <br>
 82. #LordSith666 (1051) +1<br>
-+25|+5<br>
++26|+5<br>
 	4. A-Z-SH (2:1)<br>
 	5. CloudySheet~353 (1:3)<br>
 	7. Buz (0:1)<br>
@@ -685,7 +685,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 83. #StcasTAN (1048) -1<br>
 +15|+3<br>
-	1. BillY_Patro (0:2)<br>
+	2. BillY_Patro (0:2)<br>
 	3. Milky007 (2:1)<br>
 	4. A-Z-SH (0:1)<br>
 	5. CloudySheet~353 (0:4)<br>
@@ -694,8 +694,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 84. #SquareRiddl~670 (1047) +1<br>
 +40|+34|+29|+8|+4<br>
-	1. BillY_Patro (0:1)<br>
-	2. PEPrasetya (0:1)<br>
+	1. PEPrasetya (0:1)<br>
+	2. BillY_Patro (0:1)<br>
 	3. Milky007 (0:1)<br>
 	4. A-Z-SH (0:1)<br>
 	5. CloudySheet~353 (3:4)<br>
@@ -714,7 +714,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 	7. Buz (1:0)<br>
 	10. zebruken (0:1)<br>
 <br>
-87. #WaxGoblin~978 (1035) 0<br>
+87. #WaxGoblin~978 (1036) 0<br>
 +11<br>
 	5. CloudySheet~353 (1:0)<br>
 	6. fifty6 (4:2)<br>
@@ -722,8 +722,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 88. #DryCloud~715 (1034) 0<br>
 +18|+12|+8|-2<br>
-	1. BillY_Patro (0:1)<br>
-	2. PEPrasetya (0:1)<br>
+	1. PEPrasetya (0:1)<br>
+	2. BillY_Patro (0:1)<br>
 	3. Milky007 (0:4)<br>
 	5. CloudySheet~353 (0:1)<br>
 	6. fifty6 (1:1)<br>
@@ -733,7 +733,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 89. #dudo (1034) +1<br>
 +16|+4<br>
-	2. PEPrasetya (1:0)<br>
+	1. PEPrasetya (1:0)<br>
 	4. A-Z-SH (0:1)<br>
 	5. CloudySheet~353 (0:1)<br>
 	7. Buz (0:1)<br>
@@ -742,7 +742,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 90. #SIRxVAPES_ (1033) 0<br>
 +31|+17|+14|+11|+1<br>
-	1. BillY_Patro (0:1)<br>
+	2. BillY_Patro (0:1)<br>
 	3. Milky007 (0:1)<br>
 	6. fifty6 (0:1)<br>
 	7. Buz (1:0)<br>
@@ -751,7 +751,7 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 91. #ThrillaBee (1030) 0<br>
 +17|+6|+6|-1<br>
-	2. PEPrasetya (1:1)<br>
+	1. PEPrasetya (1:1)<br>
 	4. A-Z-SH (0:1)<br>
 	5. CloudySheet~353 (5:12)<br>
 	8. MUF (1:5)<br>
@@ -760,8 +760,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 92. #tim47 (1030) 0<br>
 +16|+17|+16|+3<br>
-	1. BillY_Patro (1:0)<br>
-	2. PEPrasetya (1:1)<br>
+	1. PEPrasetya (1:1)<br>
+	2. BillY_Patro (1:0)<br>
 	5. CloudySheet~353 (0:2)<br>
 	6. fifty6 (1:1)<br>
 	7. Buz (2:0)<br>
@@ -771,17 +771,17 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 93. #WickedSpoon~258 (1029) +2<br>
 +28|+20<br>
-	1. BillY_Patro (0:2)<br>
-	2. PEPrasetya (0:1)<br>
+	1. PEPrasetya (0:1)<br>
+	2. BillY_Patro (0:2)<br>
 	4. A-Z-SH (0:1)<br>
 	7. Buz (1:0)<br>
 	8. MUF (0:4)<br>
 	9. GroovyFlame (0:1)<br>
 	10. zebruken (0:1)<br>
 <br>
-94. #PurplePine~880 (1017) 0<br>
-+1|0<br>
-	2. PEPrasetya (2:2)<br>
+94. #PurplePine~880 (1018) 0<br>
++2|0<br>
+	1. PEPrasetya (2:2)<br>
 	4. A-Z-SH (0:2)<br>
 	5. CloudySheet~353 (2:5)<br>
 	7. Buz (1:1)<br>
@@ -790,8 +790,8 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 95. #JollyRice~561 (1016) +2<br>
 +2<br>
-	1. BillY_Patro (0:1)<br>
-	2. PEPrasetya (0:1)<br>
+	1. PEPrasetya (0:1)<br>
+	2. BillY_Patro (0:1)<br>
 	4. A-Z-SH (0:3)<br>
 	6. fifty6 (0:3)<br>
 	7. Buz (0:1)<br>
@@ -800,15 +800,15 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 96. #zazooo (1015) -1<br>
 +14|+2<br>
-	1. BillY_Patro (1:1)<br>
-	2. PEPrasetya (1:5)<br>
+	1. PEPrasetya (1:5)<br>
+	2. BillY_Patro (1:1)<br>
 	7. Buz (0:1)<br>
 	8. MUF (0:2)<br>
 	10. zebruken (0:4)<br>
 <br>
 97. #FreshChief~792 (1014) -1<br>
 +13|+4<br>
-	2. PEPrasetya (1:4)<br>
+	1. PEPrasetya (1:4)<br>
 	4. A-Z-SH (0:2)<br>
 	5. CloudySheet~353 (0:1)<br>
 	6. fifty6 (0:2)<br>
@@ -816,13 +816,13 @@ Recent win rates against top 10 over the past 20k matches<br>
 <br>
 98. #TackyErmine~145 (1012) 0<br>
 +8|0<br>
-	1. BillY_Patro (0:1)<br>
+	2. BillY_Patro (0:1)<br>
 	5. CloudySheet~353 (1:0)<br>
 	7. Buz (1:0)<br>
 <br>
 99. #RapidBingo~884 (1010) 0<br>
 +11|+2|+9|+4<br>
-	1. BillY_Patro (0:1)<br>
-	2. PEPrasetya (1:1)<br>
+	1. PEPrasetya (1:1)<br>
+	2. BillY_Patro (0:1)<br>
 	3. Milky007 (0:1)<br>
 	10. zebruken (2:0)<br>
