@@ -1,24 +1,24 @@
 Recent win rates against top 10 over the past 21 days<br>
 <br>
-1. #croissant (1250) -2<br>
-+34|+28|+23|+21|+21|+22|+15|+1|+3|-5<br>
+1. #croissant (1249) -1<br>
++33|+27|+22|+20|+20|+21|+13|0|+2|-6<br>
 	3. pablo55 (1:7)<br>
 	4. shunrai (18:9)<br>
 	5. dieHaPpY (3:2)<br>
-	6. MadDookie (63:34)<br>
+	6. MadDookie (64:39)<br>
 	7. hobbes313 (3:1)<br>
 	8. eLemeNt. (18:8)<br>
 	9. JCC (1:1)<br>
 	10. FaZzY (2:2)<br>
 <br>
-2. #Artimal_PL (1231) +2<br>
--24|-18|-14|-2|+4|-3|+2|+3|+2|+2<br>
+2. #Artimal_PL (1232) 0<br>
+-24|-18|-14|-2|+5|-3|+2|+4|+2|+3<br>
 	3. pablo55 (1:1)<br>
 	4. shunrai (2:2)<br>
 	6. MadDookie (12:9)<br>
-	8. eLemeNt. (6:9)<br>
+	8. eLemeNt. (4:9)<br>
 <br>
-3. #pablo55 (1184) +2<br>
+3. #pablo55 (1184) 0<br>
 +84|+80|+64|+64|+23|-10|-12|-2|-2|+2<br>
 	1. croissant (7:1)<br>
 	2. Artimal_PL (1:1)<br>
@@ -39,30 +39,30 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. eLemeNt. (1:6)<br>
 	10. FaZzY (7:2)<br>
 <br>
-5. #dieHaPpY (1163) 0<br>
--2|-3|+1|-2|+2|-7|0|-7|-5|+1<br>
+5. #dieHaPpY (1161) -2<br>
+-3|-5|0|-4|+1|-9|-2|-8|-6|-1<br>
 	1. croissant (2:3)<br>
 	3. pablo55 (3:1)<br>
 	4. shunrai (6:4)<br>
-	6. MadDookie (22:11)<br>
+	6. MadDookie (24:15)<br>
 	7. hobbes313 (3:4)<br>
 	8. eLemeNt. (5:4)<br>
 	10. FaZzY (1:1)<br>
 <br>
-6. #MadDookie (1145) -14<br>
--12|-11|-17|-22|-17|-16|-20|-15|-13|+1<br>
-	1. croissant (34:63)<br>
+6. #MadDookie (1149) +4<br>
+-8|-7|-13|-17|-12|-12|-16|-10|-9|+5<br>
+	1. croissant (39:64)<br>
 	2. Artimal_PL (9:12)<br>
 	3. pablo55 (55:38)<br>
 	4. shunrai (11:8)<br>
-	5. dieHaPpY (11:22)<br>
+	5. dieHaPpY (15:24)<br>
 	7. hobbes313 (30:31)<br>
 	8. eLemeNt. (44:39)<br>
 	9. JCC (8:4)<br>
-	10. FaZzY (25:22)<br>
+	10. FaZzY (24:26)<br>
 <br>
-7. #hobbes313 (1144) 0<br>
-+24|+22|+14|+14|+18|+14|+7|+2|+10|+8<br>
+7. #hobbes313 (1145) +1<br>
++25|+22|+15|+15|+19|+15|+8|+3|+11|+9<br>
 	1. croissant (1:3)<br>
 	3. pablo55 (15:15)<br>
 	5. dieHaPpY (4:3)<br>
@@ -71,10 +71,10 @@ Recent win rates against top 10 over the past 21 days<br>
 	9. JCC (6:2)<br>
 	10. FaZzY (6:3)<br>
 <br>
-8. #eLemeNt. (1143) 0<br>
-+8|+8|+1|-3|-6|-9|-10|-2|+3|+3<br>
+8. #eLemeNt. (1141) -3<br>
++6|+5|-1|-6|-9|-12|-13|-4|0|+1<br>
 	1. croissant (8:18)<br>
-	2. Artimal_PL (9:6)<br>
+	2. Artimal_PL (9:4)<br>
 	3. pablo55 (3:6)<br>
 	4. shunrai (6:1)<br>
 	5. dieHaPpY (4:5)<br>
@@ -90,21 +90,20 @@ Recent win rates against top 10 over the past 21 days<br>
 	7. hobbes313 (2:6)<br>
 	8. eLemeNt. (7:14)<br>
 <br>
-10. #FaZzY (1129) -7<br>
-+31|+26|+22|+20|+12|+9|+2|0|-2|-5<br>
+10. #FaZzY (1131) +2<br>
++33|+29|+24|+22|+15|+11|+5|+3|0|-3<br>
 	1. croissant (2:2)<br>
 	3. pablo55 (2:11)<br>
 	4. shunrai (2:7)<br>
 	5. dieHaPpY (1:1)<br>
-	6. MadDookie (22:25)<br>
+	6. MadDookie (26:24)<br>
 	7. hobbes313 (3:6)<br>
 	8. eLemeNt. (3:1)<br>
 <br>
-11. #FeralHyena (1129) -1<br>
+11. #FeralHyena (1129) 0<br>
 +95|+80|+70|+63|+56|+44|+37|+15|+1<br>
 	2. Artimal_PL (1:0)<br>
 	5. dieHaPpY (1:1)<br>
-	6. MadDookie (1:3)<br>
 	8. eLemeNt. (3:0)<br>
 	10. FaZzY (1:4)<br>
 <br>
@@ -115,7 +114,20 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. eLemeNt. (2:2)<br>
 	9. JCC (0:2)<br>
 <br>
-13. #MightyMoose~754 (1119) -3<br>
+13. #metbo (1121) +3<br>
++10|+7|+1|-3|-5|+9|+18|+18|+11|+10<br>
+	1. croissant (5:1)<br>
+	2. Artimal_PL (0:4)<br>
+	3. pablo55 (9:11)<br>
+	4. shunrai (1:0)<br>
+	5. dieHaPpY (5:3)<br>
+	6. MadDookie (40:55)<br>
+	7. hobbes313 (7:2)<br>
+	8. eLemeNt. (4:6)<br>
+	9. JCC (2:2)<br>
+	10. FaZzY (7:11)<br>
+<br>
+14. #MightyMoose~754 (1119) 0<br>
 +99|+64|+31|+2<br>
 	1. croissant (16:5)<br>
 	4. shunrai (5:0)<br>
@@ -124,27 +136,14 @@ Recent win rates against top 10 over the past 21 days<br>
 	9. JCC (1:2)<br>
 	10. FaZzY (1:0)<br>
 <br>
-14. #metbo (1117) +5<br>
-+7|+3|-2|-6|-8|+6|+15|+15|+7|+6<br>
-	1. croissant (5:1)<br>
-	2. Artimal_PL (0:4)<br>
-	3. pablo55 (9:11)<br>
-	4. shunrai (1:0)<br>
-	5. dieHaPpY (3:3)<br>
-	6. MadDookie (43:57)<br>
-	7. hobbes313 (7:2)<br>
-	8. eLemeNt. (5:7)<br>
-	9. JCC (2:2)<br>
-	10. FaZzY (7:11)<br>
-<br>
-15. #someOnh (1115) +1<br>
--11|-11|-23|-28|-24|-20|-13|-7|-10|+3<br>
+15. #someOnh (1118) +3<br>
+-8|-8|-21|-26|-21|-17|-10|-4|-8|+5<br>
 	1. croissant (7:8)<br>
 	2. Artimal_PL (5:5)<br>
 	3. pablo55 (12:13)<br>
 	4. shunrai (9:5)<br>
-	5. dieHaPpY (1:1)<br>
-	6. MadDookie (105:76)<br>
+	5. dieHaPpY (3:2)<br>
+	6. MadDookie (106:76)<br>
 	7. hobbes313 (6:7)<br>
 	8. eLemeNt. (18:14)<br>
 	9. JCC (8:2)<br>
@@ -162,8 +161,16 @@ Recent win rates against top 10 over the past 21 days<br>
 	9. JCC (3:0)<br>
 	10. FaZzY (4:2)<br>
 <br>
-17. #Gideon (1114) +3<br>
-0|+2|+2|-5|-5|-13|-9|-3|-2|+3<br>
+17. #ghost_face (1113) 0<br>
++6|+10|+13|+21|+18|+16|+10|+4|+3|-1<br>
+	5. dieHaPpY (1:2)<br>
+	6. MadDookie (12:17)<br>
+	7. hobbes313 (1:2)<br>
+	8. eLemeNt. (4:2)<br>
+	9. JCC (0:1)<br>
+<br>
+18. #Gideon (1111) -3<br>
+-1|-1|-8|-8|-16|-12|-6|-5|0|-1<br>
 	1. croissant (5:3)<br>
 	3. pablo55 (34:33)<br>
 	5. dieHaPpY (7:7)<br>
@@ -173,16 +180,8 @@ Recent win rates against top 10 over the past 21 days<br>
 	9. JCC (1:1)<br>
 	10. FaZzY (9:4)<br>
 <br>
-18. #ghost_face (1113) 0<br>
-+6|+10|+13|+21|+18|+16|+10|+4|+3|-1<br>
-	5. dieHaPpY (1:2)<br>
-	6. MadDookie (19:21)<br>
-	7. hobbes313 (1:2)<br>
-	8. eLemeNt. (4:2)<br>
-	9. JCC (0:1)<br>
-<br>
 19. #Orbiter (1110) 0<br>
-+69|+58|+54|+51|+52|+36|+30|+18|+16|+1<br>
++68|+58|+54|+51|+52|+35|+30|+18|+16|0<br>
 	1. croissant (2:3)<br>
 	2. Artimal_PL (2:1)<br>
 	4. shunrai (2:5)<br>
@@ -195,16 +194,16 @@ Recent win rates against top 10 over the past 21 days<br>
 20. #JDHA218 (1109) 0<br>
 -8|-10|-12|-9|-10|-5|-4|-2|-10|+2<br>
 	4. shunrai (1:2)<br>
-	6. MadDookie (3:6)<br>
+	6. MadDookie (0:3)<br>
 	10. FaZzY (1:1)<br>
 <br>
-21. #cricric (1107) 0<br>
-+16|+19|+16|+4|+3|+2|+4|+12|+8|+1<br>
+21. #cricric (1108) +1<br>
++17|+20|+17|+5|+4|+3|+5|+13|+8|+2<br>
 	1. croissant (1:3)<br>
-	2. Artimal_PL (3:0)<br>
+	2. Artimal_PL (2:0)<br>
 	3. pablo55 (2:0)<br>
 	6. MadDookie (12:11)<br>
-	8. eLemeNt. (4:4)<br>
+	8. eLemeNt. (3:4)<br>
 	10. FaZzY (1:1)<br>
 <br>
 22. #likeag66 (1103) 0<br>
@@ -216,7 +215,7 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. eLemeNt. (10:11)<br>
 	10. FaZzY (0:1)<br>
 <br>
-23. #TimeBreaker (1101) +2<br>
+23. #TimeBreaker (1101) 0<br>
 -60|-50|-39|-29|-21|-25|-22|-13|-13|-5<br>
 	2. Artimal_PL (2:1)<br>
 	3. pablo55 (0:3)<br>
@@ -226,26 +225,27 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. eLemeNt. (4:4)<br>
 	10. FaZzY (1:2)<br>
 <br>
-24. #WickedPizza~656 (1096) -4<br>
--45|-30|-34|-27|-20|-17|-18|-8|-4|-4<br>
-	1. croissant (3:2)<br>
-	3. pablo55 (0:1)<br>
-	6. MadDookie (0:4)<br>
-	7. hobbes313 (2:5)<br>
-	8. eLemeNt. (6:5)<br>
-	9. JCC (6:6)<br>
-<br>
-25. #sugarwalls (1096) -1<br>
-+7|+3|-1|-12|0|-4|-4|+4|+3|0<br>
-	1. croissant (3:7)<br>
+24. #sugarwalls (1096) 0<br>
++7|+3|-2|-12|0|-4|-4|+4|+3|0<br>
+	1. croissant (5:10)<br>
 	2. Artimal_PL (1:4)<br>
 	3. pablo55 (12:21)<br>
 	5. dieHaPpY (4:3)<br>
-	6. MadDookie (25:38)<br>
+	6. MadDookie (24:36)<br>
 	7. hobbes313 (3:2)<br>
 	8. eLemeNt. (17:17)<br>
 	9. JCC (1:1)<br>
 	10. FaZzY (8:5)<br>
+<br>
+25. #WickedPizza~656 (1095) -1<br>
+-31|-35|-29|-21|-18|-19|-9|-6|-5|+1<br>
+	1. croissant (3:2)<br>
+	3. pablo55 (0:1)<br>
+	6. MadDookie (9:14)<br>
+	7. hobbes313 (2:4)<br>
+	8. eLemeNt. (6:5)<br>
+	9. JCC (6:6)<br>
+	10. FaZzY (2:2)<br>
 <br>
 26. #Fluffywolf (1094) 0<br>
 -1|-10|-7|-8|-10|-8|-3|+8|+11|+2<br>
@@ -254,61 +254,42 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. MadDookie (13:20)<br>
 	10. FaZzY (1:0)<br>
 <br>
-27. #bmvj (1094) -2<br>
--22|-31|-21|-21|-17|-18|-21|-15|-12|-6<br>
+27. #bmvj (1089) -5<br>
+-36|-25|-25|-21|-22|-26|-19|-16|-10|0<br>
 	9. JCC (3:2)<br>
 <br>
-28. #Go4Chips (1088) +1<br>
--13|-25|-22|-25|-24|-22|-22|-14|-8|+2<br>
+28. #Go4Chips (1089) +1<br>
+-12|-24|-22|-25|-24|-21|-21|-13|-7|+2<br>
 	1. croissant (11:17)<br>
 	2. Artimal_PL (0:2)<br>
 	3. pablo55 (10:7)<br>
 	5. dieHaPpY (7:6)<br>
-	6. MadDookie (77:84)<br>
+	6. MadDookie (66:76)<br>
 	7. hobbes313 (9:10)<br>
-	8. eLemeNt. (13:16)<br>
+	8. eLemeNt. (13:13)<br>
 	9. JCC (5:6)<br>
 	10. FaZzY (5:7)<br>
 <br>
-29. #Opaline (1088) 0<br>
-+73|+83|+74|+73|+54|+38|+27|+19|+18|-1<br>
-	1. croissant (0:5)<br>
-	5. dieHaPpY (18:4)<br>
-	6. MadDookie (1:0)<br>
-	10. FaZzY (1:0)<br>
-<br>
-30. #vip_genius (1086) -3<br>
-+1|-9|-3|+5|+12|+2|+8|+3|+3|+1<br>
+29. #vip_genius (1088) +2<br>
++2|-7|-2|+6|+14|+4|+10|+5|+5|+3<br>
 	1. croissant (2:5)<br>
 	2. Artimal_PL (1:3)<br>
 	3. pablo55 (1:1)<br>
 	4. shunrai (0:1)<br>
 	6. MadDookie (22:21)<br>
 	7. hobbes313 (5:4)<br>
-	8. eLemeNt. (0:6)<br>
 	9. JCC (1:1)<br>
 	10. FaZzY (2:0)<br>
 <br>
-31. #drhillikilil (1084) 0<br>
--18|-21|-4|0|+4|+4|-1|-2|-2|-2<br>
-	1. croissant (7:10)<br>
-	2. Artimal_PL (4:1)<br>
-	3. pablo55 (5:10)<br>
-	5. dieHaPpY (0:1)<br>
-	6. MadDookie (51:65)<br>
-	7. hobbes313 (3:5)<br>
-	8. eLemeNt. (5:6)<br>
-	9. JCC (1:3)<br>
-	10. FaZzY (0:1)<br>
-<br>
-32. #Samanyolu- (1084) +1<br>
-+70|+63|+44|+36|+21|+15|+3<br>
-	3. pablo55 (3:0)<br>
-	6. MadDookie (25:10)<br>
+30. #Opaline (1088) 0<br>
++73|+83|+74|+73|+54|+38|+27|+19|+18|-1<br>
+	1. croissant (0:5)<br>
+	5. dieHaPpY (18:4)<br>
+	6. MadDookie (1:0)<br>
 	10. FaZzY (1:0)<br>
 <br>
-33. #PolarBear- (1084) 0<br>
-+70|+66|+47|+50|+45|+34|+33|+16|+4<br>
+31. #PolarBear- (1086) +2<br>
++72|+68|+49|+52|+48|+36|+35|+19|+6<br>
 	1. croissant (2:8)<br>
 	2. Artimal_PL (3:3)<br>
 	3. pablo55 (3:1)<br>
@@ -316,76 +297,85 @@ Recent win rates against top 10 over the past 21 days<br>
 	5. dieHaPpY (0:1)<br>
 	6. MadDookie (14:16)<br>
 	7. hobbes313 (19:16)<br>
-	8. eLemeNt. (1:1)<br>
+	8. eLemeNt. (1:0)<br>
 	9. JCC (1:0)<br>
 	10. FaZzY (1:1)<br>
 <br>
-34. #CoolFaucet~518 (1083) +16<br>
-+20|+13|+23|+24|+18|+22|+14|+11|+16|+10<br>
-	1. croissant (12:11)<br>
+32. #Samanyolu- (1086) +2<br>
++71|+65|+45|+38|+23|+17|+4<br>
+	3. pablo55 (3:0)<br>
+	6. MadDookie (25:10)<br>
+	7. hobbes313 (1:0)<br>
+	10. FaZzY (1:0)<br>
+<br>
+33. #CoolFaucet~518 (1085) +1<br>
++21|+14|+25|+25|+20|+23|+15|+12|+18|+11<br>
+	1. croissant (14:12)<br>
 	2. Artimal_PL (3:4)<br>
 	3. pablo55 (26:32)<br>
 	4. shunrai (5:3)<br>
 	5. dieHaPpY (1:1)<br>
-	6. MadDookie (117:141)<br>
+	6. MadDookie (98:125)<br>
 	7. hobbes313 (33:48)<br>
-	8. eLemeNt. (46:63)<br>
+	8. eLemeNt. (46:57)<br>
 	9. JCC (2:2)<br>
-	10. FaZzY (13:9)<br>
+	10. FaZzY (10:9)<br>
 <br>
-35. #Ardi09. (1081) 0<br>
--21|-23|-12|-10|-8|-12|-4|+1|+3|+1<br>
+34. #drhillikilil (1084) 0<br>
+-18|-21|-4|0|+4|+4|-1|-2|-2|-2<br>
+	1. croissant (6:10)<br>
+	2. Artimal_PL (4:1)<br>
+	3. pablo55 (5:10)<br>
+	5. dieHaPpY (0:1)<br>
+	6. MadDookie (38:52)<br>
+	7. hobbes313 (3:5)<br>
+	8. eLemeNt. (5:5)<br>
+	9. JCC (1:3)<br>
+	10. FaZzY (0:1)<br>
+<br>
+35. #Ardi09. (1082) +1<br>
+-20|-22|-11|-9|-7|-11|-3|+2|+4|+2<br>
 	1. croissant (0:1)<br>
-	2. Artimal_PL (2:8)<br>
+	2. Artimal_PL (0:1)<br>
 	3. pablo55 (6:3)<br>
 	4. shunrai (0:5)<br>
 	5. dieHaPpY (2:6)<br>
 	6. MadDookie (14:24)<br>
-	7. hobbes313 (9:17)<br>
-	8. eLemeNt. (11:10)<br>
-	10. FaZzY (0:1)<br>
+	7. hobbes313 (10:21)<br>
+	8. eLemeNt. (9:8)<br>
+	10. FaZzY (1:2)<br>
 <br>
-36. #TheMainEvent (1080) -2<br>
-+17|+16|+3|+5|+4|0|+1|0|-4|-6<br>
+36. #SlickRick61 (1078) 0<br>
++27|+34|+25|+25|+16|+22|+16|+5|-1|0<br>
+	1. croissant (0:2)<br>
+	2. Artimal_PL (3:4)<br>
+	3. pablo55 (21:13)<br>
+	6. MadDookie (41:48)<br>
+	7. hobbes313 (13:13)<br>
+	10. FaZzY (1:1)<br>
+<br>
+37. #TheMainEvent (1077) -3<br>
++13|0|+2|+1|-3|-2|-3|-8|-9|0<br>
 	1. croissant (6:8)<br>
 	3. pablo55 (4:7)<br>
 	4. shunrai (3:2)<br>
 	5. dieHaPpY (1:3)<br>
-	6. MadDookie (70:69)<br>
+	6. MadDookie (72:71)<br>
 	7. hobbes313 (5:5)<br>
 	8. eLemeNt. (5:11)<br>
 	9. JCC (0:2)<br>
 	10. FaZzY (5:1)<br>
 <br>
-37. #SlickRick61 (1078) 0<br>
-+27|+34|+25|+25|+16|+22|+16|+5|-1|0<br>
-	1. croissant (0:2)<br>
-	2. Artimal_PL (3:4)<br>
-	3. pablo55 (21:13)<br>
-	6. MadDookie (56:65)<br>
-	7. hobbes313 (13:13)<br>
-	10. FaZzY (3:1)<br>
-<br>
-38. #GenghisCon (1078) -2<br>
-+9|+11|+10|+14|+1|-6|-13|-15|-4|-2<br>
-	1. croissant (3:3)<br>
-	3. pablo55 (3:6)<br>
-	5. dieHaPpY (1:1)<br>
-	6. MadDookie (14:14)<br>
-	7. hobbes313 (2:3)<br>
-	8. eLemeNt. (0:1)<br>
-	10. FaZzY (0:2)<br>
-<br>
-39. #ru-51 (1075) +1<br>
--6|+3|+1|+9|+11|+8|+9|-1|-1|+1<br>
+38. #ru-51 (1077) +1<br>
++4|+3|+11|+12|+9|+11|+1|+1|+3|+2<br>
 	2. Artimal_PL (5:2)<br>
 	3. pablo55 (2:0)<br>
 	5. dieHaPpY (1:1)<br>
 	6. MadDookie (9:17)<br>
 	7. hobbes313 (0:3)<br>
-	8. eLemeNt. (1:7)<br>
+	8. eLemeNt. (1:6)<br>
 <br>
-40. #zeropoint (1072) 0<br>
+39. #zeropoint (1072) 0<br>
 +39|+32|+36|+22|+12|+17|+14|+11|+13|+3<br>
 	1. croissant (4:3)<br>
 	4. shunrai (2:8)<br>
@@ -394,40 +384,36 @@ Recent win rates against top 10 over the past 21 days<br>
 	7. hobbes313 (1:3)<br>
 	8. eLemeNt. (2:4)<br>
 <br>
-41. #bot (1071) +39<br>
-+36|+39|+25|+16|+29|+29|+13|+17|+16|+3<br>
-	3. pablo55 (12:6)<br>
-	4. shunrai (1:0)<br>
-	6. MadDookie (22:27)<br>
-	7. hobbes313 (0:1)<br>
-	8. eLemeNt. (27:27)<br>
-	10. FaZzY (3:6)<br>
+40. #GenghisCon (1070) -7<br>
++2|+4|+2|+7|-7|-13|-21|-22|-11|-9<br>
+	1. croissant (3:3)<br>
+	3. pablo55 (3:6)<br>
+	5. dieHaPpY (1:1)<br>
+	6. MadDookie (20:25)<br>
+	7. hobbes313 (2:3)<br>
+	8. eLemeNt. (0:1)<br>
+	10. FaZzY (2:8)<br>
 <br>
-42. #yeasonn (1066) -2<br>
+41. #yeasonn (1066) 0<br>
 +3|+6|+3|+5|+4|-2|-4|+5|-1|-6<br>
 	1. croissant (2:9)<br>
 	2. Artimal_PL (4:2)<br>
 	3. pablo55 (3:2)<br>
 	5. dieHaPpY (1:3)<br>
-	6. MadDookie (38:39)<br>
-	7. hobbes313 (3:7)<br>
+	6. MadDookie (36:36)<br>
+	7. hobbes313 (2:5)<br>
 	8. eLemeNt. (2:2)<br>
 	9. JCC (0:4)<br>
 <br>
-43. #quickmill (1065) -2<br>
-+21|+18|+13|+7|+10|+13|+23|+22|+13|+1<br>
-	1. croissant (7:15)<br>
-	2. Artimal_PL (0:2)<br>
-	3. pablo55 (3:2)<br>
-	4. shunrai (24:26)<br>
-	5. dieHaPpY (18:15)<br>
-	6. MadDookie (29:37)<br>
-	7. hobbes313 (49:65)<br>
-	8. eLemeNt. (24:38)<br>
-	9. JCC (6:2)<br>
-	10. FaZzY (10:12)<br>
+42. #Zimmux (1064) +1<br>
++62|+62|+59|+57|+40|+14|-2|-2|+4|+6<br>
+	1. croissant (1:0)<br>
+	6. MadDookie (8:7)<br>
+	7. hobbes313 (2:1)<br>
+	8. eLemeNt. (0:1)<br>
+	9. JCC (1:2)<br>
 <br>
-44. #Blaise999 (1063) +7<br>
+43. #Blaise999 (1063) 0<br>
 -12|0|+4|+6|-1|+4|+5|+11|+6|0<br>
 	1. croissant (0:7)<br>
 	2. Artimal_PL (1:0)<br>
@@ -439,86 +425,115 @@ Recent win rates against top 10 over the past 21 days<br>
 	9. JCC (1:0)<br>
 	10. FaZzY (0:2)<br>
 <br>
-45. #Zimmux (1063) -1<br>
-+61|+60|+57|+55|+38|+13|-3|-3|+2|+5<br>
-	1. croissant (1:0)<br>
-	6. MadDookie (8:7)<br>
-	7. hobbes313 (2:1)<br>
-	8. eLemeNt. (0:1)<br>
-	9. JCC (1:2)<br>
+44. #quickmill (1063) -2<br>
++16|+11|+5|+8|+11|+21|+20|+10|-1|-3<br>
+	1. croissant (7:15)<br>
+	2. Artimal_PL (0:2)<br>
+	3. pablo55 (3:2)<br>
+	4. shunrai (24:26)<br>
+	5. dieHaPpY (18:15)<br>
+	6. MadDookie (30:37)<br>
+	7. hobbes313 (44:61)<br>
+	8. eLemeNt. (22:30)<br>
+	9. JCC (6:2)<br>
+	10. FaZzY (13:16)<br>
 <br>
-46. #MAKki (1063) 0<br>
-+5|+10|+7|+5|0|+10|+5|+5|-1|-2<br>
-	1. croissant (10:23)<br>
-	2. Artimal_PL (11:23)<br>
-	3. pablo55 (4:5)<br>
-	4. shunrai (13:16)<br>
-	5. dieHaPpY (7:8)<br>
-	6. MadDookie (89:95)<br>
-	7. hobbes313 (8:10)<br>
-	8. eLemeNt. (17:18)<br>
-	9. JCC (6:1)<br>
-	10. FaZzY (4:3)<br>
-<br>
-47. #Milky007 (1062) -5<br>
-+25|+16|+14|+9|+14|-7|-14|-9|-4|-6<br>
-	1. croissant (2:11)<br>
+45. #Milky007 (1062) 0<br>
++17|+14|+9|+14|-7|-13|-9|-3|-6|-2<br>
+	1. croissant (4:13)<br>
 	2. Artimal_PL (12:28)<br>
 	3. pablo55 (1:6)<br>
-	6. MadDookie (23:29)<br>
+	6. MadDookie (23:35)<br>
 	7. hobbes313 (3:2)<br>
 	8. eLemeNt. (6:8)<br>
 	9. JCC (2:1)<br>
 	10. FaZzY (4:1)<br>
 <br>
-48. #kaboRAGE (1060) -1<br>
--1|-4|-1|+3|+10|+9|+5|+2|+4|-1<br>
+46. #MAKki (1062) -1<br>
++4|+10|+6|+4|0|+9|+4|+4|-2|-3<br>
+	1. croissant (10:23)<br>
+	2. Artimal_PL (11:23)<br>
+	3. pablo55 (4:5)<br>
+	4. shunrai (13:16)<br>
+	5. dieHaPpY (7:8)<br>
+	6. MadDookie (91:98)<br>
+	7. hobbes313 (8:10)<br>
+	8. eLemeNt. (17:18)<br>
+	9. JCC (6:1)<br>
+	10. FaZzY (5:7)<br>
+<br>
+47. #kaboRAGE (1059) -2<br>
+-3|-5|-3|+2|+8|+7|+3|0|+3|-2<br>
 	1. croissant (9:12)<br>
 	2. Artimal_PL (5:4)<br>
 	3. pablo55 (12:15)<br>
 	4. shunrai (5:9)<br>
 	5. dieHaPpY (3:10)<br>
-	6. MadDookie (49:69)<br>
+	6. MadDookie (49:70)<br>
 	7. hobbes313 (9:6)<br>
 	8. eLemeNt. (9:13)<br>
 	9. JCC (1:0)<br>
 	10. FaZzY (1:5)<br>
 <br>
-49. #noa-B (1056) 0<br>
+48. #noa-B (1056) 0<br>
 +4|+10|0|+3|+8|+20|+10|+10|+9|-1<br>
 	1. croissant (2:5)<br>
 	3. pablo55 (2:3)<br>
 	5. dieHaPpY (2:0)<br>
-	6. MadDookie (20:18)<br>
+	6. MadDookie (7:12)<br>
 	7. hobbes313 (2:0)<br>
 	9. JCC (1:0)<br>
 <br>
-50. #edache22 (1049) +9<br>
--5|-4|-1|-6|+1|+5|+2|+4|-1|+8<br>
-	1. croissant (12:28)<br>
+49. #Steve333 (1052) +7<br>
+-3|+3|+4|+7|+9|+5|+1|+9|+10|+6<br>
+	1. croissant (7:11)<br>
+	2. Artimal_PL (1:2)<br>
+	3. pablo55 (4:9)<br>
+	4. shunrai (15:23)<br>
+	5. dieHaPpY (5:2)<br>
+	6. MadDookie (39:52)<br>
+	7. hobbes313 (4:13)<br>
+	8. eLemeNt. (31:37)<br>
+	9. JCC (1:5)<br>
+	10. FaZzY (2:1)<br>
+<br>
+50. #hyoshy (1047) -1<br>
+-6|-7|0|+8|-5|-2|+3|+3|+1|-1<br>
+	2. Artimal_PL (4:1)<br>
+	3. pablo55 (2:0)<br>
+	4. shunrai (0:1)<br>
+	6. MadDookie (16:15)<br>
+	7. hobbes313 (1:4)<br>
+	8. eLemeNt. (4:1)<br>
+	9. JCC (1:0)<br>
+<br>
+51. #Snake1976 (1046) +4<br>
+-15|-12|-7|-3|-1|-6|+2|+10|+11|+10<br>
+	1. croissant (10:31)<br>
+	2. Artimal_PL (6:10)<br>
+	3. pablo55 (4:1)<br>
+	4. shunrai (3:3)<br>
+	5. dieHaPpY (5:3)<br>
+	6. MadDookie (75:119)<br>
+	7. hobbes313 (7:10)<br>
+	8. eLemeNt. (13:11)<br>
+	9. JCC (2:1)<br>
+	10. FaZzY (1:3)<br>
+<br>
+52. #edache22 (1045) -4<br>
+-8|-5|-11|-3|+1|-2|0|-5|+4|0<br>
+	1. croissant (13:29)<br>
 	2. Artimal_PL (2:2)<br>
 	3. pablo55 (14:7)<br>
 	4. shunrai (0:1)<br>
 	5. dieHaPpY (0:2)<br>
-	6. MadDookie (85:130)<br>
+	6. MadDookie (88:134)<br>
 	7. hobbes313 (8:8)<br>
 	8. eLemeNt. (7:9)<br>
 	9. JCC (4:2)<br>
 	10. FaZzY (7:4)<br>
 <br>
-51. #steve333 (1045) +2<br>
--5|-10|-3|-2|+1|+2|-2|-5|+2|+3<br>
-	1. croissant (7:11)<br>
-	2. Artimal_PL (0:2)<br>
-	3. pablo55 (4:9)<br>
-	4. shunrai (15:23)<br>
-	6. MadDookie (35:49)<br>
-	7. hobbes313 (4:13)<br>
-	8. eLemeNt. (25:29)<br>
-	9. JCC (1:5)<br>
-	10. FaZzY (2:1)<br>
-<br>
-52. #Nimsta (1044) -1<br>
+53. #Nimsta (1044) 0<br>
 +14|+13|+16|+12|+7|-4|+2|-6|-1|-9<br>
 	1. croissant (1:12)<br>
 	2. Artimal_PL (1:2)<br>
@@ -527,75 +542,22 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. MadDookie (22:18)<br>
 	8. eLemeNt. (11:13)<br>
 <br>
-53. #creaky2 (1044) 0<br>
--124|-89|-55|-30|-25|-26|-29|-13|-13|+1<br>
+54. #creaky2 (1044) 0<br>
+-124|-89|-54|-29|-25|-25|-29|-13|-13|+1<br>
 	1. croissant (1:8)<br>
 	2. Artimal_PL (4:13)<br>
-	3. pablo55 (237:383)<br>
+	3. pablo55 (239:383)<br>
 	4. shunrai (3:1)<br>
 	5. dieHaPpY (1:0)<br>
-	6. MadDookie (17:24)<br>
+	6. MadDookie (17:23)<br>
 	7. hobbes313 (3:4)<br>
 	8. eLemeNt. (10:10)<br>
 	9. JCC (3:2)<br>
 	10. FaZzY (1:3)<br>
 <br>
-54. #Snake1976 (1042) -1<br>
--19|-16|-12|-8|-5|-11|-3|+6|+7|+5<br>
-	1. croissant (9:32)<br>
-	2. Artimal_PL (5:10)<br>
-	3. pablo55 (4:1)<br>
-	4. shunrai (3:3)<br>
-	5. dieHaPpY (4:2)<br>
-	6. MadDookie (81:127)<br>
-	7. hobbes313 (7:10)<br>
-	8. eLemeNt. (13:11)<br>
-	9. JCC (2:1)<br>
-	10. FaZzY (1:3)<br>
-<br>
-55. #Omnibus (1042) +3<br>
-+16|+10|+11|+15|+6|+1|+4|+6|+14|+4<br>
-	1. croissant (4:11)<br>
-	2. Artimal_PL (1:2)<br>
-	3. pablo55 (12:11)<br>
-	4. shunrai (1:1)<br>
-	5. dieHaPpY (2:9)<br>
-	6. MadDookie (58:62)<br>
-	7. hobbes313 (5:5)<br>
-	8. eLemeNt. (0:3)<br>
-	10. FaZzY (9:7)<br>
-<br>
-56. #iawai (1041) -2<br>
-+9|+4|+11|+8|+4|-1|-11|-5|-2|-2<br>
-	1. croissant (2:7)<br>
-	2. Artimal_PL (1:2)<br>
-	3. pablo55 (28:15)<br>
-	6. MadDookie (50:60)<br>
-	7. hobbes313 (5:8)<br>
-	8. eLemeNt. (3:1)<br>
-	9. JCC (0:1)<br>
-	10. FaZzY (2:10)<br>
-<br>
-57. #almafa1 (1041) -2<br>
-+13|+10|+7|+10|+4|+3|+4|+6|+6|0<br>
-	1. croissant (6:10)<br>
-	2. Artimal_PL (0:2)<br>
-	3. pablo55 (6:3)<br>
-	4. shunrai (1:1)<br>
-	5. dieHaPpY (0:2)<br>
-	6. MadDookie (23:28)<br>
-<br>
-58. #chebasqui (1041) 0<br>
-+25|+17|+19|+20|+15|+7|+1|0<br>
-	1. croissant (1:0)<br>
-	3. pablo55 (3:2)<br>
-	6. MadDookie (0:3)<br>
-	7. hobbes313 (4:11)<br>
-	9. JCC (2:2)<br>
-<br>
-59. #BlurryMetal~242 (1041) 0<br>
-+31|+21|+9<br>
-	2. Artimal_PL (9:6)<br>
+55. #BlurryMetal~242 (1043) +3<br>
++34|+24|+12|0<br>
+	2. Artimal_PL (9:7)<br>
 	3. pablo55 (3:1)<br>
 	4. shunrai (2:1)<br>
 	5. dieHaPpY (5:3)<br>
@@ -604,26 +566,75 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. eLemeNt. (21:13)<br>
 	10. FaZzY (1:10)<br>
 <br>
-60. #SweetPeach~177 (1036) +12<br>
--3|0|+6|+3|+14|+16|+14|+12|+4|+13<br>
-	1. croissant (6:11)<br>
-	2. Artimal_PL (5:9)<br>
-	3. pablo55 (12:17)<br>
-	4. shunrai (0:2)<br>
-	5. dieHaPpY (6:3)<br>
-	6. MadDookie (73:58)<br>
-	7. hobbes313 (7:13)<br>
-	8. eLemeNt. (17:22)<br>
-	9. JCC (4:6)<br>
-	10. FaZzY (6:4)<br>
+56. #Omnibus (1043) +1<br>
++17|+11|+12|+16|+7|+2|+5|+7|+15|+5<br>
+	1. croissant (4:11)<br>
+	2. Artimal_PL (1:2)<br>
+	3. pablo55 (12:11)<br>
+	4. shunrai (1:1)<br>
+	5. dieHaPpY (2:9)<br>
+	6. MadDookie (57:61)<br>
+	7. hobbes313 (5:5)<br>
+	8. eLemeNt. (0:3)<br>
+	10. FaZzY (9:7)<br>
+<br>
+57. #bot (1042) -29<br>
+-28|-16|-15|-9|-2|+23|+1|+5|-5|-5<br>
+	3. pablo55 (12:10)<br>
+	4. shunrai (1:0)<br>
+	6. MadDookie (22:30)<br>
+	7. hobbes313 (0:1)<br>
+	8. eLemeNt. (32:29)<br>
+	10. FaZzY (4:11)<br>
+<br>
+58. #iawai (1042) +1<br>
++10|+5|+12|+8|+5|0|-11|-4|-1|-2<br>
+	1. croissant (2:7)<br>
+	2. Artimal_PL (1:2)<br>
+	3. pablo55 (28:15)<br>
+	6. MadDookie (40:57)<br>
+	7. hobbes313 (5:8)<br>
+	8. eLemeNt. (3:1)<br>
+	9. JCC (0:1)<br>
+	10. FaZzY (2:10)<br>
+<br>
+59. #chebasqui (1041) 0<br>
++25|+17|+19|+20|+15|+7|+1|0<br>
+	1. croissant (1:0)<br>
+	3. pablo55 (3:2)<br>
+	6. MadDookie (0:3)<br>
+	7. hobbes313 (4:11)<br>
+	9. JCC (2:2)<br>
+<br>
+60. #almafa1 (1040) -1<br>
++12|+9|+5|+8|+3|+1|+2|+4|+5|-1<br>
+	1. croissant (5:10)<br>
+	2. Artimal_PL (0:3)<br>
+	3. pablo55 (6:3)<br>
+	4. shunrai (1:1)<br>
+	5. dieHaPpY (0:2)<br>
+	6. MadDookie (22:24)<br>
 <br>
 61. #Buz (1035) 0<br>
 -13|-11|-1|-16|-15|-22|-15|-11|-2|-1<br>
 	1. croissant (0:6)<br>
 	10. FaZzY (1:2)<br>
 <br>
-62. #Daktylon (1034) -1<br>
-+12|+8|+10|+13|+15|+19|+16|+5|+7|+6<br>
+62. #SweetPeach~177 (1035) -1<br>
+-4|-1|+4|+1|+12|+15|+13|+10|+2|+11<br>
+	1. croissant (6:11)<br>
+	2. Artimal_PL (5:9)<br>
+	3. pablo55 (12:17)<br>
+	4. shunrai (0:2)<br>
+	5. dieHaPpY (6:3)<br>
+	6. MadDookie (71:58)<br>
+	7. hobbes313 (4:11)<br>
+	8. eLemeNt. (17:22)<br>
+	9. JCC (4:6)<br>
+	10. FaZzY (6:4)<br>
+<br>
+63. #Daktylon (1033) -1<br>
++11|+8|+9|+13|+14|+18|+16|+4|+7|+6<br>
 	1. croissant (1:0)<br>
 	2. Artimal_PL (0:1)<br>
 	3. pablo55 (2:3)<br>
@@ -632,21 +643,15 @@ Recent win rates against top 10 over the past 21 days<br>
 	7. hobbes313 (0:1)<br>
 	10. FaZzY (2:1)<br>
 <br>
-63. #Sudarshana (1032) 0<br>
+64. #Sudarshana (1032) 0<br>
 +9<br>
-	6. MadDookie (2:5)<br>
+	6. MadDookie (1:4)<br>
 	10. FaZzY (0:1)<br>
 <br>
-64. #mthomas76 (1030) 0<br>
-+25|+36|+45|+51|+35|+40|+33|+31|+22|+14<br>
-	6. MadDookie (3:0)<br>
-	7. hobbes313 (1:3)<br>
-	8. eLemeNt. (4:2)<br>
-<br>
-65. #xmajortomx (1027) +7<br>
-+25|+21|+10|+15|+18|+19|+11|+13|+6|+2<br>
+65. #xmajortomx (1031) +4<br>
++29|+25|+14|+19|+22|+23|+15|+16|+10|+6<br>
 	1. croissant (8:4)<br>
-	2. Artimal_PL (5:13)<br>
+	2. Artimal_PL (5:14)<br>
 	3. pablo55 (9:9)<br>
 	4. shunrai (12:10)<br>
 	5. dieHaPpY (3:5)<br>
@@ -656,21 +661,39 @@ Recent win rates against top 10 over the past 21 days<br>
 	9. JCC (1:0)<br>
 	10. FaZzY (7:2)<br>
 <br>
-66. #AngryBert (1023) +6<br>
-+9|+14|+17|+24|+9|+7|+5<br>
-	3. pablo55 (3:3)<br>
-	6. MadDookie (14:13)<br>
-	7. hobbes313 (1:1)<br>
-	8. eLemeNt. (2:10)<br>
+66. #mthomas76 (1030) 0<br>
++25|+36|+45|+51|+35|+40|+33|+31|+22|+14<br>
+	6. MadDookie (3:0)<br>
+	8. eLemeNt. (4:2)<br>
 <br>
-67. #DBKzeroflow (1023) 0<br>
+67. #DenimDude (1025) +10<br>
++33|+37|+41|+39|+30|+33|+31|+26|+9|+1<br>
+	1. croissant (14:24)<br>
+	2. Artimal_PL (1:3)<br>
+	3. pablo55 (11:11)<br>
+	4. shunrai (2:2)<br>
+	5. dieHaPpY (12:19)<br>
+	6. MadDookie (153:184)<br>
+	7. hobbes313 (12:26)<br>
+	8. eLemeNt. (9:17)<br>
+	9. JCC (7:4)<br>
+	10. FaZzY (7:7)<br>
+<br>
+68. #DBKzeroflow (1023) 0<br>
 +19|+17|+11<br>
 	3. pablo55 (1:0)<br>
 	5. dieHaPpY (1:1)<br>
 	6. MadDookie (27:20)<br>
 	8. eLemeNt. (10:1)<br>
 <br>
-68. #PinkHopper~619 (1022) 0<br>
+69. #AngryBert (1023) 0<br>
++9|+13|+16|+24|+9|+7|+5<br>
+	3. pablo55 (3:3)<br>
+	6. MadDookie (14:13)<br>
+	7. hobbes313 (1:2)<br>
+	8. eLemeNt. (2:10)<br>
+<br>
+70. #PinkHopper~619 (1022) 0<br>
 +35|+20|+12|-3|+1<br>
 	1. croissant (0:1)<br>
 	3. pablo55 (1:1)<br>
@@ -678,33 +701,34 @@ Recent win rates against top 10 over the past 21 days<br>
 	6. MadDookie (0:3)<br>
 	7. hobbes313 (4:0)<br>
 <br>
-69. #goner (1021) +1<br>
+71. #goner (1021) 0<br>
 -27|-24|-12|-8|-5|-10|-6|-4|-5|-3<br>
 	1. croissant (1:6)<br>
 	6. MadDookie (8:8)<br>
 	7. hobbes313 (1:1)<br>
 <br>
-70. #kinda_genius (1017) +1<br>
-+5|+14|+24|+29|+12|+9|+4<br>
+72. #kinda_genius (1017) +1<br>
++5|+15|+25|+29|+12|+10|+5<br>
 	1. croissant (2:3)<br>
+	2. Artimal_PL (1:2)<br>
 	3. pablo55 (0:1)<br>
 	5. dieHaPpY (1:2)<br>
-	6. MadDookie (14:15)<br>
+	6. MadDookie (14:14)<br>
 	7. hobbes313 (2:0)<br>
 	9. JCC (1:0)<br>
 	10. FaZzY (1:2)<br>
 <br>
-71. #joropo808 (1016) -6<br>
--8|-10|-17|-27|-20|-13|-11|-14|-14|-13<br>
+73. #joropo808 (1017) +1<br>
+-9|-16|-26|-19|-12|-10|-13|-13|-12|0<br>
 	1. croissant (1:4)<br>
 	3. pablo55 (8:8)<br>
-	5. dieHaPpY (0:7)<br>
-	6. MadDookie (27:36)<br>
+	5. dieHaPpY (3:10)<br>
+	6. MadDookie (22:36)<br>
 	7. hobbes313 (0:1)<br>
 	9. JCC (4:5)<br>
 	10. FaZzY (1:6)<br>
 <br>
-72. #Vhyme (1016) 0<br>
+74. #Vhyme (1016) 0<br>
 +15|+9|+10|+13|+12|-3<br>
 	1. croissant (0:1)<br>
 	2. Artimal_PL (2:0)<br>
@@ -714,108 +738,128 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. eLemeNt. (4:13)<br>
 	10. FaZzY (0:3)<br>
 <br>
-73. #quantum (1016) +3<br>
--52|-56|-48|-43|-33|-29|-21|-16|-8|0<br>
-	1. croissant (2:6)<br>
-	3. pablo55 (7:10)<br>
-	6. MadDookie (23:34)<br>
-	7. hobbes313 (2:6)<br>
-	8. eLemeNt. (8:15)<br>
-	10. FaZzY (3:5)<br>
-<br>
-74. #TwistedJorge (1015) 0<br>
+75. #TwistedJorge (1015) 0<br>
 -25|-29|-33|-30|-26|-27|-24|-19|-18|-5<br>
 	1. croissant (2:5)<br>
 	3. pablo55 (0:1)<br>
 	5. dieHaPpY (0:2)<br>
-	6. MadDookie (15:26)<br>
+	6. MadDookie (17:27)<br>
 	10. FaZzY (2:1)<br>
 <br>
-75. #DenimDude (1014) +8<br>
-+12|+19|+23|+27|+31|+28|+20|+23|+21|+16<br>
-	1. croissant (10:21)<br>
-	2. Artimal_PL (1:3)<br>
-	3. pablo55 (11:11)<br>
-	4. shunrai (2:2)<br>
-	5. dieHaPpY (8:15)<br>
-	6. MadDookie (141:171)<br>
-	7. hobbes313 (12:26)<br>
-	8. eLemeNt. (9:17)<br>
-	9. JCC (7:4)<br>
-	10. FaZzY (7:5)<br>
-<br>
-76. #RaggedZebra (1014) -3<br>
--29|-24|-16|-10|-13|-16|-7|-2|-4|-5<br>
+76. #RaggedZebra (1013) -1<br>
+-30|-25|-17|-12|-14|-17|-8|-3|-5|-6<br>
 	1. croissant (0:1)<br>
 	2. Artimal_PL (1:1)<br>
 	3. pablo55 (4:8)<br>
 	4. shunrai (7:1)<br>
 	5. dieHaPpY (0:3)<br>
-	6. MadDookie (21:25)<br>
+	6. MadDookie (24:29)<br>
 	8. eLemeNt. (2:1)<br>
 <br>
-77. #Glossy (1013) -1<br>
--13|-12|-9|-14|-16|-23|-27|-25|-13|-1<br>
-	1. croissant (4:8)<br>
-	2. Artimal_PL (2:1)<br>
-	3. pablo55 (7:6)<br>
-	4. shunrai (2:2)<br>
-	5. dieHaPpY (3:3)<br>
-	6. MadDookie (59:67)<br>
-	7. hobbes313 (1:11)<br>
-	8. eLemeNt. (10:17)<br>
-	9. JCC (1:1)<br>
-	10. FaZzY (3:1)<br>
+77. #qUidNovI (1013) +9<br>
++13|+16|+22|+25|+20|+17|+9|+15|+2|+3<br>
+	1. croissant (9:19)<br>
+	2. Artimal_PL (12:18)<br>
+	3. pablo55 (22:24)<br>
+	4. shunrai (4:2)<br>
+	5. dieHaPpY (4:1)<br>
+	6. MadDookie (185:215)<br>
+	7. hobbes313 (17:19)<br>
+	8. eLemeNt. (23:20)<br>
+	9. JCC (9:6)<br>
+	10. FaZzY (12:14)<br>
 <br>
-78. #HungryDuck~514 (1012) +2<br>
-+5|+11|0<br>
+78. #quantum (1012) -4<br>
+-56|-60|-52|-47|-37|-32|-25|-20|-12|-4<br>
+	1. croissant (2:6)<br>
+	3. pablo55 (7:10)<br>
+	5. dieHaPpY (0:1)<br>
+	6. MadDookie (23:36)<br>
+	7. hobbes313 (2:6)<br>
+	8. eLemeNt. (8:15)<br>
+	10. FaZzY (3:5)<br>
+<br>
+79. #HungryDuck~514 (1012) 0<br>
++4|+11|-1<br>
 	1. croissant (2:0)<br>
 	3. pablo55 (11:4)<br>
 	4. shunrai (6:6)<br>
 	5. dieHaPpY (0:3)<br>
-	6. MadDookie (49:44)<br>
+	6. MadDookie (52:49)<br>
 	7. hobbes313 (1:1)<br>
 	8. eLemeNt. (12:6)<br>
 	10. FaZzY (9:5)<br>
 <br>
-79. #shaddow (1012) -4<br>
--5|0|-7|-6|-8|-12|-6|+1|-8|-1<br>
-	1. croissant (5:7)<br>
-	2. Artimal_PL (3:7)<br>
+80. #shaddow (1010) -2<br>
+-8|-2|-10|-8|-10|-14|-9|-1|-10|-3<br>
+	1. croissant (5:8)<br>
+	2. Artimal_PL (3:8)<br>
 	3. pablo55 (5:9)<br>
 	5. dieHaPpY (7:12)<br>
-	6. MadDookie (53:57)<br>
+	6. MadDookie (53:54)<br>
 	7. hobbes313 (5:4)<br>
 	8. eLemeNt. (5:14)<br>
 	9. JCC (3:3)<br>
 	10. FaZzY (2:5)<br>
 <br>
-80. #Knightimer (1010) -2<br>
+81. #Knightimer (1010) 0<br>
 -19|-23|-21|-9|-14|-12|-16|-5|-8|+1<br>
 	1. croissant (4:7)<br>
 	2. Artimal_PL (0:1)<br>
 	3. pablo55 (3:0)<br>
 	4. shunrai (7:7)<br>
 	5. dieHaPpY (0:4)<br>
-	6. MadDookie (27:44)<br>
+	6. MadDookie (26:44)<br>
 	7. hobbes313 (2:5)<br>
 	8. eLemeNt. (7:5)<br>
+<br>
+82. #spamo (1009) +6<br>
++15|+7|+7|+1|+1|-6|+2|+2|+8|0<br>
+	1. croissant (3:5)<br>
+	2. Artimal_PL (1:1)<br>
+	4. shunrai (6:6)<br>
+	5. dieHaPpY (7:5)<br>
+	6. MadDookie (27:24)<br>
+	7. hobbes313 (0:7)<br>
+	9. JCC (2:0)<br>
 	10. FaZzY (1:0)<br>
 <br>
-81. #blini (1008) +1<br>
-+1|-1|-6|-12|-3|-5|+7|+8|+9|+8<br>
+83. #Glossy (1007) -6<br>
+-19|-18|-15|-20|-22|-29|-33|-31|-19|-7<br>
+	1. croissant (4:8)<br>
+	2. Artimal_PL (1:1)<br>
+	3. pablo55 (7:6)<br>
+	4. shunrai (2:2)<br>
+	5. dieHaPpY (3:3)<br>
+	6. MadDookie (60:66)<br>
+	7. hobbes313 (1:8)<br>
+	8. eLemeNt. (8:17)<br>
+	9. JCC (1:1)<br>
+	10. FaZzY (3:4)<br>
+<br>
+84. #blini (1007) -1<br>
+0|-2|-7|-13|-4|-6|+7|+7|+8|+7<br>
 	1. croissant (3:16)<br>
 	2. Artimal_PL (1:7)<br>
 	3. pablo55 (17:25)<br>
 	4. shunrai (0:4)<br>
 	5. dieHaPpY (1:1)<br>
-	6. MadDookie (47:58)<br>
+	6. MadDookie (42:53)<br>
 	7. hobbes313 (3:5)<br>
 	8. eLemeNt. (15:12)<br>
 	10. FaZzY (0:1)<br>
 <br>
-82. #ProAssaulter (1006) -3<br>
-0|+9|+17|+17|+14|+6|+8|+5|-3|+1<br>
+85. #SlickGrape~883 (1006) +4<br>
++4<br>
+	1. croissant (0:1)<br>
+	3. pablo55 (1:0)<br>
+	6. MadDookie (7:3)<br>
+	7. hobbes313 (0:1)<br>
+	8. eLemeNt. (0:2)<br>
+	10. FaZzY (1:3)<br>
+<br>
+86. #ProAssaulter (1005) 0<br>
+0|+8|+17|+17|+14|+6|+8|+5|-3|0<br>
 	1. croissant (3:6)<br>
 	2. Artimal_PL (3:2)<br>
 	3. pablo55 (3:1)<br>
@@ -826,61 +870,37 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. eLemeNt. (3:4)<br>
 	10. FaZzY (1:2)<br>
 <br>
-83. #babymetal (1004) 0<br>
--18|-17|-16|-9|-17|-7|+1|+1|-9|-2<br>
+87. #babymetal (1004) 0<br>
+-17|-17|-16|-8|-17|-6|+2|+1|-8|-2<br>
 	1. croissant (2:2)<br>
 	2. Artimal_PL (0:1)<br>
 	3. pablo55 (3:3)<br>
 	4. shunrai (1:0)<br>
 	5. dieHaPpY (1:3)<br>
-	6. MadDookie (18:31)<br>
+	6. MadDookie (21:29)<br>
 	7. hobbes313 (1:2)<br>
 	8. eLemeNt. (1:1)<br>
 	10. FaZzY (0:2)<br>
 <br>
-84. #qUidNovI (1004) -12<br>
-+3|+7|+13|+16|+11|+8|0|+6|-8|-7<br>
-	1. croissant (9:19)<br>
-	2. Artimal_PL (12:18)<br>
-	3. pablo55 (22:24)<br>
-	4. shunrai (4:2)<br>
-	5. dieHaPpY (4:1)<br>
-	6. MadDookie (180:224)<br>
-	7. hobbes313 (17:19)<br>
-	8. eLemeNt. (23:20)<br>
-	9. JCC (9:6)<br>
-	10. FaZzY (9:14)<br>
-<br>
-85. #spamo (1003) +3<br>
-+2|+9|+1|+1|-5|-5|-12|-4|-4|+2<br>
-	1. croissant (2:4)<br>
-	2. Artimal_PL (1:1)<br>
-	4. shunrai (6:6)<br>
-	5. dieHaPpY (7:5)<br>
-	6. MadDookie (27:24)<br>
-	7. hobbes313 (0:7)<br>
-	9. JCC (2:0)<br>
-	10. FaZzY (1:0)<br>
-<br>
-86. #royal-1 (1001) +2<br>
--5|-11|-4|-7|-4|+4|-6|+7|+8|+1<br>
+88. #royal-1 (1002) +1<br>
+-4|-11|-4|-7|-3|+5|-5|+7|+8|+2<br>
 	2. Artimal_PL (2:3)<br>
 	6. MadDookie (3:7)<br>
 	9. JCC (1:0)<br>
 <br>
-87. #Def_Leppard (1000) 0<br>
-+12|+8|+17|+19|+18|+15|+6|+1<br>
+89. #Def_Leppard (1000) 0<br>
++11|+8|+17|+18|+17|+15|+6|+1<br>
 	1. croissant (3:3)<br>
 	3. pablo55 (3:1)<br>
 	4. shunrai (1:0)<br>
 	5. dieHaPpY (0:2)<br>
-	6. MadDookie (26:23)<br>
+	6. MadDookie (25:23)<br>
 	7. hobbes313 (2:2)<br>
 	8. eLemeNt. (8:7)<br>
 	10. FaZzY (0:1)<br>
 <br>
-88. #bandy (999) -1<br>
--18|-18|-13|-6|+2|-8|-13|-12|-9|-2<br>
+90. #bandy (998) -1<br>
+-19|-15|-8|+1|-9|-14|-13|-10|-3|-2<br>
 	1. croissant (2:3)<br>
 	2. Artimal_PL (2:3)<br>
 	3. pablo55 (13:10)<br>
@@ -892,31 +912,13 @@ Recent win rates against top 10 over the past 21 days<br>
 	9. JCC (1:1)<br>
 	10. FaZzY (3:3)<br>
 <br>
-89. #FluffyBerry (997) -1<br>
+91. #FluffyBerry (997) 0<br>
 +3<br>
 	5. dieHaPpY (0:1)<br>
 	6. MadDookie (6:10)<br>
 <br>
-90. #HugePeach~693 (997) +1<br>
--10|0|+18|+25|+4<br>
-	1. croissant (1:1)<br>
-	3. pablo55 (0:3)<br>
-	5. dieHaPpY (6:12)<br>
-	6. MadDookie (1:5)<br>
-	7. hobbes313 (1:4)<br>
-<br>
-91. #Trinity.3 (995) -3<br>
--2|+2|-3<br>
-	1. croissant (3:4)<br>
-	3. pablo55 (1:1)<br>
-	6. MadDookie (23:23)<br>
-	7. hobbes313 (2:1)<br>
-	8. eLemeNt. (0:12)<br>
-	9. JCC (0:2)<br>
-	10. FaZzY (1:1)<br>
-<br>
-92. #LittleWren~568 (994) 0<br>
--13|-16|-2|-2|+4|+11|+8|+2|0|+1<br>
+92. #LittleWren~568 (996) +2<br>
+-11|-15|-1|0|+5|+13|+10|+4|+1|+2<br>
 	1. croissant (2:11)<br>
 	2. Artimal_PL (0:1)<br>
 	3. pablo55 (4:4)<br>
@@ -927,7 +929,26 @@ Recent win rates against top 10 over the past 21 days<br>
 	9. JCC (4:5)<br>
 	10. FaZzY (1:1)<br>
 <br>
-93. #PR0D1GY (994) 0<br>
+93. #Trinity.3 (996) +1<br>
+-1|+3|-2<br>
+	1. croissant (4:4)<br>
+	3. pablo55 (1:1)<br>
+	5. dieHaPpY (3:3)<br>
+	6. MadDookie (30:34)<br>
+	7. hobbes313 (2:1)<br>
+	8. eLemeNt. (0:12)<br>
+	9. JCC (0:2)<br>
+	10. FaZzY (1:1)<br>
+<br>
+94. #HugePeach~693 (995) -1<br>
+-12|-1|+17|+24|+3<br>
+	1. croissant (1:1)<br>
+	3. pablo55 (0:3)<br>
+	5. dieHaPpY (7:12)<br>
+	6. MadDookie (1:5)<br>
+	7. hobbes313 (1:4)<br>
+<br>
+95. #PR0D1GY (994) 0<br>
 +1|+2|+4|+2|+3|+6|0<br>
 	1. croissant (0:2)<br>
 	2. Artimal_PL (0:1)<br>
@@ -936,7 +957,7 @@ Recent win rates against top 10 over the past 21 days<br>
 	7. hobbes313 (2:3)<br>
 	8. eLemeNt. (0:1)<br>
 <br>
-94. #akghostgoon (993) 0<br>
+96. #akghostgoon (993) 0<br>
 +10|+10|0|+6|-4|+4|+13|+11|+12|+10<br>
 	1. croissant (1:2)<br>
 	2. Artimal_PL (4:4)<br>
@@ -948,34 +969,16 @@ Recent win rates against top 10 over the past 21 days<br>
 	9. JCC (1:1)<br>
 	10. FaZzY (1:1)<br>
 <br>
-95. #yari78 (993) +2<br>
--7|-7|-13|-3|+1|+3|+5|+2|+1|+3<br>
-	1. croissant (1:4)<br>
+97. #yari78 (993) 0<br>
+-7|-7|-13|-3|+1|+2|+5|+2|+1|+3<br>
+	1. croissant (2:5)<br>
 	2. Artimal_PL (0:1)<br>
 	5. dieHaPpY (2:6)<br>
-	6. MadDookie (37:30)<br>
+	6. MadDookie (31:25)<br>
 	7. hobbes313 (1:5)<br>
 	8. eLemeNt. (4:9)<br>
 <br>
-96. #WickedDrago~460 (993) 0<br>
-+9|+4|+7|+10|+8|+7|+8|+3|+6|+5<br>
-	1. croissant (2:14)<br>
-	2. Artimal_PL (3:3)<br>
-	3. pablo55 (1:1)<br>
-	5. dieHaPpY (1:4)<br>
-	6. MadDookie (27:32)<br>
-	8. eLemeNt. (4:6)<br>
-	10. FaZzY (1:1)<br>
-<br>
-97. #kigold (991) -18<br>
--6|-15|-13<br>
-	1. croissant (1:1)<br>
-	3. pablo55 (0:1)<br>
-	6. MadDookie (2:1)<br>
-	7. hobbes313 (0:3)<br>
-	8. eLemeNt. (1:1)<br>
-<br>
-98. #Almarcha (991) +2<br>
+98. #Almarcha (991) 0<br>
 +15|0|+7|+8|-3|+3|0|0|+4|+3<br>
 	1. croissant (2:3)<br>
 	3. pablo55 (1:6)<br>
@@ -983,37 +986,39 @@ Recent win rates against top 10 over the past 21 days<br>
 	7. hobbes313 (2:2)<br>
 	10. FaZzY (3:0)<br>
 <br>
-99. #marcsync (990) -2<br>
-+2|+4|+11|+9|+8|+8|0|+2|+4|0<br>
-	1. croissant (3:4)<br>
-	3. pablo55 (1:0)<br>
-	4. shunrai (1:2)<br>
-	5. dieHaPpY (1:2)<br>
-	6. MadDookie (59:75)<br>
-	7. hobbes313 (9:15)<br>
-	8. eLemeNt. (17:17)<br>
-	9. JCC (7:6)<br>
-	10. FaZzY (3:4)<br>
-<br>
-100. #SadVest~463 (989) +5<br>
--7|+4<br>
-	6. MadDookie (5:6)<br>
-	9. JCC (2:2)<br>
-<br>
-101. #Ryu (988) +1<br>
-+14|+13|+3|+1|-2|+1|-4|-5|-7|-5<br>
+99. #Ryu (989) +1<br>
++15|+15|+4|+2|-1|+3|-3|-3|-5|-3<br>
 	1. croissant (0:2)<br>
 	3. pablo55 (1:10)<br>
 	4. shunrai (1:0)<br>
-	6. MadDookie (4:12)<br>
+	6. MadDookie (4:10)<br>
 	8. eLemeNt. (1:2)<br>
 	10. FaZzY (1:0)<br>
 <br>
-102. #teapartyer (984) 0<br>
--6<br>
+100. #SadVest~463 (989) 0<br>
+-8|+3<br>
+	6. MadDookie (5:6)<br>
+	9. JCC (2:2)<br>
 <br>
-103. #wazzza (980) -9<br>
--27|-16|-4|-17|-14|-14<br>
+101. #WickedDrago~460 (988) -5<br>
+-1|+2|+5|+4|+3|+3|-2|+2|+1|-4<br>
+	1. croissant (2:15)<br>
+	2. Artimal_PL (3:3)<br>
+	3. pablo55 (1:1)<br>
+	5. dieHaPpY (2:5)<br>
+	6. MadDookie (26:33)<br>
+	8. eLemeNt. (4:6)<br>
+	10. FaZzY (1:1)<br>
+<br>
+102. #edgard (988) +14<br>
++14|+28|+35|+47|+13|-3|+15|+27|+12|+20<br>
+	3. pablo55 (0:5)<br>
+	7. hobbes313 (0:1)<br>
+	9. JCC (0:1)<br>
+	10. FaZzY (0:2)<br>
+<br>
+103. #wazzza (985) +5<br>
+-22|-11|+1|-12|-9|-9|-2<br>
 	2. Artimal_PL (5:10)<br>
 	4. shunrai (1:5)<br>
 	6. MadDookie (21:23)<br>
@@ -1021,44 +1026,66 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. eLemeNt. (2:4)<br>
 	10. FaZzY (2:8)<br>
 <br>
-104. #Viper715 (978) 0<br>
+104. #marcsync (984) -5<br>
+-1|+6|+4|+3|+3|-6|-3|-2|-6|-2<br>
+	1. croissant (3:4)<br>
+	3. pablo55 (1:0)<br>
+	4. shunrai (1:2)<br>
+	5. dieHaPpY (1:2)<br>
+	6. MadDookie (62:82)<br>
+	7. hobbes313 (9:15)<br>
+	8. eLemeNt. (17:17)<br>
+	9. JCC (7:6)<br>
+	10. FaZzY (4:6)<br>
+<br>
+105. #teapartyer (984) 0<br>
+-6<br>
+<br>
+106. #kigold (984) -7<br>
+-13|-22|-20|-1<br>
+	1. croissant (1:1)<br>
+	3. pablo55 (0:1)<br>
+	6. MadDookie (2:1)<br>
+	7. hobbes313 (0:3)<br>
+	8. eLemeNt. (1:1)<br>
+<br>
+107. #Viper715 (978) 0<br>
 +11|+16|+15|+12|+18|+12|+1|-1|-7|-2<br>
 	1. croissant (7:11)<br>
 	2. Artimal_PL (0:2)<br>
 	3. pablo55 (2:4)<br>
 	4. shunrai (0:1)<br>
 	5. dieHaPpY (2:6)<br>
-	6. MadDookie (60:76)<br>
+	6. MadDookie (41:56)<br>
 	7. hobbes313 (5:2)<br>
 	8. eLemeNt. (12:16)<br>
 	10. FaZzY (5:9)<br>
 <br>
-105. #BigUU (977) -2<br>
-+9|+5|0|-19|-11|-5|-11|-6|-6|-4<br>
+108. #BigUU (978) 0<br>
++10|+5|+1|-19|-10|-5|-11|-6|-5|-4<br>
 	1. croissant (6:5)<br>
 	2. Artimal_PL (1:10)<br>
 	3. pablo55 (15:13)<br>
 	4. shunrai (8:9)<br>
 	5. dieHaPpY (4:3)<br>
-	6. MadDookie (43:55)<br>
+	6. MadDookie (33:38)<br>
 	7. hobbes313 (7:5)<br>
 	10. FaZzY (1:1)<br>
 <br>
-106. #edgard (974) +3<br>
-0|+14|+21|+34|-1|-16|+2|+14|-1|+7<br>
-	3. pablo55 (0:5)<br>
-	7. hobbes313 (0:1)<br>
-	9. JCC (0:1)<br>
-	10. FaZzY (0:2)<br>
-<br>
-107. #spookydoor (971) 0<br>
+109. #spookydoor (971) 0<br>
 -28|-28|-15|-9|-7|-4<br>
 	6. MadDookie (6:9)<br>
 	8. eLemeNt. (4:3)<br>
 	10. FaZzY (0:1)<br>
 <br>
-108. #mr.django (970) 0<br>
--20|-3|+1<br>
+110. #deWar (969) 0<br>
+-37|-31|-28|-22|-20|-20|-6|0|-2<br>
+	2. Artimal_PL (2:4)<br>
+	3. pablo55 (0:1)<br>
+	6. MadDookie (3:8)<br>
+<br>
+111. #mr.django (967) -3<br>
+-23|-6|-1<br>
 	1. croissant (4:6)<br>
 	4. shunrai (0:1)<br>
 	6. MadDookie (14:20)<br>
@@ -1067,39 +1094,53 @@ Recent win rates against top 10 over the past 21 days<br>
 	9. JCC (0:5)<br>
 	10. FaZzY (1:2)<br>
 <br>
-109. #deWar (969) 0<br>
--37|-31|-28|-22|-20|-20|-6|0|-2<br>
-	2. Artimal_PL (2:4)<br>
-	3. pablo55 (0:1)<br>
-	6. MadDookie (3:8)<br>
+112. #judasniels (967) +2<br>
+-23|-15|+2|-5|+1|0<br>
+	1. croissant (3:2)<br>
+	2. Artimal_PL (0:1)<br>
+	6. MadDookie (3:16)<br>
+	7. hobbes313 (2:4)<br>
+	8. eLemeNt. (5:6)<br>
 <br>
-110. #jennygirl (968) +5<br>
-+15|+9|0|-5|-11|+8|+5|+4|+4|+1<br>
+113. #dadedread786 (966) +11<br>
+-4|-8|-10|-1|-3|0|+3|+4|+4|+5<br>
+	1. croissant (9:10)<br>
+	2. Artimal_PL (2:3)<br>
+	3. pablo55 (24:24)<br>
+	4. shunrai (0:1)<br>
+	5. dieHaPpY (4:2)<br>
+	6. MadDookie (81:141)<br>
+	8. eLemeNt. (18:33)<br>
+	9. JCC (0:3)<br>
+	10. FaZzY (2:17)<br>
+<br>
+114. #jennygirl (965) -2<br>
++12|+7|-2|-8|-14|+6|+3|+1|+1|-2<br>
 	1. croissant (2:8)<br>
 	3. pablo55 (2:1)<br>
 	4. shunrai (9:3)<br>
 	5. dieHaPpY (0:1)<br>
-	6. MadDookie (60:49)<br>
+	6. MadDookie (64:51)<br>
 	7. hobbes313 (1:2)<br>
 	8. eLemeNt. (6:8)<br>
 	9. JCC (2:1)<br>
 	10. FaZzY (2:6)<br>
 <br>
-111. #cenkayhan (964) 0<br>
--29|-6<br>
+115. #cenkayhan (963) 0<br>
+-29|-7<br>
 	6. MadDookie (2:1)<br>
 	10. FaZzY (0:2)<br>
 <br>
-112. #Yulia1984 (962) 0<br>
+116. #Yulia1984 (962) 0<br>
 +16|+14|+17|+16|+6|+3|+1|-2|+1|+2<br>
 	1. croissant (1:7)<br>
 	3. pablo55 (3:4)<br>
 	4. shunrai (1:1)<br>
-	6. MadDookie (16:36)<br>
+	6. MadDookie (16:34)<br>
 	7. hobbes313 (3:1)<br>
 	8. eLemeNt. (6:6)<br>
 <br>
-113. #theDude (960) 0<br>
+117. #theDude (960) 0<br>
 -48|-50|-35|-31|-21|-24|-16|-11|-12|+2<br>
 	1. croissant (2:3)<br>
 	4. shunrai (0:2)<br>
@@ -1108,14 +1149,17 @@ Recent win rates against top 10 over the past 21 days<br>
 	7. hobbes313 (0:1)<br>
 	9. JCC (1:1)<br>
 <br>
-114. #jantheman (958) 0<br>
-+14|+22|-29|-14|-38|-7|+12|+29|+27|+8<br>
-	3. pablo55 (0:2)<br>
-	5. dieHaPpY (1:7)<br>
-	9. JCC (1:3)<br>
+118. #patzoka (956) 0<br>
+-57|-49|-32|-19|-8|-1|-6|-1<br>
+	6. MadDookie (2:8)<br>
+	7. hobbes313 (4:1)<br>
 <br>
-115. #eldendestar (956) -3<br>
--26|-14|-18|-3<br>
+119. #XaosTX (954) -1<br>
+-34|-41|-41|-51|-23|-32|-29|-3|+5|-3<br>
+	7. hobbes313 (1:0)<br>
+<br>
+120. #eldendestar (953) -3<br>
+-29|-17|-22|-7<br>
 	2. Artimal_PL (3:4)<br>
 	3. pablo55 (1:0)<br>
 	5. dieHaPpY (2:8)<br>
@@ -1123,188 +1167,174 @@ Recent win rates against top 10 over the past 21 days<br>
 	8. eLemeNt. (7:27)<br>
 	10. FaZzY (0:1)<br>
 <br>
-116. #patzoka (956) 0<br>
--57|-49|-32|-19|-8|-1|-6|-1<br>
-	6. MadDookie (2:8)<br>
-	7. hobbes313 (4:1)<br>
+121. #jantheman (949) -8<br>
++13|-38|-22|-46|-16|+3|+21|+19|-1|-8<br>
+	1. croissant (0:1)<br>
+	3. pablo55 (0:2)<br>
+	5. dieHaPpY (1:7)<br>
+	9. JCC (1:3)<br>
 <br>
-117. #dadedread786 (955) 0<br>
--20|-15|-20|-21|-12|-14|-11|-9|-8|-7<br>
-	1. croissant (9:10)<br>
-	2. Artimal_PL (2:3)<br>
-	3. pablo55 (24:24)<br>
-	4. shunrai (0:1)<br>
-	5. dieHaPpY (4:1)<br>
-	6. MadDookie (87:141)<br>
-	7. hobbes313 (1:1)<br>
-	8. eLemeNt. (18:33)<br>
-	9. JCC (0:3)<br>
-	10. FaZzY (2:14)<br>
-<br>
-118. #XaosTX (954) +1<br>
--34|-40|-41|-50|-22|-32|-28|-2|+6|-2<br>
-	7. hobbes313 (1:0)<br>
-<br>
-119. #Wildhat-972 (948) +4<br>
-+20|+13|+6|+2|+1|+6|+5|+4|-1|+2<br>
+122. #Wildhat-972 (947) -1<br>
++19|+12|+5|+1|0|+5|+4|+3|-2|+1<br>
 	1. croissant (6:6)<br>
-	2. Artimal_PL (1:1)<br>
 	3. pablo55 (9:9)<br>
 	4. shunrai (1:2)<br>
 	5. dieHaPpY (0:1)<br>
-	6. MadDookie (42:57)<br>
-	7. hobbes313 (3:11)<br>
-	8. eLemeNt. (5:12)<br>
+	6. MadDookie (41:51)<br>
+	7. hobbes313 (3:9)<br>
+	8. eLemeNt. (4:14)<br>
 	10. FaZzY (3:6)<br>
 <br>
-120. #Gervi (945) -1<br>
--18|-24|-14|-15|-15|-10|-19|-12|-4|-3<br>
-	1. croissant (12:11)<br>
-	2. Artimal_PL (3:7)<br>
-	3. pablo55 (7:10)<br>
-	4. shunrai (3:3)<br>
-	5. dieHaPpY (3:10)<br>
-	6. MadDookie (74:110)<br>
-	7. hobbes313 (1:9)<br>
-	8. eLemeNt. (8:16)<br>
-	9. JCC (3:8)<br>
-	10. FaZzY (1:1)<br>
-<br>
-121. #halcy0n3 (945) 0<br>
+123. #halcy0n3 (945) 0<br>
 -8|-11|-10|-15|-3|+2|+6|-7|-5|+5<br>
 	3. pablo55 (17:16)<br>
 	6. MadDookie (9:20)<br>
 <br>
-122. #mcboatface (945) -1<br>
--14|-1|+6|+2|+8|+5|+7|+8|+9|0<br>
-	1. croissant (6:13)<br>
+124. #mcboatface (945) 0<br>
+-14|-1|+6|+2|+9|+6|+7|+8|+9|0<br>
+	1. croissant (6:12)<br>
 	2. Artimal_PL (5:6)<br>
 	3. pablo55 (5:12)<br>
 	4. shunrai (3:2)<br>
-	5. dieHaPpY (10:7)<br>
-	6. MadDookie (60:73)<br>
+	5. dieHaPpY (11:7)<br>
+	6. MadDookie (52:71)<br>
 	7. hobbes313 (10:13)<br>
 	8. eLemeNt. (1:0)<br>
 	9. JCC (2:8)<br>
 	10. FaZzY (2:3)<br>
 <br>
-123. #panadool (940) -1<br>
--14|-14|-12|-12|-15|-19|-9|-5|0|0<br>
-	1. croissant (1:0)<br>
-	4. shunrai (6:5)<br>
-	5. dieHaPpY (1:0)<br>
-	6. MadDookie (6:7)<br>
-	7. hobbes313 (3:6)<br>
-	10. FaZzY (2:2)<br>
+125. #Gervi (941) -4<br>
+-28|-17|-19|-19|-14|-23|-15|-8|-7|-5<br>
+	1. croissant (13:12)<br>
+	2. Artimal_PL (3:7)<br>
+	3. pablo55 (7:10)<br>
+	4. shunrai (3:3)<br>
+	5. dieHaPpY (5:16)<br>
+	6. MadDookie (78:119)<br>
+	7. hobbes313 (1:9)<br>
+	8. eLemeNt. (8:16)<br>
+	9. JCC (3:8)<br>
+	10. FaZzY (1:1)<br>
 <br>
-124. #BurlyWheel~628 (938) -2<br>
--24|-16|-16|-3|-10|-10|-15|-7|-8|-16<br>
+126. #BurlyWheel~628 (939) +1<br>
+-15|-15|-2|-9|-9|-14|-6|-7|-15|0<br>
 	1. croissant (1:4)<br>
 	3. pablo55 (3:4)<br>
 	4. shunrai (2:2)<br>
-	6. MadDookie (39:50)<br>
+	6. MadDookie (41:50)<br>
 	7. hobbes313 (3:10)<br>
 	8. eLemeNt. (3:3)<br>
 	9. JCC (0:1)<br>
 	10. FaZzY (3:7)<br>
 <br>
-125. #meltedcheese (936) +3<br>
+127. #panadool (938) -1<br>
+-16|-16|-14|-13|-16|-21|-11|-7|-1|-1<br>
+	1. croissant (1:0)<br>
+	4. shunrai (6:5)<br>
+	5. dieHaPpY (1:0)<br>
+	6. MadDookie (6:7)<br>
+	7. hobbes313 (3:6)<br>
+	8. eLemeNt. (0:1)<br>
+	10. FaZzY (2:2)<br>
+<br>
+128. #meltedcheese (936) 0<br>
 +32|+20|+19|+12|0|+4|+10|-4|-1|+2<br>
 	3. pablo55 (1:1)<br>
 	6. MadDookie (7:9)<br>
 	8. eLemeNt. (0:2)<br>
 	9. JCC (1:1)<br>
 <br>
-126. #LastTimeLord (935) 0<br>
-+18|+10|+14|+12|+15|+16|+8|+6|+4|-2<br>
+129. #LastTimeLord (934) -1<br>
++9|+13|+11|+14|+15|+7|+5|+3|-3|-2<br>
 	1. croissant (2:3)<br>
 	2. Artimal_PL (0:3)<br>
 	3. pablo55 (8:12)<br>
 	5. dieHaPpY (5:11)<br>
-	6. MadDookie (53:72)<br>
+	6. MadDookie (54:76)<br>
 	7. hobbes313 (4:4)<br>
 	8. eLemeNt. (2:2)<br>
-	10. FaZzY (7:9)<br>
+	10. FaZzY (10:13)<br>
 <br>
-127. #ModernFlame~336 (930) -4<br>
--7|-3|-15|-16|-21|-15|-5|-1|+3|-2<br>
+130. #ModernFlame~336 (929) -1<br>
+-8|-4|-16|-17|-22|-16|-5|-2|+2|-2<br>
 	1. croissant (1:8)<br>
 	2. Artimal_PL (0:3)<br>
 	3. pablo55 (2:4)<br>
 	4. shunrai (21:12)<br>
-	5. dieHaPpY (1:1)<br>
-	6. MadDookie (35:64)<br>
-	7. hobbes313 (3:8)<br>
+	5. dieHaPpY (3:4)<br>
+	6. MadDookie (35:68)<br>
+	7. hobbes313 (4:12)<br>
 	8. eLemeNt. (6:10)<br>
 	9. JCC (1:3)<br>
 	10. FaZzY (0:1)<br>
 <br>
-128. #statenisland (927) +3<br>
+131. #statenisland (927) 0<br>
 +8|-8|+1|+15|+12|+13|+12|+19|+17|+11<br>
 	3. pablo55 (2:5)<br>
 	6. MadDookie (5:12)<br>
 	10. FaZzY (1:1)<br>
 <br>
-129. #cryp7 (920) 0<br>
--42|-34|-27|-23|-27|-29|-22|-20|-10|-2<br>
+132. #cryp7 (922) +3<br>
+-40|-31|-25|-21|-25|-26|-19|-17|-7|0<br>
 	1. croissant (2:2)<br>
 	2. Artimal_PL (1:4)<br>
 	3. pablo55 (18:17)<br>
 	4. shunrai (0:4)<br>
 	5. dieHaPpY (1:7)<br>
-	6. MadDookie (41:70)<br>
+	6. MadDookie (43:72)<br>
 	7. hobbes313 (0:10)<br>
-	10. FaZzY (2:2)<br>
+	10. FaZzY (4:4)<br>
 <br>
-130. #GeeFive (916) +5<br>
--44|-34|-25|-27|-20|-11|+5|+1|-1|+4<br>
+133. #GeeFive (914) -2<br>
+-45|-35|-27|-29|-22|-13|+3|-1|-2|+2<br>
 	1. croissant (1:0)<br>
 	6. MadDookie (9:15)<br>
 	7. hobbes313 (3:4)<br>
 	8. eLemeNt. (4:5)<br>
 	10. FaZzY (5:0)<br>
 <br>
-131. #MR_JABROT_X (906) 0<br>
+134. #MR_JABROT_X (906) 0<br>
 -62|-50|-57|-67|-56|-44|-26|-20|-6|+3<br>
 	1. croissant (5:7)<br>
 	3. pablo55 (1:3)<br>
 	5. dieHaPpY (8:4)<br>
-	6. MadDookie (20:25)<br>
-	7. hobbes313 (8:18)<br>
+	6. MadDookie (17:19)<br>
+	7. hobbes313 (6:8)<br>
 	8. eLemeNt. (1:2)<br>
 <br>
-132. #MagicFox~931 (900) 0<br>
-+2|+4|+8|+5|+6|+16|+21|+23|+18|+12<br>
+135. #MagicFox~931 (904) +3<br>
++5|+8|+11|+8|+9|+19|+24|+26|+21|+16<br>
 	1. croissant (0:2)<br>
 	6. MadDookie (13:8)<br>
 	9. JCC (0:3)<br>
 	10. FaZzY (1:1)<br>
 <br>
-133. #unbridled (892) -4<br>
--22|-24|-25|-20|-17|-19|-16|-5|-6|-5<br>
-	1. croissant (2:12)<br>
+136. #unbridled (893) +1<br>
+-21|-23|-24|-18|-16|-18|-15|-3|-4|-3<br>
+	1. croissant (2:13)<br>
 	2. Artimal_PL (3:4)<br>
 	3. pablo55 (0:1)<br>
-	6. MadDookie (30:61)<br>
+	5. dieHaPpY (2:2)<br>
+	6. MadDookie (28:54)<br>
 	7. hobbes313 (3:7)<br>
-	8. eLemeNt. (13:22)<br>
+	8. eLemeNt. (13:19)<br>
 	10. FaZzY (1:2)<br>
 <br>
-134. #MarbleMango~469 (882) -5<br>
--27|-24|-24|-28|-32|-22|-17|-11|-12|-4<br>
+137. #MarbleMango~469 (885) +3<br>
+-25|-21|-22|-25|-30|-19|-14|-9|-9|-2<br>
 	1. croissant (1:1)<br>
 	3. pablo55 (5:6)<br>
 	4. shunrai (1:1)<br>
-	6. MadDookie (11:22)<br>
+	6. MadDookie (8:15)<br>
 <br>
-135. #amra9 (879) 0<br>
--80|-61|-50|-33|-28|-27|-27|-11|+11|+1<br>
+138. #amra9 (880) +1<br>
+-80|-60|-49|-32|-27|-26|-26|-11|+11|+2<br>
 	3. pablo55 (0:1)<br>
 	6. MadDookie (0:1)<br>
 	8. eLemeNt. (0:2)<br>
 <br>
-136. #iprintps (860) 0<br>
-+10|+11|+6|+6|+11|+5|+8|+9|+6|+6<br>
+139. #iprintps (860) 0<br>
++11|+6|+5|+11|+5|+8|+9|+6|+6|+1<br>
 	1. croissant (5:7)<br>
 	2. Artimal_PL (0:1)<br>
 	3. pablo55 (2:4)<br>
